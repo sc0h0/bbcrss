@@ -5,9 +5,9 @@
 5. [Tokyo Olympics: Team USA beat France 87-82 to claim fourth straight gold medal](https://www.bbc.co.uk/sport/olympics/58125670) - USA beat France to win their fourth basketball gold medal in a row.
 6. [Spain defeated by Brazil for men's football gold](https://www.bbc.co.uk/sport/football/58129614) - Brazil defend their Olympic men's football title following a dramatic extra-time victory over Spain.
 7. [Bat killed by cat after record 1,200-mile journey](https://www.bbc.co.uk/news/uk-58128773) - A record-breaking bat - the size of a human thumb - is discovered in Russia after flying from London.
-8. [Belarus crackdown fails to crush opposition spirit](https://www.bbc.co.uk/news/world-europe-58114107) - Beaten up, jailed, forced into exile - protesters are still battling against President Lukashenko.
-9. [Eurovision, Euro 2020 and Tokyo 2020 Olympics - Italy's golden summer](https://www.bbc.co.uk/sport/olympics/58112120) - "This is Italy's moment of glory" - after Eurovision & Euro 2020 victories, an Italian Wimbledon finalist, now comes Olympics history in Tokyo.
-10. [Will Turkey's bees return after the wildfires?](https://www.bbc.co.uk/news/world-europe-58108527) - Residents of Marmaris, Turkey, are mourning their bees and honey, lost to fires.
+8. [Malta: The teenagers pulled from the sea and accused of terrorism](https://www.bbc.co.uk/news/world-57988934) - How three teenagers rescued from the Mediterranean Sea ended up in Malta accused of terrorism.
+9. [Belarus crackdown fails to crush opposition spirit](https://www.bbc.co.uk/news/world-europe-58114107) - Beaten up, jailed, forced into exile - protesters are still battling against President Lukashenko.
+10. [Eurovision, Euro 2020 and Tokyo 2020 Olympics - Italy's golden summer](https://www.bbc.co.uk/sport/olympics/58112120) - "This is Italy's moment of glory" - after Eurovision & Euro 2020 victories, an Italian Wimbledon finalist, now comes Olympics history in Tokyo.
 11. [What is Fox News host Carlson doing in Hungary?](https://www.bbc.co.uk/news/world-europe-58104200) - The controversial news host is the latest high-profile ally of Hungary's embattled prime minister.
 12. [Brexit rules burden bands touring in EU](https://www.bbc.co.uk/news/entertainment-arts-58006647) - One band explain what it's been like trying to tour in France in the age of Covid and Brexit.
 13. [What are the big aims for the UN climate summit?](https://www.bbc.co.uk/news/science-environment-56901261) - The annual climate change summit is being held in Glasgow - who's going and what's at stake?
