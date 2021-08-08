@@ -5,7 +5,7 @@
 5. [Cuba allows small and medium-sized private businesses](https://www.bbc.co.uk/news/world-latin-america-58132000) - Up to 100 employees will now be allowed in private companies, in a major shift after mass protests.
 6. [Larry Page: Google co-founder granted New Zealand residency](https://www.bbc.co.uk/news/world-asia-58128475) - The country's immigration services say he applied under a category for wealthy investors.
 7. [Bat killed by cat after record 1,200-mile journey](https://www.bbc.co.uk/news/uk-58128773) - A record-breaking bat - the size of a human thumb - is discovered in Russia after flying from London.
-8. [Famous Central Park owl killed in crash with van](https://www.bbc.co.uk/news/world-us-canada-58127413) - Barry the beloved owl was hit by a maintenance vehicle in the park while searching for food.
+8. [Famous Central Park owl killed in crash with truck](https://www.bbc.co.uk/news/world-us-canada-58127413) - Barry the beloved owl was hit by a maintenance vehicle in the park while searching for food.
 9. [Tokyo Olympics: German pentathlon coach thrown out for punching horse](https://www.bbc.co.uk/sport/olympics/58127366) - A German coach who appeared to strike a horse with her fist during the modern pentathlon is thrown out of the Olympics.
 10. [Mercer Street: Tanker blast evidence points to Iran, says US](https://www.bbc.co.uk/news/world-middle-east-58124489) - The attack on the Israeli-operated merchant tanker last week killed two people.
 11. [Tokyo attack: Knife-wielding man injures 10 on train](https://www.bbc.co.uk/news/world-asia-58125414) - The suspect allegedly told police he was angry when he saw women who "looked happy".

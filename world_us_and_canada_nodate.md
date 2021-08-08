@@ -1,6 +1,6 @@
 1. [Tokyo Olympics: Team USA beat France 87-82 to claim fourth straight gold medal](https://www.bbc.co.uk/sport/olympics/58125670) - USA beat France to win their fourth basketball gold medal in a row.
 2. [Capitol riot: Off-duty Seattle police officers fired over assault](https://www.bbc.co.uk/news/world-us-canada-58088868) - The officers stood by as Donald Trump's supporters stormed the government building, an inquiry says.
-3. [Famous Central Park owl killed in crash with van](https://www.bbc.co.uk/news/world-us-canada-58127413) - Barry the beloved owl was hit by a maintenance vehicle in the park while searching for food.
+3. [Famous Central Park owl killed in crash with truck](https://www.bbc.co.uk/news/world-us-canada-58127413) - Barry the beloved owl was hit by a maintenance vehicle in the park while searching for food.
 4. [Larry Page: Google co-founder granted New Zealand residency](https://www.bbc.co.uk/news/world-asia-58128475) - The country's immigration services say he applied under a category for wealthy investors.
 5. [Dixie Fire: California town decimated by largest active US blaze](https://www.bbc.co.uk/news/world-us-canada-58123369) - The US' largest active fire warped street lights and destroyed the town of Greenville, California.
 6. [US expands citizenship for children born abroad in win for same-sex couples](https://www.bbc.co.uk/news/world-us-canada-58123371) - Children born through surrogacy or IVF can now qualify, even without being related to the US parent.
