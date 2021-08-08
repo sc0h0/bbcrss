@@ -29,4 +29,4 @@
 29. [Sir Keir Starmer: 'Shetland oil field should be blocked'](https://www.bbc.co.uk/news/uk-scotland-58103993) - The Labour leader says approval should not be given for a new oil and gas development west of Shetland.
 30. [PM's full interview on visit to Scotland](https://www.bbc.co.uk/news/uk-scotland-58094228) - Boris Johnson sets out views on the UK working together, the COP26 conference and Scottish drug deaths.
 31. [Rangers: Do Steven Gerrard's side have cause for concern before Malmo tie?](https://www.bbc.co.uk/sport/football/58130716) - With their critical Champions League qualifier against Malmo looming, do Rangers have reasons to be concerned?
-32. [Ross County: Does Malky Mackay's 'threadbare squad' face toughest survival challenge yet?](https://www.bbc.co.uk/sport/football/58074861) - Following back-to-back 10th-placed finishes, do Ross County face their toughest test yet in preserving their top-flight status after a pre-season of disruption?
+32. [Listen: Off the Ball on BBC Radio Scotland](https://www.bbc.co.uk/sport/av/football/58084401) - Ryan Bradshaw and Amy Irons guest present Off the Ball on BBC Radio Scotland.

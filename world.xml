@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 08 Aug 2021 10:12:55 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Aug 2021 11:14:03 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -142,6 +142,13 @@
             <pubDate>Fri, 06 Aug 2021 23:05:52 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[North Korea floods: Homes destroyed and thousands evacuated]]></title>
+            <description><![CDATA[The state broadcaster says some regions have seen over 50cm (20in) of rain in three days.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58135256</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58135256</guid>
+            <pubDate>Sun, 08 Aug 2021 10:44:13 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Greece fires: Hundreds rescued by coastguard]]></title>
             <description><![CDATA[The coastguard moved 650 people from Limni, in the north of the island of Evia.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-58128033</link>
@@ -168,13 +175,6 @@
             <link>https://www.bbc.co.uk/news/world-asia-58110846</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58110846</guid>
             <pubDate>Fri, 06 Aug 2021 23:08:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ICYMI: Surfing, an Olympic maze and a sheep stampede]]></title>
-            <description><![CDATA[Some of the stories you may have missed this week.]]></description>
-            <link>https://www.bbc.co.uk/news/world-58101466</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-58101466</guid>
-            <pubDate>Fri, 06 Aug 2021 23:07:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[US tops final medal table at Tokyo Olympics]]></title>
