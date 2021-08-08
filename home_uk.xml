@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 08 Aug 2021 15:49:49 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Aug 2021 16:11:54 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -41,7 +41,7 @@
             <description><![CDATA[Ferries carry tourists and locals to safety from Greece's second-largest island, Evia.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-58138614</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58138614</guid>
-            <pubDate>Sun, 08 Aug 2021 14:05:09 GMT</pubDate>
+            <pubDate>Sun, 08 Aug 2021 16:10:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Scotland warned 'cases will rise' as restrictions end]]></title>
@@ -58,25 +58,11 @@
             <pubDate>Sun, 08 Aug 2021 11:05:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[North Korea: Kim Jong-un calls for relief in flood-hit areas]]></title>
-            <description><![CDATA[More than 1,000 homes have been damaged and about 5,000 people evacuated as a result of flooding.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58135753</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58135753</guid>
-            <pubDate>Sun, 08 Aug 2021 10:02:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Climate change: Time running out to stop catastrophe - Alok Sharma]]></title>
-            <description><![CDATA[Despite his warning, the Tory climate chief does not rule out future fossil fuel projects in the UK.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58132939</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58132939</guid>
-            <pubDate>Sun, 08 Aug 2021 13:19:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Wood Green stabbing: Man charged with social worker attack]]></title>
-            <description><![CDATA[Sulai Bukhari is charged with attempted murder after the man and two police officers were attacked.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-london-58130078</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-58130078</guid>
-            <pubDate>Sun, 08 Aug 2021 10:52:09 GMT</pubDate>
+            <title><![CDATA[Afghanistan troop withdrawal a strategic mistake, warns ex-general]]></title>
+            <description><![CDATA[Gen Sir Richard Barrons says it sends allies the wrong message and risks a resurgence of terrorism.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-58139590</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58139590</guid>
+            <pubDate>Sun, 08 Aug 2021 15:58:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid PCR costs can be excessive and exploitative, says Javid]]></title>
@@ -84,6 +70,20 @@
             <link>https://www.bbc.co.uk/news/business-58137461</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58137461</guid>
             <pubDate>Sun, 08 Aug 2021 15:03:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[North Korea: Kim Jong-un calls for relief in flood-hit areas]]></title>
+            <description><![CDATA[More than 1,000 homes have been damaged and about 5,000 people evacuated as a result of flooding.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58135753</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58135753</guid>
+            <pubDate>Sun, 08 Aug 2021 10:02:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bukayo Saka: Arsenal forward clapped on to pitch by Tottenham fans in pre-season friendly]]></title>
+            <description><![CDATA[Tottenham fans applaud Arsenal's Bukayo Saka on to the pitch on his first appearance since Euro 2020.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58138453</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58138453</guid>
+            <pubDate>Sun, 08 Aug 2021 16:01:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Branson's Virgin Atlantic considers stock market listing]]></title>
@@ -100,7 +100,7 @@
             <pubDate>Sun, 08 Aug 2021 11:12:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Part of 'Banksy' artwork in Lowestoft removed over flood fears]]></title>
+            <title><![CDATA[Part of 'Banksy' artwork near Lowestoft removed over flood fears]]></title>
             <description><![CDATA[A small, metal "boat" under a painting of three children was taken away by contractors, a council says.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-suffolk-58136413</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-suffolk-58136413</guid>
@@ -212,18 +212,11 @@
             <pubDate>Fri, 06 Aug 2021 23:16:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[First England-India Test drawn as rain ruins final day]]></title>
-            <description><![CDATA[England's first Test against India is abandoned as a draw after persistent rain prevents any play on the final day at Trent Bridge.]]></description>
+            <title><![CDATA['The weather robbed us all' - first England-India Test drawn as rain ruins final day]]></title>
+            <description><![CDATA[England captain Joe Root says the weather "robbed us all" after a final-day washout in the first Test against India at Trent Bridge.]]></description>
             <link>https://www.bbc.co.uk/sport/cricket/58137389</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/58137389</guid>
-            <pubDate>Sun, 08 Aug 2021 14:53:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Saka clapped by Spurs fans on Arsenal return]]></title>
-            <description><![CDATA[Tottenham fans applaud Arsenal's Bukayo Saka on to the pitch on his first appearance since Euro 2020.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58138453</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58138453</guid>
-            <pubDate>Sun, 08 Aug 2021 15:33:24 GMT</pubDate>
+            <pubDate>Sun, 08 Aug 2021 16:01:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: Relive every Team GB gold medal at 2020 Games]]></title>
@@ -252,6 +245,13 @@
             <link>https://www.bbc.co.uk/sport/av/olympics/58133161</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/58133161</guid>
             <pubDate>Sun, 08 Aug 2021 03:31:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Hindsight will be playing havoc with the British and Irish Lions']]></title>
+            <description><![CDATA[Matt Dawson says hindsight will be playing havoc with the Lions players after a narrow loss in the series decider against South Africa.]]></description>
+            <link>https://www.bbc.co.uk/sport/rugby-union/58136803</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/58136803</guid>
+            <pubDate>Sun, 08 Aug 2021 11:20:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: Closing ceremony marks end of behind-closed-doors Games]]></title>
