@@ -26,4 +26,4 @@
 26. [Rhybudd i nofwyr am garthion a llygredd mewn afonydd](https://www.bbc.co.uk/newyddion/58031328) - Cafodd carthion eu colli i afonydd yng Nghymru dros 100,000 o weithiau yn 2020 yn unig.
 27. [Nofiwr yn y Gemau Olympaidd yn diolch i gapel Resolfen](https://www.bbc.co.uk/newyddion/58120982) - Daniel Jervis yn diolch i gapeli yn Resolfen a Rhydaman am eu gweddïau cyn iddo nofio yn y ras 1,500m dull rhydd.
 28. [Pump uchafbwynt yr Eisteddfod AmGen](https://www.bbc.co.uk/newyddion/58105453) - Er fod yna ddim Maes, roedd hi dal yn Steddfod a hanner.
-29. [De Affrica 19-16 Llewod](https://www.bbc.co.uk/newyddion/58132129) - Y Llewod yn colli yn y trydydd prawf o 19-16 gyda De Affrica yn cipio'r gyfres o 2-1.
+29. [Buddugoliaeth rwydd i Forgannwg yn erbyn Nottingham](https://www.bbc.co.uk/newyddion/58139614) - Buddugoliaeth Morgannwg yn y gystadleuaeth undydd yn eu rhoi ar frig y grŵp.
