@@ -1,6 +1,6 @@
 1. [Dungannon: PSNI given more time to question child murder suspect](https://www.bbc.co.uk/news/uk-northern-ireland-58136914) - The PSNI are given an extra 36 hours to hold a man arrested after the death of a two-year-old.
 2. [Belfast flooding: Clean-up in Ardoyne after weekend flooding](https://www.bbc.co.uk/news/uk-northern-ireland-58138539) - Several centimetres of raw sewage built up at the back of one home as drains struggled to cope.
-3. [Petrol bomb thrown at police in Dungannon](https://www.bbc.co.uk/news/uk-northern-ireland-58138534) - Officers say up to 30 people wearing balaclavas blocked a road and set fire to furniture on Saturday.
+3. [Dungannon: Petrol bomb thrown during disorder](https://www.bbc.co.uk/news/uk-northern-ireland-58138534) - Officers say up to 30 people wearing balaclavas blocked a road and set fire to furniture on Saturday.
 4. [Ballymurphy march marks 50th anniversary of Army shootings](https://www.bbc.co.uk/news/uk-northern-ireland-58136913) - Organisers say they oppose proposed legislation to end Troubles-era prosecutions.
 5. [Tokyo Olympics: Ireland's Kellie Harrington wins Olympic boxing gold with victory in lightweight final](https://www.bbc.co.uk/sport/olympics/58130534) - Irish boxer Kellie Harrington wins an Olympic gold medal after defeating Brazil's Beatriz Ferreira in the women's lightweight final.
 6. [Covid-19: One more Covid-linked death and 1,129 new cases](https://www.bbc.co.uk/news/uk-northern-ireland-58138536) - The total number of deaths linked to Covid-19 in NI since the start of the pandemic is 2,220.
