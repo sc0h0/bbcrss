@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 08 Aug 2021 07:10:09 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Aug 2021 07:23:39 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -30,13 +30,6 @@
             <pubDate>Sun, 08 Aug 2021 04:15:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Greece wildfires: PM describes 'nightmarish summer']]></title>
-            <description><![CDATA[Thousands have been evacuated as wildfires continue to ravage parts of the country.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58132679</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58132679</guid>
-            <pubDate>Sat, 07 Aug 2021 22:33:06 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Climate change: Time running out to stop catastrophe - Alok Sharma]]></title>
             <description><![CDATA[Despite his warning, the Tory climate chief does not rule out future fossil fuel projects in the UK.]]></description>
             <link>https://www.bbc.co.uk/news/uk-58132939</link>
@@ -44,11 +37,25 @@
             <pubDate>Sun, 08 Aug 2021 00:36:33 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid-19: Quarantine-free travel from France, and NHS waits could hit 14m]]></title>
+            <description><![CDATA[Five things you need to know about the coronavirus pandemic this Sunday.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-58133477</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58133477</guid>
+            <pubDate>Sun, 08 Aug 2021 07:17:37 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Tokyo Olympics: Jason Kenny wins seventh gold but Laura Kenny reign as omnium champion over]]></title>
             <description><![CDATA[Jason Kenny becomes the first Briton to win seven Olympic golds by defending his keirin title - but wife Laura's reign as women's omnium champion has ended.]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/58133154</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58133154</guid>
             <pubDate>Sun, 08 Aug 2021 05:42:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Greece wildfires: PM describes 'nightmarish summer']]></title>
+            <description><![CDATA[Thousands have been evacuated as wildfires continue to ravage parts of the country.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58132679</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58132679</guid>
+            <pubDate>Sat, 07 Aug 2021 22:33:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Peter Kay: Thousands watch comic make live return at charity event]]></title>
@@ -63,13 +70,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-gloucestershire-58133468</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-gloucestershire-58133468</guid>
             <pubDate>Sun, 08 Aug 2021 02:15:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Capitol riot: Off-duty Seattle police officers fired over assault]]></title>
-            <description><![CDATA[The officers stood by as Donald Trump's supporters stormed the government building, an inquiry says.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-58088868</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-58088868</guid>
-            <pubDate>Sat, 07 Aug 2021 18:03:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[NHS waiting lists could rise to 14 million in England next year - report]]></title>
@@ -241,7 +241,7 @@
         </item>
         <item>
             <title><![CDATA[Ireland's Harrington wins Olympic boxing gold ]]></title>
-            <description><![CDATA[Irish boxer Kellie Harrington wins an Olympic gold medal after defeating Brazil's Beatriz Ferreira in the women's light final.]]></description>
+            <description><![CDATA[Irish boxer Kellie Harrington wins an Olympic gold medal after defeating Brazil's Beatriz Ferreira in the women's lightweight final.]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/58130534</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58130534</guid>
             <pubDate>Sun, 08 Aug 2021 05:23:19 GMT</pubDate>
@@ -254,7 +254,7 @@
             <pubDate>Sun, 08 Aug 2021 05:53:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tokyo Olympics: Jason Kenny wins men's keirin for GB to claim seventh Olympic gold]]></title>
+            <title><![CDATA[Tokyo Olympics: GB's Jason Kenny wins the men's keirin to claim his seventh Olympic gold]]></title>
             <description><![CDATA[Watch as Jason Kenny makes history becoming the most successful British Olympian winning the men's keirin at Tokyo 2020.]]></description>
             <link>https://www.bbc.co.uk/sport/av/olympics/58133161</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/58133161</guid>
