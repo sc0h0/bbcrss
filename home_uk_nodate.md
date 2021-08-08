@@ -1,4 +1,4 @@
-1. [Tokyo Olympics: Jason Kenny becomes GB's most successful Olympian with keirin gold](https://www.bbc.co.uk/sport/olympics/58133154) - Jason Kenny becomes Great Britain's most successful Olympian of all time as he successfully defends his men's keirin title at Tokyo 2020.
+1. [Tokyo Olympics: Jason Kenny wins keirin to become first Briton with seven gold medals](https://www.bbc.co.uk/sport/olympics/58133154) - Jason Kenny becomes the first British athlete to win seven Olympic golds as he successfully defends his men's keirin title at Tokyo 2020.
 2. [Covid-19: Quarantine-free travel to France resumes as UK rules change](https://www.bbc.co.uk/news/uk-58130944) - Some travel firms report a "surge" of bookings but others say it is "too late to save the summer".
 3. [Greece wildfires: PM describes 'nightmarish summer'](https://www.bbc.co.uk/news/world-europe-58132679) - Thousands have been evacuated as wildfires continue to ravage parts of the country.
 4. [Climate change: Time running out to stop catastrophe - Alok Sharma](https://www.bbc.co.uk/news/uk-58132939) - Despite his warning, the Tory climate chief does not rule out future fossil fuel projects in the UK.
