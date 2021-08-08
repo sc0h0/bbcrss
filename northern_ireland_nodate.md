@@ -1,4 +1,4 @@
-1. [Dungannon: PSNI given more time to question child murder suspect](https://www.bbc.co.uk/news/uk-northern-ireland-58136914) - The PSNI are given an extra 36 hours to hold a man arrested after the death of a two-year-old.
+1. [Dungannon: Woman arrested over death of two-year-old girl](https://www.bbc.co.uk/news/uk-northern-ireland-58139997) - The police are also given an extra 36 hours to hold a man arrested on suspicion of murder.
 2. [Dungannon: Petrol bombs thrown during disorder](https://www.bbc.co.uk/news/uk-northern-ireland-58138534) - Officers say up to 30 people wearing balaclavas blocked a road and set fire to furniture on Saturday.
 3. [Belfast flooding: Clean-up in Ardoyne after weekend flooding](https://www.bbc.co.uk/news/uk-northern-ireland-58138539) - Several centimetres of raw sewage built up at the back of one home as drains struggled to cope.
 4. [Ballymurphy march marks 50th anniversary of Army shootings](https://www.bbc.co.uk/news/uk-northern-ireland-58136913) - Organisers say they oppose proposed legislation to end Troubles-era prosecutions.
