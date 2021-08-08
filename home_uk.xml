@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 08 Aug 2021 02:55:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Aug 2021 03:19:46 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Covid-19: Quarantine-free travel to France resumes as UK rules change]]></title>
+            <description><![CDATA[Some travel firms report a "surge" of bookings but others say it is "too late to save the summer".]]></description>
+            <link>https://www.bbc.co.uk/news/uk-58130944</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58130944</guid>
+            <pubDate>Sun, 08 Aug 2021 03:00:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Greece wildfires: PM describes 'nightmarish summer']]></title>
             <description><![CDATA[Thousands have been evacuated as wildfires continue to ravage parts of the country.]]></description>
@@ -91,13 +98,6 @@
             <link>https://www.bbc.co.uk/news/world-latin-america-58132000</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-latin-america-58132000</guid>
             <pubDate>Sat, 07 Aug 2021 20:47:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: Pubs busy as most rules end in Wales]]></title>
-            <description><![CDATA[Social distancing ends, but face masks are still needed in shops and on public transport.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-58086808</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58086808</guid>
-            <pubDate>Sat, 07 Aug 2021 17:55:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Papers: Climate catastrophe warning, and winter flu tests]]></title>
@@ -205,6 +205,13 @@
             <pubDate>Fri, 06 Aug 2021 23:16:44 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Kenny becomes GB's most successful Olympian with stunning keirin gold]]></title>
+            <description><![CDATA[Jason Kenny becomes Great Britain's most successful male Olympian of all time as he successfully defends his men's keirin title at Tokyo 2020.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/58133154</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58133154</guid>
+            <pubDate>Sun, 08 Aug 2021 03:12:07 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA['One of the great innings of all time' - Root shows why he is England's Atlas]]></title>
             <description><![CDATA[Joe Root is not the first England captain to have plenty to deal with, but few have carried the team in the way he does.]]></description>
             <link>https://www.bbc.co.uk/sport/cricket/58131890</link>
@@ -245,13 +252,6 @@
             <link>https://www.bbc.co.uk/sport/av/olympics/58126963</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/olympics/58126963</guid>
             <pubDate>Sat, 07 Aug 2021 05:59:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kid Galahad defeats Jazza Dickens to claim vacant IBF world featherweight title]]></title>
-            <description><![CDATA[Kid Galahad defeats Jazza Dickens in the 11th round of an all-British contest to claim the vacant IBF world featherweight title.]]></description>
-            <link>https://www.bbc.co.uk/sport/boxing/58130880</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/boxing/58130880</guid>
-            <pubDate>Sat, 07 Aug 2021 22:07:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: GB's Laura Kenny involved in big crash in dramatic start to women's omnium]]></title>
