@@ -22,6 +22,6 @@
 22. [Matt Dawson column: Former British and Irish Lion says hindsight will play havoc with players](https://www.bbc.co.uk/sport/rugby-union/58136803) - Matt Dawson says hindsight will be playing havoc with the Lions players after a narrow loss in the series decider against South Africa.
 23. [Lauren Price yn ennill medal aur yn y bocsio pwysau canol](https://www.bbc.co.uk/newyddion/58128546) - Lauren Price yn trechu Li Qian yn rownd derfynol y bocsio pwysau canol i ennill aur yn y Gemau Olympaidd.
 24. [Rhybudd i nofwyr am garthion a llygredd mewn afonydd](https://www.bbc.co.uk/newyddion/58031328) - Cafodd carthion eu colli i afonydd yng Nghymru dros 100,000 o weithiau yn 2020 yn unig.
-25. [Covid-19: 864 o achosion newydd wedi'u cofnodi](https://www.bbc.co.uk/newyddion/58046476) - Tair marwolaeth bellach ac 864 o achosion wedi eu cofnodi dros y 48 awr ddiwethaf, yn ôl Iechyd Cyhoeddus Cymru.
+25. [Nofiwr yn y Gemau Olympaidd yn diolch i gapel Resolfen](https://www.bbc.co.uk/newyddion/58120982) - Daniel Jervis yn diolch i gapeli yn Resolfen a Rhydaman am eu gweddïau cyn iddo nofio yn y ras 1,500m dull rhydd.
 26. [Pump uchafbwynt yr Eisteddfod AmGen](https://www.bbc.co.uk/newyddion/58105453) - Er fod yna ddim Maes, roedd hi dal yn Steddfod a hanner.
 27. [De Affrica 19-16 Llewod](https://www.bbc.co.uk/newyddion/58132129) - Y Llewod yn colli yn y trydydd prawf o 19-16 gyda De Affrica yn cipio'r gyfres o 2-1.
