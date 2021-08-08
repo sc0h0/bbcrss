@@ -1,4 +1,4 @@
-1. [Afghanistan war: Taliban capture city of Kunduz](https://www.bbc.co.uk/news/world-asia-58135148) - The militants make their most significant capture yet, as the city of Kunduz falls to the Taliban.
+1. [Afghanistan war: Taliban capture city of Kunduz](https://www.bbc.co.uk/news/world-asia-58135148) - The group makes its biggest gain yet, the city of Kunduz, after heavy fighting with government forces.
 2. [Greece wildfires: PM describes 'nightmarish summer'](https://www.bbc.co.uk/news/world-europe-58132679) - Thousands have been evacuated as wildfires continue to ravage parts of the country.
 3. [Tokyo Olympics: Capturing the perfect moment](https://www.bbc.co.uk/news/entertainment-arts-58115465) - Three sports photographers explain what goes into getting the best shots of the day at the Games.
 4. [Capitol riot: Off-duty Seattle police officers fired over assault](https://www.bbc.co.uk/news/world-us-canada-58088868) - The officers stood by as Donald Trump's supporters stormed the government building, an inquiry says.

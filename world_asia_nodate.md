@@ -1,4 +1,4 @@
-1. [Afghanistan war: Taliban capture city of Kunduz](https://www.bbc.co.uk/news/world-asia-58135148) - The militants make their most significant capture yet, as the city of Kunduz falls to the Taliban.
+1. [Afghanistan war: Taliban capture city of Kunduz](https://www.bbc.co.uk/news/world-asia-58135148) - The group makes its biggest gain yet, the city of Kunduz, after heavy fighting with government forces.
 2. [Covid in Sydney: Communities feel under siege as troops deployed](https://www.bbc.co.uk/news/world-australia-58066389) - Residents say they're being treated like second-class citizens to stem a Covid outbreak.
 3. [India teachers’ fight for period leave gathers steam](https://www.bbc.co.uk/news/world-asia-india-58110935) - Indian teachers' demand for period leave reignites debate over whether it's a positive step for women.
 4. [Olympic Games Tokyo 2020: Neeraj Chopra wins historic Olympic gold in athletics](https://www.bbc.co.uk/news/world-asia-india-57913544) - India has now won seven medals at Tokyo - one gold, two silver and four bronze, its biggest Olympic haul ever.
