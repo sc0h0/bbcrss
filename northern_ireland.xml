@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 08 Aug 2021 05:53:38 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Aug 2021 06:13:42 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -23,11 +23,32 @@
             <pubDate>Sat, 07 Aug 2021 12:27:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tokyo Olympics: Irish boxer Kellie Harrington wins Olympic gold medal]]></title>
+            <title><![CDATA[Tokyo Olympics: Ireland's Kellie Harrington wins Olympic boxing gold with victory in lightweight final]]></title>
             <description><![CDATA[Irish boxer Kellie Harrington wins an Olympic gold medal after defeating Brazil's Beatriz Ferreira in the women's light final.]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/58130534</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58130534</guid>
             <pubDate>Sun, 08 Aug 2021 05:23:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Irish language: 'We need to ensure the Gaeltacht survives']]></title>
+            <description><![CDATA[There are fears Covid-19 could cause irreparable damage to traditional summer Irish language courses.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58121407</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58121407</guid>
+            <pubDate>Sun, 08 Aug 2021 05:54:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Northern Ireland teacher on a mission to make learning more fun]]></title>
+            <description><![CDATA[Conor Bradley first started posting his lessons online to help kids learn over lockdown.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58093960</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58093960</guid>
+            <pubDate>Sun, 08 Aug 2021 06:04:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Portaferry tree felling plans to be reviewed by council]]></title>
+            <description><![CDATA[There is a proposal to cut down 14 mature trees for more parking spaces in the County Down town.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58086918</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58086918</guid>
+            <pubDate>Sun, 08 Aug 2021 06:01:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Floods cause disruption amid NI weather warning]]></title>
@@ -77,34 +98,6 @@
             <link>https://www.bbc.co.uk/news/world-europe-58017675</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58017675</guid>
             <pubDate>Sat, 07 Aug 2021 06:20:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lilian Bland: The Carnmoney engineer who took to the skies]]></title>
-            <description><![CDATA[Exhibition focuses on Lilian Bland who became the first woman to build and fly her own plane.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58060274</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58060274</guid>
-            <pubDate>Sat, 07 Aug 2021 06:27:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[North coast murals spring up 'to encourage footfall']]></title>
-            <description><![CDATA[The mayor of Causeway Coast and Glens says the new installations are "a fantastic talking point".]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58112419</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58112419</guid>
-            <pubDate>Sat, 07 Aug 2021 06:46:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Weather: Anglers' relief as rain returns]]></title>
-            <description><![CDATA[The record temperatures of July led to river levels dropping seriously low.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58115345</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58115345</guid>
-            <pubDate>Sat, 07 Aug 2021 06:40:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Michael Conlan: Belfast boxer secures interim WBA belt with points win over TJ Doheny]]></title>
-            <description><![CDATA[Michael Conlan beats TJ Doheny on points in Belfast to become WBA interim featherweight champion, but has eyes on a bigger prize.]]></description>
-            <link>https://www.bbc.co.uk/sport/boxing/58124639</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/boxing/58124639</guid>
-            <pubDate>Sat, 07 Aug 2021 00:05:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Coronavirus: More than 3,000 registered Covid-19 deaths in NI]]></title>
@@ -177,11 +170,25 @@
             <pubDate>Sat, 31 Jul 2021 05:22:41 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Lilian Bland: The Carnmoney engineer who took to the skies]]></title>
+            <description><![CDATA[Exhibition focuses on Lilian Bland who became the first woman to build and fly her own plane.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58060274</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58060274</guid>
+            <pubDate>Sat, 07 Aug 2021 06:27:27 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Latest Northern Ireland weather forecast]]></title>
             <description><![CDATA[The weather forecast in Northern Ireland.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-26018439</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-26018439</guid>
-            <pubDate>Sat, 07 Aug 2021 06:59:33 GMT</pubDate>
+            <pubDate>Sun, 08 Aug 2021 06:10:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Weather: Anglers' relief as rain returns]]></title>
+            <description><![CDATA[The record temperatures of July led to river levels dropping seriously low.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58115345</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58115345</guid>
+            <pubDate>Sat, 07 Aug 2021 06:40:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Adoption in NI: Families welcome new laws to provide support]]></title>
@@ -203,27 +210,6 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58075183</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58075183</guid>
             <pubDate>Wed, 04 Aug 2021 16:33:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Belfast Glider: Decision time for planned new routes]]></title>
-            <description><![CDATA[How can new rapid transit routes in Belfast best serve the city's population?]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-politics-58005194</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-politics-58005194</guid>
-            <pubDate>Mon, 02 Aug 2021 05:06:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Donaghadee: Harbour time capsule recovery could cost £720k]]></title>
-            <description><![CDATA[There is a debate about the exact location of the time capsule buried at the County Down town's harbour.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58034552</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58034552</guid>
-            <pubDate>Sun, 01 Aug 2021 06:05:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ulster Football Final: Seagulls swoop to see Tyrone triumph at Croke Park as Farney fightback falls just short]]></title>
-            <description><![CDATA[A colony of seagulls joined the 18,000 fans in being enthralled by the Ulster Final at Croke Park as Tyrone held off Monaghan's stirring comeback.]]></description>
-            <link>https://www.bbc.co.uk/sport/gaelic-games/58047181</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/gaelic-games/58047181</guid>
-            <pubDate>Sun, 01 Aug 2021 13:54:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['They call me the Irish hulk of basketball']]></title>
@@ -254,6 +240,13 @@
             <pubDate>Thu, 05 Aug 2021 17:23:38 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[North coast murals spring up 'to encourage footfall']]></title>
+            <description><![CDATA[The mayor of Causeway Coast and Glens says the new installations are "a fantastic talking point".]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58112419</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58112419</guid>
+            <pubDate>Sat, 07 Aug 2021 06:46:59 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Londonderry man is jailed after refusing hotel quarantine]]></title>
             <description><![CDATA[Court hears man did not quarantine after returning from Turkey because he could not afford the cost.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58119663</link>
@@ -273,13 +266,6 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58090116</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58090116</guid>
             <pubDate>Thu, 05 Aug 2021 12:12:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Praise for man who stopped Londonderry fire spreading]]></title>
-            <description><![CDATA[A resident of the flats says he awoke to find thick smoke in the communal corridor.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58057183</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58057183</guid>
-            <pubDate>Tue, 03 Aug 2021 12:26:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Rosslare Port: Heroin worth more than €12m seized]]></title>
