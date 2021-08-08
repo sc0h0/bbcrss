@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 08 Aug 2021 21:09:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Aug 2021 21:24:20 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -51,13 +51,6 @@
             <pubDate>Sun, 08 Aug 2021 15:47:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The highs and lows for NI's Olympians in Tokyo]]></title>
-            <description><![CDATA[We take a look back on the performances of 31 local competitors representing Team Ireland or Team GB at the Olympic Games.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/58061569</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58061569</guid>
-            <pubDate>Sun, 08 Aug 2021 17:35:13 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Tokyo Olympics: Ireland's Kellie Harrington wins Olympic boxing gold with victory in lightweight final]]></title>
             <description><![CDATA[Irish boxer Kellie Harrington wins an Olympic gold medal after defeating Brazil's Beatriz Ferreira in the women's lightweight final.]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/58130534</link>
@@ -70,6 +63,13 @@
             <link>https://www.bbc.co.uk/sport/olympics/58136028</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58136028</guid>
             <pubDate>Sun, 08 Aug 2021 14:13:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The highs and lows for NI's Olympians in Tokyo]]></title>
+            <description><![CDATA[We take a look back on the performances of 31 local competitors representing Team Ireland or Team GB at the Olympic Games.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/58061569</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58061569</guid>
+            <pubDate>Sun, 08 Aug 2021 17:35:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Portaferry tree felling plans to be reviewed by council]]></title>
