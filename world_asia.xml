@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 08 Aug 2021 09:55:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Aug 2021 10:18:34 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -21,6 +21,13 @@
             <link>https://www.bbc.co.uk/news/world-asia-58135148</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58135148</guid>
             <pubDate>Sun, 08 Aug 2021 09:09:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[North Korea: Kim Jong-un calls for relief in flood-hit areas]]></title>
+            <description><![CDATA[More than 1,000 homes have been damaged and about 5,000 people evacuated as a result of flooding.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58135753</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58135753</guid>
+            <pubDate>Sun, 08 Aug 2021 10:02:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid in Sydney: Communities feel under siege as troops deployed]]></title>
@@ -58,13 +65,6 @@
             <pubDate>Sat, 07 Aug 2021 03:36:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[China says no more Mao badges after IOC warning]]></title>
-            <description><![CDATA[The Olympic body says it has been told Chinese athletes will no longer wear badges seen as political.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-china-58127804</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-58127804</guid>
-            <pubDate>Sat, 07 Aug 2021 10:13:43 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Two arrested over plot to kill Myanmar UN ambassador]]></title>
             <description><![CDATA[Ambassador Kyaw Moe Tun is a vocal critic of Myanmar's junta, which seized power in a coup on 1 February.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-58088866</link>
@@ -93,11 +93,11 @@
             <pubDate>Fri, 06 Aug 2021 06:24:36 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Australia borders: Citizens living overseas could be 'trapped' if they return]]></title>
-            <description><![CDATA[Australians who live overseas will require exemptions to leave Australia if they return home.]]></description>
-            <link>https://www.bbc.co.uk/news/world-australia-58110308</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-australia-58110308</guid>
-            <pubDate>Fri, 06 Aug 2021 04:17:43 GMT</pubDate>
+            <title><![CDATA[China says no more Mao badges after IOC warning]]></title>
+            <description><![CDATA[The Olympic body says it has been told Chinese athletes will no longer wear badges seen as political.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-china-58127804</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-58127804</guid>
+            <pubDate>Sat, 07 Aug 2021 10:13:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[China: How Delta threatens a prized zero Covid strategy]]></title>
