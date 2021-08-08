@@ -1,4 +1,4 @@
-1. [Afghanistan war: Taliban capture city of Kunduz](https://www.bbc.co.uk/news/world-asia-58135148) - The group makes its biggest gain yet, the city of Kunduz, after heavy fighting with government forces.
+1. [Afghanistan war: Taliban capture three regional capitals](https://www.bbc.co.uk/news/world-asia-58135148) - Three cities, including the strategically important Kunduz, fall to the militant group in a single day.
 2. [North Korea: Kim Jong-un calls for relief in flood-hit areas](https://www.bbc.co.uk/news/world-asia-58135753) - More than 1,000 homes have been damaged and about 5,000 people evacuated as a result of flooding.
 3. [Covid in Sydney: Communities feel under siege as troops deployed](https://www.bbc.co.uk/news/world-australia-58066389) - Residents say they're being treated like second-class citizens to stem a Covid outbreak.
 4. [India teachers’ fight for period leave gathers steam](https://www.bbc.co.uk/news/world-asia-india-58110935) - Indian teachers' demand for period leave reignites debate over whether it's a positive step for women.
