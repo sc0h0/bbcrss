@@ -1,4 +1,4 @@
-1. [Tokyo Olympics: Team GB match London 2012 with 65 medals won](https://www.bbc.co.uk/sport/olympics/58125822) - Cyclist Jason Kenny's keirin triumph plus boxing gold for Lauren Price mean Team GB's Tokyo Olympics medal haul of 65 matches London 2012's total.
+1. [Tokyo Olympics: Team GB match London 2012 with 65 medals won as Kenny and Price take gold](https://www.bbc.co.uk/sport/olympics/58125822) - Cyclist Jason Kenny's keirin triumph plus boxing gold for Lauren Price mean Team GB's Tokyo Olympics medal haul of 65 matches London 2012's total.
 2. [Covid-19: Quarantine-free travel to France resumes as UK rules change](https://www.bbc.co.uk/news/uk-58130944) - Some travel firms report a "surge" of bookings but others say it is "too late to save the summer".
 3. [Afghanistan war: Taliban capture city of Kunduz](https://www.bbc.co.uk/news/world-asia-58135148) - The militants make their most significant capture yet, as the city of Kunduz falls to the Taliban.
 4. [Covid-19: Quarantine-free travel from France, and NHS waits could hit 14m](https://www.bbc.co.uk/news/uk-58133477) - Five things you need to know about the coronavirus pandemic this Sunday.
