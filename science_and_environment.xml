@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 08 Aug 2021 11:20:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Aug 2021 11:35:16 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -28,6 +28,13 @@
             <link>https://www.bbc.co.uk/news/science-environment-58102953</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-58102953</guid>
             <pubDate>Sat, 07 Aug 2021 01:11:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Climate change: Low-income countries 'can't keep up' with impacts]]></title>
+            <description><![CDATA[Officials warn that the severity of natural disasters is outpacing efforts to prevent their damage.]]></description>
+            <link>https://www.bbc.co.uk/news/world-58080083</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-58080083</guid>
+            <pubDate>Sat, 07 Aug 2021 23:04:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Farm pesticides killing more bees - study]]></title>
@@ -56,13 +63,6 @@
             <link>https://www.bbc.co.uk/news/science-environment-58087479</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-58087479</guid>
             <pubDate>Wed, 04 Aug 2021 15:05:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why whales in Alaska have been so happy]]></title>
-            <description><![CDATA[What will happen to Alaska's whales when tourism returns to waters stilled by Covid?]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-58032702</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-58032702</guid>
-            <pubDate>Wed, 04 Aug 2021 23:02:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Keir Starmer attacks government record on green jobs]]></title>
@@ -142,11 +142,25 @@
             <pubDate>Mon, 26 Jul 2021 20:31:34 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Why whales in Alaska have been so happy]]></title>
+            <description><![CDATA[What will happen to Alaska's whales when tourism returns to waters stilled by Covid?]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-58032702</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-58032702</guid>
+            <pubDate>Wed, 04 Aug 2021 23:02:15 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Mayflower 400 years: How many people are related to the Mayflower pilgrims?]]></title>
             <description><![CDATA[For some, the17th century "pilgrim fathers" are also real-life ancestors. But for how many?]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-57698818</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57698818</guid>
             <pubDate>Fri, 06 Aug 2021 23:15:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why artificial intelligence is being used to write adverts]]></title>
+            <description><![CDATA[Advertisers are increasingly using artificial intelligence to come up with their winning slogans.]]></description>
+            <link>https://www.bbc.co.uk/news/business-57781557</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57781557</guid>
+            <pubDate>Thu, 05 Aug 2021 23:06:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Scuba-diver photographs Scotland's colourful marine life]]></title>

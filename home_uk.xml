@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 08 Aug 2021 11:27:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Aug 2021 11:36:16 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -58,6 +58,13 @@
             <pubDate>Sun, 08 Aug 2021 10:02:08 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Wood Green stabbing: Man charged with social worker attack]]></title>
+            <description><![CDATA[Sulai Bukhari is charged with attempted murder after the man and two police officers were attacked.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-58130078</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-58130078</guid>
+            <pubDate>Sun, 08 Aug 2021 10:52:09 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Geronimo the Alpaca must be put down to protect cows - minister]]></title>
             <description><![CDATA[Putting animals down is soul-destroying but necessary to stop bovine TB, the environment secretary says.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-gloucestershire-58133468</link>
@@ -93,13 +100,6 @@
             <pubDate>Sun, 08 Aug 2021 09:18:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Pagan Roman emperor coin found in Norfolk field 'deliberately damaged']]></title>
-            <description><![CDATA[Emperor Julian wanted to revive pagan worship across the Empire after it officially became Christian.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-norfolk-58001605</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-norfolk-58001605</guid>
-            <pubDate>Sun, 08 Aug 2021 06:28:35 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The Papers: Climate catastrophe warning, and winter flu tests]]></title>
             <description><![CDATA[A mix of stories lead Sunday's papers, including a stark warning from the government over climate change.]]></description>
             <link>https://www.bbc.co.uk/news/blogs-the-papers-58132519</link>
@@ -107,11 +107,11 @@
             <pubDate>Sun, 08 Aug 2021 04:10:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid-19: Quarantine-free travel from France, and NHS waits could hit 14m]]></title>
-            <description><![CDATA[Five things you need to know about the coronavirus pandemic this Sunday.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58133477</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58133477</guid>
-            <pubDate>Sun, 08 Aug 2021 07:17:37 GMT</pubDate>
+            <title><![CDATA[Pagan Roman emperor coin found in Norfolk field 'deliberately damaged']]></title>
+            <description><![CDATA[Emperor Julian wanted to revive pagan worship across the Empire after it officially became Christian.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-norfolk-58001605</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-norfolk-58001605</guid>
+            <pubDate>Sun, 08 Aug 2021 06:28:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: Capturing the perfect moment]]></title>
@@ -154,6 +154,13 @@
             <link>https://www.bbc.co.uk/news/in-pictures-58088867</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/in-pictures-58088867</guid>
             <pubDate>Sat, 07 Aug 2021 15:47:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19: Quarantine-free travel from France, and NHS waits could hit 14m]]></title>
+            <description><![CDATA[Five things you need to know about the coronavirus pandemic this Sunday.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-58133477</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58133477</guid>
+            <pubDate>Sun, 08 Aug 2021 07:17:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[ICYMI: Surfing, an Olympic maze and a sheep stampede]]></title>
