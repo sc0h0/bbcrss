@@ -9,7 +9,7 @@
 9. [Tokyo Olympics: German pentathlon coach thrown out for punching horse](https://www.bbc.co.uk/sport/olympics/58127366) - A German coach who appeared to strike a horse with her fist during the modern pentathlon is thrown out of the Olympics.
 10. [Mercer Street: Tanker blast evidence points to Iran, says US](https://www.bbc.co.uk/news/world-middle-east-58124489) - The attack on the Israeli-operated merchant tanker last week killed two people.
 11. [Tokyo attack: Knife-wielding man injures 10 on train](https://www.bbc.co.uk/news/world-asia-58125414) - The suspect allegedly told police he was angry when he saw women who "looked happy".
-12. [Apple criticised for system that detects child abuse](https://www.bbc.co.uk/news/technology-58124495) - There are privacy concerns that the system will be expanded to scan phones for political speech.
+12. [Dennis Thomas: Kool & The Gang founding member dies aged 70](https://www.bbc.co.uk/news/world-us-canada-58135730) - He was one of the members who started the soul band that had massive hits like Celebration.
 13. [Covid in Sydney: Communities feel under siege as troops deployed](https://www.bbc.co.uk/news/world-australia-58066389) - Residents say they're being treated like second-class citizens to stem a Covid outbreak.
 14. [Tokyo 2020: Olympic athletes targeted by false and misleading claims](https://www.bbc.co.uk/news/58086586) - There's been a spate of content with incorrect claims around some of the competitors in Tokyo.
 15. [Climate change: Low-income countries 'can't keep up' with impacts](https://www.bbc.co.uk/news/world-58080083) - Officials warn that the severity of natural disasters is outpacing efforts to prevent their damage.
