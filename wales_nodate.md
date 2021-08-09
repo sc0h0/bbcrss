@@ -22,8 +22,8 @@
 22. [Swansea City and Ospreys stadium renamed Swansea.com Stadium in new deal](https://www.bbc.co.uk/sport/wales/58148996) - Swansea City and Ospreys' home ground has been renamed Swansea.com Stadium in a 10-year deal.
 23. [Tokyo Olympics: 'Fantastic' Welsh achievements can encourage more people to get active](https://www.bbc.co.uk/sport/wales/58142192) - Director of Sport Wales Brian Davies hopes Welsh successes at the Tokyo Olympics will inspire the nation to be more active.
 24. [Ethan Laird: Swansea City in talks to sign Manchester United right-back on loan](https://www.bbc.co.uk/sport/football/58148502) - Swansea City are in talks to sign Manchester United right-back Ethan Laird on a season-long loan.
-25. [Dyn wedi marw 16 diwrnod ar ôl ymosodiad Parc Bute](https://www.bbc.co.uk/newyddion/58145696) - Mae tri pherson yn y ddalfa heddlu wedi'u cyhuddo o geisio llofruddio yn dilyn y digwyddiad.
-26. [Giang wedi herwgipio plentyn 'oherwydd cam-drin satanaidd'](https://www.bbc.co.uk/newyddion/58146737) - Chwe pherson yn euog o gynllwynio i herwgipio plentyn am eu bod yn amau camdriniaeth satanaidd.
+25. [Giang wedi herwgipio plentyn 'oherwydd cam-drin satanaidd'](https://www.bbc.co.uk/newyddion/58146737) - Chwe pherson yn euog o gynllwynio i herwgipio plentyn am eu bod yn amau camdriniaeth satanaidd.
+26. [Dyn wedi marw 16 diwrnod ar ôl ymosodiad Parc Bute](https://www.bbc.co.uk/newyddion/58145696) - Mae tri pherson yn y ddalfa heddlu wedi'u cyhuddo o geisio llofruddio yn dilyn y digwyddiad.
 27. [Dyn wedi marw ar ôl mynd i drafferthion yn y môr ym Mhen Llŷn](https://www.bbc.co.uk/newyddion/58118178) - Bu farw'r dyn wedi iddo fynd i drafferthion yn y môr ar draeth Porth Neigwl ddydd Gwener.
 28. [Lle fyddai Cymru yn nhabl medalau Tokyo 2020?](https://www.bbc.co.uk/newyddion/58144971) - Enillodd aelodau Cymreig Tîm GB wyth o fedalau yn y Gemau Olympaidd eleni.
 29. [Seiclwr o Abertawe yn 'un i'w gwylio' yn y dyfodol](https://www.bbc.co.uk/newyddion/58139612) - Dywed Eluned King ei bod wedi elwa o'r cyfnod clo a'i bod yn gobeithio seiclo yng Ngemau'r Gymanwlad yn 2022.
