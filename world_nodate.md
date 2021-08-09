@@ -3,7 +3,7 @@
 3. [Greece wildfires: 'It's like a horror movie but it's real life'](https://www.bbc.co.uk/news/world-europe-58141236) - Thousands of people have had to evacuate Greece's second biggest island as severe wildfires rage.
 4. [Afghanistan war: Taliban capture three regional capitals](https://www.bbc.co.uk/news/world-asia-58135148) - Three cities, including the strategically important Kunduz, fall to the militant group in a single day.
 5. [Andrew Cuomo: Top aide to governor resigns amid scandal](https://www.bbc.co.uk/news/world-us-canada-58141548) - Melissa DeRosa worked as a senior aide to Andrew Cuomo, who has been accused of sexual harassment.
-6. [Dixie Fire: Firefighters tackles historic California wildfire](https://www.bbc.co.uk/news/world-us-canada-58141340) - The Dixie Fire has burned through more than 463,000 acres and could take weeks to extinguish.
+6. [Dixie Fire: Firefighters tackle historic California wildfire](https://www.bbc.co.uk/news/world-us-canada-58141340) - The Dixie Fire has burned through more than 463,000 acres and could take weeks to extinguish.
 7. [Golfer Kim scores 13 on par three hole](https://www.bbc.co.uk/sport/golf/58140968) - Finding water five times on one hole saw South Korea's Kim Si-woo score 13 on a par three to record the highest score on the PGA Tour since 1983.
 8. [Thailand man charged over death of Swiss tourist near waterfall](https://www.bbc.co.uk/news/world-asia-58141926) - The 27-year-old man has been charged with murdering the 57-year-old woman.
 9. ['Smallest baby at birth' home after 13 months in hospital](https://www.bbc.co.uk/news/world-asia-58141756) - Kwek Yu Xuan weighed only 212g - the weight of an apple - when she was born in Singapore last year.

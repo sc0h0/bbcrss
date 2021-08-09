@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 09 Aug 2021 05:39:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Aug 2021 05:55:54 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -24,7 +24,7 @@
         </item>
         <item>
             <title><![CDATA[NI internment: What's its legacy 50 years on?]]></title>
-            <description><![CDATA[Rather than reduce disorder, violence increased after detention without trial was introduced in 1971.]]></description>
+            <description><![CDATA[Rather than reduce disorder, violence increased after detention without trial began in 1971.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58141089</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58141089</guid>
             <pubDate>Mon, 09 Aug 2021 05:34:39 GMT</pubDate>
@@ -35,6 +35,13 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58139997</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58139997</guid>
             <pubDate>Sun, 08 Aug 2021 18:07:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Northern Ireland reports 'slowest economic growth in UK']]></title>
+            <description><![CDATA[The construction industry saw its performance go into reverse in July, an Ulster Bank survey finds.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58115547</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58115547</guid>
+            <pubDate>Mon, 09 Aug 2021 05:38:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Dungannon: Petrol bombs thrown during disorder]]></title>
@@ -51,13 +58,6 @@
             <pubDate>Sun, 08 Aug 2021 19:50:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid-19: One more Covid-linked death and 1,129 new cases]]></title>
-            <description><![CDATA[The total number of deaths linked to Covid-19 in NI since the start of the pandemic is 2,220.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58138536</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58138536</guid>
-            <pubDate>Sun, 08 Aug 2021 15:25:31 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Ballymurphy march marks 50th anniversary of Army shootings]]></title>
             <description><![CDATA[Organisers say they oppose proposed legislation to end Troubles-era prosecutions.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58136913</link>
@@ -65,7 +65,7 @@
             <pubDate>Sun, 08 Aug 2021 15:47:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tokyo Olympics: Ireland's Kellie Harrington wins Olympic boxing gold with victory in lightweight final]]></title>
+            <title><![CDATA[Irish Boxer Harrington wins Olympic gold ]]></title>
             <description><![CDATA[Irish boxer Kellie Harrington wins an Olympic gold medal after defeating Brazil's Beatriz Ferreira in the women's lightweight final.]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/58130534</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58130534</guid>
@@ -86,20 +86,6 @@
             <pubDate>Sun, 08 Aug 2021 17:35:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Portaferry tree felling plans to be reviewed by council]]></title>
-            <description><![CDATA[There is a proposal to cut down 14 mature trees for more parking spaces in the County Down town.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58086918</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58086918</guid>
-            <pubDate>Sun, 08 Aug 2021 06:01:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Floods cause disruption amid NI weather warning]]></title>
-            <description><![CDATA[Northern Ireland remains under a yellow weather warning for thunderstorms after rain brought flooding.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58127271</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58127271</guid>
-            <pubDate>Sat, 07 Aug 2021 18:02:39 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Irish language: 'We need to ensure the Gaeltacht survives']]></title>
             <description><![CDATA[There are fears Covid-19 could seriously damage traditional summer Irish language courses.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-58121407</link>
@@ -107,11 +93,25 @@
             <pubDate>Sun, 08 Aug 2021 05:54:15 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Portaferry tree felling plans to be reviewed by council]]></title>
+            <description><![CDATA[There is a proposal to cut down 14 mature trees for more parking spaces in the County Down town.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58086918</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58086918</guid>
+            <pubDate>Sun, 08 Aug 2021 06:01:03 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Covid-19: NI has the highest infection rate in the UK]]></title>
             <description><![CDATA[Hospitalisations and deaths increase, but the data shows the vaccine is doing its job.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-58124142</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58124142</guid>
             <pubDate>Sat, 07 Aug 2021 06:46:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19: One more Covid-linked death and 1,129 new cases]]></title>
+            <description><![CDATA[The total number of deaths linked to Covid-19 in NI since the start of the pandemic is 2,220.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58138536</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58138536</guid>
+            <pubDate>Sun, 08 Aug 2021 15:25:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Q&A: What are Northern Ireland's Covid travel rules?]]></title>
@@ -133,20 +133,6 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-57975927</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57975927</guid>
             <pubDate>Sun, 01 Aug 2021 05:34:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid-19: Hospital visiting rules tightened by NI health trusts]]></title>
-            <description><![CDATA[Officials have halted or restricted visitors' contact with patients as pressure mounts on services.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58088267</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58088267</guid>
-            <pubDate>Wed, 04 Aug 2021 19:15:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Q&A: Getting jabbed after NI vaccination centres close for first jabs]]></title>
-            <description><![CDATA[Saturday is the last day to get your first dose of a Covid jab at NI's mass vaccination centres.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-politics-57986801</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-politics-57986801</guid>
-            <pubDate>Sat, 31 Jul 2021 05:22:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Anorexia: Planning for a wedding with an eating disorder]]></title>
@@ -273,13 +259,6 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58098328</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58098328</guid>
             <pubDate>Thu, 05 Aug 2021 09:21:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid-19: Irish 12-15-year-olds can register for jab from next week]]></title>
-            <description><![CDATA[The plan to extend the country's vaccination programme was announced in July.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58102051</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58102051</guid>
-            <pubDate>Thu, 05 Aug 2021 13:20:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
