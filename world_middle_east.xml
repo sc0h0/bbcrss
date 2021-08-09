@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 09 Aug 2021 08:25:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Aug 2021 08:41:13 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Nigerian Igbo Jewish leader arrested with Israeli visitors freed]]></title>
+            <description><![CDATA[Lizben Agha was held for weeks without charge after becoming caught up with the three men's arrest.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-58097200</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-58097200</guid>
+            <pubDate>Mon, 09 Aug 2021 08:39:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Saudi Arabia to allow in vaccinated Umrah pilgrims]]></title>
             <description><![CDATA[The Islamic holy city of Mecca will allow vaccinated pilgrims to enter, the Saudi authorities say.]]></description>
@@ -63,13 +70,6 @@
             <link>https://www.bbc.co.uk/news/world-middle-east-58083671</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-58083671</guid>
             <pubDate>Wed, 04 Aug 2021 06:56:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Beirut blast: ‘The day our city exploded’]]></title>
-            <description><![CDATA[One year on from the blast that rocked Beirut, no one has yet been made accountable.]]></description>
-            <link>https://www.bbc.co.uk/news/world-middle-east-58076999</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-58076999</guid>
-            <pubDate>Tue, 03 Aug 2021 23:01:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tunisia crisis: Democrats, despots and the fight for power]]></title>
@@ -128,6 +128,13 @@
             <pubDate>Tue, 20 Jul 2021 07:11:47 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Beirut blast: ‘The day our city exploded’]]></title>
+            <description><![CDATA[One year on from the blast that rocked Beirut, no one has yet been made accountable.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-58076999</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-58076999</guid>
+            <pubDate>Tue, 03 Aug 2021 23:01:52 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Lebanon blast: ‘Path towards reform irreversible’]]></title>
             <description><![CDATA[We owe it to our people to tackle issues which led to the blast, the ambassador to the UK says.]]></description>
             <link>https://www.bbc.co.uk/news/world-middle-east-58091119</link>
@@ -154,13 +161,6 @@
             <link>https://www.bbc.co.uk/news/world-middle-east-57948717</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-57948717</guid>
             <pubDate>Sun, 25 Jul 2021 23:06:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo 2020: Hend Zaza, 12, is youngest athlete at Olympics]]></title>
-            <description><![CDATA[Hend Zaza from Syria reveals her inspiration for getting into table tennis at such a young age.]]></description>
-            <link>https://www.bbc.co.uk/news/world-middle-east-57925985</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-57925985</guid>
-            <pubDate>Thu, 22 Jul 2021 14:02:32 GMT</pubDate>
         </item>
     </channel>
 </rss>

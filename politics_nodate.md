@@ -1,4 +1,4 @@
-1. [Climate change: UN to reveal landmark IPCC report findings](https://www.bbc.co.uk/news/science-environment-58141129) - The report will be a "massive wake-up call" to governments to cut emissions, environmental experts say.
+1. [Climate change: IPCC report is 'code red for humanity'](https://www.bbc.co.uk/news/science-environment-58130705) - Heating from humans has caused irreparable damage to the Earth that may get worse in coming decades.
 2. [COP26: How serious is the government about climate conference?](https://www.bbc.co.uk/news/uk-politics-58107010) - With less than 90 days to go to Glasgow climate summit, there is uncertainty surrounding the event.
 3. [A-level results: Students have been treated fairly - watchdog](https://www.bbc.co.uk/news/education-58141518) - The head of the exams regulator defends the system for deciding grades ahead of A-level and GCSE results day.
 4. [NHS waiting lists could rise to 14 million in England next year - report](https://www.bbc.co.uk/news/health-58132538) - Currently five million people are on hospital waiting lists, but there is a warning of a hidden backlog.

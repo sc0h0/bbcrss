@@ -25,4 +25,4 @@
 25. [Ymateb cymysg wedi penwythnos cyntaf lefel rhybudd sero](https://www.bbc.co.uk/newyddion/58139610) - I nifer roedd y penwythnos yn ddechrau newydd, ond pryderon hefyd wrth i Gymru lacio'r cyfyngiadau.
 26. [Golygu lluniau'n 'achosi problemau iechyd meddwl'](https://www.bbc.co.uk/newyddion/57941951) - Rhybudd y gall golygu lluniau arwain at gynnydd yn y nifer o bobl sy'n dioddef o anhwylderau meddyliol.
 27. [Ateb y Galw: Y cerddor Ifan Emlyn Jones](https://www.bbc.co.uk/newyddion/58059715) - Y cynhyrchydd a'r cerddor Ifan Emlyn Jones sy'n cael ei holi yr wythnos yma
-28. [Seiclwr o Abertawe yn 'un i'w gwylio' am y dyfodol](https://www.bbc.co.uk/newyddion/58139612) - Dywed Eluned King ei bod wedi elwa o'r cyfnod clo a'i bod yn gobeithio seiclo yng Ngemau'r Gymanwlad yn 2022.
+28. [Seiclwr o Abertawe yn 'un i'w gwylio' yn y dyfodol](https://www.bbc.co.uk/newyddion/58139612) - Dywed Eluned King ei bod wedi elwa o'r cyfnod clo a'i bod yn gobeithio seiclo yng Ngemau'r Gymanwlad yn 2022.

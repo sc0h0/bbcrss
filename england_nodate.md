@@ -1,7 +1,7 @@
 1. [Wood Green stabbing: Man charged with social worker attack](https://www.bbc.co.uk/news/uk-england-london-58130078) - Sulai Bukhari is charged with attempted murder after the man and two police officers were attacked.
 2. [Same-sex parents battle for inclusive paperwork for baby](https://www.bbc.co.uk/news/uk-england-devon-58071558) - Kate and Gemma Fox have encountered numerous forms they cannot fill in since the birth of their son.
-3. [A-level results: Students have been treated fairly - watchdog](https://www.bbc.co.uk/news/education-58141518) - The head of the exams regulator defends the system for deciding grades ahead of A-level and GCSE results day.
-4. [New 'Banksy' artwork appears at Great Yarmouth model village](https://www.bbc.co.uk/news/uk-england-norfolk-58143164) - A new model, apparently signed by the artist, is found at a Great Yarmouth attraction.
+3. [New 'Banksy' artwork appears at Great Yarmouth model village](https://www.bbc.co.uk/news/uk-england-norfolk-58143164) - A new model, apparently signed by the artist, is found at a Great Yarmouth attraction.
+4. [A-level results: Students have been treated fairly - watchdog](https://www.bbc.co.uk/news/education-58141518) - The head of the exams regulator defends the system for deciding grades ahead of A-level and GCSE results day.
 5. [Leicestershire death: Murder arrest after woman's body found](https://www.bbc.co.uk/news/uk-england-leicestershire-58138005) - A man, 29, is arrested on suspicion of murdering the woman who was found near Woodhouse Eaves.
 6. [‘Parkinson’s doesn't stop me playing tennis’](https://www.bbc.co.uk/news/uk-england-nottinghamshire-58091757) - Andy Wright, who was diagnosed at 33, says his return to the sport helps alleviate symptoms.
 7. [Kent footballer alleges player hurled homophobic abuse during game](https://www.bbc.co.uk/news/uk-england-kent-58136664) - Sheppey United's Jahmal Howlett-Mundle says a Tower Hamlets player made a comment during a match.
