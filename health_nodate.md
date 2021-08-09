@@ -33,8 +33,8 @@
 33. [Coronavirus: Intensive care and other key terms explained](https://www.bbc.co.uk/news/health-52182658) - Use our tool to check the meaning of key words and phrases associated with the Covid-19 outbreak.
 34. [Coronavirus: What is the risk to men over 50?](https://www.bbc.co.uk/news/health-52197594) - While most people will have mild symptoms and recover quickly, some are more prone to getting sick.
 35. [Coronavirus: Do face masks actually work?](https://www.bbc.co.uk/news/health-51881555) - With face masks in high demand, we look at whether they really can protect people from the virus.
-36. ['Walking to space was the best day of my life'](https://www.bbc.co.uk/news/uk-england-nottinghamshire-58071075) - Tim, aged nine, walked 62 miles - the distance between Earth's atmosphere and the boundary of space.
-37. [Covid: Man, 23, 'thought body could brush off virus'](https://www.bbc.co.uk/news/uk-england-merseyside-58121193) - Patients at the Royal Liverpool Hospital tell BBC North West Tonight about being ill with Covid.
-38. [Covid vaccine: Needle-phobic call for vaccine exemption](https://www.bbc.co.uk/news/health-58100674) - Adam has anxiety and a phobia of needles and has twice attempted to get a Covid-19 vaccine.
-39. [Munchausen by Internet: Are chronic illness influencers really faking it?](https://www.bbc.co.uk/news/stories-58093455) - Munchausen by Internet: Are some influencers faking illnesses for fame, money and attention?
-40. [Covid: 'No time to waste' in vaccinating 16-17 year olds](https://www.bbc.co.uk/news/uk-58092705) - Children aged 16-17 should be vaccinated "as fast as practically possible", Prof Jonathan Van-Tam says.
+36. [The nightclubs getting young people vaccinated](https://www.bbc.co.uk/news/uk-58146198) - Venues across the UK are offering jabs in an effort to get more young people immunised.
+37. ['Walking to space was the best day of my life'](https://www.bbc.co.uk/news/uk-england-nottinghamshire-58071075) - Tim, aged nine, walked 62 miles - the distance between Earth's atmosphere and the boundary of space.
+38. [Covid: Man, 23, 'thought body could brush off virus'](https://www.bbc.co.uk/news/uk-england-merseyside-58121193) - Patients at the Royal Liverpool Hospital tell BBC North West Tonight about being ill with Covid.
+39. [Covid vaccine: Needle-phobic call for vaccine exemption](https://www.bbc.co.uk/news/health-58100674) - Adam has anxiety and a phobia of needles and has twice attempted to get a Covid-19 vaccine.
+40. [Munchausen by Internet: Are chronic illness influencers really faking it?](https://www.bbc.co.uk/news/stories-58093455) - Munchausen by Internet: Are some influencers faking illnesses for fame, money and attention?

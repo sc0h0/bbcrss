@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 09 Aug 2021 10:32:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Aug 2021 10:47:32 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -261,6 +261,13 @@
             <pubDate>Sat, 14 Mar 2020 01:04:25 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The nightclubs getting young people vaccinated]]></title>
+            <description><![CDATA[Venues across the UK are offering jabs in an effort to get more young people immunised.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-58146198</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58146198</guid>
+            <pubDate>Mon, 09 Aug 2021 10:23:10 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA['Walking to space was the best day of my life']]></title>
             <description><![CDATA[Tim, aged nine, walked 62 miles - the distance between Earth's atmosphere and the boundary of space.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-nottinghamshire-58071075</link>
@@ -287,13 +294,6 @@
             <link>https://www.bbc.co.uk/news/stories-58093455</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/stories-58093455</guid>
             <pubDate>Wed, 04 Aug 2021 23:05:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: 'No time to waste' in vaccinating 16-17 year olds]]></title>
-            <description><![CDATA[Children aged 16-17 should be vaccinated "as fast as practically possible", Prof Jonathan Van-Tam says.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58092705</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58092705</guid>
-            <pubDate>Wed, 04 Aug 2021 15:39:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
