@@ -1,4 +1,4 @@
-1. [Greece wildfires: Evia island residents forced to evacuate](https://www.bbc.co.uk/news/world-europe-58141336) - Hundreds on the island of Evia flee to safety by sea as a record heatwave sparks devastating fires.
+1. [Greece fires: PM apologises as blazes rage on Evia island](https://www.bbc.co.uk/news/world-europe-58152324) - Kyriakos Mitsotakis says Greece is facing an unprecedented natural disaster, as public anger grows.
 2. [Shishov case: Belarus leader Lukashenko denies link to dissident's death](https://www.bbc.co.uk/news/world-europe-58147256) - Alexander Lukashenko insists he had nothing to do with a suspicious hanging in Ukraine last week.
 3. [Suspect in Nantes cathedral fire held over French priest's killing](https://www.bbc.co.uk/news/world-europe-58145468) - French police also suspect the Rwandan man of starting a fire that ravaged Nantes cathedral in 2020.
 4. [Thunberg calls out climate impact of fashion brands in Vogue interview](https://www.bbc.co.uk/news/world-europe-58145465) - Many companies are only pretending to care about the climate, the activist tells Vogue Scandinavia.

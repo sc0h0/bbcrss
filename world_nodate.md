@@ -1,7 +1,7 @@
 1. [Climate change: IPCC report is 'code red for humanity'](https://www.bbc.co.uk/news/science-environment-58130705) - Heating from humans has caused irreparable damage to the Earth that may get worse in coming decades.
 2. [Afghanistan war: At least 27 children killed in three days, UN says](https://www.bbc.co.uk/news/world-asia-58142983) - Unicef says 27 deaths were recorded in three regions over 72 hours, amid rising violence.
-3. [Biden's plan to tackle racism with roads](https://www.bbc.co.uk/news/world-us-canada-58106414) - An infrastructure package that seeks to address inequality gets a mixed reception on the ground.
-4. [Greece wildfires: Evia island residents forced to evacuate](https://www.bbc.co.uk/news/world-europe-58141336) - Hundreds on the island of Evia flee to safety by sea as a record heatwave sparks devastating fires.
+3. [Greece fires: PM apologises as blazes rage on Evia island](https://www.bbc.co.uk/news/world-europe-58152324) - Kyriakos Mitsotakis says Greece is facing an unprecedented natural disaster, as public anger grows.
+4. [Biden's plan to tackle racism with roads](https://www.bbc.co.uk/news/world-us-canada-58106414) - An infrastructure package that seeks to address inequality gets a mixed reception on the ground.
 5. [Shishov case: Belarus leader Lukashenko denies link to dissident's death](https://www.bbc.co.uk/news/world-europe-58147256) - Alexander Lukashenko insists he had nothing to do with a suspicious hanging in Ukraine last week.
 6. [Andrew Cuomo: Time's Up leader resigns over ties to governor](https://www.bbc.co.uk/news/world-us-canada-58153726) - Roberta Kaplan was accused of trying to discredit a woman who said Mr Cuomo had harassed her.
 7. [Thunberg calls out climate impact of fashion brands in Vogue interview](https://www.bbc.co.uk/news/world-europe-58145465) - Many companies are only pretending to care about the climate, the activist tells Vogue Scandinavia.
