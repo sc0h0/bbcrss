@@ -1,6 +1,6 @@
-1. [Troubles' legacy plans 'may give amnesty to killers'](https://www.bbc.co.uk/news/uk-northern-ireland-58115548) - The family of the first UDR soldier murdered in the Troubles speak out on 50th anniversary of his killing.
+1. [Glenshane Pass: Man dies after car and lorry crash](https://www.bbc.co.uk/news/uk-northern-ireland-58143530) - The collision happened between Dungiven and Maghera early on Monday morning.
 2. [Climate change: IPCC report is 'code red for humanity'](https://www.bbc.co.uk/news/science-environment-58130705) - Heating from humans has caused irreparable damage to the Earth that may get worse in coming decades.
-3. [Glenshane Pass closed after two-vehicle crash](https://www.bbc.co.uk/news/uk-northern-ireland-58143530) - Motorists are advised to seek another route and to expect their journey to be delayed.
+3. [Troubles' legacy plans 'may give amnesty to killers'](https://www.bbc.co.uk/news/uk-northern-ireland-58115548) - The family of the first UDR soldier murdered in the Troubles speak out on 50th anniversary of his killing.
 4. [Dungannon: Woman arrested over death of two-year-old girl](https://www.bbc.co.uk/news/uk-northern-ireland-58139997) - The police are also given an extra 36 hours to hold a man arrested on suspicion of murder.
 5. [Roselawn: Belfast City Council reveals plan for new crematorium](https://www.bbc.co.uk/news/uk-northern-ireland-58143531) - The public is asked to give its view on the plan for the £18m project to boost cremation capacity.
 6. [Vodafone to bring back roaming charges from January](https://www.bbc.co.uk/news/technology-58146039) - It follows EE's decision to reintroduce daily charges for using phone tariffs while in Europe

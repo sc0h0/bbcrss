@@ -11,7 +11,7 @@
 11. [Chelsea's Ivy Asia restaurant sorry for 'culturally insensitive' advert](https://www.bbc.co.uk/news/uk-england-london-58145325) - The video features women dressed as geishas being pulled in a rickshaw to the restaurant.
 12. [New 'Banksy' artwork appears at Great Yarmouth model village](https://www.bbc.co.uk/news/uk-england-norfolk-58143164) - A new model, apparently signed by the artist, is found at a Great Yarmouth attraction.
 13. [Porth Ysgo rescue: Two people rescued from disused mine shaft](https://www.bbc.co.uk/news/uk-wales-58143594) - Mountain rescue says two people were trapped after falling down a disused mine shaft.
-14. [Climate change: Make coal history says PM, after climate warning](https://www.bbc.co.uk/news/uk-58144779) - Boris Johnson calls for a shift towards clean energy sources after "sobering" report on climate change.
+14. [Climate change: Make coal history says PM after climate warning](https://www.bbc.co.uk/news/uk-58144779) - Boris Johnson calls for a shift towards clean energy sources after "sobering" report on climate change.
 15. [Climate Basics: Your carbon footprint explained](https://www.bbc.co.uk/news/science-environment-56822950) - BBC Reality Check's Chris Morris explains how changing three aspects of how you live can make the biggest dent to your carbon footprint.
 16. [Climate Basics: CO2 explained](https://www.bbc.co.uk/news/science-environment-52926683) - CO2 is at the heart of our changing climate. Here's why.
 17. [Then and now: The burning issue of wildfires](https://www.bbc.co.uk/news/science-environment-57946155) - Scientists are increasingly concerned climate change is making fires more frequent and more intense.
