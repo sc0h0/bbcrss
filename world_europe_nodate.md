@@ -1,5 +1,5 @@
 1. [Greece wildfires: 'It's like a horror movie but it's real life'](https://www.bbc.co.uk/news/world-europe-58141236) - Thousands of people have had to evacuate Greece's second biggest island as severe wildfires rage.
-2. [Greece wildfires: Strong winds push flames towards villages](https://www.bbc.co.uk/news/world-europe-58141336) - Greece is experiencing its most severe heatwave in 30 years with temperatures reaching 45C (113F).
+2. [Greece wildfires: Evia island residents forced to evacuate](https://www.bbc.co.uk/news/world-europe-58141336) - Hundreds on the island of Evia flee to safety by sea as a record heatwave triggers devastating fires.
 3. [Thailand man charged over death of Swiss tourist near waterfall](https://www.bbc.co.uk/news/world-asia-58141926) - The 27-year-old man has been charged with murdering the 57-year-old woman.
 4. [Tokyo Olympics: Russians win most medals since 2004 despite competing as ROC because of ban](https://www.bbc.co.uk/sport/olympics/58135905) - Russian athletes head home with more medals than they have for 17 years - and they were not even officially competing for their country.
 5. [Lionel Messi: Paris St-Germain move 'a possibility' after Barcelona exit](https://www.bbc.co.uk/sport/football/58137262) - A tearful Lionel Messi says joining Paris St-Germain from Barcelona is "a possibility, but nothing is agreed".
