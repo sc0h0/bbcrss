@@ -1,5 +1,5 @@
-1. [Covid PCR costs can be excessive and exploitative, says Javid](https://www.bbc.co.uk/news/business-58137461) - The health secretary calls on a watchdog to investigate "exploitative" firms overcharging holidaymakers.
-2. [Alibaba to sack manager accused of rape, according to memo seen by BBC](https://www.bbc.co.uk/news/business-58141606) - The move comes after a woman's allegations of sexual assault went viral on Chinese social media.
+1. [Alibaba to sack manager accused of rape, according to memo seen by BBC](https://www.bbc.co.uk/news/business-58141606) - The move comes after a woman's allegations of sexual assault went viral on Chinese social media.
+2. [Covid PCR costs can be excessive and exploitative, says Javid](https://www.bbc.co.uk/news/business-58137461) - The health secretary calls on a watchdog to investigate "exploitative" firms overcharging holidaymakers.
 3. [Saudi oil giant Aramco sees profits soar by almost 300%](https://www.bbc.co.uk/news/business-58141607) - The results were boosted by a rise in oil prices and a recovery in demand after the pandemic.
 4. [Tobacco giant Philip Morris raises bid for respiratory drugmaker](https://www.bbc.co.uk/news/business-58140752) - Philip Morris is seeking to buy Vectura, which makes treatments for diseases such as asthma.
 5. [Branson's Virgin Atlantic considers stock market listing](https://www.bbc.co.uk/news/business-58119588) - The move could see Sir Richard Branson lose overall control of the airline he founded.

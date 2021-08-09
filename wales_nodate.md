@@ -23,6 +23,6 @@
 23. [One Day Cup: Glamorgan thrash Nottinghamshire Outlaws by eight wickets](https://www.bbc.co.uk/sport/cricket/58139074) - Glamorgan move to the verge of the One-Day Cup knockout stages after thrashing an inexperienced Notts Outlaws side by eight wickets.
 24. [Covid: Gweithwyr yn aros adref er i'r cyfyngiadau godi](https://www.bbc.co.uk/newyddion/58135996) - Y gred yw na fydd pawb yn dychwelyd yn llawn amser i'r swyddfa fyth eto.
 25. [Ymateb cymysg wedi penwythnos cyntaf lefel rhybudd sero](https://www.bbc.co.uk/newyddion/58139610) - I nifer roedd y penwythnos yn ddechrau newydd, ond pryderon hefyd wrth i Gymru lacio'r cyfyngiadau.
-26. [Lauren Price yn ennill medal aur yn y bocsio pwysau canol](https://www.bbc.co.uk/newyddion/58128546) - Lauren Price yn trechu Li Qian yn rownd derfynol y bocsio pwysau canol i ennill aur yn y Gemau Olympaidd.
+26. [Golygu lluniau'n 'achosi problemau iechyd meddwl'](https://www.bbc.co.uk/newyddion/57941951) - Rhybudd y gall golygu lluniau arwain at gynnydd yn y nifer o bobl sy'n dioddef o anhwylderau meddyliol.
 27. [Pump uchafbwynt yr Eisteddfod AmGen](https://www.bbc.co.uk/newyddion/58105453) - Er fod yna ddim Maes, roedd hi dal yn Steddfod a hanner.
 28. [Buddugoliaeth rwydd i Forgannwg yn erbyn Nottingham](https://www.bbc.co.uk/newyddion/58139614) - Buddugoliaeth Morgannwg yn y gystadleuaeth undydd yn eu rhoi ar frig y grŵp.
