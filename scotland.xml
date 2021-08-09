@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 09 Aug 2021 11:43:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Aug 2021 11:53:00 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -240,6 +240,13 @@
             <pubDate>Sun, 08 Aug 2021 20:44:32 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Celtic: Hat-trick for 'phenomenal' Kyogo Furuhashi]]></title>
+            <description><![CDATA[Kyogo Furuhashi marks his home debut for Celtic with a hat-trick as Ryan Christie also shines in a 6-0 thumping of Dundee.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/football/58143466</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/58143466</guid>
+            <pubDate>Mon, 09 Aug 2021 11:46:34 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Scottish Gossip: Celtic, Rangers, Livingston, Ross County, St Johnstone]]></title>
             <description><![CDATA[Celtic boss not giving up on keeping playmaker and striker linked with Serie A club as Livingston line up new loan signing...]]></description>
             <link>https://www.bbc.co.uk/sport/football/58143204</link>
@@ -259,13 +266,6 @@
             <link>https://www.bbc.co.uk/sport/football/58139951</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58139951</guid>
             <pubDate>Sun, 08 Aug 2021 17:00:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hero Open: Grant Forrest dedicates 'dream' first European Tour title to late dad]]></title>
-            <description><![CDATA[Scotland's Grant Forrest secures his first European Tour title and says his late father was "the big inspiration" ahead of his thrilling Hero Open win.]]></description>
-            <link>https://www.bbc.co.uk/sport/golf/58140852</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/golf/58140852</guid>
-            <pubDate>Mon, 09 Aug 2021 07:30:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
