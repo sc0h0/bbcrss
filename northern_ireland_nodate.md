@@ -1,7 +1,7 @@
 1. [Glenshane Pass: Man dies after car and lorry crash](https://www.bbc.co.uk/news/uk-northern-ireland-58143530) - The collision happened between Dungiven and Maghera early on Monday morning.
 2. [Climate change: UN report is a 'frightening wake-up call'](https://www.bbc.co.uk/news/uk-northern-ireland-58143040) - Infrastructure Minister Nichola Mallon says the NI Executive must progress climate change laws.
 3. [Covid-19: Eight more deaths and 1,031 new coronavirus cases](https://www.bbc.co.uk/news/uk-northern-ireland-58149214) - The total number of deaths linked to Covid-19 in NI since the start of the pandemic is 2,228.
-4. [Tyrone v Kerry semi-final pushed back to 21 August](https://www.bbc.co.uk/sport/gaelic-games/58143836) - Tyrone's All-Ireland semi-final against Kerry is rescheduled for 21 August because of Covid-19 cases in the Ulster champions' camp
+4. [Tyrone v Kerry semi-final delayed until 21 August](https://www.bbc.co.uk/sport/gaelic-games/58143836) - Tyrone's All-Ireland Football semi-final against Kerry is rescheduled for 21 August because of Covid-19 cases in the Red Hands' camp
 5. [Roselawn: Belfast City Council reveals plan for new crematorium](https://www.bbc.co.uk/news/uk-northern-ireland-58143531) - The public is asked to give its view on the plan for the £18m project to boost cremation capacity.
 6. [Troubles' legacy plans 'may give amnesty to killers'](https://www.bbc.co.uk/news/uk-northern-ireland-58115548) - The family of the first UDR soldier murdered in the Troubles speak out on 50th anniversary of his killing.
 7. [Dungannon: Woman arrested over death of two-year-old girl](https://www.bbc.co.uk/news/uk-northern-ireland-58139997) - The police are also given an extra 36 hours to hold a man arrested on suspicion of murder.
