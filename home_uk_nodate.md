@@ -7,7 +7,7 @@
 7. [Weather warning as thunderstorms cause severe flooding](https://www.bbc.co.uk/news/uk-scotland-58144882) - Torrential downpours are causing disruption for rail users and difficult driving conditions across Scotland.
 8. [Covid-19: Joy for Scottish clubbers and Sheeran and Jagger join India fundraiser](https://www.bbc.co.uk/news/uk-58150116) - Five things you need to know about the coronavirus pandemic this Monday evening.
 9. [Vodafone to bring back roaming charges from January](https://www.bbc.co.uk/news/technology-58146039) - It follows EE's decision to reintroduce daily charges for using phone tariffs while in Europe
-10. [Bute Park attack: Gary Jenkins dies 16 days after incident](https://www.bbc.co.uk/news/uk-wales-58146759) - Father-of-two Dr Gary Jenkins had been in hospital since the attack in a Cardiff Park on 20 July.
+10. [Consult on damages for crime victims with convictions, court tells government](https://www.bbc.co.uk/news/uk-58146579) - The High Court orders a consultation on the compensation rules for victims with unspent convictions.
 11. [Andrew Cuomo: Accuser Brittany Commisso says governor broke law](https://www.bbc.co.uk/news/world-us-canada-58146323) - Brittany Commisso speaks for the first time about alleged groping incidents with New York governor.
 12. [Thunberg calls out climate impact of fashion brands in Vogue interview](https://www.bbc.co.uk/news/world-europe-58145465) - Many companies are only pretending to care about the climate, the activist tells Vogue Scandinavia.
 13. [Apple defends new photo scanning child protection tech](https://www.bbc.co.uk/news/technology-58145943) - The tech giant has insisted that its new technology will not be used to spy on its users.
