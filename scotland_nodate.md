@@ -1,7 +1,7 @@
 1. [Covid restrictions lifted as Scotland exits level zero](https://www.bbc.co.uk/news/uk-scotland-58136277) - Physical distancing ends in most settings, nightclubs reopen and limits on gatherings are removed.
 2. [Is the coronavirus pandemic over at last?](https://www.bbc.co.uk/news/uk-scotland-58112939) - As Scotland loosens most of its remaining restrictions, is the devastating pandemic finally at an end?
 3. [Scotland's papers: End of level zero and praise for GB 'heroes'](https://www.bbc.co.uk/news/uk-scotland-58142755) - The lifting of most restrictions in Scotland and the Olympics closing ceremony make the front pages.
-4. [Exams remain 'best way' to guarantee standards, experts say](https://www.bbc.co.uk/news/uk-scotland-58139111) - The Commission on School Reform says coursework is important but exams guarantee consistent standards.
+4. [Will Scotland go back to traditional school exams?](https://www.bbc.co.uk/news/uk-scotland-58139111) - Will Scottish school pupils be studying for traditional exams in 2022, or have things changed for good?
 5. [Climate change: IPCC report is 'code red for humanity'](https://www.bbc.co.uk/news/science-environment-58130705) - Heating from humans has caused irreparable damage to the Earth that may get worse in coming decades.
 6. [Covid in Scotland: Bothies open for 'responsible use'](https://www.bbc.co.uk/news/uk-scotland-highlands-islands-58144390) - The shelters in Scotland have reopened following a further relaxation of Covid restrictions.
 7. [Drivers in Scotland warned due to more downpours and floods](https://www.bbc.co.uk/news/uk-scotland-58136344) - A yellow warning remains in place after torrential rain closed railway lines and flooded streets on Saturday.

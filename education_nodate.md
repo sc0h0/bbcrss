@@ -1,7 +1,7 @@
 1. [A-level results: Students have been treated fairly - watchdog](https://www.bbc.co.uk/news/education-58141518) - The head of the exams regulator defends the system for deciding grades ahead of A-level and GCSE results day.
 2. [A-levels 2021: When do results come out?](https://www.bbc.co.uk/news/education-58026976) - For the second year running, pupils in England, Wales and Northern Ireland have not taken the exams.
 3. [Exams 2021: 'Will they take our Covid grades seriously?'](https://www.bbc.co.uk/news/education-58085778) - It's been a stressful few months for the thousands of young people waiting for their exam results.
-4. [Exams remain 'best way' to guarantee standards, experts say](https://www.bbc.co.uk/news/uk-scotland-58139111) - The Commission on School Reform says coursework is important but exams guarantee consistent standards.
+4. [Will Scotland go back to traditional school exams?](https://www.bbc.co.uk/news/uk-scotland-58139111) - Will Scottish school pupils be studying for traditional exams in 2022, or have things changed for good?
 5. [Cash prize jackpot offered for double-jabbed students](https://www.bbc.co.uk/news/education-58115658) - A university hopes to boost Covid jab take-up among students by offering 10 £5,000 cash prizes.
 6. [University clearing may be 'much more competitive' this year - Ucas boss](https://www.bbc.co.uk/news/education-58124095) - "It's still a good year for clearing," says the admissions service boss, ahead of results day next week.
 7. [A-levels: Bumper year for top grades predicted](https://www.bbc.co.uk/news/education-58106929) - Results could see very high grades this year, which could put pressure on some university courses.

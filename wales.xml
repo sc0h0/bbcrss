@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 09 Aug 2021 09:51:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Aug 2021 10:20:31 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -21,6 +21,20 @@
             <link>https://www.bbc.co.uk/news/uk-wales-58118679</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58118679</guid>
             <pubDate>Mon, 09 Aug 2021 05:10:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hell's Mouth: Man dies after getting into difficulty in the sea]]></title>
+            <description><![CDATA[The man died at the scene after being pulled from the sea off the north Wales coast on Friday.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-58124059</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58124059</guid>
+            <pubDate>Mon, 09 Aug 2021 10:03:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Porth Ysgo rescue: Two people rescued from disused mine shaft]]></title>
+            <description><![CDATA[Mountain rescue says two people were trapped after falling down a disused mine shaft.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-58143594</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58143594</guid>
+            <pubDate>Mon, 09 Aug 2021 09:00:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: Will Wales' GP surgeries go 'back to normal'?]]></title>
@@ -35,13 +49,6 @@
             <link>https://www.bbc.co.uk/news/uk-wales-58139154</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58139154</guid>
             <pubDate>Mon, 09 Aug 2021 05:31:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Porth Ysgo rescue: Two people rescued from disused mine shaft]]></title>
-            <description><![CDATA[Mountain rescue says two people were trapped after falling down a disused mine shaft.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-58143594</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58143594</guid>
-            <pubDate>Mon, 09 Aug 2021 09:00:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Cefn Mawr disused chapel set to reopen after eight years]]></title>
@@ -91,13 +98,6 @@
             <link>https://www.bbc.co.uk/news/uk-wales-58128542</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58128542</guid>
             <pubDate>Sat, 07 Aug 2021 17:00:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: Pubs busy as most rules end in Wales]]></title>
-            <description><![CDATA[Social distancing ends, but face masks are still needed in shops and on public transport.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-58086808</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58086808</guid>
-            <pubDate>Sat, 07 Aug 2021 17:55:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Pollution: 'This is my coffin, this is why I swim with it']]></title>
@@ -184,18 +184,18 @@
             <pubDate>Mon, 09 Aug 2021 05:42:58 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Dyn wedi marw ar ôl mynd i drafferthion yn y môr ym Mhen Llŷn]]></title>
+            <description><![CDATA[Bu farw'r dyn wedi iddo fynd i drafferthion yn y môr ar draeth Porth Neigwl ddydd Gwener.]]></description>
+            <link>https://www.bbc.co.uk/newyddion/58118178</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/newyddion/58118178</guid>
+            <pubDate>Mon, 09 Aug 2021 09:54:34 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Ymateb cymysg wedi penwythnos cyntaf lefel rhybudd sero]]></title>
             <description><![CDATA[I nifer roedd y penwythnos yn ddechrau newydd, ond pryderon hefyd wrth i Gymru lacio'r cyfyngiadau.]]></description>
             <link>https://www.bbc.co.uk/newyddion/58139610</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/newyddion/58139610</guid>
             <pubDate>Mon, 09 Aug 2021 06:06:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Golygu lluniau'n 'achosi problemau iechyd meddwl']]></title>
-            <description><![CDATA[Rhybudd y gall golygu lluniau arwain at gynnydd yn y nifer o bobl sy'n dioddef o anhwylderau meddyliol.]]></description>
-            <link>https://www.bbc.co.uk/newyddion/57941951</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/newyddion/57941951</guid>
-            <pubDate>Mon, 09 Aug 2021 06:26:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ateb y Galw: Y cerddor Ifan Emlyn Jones]]></title>

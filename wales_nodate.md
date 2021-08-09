@@ -1,15 +1,15 @@
 1. [Covid: Office staff stay home despite end of Wales restrictions](https://www.bbc.co.uk/news/uk-wales-58118679) - Hybrid working could be one of the long-term legacies of the pandemic and lockdown restrictions.
-2. [Covid: Will Wales' GP surgeries go 'back to normal'?](https://www.bbc.co.uk/news/uk-wales-58086060) - GPs say false accusations they are shut and should "get back to work" are affecting morale.
-3. [Covid: Porthcawl Elvis Festival boss fears 'legal minefield'](https://www.bbc.co.uk/news/uk-wales-58139154) - Organisers must carry out risk assessments and take measures to minimise the spread of Covid.
-4. [Porth Ysgo rescue: Two people rescued from disused mine shaft](https://www.bbc.co.uk/news/uk-wales-58143594) - Mountain rescue says two people were trapped after falling down a disused mine shaft.
-5. [Cefn Mawr disused chapel set to reopen after eight years](https://www.bbc.co.uk/news/uk-wales-58139831) - The Ebenzer became a community centre in 2008, but lacked visitors and closed in 2013.
-6. [Booker Prize: Novel inspired by last hanging at Cardiff prison](https://www.bbc.co.uk/news/uk-wales-58112179) - Mahmood Mattan's wrongful conviction has inspired a novel longlisted for the Booker Prize.
-7. [Covid: Student 'crying for water' in Majorca quarantine hotel](https://www.bbc.co.uk/news/uk-wales-58129253) - A student nurse says her treatment at a Covid quarantine hotel in Majorca has been "like prison".
-8. [Covid in Wales: Three more deaths and 864 new cases](https://www.bbc.co.uk/news/uk-wales-58129989) - It means there have been 5,626 deaths and 246,205 positive tests during the pandemic in Wales.
-9. ['Superb' Price wins historic boxing gold ](https://www.bbc.co.uk/sport/olympics/58134516) - Britain's Lauren Price becomes the first Welsh fighter to win an Olympic boxing gold medal, beating China's Li Qian in the women's middleweight final.
-10. [River pollution in Wales: Swimmers warned over sewage](https://www.bbc.co.uk/news/uk-wales-57947635) - Waterways have become increasingly popular places to swim, especially with pools closed in lockdown.
-11. [Bridge-collapse fears trigger alert for Bassaleg homeowners](https://www.bbc.co.uk/news/uk-wales-58128542) - Temporary accommodation is available for those who decide to leave, the council says.
-12. [Covid: Pubs busy as most rules end in Wales](https://www.bbc.co.uk/news/uk-wales-58086808) - Social distancing ends, but face masks are still needed in shops and on public transport.
+2. [Hell's Mouth: Man dies after getting into difficulty in the sea](https://www.bbc.co.uk/news/uk-wales-58124059) - The man died at the scene after being pulled from the sea off the north Wales coast on Friday.
+3. [Porth Ysgo rescue: Two people rescued from disused mine shaft](https://www.bbc.co.uk/news/uk-wales-58143594) - Mountain rescue says two people were trapped after falling down a disused mine shaft.
+4. [Covid: Will Wales' GP surgeries go 'back to normal'?](https://www.bbc.co.uk/news/uk-wales-58086060) - GPs say false accusations they are shut and should "get back to work" are affecting morale.
+5. [Covid: Porthcawl Elvis Festival boss fears 'legal minefield'](https://www.bbc.co.uk/news/uk-wales-58139154) - Organisers must carry out risk assessments and take measures to minimise the spread of Covid.
+6. [Cefn Mawr disused chapel set to reopen after eight years](https://www.bbc.co.uk/news/uk-wales-58139831) - The Ebenzer became a community centre in 2008, but lacked visitors and closed in 2013.
+7. [Booker Prize: Novel inspired by last hanging at Cardiff prison](https://www.bbc.co.uk/news/uk-wales-58112179) - Mahmood Mattan's wrongful conviction has inspired a novel longlisted for the Booker Prize.
+8. [Covid: Student 'crying for water' in Majorca quarantine hotel](https://www.bbc.co.uk/news/uk-wales-58129253) - A student nurse says her treatment at a Covid quarantine hotel in Majorca has been "like prison".
+9. [Covid in Wales: Three more deaths and 864 new cases](https://www.bbc.co.uk/news/uk-wales-58129989) - It means there have been 5,626 deaths and 246,205 positive tests during the pandemic in Wales.
+10. ['Superb' Price wins historic boxing gold ](https://www.bbc.co.uk/sport/olympics/58134516) - Britain's Lauren Price becomes the first Welsh fighter to win an Olympic boxing gold medal, beating China's Li Qian in the women's middleweight final.
+11. [River pollution in Wales: Swimmers warned over sewage](https://www.bbc.co.uk/news/uk-wales-57947635) - Waterways have become increasingly popular places to swim, especially with pools closed in lockdown.
+12. [Bridge-collapse fears trigger alert for Bassaleg homeowners](https://www.bbc.co.uk/news/uk-wales-58128542) - Temporary accommodation is available for those who decide to leave, the council says.
 13. [Pollution: 'This is my coffin, this is why I swim with it'](https://www.bbc.co.uk/news/uk-wales-58023181) - Wild swimmer Angela Jones says she hopes her specially designed coffin will catch attention.
 14. [Covid: Excitement as nightclubs reopen in Wales](https://www.bbc.co.uk/news/uk-wales-58123120) - Most of Wales' remaining Covid rules are lifted as nightclubs reopen in alert level zero.
 15. [Covid: How will we adjust to life without so many rules?](https://www.bbc.co.uk/news/uk-wales-58121667) - With Wales moving into alert level zero, an expert says behaviours learnt in the pandemic might last.
@@ -22,7 +22,7 @@
 22. ['You could hear a pin drop' - reporting on the unique Tokyo Olympics](https://www.bbc.co.uk/sport/av/olympics/58141026) - From masks and quarantine to empty seats and daily Covid-19 tests, this is what it was like to report on a unique Olympic Games.
 23. [One Day Cup: Glamorgan thrash Nottinghamshire Outlaws by eight wickets](https://www.bbc.co.uk/sport/cricket/58139074) - Glamorgan move to the verge of the One-Day Cup knockout stages after thrashing an inexperienced Notts Outlaws side by eight wickets.
 24. [Covid: Gweithwyr yn aros adref er i'r cyfyngiadau godi](https://www.bbc.co.uk/newyddion/58135996) - Y gred yw na fydd pawb yn dychwelyd yn llawn amser i'r swyddfa fyth eto.
-25. [Ymateb cymysg wedi penwythnos cyntaf lefel rhybudd sero](https://www.bbc.co.uk/newyddion/58139610) - I nifer roedd y penwythnos yn ddechrau newydd, ond pryderon hefyd wrth i Gymru lacio'r cyfyngiadau.
-26. [Golygu lluniau'n 'achosi problemau iechyd meddwl'](https://www.bbc.co.uk/newyddion/57941951) - Rhybudd y gall golygu lluniau arwain at gynnydd yn y nifer o bobl sy'n dioddef o anhwylderau meddyliol.
+25. [Dyn wedi marw ar ôl mynd i drafferthion yn y môr ym Mhen Llŷn](https://www.bbc.co.uk/newyddion/58118178) - Bu farw'r dyn wedi iddo fynd i drafferthion yn y môr ar draeth Porth Neigwl ddydd Gwener.
+26. [Ymateb cymysg wedi penwythnos cyntaf lefel rhybudd sero](https://www.bbc.co.uk/newyddion/58139610) - I nifer roedd y penwythnos yn ddechrau newydd, ond pryderon hefyd wrth i Gymru lacio'r cyfyngiadau.
 27. [Ateb y Galw: Y cerddor Ifan Emlyn Jones](https://www.bbc.co.uk/newyddion/58059715) - Y cynhyrchydd a'r cerddor Ifan Emlyn Jones sy'n cael ei holi yr wythnos yma
 28. [Seiclwr o Abertawe yn 'un i'w gwylio' yn y dyfodol](https://www.bbc.co.uk/newyddion/58139612) - Dywed Eluned King ei bod wedi elwa o'r cyfnod clo a'i bod yn gobeithio seiclo yng Ngemau'r Gymanwlad yn 2022.

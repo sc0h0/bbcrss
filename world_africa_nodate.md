@@ -1,6 +1,6 @@
-1. [Malta: The teenagers pulled from the sea and accused of terrorism](https://www.bbc.co.uk/news/world-57988934) - How three teenagers rescued from the Mediterranean Sea ended up in Malta accused of terrorism.
-2. [Africa's golden moments from Tokyo 2020](https://www.bbc.co.uk/sport/africa/58140946) - BBC Sport Africa's Celestine Karoney digs out Africa's golden moments from Tokyo 2020.
-3. [Nigerian Igbo Jewish leader arrested with Israeli visitors freed](https://www.bbc.co.uk/news/world-africa-58097200) - Lizben Agha was held for weeks without charge after becoming caught up with the three men's arrest.
+1. [Nigerian Igbo Jewish leader arrested with Israeli visitors freed](https://www.bbc.co.uk/news/world-africa-58097200) - Lizben Agha was held for weeks without charge after becoming caught up with the three men's arrest.
+2. [Malta: The teenagers pulled from the sea and accused of terrorism](https://www.bbc.co.uk/news/world-57988934) - How three teenagers rescued from the Mediterranean Sea ended up in Malta accused of terrorism.
+3. [Africa's golden moments from Tokyo 2020](https://www.bbc.co.uk/sport/africa/58140946) - BBC Sport Africa's Celestine Karoney digs out Africa's golden moments from Tokyo 2020.
 4. [Mozambique insurgency: Key port retaken from insurgents - Rwanda](https://www.bbc.co.uk/news/world-africa-58138507) - Mocímboa da Praia was the Islamist militants' last stronghold in northern Mozambique, Rwanda says.
 5. [Outrage after Zimbabwean girl, 14, dies giving birth at church shrine](https://www.bbc.co.uk/news/world-africa-58130891) - Memory Machaya's death at a church leads to calls for the government to end forced child marriage.
 6. [Nigeria kidnappings: Chibok schoolgirl returns home seven years on](https://www.bbc.co.uk/news/world-africa-58138504) - More than 270 girls were seized by Islamist militants in 2014, and many of them are still missing.
@@ -8,9 +8,9 @@
 8. [Telfar Clemens: Designer creates Tokyo 2020 Olympic outfits for Team Liberia](https://www.bbc.co.uk/news/world-africa-58123178) - American-Liberian designer Telfar Clemens created Liberian team's outfits at the Tokyo Olympics.
 9. [In pictures: Egypt pharaoh's 'solar boat' moved to Giza museum](https://www.bbc.co.uk/news/in-pictures-58088867) - The Great Boat of King Khufu is more than 4,500 years old, and was found virtually intact in 1954.
 10. [Africa Covid chief John Nkengasong says vaccine saved his life](https://www.bbc.co.uk/news/world-africa-58116530) - Dr John Nkengasong says he is suffering from coronavirus but "wouldn't be here" without the jab.
-11. [Abba Kyari: The Nigerian super sleuth wanted in the US](https://www.bbc.co.uk/news/world-africa-58079504) - Highly decorated policeman Abba Kyari's reputation is under scrutiny over alleged fraud.
-12. ['We want trillions to heal our wounds'](https://www.bbc.co.uk/news/world-africa-57961151) - Descendants of victims of Germany's atrocities in Namibia say the money offered is not nearly enough.
-13. [Mozambique insurgency: Rwanda leads the fightback](https://www.bbc.co.uk/news/world-africa-58079510) - A 1,000-strong force has made major gains against the insurgents since its deployment last month.
+11. [Mozambique insurgency: Rwanda leads the fightback](https://www.bbc.co.uk/news/world-africa-58079510) - A 1,000-strong force has made major gains against the insurgents since its deployment last month.
+12. [Abba Kyari: The Nigerian super sleuth wanted in the US](https://www.bbc.co.uk/news/world-africa-58079504) - Highly decorated policeman Abba Kyari's reputation is under scrutiny over alleged fraud.
+13. ['We want trillions to heal our wounds'](https://www.bbc.co.uk/news/world-africa-57961151) - Descendants of victims of Germany's atrocities in Namibia say the money offered is not nearly enough.
 14. [Peter Bol: The Sudanese-Australian runner who lifted a nation](https://www.bbc.co.uk/news/world-australia-58095689) - Peter Bol's Olympics has delighted Australians, becoming a "symbol of what we can aspire to be".
 15. [Nigerian student shocked to see friend's body in anatomy class](https://www.bbc.co.uk/news/world-africa-57748122) - Nigerian students often dissect "unclaimed" bodies from mortuaries but some are victims of police violence.
 16. [Nigeria's kidnap crisis: 'I saw my two-year-old carried by a man with a gun'](https://www.bbc.co.uk/news/world-africa-57929074) - Parents of schoolchildren abducted in Nigeria describe their trauma, and dilemma over the ransom demands.
