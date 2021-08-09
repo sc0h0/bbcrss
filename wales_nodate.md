@@ -22,7 +22,7 @@
 22. [British and Irish Lions 2021: Alun Wyn Jones defends right to be 'emotional' after loss](https://www.bbc.co.uk/sport/rugby-union/58138564) - British and Irish Lions captain Alun Wyn Jones defends his right to be "overly emotional" after his spectacular injury return ended in a narrow series loss to South Africa.
 23. [Wales netball: Coach Sarah Hale names squad for first game in two years](https://www.bbc.co.uk/sport/netball/58147649) - Wales Coach Sarah Hale names 15 players for Glasgow friendlies, the first netball games for the national side since 2019.
 24. [Dyn wedi marw 16 diwrnod ar ôl ymosodiad Parc Bute](https://www.bbc.co.uk/newyddion/58145696) - Mae tri pherson yn y ddalfa heddlu wedi'u cyhuddo o ymgais i lofruddio.
-25. [Covid: Gweithwyr yn aros adref er i'r cyfyngiadau godi](https://www.bbc.co.uk/newyddion/58135996) - Y gred yw na fydd pawb yn dychwelyd yn llawn amser i'r swyddfa fyth eto.
+25. [Giang wedi herwgipio plentyn 'oherwydd cam-drin satanaidd'](https://www.bbc.co.uk/newyddion/58146737) - Chwe pherson yn euog o gynllwynio i herwgipio plentyn am eu bod yn amau camdriniaeth satanaidd.
 26. [Dyn wedi marw ar ôl mynd i drafferthion yn y môr ym Mhen Llŷn](https://www.bbc.co.uk/newyddion/58118178) - Bu farw'r dyn wedi iddo fynd i drafferthion yn y môr ar draeth Porth Neigwl ddydd Gwener.
 27. [Lle fyddai Cymru yn nhabl medalau Tokyo 2020?](https://www.bbc.co.uk/newyddion/58144971) - Enillodd aelodau Cymreig Tîm GB wyth o fedalau yn y Gemau Olympaidd eleni.
 28. [Seiclwr o Abertawe yn 'un i'w gwylio' yn y dyfodol](https://www.bbc.co.uk/newyddion/58139612) - Dywed Eluned King ei bod wedi elwa o'r cyfnod clo a'i bod yn gobeithio seiclo yng Ngemau'r Gymanwlad yn 2022.
