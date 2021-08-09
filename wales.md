@@ -24,5 +24,5 @@
 24. [Dyn wedi marw 16 diwrnod ar ôl ymosodiad Parc Bute](https://www.bbc.co.uk/newyddion/58145696) - Mon, 09 Aug 2021 13:04:41 GMT - Mae tri pherson yn y ddalfa heddlu wedi'u cyhuddo o ymgais i lofruddio.
 25. [Covid: Gweithwyr yn aros adref er i'r cyfyngiadau godi](https://www.bbc.co.uk/newyddion/58135996) - Mon, 09 Aug 2021 05:42:58 GMT - Y gred yw na fydd pawb yn dychwelyd yn llawn amser i'r swyddfa fyth eto.
 26. [Dyn wedi marw ar ôl mynd i drafferthion yn y môr ym Mhen Llŷn](https://www.bbc.co.uk/newyddion/58118178) - Mon, 09 Aug 2021 10:22:33 GMT - Bu farw'r dyn wedi iddo fynd i drafferthion yn y môr ar draeth Porth Neigwl ddydd Gwener.
-27. [Ateb y Galw: Y cerddor Ifan Emlyn Jones](https://www.bbc.co.uk/newyddion/58059715) - Mon, 09 Aug 2021 08:27:28 GMT - Y cynhyrchydd a'r cerddor Ifan Emlyn Jones sy'n cael ei holi yr wythnos yma
+27. [Lle fyddai Cymru yn nhabl medalau Tokyo 2020?](https://www.bbc.co.uk/newyddion/58144971) - Mon, 09 Aug 2021 12:05:30 GMT - Enillodd aelodau Cymreig Tîm GB wyth o fedalau yn y Gemau Olympaidd eleni.
 28. [Seiclwr o Abertawe yn 'un i'w gwylio' yn y dyfodol](https://www.bbc.co.uk/newyddion/58139612) - Mon, 09 Aug 2021 06:52:43 GMT - Dywed Eluned King ei bod wedi elwa o'r cyfnod clo a'i bod yn gobeithio seiclo yng Ngemau'r Gymanwlad yn 2022.

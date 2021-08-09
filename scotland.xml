@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 09 Aug 2021 13:38:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Aug 2021 13:48:16 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -79,18 +79,18 @@
             <pubDate>Mon, 09 Aug 2021 10:22:23 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Ascensos to create 100 call centre jobs in Stranraer]]></title>
+            <description><![CDATA[Ascensos plans to open a "community-focused" hub in the town as part of a £1m investment.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-scotland-business-58116469</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-scotland-business-58116469</guid>
+            <pubDate>Mon, 09 Aug 2021 13:18:56 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Drivers in Scotland warned due to more downpours and floods]]></title>
             <description><![CDATA[A yellow warning remains in place after torrential rain closed railway lines and flooded streets on Saturday.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-58136344</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58136344</guid>
             <pubDate>Sun, 08 Aug 2021 18:16:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Scotland's papers: End of level zero and praise for GB 'heroes']]></title>
-            <description><![CDATA[The lifting of most restrictions in Scotland and the Olympics closing ceremony make the front pages.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-58142755</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58142755</guid>
-            <pubDate>Mon, 09 Aug 2021 07:01:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid in Scotland: Where are the latest cases?]]></title>
@@ -205,6 +205,13 @@
             <pubDate>Sun, 08 Aug 2021 20:44:32 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Rangers v Malmo: Steven Gerrard urges hosts to 'light the fire']]></title>
+            <description><![CDATA[Steven Gerrard says Rangers can "flip the mood" with Champions League qualifying victory against Malmo on Tuesday.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58137804</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58137804</guid>
+            <pubDate>Mon, 09 Aug 2021 13:38:44 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Celtic: Hat-trick for 'phenomenal' Kyogo Furuhashi]]></title>
             <description><![CDATA[Kyogo Furuhashi marks his home debut for Celtic with a hat-trick as Ryan Christie also shines in a 6-0 thumping of Dundee.]]></description>
             <link>https://www.bbc.co.uk/sport/av/football/58143466</link>
@@ -224,13 +231,6 @@
             <link>https://www.bbc.co.uk/sport/av/football/58140859</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/58140859</guid>
             <pubDate>Sun, 08 Aug 2021 23:07:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Celtic 6-0 Dundee: 'Kyogo Furuhashi ignites side with mesmeric display']]></title>
-            <description><![CDATA[Kyogo Furuhashi scored three goals but his influence on Celtic went far beyond that, writes Tom English.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58139951</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58139951</guid>
-            <pubDate>Sun, 08 Aug 2021 17:00:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
