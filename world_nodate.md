@@ -1,4 +1,4 @@
-1. [Climate change: UN to reveal landmark IPCC report findings](https://www.bbc.co.uk/news/science-environment-58141129) - The report will be a "massive wake-up call" to governments to cut emissions, environmental experts say.
+1. [Climate change: IPCC report is 'code red for humanity'](https://www.bbc.co.uk/news/science-environment-58130705) - Heating from humans has caused irreparable damage to the Earth that may get worse in coming decades.
 2. [Afghanistan war: Taliban push on while rejecting truce](https://www.bbc.co.uk/news/world-asia-58142983) - The militant group spurns international calls for a ceasefire, as it continues to gain ground.
 3. [Greece wildfires: Evia island residents forced to evacuate](https://www.bbc.co.uk/news/world-europe-58141336) - Hundreds on the island of Evia flee to safety by sea as a record heatwave triggers devastating fires.
 4. [Greece wildfires: 'It's like a horror movie but it's real life'](https://www.bbc.co.uk/news/world-europe-58141236) - Thousands of people have had to evacuate Greece's second biggest island as severe wildfires rage.

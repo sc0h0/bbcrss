@@ -1,7 +1,7 @@
 1. [Troubles' legacy plans 'may give amnesty to killers'](https://www.bbc.co.uk/news/uk-northern-ireland-58115548) - The family of the first UDR soldier murdered in the Troubles speak out on 50th anniversary of his killing.
-2. [NI internment: What's its legacy 50 years on?](https://www.bbc.co.uk/news/uk-northern-ireland-58141089) - Rather than reduce disorder, violence increased after detention without trial began in 1971.
-3. [Dungannon: Woman arrested over death of two-year-old girl](https://www.bbc.co.uk/news/uk-northern-ireland-58139997) - The police are also given an extra 36 hours to hold a man arrested on suspicion of murder.
-4. [Glenshane Pass closed after two-vehicle crash](https://www.bbc.co.uk/news/uk-northern-ireland-58143530) - Motorists are advised to seek another route and to expect their journey to be delayed.
+2. [Dungannon: Woman arrested over death of two-year-old girl](https://www.bbc.co.uk/news/uk-northern-ireland-58139997) - The police are also given an extra 36 hours to hold a man arrested on suspicion of murder.
+3. [Glenshane Pass closed after two-vehicle crash](https://www.bbc.co.uk/news/uk-northern-ireland-58143530) - Motorists are advised to seek another route and to expect their journey to be delayed.
+4. [NI internment: What's its legacy 50 years on?](https://www.bbc.co.uk/news/uk-northern-ireland-58141089) - Rather than reduce disorder, violence increased after detention without trial began in 1971.
 5. [Northern Ireland reports 'slowest economic growth in UK'](https://www.bbc.co.uk/news/uk-northern-ireland-58115547) - The construction industry saw its performance go into reverse in July, an Ulster Bank survey finds.
 6. [Saliva tubes, emotion and NI's Olympics 'what ifs'](https://www.bbc.co.uk/sport/olympics/58136029) - BBC Sport NI's Nigel Ringland describes his experience of covering the Tokyo Olympics and looks back on how Northern Ireland's competitors performed.
 7. [Dungannon: Petrol bombs thrown during disorder](https://www.bbc.co.uk/news/uk-northern-ireland-58138534) - Officers say up to 30 people wearing balaclavas blocked a road and set fire to furniture on Saturday.

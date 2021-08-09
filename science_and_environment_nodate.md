@@ -1,4 +1,4 @@
-1. [Climate change: UN to reveal landmark IPCC report findings](https://www.bbc.co.uk/news/science-environment-58141129) - The report will be a "massive wake-up call" to governments to cut emissions, environmental experts say.
+1. [Climate change: IPCC report is 'code red for humanity'](https://www.bbc.co.uk/news/science-environment-58130705) - Heating from humans has caused irreparable damage to the Earth that may get worse in coming decades.
 2. [Climate change: Time running out to stop catastrophe - Alok Sharma](https://www.bbc.co.uk/news/uk-58132939) - Despite his warning, the Tory climate chief does not rule out future fossil fuel projects in the UK.
 3. [Why China's climate policy matters to us all](https://www.bbc.co.uk/news/world-asia-china-57483492) - The global battle against climate change is likely to be won or lost in China.
 4. [Greece wildfires: Evia island residents forced to evacuate](https://www.bbc.co.uk/news/world-europe-58141336) - Hundreds on the island of Evia flee to safety by sea as a record heatwave triggers devastating fires.
