@@ -3,9 +3,9 @@
 3. [Gang tried to kidnap Anglesey child over satanic abuse fear](https://www.bbc.co.uk/news/uk-wales-57941016) - Two gang members snatched the child at knifepoint as they returned home from school.
 4. [Climate change: IPCC report heralds Wales' 'last-chance saloon'](https://www.bbc.co.uk/news/uk-wales-58146128) - Rising sea levels could force the "significant relocation of communities" in Wales, one expert warns.
 5. [Towyn: Teen sister of murder accused 'died of asphyxia'](https://www.bbc.co.uk/news/uk-wales-58149304) - Amanda Selby, 15, whose brother has been charged with her murder, died of asphyxia, inquest hears.
-6. [Cardiff: Man charged with raping stranger 41 years ago](https://www.bbc.co.uk/news/uk-wales-58149303) - The 66-year-old was arrested following a review of an unsolved attack in Cardiff in 1980.
+6. [Swansea City and Ospreys stadium renamed Swansea.com Stadium in new deal](https://www.bbc.co.uk/sport/wales/58148996) - Swansea City and Ospreys' home ground has been renamed Swansea.com Stadium in a 10-year deal.
 7. [Hell's Mouth: Man dies after getting into difficulty in the sea](https://www.bbc.co.uk/news/uk-wales-58124059) - The man died at the scene after being pulled from the sea off the north Wales coast on Friday.
-8. [Swansea City and Ospreys stadium renamed Swansea.com Stadium in new deal](https://www.bbc.co.uk/sport/wales/58148996) - Swansea City and Ospreys' home ground has been renamed Swansea.com Stadium in a 10-year deal.
+8. [Cardiff: Man charged with raping stranger 41 years ago](https://www.bbc.co.uk/news/uk-wales-58149303) - The 66-year-old was arrested following a review of an unsolved attack in Cardiff in 1980.
 9. [Covid: Porthcawl Elvis Festival boss fears 'legal minefield'](https://www.bbc.co.uk/news/uk-wales-58139154) - Organisers must carry out risk assessments and take measures to minimise the spread of Covid.
 10. [Covid: Office staff stay home despite end of Wales restrictions](https://www.bbc.co.uk/news/uk-wales-58118679) - Hybrid working could be one of the long-term legacies of the pandemic and lockdown restrictions.
 11. [Porth Ysgo rescue: Two people rescued from disused mine shaft](https://www.bbc.co.uk/news/uk-wales-58143594) - Mountain rescue says two people were trapped after falling down a disused mine shaft.
