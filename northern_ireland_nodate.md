@@ -2,7 +2,7 @@
 2. [Glenshane Pass: Man dies after car and lorry crash](https://www.bbc.co.uk/news/uk-northern-ireland-58143530) - The 30-year-old car driver from County Londonderry died at the scene.
 3. [Climate change: UN report is a 'frightening wake-up call'](https://www.bbc.co.uk/news/uk-northern-ireland-58143040) - Infrastructure Minister Nichola Mallon says the NI Executive must progress climate change laws.
 4. [Euro Auctions sold to Richie Bros for £775m](https://www.bbc.co.uk/news/uk-northern-ireland-58152835) - The Dromore company, set up in 1998, has grown to have more than 200 staff across 14 countries.
-5. [Tyrone v Kerry semi-final delayed until 21 August](https://www.bbc.co.uk/sport/gaelic-games/58143836) - Tyrone's All-Ireland Football semi-final against Kerry is rescheduled for 21 August because of Covid-19 cases in the Red Hands' camp
+5. [Tyrone v Kerry semi-final delayed until 21 August](https://www.bbc.co.uk/sport/gaelic-games/58143836) - Tyrone's All-Ireland Football semi-final against Kerry is rescheduled for 21 August because of Covid-19 cases in the Red Hands' camp.
 6. [Roselawn: Belfast City Council reveals plan for new crematorium](https://www.bbc.co.uk/news/uk-northern-ireland-58143531) - The public is asked to give its view on the plan for the £18m project to boost cremation capacity.
 7. [Troubles' legacy plans 'may give amnesty to killers'](https://www.bbc.co.uk/news/uk-northern-ireland-58115548) - The family of the first UDR soldier murdered in the Troubles speak out on 50th anniversary of his killing.
 8. [Covid-19: Vaccination 'dramatically' reduces hospital cases](https://www.bbc.co.uk/news/uk-northern-ireland-58149815) - NI's chief scientific officer made the comments as one hospital trust cancelled outpatient clinics.
