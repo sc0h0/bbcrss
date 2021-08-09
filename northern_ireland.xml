@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 09 Aug 2021 14:04:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Aug 2021 14:18:01 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -30,6 +30,27 @@
             <pubDate>Mon, 09 Aug 2021 12:53:11 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid-19: Eight more deaths and 1,031 new coronavirus cases]]></title>
+            <description><![CDATA[The total number of deaths linked to Covid-19 in NI since the start of the pandemic is 2,228.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58149214</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58149214</guid>
+            <pubDate>Mon, 09 Aug 2021 13:55:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tyrone v Kerry semi-final pushed back to 21 August]]></title>
+            <description><![CDATA[Tyrone's All-Ireland semi-final against Kerry is rescheduled for 21 August because of Covid-19 cases in the Ulster champions' camp]]></description>
+            <link>https://www.bbc.co.uk/sport/gaelic-games/58143836</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/gaelic-games/58143836</guid>
+            <pubDate>Mon, 09 Aug 2021 14:12:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Roselawn: Belfast City Council reveals plan for new crematorium]]></title>
+            <description><![CDATA[The public is asked to give its view on the plan for the £18m project to boost cremation capacity.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58143531</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58143531</guid>
+            <pubDate>Mon, 09 Aug 2021 10:52:33 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Troubles' legacy plans 'may give amnesty to killers']]></title>
             <description><![CDATA[The family of the first UDR soldier murdered in the Troubles speak out on 50th anniversary of his killing.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58115548</link>
@@ -42,27 +63,6 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58139997</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58139997</guid>
             <pubDate>Mon, 09 Aug 2021 08:43:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Roselawn: Belfast City Council reveals plan for new crematorium]]></title>
-            <description><![CDATA[The public is asked to give its view on the plan for the £18m project to boost cremation capacity.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58143531</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58143531</guid>
-            <pubDate>Mon, 09 Aug 2021 10:52:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Vodafone to bring back roaming charges from January]]></title>
-            <description><![CDATA[It follows EE's decision to reintroduce daily charges for using phone tariffs while in Europe]]></description>
-            <link>https://www.bbc.co.uk/news/technology-58146039</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-58146039</guid>
-            <pubDate>Mon, 09 Aug 2021 10:51:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NI internment: What's its legacy 50 years on?]]></title>
-            <description><![CDATA[Rather than reduce disorder, violence increased after detention without trial began in 1971.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58141089</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58141089</guid>
-            <pubDate>Mon, 09 Aug 2021 05:34:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Saliva tubes, emotion and NI's Olympics 'what ifs']]></title>
@@ -100,6 +100,13 @@
             <pubDate>Sun, 08 Aug 2021 20:54:12 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Vodafone to bring back roaming charges from January]]></title>
+            <description><![CDATA[It follows EE's decision to reintroduce daily charges for using phone tariffs while in Europe]]></description>
+            <link>https://www.bbc.co.uk/news/technology-58146039</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-58146039</guid>
+            <pubDate>Mon, 09 Aug 2021 10:51:04 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Northern Ireland reports 'slowest economic growth in UK']]></title>
             <description><![CDATA[The construction industry saw its performance go into reverse in July, an Ulster Bank survey finds.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58115547</link>
@@ -119,13 +126,6 @@
             <link>https://www.bbc.co.uk/news/world-europe-58124142</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58124142</guid>
             <pubDate>Sat, 07 Aug 2021 06:46:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid-19: One more Covid-linked death and 1,129 new cases]]></title>
-            <description><![CDATA[The total number of deaths linked to Covid-19 in NI since the start of the pandemic is 2,220.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58138536</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58138536</guid>
-            <pubDate>Sun, 08 Aug 2021 15:25:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Q&A: What are Northern Ireland's Covid travel rules?]]></title>
@@ -149,11 +149,25 @@
             <pubDate>Sun, 01 Aug 2021 05:34:25 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Coronavirus: More than 3,000 registered Covid-19 deaths in NI]]></title>
+            <description><![CDATA[For the first time, a person under the age of 15 is among the Covid-related deaths registered.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58112415</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58112415</guid>
+            <pubDate>Fri, 06 Aug 2021 19:25:43 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[What is climate change? A really simple guide]]></title>
             <description><![CDATA[BBC News looks at what we know and don't know about the Earth's changing climate.]]></description>
             <link>https://www.bbc.co.uk/news/science-environment-24021772</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-24021772</guid>
             <pubDate>Mon, 09 Aug 2021 11:41:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NI internment: What's its legacy 50 years on?]]></title>
+            <description><![CDATA[Rather than reduce disorder, violence increased after detention without trial began in 1971.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58141089</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58141089</guid>
+            <pubDate>Mon, 09 Aug 2021 05:34:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Latest Northern Ireland weather forecast]]></title>

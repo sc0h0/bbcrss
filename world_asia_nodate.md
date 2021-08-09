@@ -1,5 +1,5 @@
 1. [Why China's climate policy matters to us all](https://www.bbc.co.uk/news/world-asia-china-57483492) - The global battle against climate change is likely to be won or lost in China.
-2. [Afghanistan war: Taliban push on while rejecting truce](https://www.bbc.co.uk/news/world-asia-58142983) - The militant group spurns international calls for a ceasefire, as it continues to gain ground.
+2. [Afghanistan war: At least 27 children killed in three days, UN says](https://www.bbc.co.uk/news/world-asia-58142983) - Unicef says 27 deaths were recorded in three regions over 72 hours, amid rising violence.
 3. [Alibaba to sack manager accused of rape, according to memo seen by BBC](https://www.bbc.co.uk/news/business-58141606) - The move comes after a woman's allegations of sexual assault went viral on Chinese social media.
 4. [Thailand man charged over death of Swiss tourist near waterfall](https://www.bbc.co.uk/news/world-asia-58141926) - The 27-year-old man has been charged with murdering the 57-year-old woman.
 5. [We For India: Stars unite to help Covid relief work in India](https://www.bbc.co.uk/news/entertainment-arts-58146704) - Ed Sheeran, Annie Lennox, Mick Jagger and Bollywood actors will join forces for livestreamed event.
