@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 09 Aug 2021 11:55:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Aug 2021 12:33:33 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -51,6 +51,20 @@
             <pubDate>Mon, 09 Aug 2021 09:23:13 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Bute Park attack: Gary Jenkins dies 16 days after incident]]></title>
+            <description><![CDATA[Father-of-two Dr Gary Jenkins had been in hospital since the attack in a Cardiff Park on 20 July.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-58146759</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58146759</guid>
+            <pubDate>Mon, 09 Aug 2021 12:16:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: Home-working officials won't get paid less, says minister]]></title>
+            <description><![CDATA[Business Secretary Kwasi Kwarteng said mixing home and office working was "here to stay" post-Covid.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-58144187</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-58144187</guid>
+            <pubDate>Mon, 09 Aug 2021 12:25:54 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Saudi oil giant Aramco sees profits soar by almost 300%]]></title>
             <description><![CDATA[The results were boosted by a rise in oil prices as demand recovers after the pandemic.]]></description>
             <link>https://www.bbc.co.uk/news/business-58141607</link>
@@ -79,13 +93,6 @@
             <pubDate>Mon, 09 Aug 2021 10:31:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Harry Dunn: Lawyers claim phone may have distracted suspect]]></title>
-            <description><![CDATA[The claim appears in court documents for a US hearing into damages for Harry Dunn's fatal crash.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-northamptonshire-58144499</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-northamptonshire-58144499</guid>
-            <pubDate>Mon, 09 Aug 2021 09:37:38 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Chelsea's Ivy Asia restaurant sorry for 'culturally insensitive' advert]]></title>
             <description><![CDATA[The video features women dressed as geishas being pulled in a rickshaw to the restaurant.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-london-58145325</link>
@@ -100,18 +107,18 @@
             <pubDate>Mon, 09 Aug 2021 10:53:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Porth Ysgo rescue: Two people rescued from disused mine shaft]]></title>
-            <description><![CDATA[Mountain rescue says two people were trapped after falling down a disused mine shaft.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-58143594</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58143594</guid>
-            <pubDate>Mon, 09 Aug 2021 09:00:59 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Climate change: Make coal history says PM after climate warning]]></title>
             <description><![CDATA[Boris Johnson calls for a shift towards clean energy sources after "sobering" report on climate change.]]></description>
             <link>https://www.bbc.co.uk/news/uk-58144779</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58144779</guid>
-            <pubDate>Mon, 09 Aug 2021 11:48:26 GMT</pubDate>
+            <pubDate>Mon, 09 Aug 2021 12:15:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What is climate change? A really simple guide]]></title>
+            <description><![CDATA[BBC News looks at what we know and don't know about the Earth's changing climate.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-24021772</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-24021772</guid>
+            <pubDate>Mon, 09 Aug 2021 11:41:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Climate Basics: Your carbon footprint explained]]></title>
@@ -119,13 +126,6 @@
             <link>https://www.bbc.co.uk/news/science-environment-56822950</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-56822950</guid>
             <pubDate>Wed, 21 Apr 2021 23:03:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Climate Basics: CO2 explained]]></title>
-            <description><![CDATA[CO2 is at the heart of our changing climate. Here's why.]]></description>
-            <link>https://www.bbc.co.uk/news/science-environment-52926683</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-52926683</guid>
-            <pubDate>Mon, 08 Jun 2020 23:05:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Then and now: The burning issue of wildfires]]></title>
@@ -140,6 +140,13 @@
             <link>https://www.bbc.co.uk/news/uk-politics-58144227</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-58144227</guid>
             <pubDate>Mon, 09 Aug 2021 10:32:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Climate Basics: CO2 explained]]></title>
+            <description><![CDATA[CO2 is at the heart of our changing climate. Here's why.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-52926683</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-52926683</guid>
+            <pubDate>Mon, 08 Jun 2020 23:05:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Floods: Research shows millions more at risk of flooding]]></title>
@@ -182,6 +189,13 @@
             <link>https://www.bbc.co.uk/news/uk-england-nottinghamshire-58104765</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-nottinghamshire-58104765</guid>
             <pubDate>Mon, 09 Aug 2021 10:44:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Snorkeler's close encounter with 9ft basking shark]]></title>
+            <description><![CDATA[Wildlife ranger Craig Nisbet said the harmless giant swam within a metre of him as it fed on zooplankton.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-highlands-islands-58145408</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-highlands-islands-58145408</guid>
+            <pubDate>Mon, 09 Aug 2021 12:01:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How A Level and GCSE results are calculated]]></title>
@@ -303,6 +317,13 @@
             <pubDate>Sat, 07 Aug 2021 23:07:31 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Uninspired rugby and Erasmus antics - how will the Lions tour be remembered?]]></title>
+            <description><![CDATA[After a Lions series full of rancour and underwhelming rugby, how will the tour be remembered and where do the team go from here?]]></description>
+            <link>https://www.bbc.co.uk/sport/rugby-union/58146218</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/58146218</guid>
+            <pubDate>Mon, 09 Aug 2021 12:22:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA['When teams came with 20-man squads, there wasn't enough room' - Brentford's unlikely rise to the Premier League]]></title>
             <description><![CDATA[As Brentford prepare for their first top-flight season since 1947, BBC Sport looks back at their unlikely journey to join England's elite.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58137450</link>
@@ -322,13 +343,6 @@
             <link>https://www.bbc.co.uk/sport/netball/58146088</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/netball/58146088</guid>
             <pubDate>Mon, 09 Aug 2021 10:44:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Newcastle agree fee of more than £20m for Arsenal's Willock]]></title>
-            <description><![CDATA[Newcastle agree a fee with Arsenal in excess of £20m to sign midfielder Joe Willock.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58141002</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58141002</guid>
-            <pubDate>Sun, 08 Aug 2021 20:43:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Blackburn striker Armstrong to have Southampton medical]]></title>

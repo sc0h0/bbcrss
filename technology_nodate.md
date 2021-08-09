@@ -2,13 +2,13 @@
 2. [China sues Tencent over WeChat Youth Mode](https://www.bbc.co.uk/news/technology-58145808) - Authorities allege the messaging app is violating Chinese law that aims to protect minors.
 3. [Ariana Grande sings in Fortnite's metaverse](https://www.bbc.co.uk/news/technology-58146042) - The pop star is the latest musician to perform a series of concerts inside the hit video game.
 4. [Alibaba to sack manager accused of rape, according to memo seen by BBC](https://www.bbc.co.uk/news/business-58141606) - The move comes after a woman's allegations of sexual assault went viral on Chinese social media.
-5. [Apple criticised for system that detects child abuse](https://www.bbc.co.uk/news/technology-58124495) - There are privacy concerns that the system will be expanded to scan phones for political speech.
-6. [China cracks down on celebrity online culture](https://www.bbc.co.uk/news/technology-58117027) - Weibo is to remove a list ranking celebrities by popularity on social media amid state criticism.
-7. [Huawei revenue sees biggest ever fall](https://www.bbc.co.uk/news/technology-58104614) - Revenue from its consumer business, which includes phones, fell by nearly half.
-8. [Larry Page: Google co-founder granted New Zealand residency](https://www.bbc.co.uk/news/world-asia-58128475) - The country's immigration services say he applied under a category for wealthy investors.
-9. [US consumer watchdog criticises Facebook's NYU ban claim](https://www.bbc.co.uk/news/technology-58104609) - In a letter to Mark Zuckerberg, the FTC criticises the social network for inaccurate statements.
-10. [Number pinged by NHS Covid-19 app falls significantly](https://www.bbc.co.uk/news/technology-58076215) - The fall is based on data gathered before changes to the app which mean it will notify fewer contacts.
-11. [Google Maps warns drivers about emission charges](https://www.bbc.co.uk/news/technology-58102651) - Drivers heading through London or Paris will receive a warning about clean-air fees and fines.
+5. [Groupon told to improve how it treats customers](https://www.bbc.co.uk/news/business-58145635) - The competition watchdog warns the discounter it faces legal action unless it takes 'swift' action.
+6. [Apple criticised for system that detects child abuse](https://www.bbc.co.uk/news/technology-58124495) - There are privacy concerns that the system will be expanded to scan phones for political speech.
+7. [China cracks down on celebrity online culture](https://www.bbc.co.uk/news/technology-58117027) - Weibo is to remove a list ranking celebrities by popularity on social media amid state criticism.
+8. [Huawei revenue sees biggest ever fall](https://www.bbc.co.uk/news/technology-58104614) - Revenue from its consumer business, which includes phones, fell by nearly half.
+9. [Larry Page: Google co-founder granted New Zealand residency](https://www.bbc.co.uk/news/world-asia-58128475) - The country's immigration services say he applied under a category for wealthy investors.
+10. [US consumer watchdog criticises Facebook's NYU ban claim](https://www.bbc.co.uk/news/technology-58104609) - In a letter to Mark Zuckerberg, the FTC criticises the social network for inaccurate statements.
+11. [Number pinged by NHS Covid-19 app falls significantly](https://www.bbc.co.uk/news/technology-58076215) - The fall is based on data gathered before changes to the app which mean it will notify fewer contacts.
 12. [How smart buildings could transform our experience of work](https://www.bbc.co.uk/news/technology-58014316) - Lara Lewington visits a new smart office block to see how technology could transform working lives.
 13. [CEO Secrets: Airbnb boss shares his business advice](https://www.bbc.co.uk/news/business-58025562) - Brian Chesky, co-founder and CEO of Airbnb, shares his business advice for the CEO Secrets series.
 14. [Untethered bi-pedal robot runs 5km and other tech news](https://www.bbc.co.uk/news/technology-58014320) - Jen Copestake looks at some of the best technology news stories of the week.
