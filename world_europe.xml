@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 09 Aug 2021 07:02:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Aug 2021 07:17:02 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -30,6 +30,13 @@
             <pubDate>Mon, 09 Aug 2021 06:16:38 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Climate change: UN to reveal landmark IPCC report findings]]></title>
+            <description><![CDATA[The report will be a "massive wake-up call" to governments to cut emissions, environmental experts say.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-58141129</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-58141129</guid>
+            <pubDate>Mon, 09 Aug 2021 06:02:49 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Thailand man charged over death of Swiss tourist near waterfall]]></title>
             <description><![CDATA[The 27-year-old man has been charged with murdering the 57-year-old woman.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-58141926</link>
@@ -44,11 +51,11 @@
             <pubDate>Sun, 08 Aug 2021 12:06:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Lionel Messi: Paris St-Germain move 'a possibility' after Barcelona exit]]></title>
-            <description><![CDATA[A tearful Lionel Messi says joining Paris St-Germain from Barcelona is "a possibility, but nothing is agreed".]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58137262</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58137262</guid>
-            <pubDate>Sun, 08 Aug 2021 12:18:49 GMT</pubDate>
+            <title><![CDATA[Covid: Virus 'still with us' as Scotland exits level zero]]></title>
+            <description><![CDATA[Physical distancing ends in most settings, nightclubs reopen and limits on gatherings are removed.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-58136277</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58136277</guid>
+            <pubDate>Sun, 08 Aug 2021 23:04:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: Quarantine-free travel from France resumes as UK rules change]]></title>
@@ -56,20 +63,6 @@
             <link>https://www.bbc.co.uk/news/uk-58130944</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58130944</guid>
             <pubDate>Sun, 08 Aug 2021 16:32:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Olympics: Team USA beat France 87-82 to claim fourth straight gold medal]]></title>
-            <description><![CDATA[USA beat France to win their fourth basketball gold medal in a row.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/58125670</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58125670</guid>
-            <pubDate>Sat, 07 Aug 2021 06:47:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bat killed by cat after record 1,200-mile journey]]></title>
-            <description><![CDATA[A record-breaking bat - the size of a human thumb - is discovered in Russia after flying from London.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58128773</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58128773</guid>
-            <pubDate>Sat, 07 Aug 2021 11:27:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Malta: The teenagers pulled from the sea and accused of terrorism]]></title>

@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 09 Aug 2021 06:57:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Aug 2021 07:12:24 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -135,6 +135,13 @@
             <pubDate>Sun, 08 Aug 2021 22:05:49 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Premier League: Bucket collections & spaghetti on toast - Brentford's rise through those who lived it]]></title>
+            <description><![CDATA[As Brentford prepare for their first top-flight season since 1947, BBC Sport looks back at their unlikely journey to join England's elite.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58137450</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58137450</guid>
+            <pubDate>Mon, 09 Aug 2021 05:28:37 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Tokyo Olympics: Jason Kenny wins seventh gold but Laura Kenny reign as omnium champion over]]></title>
             <description><![CDATA[Jason Kenny becomes the first Briton to win seven Olympic golds by defending his keirin title - but wife Laura's reign as women's omnium champion has ended.]]></description>
             <link>https://www.bbc.co.uk/sport/olympics/58133154</link>
@@ -147,13 +154,6 @@
             <link>https://www.bbc.co.uk/sport/football/58044188</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58044188</guid>
             <pubDate>Sun, 08 Aug 2021 19:18:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Hundred: Oval Invincibles' match against Trent Rockets abandoned because of rain]]></title>
-            <description><![CDATA[Oval Invincibles and Trent Rockets have to settle for a point each after their women's Hundred match was abandoned because of rain.]]></description>
-            <link>https://www.bbc.co.uk/sport/cricket/58139164</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/58139164</guid>
-            <pubDate>Sun, 08 Aug 2021 16:27:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
