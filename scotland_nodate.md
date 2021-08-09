@@ -1,7 +1,7 @@
 1. [Covid in Scotland: 'Right moment' to lift restrictions, says Sturgeon](https://www.bbc.co.uk/news/uk-scotland-58136277) - Physical distancing ends in most settings and nightclubs reopen as Scotland exits level zero.
-2. [Covid in Scotland: Nightclubs reopen with celebrations and cheers](https://www.bbc.co.uk/news/uk-scotland-58142756) - There were cheers as clubs were allowed to reopen after 16 months of Covid restrictions.
+2. [Weather warning as thunderstorms cause severe flooding](https://www.bbc.co.uk/news/uk-scotland-58144882) - Torrential downpours are causing disruption for rail users and difficult driving conditions across Scotland.
 3. [Covid in Scotland: Where are the latest cases?](https://www.bbc.co.uk/news/uk-scotland-53511877) - A daily update on the number and location of coronavirus cases in Scotland.
-4. [Weather warning as thunderstorms cause severe flooding](https://www.bbc.co.uk/news/uk-scotland-58144882) - Torrential downpours are causing disruption for rail users and difficult driving conditions across Scotland.
+4. [Covid in Scotland: Nightclubs reopen with celebrations and cheers](https://www.bbc.co.uk/news/uk-scotland-58142756) - There were cheers as clubs were allowed to reopen after 16 months of Covid restrictions.
 5. [Snorkeler's close encounter with 9ft basking shark](https://www.bbc.co.uk/news/uk-scotland-highlands-islands-58145408) - Wildlife ranger Craig Nisbet said the harmless giant swam within a metre of him as it fed on zooplankton.
 6. [Missing hillwalker: Search for Frank Smith at Ben Cruachan](https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58145410) - Frank Smith, from Nottingham, has not returned from a planned walk up 1,126m Ben Cruachan.
 7. [Covid in Scotland: How have the rules changed?](https://www.bbc.co.uk/news/uk-scotland-53166816) - Scotland's levels system of restrictions have come to an end - but what does that mean people can do?
