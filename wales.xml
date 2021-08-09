@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 09 Aug 2021 15:10:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Aug 2021 15:35:16 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -21,6 +21,13 @@
             <link>https://www.bbc.co.uk/news/uk-wales-58146759</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58146759</guid>
             <pubDate>Mon, 09 Aug 2021 12:45:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gang tried to kidnap Anglesey child over satanic abuse fear]]></title>
+            <description><![CDATA[Two gang members snatched the child at knifepoint as they returned home from school.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-57941016</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-57941016</guid>
+            <pubDate>Mon, 09 Aug 2021 15:28:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Cardiff: Man charged with raping stranger 41 years ago]]></title>
@@ -49,13 +56,6 @@
             <link>https://www.bbc.co.uk/news/uk-wales-58143594</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58143594</guid>
             <pubDate>Mon, 09 Aug 2021 09:00:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: Will Wales' GP surgeries go 'back to normal'?]]></title>
-            <description><![CDATA[GPs say false accusations they are shut and should "get back to work" are affecting morale.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-58086060</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58086060</guid>
-            <pubDate>Mon, 09 Aug 2021 10:29:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: Porthcawl Elvis Festival boss fears 'legal minefield']]></title>
@@ -98,6 +98,13 @@
             <link>https://www.bbc.co.uk/news/uk-wales-58129989</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58129989</guid>
             <pubDate>Sun, 08 Aug 2021 12:10:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: Will Wales' GP surgeries go 'back to normal'?]]></title>
+            <description><![CDATA[GPs say false accusations they are shut and should "get back to work" are affecting morale.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-58086060</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58086060</guid>
+            <pubDate>Mon, 09 Aug 2021 10:29:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Pollution: 'This is my coffin, this is why I swim with it']]></title>

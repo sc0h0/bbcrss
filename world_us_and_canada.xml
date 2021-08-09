@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 09 Aug 2021 15:08:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Aug 2021 15:35:42 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Andrew Cuomo: Accuser Brittany Commisso says governor broke law]]></title>
+            <description><![CDATA[Brittany Commisso speaks for the first time about alleged groping incidents with New York governor.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-58146323</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-58146323</guid>
+            <pubDate>Mon, 09 Aug 2021 15:16:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Andrew Cuomo: Top aide to governor resigns amid scandal]]></title>
             <description><![CDATA[Melissa DeRosa worked as a senior aide to Andrew Cuomo, who has been accused of sexual harassment.]]></description>
@@ -63,6 +70,13 @@
             <link>https://www.bbc.co.uk/news/world-asia-58128475</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58128475</guid>
             <pubDate>Sat, 07 Aug 2021 14:36:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Abba Kyari: The Nigerian super sleuth wanted in the US]]></title>
+            <description><![CDATA[Highly decorated policeman Abba Kyari's reputation is under scrutiny over alleged fraud.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-58079504</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-58079504</guid>
+            <pubDate>Sat, 07 Aug 2021 23:07:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Mayflower 400 years: How many people are related to the Mayflower pilgrims?]]></title>

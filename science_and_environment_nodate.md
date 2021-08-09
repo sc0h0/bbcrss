@@ -3,7 +3,7 @@
 3. [Climate change: Make coal history says PM after climate warning](https://www.bbc.co.uk/news/uk-58144779) - Boris Johnson calls for a shift towards clean energy sources after "sobering" report on climate change.
 4. [Why China's climate policy matters to us all](https://www.bbc.co.uk/news/world-asia-china-57483492) - The global battle against climate change is likely to be won or lost in China.
 5. [Climate change: Time running out to stop catastrophe - Alok Sharma](https://www.bbc.co.uk/news/uk-58132939) - Despite his warning, the Tory climate chief does not rule out future fossil fuel projects in the UK.
-6. [Greece wildfires: Evia island residents forced to evacuate](https://www.bbc.co.uk/news/world-europe-58141336) - Hundreds on the island of Evia flee to safety by sea as a record heatwave triggers devastating fires.
+6. [Greece wildfires: Evia island residents forced to evacuate](https://www.bbc.co.uk/news/world-europe-58141336) - Hundreds on the island of Evia flee to safety by sea as a record heatwave sparks devastating fires.
 7. [Climate change: Low-income countries 'can't keep up' with impacts](https://www.bbc.co.uk/news/world-58080083) - Officials warn that the severity of natural disasters is outpacing efforts to prevent their damage.
 8. [COP26: Minister says summit must be a turning point](https://www.bbc.co.uk/news/uk-politics-58144227) - Zac Goldsmith says COP26 must be a "turning point", despite warnings that costs of tackling climate change will hit poor families.
 9. [The activist entrepreneurs running zero-waste shops](https://www.bbc.co.uk/news/business-57920754) - Environmentally conscious entrepreneurs explain the movement towards zero-waste lifestyles.
