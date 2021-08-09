@@ -21,7 +21,7 @@
 21. [How many cases in your area?](https://www.bbc.co.uk/news/uk-51768274) - Explore the data on coronavirus in the UK and find out how many cases there are in your area.
 22. [Covid: What do under-30s need to know about the vaccine?](https://www.bbc.co.uk/news/health-57273875) - The government is expected to announce that 16 and 17-year-olds will receive the Covid vaccine.
 23. [What are the Delta, Gamma, Beta and Alpha Covid variants?](https://www.bbc.co.uk/news/health-55659820) - UK coronavirus cases are rising due to a variant first identified in India that spreads more easily.
-24. [Covid rules: What's changing in Wales, Scotland, England and Northern Ireland](https://www.bbc.co.uk/news/explainers-52530518) - Major changes to lockdown rules have taken effect in England and Scotland, but some restrictions remain.
+24. [Covid rules: What's changing in Wales, Scotland, England and Northern Ireland](https://www.bbc.co.uk/news/explainers-52530518) - Major changes to lockdown rules have taken effect in England, Scotland and Wales but some restrictions remain.
 25. [Covid: When will teenagers get the jab and do I need a booster?](https://www.bbc.co.uk/news/health-55045639) - More teenagers will be able to receive the Covid vaccine, and a third jab will soon be available for the most vulnerable.
 26. [How do we know Covid vaccines are safe?](https://www.bbc.co.uk/news/health-55056016) - Busting myths and explaining the facts around vaccines.
 27. [Coronavirus: What it does to the body](https://www.bbc.co.uk/news/health-51214864) - What is it like to have the coronavirus, how will it affect you and how is it treated?
