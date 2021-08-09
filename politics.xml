@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 09 Aug 2021 16:47:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Aug 2021 17:10:48 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -49,6 +49,13 @@
             <link>https://www.bbc.co.uk/news/uk-politics-58107010</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-58107010</guid>
             <pubDate>Thu, 05 Aug 2021 20:10:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Test and Trace boss Dido Harding to step down from NHS role]]></title>
+            <description><![CDATA[Boris Johnson promised a "world-beating" system, but it was heavily criticised during her tenure.]]></description>
+            <link>https://www.bbc.co.uk/news/health-58151615</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-58151615</guid>
+            <pubDate>Mon, 09 Aug 2021 16:29:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Geronimo the alpaca: Protesters march on Downing Street]]></title>
@@ -161,258 +168,6 @@
             <link>https://www.bbc.co.uk/news/uk-56376172</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-56376172</guid>
             <pubDate>Thu, 05 Aug 2021 12:23:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Channel crossings: Hundreds more migrants reach UK after record day]]></title>
-            <description><![CDATA[According to Home Office figures, there have now been 10,711 arrivals in 449 boats so far in 2021.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-kent-58100694</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-kent-58100694</guid>
-            <pubDate>Thu, 05 Aug 2021 20:03:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Government accused of 'burying' conversion therapy report]]></title>
-            <description><![CDATA[Boris Johnson vowed to ban the "abhorrent" practice - but an official report on it has yet to appear.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-58078582</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-58078582</guid>
-            <pubDate>Wed, 04 Aug 2021 23:02:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sturgeon: Strange the PM will not meet me]]></title>
-            <description><![CDATA[Nicola Sturgeon says she does not feel snubbed but it is odd not to meet PM on his Scotland visit.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-58079390</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-58079390</guid>
-            <pubDate>Wed, 04 Aug 2021 19:37:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Marcus Rashford: Poor families missing out on food vouchers]]></title>
-            <description><![CDATA[The footballer says health professionals need to do more to raise awareness about the NHS scheme.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-58091705</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-58091705</guid>
-            <pubDate>Wed, 04 Aug 2021 22:30:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Coronavirus: PM and transport secretary defend travel changes]]></title>
-            <description><![CDATA[British tourists in Mexico who are due back after Sunday's deadline will need to decide whether to come home early to avoid quarantining.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58100523</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58100523</guid>
-            <pubDate>Thu, 05 Aug 2021 20:49:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Keir Starmer attacks government record on green jobs]]></title>
-            <description><![CDATA[The Labour leader says there is a "chasm between soundbites and action" on climate-friendly employment.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-58088236</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-58088236</guid>
-            <pubDate>Wed, 04 Aug 2021 14:48:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MP Maria Miller wants AI 'nudifying' tool banned]]></title>
-            <description><![CDATA[A website that allows people to undress a photograph in seconds is gaining lots of users.]]></description>
-            <link>https://www.bbc.co.uk/news/technology-57996910</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-57996910</guid>
-            <pubDate>Wed, 04 Aug 2021 10:26:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Boris Johnson 'not in favour' of drug consumption rooms]]></title>
-            <description><![CDATA[The Scottish government is committed to setting up "safe" consumption facilities - but the prime minister opposes them.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-scotland-politics-58092735</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-scotland-politics-58092735</guid>
-            <pubDate>Wed, 04 Aug 2021 17:24:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid travel: France moves to amber list and green list expands]]></title>
-            <description><![CDATA[Up to 6,000 Britons are currently in Mexico, which is moving to the red list, Grant Shapps says.]]></description>
-            <link>https://www.bbc.co.uk/news/business-58079107</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58079107</guid>
-            <pubDate>Thu, 05 Aug 2021 09:23:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tories face questions over co-chair's firm marketing Covid tests to rich clients]]></title>
-            <description><![CDATA[The Conservatives say Ben Elliot's business activities are separate from the party after Labour criticism.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-58071608</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-58071608</guid>
-            <pubDate>Tue, 03 Aug 2021 16:57:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ministers reject calls to lower state pension age to 60]]></title>
-            <description><![CDATA[The government says lowering the state pension age is not fair or affordable for taxpayers.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-58070099</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-58070099</guid>
-            <pubDate>Tue, 03 Aug 2021 10:05:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid vaccine set to be offered to 16 and 17-year-olds]]></title>
-            <description><![CDATA[More than one million teenagers would be included in a new rollout if ministers accept expert advice.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58080232</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58080232</guid>
-            <pubDate>Wed, 04 Aug 2021 13:29:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rishi Sunak warns young home working may hurt their career]]></title>
-            <description><![CDATA[The chancellor says being in the office helped him build strong relationships when he started out.]]></description>
-            <link>https://www.bbc.co.uk/news/business-58068998</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58068998</guid>
-            <pubDate>Tue, 03 Aug 2021 11:17:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Drug deaths in England and Wales highest since 1993]]></title>
-            <description><![CDATA[In total, 4,561 deaths related to drug poisoning were registered in England and Wales last year.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58070848</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58070848</guid>
-            <pubDate>Tue, 03 Aug 2021 14:47:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Svetlana Tikhanovskaya: Belarus opposition leader hopeful after Boris Johnson meeting]]></title>
-            <description><![CDATA[Svetlana Tikhanovskaya says she has been assured of further UK support, amid a crackdown on dissent.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-58073145</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-58073145</guid>
-            <pubDate>Tue, 03 Aug 2021 16:26:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Shops and schools proposed for council election pilots in Wales]]></title>
-            <description><![CDATA[Could voting with your weekly shop boost turnout at next year's council elections?]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-politics-58060044</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-politics-58060044</guid>
-            <pubDate>Tue, 03 Aug 2021 05:02:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Carrie Johnson and Boris Johnson expecting second child]]></title>
-            <description><![CDATA[The couple are expecting a second child, months after a miscarriage left Carrie "heartbroken".]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58042146</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58042146</guid>
-            <pubDate>Sat, 31 Jul 2021 16:52:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Labour: Tories must come clean over elite donors]]></title>
-            <description><![CDATA[Newspaper reports say party donors were given access to the PM and chancellor for their contributions.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-58055642</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-58055642</guid>
-            <pubDate>Mon, 02 Aug 2021 14:18:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Humza Yousaf reports nursery over discrimination fears]]></title>
-            <description><![CDATA[Health Secretary Humza Yousaf says his daughter was twice refused a place at the nursery, which denies any discrimination.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-tayside-central-58056234</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-tayside-central-58056234</guid>
-            <pubDate>Mon, 02 Aug 2021 16:00:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[UK and Iran summon diplomats after tanker attack]]></title>
-            <description><![CDATA[Two people were killed in the attack on an oil tanker, which the UK, US and Israel blame on Iran.]]></description>
-            <link>https://www.bbc.co.uk/news/world-middle-east-58059271</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-58059271</guid>
-            <pubDate>Mon, 02 Aug 2021 20:25:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NHS Covid-19 app in England and Wales tweaked to notify fewer contacts]]></title>
-            <description><![CDATA[The app in England and Wales will now only alert contacts from the previous two days in asymptomatic cases.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58062180</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58062180</guid>
-            <pubDate>Mon, 02 Aug 2021 22:08:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pingdemic: ‘I'm losing hundreds of pounds in tips’]]></title>
-            <description><![CDATA[An ill-timed alert on the NHS Covid app can mean bar staff losing out on tip income at the weekend.]]></description>
-            <link>https://www.bbc.co.uk/news/business-57997447</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57997447</guid>
-            <pubDate>Mon, 02 Aug 2021 15:47:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid-19: First people arriving into UK after rules relaxed for fully jabbed]]></title>
-            <description><![CDATA[People vaccinated in the EU or US do not need to isolate when coming to the UK from an amber country.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58050538</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58050538</guid>
-            <pubDate>Mon, 02 Aug 2021 12:58:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[End self-isolation for double-jabbed sooner, says Sir Keir Starmer]]></title>
-            <description><![CDATA[Labour is calling on Boris Johnson to bring England in to line with Wales on quarantine measures.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-57962409</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-57962409</guid>
-            <pubDate>Fri, 30 Jul 2021 14:09:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NHS pay: Call for privately employed staff to get increase]]></title>
-            <description><![CDATA[Cleaners and others employed by contractors should receive the same rise as NHS staff, a union says.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58047623</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58047623</guid>
-            <pubDate>Sun, 01 Aug 2021 23:52:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Apsana Begum: Labour MP cleared of fraudulent housing claims]]></title>
-            <description><![CDATA[Apsana Begum says the trial caused her "great distress" and damaged her reputation.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-london-58024457</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-58024457</guid>
-            <pubDate>Fri, 30 Jul 2021 15:00:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[UK military opens first space command centre]]></title>
-            <description><![CDATA[The new operations centre will help the UK maintain a "battle-winning advantage", ministers say.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-58029083</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-58029083</guid>
-            <pubDate>Fri, 30 Jul 2021 15:06:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Migrant women and babies held in shocking conditions, MPs find]]></title>
-            <description><![CDATA[A group of MPs describes scenes at a Dover asylum unit as "wholly inappropriate" and a Covid risk.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58019981</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58019981</guid>
-            <pubDate>Fri, 30 Jul 2021 07:34:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Prof Chris Whitty: Man sentenced for St James's Park assault]]></title>
-            <description><![CDATA[Lewis Hughes says he lost his job after assaulting England's chief medical officer in central London.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-58031419</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-58031419</guid>
-            <pubDate>Fri, 30 Jul 2021 16:41:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[RNLI donations increase after migrant rescue criticism]]></title>
-            <description><![CDATA[The lifeboat charity says it has been "overwhelmed" by support after it released footage of Channel rescues.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-58009646</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-58009646</guid>
-            <pubDate>Thu, 29 Jul 2021 15:00:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Holocaust memorial outside Parliament to go ahead]]></title>
-            <description><![CDATA[Fears have been raised that the site could become a terrorist target, but ministers say it will be safe.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58012111</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58012111</guid>
-            <pubDate>Thu, 29 Jul 2021 15:14:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[David Greenhalgh death: Tributes paid to Bolton Council leader]]></title>
-            <description><![CDATA[David Greenhalgh became the first Tory leader of Bolton Council in four decades.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-manchester-58019551</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-manchester-58019551</guid>
-            <pubDate>Thu, 29 Jul 2021 18:53:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Drug deaths in Scotland reach new record level]]></title>
-            <description><![CDATA[The country continues to have the worst drug death rate in Europe, with a further 1,339 people dying last year.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-58024296</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58024296</guid>
-            <pubDate>Fri, 30 Jul 2021 09:17:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Walking and biking prioritised in new Highway Code]]></title>
-            <description><![CDATA[Greater priority for pedestrians at crossings and for cyclists at junctions are among the changes.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58021450</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58021450</guid>
-            <pubDate>Fri, 30 Jul 2021 02:25:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Global summit raises $4bn for schools despite aid row]]></title>
-            <description><![CDATA[World leaders pledge to get more children into school in the world's poorest countries.]]></description>
-            <link>https://www.bbc.co.uk/news/education-58006728</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/education-58006728</guid>
-            <pubDate>Thu, 29 Jul 2021 17:49:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NHS Covid-19 app pings rise by over 70,000 to new record]]></title>
-            <description><![CDATA[The number of coronavirus alerts hits a new record, with nearly 690,000 sent in England and Wales.]]></description>
-            <link>https://www.bbc.co.uk/news/technology-57970603</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-57970603</guid>
-            <pubDate>Thu, 29 Jul 2021 13:26:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Climate change: COP26 president calls on countries to commit to net zero emissions]]></title>

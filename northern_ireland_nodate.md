@@ -1,4 +1,4 @@
-1. [Glenshane Pass: Man dies after car and lorry crash](https://www.bbc.co.uk/news/uk-northern-ireland-58143530) - The collision happened between Dungiven and Maghera early on Monday morning.
+1. [Glenshane Pass: Man dies after car and lorry crash](https://www.bbc.co.uk/news/uk-northern-ireland-58143530) - The 30-year-old car driver from County Londonderry died at the scene.
 2. [Climate change: UN report is a 'frightening wake-up call'](https://www.bbc.co.uk/news/uk-northern-ireland-58143040) - Infrastructure Minister Nichola Mallon says the NI Executive must progress climate change laws.
 3. [Tyrone v Kerry semi-final delayed until 21 August](https://www.bbc.co.uk/sport/gaelic-games/58143836) - Tyrone's All-Ireland Football semi-final against Kerry is rescheduled for 21 August because of Covid-19 cases in the Red Hands' camp
 4. [Roselawn: Belfast City Council reveals plan for new crematorium](https://www.bbc.co.uk/news/uk-northern-ireland-58143531) - The public is asked to give its view on the plan for the £18m project to boost cremation capacity.
