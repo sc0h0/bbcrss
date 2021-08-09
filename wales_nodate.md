@@ -1,7 +1,7 @@
-1. [Bute Park attack: Gary Jenkins dies 16 days after incident](https://www.bbc.co.uk/news/uk-wales-58146759) - Father-of-two Dr Gary Jenkins had been in hospital since the attack in a Cardiff Park on 20 July.
-2. [Wrexham father in intensive care after refusing Covid vaccine](https://www.bbc.co.uk/news/uk-wales-58150247) - Father-of-two Artur Brylowski is in intensive care with Covid having turned down a vaccine.
-3. [Gang tried to kidnap Anglesey child over satanic abuse fear](https://www.bbc.co.uk/news/uk-wales-57941016) - Two gang members snatched the child at knifepoint as they returned home from school.
-4. [Climate change: IPCC report heralds Wales' 'last-chance saloon'](https://www.bbc.co.uk/news/uk-wales-58146128) - Rising sea levels could force the "significant relocation of communities" in Wales, one expert warns.
+1. [Climate change: IPCC report heralds Wales' 'last-chance saloon'](https://www.bbc.co.uk/news/uk-wales-58146128) - Rising sea levels could force the "significant relocation of communities" in Wales, one expert warns.
+2. [Bute Park attack: Gary Jenkins dies 16 days after incident](https://www.bbc.co.uk/news/uk-wales-58146759) - Father-of-two Dr Gary Jenkins had been in hospital since the attack in a Cardiff Park on 20 July.
+3. [Wrexham father in intensive care after refusing Covid vaccine](https://www.bbc.co.uk/news/uk-wales-58150247) - Father-of-two Artur Brylowski is in intensive care with Covid having turned down a vaccine.
+4. [Gang tried to kidnap Anglesey child over satanic abuse fear](https://www.bbc.co.uk/news/uk-wales-57941016) - Two gang members snatched the child at knifepoint as they returned home from school.
 5. [Towyn: Teen sister of murder accused 'died of asphyxia'](https://www.bbc.co.uk/news/uk-wales-58149304) - Amanda Selby, 15, whose brother has been charged with her murder, died of asphyxia, inquest hears.
 6. [Swansea City and Ospreys stadium renamed Swansea.com Stadium in new deal](https://www.bbc.co.uk/sport/wales/58148996) - Swansea City and Ospreys' home ground has been renamed Swansea.com Stadium in a 10-year deal.
 7. [Hell's Mouth: Man dies after getting into difficulty in the sea](https://www.bbc.co.uk/news/uk-wales-58124059) - The man died at the scene after being pulled from the sea off the north Wales coast on Friday.

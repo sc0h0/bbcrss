@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 09 Aug 2021 19:23:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Aug 2021 19:32:08 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -44,6 +44,13 @@
             <pubDate>Mon, 09 Aug 2021 17:52:35 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[R Kelly: Jury selection begins in singer's sex trafficking trial]]></title>
+            <description><![CDATA[The R&B singer appears in court in New York, as potential jurors are questioned ahead of his trial.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-58151775</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-58151775</guid>
+            <pubDate>Mon, 09 Aug 2021 19:22:34 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[London's Tower Bridge stuck open after technical failure]]></title>
             <description><![CDATA[Police warn drivers to avoid roads around the famous London landmark after the technical failure.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-london-58149716</link>
@@ -51,25 +58,11 @@
             <pubDate>Mon, 09 Aug 2021 18:30:36 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Lukashenko: 'You can choke on your sanctions in the UK']]></title>
-            <description><![CDATA[The UK and US are tightening sanctions on Belarus, hitting economic sectors.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58150328</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58150328</guid>
-            <pubDate>Mon, 09 Aug 2021 16:52:10 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Weather warning as thunderstorms cause severe flooding]]></title>
             <description><![CDATA[Torrential downpours are causing disruption for rail users and difficult driving conditions across Scotland.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-58144882</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58144882</guid>
-            <pubDate>Mon, 09 Aug 2021 18:25:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid-19: Joy for Scottish clubbers and Sheeran and Jagger join India fundraiser]]></title>
-            <description><![CDATA[Five things you need to know about the coronavirus pandemic this Monday evening.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58150116</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58150116</guid>
-            <pubDate>Mon, 09 Aug 2021 16:38:33 GMT</pubDate>
+            <pubDate>Mon, 09 Aug 2021 19:30:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Vodafone to bring back roaming charges from January]]></title>
@@ -107,11 +100,25 @@
             <pubDate>Mon, 09 Aug 2021 15:43:44 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Lukashenko: 'You can choke on your sanctions in the UK']]></title>
+            <description><![CDATA[The UK and US are tightening sanctions on Belarus, hitting economic sectors.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58150328</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58150328</guid>
+            <pubDate>Mon, 09 Aug 2021 16:52:10 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Extreme weather: How it is connected to climate change?]]></title>
             <description><![CDATA[Heatwaves, wildfires, floods and droughts highlight how extreme weather is linked to climate change.]]></description>
             <link>https://www.bbc.co.uk/news/science-environment-58073295</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-58073295</guid>
             <pubDate>Mon, 09 Aug 2021 14:34:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Climate change: At-risk nations fear extinction after IPCC report]]></title>
+            <description><![CDATA[The most vulnerable developing countries plead for action after a stark warning from a UN panel.]]></description>
+            <link>https://www.bbc.co.uk/news/world-58064485</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-58064485</guid>
+            <pubDate>Mon, 09 Aug 2021 17:11:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Climate change: Make coal history says PM after climate warning]]></title>
@@ -128,18 +135,18 @@
             <pubDate>Mon, 09 Aug 2021 12:41:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[What is climate change? A really simple guide]]></title>
-            <description><![CDATA[BBC News looks at what we know and don't know about the Earth's changing climate.]]></description>
-            <link>https://www.bbc.co.uk/news/science-environment-24021772</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-24021772</guid>
-            <pubDate>Mon, 09 Aug 2021 11:41:14 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Climate Basics: Your carbon footprint explained]]></title>
             <description><![CDATA[BBC Reality Check's Chris Morris explains how changing three aspects of how you live can make the biggest dent to your carbon footprint.]]></description>
             <link>https://www.bbc.co.uk/news/science-environment-56822950</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-56822950</guid>
             <pubDate>Wed, 21 Apr 2021 23:03:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What is climate change? A really simple guide]]></title>
+            <description><![CDATA[BBC News looks at what we know and don't know about the Earth's changing climate.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-24021772</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-24021772</guid>
+            <pubDate>Mon, 09 Aug 2021 11:41:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[COP26: Minister says summit must be a turning point]]></title>
