@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 09 Aug 2021 17:57:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Aug 2021 18:23:56 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -37,6 +37,13 @@
             <pubDate>Mon, 09 Aug 2021 14:15:31 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Weather warning as thunderstorms cause severe flooding]]></title>
+            <description><![CDATA[Torrential downpours are causing disruption for rail users and difficult driving conditions across Scotland.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-58144882</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58144882</guid>
+            <pubDate>Mon, 09 Aug 2021 18:02:52 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Snorkeler's close encounter with 9ft basking shark]]></title>
             <description><![CDATA[Wildlife ranger Craig Nisbet said the harmless giant swam within a metre of him as it fed on zooplankton.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-highlands-islands-58145408</link>
@@ -49,13 +56,6 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58145410</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58145410</guid>
             <pubDate>Mon, 09 Aug 2021 14:25:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is the coronavirus pandemic over at last?]]></title>
-            <description><![CDATA[As Scotland loosens most of its remaining restrictions, is the devastating pandemic finally at an end?]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-58112939</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58112939</guid>
-            <pubDate>Sun, 08 Aug 2021 23:08:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid in Scotland: How have the rules changed?]]></title>
@@ -91,6 +91,13 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-scotland-business-58116469</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-scotland-business-58116469</guid>
             <pubDate>Mon, 09 Aug 2021 13:18:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is the coronavirus pandemic over at last?]]></title>
+            <description><![CDATA[As Scotland loosens most of its remaining restrictions, is the devastating pandemic finally at an end?]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-58112939</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58112939</guid>
+            <pubDate>Sun, 08 Aug 2021 23:08:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid in Scotland: Your questions answered on life after level zero]]></title>
@@ -191,11 +198,11 @@
             <pubDate>Fri, 06 Aug 2021 09:16:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Scotland: Andy Robertson injured in Liverpool friendly and faces ankle scan]]></title>
-            <description><![CDATA[Scotland captain Andy Robertson limps off during Liverpool's pre-season friendly against Athletic Bilbao.]]></description>
+            <title><![CDATA[Scotland: Andy Robertson says ligament damage is "nothing too major"]]></title>
+            <description><![CDATA[Andy Robertson says the "ligament damage" he sustained in Liverpool's friendly with Athletic Bilbao is "nothing too major".]]></description>
             <link>https://www.bbc.co.uk/sport/football/58141099</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58141099</guid>
-            <pubDate>Sun, 08 Aug 2021 20:44:32 GMT</pubDate>
+            <pubDate>Mon, 09 Aug 2021 18:17:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Rangers v Malmo: Steven Gerrard urges hosts to 'light the fire']]></title>
