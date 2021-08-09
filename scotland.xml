@@ -11,16 +11,23 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 09 Aug 2021 21:38:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Aug 2021 21:48:36 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
-            <title><![CDATA[Covid in Scotland: 'Right moment' to lift restrictions, says Sturgeon]]></title>
-            <description><![CDATA[Physical distancing ends in most settings and nightclubs reopen as Scotland exits level zero.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-58136277</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58136277</guid>
-            <pubDate>Mon, 09 Aug 2021 12:03:45 GMT</pubDate>
+            <title><![CDATA[Covid in Scotland: Results day despite cancelled exams]]></title>
+            <description><![CDATA[Grades will be based on teacher assessment after exams were cancelled for a second year because of the pandemic.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-58150287</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58150287</guid>
+            <pubDate>Mon, 09 Aug 2021 21:41:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Highers and Nat 5s: Four things to look out for on results day]]></title>
+            <description><![CDATA[Pupils across Scotland will receive confirmation of their Higher and National 5 grades.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-58151835</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58151835</guid>
+            <pubDate>Mon, 09 Aug 2021 21:42:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Eleven people rescued from waterfalls beauty spot near Crianlarich]]></title>
@@ -30,6 +37,13 @@
             <pubDate>Mon, 09 Aug 2021 21:12:51 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[What would an SNP-Green deal mean for Scotland?]]></title>
+            <description><![CDATA[What could a deal between the SNP and the Greens mean for Scottish government policies and priorities?]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-scotland-politics-58143753</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-scotland-politics-58143753</guid>
+            <pubDate>Mon, 09 Aug 2021 21:43:18 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Weather warning as thunderstorms cause severe flooding]]></title>
             <description><![CDATA[Torrential downpours are causing disruption for rail users and difficult driving conditions across Scotland.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-58144882</link>
@@ -37,18 +51,18 @@
             <pubDate>Mon, 09 Aug 2021 19:30:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid in Scotland: Where are the latest cases?]]></title>
-            <description><![CDATA[A daily update on the number and location of coronavirus cases in Scotland.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-53511877</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-53511877</guid>
-            <pubDate>Mon, 09 Aug 2021 14:15:31 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[COP26: Covid travel rules relaxed for overseas delegates]]></title>
             <description><![CDATA[People attending the climate summit in Glasgow will be strongly encouraged to be fully vaccinated.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-58153616</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58153616</guid>
             <pubDate>Mon, 09 Aug 2021 21:02:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid in Scotland: 'Right moment' to lift restrictions, says Sturgeon]]></title>
+            <description><![CDATA[Physical distancing ends in most settings and nightclubs reopen as Scotland exits level zero.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-58136277</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58136277</guid>
+            <pubDate>Mon, 09 Aug 2021 12:03:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid in Scotland: Nightclubs reopen with celebrations and cheers]]></title>
@@ -86,18 +100,11 @@
             <pubDate>Mon, 09 Aug 2021 11:24:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Will Scotland go back to traditional school exams?]]></title>
-            <description><![CDATA[Will Scottish school pupils be studying for traditional exams in 2022, or have things changed for good?]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-58139111</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58139111</guid>
-            <pubDate>Mon, 09 Aug 2021 10:11:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid in Scotland: Bothies open for 'responsible use']]></title>
-            <description><![CDATA[The shelters in Scotland have reopened following a further relaxation of Covid restrictions.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-highlands-islands-58144390</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-highlands-islands-58144390</guid>
-            <pubDate>Mon, 09 Aug 2021 09:20:48 GMT</pubDate>
+            <title><![CDATA[Covid in Scotland: Where are the latest cases?]]></title>
+            <description><![CDATA[A daily update on the number and location of coronavirus cases in Scotland.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-53511877</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-53511877</guid>
+            <pubDate>Mon, 09 Aug 2021 14:15:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Is the coronavirus pandemic over at last?]]></title>
@@ -133,6 +140,13 @@
             <link>https://www.bbc.co.uk/news/world-51235105</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-51235105</guid>
             <pubDate>Mon, 09 Aug 2021 09:47:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Will Scotland go back to traditional school exams?]]></title>
+            <description><![CDATA[Will Scottish school pupils be studying for traditional exams in 2022, or have things changed for good?]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-58139111</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58139111</guid>
+            <pubDate>Mon, 09 Aug 2021 10:11:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['Give us money and we’ll tackle the climate crisis']]></title>
