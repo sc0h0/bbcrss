@@ -3,7 +3,7 @@
 3. [Climate change: UN to reveal landmark IPCC report findings](https://www.bbc.co.uk/news/science-environment-58141129) - The report will be a "massive wake-up call" to governments to cut emissions, environmental experts say.
 4. [Thailand man charged over death of Swiss tourist near waterfall](https://www.bbc.co.uk/news/world-asia-58141926) - The 27-year-old man has been charged with murdering the 57-year-old woman.
 5. [Tokyo Olympics: Russians win most medals since 2004 despite competing as ROC because of ban](https://www.bbc.co.uk/sport/olympics/58135905) - Russian athletes head home with more medals than they have for 17 years - and they were not even officially competing for their country.
-6. [Covid: Virus 'still with us' as Scotland exits level zero](https://www.bbc.co.uk/news/uk-scotland-58136277) - Physical distancing ends in most settings, nightclubs reopen and limits on gatherings are removed.
+6. [Covid restrictions lifted as Scotland exits level zero](https://www.bbc.co.uk/news/uk-scotland-58136277) - Physical distancing ends in most settings, nightclubs reopen and limits on gatherings are removed.
 7. [Covid-19: Quarantine-free travel from France resumes as UK rules change](https://www.bbc.co.uk/news/uk-58130944) - Some travel firms report a "surge" of bookings but others say it is "too late to save the summer".
 8. [Malta: The teenagers pulled from the sea and accused of terrorism](https://www.bbc.co.uk/news/world-57988934) - How three teenagers rescued from the Mediterranean Sea ended up in Malta accused of terrorism.
 9. [Belarus crackdown fails to crush opposition spirit](https://www.bbc.co.uk/news/world-europe-58114107) - Beaten up, jailed, forced into exile - protesters are still battling against President Lukashenko.

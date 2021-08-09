@@ -1,4 +1,4 @@
-1. [Covid: Virus 'still with us' as Scotland exits level zero](https://www.bbc.co.uk/news/uk-scotland-58136277) - Physical distancing ends in most settings, nightclubs reopen and limits on gatherings are removed.
+1. [Covid restrictions lifted as Scotland exits level zero](https://www.bbc.co.uk/news/uk-scotland-58136277) - Physical distancing ends in most settings, nightclubs reopen and limits on gatherings are removed.
 2. [Is the coronavirus pandemic over at last?](https://www.bbc.co.uk/news/uk-scotland-58112939) - As Scotland loosens most of its remaining restrictions, is the devastating pandemic finally at an end?
 3. [Scotland's papers: End of level zero and praise for GB 'heroes'](https://www.bbc.co.uk/news/uk-scotland-58142755) - The lifting of most restrictions in Scotland and the Olympics closing ceremony make the front pages.
 4. [Exams remain 'best way' to guarantee standards, experts say](https://www.bbc.co.uk/news/uk-scotland-58139111) - The Commission on School Reform says coursework is important but exams guarantee consistent standards.

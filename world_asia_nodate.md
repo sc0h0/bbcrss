@@ -2,7 +2,7 @@
 2. [Afghanistan war: Taliban capture three regional capitals](https://www.bbc.co.uk/news/world-asia-58135148) - Three cities, including the strategically important Kunduz, fall to the militant group in a single day.
 3. [Alibaba to sack manager accused of rape, according to memo seen by BBC](https://www.bbc.co.uk/news/business-58141606) - The move comes after a woman's allegations of sexual assault went viral on Chinese social media.
 4. [Thailand man charged over death of Swiss tourist near waterfall](https://www.bbc.co.uk/news/world-asia-58141926) - The 27-year-old man has been charged with murdering the 57-year-old woman.
-5. [Quan Hongchan: Chinese teen diving star's village mobbed by fans](https://www.bbc.co.uk/news/world-asia-china-58141676) - Quan Hongchan's village has been sealed off after crowds of people searching for selfies came there.
+5. [Quan Hongchan: Chinese teen diving star's village mobbed by fans](https://www.bbc.co.uk/news/world-asia-china-58141676) - Quan Hongchan's village has been sealed off after being mobbed by people searching for selfies.
 6. ['Smallest baby at birth' home after 13 months in hospital](https://www.bbc.co.uk/news/world-asia-58141756) - Kwek Yu Xuan weighed only 212g - the weight of an apple - when she was born in Singapore last year.
 7. [Johnson & Johnson: What we know about India's new Covid vaccines](https://www.bbc.co.uk/news/world-asia-india-55748124) - India has approved Johnson & Johnson's single-dose vaccine as it ramps up production and procurement.
 8. [Assam-Mizoram clash: 'It was like a war between two countries'](https://www.bbc.co.uk/news/world-asia-india-58066768) - A long-running border dispute is affecting relations between two neighbouring Indian states.
