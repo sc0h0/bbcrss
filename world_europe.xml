@@ -11,17 +11,10 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 09 Aug 2021 13:00:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Aug 2021 13:23:13 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
-        <item>
-            <title><![CDATA[Greece wildfires: 'It's like a horror movie but it's real life']]></title>
-            <description><![CDATA[Thousands of people have had to evacuate Greece's second biggest island as severe wildfires rage.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58141236</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58141236</guid>
-            <pubDate>Sun, 08 Aug 2021 23:10:22 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Greece wildfires: Evia island residents forced to evacuate]]></title>
             <description><![CDATA[Hundreds on the island of Evia flee to safety by sea as a record heatwave triggers devastating fires.]]></description>
@@ -30,11 +23,18 @@
             <pubDate>Mon, 09 Aug 2021 07:35:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Climate change: IPCC report is 'code red for humanity']]></title>
-            <description><![CDATA[Heating from humans has caused irreparable damage to the Earth that may get worse in coming decades.]]></description>
-            <link>https://www.bbc.co.uk/news/science-environment-58130705</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-58130705</guid>
-            <pubDate>Mon, 09 Aug 2021 10:22:23 GMT</pubDate>
+            <title><![CDATA[Greece wildfires: 'It's like a horror movie but it's real life']]></title>
+            <description><![CDATA[Thousands of people have had to evacuate Greece's second biggest island as severe wildfires rage.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58141236</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58141236</guid>
+            <pubDate>Sun, 08 Aug 2021 23:10:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Shishov case: Belarus leader Lukashenko denies link to dissident's death]]></title>
+            <description><![CDATA[Alexander Lukashenko insists he had nothing to do with a suspicious hanging in Ukraine last week.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58147256</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58147256</guid>
+            <pubDate>Mon, 09 Aug 2021 13:05:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Thunberg calls out climate impact of fashion brands in Vogue interview]]></title>
@@ -44,18 +44,18 @@
             <pubDate>Mon, 09 Aug 2021 11:23:05 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Climate change: IPCC report is 'code red for humanity']]></title>
+            <description><![CDATA[Heating from humans has caused irreparable damage to the Earth that may get worse in coming decades.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-58130705</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-58130705</guid>
+            <pubDate>Mon, 09 Aug 2021 10:22:23 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Thailand man charged over death of Swiss tourist near waterfall]]></title>
             <description><![CDATA[The 27-year-old man has been charged with murdering the 57-year-old woman.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-58141926</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58141926</guid>
             <pubDate>Mon, 09 Aug 2021 10:25:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Olympics: Russians win most medals since 2004 despite competing as ROC because of ban]]></title>
-            <description><![CDATA[Russian athletes head home with more medals than they have for 17 years - and they were not even officially competing for their country.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/58135905</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58135905</guid>
-            <pubDate>Sun, 08 Aug 2021 12:06:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid in Scotland: 'Right moment' to lift restrictions, says Sturgeon]]></title>
@@ -72,6 +72,13 @@
             <pubDate>Sun, 08 Aug 2021 23:03:13 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Five things we learned from UN climate report]]></title>
+            <description><![CDATA[What are the key takeaways from the IPCC new study on the science of climate change?]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-58138714</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-58138714</guid>
+            <pubDate>Mon, 09 Aug 2021 12:41:01 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Belarus crackdown fails to crush opposition spirit]]></title>
             <description><![CDATA[Beaten up, jailed, forced into exile - protesters are still battling against President Lukashenko.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-58114107</link>
@@ -86,18 +93,11 @@
             <pubDate>Fri, 06 Aug 2021 17:45:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[What is Fox News host Carlson doing in Hungary?]]></title>
-            <description><![CDATA[The controversial news host is the latest high-profile ally of Hungary's embattled prime minister.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58104200</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58104200</guid>
-            <pubDate>Thu, 05 Aug 2021 18:52:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Brexit rules burden bands touring in EU]]></title>
-            <description><![CDATA[One band explain what it's been like trying to tour in France in the age of Covid and Brexit.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-58006647</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-58006647</guid>
-            <pubDate>Fri, 06 Aug 2021 00:22:37 GMT</pubDate>
+            <title><![CDATA[Tokyo Olympics: Russians win most medals since 2004 despite competing as ROC because of ban]]></title>
+            <description><![CDATA[Russian athletes head home with more medals than they have for 17 years - and they were not even officially competing for their country.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/58135905</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58135905</guid>
+            <pubDate>Sun, 08 Aug 2021 12:06:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Greece fires: Hundreds rescued by coastguard]]></title>
