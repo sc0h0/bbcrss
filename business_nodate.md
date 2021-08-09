@@ -1,5 +1,5 @@
-1. [Ocado to allow staff to work remotely from abroad](https://www.bbc.co.uk/news/business-58143560) - Employees can decide where they work for one month a year as more firms rethink workplace policies.
-2. [Pembrokeshire and Llandudno hotel investors 'fear losing life savings'](https://www.bbc.co.uk/news/uk-wales-49812239) - Six hotels backed by a man originally behind plans for an Afan Valley resort are in administration.
+1. [Ocado to allow staff to work remotely from abroad](https://www.bbc.co.uk/news/business-58143560) - The move will apply for one month a year as the government says flexible working is "here to stay".
+2. [SFO probes Gavin Woodhouse over suspected care home fraud](https://www.bbc.co.uk/news/business-58112342) - The Serious Fraud Office has launched a fraud investigation into care home entrepreneur Gavin Woodhouse
 3. [Alibaba to sack manager accused of rape, according to memo seen by BBC](https://www.bbc.co.uk/news/business-58141606) - The move comes after a woman's allegations of sexual assault went viral on Chinese social media.
 4. [Covid PCR costs can be excessive and exploitative, says Javid](https://www.bbc.co.uk/news/business-58137461) - The health secretary calls on a watchdog to investigate "exploitative" firms overcharging holidaymakers.
 5. [Saudi oil giant Aramco sees profits soar by almost 300%](https://www.bbc.co.uk/news/business-58141607) - The results were boosted by a rise in oil prices as demand recovers after the pandemic.
