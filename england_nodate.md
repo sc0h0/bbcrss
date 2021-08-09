@@ -1,4 +1,4 @@
-1. [Wood Green stabbing: Man charged with social worker attack](https://www.bbc.co.uk/news/uk-england-london-58130078) - Sulai Bukhari is charged with attempted murder after the man and two police officers were attacked.
+1. [Harry Dunn: Lawyers claim phone may have distracted suspect](https://www.bbc.co.uk/news/uk-england-northamptonshire-58144499) - The claim appears in court documents for a US hearing into damages for Harry Dunn's fatal crash.
 2. [Same-sex parents battle for inclusive paperwork for baby](https://www.bbc.co.uk/news/uk-england-devon-58071558) - Kate and Gemma Fox have encountered numerous forms they cannot fill in since the birth of their son.
 3. [New 'Banksy' artwork appears at Great Yarmouth model village](https://www.bbc.co.uk/news/uk-england-norfolk-58143164) - A new model, apparently signed by the artist, is found at a Great Yarmouth attraction.
 4. [Peter Kay: Cancer patient 'honoured' to inspire comic's comeback gig](https://www.bbc.co.uk/news/uk-england-lancashire-58143012) - The comedian returned to the stage to raise money to help pay for student Laura Nuttall's treatment.
