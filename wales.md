@@ -25,4 +25,4 @@
 25. [Ymateb cymysg wedi penwythnos cyntaf lefel rhybudd sero](https://www.bbc.co.uk/newyddion/58139610) - Mon, 09 Aug 2021 06:06:59 GMT - I nifer roedd y penwythnos yn ddechrau newydd, ond pryderon hefyd wrth i Gymru lacio'r cyfyngiadau.
 26. [Golygu lluniau'n 'achosi problemau iechyd meddwl'](https://www.bbc.co.uk/newyddion/57941951) - Mon, 09 Aug 2021 06:26:56 GMT - Rhybudd y gall golygu lluniau arwain at gynnydd yn y nifer o bobl sy'n dioddef o anhwylderau meddyliol.
 27. [Pump uchafbwynt yr Eisteddfod AmGen](https://www.bbc.co.uk/newyddion/58105453) - Sun, 08 Aug 2021 07:28:31 GMT - Er fod yna ddim Maes, roedd hi dal yn Steddfod a hanner.
-28. [Buddugoliaeth rwydd i Forgannwg yn erbyn Nottingham](https://www.bbc.co.uk/newyddion/58139614) - Sun, 08 Aug 2021 20:44:46 GMT - Buddugoliaeth Morgannwg yn y gystadleuaeth undydd yn eu rhoi ar frig y grŵp.
+28. [Seiclwr o Abertawe yn 'un i'w gwylio' am y dyfodol](https://www.bbc.co.uk/newyddion/58139612) - Mon, 09 Aug 2021 06:52:43 GMT - Dywed Eluned King ei bod wedi elwa o'r cyfnod clo a'i bod yn gobeithio seiclo yng Ngemau'r Gymanwlad yn 2022.
