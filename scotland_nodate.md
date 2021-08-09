@@ -1,4 +1,4 @@
-1. [Covid restrictions lifted as Scotland exits level zero](https://www.bbc.co.uk/news/uk-scotland-58136277) - Physical distancing ends in most settings, nightclubs reopen and limits on gatherings are removed.
+1. [Covid in Scotland: 'Right moment' to lift restrictions, says Sturgeon](https://www.bbc.co.uk/news/uk-scotland-58136277) - Physical distancing ends in most settings and nightclubs reopen as Scotland exits level zero.
 2. [Is the coronavirus pandemic over at last?](https://www.bbc.co.uk/news/uk-scotland-58112939) - As Scotland loosens most of its remaining restrictions, is the devastating pandemic finally at an end?
 3. [Scotland's papers: End of level zero and praise for GB 'heroes'](https://www.bbc.co.uk/news/uk-scotland-58142755) - The lifting of most restrictions in Scotland and the Olympics closing ceremony make the front pages.
 4. [Will Scotland go back to traditional school exams?](https://www.bbc.co.uk/news/uk-scotland-58139111) - Will Scottish school pupils be studying for traditional exams in 2022, or have things changed for good?

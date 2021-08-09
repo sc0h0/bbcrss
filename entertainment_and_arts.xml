@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 09 Aug 2021 10:44:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Aug 2021 10:54:03 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -28,6 +28,13 @@
             <link>https://www.bbc.co.uk/news/entertainment-arts-58144284</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-58144284</guid>
             <pubDate>Mon, 09 Aug 2021 10:42:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[New 'Banksy' artwork appears at Great Yarmouth model village]]></title>
+            <description><![CDATA[A new model, apparently signed by the artist, is found at a Great Yarmouth attraction.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-norfolk-58143164</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-norfolk-58143164</guid>
+            <pubDate>Mon, 09 Aug 2021 10:53:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Peter Kay: Cancer patient 'honoured' to inspire comic's comeback gig]]></title>
@@ -70,13 +77,6 @@
             <link>https://www.bbc.co.uk/news/entertainment-arts-58112957</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-58112957</guid>
             <pubDate>Fri, 06 Aug 2021 10:43:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sir Tom Stoppard: ‘Cancel culture has eroded free speech’]]></title>
-            <description><![CDATA[The playwright talks to Newsnight about the impact of cancel culture and his latest production Leopoldstadt.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-58118789</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-58118789</guid>
-            <pubDate>Fri, 06 Aug 2021 12:46:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Zola: How a road trip became a viral story of sex trafficking]]></title>
@@ -135,6 +135,13 @@
             <pubDate>Sun, 01 Aug 2021 23:34:13 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Sir Tom Stoppard: ‘Cancel culture has eroded free speech’]]></title>
+            <description><![CDATA[The playwright talks to Newsnight about the impact of cancel culture and his latest production Leopoldstadt.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-58118789</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-58118789</guid>
+            <pubDate>Fri, 06 Aug 2021 12:46:45 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Tokyo Olympics: Capturing the perfect moment]]></title>
             <description><![CDATA[Three sports photographers explain what goes into getting the best shots of the day at the Games.]]></description>
             <link>https://www.bbc.co.uk/news/entertainment-arts-58115465</link>
@@ -168,13 +175,6 @@
             <link>https://www.bbc.co.uk/news/world-africa-58105542</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-58105542</guid>
             <pubDate>Thu, 05 Aug 2021 14:24:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fisherwomen honoured in photography exhibition]]></title>
-            <description><![CDATA[An exhibition is dedicated to decades of women who have worked in the industry on the east coast.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-norfolk-58077623</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-norfolk-58077623</guid>
-            <pubDate>Wed, 04 Aug 2021 08:49:29 GMT</pubDate>
         </item>
     </channel>
 </rss>

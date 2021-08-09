@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 09 Aug 2021 10:44:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Aug 2021 10:55:35 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -37,11 +37,18 @@
             <pubDate>Mon, 09 Aug 2021 08:43:54 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Roselawn: Belfast City Council reveals plan for new crematorium]]></title>
+            <description><![CDATA[The public is asked to give its view on the plan for the £18m project to boost cremation capacity.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58143531</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58143531</guid>
+            <pubDate>Mon, 09 Aug 2021 10:52:33 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Glenshane Pass closed after two-vehicle crash]]></title>
             <description><![CDATA[Motorists are advised to seek another route and to expect their journey to be delayed.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58143530</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58143530</guid>
-            <pubDate>Mon, 09 Aug 2021 08:02:50 GMT</pubDate>
+            <pubDate>Mon, 09 Aug 2021 10:48:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[NI internment: What's its legacy 50 years on?]]></title>
@@ -56,13 +63,6 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58115547</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58115547</guid>
             <pubDate>Mon, 09 Aug 2021 05:38:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Belfast flooding: Clean-up in Ardoyne after weekend flooding]]></title>
-            <description><![CDATA[Several centimetres of raw sewage built up at the back of one home as drains struggled to cope.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58138539</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58138539</guid>
-            <pubDate>Sun, 08 Aug 2021 19:50:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Saliva tubes, emotion and NI's Olympics 'what ifs']]></title>
@@ -98,6 +98,13 @@
             <link>https://www.bbc.co.uk/sport/olympics/58088628</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58088628</guid>
             <pubDate>Sun, 08 Aug 2021 20:54:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Belfast flooding: Clean-up in Ardoyne after weekend flooding]]></title>
+            <description><![CDATA[Several centimetres of raw sewage built up at the back of one home as drains struggled to cope.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58138539</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58138539</guid>
+            <pubDate>Sun, 08 Aug 2021 19:50:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: NI has the highest infection rate in the UK]]></title>
