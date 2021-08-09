@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 09 Aug 2021 17:33:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Aug 2021 17:56:18 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -128,6 +128,13 @@
             <pubDate>Sat, 07 Aug 2021 15:30:24 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[West Mercia PC travelling at high speed before fatal crash]]></title>
+            <description><![CDATA[Jamie Holloway was responding to an emergency call from colleagues, a court hears.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-hereford-worcester-58151658</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-hereford-worcester-58151658</guid>
+            <pubDate>Mon, 09 Aug 2021 17:47:34 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Search continues for missing Lulworth Cove diver off Dorset]]></title>
             <description><![CDATA[Carvalho da Silveira was last seen in the water on Saturday afternoon.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-dorset-58144421</link>
@@ -160,7 +167,7 @@
             <description><![CDATA[Jack Grealish says his departure from Aston Villa for Manchester City was as emotional as Lionel Messi's final Barcelona press conference and that he "teared up" as he left the team.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58150738</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58150738</guid>
-            <pubDate>Mon, 09 Aug 2021 17:32:21 GMT</pubDate>
+            <pubDate>Mon, 09 Aug 2021 17:43:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[England v India: Joe Root coping well with pressure - Chris Silverwood]]></title>
@@ -181,7 +188,7 @@
             <description><![CDATA[India's teenage superstar Shafali Verma crunches a rapid half-century as Birmingham Phoenix keep their slim hopes alive with an empathic victory over Welsh Fire in the women's Hundred.]]></description>
             <link>https://www.bbc.co.uk/sport/cricket/58151422</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/58151422</guid>
-            <pubDate>Mon, 09 Aug 2021 17:05:05 GMT</pubDate>
+            <pubDate>Mon, 09 Aug 2021 17:42:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
