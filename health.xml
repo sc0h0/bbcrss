@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 09 Aug 2021 00:34:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Aug 2021 01:37:21 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Heart surgery waits in England may rise by 40%, warns charity]]></title>
+            <description><![CDATA[Even before Covid, waits for heart treatment were far too long, the British Heart Foundation says.]]></description>
+            <link>https://www.bbc.co.uk/news/health-58141434</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-58141434</guid>
+            <pubDate>Mon, 09 Aug 2021 01:12:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[NHS waiting lists could rise to 14 million in England next year - report]]></title>
             <description><![CDATA[Currently five million people are on hospital waiting lists, but there is a warning of a hidden backlog.]]></description>
@@ -56,20 +63,6 @@
             <link>https://www.bbc.co.uk/news/health-58071898</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/health-58071898</guid>
             <pubDate>Wed, 04 Aug 2021 00:04:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[China Covid: China targets school students to control case surge]]></title>
-            <description><![CDATA[Authorities in China are scrambling to control the spread of the virus by ramping up testing and vaccinations.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-china-58052902</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-58052902</guid>
-            <pubDate>Wed, 04 Aug 2021 04:05:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NHS Covid-19 app in England and Wales tweaked to notify fewer contacts]]></title>
-            <description><![CDATA[The app in England and Wales will now only alert contacts from the previous two days in asymptomatic cases.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58062180</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58062180</guid>
-            <pubDate>Mon, 02 Aug 2021 22:08:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: The mystery of rising infections in India's Kerala]]></title>
