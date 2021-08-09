@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 09 Aug 2021 16:08:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Aug 2021 16:47:38 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Greensill: David Cameron 'made $10m' before company’s collapse]]></title>
+            <description><![CDATA[A letter indicates the former PM received millions from shares in the controversial collapsed firm.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-58149765</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58149765</guid>
+            <pubDate>Mon, 09 Aug 2021 16:14:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Climate change: IPCC report is 'code red for humanity']]></title>
             <description><![CDATA[Heating from humans has caused irreparable damage to the Earth that may get worse in coming decades.]]></description>
@@ -86,18 +93,18 @@
             <pubDate>Sun, 08 Aug 2021 22:18:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Climate change: Time running out to stop catastrophe - Alok Sharma]]></title>
-            <description><![CDATA[Despite his warning, the Tory climate chief does not rule out future fossil fuel projects in the UK.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58132939</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58132939</guid>
-            <pubDate>Sun, 08 Aug 2021 13:19:15 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[PM's coal mining 'joke' no laughing matter, say MPs]]></title>
             <description><![CDATA[Boris Johnson said that closing mines had given the UK an early start fighting climate change.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-58116722</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-58116722</guid>
             <pubDate>Fri, 06 Aug 2021 14:34:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Climate change: Time running out to stop catastrophe - Alok Sharma]]></title>
+            <description><![CDATA[Despite his warning, the Tory climate chief does not rule out future fossil fuel projects in the UK.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-58132939</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58132939</guid>
+            <pubDate>Sun, 08 Aug 2021 13:19:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Geronimo the Alpaca must be put down to protect cows - minister]]></title>
@@ -415,6 +422,13 @@
             <pubDate>Mon, 09 Aug 2021 11:43:46 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[COP26: Keir Starmer on Labour's climate change policy]]></title>
+            <description><![CDATA[The "eyes of the world will be on the UK" for the COP26 conference in Glasgow to see if it can "back up" its words, says the Labour leader.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-58151563</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-58151563</guid>
+            <pubDate>Mon, 09 Aug 2021 15:58:49 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Covid-19: Nicola Sturgeon on face coverings in Scotland's schools]]></title>
             <description><![CDATA[Nicola Sturgeon explains why pupils and teachers will be required to wear face coverings in schools.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-58143865</link>
@@ -434,13 +448,6 @@
             <link>https://www.bbc.co.uk/news/uk-politics-58113970</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-58113970</guid>
             <pubDate>Fri, 06 Aug 2021 16:01:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Christine Jardine: Government 'making up a rule' to suit itself]]></title>
-            <description><![CDATA[Liberal Democrat Christine Jardine says the government is "making up a rule" on quarantine to suit its ministers.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-58113972</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-58113972</guid>
-            <pubDate>Fri, 06 Aug 2021 16:04:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Boris Johnson: Why mining gaffe will linger after Scottish visit]]></title>

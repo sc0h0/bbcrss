@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 09 Aug 2021 16:00:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Aug 2021 16:36:08 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -37,13 +37,6 @@
             <pubDate>Mon, 09 Aug 2021 15:51:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[London's Tower Bridge stuck open after technical failure]]></title>
-            <description><![CDATA[Police warn drivers to avoid the area around the famous London landmark.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-london-58149716</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-58149716</guid>
-            <pubDate>Mon, 09 Aug 2021 15:16:10 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Chelsea's Ivy Asia restaurant sorry for 'culturally insensitive' advert]]></title>
             <description><![CDATA[The video features women dressed as geishas being pulled in a rickshaw to the restaurant.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-london-58145325</link>
@@ -51,11 +44,25 @@
             <pubDate>Mon, 09 Aug 2021 10:06:53 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[London's Tower Bridge stuck open after technical failure]]></title>
+            <description><![CDATA[Police warn drivers to avoid roads around the famous London landmark after the technical failure.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-58149716</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-58149716</guid>
+            <pubDate>Mon, 09 Aug 2021 16:16:31 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Streatham terror attack: Sudesh Amman operation 'an effective result']]></title>
             <description><![CDATA[Sudesh Amman was shot dead by surveillance officers after stabbing two people in south London.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-london-58146837</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-58146837</guid>
             <pubDate>Mon, 09 Aug 2021 14:25:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo Olympics: Galal Yafai returns to UK from Tokyo]]></title>
+            <description><![CDATA[Galal Yafai was met with cheers and chanting as he arrived at London Heathrow Airport from Tokyo.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-birmingham-58151399</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-birmingham-58151399</guid>
+            <pubDate>Mon, 09 Aug 2021 16:00:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Missing hillwalker: Search for Frank Smith at Ben Cruachan]]></title>
@@ -93,13 +100,6 @@
             <pubDate>Mon, 09 Aug 2021 10:53:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Search continues for missing Lulworth Cove diver off Dorset]]></title>
-            <description><![CDATA[Carvalho da Silveira was last seen in the water on Saturday afternoon.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-dorset-58144421</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-dorset-58144421</guid>
-            <pubDate>Mon, 09 Aug 2021 13:49:01 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Birmingham riots: Tariq Jahan reflects 10 years on]]></title>
             <description><![CDATA[Tariq Jahan says he forgives the men who killed his son during the 2011 riots in Birmingham.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-birmingham-58147894</link>
@@ -133,6 +133,13 @@
             <link>https://www.bbc.co.uk/news/uk-england-manchester-58129539</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-manchester-58129539</guid>
             <pubDate>Sat, 07 Aug 2021 15:30:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Search continues for missing Lulworth Cove diver off Dorset]]></title>
+            <description><![CDATA[Carvalho da Silveira was last seen in the water on Saturday afternoon.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-dorset-58144421</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-dorset-58144421</guid>
+            <pubDate>Mon, 09 Aug 2021 13:49:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Daughter of 'Robocop' PC becomes Nottinghamshire Police officer]]></title>
