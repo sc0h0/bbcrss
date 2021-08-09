@@ -9,7 +9,7 @@
 9. [Andrew Cuomo: Top aide to governor resigns amid scandal](https://www.bbc.co.uk/news/world-us-canada-58141548) - Melissa DeRosa worked as a senior aide to Andrew Cuomo, who has been accused of sexual harassment.
 10. [Thailand man charged over death of Swiss tourist near waterfall](https://www.bbc.co.uk/news/world-asia-58141926) - The 27-year-old man has been charged with murdering the 57-year-old woman.
 11. [Alibaba to sack manager accused of rape, according to memo seen by BBC](https://www.bbc.co.uk/news/business-58141606) - The move comes after a woman's allegations of sexual assault went viral on Chinese social media.
-12. [A-level results: Students have been treated fairly - watchdog](https://www.bbc.co.uk/news/education-58141518) - The head of the exams regulator defends the system for deciding grades ahead of A-level and GCSE results day.
+12. [New 'Banksy' artwork appears at Great Yarmouth model village](https://www.bbc.co.uk/news/uk-england-norfolk-58143164) - A new model, apparently signed by the artist, is found at a Great Yarmouth attraction.
 13. [St Jude Invitational: Kim Si-woo finds water five times on one hole to score 13 on par three](https://www.bbc.co.uk/sport/golf/58140968) - Finding water five times on one hole saw South Korea's Kim Si-woo score 13 on a par three to record the highest score on the PGA Tour since 1983.
 14. [Climate Basics: Your carbon footprint explained](https://www.bbc.co.uk/news/science-environment-56822950) - BBC Reality Check's Chris Morris explains how changing three aspects of how you live can make the biggest dent to your carbon footprint.
 15. [Climate Basics: CO2 explained](https://www.bbc.co.uk/news/science-environment-52926683) - CO2 is at the heart of our changing climate. Here's why.
@@ -20,7 +20,7 @@
 20. [Climate change: Time running out to stop catastrophe - Alok Sharma](https://www.bbc.co.uk/news/uk-58132939) - Despite his warning, the Tory climate chief does not rule out future fossil fuel projects in the UK.
 21. [Climate Change: Half US cars to be zero-emission by 2030 - Biden](https://www.bbc.co.uk/news/world-us-canada-58101907) - Cars produce nearly a third of US carbon emissions and sales of electric vehicles lag behind Europe.
 22. [The Papers: Praise for GB heroes, and push for office return](https://www.bbc.co.uk/news/blogs-the-papers-58141116) - Britain's Olympic medal haul features on many of Monday's newspaper front pages.
-23. [How A Level and GCSE results are calculated](https://www.bbc.co.uk/news/education-58120399) - Education correspondent Branwen Jefferys explains how grades are calculated and how you can appeal.
+23. [How A Level and GCSE results are calculated](https://www.bbc.co.uk/news/education-58120399) - Education correspondent Branwen Jeffreys explains how grades are calculated and how you can appeal.
 24. [Greece wildfires: 'It's like a horror movie but it's real life'](https://www.bbc.co.uk/news/world-europe-58141236) - Thousands of people have had to evacuate Greece's second biggest island as severe wildfires rage.
 25. [‘Parkinson’s doesn't stop me playing tennis’](https://www.bbc.co.uk/news/uk-england-nottinghamshire-58091757) - Andy Wright, who was diagnosed at 33, says his return to the sport helps alleviate symptoms.
 26. [Tokyo Olympics: All the best stats from the 2020 Games](https://www.bbc.co.uk/sport/olympics/58109921) - World records, Team GB making more history, US v China, and all the best stats from the Tokyo 2020 Olympic Games.
