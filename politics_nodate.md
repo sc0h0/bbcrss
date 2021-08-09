@@ -1,5 +1,5 @@
 1. [Climate change: IPCC report is 'code red for humanity'](https://www.bbc.co.uk/news/science-environment-58130705) - Heating from humans has caused irreparable damage to the Earth that may get worse in coming decades.
-2. [Climate change: Make coal history says PM, after climate warning](https://www.bbc.co.uk/news/uk-58144779) - Boris Johnson calls for a shift towards clean energy sources after "sobering" report on climate change.
+2. [Climate change: Make coal history says PM after climate warning](https://www.bbc.co.uk/news/uk-58144779) - Boris Johnson calls for a shift towards clean energy sources after "sobering" report on climate change.
 3. [COP26: Minister says summit must be a turning point](https://www.bbc.co.uk/news/uk-politics-58144227) - Zac Goldsmith says COP26 must be a "turning point", despite warnings that costs of tackling climate change will hit poor families.
 4. [COP26: How serious is the government about climate conference?](https://www.bbc.co.uk/news/uk-politics-58107010) - With less than 90 days to go to Glasgow climate summit, there is uncertainty surrounding the event.
 5. [A-level results: Students have been treated fairly - watchdog](https://www.bbc.co.uk/news/education-58141518) - The head of the exams regulator defends the system for deciding grades ahead of A-level and GCSE results day.
