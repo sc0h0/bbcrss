@@ -8,7 +8,7 @@
 8. [Thailand man charged over death of Swiss tourist near waterfall](https://www.bbc.co.uk/news/world-asia-58141926) - The 27-year-old man has been charged with murdering the 57-year-old woman.
 9. ['Smallest baby at birth' home after 13 months in hospital](https://www.bbc.co.uk/news/world-asia-58141756) - Kwek Yu Xuan weighed only 212g - the weight of an apple - when she was born in Singapore last year.
 10. [Alibaba to sack manager accused of rape, according to memo seen by BBC](https://www.bbc.co.uk/news/business-58141606) - The move comes after a woman's allegations of sexual assault went viral on Chinese social media.
-11. [Mozambique insurgency: Key port retaken from insurgents - Rwanda](https://www.bbc.co.uk/news/world-africa-58138507) - Mocímboa da Praia was the Islamist militants' last stronghold in northern Mozambique, Rwanda says.
+11. [Quan Hongchan: Chinese teen diving star's village mobbed by fans](https://www.bbc.co.uk/news/world-asia-china-58141676) - Quan Hongchan's village has been sealed off after crowds of people searching for selfies came there.
 12. [Saudi Arabia to allow in vaccinated Umrah pilgrims](https://www.bbc.co.uk/news/world-middle-east-58135756) - The Islamic holy city of Mecca will allow vaccinated pilgrims to enter, the Saudi authorities say.
 13. [Why China's climate policy matters to us all](https://www.bbc.co.uk/news/world-asia-china-57483492) - The global battle against climate change is likely to be won or lost in China.
 14. [Malta: The teenagers pulled from the sea and accused of terrorism](https://www.bbc.co.uk/news/world-57988934) - How three teenagers rescued from the Mediterranean Sea ended up in Malta accused of terrorism.
