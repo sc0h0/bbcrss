@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 09 Aug 2021 22:50:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Aug 2021 23:15:57 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -128,6 +128,13 @@
             <pubDate>Tue, 20 Jul 2021 07:11:47 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Fashion photographer: 'The world doesn't see this part of Afghanistan']]></title>
+            <description><![CDATA[Fatimah Hossaini is a fashion photographer in Afghanistan and wants to use her work to help women be seen.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58147426</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58147426</guid>
+            <pubDate>Mon, 09 Aug 2021 23:03:40 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Beirut blast: ‘The day our city exploded’]]></title>
             <description><![CDATA[One year on from the blast that rocked Beirut, no one has yet been made accountable.]]></description>
             <link>https://www.bbc.co.uk/news/world-middle-east-58076999</link>
@@ -154,13 +161,6 @@
             <link>https://www.bbc.co.uk/news/world-middle-east-57988693</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-57988693</guid>
             <pubDate>Tue, 27 Jul 2021 23:01:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Deadly street protests over Iran water shortages]]></title>
-            <description><![CDATA[Khuzestan is one of the country's hottest regions, where temperatures can reach 50C.]]></description>
-            <link>https://www.bbc.co.uk/news/world-middle-east-57948717</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-57948717</guid>
-            <pubDate>Sun, 25 Jul 2021 23:06:22 GMT</pubDate>
         </item>
     </channel>
 </rss>

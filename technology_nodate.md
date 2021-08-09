@@ -14,9 +14,10 @@
 14. [Untethered bi-pedal robot runs 5km and other tech news](https://www.bbc.co.uk/news/technology-58014320) - Jen Copestake looks at some of the best technology news stories of the week.
 15. [Team BRIT’s Aaron Morgan: How hand controls help me race](https://www.bbc.co.uk/news/technology-57930083) - The Team BRIT driver on how adapted cars help him compete in races against non-disabled drivers.
 16. [Vineyards set to go high tech with smart systems](https://www.bbc.co.uk/news/technology-57850284) - Changing climate conditions and water shortages see some Australian wine growers turn to technology.
-17. [Why artificial intelligence is being used to write adverts](https://www.bbc.co.uk/news/business-57781557) - Advertisers are increasingly using artificial intelligence to come up with their winning slogans.
-18. [The perfect storm striking World of Warcraft](https://www.bbc.co.uk/news/technology-58017429) - All of a sudden, WoW players are in revolt, and its competitors are having a boom.
-19. [Tokyo 2020: TikTok becomes the unofficial behind-the-scenes Olympic channel](https://www.bbc.co.uk/news/world-australia-58053519) - The short-form video platform is giving fans unprecedented insight into the athletes' experience.
-20. [The fungus and bacteria tackling plastic waste](https://www.bbc.co.uk/news/business-57733178) - Bacteria, fungus and enzymes can all digest plastic, but can they work at a useful commercial scale?
-21. [Can better tech make video meetings less excruciating?](https://www.bbc.co.uk/news/business-57720504) - Technology firms are scrambling to add new features but will video calls improve.
-22. [Why remote working leaves us vulnerable to cyber-attacks](https://www.bbc.co.uk/news/business-57847652) - Experts warn working from home has led to complacency over security protocols
+17. [Sharing apps are booming but will the kindness continue?](https://www.bbc.co.uk/news/business-57981598) - The pandemic sparked a surge in activity for sharing apps like Olio but has the trend run its course?
+18. [Why artificial intelligence is being used to write adverts](https://www.bbc.co.uk/news/business-57781557) - Advertisers are increasingly using artificial intelligence to come up with their winning slogans.
+19. [The perfect storm striking World of Warcraft](https://www.bbc.co.uk/news/technology-58017429) - All of a sudden, WoW players are in revolt, and its competitors are having a boom.
+20. [Tokyo 2020: TikTok becomes the unofficial behind-the-scenes Olympic channel](https://www.bbc.co.uk/news/world-australia-58053519) - The short-form video platform is giving fans unprecedented insight into the athletes' experience.
+21. [The fungus and bacteria tackling plastic waste](https://www.bbc.co.uk/news/business-57733178) - Bacteria, fungus and enzymes can all digest plastic, but can they work at a useful commercial scale?
+22. [Can better tech make video meetings less excruciating?](https://www.bbc.co.uk/news/business-57720504) - Technology firms are scrambling to add new features but will video calls improve.
+23. [Why remote working leaves us vulnerable to cyber-attacks](https://www.bbc.co.uk/news/business-57847652) - Experts warn working from home has led to complacency over security protocols
