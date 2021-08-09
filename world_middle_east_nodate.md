@@ -1,5 +1,5 @@
 1. [Saudi Arabia to allow in vaccinated Umrah pilgrims](https://www.bbc.co.uk/news/world-middle-east-58135756) - The Islamic holy city of Mecca will allow vaccinated pilgrims to enter, the Saudi authorities say.
-2. [Saudi oil giant Aramco sees profits soar by almost 300%](https://www.bbc.co.uk/news/business-58141607) - The results were boosted by a rise in oil prices and a recovery in demand after the pandemic.
+2. [Saudi oil giant Aramco sees profits soar by almost 300%](https://www.bbc.co.uk/news/business-58141607) - The results were boosted by a rise in oil prices as demand recovers after the pandemic.
 3. [Mercer Street: Tanker blast evidence points to Iran, says US](https://www.bbc.co.uk/news/world-middle-east-58124489) - The attack on the Israeli-operated merchant tanker last week killed two people.
 4. [Olympic gold for Israeli rhythmic gymnast ](https://www.bbc.co.uk/sport/olympics/58127312) - Israel's Linoy Ashram caused a huge upset in the Olympic rhythmic gymnastics individual all-around final, becoming the first non-Russian champion since 1996.
 5. [In pictures: Egypt pharaoh's 'solar boat' moved to Giza museum](https://www.bbc.co.uk/news/in-pictures-58088867) - The Great Boat of King Khufu is more than 4,500 years old, and was found virtually intact in 1954.

@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 09 Aug 2021 07:30:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Aug 2021 07:38:00 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -184,6 +184,13 @@
             <pubDate>Fri, 06 Aug 2021 10:59:29 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Nightclubs reopen as Scotland leaves level zero Covid restrictions]]></title>
+            <description><![CDATA[Scotland has left its final level of restrictions with few anti-Covid measures remaining in place.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-58143763</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58143763</guid>
+            <pubDate>Mon, 09 Aug 2021 07:32:45 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Tokyo Olympics: Team GB's Josh Kerr 1500m wins bronze as Jakob Ingebrigtsen takes gold]]></title>
             <description><![CDATA[Team GB's Josh Kerr wins bronze in the men's 1500m, with the second fastest time ever by a British athlete, as Norway's Jakob Ingebrigtsen takes gold.]]></description>
             <link>https://www.bbc.co.uk/sport/av/olympics/58128309</link>
@@ -210,13 +217,6 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-58103993</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58103993</guid>
             <pubDate>Thu, 05 Aug 2021 15:27:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[PM's full interview on visit to Scotland]]></title>
-            <description><![CDATA[Boris Johnson sets out views on the UK working together, the COP26 conference and Scottish drug deaths.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-58094228</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58094228</guid>
-            <pubDate>Wed, 04 Aug 2021 20:25:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Scotland: Andy Robertson injured in Liverpool friendly and faces ankle scan]]></title>
@@ -247,11 +247,11 @@
             <pubDate>Sun, 08 Aug 2021 17:00:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Hero Open: Grant Forrest realises 'dream' with first European Tour title in St Andrews]]></title>
-            <description><![CDATA[Scotland's Grant Forrest secures his first European Tour title with a fine birdie-birdie finish on home soil at the Hero Open at St Andrews.]]></description>
+            <title><![CDATA[Hero Open: Grant Forrest dedicates 'dream' first European Tour title to late dad]]></title>
+            <description><![CDATA[Scotland's Grant Forrest secures his first European Tour title and says his late father was "the big inspiration" ahead of his thrilling Hero Open win.]]></description>
             <link>https://www.bbc.co.uk/sport/golf/58140852</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/golf/58140852</guid>
-            <pubDate>Sun, 08 Aug 2021 18:53:51 GMT</pubDate>
+            <pubDate>Mon, 09 Aug 2021 07:30:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
