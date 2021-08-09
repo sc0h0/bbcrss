@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 09 Aug 2021 03:22:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Aug 2021 03:36:32 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -20,21 +20,7 @@
             <description><![CDATA[The report will be a "massive wake-up call" to governments to cut emissions, environmental experts say.]]></description>
             <link>https://www.bbc.co.uk/news/science-environment-58141129</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-58141129</guid>
-            <pubDate>Mon, 09 Aug 2021 00:38:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dixie Fire: Firefighters tackles historic California wildfire]]></title>
-            <description><![CDATA[The Dixie Fire has burned through more than 463,000 acres and could take weeks to extinguish.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-58141340</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-58141340</guid>
-            <pubDate>Mon, 09 Aug 2021 01:09:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: Virus 'still with us' as Scotland exits level zero]]></title>
-            <description><![CDATA[Physical distancing ends in most settings, nightclubs reopen and limits on gatherings are removed.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-58136277</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58136277</guid>
-            <pubDate>Sun, 08 Aug 2021 23:04:30 GMT</pubDate>
+            <pubDate>Mon, 09 Aug 2021 03:26:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Greece wildfires: Strong winds push flames towards villages]]></title>
@@ -44,6 +30,20 @@
             <pubDate>Sun, 08 Aug 2021 23:33:12 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid: Virus 'still with us' as Scotland exits level zero]]></title>
+            <description><![CDATA[Physical distancing ends in most settings, nightclubs reopen and limits on gatherings are removed.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-58136277</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58136277</guid>
+            <pubDate>Sun, 08 Aug 2021 23:04:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dixie Fire: Firefighters tackles historic California wildfire]]></title>
+            <description><![CDATA[The Dixie Fire has burned through more than 463,000 acres and could take weeks to extinguish.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-58141340</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-58141340</guid>
+            <pubDate>Mon, 09 Aug 2021 01:09:55 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Afghanistan war: Taliban capture three regional capitals]]></title>
             <description><![CDATA[Three cities, including the strategically important Kunduz, fall to the militant group in a single day.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-58135148</link>
@@ -51,11 +51,11 @@
             <pubDate>Mon, 09 Aug 2021 02:10:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tobacco giant Philip Morris raises bid for respiratory drugmaker]]></title>
-            <description><![CDATA[Philip Morris is seeking to buy Vectura, which makes treatments for diseases such as asthma.]]></description>
-            <link>https://www.bbc.co.uk/news/business-58140752</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58140752</guid>
-            <pubDate>Sun, 08 Aug 2021 18:51:04 GMT</pubDate>
+            <title><![CDATA[Thailand man charged over death of Swiss tourist near waterfall]]></title>
+            <description><![CDATA[The 27-year-old man has been charged with murdering the 57-year-old woman.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58141926</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58141926</guid>
+            <pubDate>Mon, 09 Aug 2021 03:18:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[St Jude Invitational: Kim Si-woo finds water five times on one hole to score 13 on par three]]></title>
@@ -63,6 +63,13 @@
             <link>https://www.bbc.co.uk/sport/golf/58140968</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/golf/58140968</guid>
             <pubDate>Sun, 08 Aug 2021 23:15:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tobacco giant Philip Morris raises bid for respiratory drugmaker]]></title>
+            <description><![CDATA[Philip Morris is seeking to buy Vectura, which makes treatments for diseases such as asthma.]]></description>
+            <link>https://www.bbc.co.uk/news/business-58140752</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58140752</guid>
+            <pubDate>Sun, 08 Aug 2021 18:51:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A-level results: Students have been treated fairly - watchdog]]></title>
@@ -84,13 +91,6 @@
             <link>https://www.bbc.co.uk/sport/football/58141002</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58141002</guid>
             <pubDate>Sun, 08 Aug 2021 20:43:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Afghanistan troop withdrawal a strategic mistake, warns ex-general]]></title>
-            <description><![CDATA[Gen Sir Richard Barrons says it sends allies the wrong message and risks a resurgence of terrorism.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58139590</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58139590</guid>
-            <pubDate>Sun, 08 Aug 2021 15:58:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid PCR costs can be excessive and exploitative, says Javid]]></title>
