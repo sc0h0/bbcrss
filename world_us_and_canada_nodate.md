@@ -1,5 +1,5 @@
 1. [Andrew Cuomo: Top aide to governor resigns amid scandal](https://www.bbc.co.uk/news/world-us-canada-58141548) - Melissa DeRosa worked as a senior aide to Andrew Cuomo, who has been accused of sexual harassment.
-2. [Dixie Fire: Firefighters tackles historic California wildfire](https://www.bbc.co.uk/news/world-us-canada-58141340) - The Dixie Fire has burned through more than 463,000 acres and could take weeks to extinguish.
+2. [Dixie Fire: Firefighters tackle historic California wildfire](https://www.bbc.co.uk/news/world-us-canada-58141340) - The Dixie Fire has burned through more than 463,000 acres and could take weeks to extinguish.
 3. [Tobacco giant Philip Morris raises bid for respiratory drugmaker](https://www.bbc.co.uk/news/business-58140752) - Philip Morris is seeking to buy Vectura, which makes treatments for diseases such as asthma.
 4. [Capitol riot: Off-duty Seattle police officers fired over assault](https://www.bbc.co.uk/news/world-us-canada-58088868) - The officers stood by as Donald Trump's supporters stormed the government building, an inquiry says.
 5. [Dennis Thomas: Kool & The Gang founding member dies aged 70](https://www.bbc.co.uk/news/world-us-canada-58135730) - He was one of the members who started the soul band that had massive hits like Celebration.

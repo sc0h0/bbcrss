@@ -21,8 +21,8 @@
 21. [Gareth Bale: Wales forward misses penalty on return to Real Madrid action](https://www.bbc.co.uk/sport/football/58140671) - Gareth Bale plays in Real Madrid's friendly with AC Milan after returning to Spain following his loan spell at Tottenham Hotspur.
 22. ['You could hear a pin drop' - reporting on the unique Tokyo Olympics](https://www.bbc.co.uk/sport/av/olympics/58141026) - From masks and quarantine to empty seats and daily Covid-19 tests, this is what it was like to report on a unique Olympic Games.
 23. [One Day Cup: Glamorgan thrash Nottinghamshire Outlaws by eight wickets](https://www.bbc.co.uk/sport/cricket/58139074) - Glamorgan move to the verge of the One-Day Cup knockout stages after thrashing an inexperienced Notts Outlaws side by eight wickets.
-24. [Lauren Price yn ennill medal aur yn y bocsio pwysau canol](https://www.bbc.co.uk/newyddion/58128546) - Lauren Price yn trechu Li Qian yn rownd derfynol y bocsio pwysau canol i ennill aur yn y Gemau Olympaidd.
-25. [Rhybudd i nofwyr am garthion a llygredd mewn afonydd](https://www.bbc.co.uk/newyddion/58031328) - Cafodd carthion eu colli i afonydd yng Nghymru dros 100,000 o weithiau yn 2020 yn unig.
-26. [Nofiwr yn y Gemau Olympaidd yn diolch i gapel Resolfen](https://www.bbc.co.uk/newyddion/58120982) - Daniel Jervis yn diolch i gapeli yn Resolfen a Rhydaman am eu gweddïau cyn iddo nofio yn y ras 1,500m dull rhydd.
+24. [Covid: Gweithwyr yn aros adref er i'r cyfyngiadau godi](https://www.bbc.co.uk/newyddion/58135996) - Y gred yw na fydd pawb yn dychwelyd yn llawn amser i'r swyddfa fyth eto.
+25. [Lauren Price yn ennill medal aur yn y bocsio pwysau canol](https://www.bbc.co.uk/newyddion/58128546) - Lauren Price yn trechu Li Qian yn rownd derfynol y bocsio pwysau canol i ennill aur yn y Gemau Olympaidd.
+26. [Rhybudd i nofwyr am garthion a llygredd mewn afonydd](https://www.bbc.co.uk/newyddion/58031328) - Cafodd carthion eu colli i afonydd yng Nghymru dros 100,000 o weithiau yn 2020 yn unig.
 27. [Pump uchafbwynt yr Eisteddfod AmGen](https://www.bbc.co.uk/newyddion/58105453) - Er fod yna ddim Maes, roedd hi dal yn Steddfod a hanner.
 28. [Buddugoliaeth rwydd i Forgannwg yn erbyn Nottingham](https://www.bbc.co.uk/newyddion/58139614) - Buddugoliaeth Morgannwg yn y gystadleuaeth undydd yn eu rhoi ar frig y grŵp.
