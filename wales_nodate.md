@@ -1,8 +1,8 @@
 1. [Covid: Office staff stay home despite end of Wales restrictions](https://www.bbc.co.uk/news/uk-wales-58118679) - Hybrid working could be one of the long-term legacies of the pandemic and lockdown restrictions.
 2. [Covid: Will Wales' GP surgeries go 'back to normal'?](https://www.bbc.co.uk/news/uk-wales-58086060) - GPs say false accusations they are shut and should "get back to work" are affecting morale.
 3. [Covid: Porthcawl Elvis Festival boss fears 'legal minefield'](https://www.bbc.co.uk/news/uk-wales-58139154) - Organisers must carry out risk assessments and take measures to minimise the spread of Covid.
-4. [Cefn Mawr disused chapel set to reopen after eight years](https://www.bbc.co.uk/news/uk-wales-58139831) - The Ebenzer became a community centre in 2008, but lacked visitors and closed in 2013.
-5. [Eglwysbach rescue: Man with broken hip airlifted to hospital](https://www.bbc.co.uk/news/uk-wales-58139161) - Mountain rescue says the 70-year-old was slipping in and out consciousness when he was found.
+4. [Porth Ysgo rescue: Two people rescued from disused mine shaft](https://www.bbc.co.uk/news/uk-wales-58143594) - Mountain rescue says two people were trapped after falling down a disused mine shaft.
+5. [Cefn Mawr disused chapel set to reopen after eight years](https://www.bbc.co.uk/news/uk-wales-58139831) - The Ebenzer became a community centre in 2008, but lacked visitors and closed in 2013.
 6. [Booker Prize: Novel inspired by last hanging at Cardiff prison](https://www.bbc.co.uk/news/uk-wales-58112179) - Mahmood Mattan's wrongful conviction has inspired a novel longlisted for the Booker Prize.
 7. [Covid: Student 'crying for water' in Majorca quarantine hotel](https://www.bbc.co.uk/news/uk-wales-58129253) - A student nurse says her treatment at a Covid quarantine hotel in Majorca has been "like prison".
 8. [Covid in Wales: Three more deaths and 864 new cases](https://www.bbc.co.uk/news/uk-wales-58129989) - It means there have been 5,626 deaths and 246,205 positive tests during the pandemic in Wales.
