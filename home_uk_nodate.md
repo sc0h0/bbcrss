@@ -8,7 +8,7 @@
 8. [Streatham terror attack: Sudesh Amman operation 'an effective result'](https://www.bbc.co.uk/news/uk-england-london-58146837) - Sudesh Amman was shot dead by surveillance officers after stabbing two people in south London.
 9. [Ocado Group offers staff remote working abroad](https://www.bbc.co.uk/news/business-58143560) - The tech firm's move covers one month a year as the government says flexible working is "here to stay".
 10. [Suspect in Nantes cathedral fire held over French priest's killing](https://www.bbc.co.uk/news/world-europe-58145468) - French police also suspect the Rwandan man of starting a fire that ravaged Nantes cathedral in 2020.
-11. [Geronimo the alpaca: Protesters march on Downing Street](https://www.bbc.co.uk/news/uk-england-bristol-58143100) - More than100,000 people sign a petition calling on Boris Johnson to halt the alpaca's execution.
+11. [Geronimo the alpaca: Protesters march on Downing Street](https://www.bbc.co.uk/news/uk-england-bristol-58143100) - More than 100,000 people sign a petition calling on Boris Johnson to halt the alpaca's execution.
 12. [Chelsea's Ivy Asia restaurant sorry for 'culturally insensitive' advert](https://www.bbc.co.uk/news/uk-england-london-58145325) - The video features women dressed as geishas being pulled in a rickshaw to the restaurant.
 13. [Extreme weather: How it is connected to climate change?](https://www.bbc.co.uk/news/science-environment-58073295) - Heatwaves, wildfires, floods and droughts highlight how extreme weather is linked to climate change.
 14. [Climate change: Make coal history says PM after climate warning](https://www.bbc.co.uk/news/uk-58144779) - Boris Johnson calls for a shift towards clean energy sources after "sobering" report on climate change.

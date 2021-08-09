@@ -21,7 +21,7 @@
 21. [Ethan Laird: Swansea City in talks to sign Manchester United right-back on loan](https://www.bbc.co.uk/sport/football/58148502) - Swansea City are in talks to sign Manchester United right-back Ethan Laird on a season-long loan.
 22. [Tokyo Olympics: 'Fantastic' Welsh achievements can encourage more people to get active](https://www.bbc.co.uk/sport/wales/58142192) - Director of Sport Wales Brian Davies hopes Welsh successes at the Tokyo Olympics will inspire the nation to be more active.
 23. [Flynn Downes: Swansea City close to signing Ipswich Town midfielder](https://www.bbc.co.uk/sport/football/58123529) - Swansea City are close to signing Ipswich midfielder Flynn Downes in a permanent deal worth more than £1m.
-24. [Dyn wedi marw 16 diwrnod ar ôl ymosodiad Parc Bute](https://www.bbc.co.uk/newyddion/58145696) - Mae tri pherson yn y ddalfa heddlu wedi'u cyhuddo o ymgais i lofruddio.
+24. [Dyn wedi marw 16 diwrnod ar ôl ymosodiad Parc Bute](https://www.bbc.co.uk/newyddion/58145696) - Mae tri pherson yn y ddalfa heddlu wedi'u cyhuddo o geisio llofruddio yn dilyn y digwyddiad.
 25. [Giang wedi herwgipio plentyn 'oherwydd cam-drin satanaidd'](https://www.bbc.co.uk/newyddion/58146737) - Chwe pherson yn euog o gynllwynio i herwgipio plentyn am eu bod yn amau camdriniaeth satanaidd.
 26. [Dyn wedi marw ar ôl mynd i drafferthion yn y môr ym Mhen Llŷn](https://www.bbc.co.uk/newyddion/58118178) - Bu farw'r dyn wedi iddo fynd i drafferthion yn y môr ar draeth Porth Neigwl ddydd Gwener.
 27. [Lle fyddai Cymru yn nhabl medalau Tokyo 2020?](https://www.bbc.co.uk/newyddion/58144971) - Enillodd aelodau Cymreig Tîm GB wyth o fedalau yn y Gemau Olympaidd eleni.
