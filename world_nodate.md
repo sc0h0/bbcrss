@@ -11,7 +11,7 @@
 11. [Friends narrowly escape flooding elevator](https://www.bbc.co.uk/news/world-us-canada-58154056) - Three residents were caught in a storm surge in Omaha, Nebraska, and recorded their ordeal.
 12. [We For India: Stars unite to help Covid relief work in India](https://www.bbc.co.uk/news/entertainment-arts-58146704) - Ed Sheeran, Annie Lennox, Mick Jagger and Bollywood actors will join forces for livestreamed event.
 13. ['Smallest baby at birth' home after 13 months in hospital](https://www.bbc.co.uk/news/world-asia-58141756) - Kwek Yu Xuan weighed only 212g - the weight of an apple - when she was born in Singapore last year.
-14. [Olympic medals: An alternative table - with US 15th](https://www.bbc.co.uk/news/world-us-canada-58143550) - How would the medals table look if population and wealth was taken into account?
+14. [Olympic medals: An alternative table - with US 15th](https://www.bbc.co.uk/news/world-us-canada-58143550) - How would the medals table look if population and wealth were taken into account?
 15. [Afghanistan: Why is there a war?](https://www.bbc.co.uk/news/world-asia-49192495) - As foreign forces pull out after 20 years of war, what did it achieve and what happens next?
 16. [Why South Korean women are reclaiming their short hair](https://www.bbc.co.uk/news/world-asia-58082355) - Thousands proudly show off their short hair after an Olympic athlete is criticised for her haircut.
 17. [Climate change: Five things we have learned from the IPCC report](https://www.bbc.co.uk/news/science-environment-58138714) - What are the key takeaways from the IPCC new study on the science of climate change?
