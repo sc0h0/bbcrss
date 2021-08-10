@@ -1,4 +1,4 @@
-1. [A-level top grades reach record high](https://www.bbc.co.uk/news/education-58086908) - Tue, 10 Aug 2021 08:32:03 GMT - The second year of results after cancelled exams sees the highest level of A* and A grades at A-level.
+1. [A-level top grades reach record high](https://www.bbc.co.uk/news/education-58086908) - Tue, 10 Aug 2021 08:47:30 GMT - The second year of results after cancelled exams sees the highest level of A* and A grades at A-level.
 2. [Virginia Giuffre: Prince Andrew accuser files civil case in US](https://www.bbc.co.uk/news/uk-58153711) - Tue, 10 Aug 2021 07:58:20 GMT - Virginia Giuffre alleges the Duke of York sexually assaulted her when she was 17 years old.
 3. [Covid: A-level results day and soaring second-hand car sales](https://www.bbc.co.uk/news/uk-58151596) - Tue, 10 Aug 2021 07:07:43 GMT - Five things you need to know about the coronavirus pandemic this Tuesday morning.
 4. [Greece fires: PM apologises as blazes rage on Evia island](https://www.bbc.co.uk/news/world-europe-58152324) - Mon, 09 Aug 2021 23:50:31 GMT - Kyriakos Mitsotakis says Greece is facing an unprecedented natural disaster, as public anger grows.

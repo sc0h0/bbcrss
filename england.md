@@ -1,4 +1,4 @@
-1. [A-level top grades reach record high](https://www.bbc.co.uk/news/education-58086908) - Tue, 10 Aug 2021 08:32:03 GMT - The second year of results after cancelled exams sees the highest level of A* and A grades at A-level.
+1. [A-level top grades reach record high](https://www.bbc.co.uk/news/education-58086908) - Tue, 10 Aug 2021 08:47:30 GMT - The second year of results after cancelled exams sees the highest level of A* and A grades at A-level.
 2. [London's Tower Bridge reopens after technical failure](https://www.bbc.co.uk/news/uk-england-london-58149716) - Tue, 10 Aug 2021 05:02:11 GMT - The iconic London crossing had been closed for almost 12 hours after a "technical failure".
 3. [Has Banksy been on an East Anglian seaside 'spraycation'?](https://www.bbc.co.uk/news/uk-england-norfolk-58145220) - Tue, 10 Aug 2021 00:43:51 GMT - Are new murals that have appeared on England's east coast really the work of the elusive artist?
 4. [Anger at overflowing Covid test drop boxes](https://www.bbc.co.uk/news/business-58149951) - Mon, 09 Aug 2021 20:17:44 GMT - Provider Randox says it is increasing collections but the tests for UK arrivals are branded "pointless".
