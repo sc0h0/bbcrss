@@ -11,15 +11,11 @@
 11. [Ocado Group offers staff remote working abroad](https://www.bbc.co.uk/news/business-58143560) - The tech firm's move covers one month a year as the government says flexible working is "here to stay".
 12. [SFO probes Gavin Woodhouse over suspected care home fraud](https://www.bbc.co.uk/news/business-58112342) - The Serious Fraud Office has launched a fraud investigation into care home entrepreneur Gavin Woodhouse
 13. [Alibaba to sack manager accused of rape, according to memo seen by BBC](https://www.bbc.co.uk/news/business-58141606) - The move comes after a woman's allegations of sexual assault went viral on Chinese social media.
-14. [Covid PCR costs can be excessive and exploitative, says Javid](https://www.bbc.co.uk/news/business-58137461) - The health secretary calls on a watchdog to investigate "exploitative" firms overcharging holidaymakers.
-15. [Saudi oil giant Aramco sees profits soar by almost 300%](https://www.bbc.co.uk/news/business-58141607) - The results were boosted by a rise in oil prices as demand recovers after the pandemic.
-16. [Tobacco giant Philip Morris raises bid for respiratory drugmaker](https://www.bbc.co.uk/news/business-58140752) - Philip Morris is seeking to buy Vectura, which makes treatments for diseases such as asthma.
-17. [Branson's Virgin Atlantic considers stock market listing](https://www.bbc.co.uk/news/business-58119588) - The move could see Sir Richard Branson lose overall control of the airline he founded.
-18. [Covid-19: Quarantine-free travel from France resumes as UK rules change](https://www.bbc.co.uk/news/uk-58130944) - Some travel firms report a "surge" of bookings but others say it is "too late to save the summer".
-19. [Can technology help authors write a book?](https://www.bbc.co.uk/news/business-58098481) - Writing a novel is notoriously difficult, but technology may give the writer a helping hand.
-20. [The activist entrepreneurs running zero-waste shops](https://www.bbc.co.uk/news/business-57920754) - Environmentally conscious entrepreneurs explain the movement towards zero-waste lifestyles.
-21. [Why artificial intelligence is being used to write adverts](https://www.bbc.co.uk/news/business-57781557) - Advertisers are increasingly using artificial intelligence to come up with their winning slogans.
-22. [Plain sailing: Boating holidays on the rise across the UK](https://www.bbc.co.uk/news/business-58069855) - More people are hiring boats to travel along the UK's canals and rivers amid travel restrictions.
-23. [CEO Secrets: Airbnb boss shares his business advice](https://www.bbc.co.uk/news/business-58025562) - Brian Chesky, co-founder and CEO of Airbnb, shares his business advice for the CEO Secrets series.
-24. [The downfall of Nissan's Carlos Ghosn: An insider's view](https://www.bbc.co.uk/news/business-58070929) - Former Nissan lawyer Ravinder Passi had a ringside seat of the downfall of chairman Carlos Ghosn.
-25. [What is solarpunk and can it help save the planet?](https://www.bbc.co.uk/news/business-57761297) - Solarpunk is art movement that imagines a world where technology is used for the good of the planet.
+14. [Saudi oil giant Aramco sees profits soar by almost 300%](https://www.bbc.co.uk/news/business-58141607) - The results were boosted by a rise in oil prices as demand recovers after the pandemic.
+15. [Can technology help authors write a book?](https://www.bbc.co.uk/news/business-58098481) - Writing a novel is notoriously difficult, but technology may give the writer a helping hand.
+16. [The activist entrepreneurs running zero-waste shops](https://www.bbc.co.uk/news/business-57920754) - Environmentally conscious entrepreneurs explain the movement towards zero-waste lifestyles.
+17. [Why artificial intelligence is being used to write adverts](https://www.bbc.co.uk/news/business-57781557) - Advertisers are increasingly using artificial intelligence to come up with their winning slogans.
+18. [Plain sailing: Boating holidays on the rise across the UK](https://www.bbc.co.uk/news/business-58069855) - More people are hiring boats to travel along the UK's canals and rivers amid travel restrictions.
+19. [CEO Secrets: Airbnb boss shares his business advice](https://www.bbc.co.uk/news/business-58025562) - Brian Chesky, co-founder and CEO of Airbnb, shares his business advice for the CEO Secrets series.
+20. [The downfall of Nissan's Carlos Ghosn: An insider's view](https://www.bbc.co.uk/news/business-58070929) - Former Nissan lawyer Ravinder Passi had a ringside seat of the downfall of chairman Carlos Ghosn.
+21. [What is solarpunk and can it help save the planet?](https://www.bbc.co.uk/news/business-57761297) - Solarpunk is art movement that imagines a world where technology is used for the good of the planet.
