@@ -1,5 +1,5 @@
 1. [A-levels 2021 in Wales: Grades above pre-Covid levels](https://www.bbc.co.uk/news/uk-wales-58148512) - A total of 48.3"% of A-level grades are A and A* in Wales, which is hailed a "remarkable achievement".
-2. [A-level results day in Wales: Your questions answered](https://www.bbc.co.uk/news/uk-wales-58149400) - It's earlier than usual this year and most students already know their grades.
+2. [A-levels 2021: How is results day in Wales different this year](https://www.bbc.co.uk/news/uk-wales-58149400) - In Wales it's earlier than usual and most students already know their grades.
 3. [Rhyl cancer patient suffered from 'alarming failings' at Glan Clwyd Hospital](https://www.bbc.co.uk/news/uk-wales-58151073) - Ann Jones, 69, died after "alarming failings" at Wales' largest health board, says ombudsman.
 4. [Mental health: Altered images on social media 'detrimental'](https://www.bbc.co.uk/news/uk-wales-58153556) - Postgrad student Lara Philippart says internet adverts gave her anxiety about her own body.
 5. [Bute Park attack: Gary Jenkins dies 16 days after incident](https://www.bbc.co.uk/news/uk-wales-58146759) - Father-of-two Dr Gary Jenkins had been in hospital since the attack in a Cardiff Park on 20 July.
