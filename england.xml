@@ -11,12 +11,12 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 10 Aug 2021 08:49:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Aug 2021 09:08:01 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
-            <title><![CDATA[A-level top grades reach record high]]></title>
+            <title><![CDATA[A-level results 2021: Top grades reach record high]]></title>
             <description><![CDATA[The second year of results after cancelled exams sees the highest level of A* and A grades at A-level.]]></description>
             <link>https://www.bbc.co.uk/news/education-58086908</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/education-58086908</guid>
@@ -135,6 +135,20 @@
             <pubDate>Mon, 09 Aug 2021 17:43:12 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Everton v Man City in WSL to be shown live on BBC TV]]></title>
+            <description><![CDATA[The BBC will broadcast Everton's Women's Super League opener against Manchester City.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58111521</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58111521</guid>
+            <pubDate>Tue, 10 Aug 2021 09:00:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[John Stones: Manchester City and England defender signs four-year contract extension with champions]]></title>
+            <description><![CDATA[Manchester City defender John Stones signs a four-year contract extension with the Premier League champions.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58157599</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58157599</guid>
+            <pubDate>Tue, 10 Aug 2021 09:01:08 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The Hundred: Imran Tahir takes first hat-trick as Phoenix batter Fire]]></title>
             <description><![CDATA[Imran Tahir and Will Smeed combine to devastating effect as Birmingham Phoenix climb to the top of the men's Hundred table with victory over Welsh Fire.]]></description>
             <link>https://www.bbc.co.uk/sport/cricket/58152649</link>
@@ -142,25 +156,11 @@
             <pubDate>Mon, 09 Aug 2021 21:02:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Liverpool: Injured Robertson misses start of season]]></title>
-            <description><![CDATA[Andy Robertson will miss the start of the Premier League season after a scan reveals ankle ligament damage.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58152982</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58152982</guid>
-            <pubDate>Mon, 09 Aug 2021 21:18:55 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Tom Pidcock and Adam Yates to ride Vuelta a Espana for Ineos]]></title>
             <description><![CDATA[Olympic mountain bike gold medallist Tom Pidcock will race in the Vuelta a Espana for Ineos Grenadiers alongside fellow Briton Adam Yates.]]></description>
             <link>https://www.bbc.co.uk/sport/cycling/58150688</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/cycling/58150688</guid>
             <pubDate>Mon, 09 Aug 2021 15:53:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Premier League: Covid-19 status spot-checks introduced for first games of season]]></title>
-            <description><![CDATA[Premier League fans will face random spot-checks of their Covid-19 status at grounds in the first few matchdays of the season, the league says.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58153110</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58153110</guid>
-            <pubDate>Tue, 10 Aug 2021 06:44:41 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -1,7 +1,7 @@
 1. [A-level results: Record rate of top grades for NI students](https://www.bbc.co.uk/news/uk-northern-ireland-58152067) - More than half of A-level entries in Northern Ireland have been awarded the top A* and A grades.
 2. [Covid-19: 80% of younger patients not vaccinated, says chief scientist](https://www.bbc.co.uk/news/uk-northern-ireland-58157207) - People should seek correct information on vaccination, says the chief scientific adviser.
 3. [Dungannon: Pair charged over death of Ali Jayden Doyle](https://www.bbc.co.uk/news/uk-northern-ireland-58154764) - Ali Jayden Doyle died in hospital on Friday after an ambulance was called to a house in Dungannon.
-4. [Rio Ferdinand: Speak up on mental health, urges ex-Man Utd captain](https://www.bbc.co.uk/news/uk-northern-ireland-58156259) - The ex-Man United captain is in Belfast for the Uefa Super Cup game between Chelsea and Villarreal.
+4. [Rio Ferdinand: Speak up on mental health, urges ex-Man Utd captain](https://www.bbc.co.uk/news/uk-northern-ireland-58156259) - The ex-Man United captain is in Belfast for the Chelsea and Villarreal Uefa Super Cup game.
 5. [Q&A: A-level results day in Northern Ireland](https://www.bbc.co.uk/news/uk-northern-ireland-58146068) - The lowdown on A-levels in Northern Ireland as pupils receive their results on Tuesday.
 6. [Criticism over delay in appointing new victims' commissioner](https://www.bbc.co.uk/news/uk-northern-ireland-58151225) - The UUP says a new commissioner is needed to help oppose Westminster's legacy proposals.
 7. [Anger at overflowing Covid test drop boxes](https://www.bbc.co.uk/news/business-58149951) - Provider Randox says it is increasing collections but the tests for UK arrivals are branded "pointless".
