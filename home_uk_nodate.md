@@ -1,6 +1,6 @@
-1. [Climate change: IPCC report is 'code red for humanity'](https://www.bbc.co.uk/news/science-environment-58130705) - Heating from humans has caused irreparable damage to the Earth that may get worse in coming decades.
-2. [Virginia Giuffre: Prince Andrew accuser files civil lawsuit in US](https://www.bbc.co.uk/news/uk-58153711) - Virginia Giuffre alleges the Duke of York sexually assaulted her when she was 17-years-old.
-3. [High grades expected as A-level results revealed](https://www.bbc.co.uk/news/education-58086908) - For a second year, students will be receiving results for exams cancelled in the pandemic.
+1. [High grades expected as A-level results revealed](https://www.bbc.co.uk/news/education-58086908) - For a second year, students will be receiving results for exams cancelled in the pandemic.
+2. [Virginia Giuffre: Prince Andrew accuser files civil lawsuit in US](https://www.bbc.co.uk/news/uk-58153711) - Virginia Giuffre alleges the Duke of York sexually assaulted her when she was 17 years old.
+3. [Climate change: IPCC report is 'code red for humanity'](https://www.bbc.co.uk/news/science-environment-58130705) - Heating from humans has caused irreparable damage to the Earth that may get worse in coming decades.
 4. [Greensill: David Cameron 'made $10m' before company’s collapse](https://www.bbc.co.uk/news/uk-58149765) - A letter indicates the former PM received millions from shares in the controversial collapsed firm.
 5. [Greece fires: PM apologises as blazes rage on Evia island](https://www.bbc.co.uk/news/world-europe-58152324) - Kyriakos Mitsotakis says Greece is facing an unprecedented natural disaster, as public anger grows.
 6. [Anger at overflowing Covid test drop boxes](https://www.bbc.co.uk/news/business-58149951) - Provider Randox says it is increasing collections but the tests for UK arrivals are branded "pointless".
