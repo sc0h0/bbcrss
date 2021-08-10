@@ -2,7 +2,7 @@
 2. [Climate change: IPCC report is 'code red for humanity'](https://www.bbc.co.uk/news/science-environment-58130705) - Heating from humans has caused irreparable damage to the Earth that may get worse in coming decades.
 3. [Climate change: Five things we have learned from the IPCC report](https://www.bbc.co.uk/news/science-environment-58138714) - What are the key takeaways from the IPCC new study on the science of climate change?
 4. [Artificial Intelligence may diagnose dementia in a day](https://www.bbc.co.uk/news/health-57934589) - The system being tested should spot the disease long before symptoms or obvious brain signs develop.
-5. [Extreme weather: How it is connected to climate change?](https://www.bbc.co.uk/news/science-environment-58073295) - Heatwaves, wildfires, floods and droughts highlight how extreme weather is linked to climate change.
+5. [Extreme weather: How is it connected to climate change?](https://www.bbc.co.uk/news/science-environment-58073295) - Heatwaves, wildfires, floods and droughts highlight how extreme weather is linked to climate change.
 6. [Climate change: Make coal history says PM after climate warning](https://www.bbc.co.uk/news/uk-58144779) - Boris Johnson calls for a shift towards clean energy sources after "sobering" report on climate change.
 7. [Greece wildfires: Evia island residents forced to evacuate](https://www.bbc.co.uk/news/world-europe-58141336) - Hundreds on the island of Evia flee to safety by sea as a record heatwave sparks devastating fires.
 8. [Earth Photo 2021 winners announced](https://www.bbc.co.uk/news/in-pictures-58103283) - A project on family education wins the 2021 Earth Photo competition.
