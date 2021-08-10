@@ -1,5 +1,5 @@
 1. [A-levels in Wales: Grades set to be above pre-Covid levels](https://www.bbc.co.uk/news/uk-wales-58148512) - Teachers say they want this year's results to be celebrated after the "shambles" of last year's grading.
-2. [A-level results day in Wales: Your questions answered](https://www.bbc.co.uk/news/uk-wales-58149400) - There are likely to be few surprises in Wales as most students already know their grades.
+2. [A-level results day in Wales: Your questions answered](https://www.bbc.co.uk/news/uk-wales-58149400) - It is earlier than usual this year and most students already know their grades.
 3. [Rhyl cancer patient suffered from 'alarming failings' at Glan Clwyd Hospital](https://www.bbc.co.uk/news/uk-wales-58151073) - Ann Jones, 69, died after "alarming failings" at Wales' largest health board, says ombudsman.
 4. [Climate change: IPCC report heralds Wales' 'last-chance saloon'](https://www.bbc.co.uk/news/uk-wales-58146128) - Rising sea levels could force the "significant relocation of communities" in Wales, one expert warns.
 5. [Bute Park attack: Gary Jenkins dies 16 days after incident](https://www.bbc.co.uk/news/uk-wales-58146759) - Father-of-two Dr Gary Jenkins had been in hospital since the attack in a Cardiff Park on 20 July.
