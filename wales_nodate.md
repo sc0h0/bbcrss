@@ -1,5 +1,5 @@
 1. [A-levels 2021 in Wales: Grades above pre-Covid levels](https://www.bbc.co.uk/news/uk-wales-58148512) - A total of 48.3% of A-level grades are A and A* in Wales, which is hailed a "remarkable achievement".
-2. [A-levels 2021: How is results day in Wales different this year](https://www.bbc.co.uk/news/uk-wales-58149400) - In Wales it's earlier than usual and most students already knew their grades.
+2. [Lauren Price: 'Insane' welcome for Olympic gold medallist](https://www.bbc.co.uk/news/uk-wales-58161854) - Hundreds of people line the streets to welcome home boxing gold medallist Lauren Price.
 3. [Rhyl cancer patient suffered from 'alarming failings' at Glan Clwyd Hospital](https://www.bbc.co.uk/news/uk-wales-58151073) - Ann Jones, 69, died after "alarming failings" at Wales' largest health board, says ombudsman.
 4. [Mental health: Altered images on social media 'detrimental'](https://www.bbc.co.uk/news/uk-wales-58153556) - Postgrad student Lara Philippart says internet adverts gave her anxiety about her own body.
 5. [Thirteen Covid deaths during week in Wales](https://www.bbc.co.uk/news/uk-wales-58159703) - The latest ONS weekly figures show a slight fall in deaths involving Covid in Wales.

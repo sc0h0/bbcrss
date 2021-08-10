@@ -2,11 +2,11 @@
 2. [Streatham attack: CCTV of Sudesh Amman's final moments shown at inquest](https://www.bbc.co.uk/news/uk-england-london-58097959) - Jurors also watched the aftermath of the shooting as police removed Sudesh Amman's hoax suicide belt.
 3. [A-level results 2021: Top grades reach record high](https://www.bbc.co.uk/news/education-58086908) - The second year of results after cancelled exams sees the highest level of A* and A grades at A-level.
 4. [Victoria station: One dead and two injured in bus crash](https://www.bbc.co.uk/news/uk-england-london-58097961) - Two buses were involved in a crash during rush hour outside Victoria train station in London.
-5. [Tributes to boy hit by mirror in department store](https://www.bbc.co.uk/news/uk-england-essex-58158096) - Freddie Farrow died days after being struck by a mirror in a High Street department store.
-6. [Max Woosey: Camping challenge boy set for 500th night](https://www.bbc.co.uk/news/uk-england-devon-58147506) - Max Woosey will be spending the milestone night sleeping in a shelter in the woods.
+5. [Smitten prison officer helped inmate lover escape](https://www.bbc.co.uk/news/uk-england-derbyshire-58160687) - Erica Whittingham met prisoner Michael Seddon after her marriage broke down, a court hears.
+6. [Tributes to boy hit by mirror in department store](https://www.bbc.co.uk/news/uk-england-essex-58158096) - Freddie Farrow died days after being struck by a mirror in a High Street department store.
 7. [Lorry fire on M6 near Birmingham closes carriageway](https://www.bbc.co.uk/news/uk-england-birmingham-58155928) - The fire service says the lorry involved in the fire was carrying "hazardous" materials.
-8. ['Preserved human remains' found in jar by builders in Toxteth](https://www.bbc.co.uk/news/uk-england-merseyside-58150394) - The jar was found in an unoccupied house in a street near Toxteth Park Cemetery, police say.
-9. [Peterlee police failed in death of mentally ill man in cell](https://www.bbc.co.uk/news/uk-england-tyne-58159583) - Officers did not properly monitor Jake Anderson, who had mental health illnesses, a watchdog finds.
+8. [Max Woosey: Camping challenge boy set for 500th night](https://www.bbc.co.uk/news/uk-england-devon-58147506) - Max Woosey will be spending the milestone night sleeping in a shelter in the woods.
+9. ['Preserved human remains' found in jar by builders in Toxteth](https://www.bbc.co.uk/news/uk-england-merseyside-58150394) - The jar was found in an unoccupied house in a street near Toxteth Park Cemetery, police say.
 10. [Bronze handle suggests 'lions used' in Roman Britain executions](https://www.bbc.co.uk/news/uk-england-leicestershire-58144680) - The bronze key handle found in Leicester shows a "Barbarian" grappling with a lion.
 11. [A-Level results: Hackney twins secure Oxbridge places](https://www.bbc.co.uk/news/uk-england-london-58156170) - Emmanuel and Ebenezer Boakye say growing up in a single-parent family made them determined to thrive.
 12. [A-level results: Teenage refugee can finally pursue medicine dream](https://www.bbc.co.uk/news/uk-england-nottinghamshire-58152429) - Zainab Fadhal, who moved to the UK from Iraq, will join the University of Leeds in September.
@@ -19,7 +19,7 @@
 19. [‘Parkinson’s doesn't stop me playing tennis’](https://www.bbc.co.uk/news/uk-england-nottinghamshire-58091757) - Andy Wright, who was diagnosed at 33, says his return to the sport helps alleviate symptoms.
 20. ['Walking to space was the best day of my life'](https://www.bbc.co.uk/news/uk-england-nottinghamshire-58071075) - Tim, aged nine, walked 62 miles - the distance between Earth's atmosphere and the boundary of space.
 21. [Defibrillators: PM urged to back call for devices in all schools](https://www.bbc.co.uk/news/uk-england-merseyside-58150414) - Mark King, whose son died 10 years ago, says the devices should be as common fire extinguishers.
-22. [Man stabbed to death in street](https://www.bbc.co.uk/news/uk-england-london-58156168) - Officers found a 45-year-old man with stab injuries on Churchill Terrace in Chingford.
+22. [Peterlee police failed in death of mentally ill man in cell](https://www.bbc.co.uk/news/uk-england-tyne-58159583) - Officers did not properly monitor Jake Anderson, who had mental health illnesses, a watchdog finds.
 23. [London's Tower Bridge reopens after technical failure](https://www.bbc.co.uk/news/uk-england-london-58149716) - The iconic London crossing had been closed for almost 12 hours after a "technical failure".
 24. [Covid: Lincolnshire hospital visitor ban to counter infections](https://www.bbc.co.uk/news/uk-england-lincolnshire-58160837) - The trust which runs Lincolnshire's hospitals says the move aims to "limit the spread" of the virus.
 25. [Tokyo Olympics: Essex champions honoured in knitted postbox tribute](https://www.bbc.co.uk/news/uk-england-essex-58157297) - Essex gold medallists Max Whitlock, Bethany Shriever and Ben Maher feature in the yarn triptych.
