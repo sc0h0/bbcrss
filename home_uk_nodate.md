@@ -1,7 +1,7 @@
 1. [Covid-19: More than 75% of UK adults now double-jabbed](https://www.bbc.co.uk/news/uk-58162318) - But Oxford vaccine chief Prof Sir Andrew Pollard warns Covid herd immunity is "not a possibility".
 2. [Oxford-jab chief criticises UK's Covid booster plan](https://www.bbc.co.uk/news/health-58159573) - Health Secretary Sajid Javid says he plans to begin the third jab rollout in a matter of weeks.
 3. [A-level results 2021: Top grades reach record high](https://www.bbc.co.uk/news/education-58086908) - The second year of results after cancelled exams sees the highest level of A* and A grades at A-level.
-4. [New York Governor Andrew Cuomo resigns in wake of harassment report](https://www.bbc.co.uk/news/world-us-canada-58164719) - Democrat Andrew Cuomo has resigned after an inquiry found he sexually harassed multiple women.
+4. [New York Governor Andrew Cuomo resigns in wake of harassment report](https://www.bbc.co.uk/news/world-us-canada-58164719) - The Democrat says he will "step aside" after an inquiry found he sexually harassed multiple women.
 5. [Esther Dingley: Missing hiker's boyfriend finds her body](https://www.bbc.co.uk/news/uk-england-tyne-58159591) - The body and belongings of Esther Dingley are found close to where a bone fragment was discovered.
 6. [Covid-19: Three-quarters of UK adults fully jabbed and relief at record A-level results](https://www.bbc.co.uk/news/uk-58163303) - Five things you need to know about the coronavirus pandemic this Tuesday evening.
 7. [Woman found dead in Perton lay-by was set alight](https://www.bbc.co.uk/news/uk-england-stoke-staffordshire-58163416) - Police are still trying to identify the woman, who they say is aged between her mid-teens to late 20s.
