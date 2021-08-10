@@ -1,4 +1,4 @@
-1. [High grades expected as A-level results revealed](https://www.bbc.co.uk/news/education-58086908) - For a second year, students will be receiving results for exams cancelled in the pandemic.
+1. [A-level top grades reach record high](https://www.bbc.co.uk/news/education-58086908) - The second year of results after cancelled exams sees the highest level of A* and A grades at A-level.
 2. [London's Tower Bridge reopens after technical failure](https://www.bbc.co.uk/news/uk-england-london-58149716) - The iconic London crossing had been closed for almost 12 hours after a "technical failure".
 3. [Has Banksy been on an East Anglian seaside 'spraycation'?](https://www.bbc.co.uk/news/uk-england-norfolk-58145220) - Are new murals that have appeared on England's east coast really the work of the elusive artist?
 4. [Anger at overflowing Covid test drop boxes](https://www.bbc.co.uk/news/business-58149951) - Provider Randox says it is increasing collections but the tests for UK arrivals are branded "pointless".
