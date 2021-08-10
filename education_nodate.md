@@ -3,7 +3,7 @@
 3. [A-level results: Record rate of top grades for NI students](https://www.bbc.co.uk/news/uk-northern-ireland-58152067) - More than half of A-level entries in Northern Ireland have been awarded the top A* and A grades.
 4. [Nearly half achieve top A-level grades in Wales](https://www.bbc.co.uk/news/uk-wales-58148512) - A total of 48.3"% of A-level grades are A and A* in Wales, which is hailed a "remarkable achievement".
 5. [A-level results: Students have been treated fairly - watchdog](https://www.bbc.co.uk/news/education-58141518) - The head of the exams regulator defends the system for deciding grades ahead of A-level and GCSE results day.
-6. [A-levels 2021: What you need to know about this year's results](https://www.bbc.co.uk/news/education-58026976) - For the second year running, pupils in England, Wales and Northern Ireland have not taken the exams.
+6. [A-levels 2021: How do I appeal my results?](https://www.bbc.co.uk/news/education-58026976) - For the second year running, pupils in England, Wales and Northern Ireland have not taken the exams.
 7. [Exams 2021: 'Will they take our Covid grades seriously?'](https://www.bbc.co.uk/news/education-58085778) - It's been a stressful few months for the thousands of young people waiting for their exam results.
 8. [Will Scotland go back to traditional school exams?](https://www.bbc.co.uk/news/uk-scotland-58139111) - Will Scottish school pupils be studying for traditional exams in 2022, or have things changed for good?
 9. [Cash prize jackpot offered for double-jabbed students](https://www.bbc.co.uk/news/education-58115658) - A university hopes to boost Covid jab take-up among students by offering 10 £5,000 cash prizes.

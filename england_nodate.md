@@ -1,5 +1,5 @@
 1. [A-level results 2021: Top grades reach record high](https://www.bbc.co.uk/news/education-58086908) - The second year of results after cancelled exams sees the highest level of A* and A grades at A-level.
-2. [Former refugee can finally pursue medicine dream](https://www.bbc.co.uk/news/uk-england-nottinghamshire-58152429) - Zainab Fadhal, who moved to the UK from Iraq, will join the University of Leeds in September.
+2. [A-level results: Teenage refugee can finally pursue medicine dream](https://www.bbc.co.uk/news/uk-england-nottinghamshire-58152429) - Zainab Fadhal, who moved to the UK from Iraq, will join the University of Leeds in September.
 3. [Has Banksy been on an East Anglian seaside 'spraycation'?](https://www.bbc.co.uk/news/uk-england-norfolk-58145220) - Are new murals that have appeared on England's east coast really the work of the elusive artist?
 4. [London's Tower Bridge reopens after technical failure](https://www.bbc.co.uk/news/uk-england-london-58149716) - The iconic London crossing had been closed for almost 12 hours after a "technical failure".
 5. [Jahreau Shepherd death: Brother of MMA fighter detained](https://www.bbc.co.uk/news/uk-england-london-58145326) - Welterweight Jahreau Shepherd was stabbed to death by his brother as he celebrated his birthday.

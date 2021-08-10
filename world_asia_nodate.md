@@ -1,5 +1,5 @@
 1. [Afghanistan war: At least 27 children killed in three days, UN says](https://www.bbc.co.uk/news/world-asia-58142983) - Unicef says 27 deaths were recorded in three regions over 72 hours, amid rising violence.
-2. [China: Canadian citizen loses appeal against death penalty](https://www.bbc.co.uk/news/world-asia-china-58141758) - The verdict comes as an extradition battle in Canada for Huawei executive Meng Wanzhou is ongoing.
+2. [China: Canadian citizen loses appeal against death penalty](https://www.bbc.co.uk/news/world-asia-china-58141758) - The verdict comes as an extradition battle in Canada for Huawei executive Meng Wanzhou continues.
 3. [TikTok named as the most downloaded app of 2020](https://www.bbc.co.uk/news/business-58155103) - The Chinese app's popularity comes even after former President Donald Trump tried to ban it in the US.
 4. [Malaysian singer dies of Covid days after giving birth](https://www.bbc.co.uk/news/world-asia-58155203) - Siti Sarah Raisuddin never got to hold her newborn son, who was delivered via a three-hour surgery.
 5. [Why South Korean women are reclaiming their short hair](https://www.bbc.co.uk/news/world-asia-58082355) - Thousands proudly show off their short hair after an Olympic athlete is criticised for her haircut.
