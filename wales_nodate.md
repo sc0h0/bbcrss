@@ -23,6 +23,6 @@
 23. [Tokyo Olympics: Lauren Price targets more Olympic success after boxing gold](https://www.bbc.co.uk/sport/olympics/58140662) - Olympic boxing champion Lauren Price is likely to go for gold again in Paris rather than turn professional.
 24. [Bron i hanner graddau Safon Uwch yn A* neu A](https://www.bbc.co.uk/newyddion/58156590) - Roedd disgwyl i ganlyniadau ar draws Cymru fod yn uwch na'r rhai cyn y pandemig.
 25. [Dathlu llwyddiant myfyrwyr ar ôl 'llanast' llynedd](https://www.bbc.co.uk/newyddion/58128548) - Mae angen dathlu graddau Safon Uwch eleni ar ôl "arswyd yr algorithm" y llynedd, yn ôl arweinwyr addysg.
-26. ['Methiannau sylweddol' cyn marwolaeth claf canser o'r gogledd](https://www.bbc.co.uk/newyddion/58145695) - Roedd "llawer o fethiannau sylweddol" yn nhriniaeth claf gan Fwrdd Iechyd Betsi Cadwaladr, meddai ombwdsmon.
+26. [Arestio bachgen 14 oed wedi digwyddiad ym Mhorthcawl](https://www.bbc.co.uk/newyddion/58161227) - Bachgen arall 14 oed wedi cael anafiadau difrifol i'w wyneb ac yn cael triniaeth ysbyty.
 27. [Wyth o lyfrau i'w darllen dros yr haf](https://www.bbc.co.uk/newyddion/58074809) - Haf o ddarllen: Detholiad Mari Siôn o lyfrau i'w mwynhau dros y gwyliau.
 28. [Seiclwr o Abertawe yn 'un i'w gwylio' yn y dyfodol](https://www.bbc.co.uk/newyddion/58139612) - Dywed Eluned King ei bod wedi elwa o'r cyfnod clo a'i bod yn gobeithio seiclo yng Ngemau'r Gymanwlad yn 2022.
