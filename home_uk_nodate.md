@@ -1,6 +1,6 @@
 1. [High grades expected as A-level results revealed](https://www.bbc.co.uk/news/education-58086908) - For a second year, students will be receiving results for exams cancelled in the pandemic.
 2. [Virginia Giuffre: Prince Andrew accuser files civil case in US](https://www.bbc.co.uk/news/uk-58153711) - Virginia Giuffre alleges the Duke of York sexually assaulted her when she was 17 years old.
-3. [Covid: Exam results day and soaring second-hand car sales](https://www.bbc.co.uk/news/uk-58151596) - Five things you need to know about the coronavirus pandemic this Tuesday morning.
+3. [Covid: A-level results day and soaring second-hand car sales](https://www.bbc.co.uk/news/uk-58151596) - Five things you need to know about the coronavirus pandemic this Tuesday morning.
 4. [Greece fires: PM apologises as blazes rage on Evia island](https://www.bbc.co.uk/news/world-europe-58152324) - Kyriakos Mitsotakis says Greece is facing an unprecedented natural disaster, as public anger grows.
 5. [Second-hand car sales soar amid shortage of new models](https://www.bbc.co.uk/news/business-58150025) - Used car transactions have more than doubled in the last few months, according to the industry body.
 6. [London's Tower Bridge reopens after technical failure](https://www.bbc.co.uk/news/uk-england-london-58149716) - The iconic London crossing had been closed for almost 12 hours after a "technical failure".
