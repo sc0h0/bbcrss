@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 10 Aug 2021 14:55:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Aug 2021 16:53:12 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -31,10 +31,17 @@
         </item>
         <item>
             <title><![CDATA[Covid-19: 80% of younger patients not vaccinated, says chief scientist]]></title>
-            <description><![CDATA[People should seek correct information on vaccination, says the chief scientific adviser.]]></description>
+            <description><![CDATA[New figures show that 91 out of 114 Covid-19 hospital patients under 60 are "totally unvaccinated".]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58157207</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58157207</guid>
-            <pubDate>Tue, 10 Aug 2021 14:15:28 GMT</pubDate>
+            <pubDate>Tue, 10 Aug 2021 16:36:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo Olympics: Kellie Harrington given hero's welcome on Dublin return]]></title>
+            <description><![CDATA[Kellie Harrington's return home to Portland Row in Dublin "better than St Paddy's Day".]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58162347</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58162347</guid>
+            <pubDate>Tue, 10 Aug 2021 16:38:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Flowers In A Terracotta Vase masterpiece to visit Belfast]]></title>
@@ -48,7 +55,7 @@
             <description><![CDATA[The total number of deaths linked to Covid-19 in NI since the start of the pandemic is 2,230.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58162340</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58162340</guid>
-            <pubDate>Tue, 10 Aug 2021 13:22:12 GMT</pubDate>
+            <pubDate>Tue, 10 Aug 2021 16:50:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Uefa Super Cup 'a fantastic opportunity' for NI]]></title>
@@ -84,13 +91,6 @@
             <link>https://www.bbc.co.uk/news/business-58149951</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58149951</guid>
             <pubDate>Mon, 09 Aug 2021 20:17:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tyrone could withdraw from All-Ireland semi-final]]></title>
-            <description><![CDATA[Tyrone GAA chairman Michael Kerr says the Covid-hit county side may be forced to withdraw from the All-Ireland SFC semi-final against Kerry.]]></description>
-            <link>https://www.bbc.co.uk/sport/gaelic-games/58153689</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/gaelic-games/58153689</guid>
-            <pubDate>Mon, 09 Aug 2021 22:01:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Slieve Donard: Mourne Mountains fire recovery fund awarded £322k]]></title>
@@ -177,6 +177,13 @@
             <pubDate>Sun, 08 Aug 2021 05:54:15 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[A-level results: 'I couldn't believe my grades']]></title>
+            <description><![CDATA[Pupils have received grades for A-levels, AS-levels and some BTecs.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58160723</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58160723</guid>
+            <pubDate>Tue, 10 Aug 2021 15:31:01 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Friends of the Earth NI reacts to UN climate change report]]></title>
             <description><![CDATA[A major UN report on climate change is "very alarming", Friends of the Earth Northern Ireland says.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58147282</link>
@@ -196,13 +203,6 @@
             <link>https://www.bbc.co.uk/news/science-environment-56822950</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-56822950</guid>
             <pubDate>Wed, 21 Apr 2021 23:03:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Torrential rain causes flooding across NI]]></title>
-            <description><![CDATA[Northern Ireland Flooding: Residents clean up after torrential rain]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58139998</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58139998</guid>
-            <pubDate>Sun, 08 Aug 2021 19:50:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Glenshane Pass: Man dies after car and lorry crash]]></title>

@@ -1,6 +1,6 @@
-1. [Anger as Nigerian diplomat manhandled in Indonesia](https://www.bbc.co.uk/news/world-africa-58159675) - Nigeria demands answers after an official's mistreatment at the hands of immigration officers.
-2. [Marburg virus: Man who died in Guinea found to have disease](https://www.bbc.co.uk/news/world-africa-58156499) - A man who died is found to have had the highly infectious virus, the first human case in West Africa.
-3. [Images of Ethiopian family win global award](https://www.bbc.co.uk/news/in-pictures-58103283) - A project on family education wins the 2021 Earth Photo competition.
+1. [Ethiopia PM Abiy Ahmed calls on civilians to join Tigray war](https://www.bbc.co.uk/news/world-africa-58163641) - Abiy Ahmed has asked all "capable" Ethiopians to join the fight against resurgent Tigrayan rebels.
+2. [Anger as Nigerian diplomat manhandled in Indonesia](https://www.bbc.co.uk/news/world-africa-58159675) - Nigeria says there was "no justification" for an official's mistreatment by immigration officers.
+3. [Marburg virus: Man who died in Guinea found to have disease](https://www.bbc.co.uk/news/world-africa-58156499) - A man who died is found to have had the highly infectious virus, the first human case in West Africa.
 4. [Nigerian Igbo Jewish leader arrested with Israeli visitors freed](https://www.bbc.co.uk/news/world-africa-58097200) - Lizben Agha was held for weeks without charge after becoming caught up with the three men's arrest.
 5. [Tanzania President Samia: We're here to show that women can lead](https://www.bbc.co.uk/news/world-africa-58144849) - When Samia Suluhu Hassan first became Tanzania's president some doubted her, she tells the BBC.
 6. [Malta: The teenagers pulled from the sea and accused of terrorism](https://www.bbc.co.uk/news/world-57988934) - How three teenagers rescued from the Mediterranean Sea ended up in Malta accused of terrorism.
