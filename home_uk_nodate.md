@@ -1,12 +1,12 @@
-1. [More than 75% of UK adults now double-jabbed](https://www.bbc.co.uk/news/uk-58162318) - Boris Johnson describes the milestone as a "huge national achievement".
-2. [A-level results 2021: Top grades reach record high](https://www.bbc.co.uk/news/education-58086908) - The second year of results after cancelled exams sees the highest level of A* and A grades at A-level.
+1. [Covid-19: More than 75% of UK adults now double-jabbed](https://www.bbc.co.uk/news/uk-58162318) - Boris Johnson says the milestone is a "huge national achievement", as nearly 40m have both doses.
+2. [Oxford-jab chief criticises UK's Covid booster plan](https://www.bbc.co.uk/news/health-58159573) - But the health secretary says he plans to begin their rollout in a matter of weeks.
 3. [Esther Dingley: Missing hiker's boyfriend finds her body](https://www.bbc.co.uk/news/uk-england-tyne-58159591) - The body and belongings of Esther Dingley are found close to where a bone fragment was discovered.
 4. [David Cameron personally promoted Greensill to investors](https://www.bbc.co.uk/news/business-58160208) - BBC Panorama finds Mr Cameron appeared alongside the controversial company's founder at a 2019 event.
 5. [Max Woosey: Camping challenge boy set for 500th night](https://www.bbc.co.uk/news/uk-england-devon-58147506) - Max Woosey will be spending the milestone night sleeping in a shelter in the woods.
-6. [Paddy Power owner revenue soars amid online gambling boom](https://www.bbc.co.uk/news/business-58156250) - Gambling giant Flutter says revenue jumped to £3bn as number of gamblers leaps by 40%.
-7. [Princess Latifa: Campaign to free Dubai ruler's daughter disbanded](https://www.bbc.co.uk/news/world-middle-east-58156419) - The Dubai ruler's daughter was pictured in Iceland after accusing her father of keeping her captive.
-8. [Virginia Giuffre: Prince Andrew accuser files civil case in US](https://www.bbc.co.uk/news/uk-58153711) - Virginia Giuffre alleges the Duke of York sexually assaulted her when she was 17 years old.
-9. [Smitten prison officer helped inmate lover escape](https://www.bbc.co.uk/news/uk-england-derbyshire-58160687) - Erica Whittingham met prisoner Michael Seddon after her marriage broke down, a court hears.
+6. [Princess Latifa: Campaign to free Dubai ruler's daughter disbanded](https://www.bbc.co.uk/news/world-middle-east-58156419) - The Dubai ruler's daughter was pictured in Iceland after accusing her father of keeping her captive.
+7. [Virginia Giuffre: Prince Andrew accuser files civil case in US](https://www.bbc.co.uk/news/uk-58153711) - Virginia Giuffre alleges the Duke of York sexually assaulted her when she was 17 years old.
+8. [Smitten prison officer helped inmate lover escape](https://www.bbc.co.uk/news/uk-england-derbyshire-58160687) - Erica Whittingham met prisoner Michael Seddon after her marriage broke down, a court hears.
+9. [Paddy Power owner revenue soars amid online gambling boom](https://www.bbc.co.uk/news/business-58156250) - Gambling giant Flutter says revenue jumped to £3bn as number of gamblers leaps by 40%.
 10. [Fenwick Colchester: Freddie Farrow, 5, died after being struck by a mirror](https://www.bbc.co.uk/news/uk-england-essex-58158096) - Freddie Farrow died days after being struck by a mirror in a High Street department store.
 11. [Messi agrees Paris St-Germain deal](https://www.bbc.co.uk/sport/football/58159464) - Lionel Messi agrees a two-year deal to join Paris St-Germain after leaving Barcelona, says BBC Sport columnist Guillem Balague.
 12. [Scottish minister launches legal action against nursery](https://www.bbc.co.uk/news/uk-scotland-tayside-central-58147135) - Humza Yousaf says his daughter was twice refused a place at the nursery, which denies discrimination.

@@ -1,15 +1,15 @@
 1. [A-levels 2021 in Wales: Grades above pre-Covid levels](https://www.bbc.co.uk/news/uk-wales-58148512) - A total of 48.3% of A-level grades are A and A* in Wales, which is hailed a "remarkable achievement".
 2. [Lauren Price: 'Insane' welcome for Olympic gold medallist](https://www.bbc.co.uk/news/uk-wales-58161854) - Hundreds of people line the streets to welcome home boxing gold medallist Lauren Price.
 3. [Rhyl cancer patient suffered from 'alarming failings' at Glan Clwyd Hospital](https://www.bbc.co.uk/news/uk-wales-58151073) - Ann Jones, 69, died after "alarming failings" at Wales' largest health board, says ombudsman.
-4. [Mental health: Altered images on social media 'detrimental'](https://www.bbc.co.uk/news/uk-wales-58153556) - Postgrad student Lara Philippart says internet adverts gave her anxiety about her own body.
+4. [Doctor worked at Wrexham Maelor hospital while off sick at another](https://www.bbc.co.uk/news/uk-wales-58162239) - Joao Muel said he was unfit to work in Abergavenny while doing shifts in Wrexham, a tribunal hears.
 5. [Thirteen Covid deaths during week in Wales](https://www.bbc.co.uk/news/uk-wales-58159703) - The latest ONS weekly figures show a slight fall in deaths involving Covid in Wales.
-6. [Gang tried to kidnap Anglesey child over satanic abuse fear](https://www.bbc.co.uk/news/uk-wales-57941016) - Two gang members snatched the child at knifepoint as they returned home from school.
-7. [North Wales swimmers 'disadvantaged' without Olympic 50m pool](https://www.bbc.co.uk/news/uk-wales-58156228) - There are calls for an Olympic sized swimming pool to be built in the heart of north Wales.
-8. [Bute Park attack: Gary Jenkins dies 16 days after incident](https://www.bbc.co.uk/news/uk-wales-58146759) - Father-of-two Dr Gary Jenkins had been in hospital since the attack in a Cardiff Park on 20 July.
-9. [Climate change: IPCC report heralds Wales' 'last-chance saloon'](https://www.bbc.co.uk/news/uk-wales-58146128) - Rising sea levels could force the "significant relocation of communities" in Wales, one expert warns.
-10. [Cardiff man's plea after Covid claims three family members](https://www.bbc.co.uk/news/uk-wales-58153416) - Francis Goncalves lost his brother, father and mother to the virus within a week of each other.
-11. [Major fraud probe into entrepreneur Gavin Woodhouse](https://www.bbc.co.uk/news/uk-wales-58152397) - The Serious Fraud Office said it is investigating "suspected fraud and money laundering".
-12. [Towyn: Teen sister of murder accused 'died of asphyxia'](https://www.bbc.co.uk/news/uk-wales-58149304) - Amanda Selby, 15, whose brother has been charged with her murder, died of asphyxia, inquest hears.
+6. [Mental health: Altered images on social media 'detrimental'](https://www.bbc.co.uk/news/uk-wales-58153556) - Postgrad student Lara Philippart says internet adverts gave her anxiety about her own body.
+7. [Gang tried to kidnap Anglesey child over satanic abuse fear](https://www.bbc.co.uk/news/uk-wales-57941016) - Two gang members snatched the child at knifepoint as they returned home from school.
+8. [North Wales swimmers 'disadvantaged' without Olympic 50m pool](https://www.bbc.co.uk/news/uk-wales-58156228) - There are calls for an Olympic sized swimming pool to be built in the heart of north Wales.
+9. [Bute Park attack: Gary Jenkins dies 16 days after incident](https://www.bbc.co.uk/news/uk-wales-58146759) - Father-of-two Dr Gary Jenkins had been in hospital since the attack in a Cardiff Park on 20 July.
+10. [Climate change: IPCC report heralds Wales' 'last-chance saloon'](https://www.bbc.co.uk/news/uk-wales-58146128) - Rising sea levels could force the "significant relocation of communities" in Wales, one expert warns.
+11. [Cardiff man's plea after Covid claims three family members](https://www.bbc.co.uk/news/uk-wales-58153416) - Francis Goncalves lost his brother, father and mother to the virus within a week of each other.
+12. [Major fraud probe into entrepreneur Gavin Woodhouse](https://www.bbc.co.uk/news/uk-wales-58152397) - The Serious Fraud Office said it is investigating "suspected fraud and money laundering".
 13. [Rhyl cancer patient Ann Jones: 'There should have been more done'](https://www.bbc.co.uk/news/uk-wales-58158473) - A woman criticises the care her late mother received following the publication of a watchdog's report.
 14. [Wrexham man left fighting for life after refusing Covid jab](https://www.bbc.co.uk/news/uk-wales-58152826) - Gym-goer Artur Brylowski refused a vaccine and is now in intensive care with Covid.
 15. [Pollution: 'This is my coffin, this is why I swim with it'](https://www.bbc.co.uk/news/uk-wales-58023181) - Wild swimmer Angela Jones says she hopes her specially designed coffin will catch attention.

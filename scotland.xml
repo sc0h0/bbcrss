@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 10 Aug 2021 13:59:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Aug 2021 14:18:55 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -37,18 +37,25 @@
             <pubDate>Tue, 10 Aug 2021 11:11:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Scotland's beaver population doubles to 1000 in three years]]></title>
-            <description><![CDATA[Nearly 1,000 of the animals are living in 251 territories across the country, a survey has found]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-58158296</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58158296</guid>
-            <pubDate>Tue, 10 Aug 2021 12:00:03 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[TK Maxx store evacuated after rain causes ceiling collapse]]></title>
             <description><![CDATA[Shopper Joanna McDonough captured footage of the dramatic incident in the Sauchiehall Street branch in Glasgow.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58160607</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58160607</guid>
             <pubDate>Tue, 10 Aug 2021 12:17:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid in Scotland: Where are the latest cases?]]></title>
+            <description><![CDATA[A daily update on the number and location of coronavirus cases in Scotland.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-53511877</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-53511877</guid>
+            <pubDate>Tue, 10 Aug 2021 14:03:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['I'm going into S6 and have never done a proper exam']]></title>
+            <description><![CDATA[BBC Scotland speaks to pupils in Aberdeenshire who share their results and views on the grading process.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-58158616</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58158616</guid>
+            <pubDate>Tue, 10 Aug 2021 14:10:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Highers and Nat 5s: Four things to look out for on results day]]></title>
@@ -63,6 +70,13 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-scotland-business-58148080</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-scotland-business-58148080</guid>
             <pubDate>Tue, 10 Aug 2021 09:54:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Scotland's beaver population doubles to 1000 in three years]]></title>
+            <description><![CDATA[Nearly 1,000 of the animals are living in 251 territories across the country, a survey has found]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-58158296</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58158296</guid>
+            <pubDate>Tue, 10 Aug 2021 12:00:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Vegware: Scottish eco-packaging firm bought by US group]]></title>
@@ -86,32 +100,11 @@
             <pubDate>Tue, 10 Aug 2021 05:18:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Weather warning as thunderstorms cause severe flooding]]></title>
-            <description><![CDATA[Torrential downpours are causing disruption for rail users and difficult driving conditions across Scotland.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-58144882</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58144882</guid>
-            <pubDate>Mon, 09 Aug 2021 19:30:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Scotland's papers: Climate 'catastrophe' and pass rates 'to decline']]></title>
-            <description><![CDATA[The UN warning that time is running out to combat harmful climate change makes the front pages.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-58153958</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58153958</guid>
-            <pubDate>Tue, 10 Aug 2021 07:00:20 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Covid in Scotland: How have the rules changed?]]></title>
             <description><![CDATA[Scotland's levels system of restrictions have come to an end - but what does that mean people can do?]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-53166816</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-53166816</guid>
             <pubDate>Mon, 09 Aug 2021 11:01:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid in Scotland: Where are the latest cases?]]></title>
-            <description><![CDATA[A daily update on the number and location of coronavirus cases in Scotland.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-53511877</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-53511877</guid>
-            <pubDate>Mon, 09 Aug 2021 14:15:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Is the coronavirus pandemic over at last?]]></title>
