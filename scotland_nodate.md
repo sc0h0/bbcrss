@@ -1,7 +1,7 @@
 1. [Pass rate falls slightly as Scottish pupils receive results](https://www.bbc.co.uk/news/uk-scotland-58150287) - The school qualification pass rates drop slightly on last year - but are still well above pre-pandemic levels.
 2. [Eleven people rescued from waterfalls beauty spot near Crianlarich](https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58153312) - Mountain rescue teams were called to reports of a crowd struggling amid rising water levels at the Falls of Falloch.
 3. [Scotland's papers: Climate 'catastrophe' and pass rates 'to decline'](https://www.bbc.co.uk/news/uk-scotland-58153958) - The UN warning that time is running out to combat harmful climate change makes the front pages.
-4. [Highers and Nat 5s: Four things to look out for on results day](https://www.bbc.co.uk/news/uk-scotland-58151835) - Pupils across Scotland will receive confirmation of their Higher and National 5 grades.
+4. [Highers and Nat 5s: Four things to look out for on results day](https://www.bbc.co.uk/news/uk-scotland-58151835) - Pupils across Scotland receive confirmation of their Higher and National 5 grades.
 5. [What would an SNP-Green deal mean for Scotland?](https://www.bbc.co.uk/news/uk-scotland-scotland-politics-58143753) - What could a deal between the SNP and the Greens mean for Scottish government policies and priorities?
 6. [Weather warning as thunderstorms cause severe flooding](https://www.bbc.co.uk/news/uk-scotland-58144882) - Torrential downpours are causing disruption for rail users and difficult driving conditions across Scotland.
 7. [COP26: Covid travel rules relaxed for overseas delegates](https://www.bbc.co.uk/news/uk-scotland-58153616) - People attending the climate summit in Glasgow will be strongly encouraged to be fully vaccinated.
