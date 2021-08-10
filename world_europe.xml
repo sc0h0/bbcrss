@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 10 Aug 2021 09:39:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Aug 2021 09:48:00 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -72,6 +72,13 @@
             <pubDate>Mon, 09 Aug 2021 12:41:01 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Climate change: How to be more eco-friendly in everyday life]]></title>
+            <description><![CDATA[From food to fashion, green bloggers give their top tips to be more eco-friendly.]]></description>
+            <link>https://www.bbc.co.uk/news/newsbeat-47990742</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-47990742</guid>
+            <pubDate>Mon, 09 Aug 2021 09:29:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Malta: The teenagers pulled from the sea and accused of terrorism]]></title>
             <description><![CDATA[How three teenagers rescued from the Mediterranean Sea ended up in Malta accused of terrorism.]]></description>
             <link>https://www.bbc.co.uk/news/world-57988934</link>
@@ -91,13 +98,6 @@
             <link>https://www.bbc.co.uk/sport/football/58114038</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58114038</guid>
             <pubDate>Fri, 06 Aug 2021 17:45:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Olympics: Russians win most medals since 2004 despite competing as ROC because of ban]]></title>
-            <description><![CDATA[Russian athletes head home with more medals than they have for 17 years - and they were not even officially competing for their country.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/58135905</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58135905</guid>
-            <pubDate>Sun, 08 Aug 2021 12:06:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Greece fires: Hundreds rescued by coastguard]]></title>

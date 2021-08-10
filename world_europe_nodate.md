@@ -6,10 +6,10 @@
 6. [Climate change: IPCC report is 'code red for humanity'](https://www.bbc.co.uk/news/science-environment-58130705) - Heating from humans has caused irreparable damage to the Earth that may get worse in coming decades.
 7. [Thailand man charged over death of Swiss tourist near waterfall](https://www.bbc.co.uk/news/world-asia-58141926) - The 27-year-old man has been charged with murdering the 57-year-old woman.
 8. [Five things we learned from UN climate report](https://www.bbc.co.uk/news/science-environment-58138714) - What are the key takeaways from the IPCC new study on the science of climate change?
-9. [Malta: The teenagers pulled from the sea and accused of terrorism](https://www.bbc.co.uk/news/world-57988934) - How three teenagers rescued from the Mediterranean Sea ended up in Malta accused of terrorism.
-10. [Belarus crackdown fails to crush opposition spirit](https://www.bbc.co.uk/news/world-europe-58114107) - Beaten up, jailed, forced into exile - protesters are still battling against President Lukashenko.
-11. [Lionel Messi's top 10 iconic Barcelona moments](https://www.bbc.co.uk/sport/football/58114038) - As Lionel Messi leaves Barcelona, relive 10 of his most iconic moments for the Catalan club.
-12. [Tokyo Olympics: Russians win most medals since 2004 despite competing as ROC because of ban](https://www.bbc.co.uk/sport/olympics/58135905) - Russian athletes head home with more medals than they have for 17 years - and they were not even officially competing for their country.
+9. [Climate change: How to be more eco-friendly in everyday life](https://www.bbc.co.uk/news/newsbeat-47990742) - From food to fashion, green bloggers give their top tips to be more eco-friendly.
+10. [Malta: The teenagers pulled from the sea and accused of terrorism](https://www.bbc.co.uk/news/world-57988934) - How three teenagers rescued from the Mediterranean Sea ended up in Malta accused of terrorism.
+11. [Belarus crackdown fails to crush opposition spirit](https://www.bbc.co.uk/news/world-europe-58114107) - Beaten up, jailed, forced into exile - protesters are still battling against President Lukashenko.
+12. [Lionel Messi's top 10 iconic Barcelona moments](https://www.bbc.co.uk/sport/football/58114038) - As Lionel Messi leaves Barcelona, relive 10 of his most iconic moments for the Catalan club.
 13. [Greece fires: Hundreds rescued by coastguard](https://www.bbc.co.uk/news/world-europe-58128033) - The coastguard moved 650 people from Limni, in the north of the island of Evia.
 14. [Lukashenko: 'You can choke on your sanctions in the UK'](https://www.bbc.co.uk/news/world-europe-58150328) - The UK and US are tightening sanctions on Belarus, hitting economic sectors.
 15. ['They call me the Irish hulk of basketball'](https://www.bbc.co.uk/news/world-europe-58017676) - Aidan Igiehon is part of a group of elite Irish athletes playing college basketball in America.

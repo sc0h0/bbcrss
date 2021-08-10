@@ -7,7 +7,7 @@
 7. [Artificial Intelligence may diagnose dementia in a day](https://www.bbc.co.uk/news/health-57934589) - The system being tested should spot the disease long before symptoms or obvious brain signs develop.
 8. [Mexican drug cartel threatens to kill TV reporter](https://www.bbc.co.uk/news/world-latin-america-58153732) - Men claiming to represent Mexico's most powerful drug cartel accused the anchor of unfair coverage.
 9. [Marburg virus: Man who died in Guinea found to have disease](https://www.bbc.co.uk/news/world-africa-58156499) - A man who died is found to have had the highly infectious virus, the first human case in West Africa.
-10. [Malaysian singer dies of Covid days after giving birth](https://www.bbc.co.uk/news/world-asia-58155203) - Siti Sarah Raisuddin never got to hold her newborn son, who was delivered via a three-hour surgery.
+10. [China elephants: 150,000 evacuated from path of trekking herd](https://www.bbc.co.uk/news/world-asia-china-58156099) - The herd is finally headed for home after an extraordinary 17-month migration in Yunnan province.
 11. [TikTok named as the most downloaded app of 2020](https://www.bbc.co.uk/news/business-58155103) - The Chinese app's popularity comes even after former President Donald Trump tried to ban it in the US.
 12. [Friends narrowly escape flooding lift](https://www.bbc.co.uk/news/world-us-canada-58154056) - Three residents were caught in a storm surge in Omaha, Nebraska, and recorded their ordeal.
 13. [Biden's unlikely plan to use roads to fight racism](https://www.bbc.co.uk/news/world-us-canada-58106414) - An infrastructure package that seeks to address inequality gets a mixed reception on the ground.

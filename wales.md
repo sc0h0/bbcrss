@@ -1,5 +1,5 @@
 1. [A-levels 2021 in Wales: Grades above pre-Covid levels](https://www.bbc.co.uk/news/uk-wales-58148512) - Tue, 10 Aug 2021 09:25:08 GMT - A total of 48.3"% of A-level grades are A and A* in Wales, which is hailed a "remarkable achievement".
-2. [A-levels 2021: How is results day in Wales different this year](https://www.bbc.co.uk/news/uk-wales-58149400) - Tue, 10 Aug 2021 09:18:04 GMT - In Wales it's earlier than usual and most students already know their grades.
+2. [A-levels 2021: How is results day in Wales different this year](https://www.bbc.co.uk/news/uk-wales-58149400) - Tue, 10 Aug 2021 09:18:04 GMT - In Wales it's earlier than usual and most students already knew their grades.
 3. [Rhyl cancer patient suffered from 'alarming failings' at Glan Clwyd Hospital](https://www.bbc.co.uk/news/uk-wales-58151073) - Tue, 10 Aug 2021 05:04:19 GMT - Ann Jones, 69, died after "alarming failings" at Wales' largest health board, says ombudsman.
 4. [Mental health: Altered images on social media 'detrimental'](https://www.bbc.co.uk/news/uk-wales-58153556) - Tue, 10 Aug 2021 08:30:30 GMT - Postgrad student Lara Philippart says internet adverts gave her anxiety about her own body.
 5. [Bute Park attack: Gary Jenkins dies 16 days after incident](https://www.bbc.co.uk/news/uk-wales-58146759) - Mon, 09 Aug 2021 15:39:56 GMT - Father-of-two Dr Gary Jenkins had been in hospital since the attack in a Cardiff Park on 20 July.
@@ -24,5 +24,5 @@
 24. [Bron i hanner graddau Safon Uwch yn A* neu A](https://www.bbc.co.uk/newyddion/58156590) - Tue, 10 Aug 2021 09:13:09 GMT - Roedd disgwyl i ganlyniadau ar draws Cymru fod yn uwch na'r rhai cyn y pandemig.
 25. [Dathlu llwyddiant myfyrwyr ar ôl 'llanast' llynedd](https://www.bbc.co.uk/newyddion/58128548) - Tue, 10 Aug 2021 08:46:59 GMT - Mae angen dathlu graddau Safon Uwch eleni ar ôl "arswyd yr algorithm" y llynedd, yn ôl arweinwyr addysg.
 26. [Beth ydy'r drefn canlyniadau arholiad eleni?](https://www.bbc.co.uk/newyddion/58146734) - Tue, 10 Aug 2021 05:05:45 GMT - Wedi trafferthion mawr ar ddiwrnod cyhoeddi canlyniadau Safon Uwch y llynedd, bydd pethau'n wahanol eleni.
-27. [Lle fyddai Cymru yn nhabl medalau Tokyo 2020?](https://www.bbc.co.uk/newyddion/58144971) - Mon, 09 Aug 2021 12:05:30 GMT - Enillodd aelodau Cymreig Tîm GB wyth o fedalau yn y Gemau Olympaidd eleni.
+27. [Wyth o lyfrau i'w darllen dros yr haf](https://www.bbc.co.uk/newyddion/58074809) - Tue, 10 Aug 2021 09:47:33 GMT - Haf o ddarllen: Detholiad Mari Siôn o lyfrau i'w mwynhau dros y gwyliau
 28. [Seiclwr o Abertawe yn 'un i'w gwylio' yn y dyfodol](https://www.bbc.co.uk/newyddion/58139612) - Mon, 09 Aug 2021 06:52:43 GMT - Dywed Eluned King ei bod wedi elwa o'r cyfnod clo a'i bod yn gobeithio seiclo yng Ngemau'r Gymanwlad yn 2022.
