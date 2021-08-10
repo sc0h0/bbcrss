@@ -1,6 +1,6 @@
 1. [Afghanistan war: At least 27 children killed in three days, UN says](https://www.bbc.co.uk/news/world-asia-58142983) - Unicef says 27 deaths were recorded in three regions over 72 hours, amid rising violence.
-2. [Why China's climate policy matters to us all](https://www.bbc.co.uk/news/world-asia-china-57483492) - The global battle against climate change is likely to be won or lost in China.
-3. [Why South Korean women are reclaiming their short hair](https://www.bbc.co.uk/news/world-asia-58082355) - Thousands proudly show off their short hair after an Olympic athlete is criticised for her haircut.
+2. [Why South Korean women are reclaiming their short hair](https://www.bbc.co.uk/news/world-asia-58082355) - Thousands proudly show off their short hair after an Olympic athlete is criticised for her haircut.
+3. [Why China's climate policy matters to us all](https://www.bbc.co.uk/news/world-asia-china-57483492) - The global battle against climate change is likely to be won or lost in China.
 4. [Thailand man charged over death of Swiss tourist near waterfall](https://www.bbc.co.uk/news/world-asia-58141926) - The 27-year-old man has been charged with murdering the 57-year-old woman.
 5. [We For India: Stars unite to help Covid relief work in India](https://www.bbc.co.uk/news/entertainment-arts-58146704) - Ed Sheeran, Annie Lennox, Mick Jagger and Bollywood actors will join forces for livestreamed event.
 6. [Chelsea's Ivy Asia restaurant sorry for 'culturally insensitive' advert](https://www.bbc.co.uk/news/uk-england-london-58145325) - The video features women dressed as geishas being pulled in a rickshaw to the restaurant.
@@ -14,9 +14,10 @@
 14. [Tokyo attack: Knife-wielding man injures 10 on train](https://www.bbc.co.uk/news/world-asia-58125414) - The suspect allegedly told police he was angry when he saw women who "looked happy".
 15. [Larry Page: Google co-founder granted New Zealand residency](https://www.bbc.co.uk/news/world-asia-58128475) - The country's immigration services say he applied under a category for wealthy investors.
 16. [Afghanistan: Why is there a war?](https://www.bbc.co.uk/news/world-asia-49192495) - As foreign forces pull out after 20 years of war, what did it achieve and what happens next?
-17. [Olympic Games Tokyo 2020: Neeraj Chopra wins historic Olympic gold in athletics](https://www.bbc.co.uk/news/world-asia-india-57913544) - India has now won seven medals at Tokyo - one gold, two silver and four bronze, its biggest Olympic haul ever.
-18. [Tokyo 2020: Olympic athletes struggle with heat at Games](https://www.bbc.co.uk/news/world-asia-58110846) - This games are one of the warmest on record, with many athletes complaining about the high temperatures.
-19. [Covid in Sydney: Communities feel under siege as troops deployed](https://www.bbc.co.uk/news/world-australia-58066389) - Residents say they're being treated like second-class citizens to stem a Covid outbreak.
-20. [India teachers’ fight for period leave gathers steam](https://www.bbc.co.uk/news/world-asia-india-58110935) - Indian teachers' demand for period leave reignites debate over whether it's a positive step for women.
-21. [China: How Delta threatens a prized zero Covid strategy](https://www.bbc.co.uk/news/world-asia-china-58095909) - China's battling its widest outbreak since Wuhan - how long can it keep Covid out?
-22. [Article 370: Why more locals in Kashmir are becoming militants](https://www.bbc.co.uk/news/world-asia-india-58025062) - Two years after India revoked Kashmir's status, more locals are taking up arms in the disputed region.
+17. [Fashion photographer: 'The world doesn't see this part of Afghanistan'](https://www.bbc.co.uk/news/world-asia-58147426) - Fatimah Hossaini is a fashion photographer in Afghanistan and wants to use her work to help women be seen.
+18. [Olympic Games Tokyo 2020: Neeraj Chopra wins historic Olympic gold in athletics](https://www.bbc.co.uk/news/world-asia-india-57913544) - India has now won seven medals at Tokyo - one gold, two silver and four bronze, its biggest Olympic haul ever.
+19. [Tokyo 2020: Olympic athletes struggle with heat at Games](https://www.bbc.co.uk/news/world-asia-58110846) - This games are one of the warmest on record, with many athletes complaining about the high temperatures.
+20. [Covid in Sydney: Communities feel under siege as troops deployed](https://www.bbc.co.uk/news/world-australia-58066389) - Residents say they're being treated like second-class citizens to stem a Covid outbreak.
+21. [India teachers’ fight for period leave gathers steam](https://www.bbc.co.uk/news/world-asia-india-58110935) - Indian teachers' demand for period leave reignites debate over whether it's a positive step for women.
+22. [China: How Delta threatens a prized zero Covid strategy](https://www.bbc.co.uk/news/world-asia-china-58095909) - China's battling its widest outbreak since Wuhan - how long can it keep Covid out?
+23. [Article 370: Why more locals in Kashmir are becoming militants](https://www.bbc.co.uk/news/world-asia-india-58025062) - Two years after India revoked Kashmir's status, more locals are taking up arms in the disputed region.
