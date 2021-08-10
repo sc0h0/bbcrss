@@ -22,10 +22,10 @@
 22. [What is climate change? A really simple guide](https://www.bbc.co.uk/news/science-environment-24021772) - BBC News looks at what we know and don't know about the Earth's changing climate.
 23. [NI internment: What's its legacy 50 years on?](https://www.bbc.co.uk/news/uk-northern-ireland-58141089) - Rather than reduce disorder, violence increased after detention without trial began in 1971.
 24. [Irish language: 'We need to ensure the Gaeltacht survives'](https://www.bbc.co.uk/news/world-europe-58121407) - There are fears Covid-19 could seriously damage traditional summer Irish language courses.
-25. [A-level results: 'I couldn't believe my grades'](https://www.bbc.co.uk/news/uk-northern-ireland-58160723) - Pupils have received grades for A-levels, AS-levels and some BTecs.
-26. [Friends of the Earth NI reacts to UN climate change report](https://www.bbc.co.uk/news/uk-northern-ireland-58147282) - A major UN report on climate change is "very alarming", Friends of the Earth Northern Ireland says.
-27. [Troubles' legacy: Victim's family feel betrayed by government plans](https://www.bbc.co.uk/news/uk-northern-ireland-58147276) - The sister of the first UDR soldier murdered in The Troubles feels betrayed by legacy proposals.
-28. [Climate Basics: Your carbon footprint explained](https://www.bbc.co.uk/news/science-environment-56822950) - BBC Reality Check's Chris Morris explains how changing three aspects of how you live can make the biggest dent to your carbon footprint.
+25. [Covid-19: 'Had I had a vaccine, would it have helped? 100%'](https://www.bbc.co.uk/news/uk-northern-ireland-58166288) - Gerald Prentice, who spent four days on a ventilator, says he has "no doubt" a jab would have helped.
+26. [A-level results: 'I couldn't believe my grades'](https://www.bbc.co.uk/news/uk-northern-ireland-58160723) - Pupils have received grades for A-levels, AS-levels and some BTecs.
+27. [Friends of the Earth NI reacts to UN climate change report](https://www.bbc.co.uk/news/uk-northern-ireland-58147282) - A major UN report on climate change is "very alarming", Friends of the Earth Northern Ireland says.
+28. [Troubles' legacy: Victim's family feel betrayed by government plans](https://www.bbc.co.uk/news/uk-northern-ireland-58147276) - The sister of the first UDR soldier murdered in The Troubles feels betrayed by legacy proposals.
 29. [Glenshane Pass: Man dies after car and lorry crash](https://www.bbc.co.uk/news/uk-northern-ireland-58143530) - The 30-year-old car driver from County Londonderry died at the scene.
 30. [Euro Auctions sold to Ritchie Bros for £775m](https://www.bbc.co.uk/news/uk-northern-ireland-58152835) - The Dromore company, set up in 1998, has grown to have more than 200 staff across 14 countries.
 31. [North coast murals spring up 'to encourage footfall'](https://www.bbc.co.uk/news/uk-northern-ireland-58112419) - The mayor of Causeway Coast and Glens says the new installations are "a fantastic talking point".

@@ -1,7 +1,7 @@
 1. [David Cameron personally promoted Greensill to investors](https://www.bbc.co.uk/news/business-58160208) - BBC Panorama finds Mr Cameron appeared alongside the controversial company's founder at a 2019 event.
 2. [Odeon owner AMC to accept payment in Bitcoin](https://www.bbc.co.uk/news/business-58163914) - Cinemagoers will be able to by tickets and popcorn using the cryptocurrency, says the US chain.
 3. [JetBlue to launch NY-UK flights despite pandemic](https://www.bbc.co.uk/news/business-58156118) - The airline says there is "strong demand" for the route as the global travel industry recovers.
-4. [Tobacco giant Philip Morris in auction showdown to buy asthma firm](https://www.bbc.co.uk/news/business-58156122) - Philip Morris is locked in a £1bn battle with private equity firm Carlyle over drugmaker Vectura.
+4. [No auction showdown in battle to buy asthma firm](https://www.bbc.co.uk/news/business-58156122) - Philip Morris and private equity firm Carlyle have placed bids to buy drugmaker Vectura.
 5. [Paddy Power owner betting shop revenue rebounds](https://www.bbc.co.uk/news/business-58156250) - Gambling giant Flutter says shop revenue jumps as number of gamblers leaps by 40%.
 6. [TikTok named as the most downloaded app of 2020](https://www.bbc.co.uk/news/business-58155103) - The Chinese app's popularity comes even after former President Donald Trump tried to ban it in the US.
 7. [Second-hand car sales soar amid shortage of new models](https://www.bbc.co.uk/news/business-58150025) - Used car transactions have more than doubled in the last few months, according to the industry body.

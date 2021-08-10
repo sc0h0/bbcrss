@@ -20,7 +20,7 @@
 20. [Portsmouth sign Wales's Joe Morrell from Luton and add Louis Thompson](https://www.bbc.co.uk/sport/football/58156841) - League One club Portsmouth sign Wales midfielder Joe Morrell from Luton Town and bring in Louis Thompson on a free transfer.
 21. [Rabbi Matondo: Cercle Brugge sign Wales winger on loan from FC Schalke 04](https://www.bbc.co.uk/sport/football/58155396) - Belgian Pro League side Cercle Brugge have agreed a deal to sign Wales winger Rabbi Matondo from Germany's FC Schalke 04 on a season long loan.
 22. [Marley Watkins: Cardiff City sign Wales winger on short-term deal](https://www.bbc.co.uk/sport/football/58165915) - Cardiff City sign Wales winger Marley Watkins on a short-term deal until the end of August.
-23. [Sol Bamba: Middlesbrough sign veteran defender after cancer all-clear](https://www.bbc.co.uk/sport/football/58161636) - Veteran centre-back Sol Bamba joins Middlesbrough on a one-year deal, marking his return after treatment for cancer.
+23. [Padraig Amond: Exeter City sign forward on loan from Newport](https://www.bbc.co.uk/sport/football/58165515) - Exeter City sign striker Padraig Amond on a season-long loan from Newport.
 24. [Bron i hanner graddau Safon Uwch yn A* neu A](https://www.bbc.co.uk/newyddion/58156590) - Roedd disgwyl i ganlyniadau ar draws Cymru fod yn uwch na'r rhai cyn y pandemig.
 25. [Cludo dau i'r ysbyty ar ôl i fws daro coeden ger Abertawe](https://www.bbc.co.uk/newyddion/58161667) - Bws dau lawr yn taro coeden ger Abertawe brynhawn Mawrth gan anafu nifer oedd arno.
 26. [Croeso adref i'r pencampwr Olympaidd Lauren Price](https://www.bbc.co.uk/newyddion/58161844) - Cannoedd o bobl wedi casglu ar strydoedd Ystrad Mynach i groesawu'r pencampwr Olympaidd yn ôl o Tokyo.
