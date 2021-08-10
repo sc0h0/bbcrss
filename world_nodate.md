@@ -1,9 +1,9 @@
 1. [Princess Latifa: Campaign to free Dubai ruler's daughter disbanded](https://www.bbc.co.uk/news/world-middle-east-58156419) - The Dubai ruler's daughter was pictured in Iceland after accusing her father of keeping her captive.
 2. [China: Canadian citizen loses appeal against death penalty](https://www.bbc.co.uk/news/world-asia-china-58141758) - The verdict comes as an extradition battle in Canada for Huawei executive Meng Wanzhou continues.
-3. [Greece fires: PM apologises as blazes rage on Evia island](https://www.bbc.co.uk/news/world-europe-58152324) - Kyriakos Mitsotakis says Greece is facing an unprecedented natural disaster, as public anger grows.
-4. [Climate change: At-risk nations fear extinction after IPCC report](https://www.bbc.co.uk/news/world-58064485) - The most vulnerable developing countries plead for action after a stark warning from a UN panel.
-5. [Greece fires: Foreign teams join battle on Evia island](https://www.bbc.co.uk/news/world-europe-58160938) - Several European countries are helping Greece to tackle the blazes ravaging parched forests.
-6. [Virginia Giuffre: Prince Andrew accuser files civil case in US](https://www.bbc.co.uk/news/uk-58153711) - Virginia Giuffre alleges the Duke of York sexually assaulted her when she was 17 years old.
+3. [Greece fires: Foreign teams join battle on Evia island](https://www.bbc.co.uk/news/world-europe-58160938) - Several European countries are helping Greece to tackle the blazes ravaging parched forests.
+4. [Lithuania blames Belarus for migrant crisis](https://www.bbc.co.uk/news/world-europe-58121577) - Over 4,000 people are reported to have crossed in Lithuania in recent months.
+5. [Virginia Giuffre: Prince Andrew accuser files civil case in US](https://www.bbc.co.uk/news/uk-58153711) - Virginia Giuffre alleges the Duke of York sexually assaulted her when she was 17 years old.
+6. [Climate change: At-risk nations fear extinction after IPCC report](https://www.bbc.co.uk/news/world-58064485) - The most vulnerable developing countries plead for action after a stark warning from a UN panel.
 7. [Anger as Nigerian diplomat manhandled in Indonesia](https://www.bbc.co.uk/news/world-africa-58159675) - Nigeria demands answers after an official's mistreatment at the hands of immigration officers.
 8. [North Korea leaves hotline with South unanswered during military drills](https://www.bbc.co.uk/news/world-asia-58162289) - Tensions have risen in the Korean peninsula as South Korea and the US hold joint military drills.
 9. [Mexican drug cartel threatens to kill TV reporter](https://www.bbc.co.uk/news/world-latin-america-58153732) - In a video featuring heavily armed men the prominent female journalist is accused of unfair coverage.

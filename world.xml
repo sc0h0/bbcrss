@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 10 Aug 2021 14:39:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Aug 2021 14:54:16 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -30,20 +30,6 @@
             <pubDate>Tue, 10 Aug 2021 10:00:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Greece fires: PM apologises as blazes rage on Evia island]]></title>
-            <description><![CDATA[Kyriakos Mitsotakis says Greece is facing an unprecedented natural disaster, as public anger grows.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58152324</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58152324</guid>
-            <pubDate>Mon, 09 Aug 2021 23:50:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Climate change: At-risk nations fear extinction after IPCC report]]></title>
-            <description><![CDATA[The most vulnerable developing countries plead for action after a stark warning from a UN panel.]]></description>
-            <link>https://www.bbc.co.uk/news/world-58064485</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-58064485</guid>
-            <pubDate>Mon, 09 Aug 2021 17:11:45 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Greece fires: Foreign teams join battle on Evia island]]></title>
             <description><![CDATA[Several European countries are helping Greece to tackle the blazes ravaging parched forests.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-58160938</link>
@@ -51,11 +37,25 @@
             <pubDate>Tue, 10 Aug 2021 13:13:28 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Lithuania blames Belarus for migrant crisis]]></title>
+            <description><![CDATA[Over 4,000 people are reported to have crossed in Lithuania in recent months.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58121577</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58121577</guid>
+            <pubDate>Tue, 10 Aug 2021 13:36:34 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Virginia Giuffre: Prince Andrew accuser files civil case in US]]></title>
             <description><![CDATA[Virginia Giuffre alleges the Duke of York sexually assaulted her when she was 17 years old.]]></description>
             <link>https://www.bbc.co.uk/news/uk-58153711</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58153711</guid>
             <pubDate>Tue, 10 Aug 2021 10:34:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Climate change: At-risk nations fear extinction after IPCC report]]></title>
+            <description><![CDATA[The most vulnerable developing countries plead for action after a stark warning from a UN panel.]]></description>
+            <link>https://www.bbc.co.uk/news/world-58064485</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-58064485</guid>
+            <pubDate>Mon, 09 Aug 2021 17:11:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Anger as Nigerian diplomat manhandled in Indonesia]]></title>
@@ -97,7 +97,7 @@
             <description><![CDATA[Lionel Messi agrees a two-year deal to join Paris St-Germain after leaving Barcelona, says BBC Sport columnist Guillem Balague.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58159464</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58159464</guid>
-            <pubDate>Tue, 10 Aug 2021 12:30:21 GMT</pubDate>
+            <pubDate>Tue, 10 Aug 2021 14:47:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Biden's unlikely plan to use roads to fight racism]]></title>
