@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 10 Aug 2021 16:48:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Aug 2021 17:20:47 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -219,6 +219,13 @@
             <pubDate>Mon, 09 Aug 2021 13:38:44 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Celtic: Gordon Strachan set for Celtic advisory role while continuing at Dundee]]></title>
+            <description><![CDATA[Gordon Strachan is set to re-join Celtic in an advisory role for a short period of time - but he will not be taking up a director of football role.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58165761</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58165761</guid>
+            <pubDate>Tue, 10 Aug 2021 17:12:44 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Lawrence Shankland: Dundee United striker in transfer talks with Beerschot]]></title>
             <description><![CDATA[Dundee United grant Lawrence Shankland permission to go to Belgium to discuss a proposed move to Beerschot.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58156602</link>
@@ -238,13 +245,6 @@
             <link>https://www.bbc.co.uk/sport/football/58130830</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58130830</guid>
             <pubDate>Tue, 10 Aug 2021 15:21:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[SPFL ask SFA to facilitate arbitration in row with Rangers]]></title>
-            <description><![CDATA[The SPFL ask the SFA to facilitate arbitration in their sponsorship row with Rangers, warning clubs of "substantial commercial risk".]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58150927</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58150927</guid>
-            <pubDate>Mon, 09 Aug 2021 19:16:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
