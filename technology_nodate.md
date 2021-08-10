@@ -1,13 +1,13 @@
 1. [TikTok named as the most downloaded app of 2020](https://www.bbc.co.uk/news/business-58155103) - The Chinese app's popularity comes even after former President Donald Trump tried to ban it in the US.
-2. [Apple defends new photo scanning child protection tech](https://www.bbc.co.uk/news/technology-58145943) - The tech giant has insisted that its new technology will not be used to spy on its users.
-3. [Vodafone to bring back roaming charges from January](https://www.bbc.co.uk/news/technology-58146039) - It follows EE's decision to reintroduce daily charges for using phone tariffs while in Europe
-4. [China sues Tencent over WeChat Youth Mode](https://www.bbc.co.uk/news/technology-58145808) - Authorities allege the messaging app is violating Chinese law that aims to protect minors.
-5. [Ariana Grande sings in Fortnite's metaverse](https://www.bbc.co.uk/news/technology-58146042) - The pop star is the latest musician to perform a series of concerts inside the hit video game.
-6. [Alibaba to sack manager accused of rape, according to memo seen by BBC](https://www.bbc.co.uk/news/business-58141606) - The move comes after a woman's allegations of sexual assault went viral on Chinese social media.
-7. [Groupon told to improve how it treats customers](https://www.bbc.co.uk/news/business-58145635) - The competition watchdog warns the discounter it faces legal action unless it takes 'swift' action.
+2. [Social media abuse: Twitter says UK 'by far' main origin of comments after Euro 2020 final](https://www.bbc.co.uk/sport/football/58159878) - The UK was "by far" the main origin of the "abhorrent racist abuse" on Twitter after England lost the Euro 2020 final, the social media platform says.
+3. [Apple defends new photo scanning child protection tech](https://www.bbc.co.uk/news/technology-58145943) - The tech giant has insisted that its new technology will not be used to spy on its users.
+4. [Vodafone to bring back roaming charges from January](https://www.bbc.co.uk/news/technology-58146039) - It follows EE's decision to reintroduce daily charges for using phone tariffs while in Europe
+5. [China sues Tencent over WeChat Youth Mode](https://www.bbc.co.uk/news/technology-58145808) - Authorities allege the messaging app is violating Chinese law that aims to protect minors.
+6. [Ariana Grande sings in Fortnite's metaverse](https://www.bbc.co.uk/news/technology-58146042) - The pop star is the latest musician to perform a series of concerts inside the hit video game.
+7. [Alibaba to sack manager accused of rape, according to memo seen by BBC](https://www.bbc.co.uk/news/business-58141606) - The move comes after a woman's allegations of sexual assault went viral on Chinese social media.
 8. [Apple criticised for system that detects child abuse](https://www.bbc.co.uk/news/technology-58124495) - There are privacy concerns that the system will be expanded to scan phones for political speech.
-9. [China cracks down on celebrity online culture](https://www.bbc.co.uk/news/technology-58117027) - Weibo is to remove a list ranking celebrities by popularity on social media amid state criticism.
-10. [Huawei revenue sees biggest ever fall](https://www.bbc.co.uk/news/technology-58104614) - Revenue from its consumer business, which includes phones, fell by nearly half.
+9. [Groupon told to improve how it treats customers](https://www.bbc.co.uk/news/business-58145635) - The competition watchdog warns the discounter it faces legal action unless it takes 'swift' action.
+10. [China cracks down on celebrity online culture](https://www.bbc.co.uk/news/technology-58117027) - Weibo is to remove a list ranking celebrities by popularity on social media amid state criticism.
 11. [Larry Page: Google co-founder granted New Zealand residency](https://www.bbc.co.uk/news/world-asia-58128475) - The country's immigration services say he applied under a category for wealthy investors.
 12. [US consumer watchdog criticises Facebook's NYU ban claim](https://www.bbc.co.uk/news/technology-58104609) - In a letter to Mark Zuckerberg, the FTC criticises the social network for inaccurate statements.
 13. [Classic Bentleys and Rolls-Royce adapted to fully electric](https://www.bbc.co.uk/news/technology-57901893) - The vintage petrol-powered cars are re-engineered by a company based at the home of UK motorsport.

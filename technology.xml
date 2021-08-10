@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 10 Aug 2021 11:54:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Aug 2021 12:23:02 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -21,6 +21,13 @@
             <link>https://www.bbc.co.uk/news/business-58155103</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58155103</guid>
             <pubDate>Tue, 10 Aug 2021 08:48:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Social media abuse: Twitter says UK 'by far' main origin of comments after Euro 2020 final]]></title>
+            <description><![CDATA[The UK was "by far" the main origin of the "abhorrent racist abuse" on Twitter after England lost the Euro 2020 final, the social media platform says.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58159878</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58159878</guid>
+            <pubDate>Tue, 10 Aug 2021 12:08:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Apple defends new photo scanning child protection tech]]></title>
@@ -58,13 +65,6 @@
             <pubDate>Mon, 09 Aug 2021 04:11:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Groupon told to improve how it treats customers]]></title>
-            <description><![CDATA[The competition watchdog warns the discounter it faces legal action unless it takes 'swift' action.]]></description>
-            <link>https://www.bbc.co.uk/news/business-58145635</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58145635</guid>
-            <pubDate>Mon, 09 Aug 2021 11:55:18 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Apple criticised for system that detects child abuse]]></title>
             <description><![CDATA[There are privacy concerns that the system will be expanded to scan phones for political speech.]]></description>
             <link>https://www.bbc.co.uk/news/technology-58124495</link>
@@ -72,18 +72,18 @@
             <pubDate>Sat, 07 Aug 2021 01:09:09 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Groupon told to improve how it treats customers]]></title>
+            <description><![CDATA[The competition watchdog warns the discounter it faces legal action unless it takes 'swift' action.]]></description>
+            <link>https://www.bbc.co.uk/news/business-58145635</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58145635</guid>
+            <pubDate>Mon, 09 Aug 2021 11:55:18 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[China cracks down on celebrity online culture]]></title>
             <description><![CDATA[Weibo is to remove a list ranking celebrities by popularity on social media amid state criticism.]]></description>
             <link>https://www.bbc.co.uk/news/technology-58117027</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-58117027</guid>
             <pubDate>Fri, 06 Aug 2021 16:13:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Huawei revenue sees biggest ever fall]]></title>
-            <description><![CDATA[Revenue from its consumer business, which includes phones, fell by nearly half.]]></description>
-            <link>https://www.bbc.co.uk/news/technology-58104614</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-58104614</guid>
-            <pubDate>Fri, 06 Aug 2021 14:31:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Larry Page: Google co-founder granted New Zealand residency]]></title>

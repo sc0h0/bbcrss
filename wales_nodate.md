@@ -10,12 +10,12 @@
 10. [Cardiff man's plea after Covid claims three family members](https://www.bbc.co.uk/news/uk-wales-58153416) - Francis Goncalves lost his brother, father and mother to the virus within a week of each other.
 11. [Major fraud probe into entrepreneur Gavin Woodhouse](https://www.bbc.co.uk/news/uk-wales-58152397) - The Serious Fraud Office said it is investigating "suspected fraud and money laundering".
 12. [Towyn: Teen sister of murder accused 'died of asphyxia'](https://www.bbc.co.uk/news/uk-wales-58149304) - Amanda Selby, 15, whose brother has been charged with her murder, died of asphyxia, inquest hears.
-13. [Wrexham man left fighting for life after refusing Covid jab](https://www.bbc.co.uk/news/uk-wales-58152826) - Gym-goer Artur Brylowski refused a vaccine and is now in intensive care with Covid.
-14. [Pollution: 'This is my coffin, this is why I swim with it'](https://www.bbc.co.uk/news/uk-wales-58023181) - Wild swimmer Angela Jones says she hopes her specially designed coffin will catch attention.
-15. [Covid: Excitement as nightclubs reopen in Wales](https://www.bbc.co.uk/news/uk-wales-58123120) - Most of Wales' remaining Covid rules are lifted as nightclubs reopen in alert level zero.
-16. [Covid: How will we adjust to life without so many rules?](https://www.bbc.co.uk/news/uk-wales-58121667) - With Wales moving into alert level zero, an expert says behaviours learnt in the pandemic might last.
-17. [Covid: Hospitality rules change after '18 months of hell'](https://www.bbc.co.uk/news/uk-wales-58122602) - Two-metre distancing and masks will not be legally required in pubs and restaurants from Saturday.
-18. [Covid: Live music in Wales resumes with Feeder gig](https://www.bbc.co.uk/news/uk-wales-58122607) - Despite outdoor restrictions being relaxed weeks ago, the venue is still taking precautions.
+13. [Rhyl cancer patient Ann Jones: 'There should have been more done'](https://www.bbc.co.uk/news/uk-wales-58158473) - A woman criticises the care her late mother received following the publication of a watchdog's report.
+14. [Wrexham man left fighting for life after refusing Covid jab](https://www.bbc.co.uk/news/uk-wales-58152826) - Gym-goer Artur Brylowski refused a vaccine and is now in intensive care with Covid.
+15. [Pollution: 'This is my coffin, this is why I swim with it'](https://www.bbc.co.uk/news/uk-wales-58023181) - Wild swimmer Angela Jones says she hopes her specially designed coffin will catch attention.
+16. [Covid: Excitement as nightclubs reopen in Wales](https://www.bbc.co.uk/news/uk-wales-58123120) - Most of Wales' remaining Covid rules are lifted as nightclubs reopen in alert level zero.
+17. [Covid: How will we adjust to life without so many rules?](https://www.bbc.co.uk/news/uk-wales-58121667) - With Wales moving into alert level zero, an expert says behaviours learnt in the pandemic might last.
+18. [Covid: Hospitality rules change after '18 months of hell'](https://www.bbc.co.uk/news/uk-wales-58122602) - Two-metre distancing and masks will not be legally required in pubs and restaurants from Saturday.
 19. [Flynn Downes: Swansea City sign Ipswich Town midfielder](https://www.bbc.co.uk/sport/football/58123529) - Swansea City have signed Ipswich midfielder Flynn Downes in a permanent deal worth more than £1m.
 20. [Portsmouth sign Wales's Joe Morrell from Luton and add Louis Thompson](https://www.bbc.co.uk/sport/football/58156841) - League One club Portsmouth sign Wales midfielder Joe Morrell from Luton Town and bring in Louis Thompson on a free transfer.
 21. [Rabbi Matondo: Cercle Brugge sign Wales winger on loan from FC Schalke 04](https://www.bbc.co.uk/sport/football/58155396) - Belgian Pro League side Cercle Brugge have agreed a deal to sign Wales winger Rabbi Matondo from Germany's FC Schalke 04 on a season long loan.
@@ -23,6 +23,6 @@
 23. [Tokyo Olympics: Lauren Price targets more Olympic success after boxing gold](https://www.bbc.co.uk/sport/olympics/58140662) - Olympic boxing champion Lauren Price is likely to go for gold again in Paris rather than turn professional.
 24. [Bron i hanner graddau Safon Uwch yn A* neu A](https://www.bbc.co.uk/newyddion/58156590) - Roedd disgwyl i ganlyniadau ar draws Cymru fod yn uwch na'r rhai cyn y pandemig.
 25. [Dathlu llwyddiant myfyrwyr ar ôl 'llanast' llynedd](https://www.bbc.co.uk/newyddion/58128548) - Mae angen dathlu graddau Safon Uwch eleni ar ôl "arswyd yr algorithm" y llynedd, yn ôl arweinwyr addysg.
-26. [Beth ydy'r drefn canlyniadau arholiad eleni?](https://www.bbc.co.uk/newyddion/58146734) - Wedi trafferthion mawr ar ddiwrnod cyhoeddi canlyniadau Safon Uwch y llynedd, bydd pethau'n wahanol eleni.
+26. ['Methiannau sylweddol' cyn marwolaeth claf canser o'r gogledd](https://www.bbc.co.uk/newyddion/58145695) - Roedd "llawer o fethiannau sylweddol" yn nhriniaeth claf gan Fwrdd Iechyd Betsi Cadwaladr, meddai ombwdsmon.
 27. [Wyth o lyfrau i'w darllen dros yr haf](https://www.bbc.co.uk/newyddion/58074809) - Haf o ddarllen: Detholiad Mari Siôn o lyfrau i'w mwynhau dros y gwyliau.
 28. [Seiclwr o Abertawe yn 'un i'w gwylio' yn y dyfodol](https://www.bbc.co.uk/newyddion/58139612) - Dywed Eluned King ei bod wedi elwa o'r cyfnod clo a'i bod yn gobeithio seiclo yng Ngemau'r Gymanwlad yn 2022.
