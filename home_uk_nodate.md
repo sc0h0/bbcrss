@@ -10,7 +10,7 @@
 10. [Mexican drug cartel threatens to kill TV reporter](https://www.bbc.co.uk/news/world-latin-america-58153732) - Men claiming to represent Mexico's most powerful drug cartel accused the anchor of unfair coverage.
 11. [Anger at overflowing Covid test drop boxes](https://www.bbc.co.uk/news/business-58149951) - Provider Randox says it is increasing collections but the tests for UK arrivals are branded "pointless".
 12. [Climate change: IPCC report is 'code red for humanity'](https://www.bbc.co.uk/news/science-environment-58130705) - Heating from humans has caused irreparable damage to the Earth that may get worse in coming decades.
-13. [Dungannon: Pair charged over death of two-year-old girl](https://www.bbc.co.uk/news/uk-northern-ireland-58154764) - Ali Maguire died in hospital on Friday after an ambulance was called to a house in Dungannon.
+13. [Dungannon: Pair charged over death of Ali Maguire](https://www.bbc.co.uk/news/uk-northern-ireland-58154764) - Ali Maguire died in hospital on Friday after an ambulance was called to a house in Dungannon.
 14. [The Papers: 'Climate code red' and 'top A-level grades soar'](https://www.bbc.co.uk/news/blogs-the-papers-58153696) - Tuesday's papers report the UN warning that time is running out to combat harmful climate change.
 15. [Has Banksy been on an East Anglian seaside 'spraycation'?](https://www.bbc.co.uk/news/uk-england-norfolk-58145220) - Are new murals that have appeared on England's east coast really the work of the elusive artist?
 16. [Fashion photographer: 'The world doesn't see this part of Afghanistan'](https://www.bbc.co.uk/news/world-asia-58147426) - Fatimah Hossaini is a fashion photographer in Afghanistan and wants to use her work to help women be seen.

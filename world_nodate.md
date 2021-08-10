@@ -8,7 +8,7 @@
 8. [Afghanistan war: At least 27 children killed in three days, UN says](https://www.bbc.co.uk/news/world-asia-58142983) - Unicef says 27 deaths were recorded in three regions over 72 hours, amid rising violence.
 9. [Apple defends new photo scanning child protection tech](https://www.bbc.co.uk/news/technology-58145943) - The tech giant has insisted that its new technology will not be used to spy on its users.
 10. [Suspect in Nantes cathedral fire held over French priest's killing](https://www.bbc.co.uk/news/world-europe-58145468) - French police also suspect the Rwandan man of starting a fire that ravaged Nantes cathedral in 2020.
-11. [Friends narrowly escape flooding elevator](https://www.bbc.co.uk/news/world-us-canada-58154056) - Three residents were caught in a storm surge in Omaha, Nebraska, and recorded their ordeal.
+11. [Friends narrowly escape flooding lift](https://www.bbc.co.uk/news/world-us-canada-58154056) - Three residents were caught in a storm surge in Omaha, Nebraska, and recorded their ordeal.
 12. [We For India: Stars unite to help Covid relief work in India](https://www.bbc.co.uk/news/entertainment-arts-58146704) - Ed Sheeran, Annie Lennox, Mick Jagger and Bollywood actors will join forces for livestreamed event.
 13. [Biden's unlikely plan to use roads to fight racism](https://www.bbc.co.uk/news/world-us-canada-58106414) - An infrastructure package that seeks to address inequality gets a mixed reception on the ground.
 14. [Olympic medals: An alternative table - with US 15th](https://www.bbc.co.uk/news/world-us-canada-58143550) - How would the medals table look if population and wealth were taken into account?

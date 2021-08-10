@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 10 Aug 2021 05:23:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Aug 2021 05:35:05 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -51,18 +51,18 @@
             <pubDate>Tue, 10 Aug 2021 04:13:01 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Jantar Mantar: India police detain five over anti-Muslim rally]]></title>
+            <description><![CDATA[Police say anti-Islamic slogans were raised at an event in Delhi on Sunday.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-india-58155301</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-58155301</guid>
+            <pubDate>Tue, 10 Aug 2021 05:22:20 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[China sues Tencent over WeChat Youth Mode]]></title>
             <description><![CDATA[Authorities allege the messaging app is violating Chinese law that aims to protect minors.]]></description>
             <link>https://www.bbc.co.uk/news/technology-58145808</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-58145808</guid>
             <pubDate>Mon, 09 Aug 2021 10:54:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Thailand man charged over death of Swiss tourist near waterfall]]></title>
-            <description><![CDATA[The 27-year-old man has been charged with murdering the 57-year-old woman.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58141926</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58141926</guid>
-            <pubDate>Mon, 09 Aug 2021 10:25:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[We For India: Stars unite to help Covid relief work in India]]></title>
@@ -86,6 +86,13 @@
             <pubDate>Mon, 09 Aug 2021 04:35:53 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Thailand man charged over death of Swiss tourist near waterfall]]></title>
+            <description><![CDATA[The 27-year-old man has been charged with murdering the 57-year-old woman.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58141926</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58141926</guid>
+            <pubDate>Mon, 09 Aug 2021 10:25:26 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Alibaba to sack manager accused of rape, according to memo seen by BBC]]></title>
             <description><![CDATA[The move comes after a woman's allegations of sexual assault went viral on Chinese social media.]]></description>
             <link>https://www.bbc.co.uk/news/business-58141606</link>
@@ -93,18 +100,18 @@
             <pubDate>Mon, 09 Aug 2021 04:11:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA['Smallest baby at birth' home after 13 months in hospital]]></title>
-            <description><![CDATA[Kwek Yu Xuan weighed only 212g - the weight of an apple - when she was born in Singapore last year.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58141756</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58141756</guid>
-            <pubDate>Mon, 09 Aug 2021 04:04:20 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Why China's climate policy matters to us all]]></title>
             <description><![CDATA[The global battle against climate change is likely to be won or lost in China.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-china-57483492</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-57483492</guid>
             <pubDate>Sun, 08 Aug 2021 23:01:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Smallest baby at birth' home after 13 months in hospital]]></title>
+            <description><![CDATA[Kwek Yu Xuan weighed only 212g - the weight of an apple - when she was born in Singapore last year.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58141756</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58141756</guid>
+            <pubDate>Mon, 09 Aug 2021 04:04:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Afghanistan: Why is there a war?]]></title>
@@ -126,13 +133,6 @@
             <link>https://www.bbc.co.uk/news/world-asia-india-58066768</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-58066768</guid>
             <pubDate>Sun, 08 Aug 2021 23:01:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fashion photographer: 'The world doesn't see this part of Afghanistan']]></title>
-            <description><![CDATA[Fatimah Hossaini is a fashion photographer in Afghanistan and wants to use her work to help women be seen.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58147426</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58147426</guid>
-            <pubDate>Mon, 09 Aug 2021 23:03:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
