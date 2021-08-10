@@ -1,4 +1,4 @@
-1. [New York Governor Andrew Cuomo resigns in wake of harassment report](https://www.bbc.co.uk/news/world-us-canada-58164719) - Democrat Andrew Cuomo has resigned after an inquiry found he sexually harassed multiple women.
+1. [New York Governor Andrew Cuomo resigns in wake of harassment report](https://www.bbc.co.uk/news/world-us-canada-58164719) - The Democrat says he will "step aside" after an inquiry found he sexually harassed multiple women.
 2. [Ethiopia PM Abiy Ahmed calls on civilians to join Tigray war](https://www.bbc.co.uk/news/world-africa-58163641) - Abiy Ahmed has asked all "capable" Ethiopians to join the fight against resurgent Tigrayan rebels.
 3. [Lithuania to build fence on Belarus border to stop migrants](https://www.bbc.co.uk/news/world-europe-58163073) - Tensions are running high with Belarus after a surge of non-EU migrants into Lithuania.
 4. [Princess Latifa: Campaign to free Dubai ruler's daughter disbanded](https://www.bbc.co.uk/news/world-middle-east-58156419) - The Dubai ruler's daughter was pictured in Iceland after accusing her father of keeping her captive.
