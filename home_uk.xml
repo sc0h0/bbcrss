@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 10 Aug 2021 04:18:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Aug 2021 04:42:13 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -58,6 +58,13 @@
             <pubDate>Mon, 09 Aug 2021 21:12:51 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Artificial Intelligence may diagnose dementia in a day]]></title>
+            <description><![CDATA[The system being tested should spot the disease long before symptoms or obvious brain signs develop.]]></description>
+            <link>https://www.bbc.co.uk/news/health-57934589</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-57934589</guid>
+            <pubDate>Tue, 10 Aug 2021 04:28:59 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Afghanistan war: At least 27 children killed in three days, UN says]]></title>
             <description><![CDATA[Unicef says 27 deaths were recorded in three regions over 72 hours, amid rising violence.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-58142983</link>
@@ -70,6 +77,13 @@
             <link>https://www.bbc.co.uk/news/uk-58149765</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58149765</guid>
             <pubDate>Mon, 09 Aug 2021 16:14:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mexican drug cartel threatens to kill TV reporter]]></title>
+            <description><![CDATA[Men claiming to represent Mexico's most powerful drug cartel accused the anchor of unfair coverage.]]></description>
+            <link>https://www.bbc.co.uk/news/world-latin-america-58153732</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-latin-america-58153732</guid>
+            <pubDate>Tue, 10 Aug 2021 03:47:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Anger at overflowing Covid test drop boxes]]></title>
@@ -91,20 +105,6 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58154764</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58154764</guid>
             <pubDate>Tue, 10 Aug 2021 03:04:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Test and Trace boss Dido Harding to step down from NHS role]]></title>
-            <description><![CDATA[Boris Johnson promised a "world-beating" system, but it was heavily criticised during her tenure.]]></description>
-            <link>https://www.bbc.co.uk/news/health-58151615</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-58151615</guid>
-            <pubDate>Mon, 09 Aug 2021 16:29:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[R. Kelly: Jury selection begins in singer's sex trafficking trial]]></title>
-            <description><![CDATA[The R&B singer appears in court in New York, as potential jurors are questioned ahead of his trial.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-58151775</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-58151775</guid>
-            <pubDate>Mon, 09 Aug 2021 19:22:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Extreme weather: How it is connected to climate change?]]></title>
@@ -174,7 +174,7 @@
             <description><![CDATA[Tuesday's papers report the UN warning that time is running out to combat harmful climate change.]]></description>
             <link>https://www.bbc.co.uk/news/blogs-the-papers-58153696</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/blogs-the-papers-58153696</guid>
-            <pubDate>Mon, 09 Aug 2021 22:30:58 GMT</pubDate>
+            <pubDate>Tue, 10 Aug 2021 04:25:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Has Banksy been on an East Anglian seaside 'spraycation'?]]></title>

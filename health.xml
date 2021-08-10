@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 10 Aug 2021 04:17:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Aug 2021 04:38:06 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Artificial Intelligence may diagnose dementia in a day]]></title>
+            <description><![CDATA[The system being tested should spot the disease long before symptoms or obvious brain signs develop.]]></description>
+            <link>https://www.bbc.co.uk/news/health-57934589</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-57934589</guid>
+            <pubDate>Tue, 10 Aug 2021 04:28:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Test and Trace boss Dido Harding to step down from NHS role]]></title>
             <description><![CDATA[Boris Johnson promised a "world-beating" system, but it was heavily criticised during her tenure.]]></description>
@@ -77,13 +84,6 @@
             <link>https://www.bbc.co.uk/news/uk-58091693</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58091693</guid>
             <pubDate>Wed, 04 Aug 2021 18:48:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Long-lasting Covid-19 symptoms rare in children]]></title>
-            <description><![CDATA[Children who become ill with coronavirus mostly recover in less than a week, research suggests.]]></description>
-            <link>https://www.bbc.co.uk/news/health-58071898</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-58071898</guid>
-            <pubDate>Wed, 04 Aug 2021 00:04:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Is the coronavirus pandemic over at last?]]></title>
