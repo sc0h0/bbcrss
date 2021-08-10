@@ -1,13 +1,13 @@
 1. [A-level results 2021: Top grades reach record high](https://www.bbc.co.uk/news/education-58086908) - The second year of results after cancelled exams sees the highest level of A* and A grades at A-level.
 2. [Virginia Giuffre: Prince Andrew accuser files civil case in US](https://www.bbc.co.uk/news/uk-58153711) - Virginia Giuffre alleges the Duke of York sexually assaulted her when she was 17 years old.
 3. [Princess Latifa: Campaign to free Dubai ruler's daughter disbanded](https://www.bbc.co.uk/news/world-middle-east-58156419) - It comes after the daughter of the ruler of Dubai was pictured with her cousin in Iceland.
-4. [Second-hand car sales soar amid shortage of new models](https://www.bbc.co.uk/news/business-58150025) - Used car transactions have more than doubled in the last few months, according to the industry body.
-5. [Rhyl cancer patient suffered from 'alarming failings' at Glan Clwyd Hospital](https://www.bbc.co.uk/news/uk-wales-58151073) - Ann Jones, 69, died after "alarming failings" at Wales' largest health board, says ombudsman.
-6. [Greece fires: PM apologises as blazes rage on Evia island](https://www.bbc.co.uk/news/world-europe-58152324) - Kyriakos Mitsotakis says Greece is facing an unprecedented natural disaster, as public anger grows.
+4. [Rhyl cancer patient suffered from 'alarming failings' at Glan Clwyd Hospital](https://www.bbc.co.uk/news/uk-wales-58151073) - Ann Jones, 69, died after "alarming failings" at Wales' largest health board, says ombudsman.
+5. [A-Level results: Hackney twins secure Oxbridge places](https://www.bbc.co.uk/news/uk-england-london-58156170) - Emmanuel and Ebenezer Boakye say growing up in a single-parent family made them determined to thrive.
+6. [Second-hand car sales soar amid shortage of new models](https://www.bbc.co.uk/news/business-58150025) - Used car transactions have more than doubled in the last few months, according to the industry body.
 7. [JetBlue to launch NY-UK flights despite pandemic](https://www.bbc.co.uk/news/business-58156118) - The airline says there is "strong demand" for the route as the global travel industry recovers.
 8. [China: Canadian citizen loses appeal against death penalty](https://www.bbc.co.uk/news/world-asia-china-58141758) - The verdict comes as an extradition battle in Canada for Huawei executive Meng Wanzhou continues.
 9. [Climate change: At-risk nations fear extinction after IPCC report](https://www.bbc.co.uk/news/world-58064485) - The most vulnerable developing countries plead for action after a stark warning from a UN panel.
-10. [Mexican drug cartel threatens to kill TV reporter](https://www.bbc.co.uk/news/world-latin-america-58153732) - Men claiming to represent Mexico's most powerful drug cartel accused the anchor of unfair coverage.
+10. [Mexican drug cartel threatens to kill TV reporter](https://www.bbc.co.uk/news/world-latin-america-58153732) - In a video featuring heavily armed men the prominent female journalist is accused of unfair coverage.
 11. [Lorry fire on M6 near Birmingham closes carriageway](https://www.bbc.co.uk/news/uk-england-birmingham-58155928) - The fire service says the lorry involved in the fire was carrying "hazardous" materials.
 12. [Greensill: David Cameron 'made $10m' before company’s collapse](https://www.bbc.co.uk/news/uk-58149765) - A letter indicates the former PM received millions from shares in the controversial collapsed firm.
 13. [The Papers: 'Climate code red' and 'top A-level grades soar'](https://www.bbc.co.uk/news/blogs-the-papers-58153696) - Tuesday's papers report the UN warning that time is running out to combat harmful climate change.
@@ -36,7 +36,7 @@
 36. [A-levels 2021: How do I appeal my results?](https://www.bbc.co.uk/news/education-58026976) - For the second year running, pupils in England, Wales and Northern Ireland have not taken the exams.
 37. [What if I retake A-levels and get lower grades? And other questions](https://www.bbc.co.uk/news/education-58148482) - Are you concerned about your A-Level results? Experts answer some of your questions.
 38. [Four things to look out for in Scottish Highers and Nat 5s](https://www.bbc.co.uk/news/uk-scotland-58151835) - Pupils across Scotland receive confirmation of their Higher and National 5 grades.
-39. [BTec Nationals and BTec Firsts: What are they?](https://www.bbc.co.uk/news/education-49279219) - When will BTec results be out and how will the grades be reached?
+39. [BTec results 2021: What are they and when are results out?](https://www.bbc.co.uk/news/education-49279219) - When will BTec results be out and how will the grades be reached?
 40. [How A Level and GCSE results are calculated](https://www.bbc.co.uk/news/education-58120399) - Education editor Branwen Jeffreys explains how grades are calculated and how you can appeal.
 41. [Exams 2021: 'Will they take our Covid grades seriously?'](https://www.bbc.co.uk/news/education-58085778) - It's been a stressful few months for the thousands of young people waiting for their exam results.
 42. [Covid-19 in the UK: How many coronavirus cases are there in my area?](https://www.bbc.co.uk/news/uk-51768274) - Explore the data on coronavirus in the UK and find out how many cases there are in your area.

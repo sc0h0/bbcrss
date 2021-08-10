@@ -10,11 +10,11 @@
 10. [Huawei revenue sees biggest ever fall](https://www.bbc.co.uk/news/technology-58104614) - Revenue from its consumer business, which includes phones, fell by nearly half.
 11. [Larry Page: Google co-founder granted New Zealand residency](https://www.bbc.co.uk/news/world-asia-58128475) - The country's immigration services say he applied under a category for wealthy investors.
 12. [US consumer watchdog criticises Facebook's NYU ban claim](https://www.bbc.co.uk/news/technology-58104609) - In a letter to Mark Zuckerberg, the FTC criticises the social network for inaccurate statements.
-13. [How smart buildings could transform our experience of work](https://www.bbc.co.uk/news/technology-58014316) - Lara Lewington visits a new smart office block to see how technology could transform working lives.
-14. [CEO Secrets: Airbnb boss shares his business advice](https://www.bbc.co.uk/news/business-58025562) - Brian Chesky, co-founder and CEO of Airbnb, shares his business advice for the CEO Secrets series.
-15. [Untethered bi-pedal robot runs 5km and other tech news](https://www.bbc.co.uk/news/technology-58014320) - Jen Copestake looks at some of the best technology news stories of the week.
-16. [Team BRIT’s Aaron Morgan: How hand controls help me race](https://www.bbc.co.uk/news/technology-57930083) - The Team BRIT driver on how adapted cars help him compete in races against non-disabled drivers.
-17. [Vineyards set to go high tech with smart systems](https://www.bbc.co.uk/news/technology-57850284) - Changing climate conditions and water shortages see some Australian wine growers turn to technology.
+13. [Classic Bentleys and Rolls-Royce adapted to fully electric](https://www.bbc.co.uk/news/technology-57901893) - The vintage petrol-powered cars are re-engineered by a company based at the home of UK motorsport.
+14. [How smart buildings could transform our experience of work](https://www.bbc.co.uk/news/technology-58014316) - Lara Lewington visits a new smart office block to see how technology could transform working lives.
+15. [CEO Secrets: Airbnb boss shares his business advice](https://www.bbc.co.uk/news/business-58025562) - Brian Chesky, co-founder and CEO of Airbnb, shares his business advice for the CEO Secrets series.
+16. [Untethered bi-pedal robot runs 5km and other tech news](https://www.bbc.co.uk/news/technology-58014320) - Jen Copestake looks at some of the best technology news stories of the week.
+17. [Team BRIT’s Aaron Morgan: How hand controls help me race](https://www.bbc.co.uk/news/technology-57930083) - The Team BRIT driver on how adapted cars help him compete in races against non-disabled drivers.
 18. [Sharing apps are booming but will the kindness continue?](https://www.bbc.co.uk/news/business-57981598) - The pandemic sparked a surge in activity for sharing apps like Olio but has the trend run its course?
 19. [Why artificial intelligence is being used to write adverts](https://www.bbc.co.uk/news/business-57781557) - Advertisers are increasingly using artificial intelligence to come up with their winning slogans.
 20. [The perfect storm striking World of Warcraft](https://www.bbc.co.uk/news/technology-58017429) - All of a sudden, WoW players are in revolt, and its competitors are having a boom.

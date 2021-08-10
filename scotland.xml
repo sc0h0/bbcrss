@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 10 Aug 2021 10:03:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Aug 2021 10:23:59 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -42,6 +42,13 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-58151835</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58151835</guid>
             <pubDate>Tue, 10 Aug 2021 09:19:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Aldi to recruit nearly 500 staff in Scotland]]></title>
+            <description><![CDATA[The discount supermarket says the pre-festive recruitment drive is part of an ongoing UK-wide expansion.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-scotland-business-58148080</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-scotland-business-58148080</guid>
+            <pubDate>Tue, 10 Aug 2021 09:54:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What would an SNP-Green deal mean for Scotland?]]></title>
@@ -233,6 +240,13 @@
             <pubDate>Mon, 09 Aug 2021 19:16:37 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Lawrence Shankland: Dundee United striker in transfer talks with Beerschot]]></title>
+            <description><![CDATA[Dundee United grant Lawrence Shankland permission to go to Belgium to discuss a proposed move to Beerschot.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58156602</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58156602</guid>
+            <pubDate>Tue, 10 Aug 2021 10:05:28 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Scottish Gossip: Celtic, Dundee United, Aberdeen, St Mirren, Ross County]]></title>
             <description><![CDATA[Celtic close to deal for Belgium-based striker, Aberdeen turn down bid for midfielder...]]></description>
             <link>https://www.bbc.co.uk/sport/football/58156308</link>
@@ -252,13 +266,6 @@
             <link>https://www.bbc.co.uk/sport/football/58137804</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58137804</guid>
             <pubDate>Mon, 09 Aug 2021 13:38:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Scotland: Andy Robertson says ligament damage is "nothing too major"]]></title>
-            <description><![CDATA[Andy Robertson says the ankle injury sustained in Liverpool's friendly with Athletic Bilbao is "nothing too major" but the Scotland captain will miss the start of the season.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58141099</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58141099</guid>
-            <pubDate>Mon, 09 Aug 2021 18:17:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
