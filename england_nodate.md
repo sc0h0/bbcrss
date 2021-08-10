@@ -3,7 +3,7 @@
 3. [Missing woman Megan Newborough was 'treasured daughter'](https://www.bbc.co.uk/news/uk-england-leicestershire-58153936) - A 29-year-old man is held on suspicion of the murder and rape of Megan Newborough, police say.
 4. [Harry Dunn: Lawyers claim phone may have distracted suspect](https://www.bbc.co.uk/news/uk-england-northamptonshire-58144499) - The claim appears in court documents for a US hearing into damages for Harry Dunn's fatal crash.
 5. [Cornwall policeman who took dead person's cash is sacked](https://www.bbc.co.uk/news/uk-england-cornwall-58146645) - The police officer treated the £105 "as his own", says the force after a disciplinary hearing.
-6. [London's Tower Bridge stuck open after technical failure](https://www.bbc.co.uk/news/uk-england-london-58149716) - Police warn drivers to avoid roads around the famous London landmark after the technical failure.
+6. [London's Tower Bridge reopens after technical failure](https://www.bbc.co.uk/news/uk-england-london-58149716) - The iconic London crossing had been closed for almost 12 hours after a "technical failure".
 7. [Greece wildfires: British firefighters help tackle 'unprecedented' blazes](https://www.bbc.co.uk/news/uk-england-merseyside-58147674) - A team helping to tackle Greek wildfires face an "explosive mixture" of conditions, an officer says.
 8. [Downing Street march to save alpaca Geronimo](https://www.bbc.co.uk/news/uk-england-bristol-58143100) - More than 100,000 people sign a petition calling on Boris Johnson to halt the alpaca's execution.
 9. [Armed forces personnel come out for funeral of WW2 veteran](https://www.bbc.co.uk/news/uk-england-devon-58151165) - Douglas Tune's carer posts an appeal on social media for funeral guests and gets a huge response.

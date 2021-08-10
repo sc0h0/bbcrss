@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 10 Aug 2021 04:55:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Aug 2021 05:15:58 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -20,14 +20,21 @@
             <description><![CDATA[Teachers say they want this year's results to be celebrated after the "shambles" of last year's grading.]]></description>
             <link>https://www.bbc.co.uk/news/uk-wales-58148512</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58148512</guid>
-            <pubDate>Mon, 09 Aug 2021 21:57:41 GMT</pubDate>
+            <pubDate>Tue, 10 Aug 2021 05:02:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A-level results day in Wales: Your questions answered]]></title>
             <description><![CDATA[There are likely to be few surprises in Wales as most students already know their grades.]]></description>
             <link>https://www.bbc.co.uk/news/uk-wales-58149400</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58149400</guid>
-            <pubDate>Mon, 09 Aug 2021 21:57:13 GMT</pubDate>
+            <pubDate>Tue, 10 Aug 2021 05:02:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rhyl cancer patient suffered from 'alarming failings' at Glan Clwyd Hospital]]></title>
+            <description><![CDATA[Ann Jones, 69, died after "alarming failings" at Wales' largest health board, says ombudsman.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-58151073</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58151073</guid>
+            <pubDate>Tue, 10 Aug 2021 05:04:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Climate change: IPCC report heralds Wales' 'last-chance saloon']]></title>
@@ -44,13 +51,6 @@
             <pubDate>Mon, 09 Aug 2021 15:39:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Wrexham father in intensive care after refusing Covid vaccine]]></title>
-            <description><![CDATA[Father-of-two Artur Brylowski is in intensive care with Covid having turned down a vaccine.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-58150247</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58150247</guid>
-            <pubDate>Mon, 09 Aug 2021 19:36:09 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Gang tried to kidnap Anglesey child over satanic abuse fear]]></title>
             <description><![CDATA[Two gang members snatched the child at knifepoint as they returned home from school.]]></description>
             <link>https://www.bbc.co.uk/news/uk-wales-57941016</link>
@@ -63,6 +63,13 @@
             <link>https://www.bbc.co.uk/news/uk-wales-58153416</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58153416</guid>
             <pubDate>Mon, 09 Aug 2021 21:03:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wrexham father in intensive care after refusing Covid vaccine]]></title>
+            <description><![CDATA[Father-of-two Artur Brylowski is in intensive care with Covid having turned down a vaccine.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-58150247</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58150247</guid>
+            <pubDate>Mon, 09 Aug 2021 19:36:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Towyn: Teen sister of murder accused 'died of asphyxia']]></title>
@@ -91,13 +98,6 @@
             <link>https://www.bbc.co.uk/news/uk-wales-58149303</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58149303</guid>
             <pubDate>Mon, 09 Aug 2021 14:12:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: Porthcawl Elvis Festival boss fears 'legal minefield']]></title>
-            <description><![CDATA[Organisers must carry out risk assessments and take measures to minimise the spread of Covid.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-58139154</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58139154</guid>
-            <pubDate>Mon, 09 Aug 2021 05:31:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Wrexham man left fighting for life after refusing Covid jab]]></title>
@@ -177,25 +177,25 @@
             <pubDate>Mon, 09 Aug 2021 17:42:54 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Dathlu llwyddiant myfyrwyr ar ôl 'llanast' llynedd]]></title>
+            <description><![CDATA[Mae angen dathlu graddau Safon Uwch eleni ar ôl "arswyd yr algorithm" y llynedd, yn ôl arweinwyr addysg.]]></description>
+            <link>https://www.bbc.co.uk/newyddion/58128548</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/newyddion/58128548</guid>
+            <pubDate>Tue, 10 Aug 2021 05:06:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Beth ydy'r drefn canlyniadau arholiad eleni?]]></title>
+            <description><![CDATA[Wedi trafferthion mawr ar ddiwrnod cyhoeddi canlyniadau Safon Uwch y llynedd, bydd pethau'n wahanol eleni.]]></description>
+            <link>https://www.bbc.co.uk/newyddion/58146734</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/newyddion/58146734</guid>
+            <pubDate>Tue, 10 Aug 2021 05:05:45 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Giang wedi herwgipio plentyn 'oherwydd cam-drin satanaidd']]></title>
             <description><![CDATA[Chwe pherson yn euog o gynllwynio i herwgipio plentyn am eu bod yn amau camdriniaeth satanaidd.]]></description>
             <link>https://www.bbc.co.uk/newyddion/58146737</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/newyddion/58146737</guid>
             <pubDate>Mon, 09 Aug 2021 16:02:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dyn wedi marw ar ôl mynd i drafferthion yn y môr ym Mhen Llŷn]]></title>
-            <description><![CDATA[Mae 'na alw am roi achubwyr bywyd ar draeth Porth Neigwl yn dilyn y digwyddiad ddydd Gwener.]]></description>
-            <link>https://www.bbc.co.uk/newyddion/58118178</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/newyddion/58118178</guid>
-            <pubDate>Mon, 09 Aug 2021 18:00:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Parc Bute: Dyn wedi marw 16 diwrnod ar ôl ymosodiad]]></title>
-            <description><![CDATA[Mae tri pherson yn y ddalfa heddlu wedi'u cyhuddo o geisio llofruddio yn dilyn y digwyddiad.]]></description>
-            <link>https://www.bbc.co.uk/newyddion/58145696</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/newyddion/58145696</guid>
-            <pubDate>Mon, 09 Aug 2021 14:55:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Lle fyddai Cymru yn nhabl medalau Tokyo 2020?]]></title>
