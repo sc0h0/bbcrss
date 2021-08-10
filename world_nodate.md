@@ -1,5 +1,5 @@
 1. [Climate change: At-risk nations fear extinction after IPCC report](https://www.bbc.co.uk/news/world-58064485) - The most vulnerable developing countries plead for action after a stark warning from a UN panel.
-2. [Virginia Giuffre: Prince Andrew accuser files civil lawsuit in US](https://www.bbc.co.uk/news/uk-58153711) - Virginia Giuffre alleges the Duke of York sexually assaulted her when she was 17 years old.
+2. [Virginia Giuffre: Prince Andrew accuser files civil case in US](https://www.bbc.co.uk/news/uk-58153711) - Virginia Giuffre alleges the Duke of York sexually assaulted her when she was 17 years old.
 3. [Greece fires: PM apologises as blazes rage on Evia island](https://www.bbc.co.uk/news/world-europe-58152324) - Kyriakos Mitsotakis says Greece is facing an unprecedented natural disaster, as public anger grows.
 4. [Andrew Cuomo: Time's Up leader resigns over ties to governor](https://www.bbc.co.uk/news/world-us-canada-58153726) - Roberta Kaplan was accused of trying to discredit a woman who said Mr Cuomo had harassed her.
 5. [Artificial Intelligence may diagnose dementia in a day](https://www.bbc.co.uk/news/health-57934589) - The system being tested should spot the disease long before symptoms or obvious brain signs develop.
