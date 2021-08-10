@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 10 Aug 2021 05:03:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Aug 2021 05:20:02 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -21,6 +21,20 @@
             <link>https://www.bbc.co.uk/news/uk-england-london-58145326</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-58145326</guid>
             <pubDate>Mon, 09 Aug 2021 19:10:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[High grades expected as A-level results revealed]]></title>
+            <description><![CDATA[For a second year, students will be receiving results for exams cancelled in the pandemic.]]></description>
+            <link>https://www.bbc.co.uk/news/education-58086908</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/education-58086908</guid>
+            <pubDate>Mon, 09 Aug 2021 23:48:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[London's Tower Bridge reopens after technical failure]]></title>
+            <description><![CDATA[The iconic London crossing had been closed for almost 12 hours after a "technical failure".]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-58149716</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-58149716</guid>
+            <pubDate>Tue, 10 Aug 2021 05:02:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Factory worker Haroldas Bugaila found guilty of murdering baby son]]></title>
@@ -37,25 +51,11 @@
             <pubDate>Mon, 09 Aug 2021 21:39:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Harry Dunn: Lawyers claim phone may have distracted suspect]]></title>
-            <description><![CDATA[The claim appears in court documents for a US hearing into damages for Harry Dunn's fatal crash.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-northamptonshire-58144499</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-northamptonshire-58144499</guid>
-            <pubDate>Mon, 09 Aug 2021 09:37:38 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Cornwall policeman who took dead person's cash is sacked]]></title>
             <description><![CDATA[The police officer treated the £105 "as his own", says the force after a disciplinary hearing.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-cornwall-58146645</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-cornwall-58146645</guid>
             <pubDate>Mon, 09 Aug 2021 16:57:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[London's Tower Bridge reopens after technical failure]]></title>
-            <description><![CDATA[The iconic London crossing had been closed for almost 12 hours after a "technical failure".]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-london-58149716</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-58149716</guid>
-            <pubDate>Tue, 10 Aug 2021 05:02:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Greece wildfires: British firefighters help tackle 'unprecedented' blazes]]></title>
@@ -86,11 +86,11 @@
             <pubDate>Mon, 09 Aug 2021 14:25:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Peter Kay: Cancer patient 'honoured' to inspire comic's comeback gig]]></title>
-            <description><![CDATA[The comedian returned to the stage to raise money to help pay for student Laura Nuttall's treatment.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-lancashire-58143012</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-lancashire-58143012</guid>
-            <pubDate>Mon, 09 Aug 2021 12:40:47 GMT</pubDate>
+            <title><![CDATA[Harry Dunn: Lawyers claim phone may have distracted suspect]]></title>
+            <description><![CDATA[The claim appears in court documents for a US hearing into damages for Harry Dunn's fatal crash.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-northamptonshire-58144499</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-northamptonshire-58144499</guid>
+            <pubDate>Mon, 09 Aug 2021 09:37:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Olympics: Galal Yafai returns to UK from Tokyo]]></title>
@@ -128,6 +128,13 @@
             <pubDate>Sat, 07 Aug 2021 23:01:40 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Peter Kay: Cancer patient 'honoured' to inspire comic's comeback gig]]></title>
+            <description><![CDATA[The comedian returned to the stage to raise money to help pay for student Laura Nuttall's treatment.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-lancashire-58143012</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-lancashire-58143012</guid>
+            <pubDate>Mon, 09 Aug 2021 12:40:47 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Streatham terror attack: Sudesh Amman operation 'an effective result']]></title>
             <description><![CDATA[Sudesh Amman was shot dead by surveillance officers after stabbing two people in south London.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-london-58146837</link>
@@ -154,13 +161,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-nottinghamshire-58104765</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-nottinghamshire-58104765</guid>
             <pubDate>Mon, 09 Aug 2021 10:44:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hampshire murder detective forged statement, court hears]]></title>
-            <description><![CDATA[The officer is accused of forging a witness statement in the Lucy-Anne Rushton murder investigation.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-hampshire-58145989</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-hampshire-58145989</guid>
-            <pubDate>Mon, 09 Aug 2021 12:58:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jack Grealish: Manchester City midfielder says he 'teared up' in Aston Villa exit]]></title>
