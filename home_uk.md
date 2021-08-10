@@ -1,4 +1,4 @@
-1. [High grades expected as A-level results revealed](https://www.bbc.co.uk/news/education-58086908) - Mon, 09 Aug 2021 23:48:57 GMT - For a second year, students will be receiving results for exams cancelled in the pandemic.
+1. [High grades expected as A-level results revealed](https://www.bbc.co.uk/news/education-58086908) - Tue, 10 Aug 2021 07:00:58 GMT - For a second year, students will be receiving results for exams cancelled in the pandemic.
 2. [Virginia Giuffre: Prince Andrew accuser files civil case in US](https://www.bbc.co.uk/news/uk-58153711) - Tue, 10 Aug 2021 06:30:14 GMT - Virginia Giuffre alleges the Duke of York sexually assaulted her when she was 17 years old.
 3. [Greece fires: PM apologises as blazes rage on Evia island](https://www.bbc.co.uk/news/world-europe-58152324) - Mon, 09 Aug 2021 23:50:31 GMT - Kyriakos Mitsotakis says Greece is facing an unprecedented natural disaster, as public anger grows.
 4. [Second-hand car sales soar amid shortage of new models](https://www.bbc.co.uk/news/business-58150025) - Tue, 10 Aug 2021 06:51:33 GMT - Used car transactions have more than doubled in the last few months, according to the industry body.
