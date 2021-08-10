@@ -5,13 +5,14 @@
 5. [Lionel Messi agrees Paris St-Germain deal after Barcelona exit - Guillem Balague](https://www.bbc.co.uk/sport/football/58159464) - Lionel Messi agrees a two-year deal to join Paris St-Germain after leaving Barcelona, says BBC Sport columnist Guillem Balague.
 6. [Esther Dingley: Missing hiker's boyfriend finds her body](https://www.bbc.co.uk/news/uk-england-tyne-58159591) - The body and belongings of Esther Dingley are found close to where a bone fragment was discovered.
 7. [Bronze handle suggests 'lions used' in Roman Britain executions](https://www.bbc.co.uk/news/uk-england-leicestershire-58144680) - The bronze key handle found in Leicester shows a "Barbarian" grappling with a lion.
-8. [Five things we learned from UN climate report](https://www.bbc.co.uk/news/science-environment-58138714) - What are the key takeaways from the IPCC new study on the science of climate change?
-9. [Climate change: How to be more eco-friendly in everyday life](https://www.bbc.co.uk/news/newsbeat-47990742) - From food to fashion, green bloggers give their top tips to be more eco-friendly.
-10. [Malta: The teenagers pulled from the sea and accused of terrorism](https://www.bbc.co.uk/news/world-57988934) - How three teenagers rescued from the Mediterranean Sea ended up in Malta accused of terrorism.
-11. [Belarus crackdown fails to crush opposition spirit](https://www.bbc.co.uk/news/world-europe-58114107) - Beaten up, jailed, forced into exile - protesters are still battling against President Lukashenko.
-12. [Lionel Messi's top 10 iconic Barcelona moments](https://www.bbc.co.uk/sport/football/58114038) - As Lionel Messi leaves Barcelona, relive 10 of his most iconic moments for the Catalan club.
-13. [Greece fires: Hundreds rescued by coastguard](https://www.bbc.co.uk/news/world-europe-58128033) - The coastguard moved 650 people from Limni, in the north of the island of Evia.
-14. [Lukashenko: 'You can choke on your sanctions in the UK'](https://www.bbc.co.uk/news/world-europe-58150328) - The UK and US are tightening sanctions on Belarus, hitting economic sectors.
-15. ['They call me the Irish hulk of basketball'](https://www.bbc.co.uk/news/world-europe-58017676) - Aidan Igiehon is part of a group of elite Irish athletes playing college basketball in America.
-16. [Will Turkey's bees return after the wildfires?](https://www.bbc.co.uk/news/world-middle-east-58108697) - Residents of Marmaris, Turkey, are mourning their bees and honey, lost to fires.
-17. [Tankus the Henge: Touring in France post-Brexit 'a puzzle'](https://www.bbc.co.uk/news/entertainment-arts-58063110) - Band Tankus the Henge negotiates touring in France, their first trip there since Brexit rules were imposed.
+8. [Wildfires: How are they linked to climate change?](https://www.bbc.co.uk/news/58159451) - A series of major wildfires across the world has hit the headlines - how do they compare to previous years?
+9. [Five things we learned from UN climate report](https://www.bbc.co.uk/news/science-environment-58138714) - What are the key takeaways from the IPCC new study on the science of climate change?
+10. [Climate change: How to be more eco-friendly in everyday life](https://www.bbc.co.uk/news/newsbeat-47990742) - From food to fashion, green bloggers give their top tips to be more eco-friendly.
+11. [Malta: The teenagers pulled from the sea and accused of terrorism](https://www.bbc.co.uk/news/world-57988934) - How three teenagers rescued from the Mediterranean Sea ended up in Malta accused of terrorism.
+12. [Belarus crackdown fails to crush opposition spirit](https://www.bbc.co.uk/news/world-europe-58114107) - Beaten up, jailed, forced into exile - protesters are still battling against President Lukashenko.
+13. [Lionel Messi's top 10 iconic Barcelona moments](https://www.bbc.co.uk/sport/football/58114038) - As Lionel Messi leaves Barcelona, relive 10 of his most iconic moments for the Catalan club.
+14. [Greece fires: Hundreds rescued by coastguard](https://www.bbc.co.uk/news/world-europe-58128033) - The coastguard moved 650 people from Limni, in the north of the island of Evia.
+15. [Lukashenko: 'You can choke on your sanctions in the UK'](https://www.bbc.co.uk/news/world-europe-58150328) - The UK and US are tightening sanctions on Belarus, hitting economic sectors.
+16. ['They call me the Irish hulk of basketball'](https://www.bbc.co.uk/news/world-europe-58017676) - Aidan Igiehon is part of a group of elite Irish athletes playing college basketball in America.
+17. [Will Turkey's bees return after the wildfires?](https://www.bbc.co.uk/news/world-middle-east-58108697) - Residents of Marmaris, Turkey, are mourning their bees and honey, lost to fires.
+18. [Tankus the Henge: Touring in France post-Brexit 'a puzzle'](https://www.bbc.co.uk/news/entertainment-arts-58063110) - Band Tankus the Henge negotiates touring in France, their first trip there since Brexit rules were imposed.

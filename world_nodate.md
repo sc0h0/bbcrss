@@ -13,13 +13,14 @@
 13. [Odeon owner AMC to accept payment in Bitcoin](https://www.bbc.co.uk/news/business-58163914) - Cinemagoers will be able to buy tickets and popcorn using the cryptocurrency, says the US chain.
 14. [Olivia Podmore: New Zealand Olympic cyclist dies aged 24](https://www.bbc.co.uk/sport/cycling/58157072) - New Zealand Olympic cyclist Olivia Podmore dies at the age of 24, Cycling New Zealand announces.
 15. [Infrastructure bill: $1tn for clean energy, internet, trains and more](https://www.bbc.co.uk/news/world-us-canada-58152467) - The $1tn bill takes aim at issues from buckling bridges to global warming and remote working.
-16. [Olympic medals: An alternative table - with US 15th](https://www.bbc.co.uk/news/world-us-canada-58143550) - How would the medals table look if population and wealth were taken into account?
-17. [Afghanistan: Why is there a war?](https://www.bbc.co.uk/news/world-asia-49192495) - As foreign forces pull out after 20 years of war, what did it achieve and what happens next?
-18. [Why South Korean women are reclaiming their short hair](https://www.bbc.co.uk/news/world-asia-58082355) - Thousands proudly show off their short hair after an Olympic athlete is criticised for her haircut.
-19. [Climate change: Five things we have learned from the IPCC report](https://www.bbc.co.uk/news/science-environment-58138714) - What are the key takeaways from the IPCC new study on the science of climate change?
-20. [Malta: The teenagers pulled from the sea and accused of terrorism](https://www.bbc.co.uk/news/world-57988934) - How three teenagers rescued from the Mediterranean Sea ended up in Malta accused of terrorism.
-21. [Cuomo resigns as New York governor](https://www.bbc.co.uk/news/world-us-canada-58165667) - New York Governor Andrew Cuomo announces his resignation after sexual harassment inquiry.
-22. [Lithuania blames Belarus for migrant crisis](https://www.bbc.co.uk/news/world-europe-58121577) - Over 4,000 people are reported to have crossed in Lithuania in recent months.
-23. [Afghanistan: Taliban seizure will challenge West - Gen Sir Nick Carter](https://www.bbc.co.uk/news/world-asia-58158658) - The chief of the defence staff on difficulties ahead if the Taliban illegitimately seize control.
-24. [Fashion photographer: 'The world doesn't see this part of Afghanistan'](https://www.bbc.co.uk/news/world-asia-58147426) - Fatimah Hossaini is a fashion photographer in Afghanistan and wants to use her work to help women be seen.
-25. [Greece wildfires: 'It's like a horror movie but it's real life'](https://www.bbc.co.uk/news/world-europe-58141236) - Thousands of people have had to evacuate Greece's second biggest island as severe wildfires rage.
+16. [Wildfires: How are they linked to climate change?](https://www.bbc.co.uk/news/58159451) - A series of major wildfires across the world has hit the headlines - how do they compare to previous years?
+17. [Olympic medals: An alternative table - with US 15th](https://www.bbc.co.uk/news/world-us-canada-58143550) - How would the medals table look if population and wealth were taken into account?
+18. [Afghanistan: Why is there a war?](https://www.bbc.co.uk/news/world-asia-49192495) - As foreign forces pull out after 20 years of war, what did it achieve and what happens next?
+19. [Why South Korean women are reclaiming their short hair](https://www.bbc.co.uk/news/world-asia-58082355) - Thousands proudly show off their short hair after an Olympic athlete is criticised for her haircut.
+20. [Climate change: Five things we have learned from the IPCC report](https://www.bbc.co.uk/news/science-environment-58138714) - What are the key takeaways from the IPCC new study on the science of climate change?
+21. [Malta: The teenagers pulled from the sea and accused of terrorism](https://www.bbc.co.uk/news/world-57988934) - How three teenagers rescued from the Mediterranean Sea ended up in Malta accused of terrorism.
+22. [The illegal gold mines killing rivers and livelihoods in Ghana](https://www.bbc.co.uk/news/world-africa-58119653) - Sixty percent of Ghana's water bodies are now polluted, largely due to illegal mining operations.
+23. [Cuomo resigns as New York governor](https://www.bbc.co.uk/news/world-us-canada-58165667) - New York Governor Andrew Cuomo announces his resignation after sexual harassment inquiry.
+24. [Lithuania blames Belarus for migrant crisis](https://www.bbc.co.uk/news/world-europe-58121577) - Over 4,000 people are reported to have crossed in Lithuania in recent months.
+25. [Afghanistan: Taliban seizure will challenge West - Gen Sir Nick Carter](https://www.bbc.co.uk/news/world-asia-58158658) - The chief of the defence staff on difficulties ahead if the Taliban illegitimately seize control.
+26. [Fashion photographer: 'The world doesn't see this part of Afghanistan'](https://www.bbc.co.uk/news/world-asia-58147426) - Fatimah Hossaini is a fashion photographer in Afghanistan and wants to use her work to help women be seen.

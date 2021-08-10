@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 10 Aug 2021 22:42:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Aug 2021 23:33:47 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -219,18 +219,18 @@
             <pubDate>Mon, 09 Aug 2021 07:32:45 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Champions League: Questions Rangers must answer after exit against Malmo]]></title>
+            <description><![CDATA[Rangers are out of the Champions League and have lost three games in a row for the first time since May 2015. Is it a temporary blip or are there bigger issues for Steven Gerrard's side?]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58167639</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58167639</guid>
+            <pubDate>Tue, 10 Aug 2021 23:16:45 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Celtic: Gordon Strachan takes Celtic consultancy role while continuing at Dundee]]></title>
             <description><![CDATA[Gordon Strachan will re-join Celtic for a "three-month consultancy project" - but will continue as technical director at Dundee.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58165761</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58165761</guid>
             <pubDate>Tue, 10 Aug 2021 17:50:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lawrence Shankland: Dundee United striker in transfer talks with Beerschot]]></title>
-            <description><![CDATA[Dundee United grant Lawrence Shankland permission to go to Belgium to discuss a proposed move to Beerschot.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58156602</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58156602</guid>
-            <pubDate>Tue, 10 Aug 2021 10:05:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Andy Murray in US Open main draw, Dan Evans loses, Novak Djokovic misses Cincinnati]]></title>
@@ -245,6 +245,13 @@
             <link>https://www.bbc.co.uk/sport/football/58130830</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58130830</guid>
             <pubDate>Tue, 10 Aug 2021 15:21:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[St Johnstone v Galatasaray: Murray Davidson hopes to channel 1999 Uefa Cup spirit]]></title>
+            <description><![CDATA[Midfielder Murray Davidson hopes St Johnstone can channel the spirit of the 1999 Uefa Cup side when Galatasaray visit Perth on Thursday.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58164572</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58164572</guid>
+            <pubDate>Tue, 10 Aug 2021 16:43:28 GMT</pubDate>
         </item>
     </channel>
 </rss>

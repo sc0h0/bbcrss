@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 10 Aug 2021 22:16:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Aug 2021 23:27:34 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -76,7 +76,7 @@
             <description><![CDATA[As cases rise across the US, Florida's governor argues school mask rules infringe on parent rights.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-58162329</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-58162329</guid>
-            <pubDate>Tue, 10 Aug 2021 15:59:15 GMT</pubDate>
+            <pubDate>Tue, 10 Aug 2021 23:03:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Poland's ruling coalition frays on eve of key media vote]]></title>
@@ -121,6 +121,13 @@
             <pubDate>Tue, 10 Aug 2021 15:53:18 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Wildfires: How are they linked to climate change?]]></title>
+            <description><![CDATA[A series of major wildfires across the world has hit the headlines - how do they compare to previous years?]]></description>
+            <link>https://www.bbc.co.uk/news/58159451</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/58159451</guid>
+            <pubDate>Tue, 10 Aug 2021 23:26:17 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Olympic medals: An alternative table - with US 15th]]></title>
             <description><![CDATA[How would the medals table look if population and wealth were taken into account?]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-58143550</link>
@@ -156,6 +163,13 @@
             <pubDate>Sun, 08 Aug 2021 23:03:13 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The illegal gold mines killing rivers and livelihoods in Ghana]]></title>
+            <description><![CDATA[Sixty percent of Ghana's water bodies are now polluted, largely due to illegal mining operations.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-58119653</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-58119653</guid>
+            <pubDate>Tue, 10 Aug 2021 23:02:01 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Cuomo resigns as New York governor]]></title>
             <description><![CDATA[New York Governor Andrew Cuomo announces his resignation after sexual harassment inquiry.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-58165667</link>
@@ -182,13 +196,6 @@
             <link>https://www.bbc.co.uk/news/world-asia-58147426</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58147426</guid>
             <pubDate>Mon, 09 Aug 2021 23:03:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Greece wildfires: 'It's like a horror movie but it's real life']]></title>
-            <description><![CDATA[Thousands of people have had to evacuate Greece's second biggest island as severe wildfires rage.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58141236</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58141236</guid>
-            <pubDate>Sun, 08 Aug 2021 23:10:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
