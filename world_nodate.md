@@ -1,8 +1,8 @@
 1. [New York Governor Andrew Cuomo resigns in wake of harassment report](https://www.bbc.co.uk/news/world-us-canada-58164719) - Democrat Andrew Cuomo has resigned after an inquiry found he sexually harassed multiple women.
 2. [Ethiopia PM Abiy Ahmed calls on civilians to join Tigray war](https://www.bbc.co.uk/news/world-africa-58163641) - Abiy Ahmed has asked all "capable" Ethiopians to join the fight against resurgent Tigrayan rebels.
-3. [Princess Latifa: Campaign to free Dubai ruler's daughter disbanded](https://www.bbc.co.uk/news/world-middle-east-58156419) - The Dubai ruler's daughter was pictured in Iceland after accusing her father of keeping her captive.
-4. [Greece fires: Foreign teams join battle on Evia island](https://www.bbc.co.uk/news/world-europe-58160938) - Several European countries are helping Greece to tackle the blazes ravaging parched forests.
-5. [Lithuania blames Belarus for migrant crisis](https://www.bbc.co.uk/news/world-europe-58121577) - Over 4,000 people are reported to have crossed in Lithuania in recent months.
+3. [Lithuania to build fence on Belarus border to stop migrants](https://www.bbc.co.uk/news/world-europe-58163073) - Tensions are running high with Belarus after a surge of non-EU migrants into Lithuania.
+4. [Princess Latifa: Campaign to free Dubai ruler's daughter disbanded](https://www.bbc.co.uk/news/world-middle-east-58156419) - The Dubai ruler's daughter was pictured in Iceland after accusing her father of keeping her captive.
+5. [Greece fires: Foreign teams join battle on Evia island](https://www.bbc.co.uk/news/world-europe-58160938) - Several European countries are helping Greece to tackle the blazes ravaging parched forests.
 6. [Florida governor says no salaries for school leaders requiring masks](https://www.bbc.co.uk/news/world-us-canada-58162329) - As cases rise across the US, Florida's governor argues school mask rules infringe on parent rights.
 7. [Anger as Nigerian diplomat manhandled in Indonesia](https://www.bbc.co.uk/news/world-africa-58159675) - Nigeria says there was "no justification" for an official's mistreatment by immigration officers.
 8. [North Korea leaves hotline with South unanswered during military drills](https://www.bbc.co.uk/news/world-asia-58162289) - Tensions have risen in the Korean peninsula as South Korea and the US hold joint military drills.

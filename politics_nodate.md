@@ -1,6 +1,6 @@
 1. [David Cameron personally promoted Greensill to investors](https://www.bbc.co.uk/news/business-58160208) - BBC Panorama finds Mr Cameron appeared alongside the controversial company's founder at a 2019 event.
 2. [Covid-19: More than 75% of UK adults now double-jabbed](https://www.bbc.co.uk/news/uk-58162318) - But Oxford vaccine chief Prof Sir Andrew Pollard warns Covid herd immunity is "not a possibility".
-3. [Oxford-jab chief criticises UK's Covid booster plan](https://www.bbc.co.uk/news/health-58159573) - But the health secretary says he plans to begin their rollout in a matter of weeks.
+3. [Oxford-jab chief criticises UK's Covid booster plan](https://www.bbc.co.uk/news/health-58159573) - Health Secretary Sajid Javid says he plans to begin the third jab rollout in a matter of weeks.
 4. [A-level results 2021: Top grades reach record high](https://www.bbc.co.uk/news/education-58086908) - The second year of results after cancelled exams sees the highest level of A* and A grades at A-level.
 5. [Humza Yousaf launches legal action over Dundee nursery 'discrimination'](https://www.bbc.co.uk/news/uk-scotland-tayside-central-58147135) - Humza Yousaf says his daughter was twice refused a place at the nursery, which denies discrimination.
 6. [Climate change: Make coal history says PM after climate warning](https://www.bbc.co.uk/news/uk-58144779) - Boris Johnson calls for a shift towards clean energy sources after "sobering" report on climate change.

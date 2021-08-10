@@ -1,6 +1,6 @@
 1. [Dungannon: Pair in court over death of Ali Jayden Doyle](https://www.bbc.co.uk/news/uk-northern-ireland-58154764) - Ali Jayden Doyle died in hospital on Friday after an ambulance was called to a house in Dungannon.
 2. [A-level results: Record rate of top grades for NI students](https://www.bbc.co.uk/news/uk-northern-ireland-58152067) - More than half of A-level entries in Northern Ireland have been awarded the top A* and A grades.
-3. [Covid-19: 80% of younger patients not vaccinated, says chief scientist](https://www.bbc.co.uk/news/uk-northern-ireland-58157207) - New figures show that 91 out of 114 Covid-19 hospital patients under 60 are "totally unvaccinated".
+3. [Covid-19: Unvaccinated dad speaks of four-day ventilator ordeal](https://www.bbc.co.uk/news/uk-northern-ireland-58157207) - Gerald Prentice, who spent four days on a ventilator, says he has "no doubt" a jab would have helped.
 4. [Tokyo Olympics: Kellie Harrington given hero's welcome on Dublin return](https://www.bbc.co.uk/news/world-europe-58162347) - Kellie Harrington's return home to Portland Row in Dublin "better than St Paddy's Day".
 5. [Euro Auctions: Brothers delighted with £775m deal for Tyrone firm](https://www.bbc.co.uk/news/uk-northern-ireland-58165295) - Euro Auctions, set up in 1988 as a family business, was sold to a Canadian firm for more than $1bn.
 6. [Covid-19: Two more deaths and 1,305 new coronavirus cases](https://www.bbc.co.uk/news/uk-northern-ireland-58162340) - The total number of deaths linked to Covid-19 in NI since the start of the pandemic is 2,230.

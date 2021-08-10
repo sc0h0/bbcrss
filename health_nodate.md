@@ -1,4 +1,4 @@
-1. [Oxford-jab chief criticises UK's Covid booster plan](https://www.bbc.co.uk/news/health-58159573) - But the health secretary says he plans to begin their rollout in a matter of weeks.
+1. [Oxford-jab chief criticises UK's Covid booster plan](https://www.bbc.co.uk/news/health-58159573) - Health Secretary Sajid Javid says he plans to begin the third jab rollout in a matter of weeks.
 2. [Artificial Intelligence may diagnose dementia in a day](https://www.bbc.co.uk/news/health-57934589) - The system being tested should spot the disease long before symptoms or obvious brain signs develop.
 3. [Anger at overflowing Covid test drop boxes](https://www.bbc.co.uk/news/business-58149951) - Provider Randox says it is increasing collections but the tests for UK arrivals are branded "pointless".
 4. [Rhyl cancer patient suffered from 'alarming failings' at Glan Clwyd Hospital](https://www.bbc.co.uk/news/uk-wales-58151073) - Ann Jones, 69, died after "alarming failings" at Wales' largest health board, says ombudsman.
