@@ -1,4 +1,4 @@
-1. [New York Governor Andrew Cuomo resigns in wake of harassment report](https://www.bbc.co.uk/news/world-us-canada-58164719) - The Democrat says he will "step aside" after an inquiry found he sexually harassed multiple women.
+1. [New York Governor Andrew Cuomo resigns in wake of harassment report](https://www.bbc.co.uk/news/world-us-canada-58164719) - The Democrat says he will step aside after an inquiry found he sexually harassed multiple women.
 2. [Ethiopia PM Abiy Ahmed calls on civilians to join Tigray war](https://www.bbc.co.uk/news/world-africa-58163641) - Abiy Ahmed has asked all "capable" Ethiopians to join the fight against resurgent Tigrayan rebels.
 3. [Lithuania to build fence on Belarus border to stop migrants](https://www.bbc.co.uk/news/world-europe-58163073) - Tensions are running high with Belarus after a surge of non-EU migrants into Lithuania.
 4. [Princess Latifa: Campaign to free Dubai ruler's daughter disbanded](https://www.bbc.co.uk/news/world-middle-east-58156419) - The Dubai ruler's daughter was pictured in Iceland after accusing her father of keeping her captive.
@@ -7,8 +7,8 @@
 7. [Anger as Nigerian diplomat manhandled in Indonesia](https://www.bbc.co.uk/news/world-africa-58159675) - Nigeria says there was "no justification" for an official's mistreatment by immigration officers.
 8. [North Korea leaves hotline with South unanswered during military drills](https://www.bbc.co.uk/news/world-asia-58162289) - Tensions have risen in the Korean peninsula as South Korea and the US hold joint military drills.
 9. [Infrastructure bill: $1tn for clean energy, internet, trains and more](https://www.bbc.co.uk/news/world-us-canada-58152467) - The $1tn bill takes aim at issues from buckling bridges to global warming and remote working.
-10. [Mexican drug cartel threatens to kill TV reporter](https://www.bbc.co.uk/news/world-latin-america-58153732) - In a video featuring heavily armed men the prominent female journalist is accused of unfair coverage.
-11. [Odeon owner AMC to accept payment in Bitcoin](https://www.bbc.co.uk/news/business-58163914) - Cinemagoers will be able to by tickets and popcorn using the cryptocurrency, says the US chain.
+10. [I Am Legend screenwriter dismisses anti-vax claims based on film's plot](https://www.bbc.co.uk/news/entertainment-arts-58164833) - A sci-fi writer hits back at unfounded rumours that Covid jabs turn people into zombies.
+11. [Odeon owner AMC to accept payment in Bitcoin](https://www.bbc.co.uk/news/business-58163914) - Cinemagoers will be able to buy tickets and popcorn using the cryptocurrency, says the US chain.
 12. [Olivia Podmore: New Zealand Olympic cyclist dies aged 24](https://www.bbc.co.uk/sport/cycling/58157072) - New Zealand Olympic cyclist Olivia Podmore dies at the age of 24, Cycling New Zealand announces.
 13. [Biden's unlikely plan to use roads to fight racism](https://www.bbc.co.uk/news/world-us-canada-58106414) - An infrastructure package that seeks to address inequality gets a mixed reception on the ground.
 14. [Olympic medals: An alternative table - with US 15th](https://www.bbc.co.uk/news/world-us-canada-58143550) - How would the medals table look if population and wealth were taken into account?

@@ -1,5 +1,5 @@
 1. [David Cameron personally promoted Greensill to investors](https://www.bbc.co.uk/news/business-58160208) - Tue, 10 Aug 2021 14:28:08 GMT - BBC Panorama finds Mr Cameron appeared alongside the controversial company's founder at a 2019 event.
-2. [Odeon owner AMC to accept payment in Bitcoin](https://www.bbc.co.uk/news/business-58163914) - Tue, 10 Aug 2021 17:25:56 GMT - Cinemagoers will be able to by tickets and popcorn using the cryptocurrency, says the US chain.
+2. [Odeon owner AMC to accept payment in Bitcoin](https://www.bbc.co.uk/news/business-58163914) - Tue, 10 Aug 2021 17:25:56 GMT - Cinemagoers will be able to buy tickets and popcorn using the cryptocurrency, says the US chain.
 3. [JetBlue to launch NY-UK flights despite pandemic](https://www.bbc.co.uk/news/business-58156118) - Tue, 10 Aug 2021 13:24:35 GMT - The airline says there is "strong demand" for the route as the global travel industry recovers.
 4. [No auction showdown in battle to buy asthma firm](https://www.bbc.co.uk/news/business-58156122) - Tue, 10 Aug 2021 18:23:17 GMT - Philip Morris and private equity firm Carlyle have placed bids to buy drugmaker Vectura.
 5. [Paddy Power owner betting shop revenue rebounds](https://www.bbc.co.uk/news/business-58156250) - Tue, 10 Aug 2021 14:54:11 GMT - Gambling giant Flutter says shop revenue jumps as number of gamblers leaps by 40%.

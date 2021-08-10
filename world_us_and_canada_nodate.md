@@ -1,4 +1,4 @@
-1. [New York Governor Andrew Cuomo resigns in wake of harassment report](https://www.bbc.co.uk/news/world-us-canada-58164719) - The Democrat says he will "step aside" after an inquiry found he sexually harassed multiple women.
+1. [New York Governor Andrew Cuomo resigns in wake of harassment report](https://www.bbc.co.uk/news/world-us-canada-58164719) - The Democrat says he will step aside after an inquiry found he sexually harassed multiple women.
 2. [Florida governor says no salaries for school leaders requiring masks](https://www.bbc.co.uk/news/world-us-canada-58162329) - As cases rise across the US, Florida's governor argues school mask rules infringe on parent rights.
 3. [Andrew Cuomo: Time's Up leader resigns over ties to governor](https://www.bbc.co.uk/news/world-us-canada-58153726) - Roberta Kaplan was accused of trying to discredit a woman who said Mr Cuomo had harassed her.
 4. [Virginia Giuffre: Prince Andrew accuser files civil case in US](https://www.bbc.co.uk/news/uk-58153711) - Virginia Giuffre alleges the Duke of York sexually assaulted her when she was 17 years old.
