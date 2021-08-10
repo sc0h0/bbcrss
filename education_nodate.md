@@ -1,5 +1,5 @@
 1. [A-level results 2021: Top grades reach record high](https://www.bbc.co.uk/news/education-58086908) - The second year of results after cancelled exams sees the highest level of A* and A grades at A-level.
-2. [Pass rate falls slightly as Scottish pupils receive results](https://www.bbc.co.uk/news/uk-scotland-58150287) - The school qualification pass rates drop slightly on last year - but are still well above pre-pandemic levels.
+2. [Scottish results day: Record high for A grades as pass rate falls](https://www.bbc.co.uk/news/uk-scotland-58150287) - Pupils' pass rates are still well above pre-pandemic levels after formal exams were cancelled for the second year.
 3. [A-level results: Record rate of top grades for NI students](https://www.bbc.co.uk/news/uk-northern-ireland-58152067) - More than half of A-level entries in Northern Ireland have been awarded the top A* and A grades.
 4. [Nearly half achieve top A-level grades in Wales](https://www.bbc.co.uk/news/uk-wales-58148512) - A total of 48.3"% of A-level grades are A and A* in Wales, which is hailed a "remarkable achievement".
 5. [A-level results: Students have been treated fairly - watchdog](https://www.bbc.co.uk/news/education-58141518) - The head of the exams regulator defends the system for deciding grades ahead of A-level and GCSE results day.

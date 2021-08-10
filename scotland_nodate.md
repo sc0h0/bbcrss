@@ -1,4 +1,4 @@
-1. [Pass rate falls slightly as Scottish pupils receive results](https://www.bbc.co.uk/news/uk-scotland-58150287) - The school qualification pass rates drop slightly on last year - but are still well above pre-pandemic levels.
+1. [Scottish results day: Record high for A grades as pass rate falls](https://www.bbc.co.uk/news/uk-scotland-58150287) - Pupils' pass rates are still well above pre-pandemic levels after formal exams were cancelled for the second year.
 2. [Eleven people rescued from waterfalls beauty spot near Crianlarich](https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58153312) - Mountain rescue teams were called to reports of a crowd struggling amid rising water levels at the Falls of Falloch.
 3. [Scotland's papers: Climate 'catastrophe' and pass rates 'to decline'](https://www.bbc.co.uk/news/uk-scotland-58153958) - The UN warning that time is running out to combat harmful climate change makes the front pages.
 4. [Highers and Nat 5s: Four things to look out for on results day](https://www.bbc.co.uk/news/uk-scotland-58151835) - Pupils across Scotland receive confirmation of their Higher and National 5 grades.
