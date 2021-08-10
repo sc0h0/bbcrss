@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 10 Aug 2021 12:23:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Aug 2021 12:58:59 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -65,6 +65,13 @@
             <pubDate>Tue, 10 Aug 2021 09:54:47 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Vegware: Scottish eco-packaging firm bought by US group]]></title>
+            <description><![CDATA[Edinburgh-based Vegware is the second Scottish firm to be bought by a US corporation this week.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-scotland-business-58148081</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-scotland-business-58148081</guid>
+            <pubDate>Tue, 10 Aug 2021 12:56:25 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Eleven people rescued from waterfalls beauty spot near Crianlarich]]></title>
             <description><![CDATA[Mountain rescue teams were called to reports of a crowd struggling amid rising water levels at the Falls of Falloch.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58153312</link>
@@ -79,13 +86,6 @@
             <pubDate>Tue, 10 Aug 2021 05:18:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Scotland's papers: Climate 'catastrophe' and pass rates 'to decline']]></title>
-            <description><![CDATA[The UN warning that time is running out to combat harmful climate change makes the front pages.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-58153958</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58153958</guid>
-            <pubDate>Tue, 10 Aug 2021 07:00:20 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Weather warning as thunderstorms cause severe flooding]]></title>
             <description><![CDATA[Torrential downpours are causing disruption for rail users and difficult driving conditions across Scotland.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-58144882</link>
@@ -93,11 +93,11 @@
             <pubDate>Mon, 09 Aug 2021 19:30:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[COP26: Covid travel rules relaxed for overseas delegates]]></title>
-            <description><![CDATA[People attending the climate summit in Glasgow will be strongly encouraged to be fully vaccinated.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-58153616</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58153616</guid>
-            <pubDate>Mon, 09 Aug 2021 21:02:14 GMT</pubDate>
+            <title><![CDATA[Scotland's papers: Climate 'catastrophe' and pass rates 'to decline']]></title>
+            <description><![CDATA[The UN warning that time is running out to combat harmful climate change makes the front pages.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-58153958</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58153958</guid>
+            <pubDate>Tue, 10 Aug 2021 07:00:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid in Scotland: How have the rules changed?]]></title>

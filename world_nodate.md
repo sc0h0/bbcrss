@@ -2,7 +2,7 @@
 2. [China: Canadian citizen loses appeal against death penalty](https://www.bbc.co.uk/news/world-asia-china-58141758) - The verdict comes as an extradition battle in Canada for Huawei executive Meng Wanzhou continues.
 3. [Greece fires: PM apologises as blazes rage on Evia island](https://www.bbc.co.uk/news/world-europe-58152324) - Kyriakos Mitsotakis says Greece is facing an unprecedented natural disaster, as public anger grows.
 4. [Andrew Cuomo: Time's Up leader resigns over ties to governor](https://www.bbc.co.uk/news/world-us-canada-58153726) - Roberta Kaplan was accused of trying to discredit a woman who said Mr Cuomo had harassed her.
-5. [Princess Latifa: Campaign to free Dubai ruler's daughter disbanded](https://www.bbc.co.uk/news/world-middle-east-58156419) - It comes after the daughter of the ruler of Dubai was pictured with her cousin in Iceland.
+5. [Princess Latifa: Campaign to free Dubai ruler's daughter disbanded](https://www.bbc.co.uk/news/world-middle-east-58156419) - The Dubai ruler's daughter was pictured in Iceland after accusing her father of keeping her captive.
 6. [Virginia Giuffre: Prince Andrew accuser files civil case in US](https://www.bbc.co.uk/news/uk-58153711) - Virginia Giuffre alleges the Duke of York sexually assaulted her when she was 17 years old.
 7. [Artificial Intelligence may diagnose dementia in a day](https://www.bbc.co.uk/news/health-57934589) - The system being tested should spot the disease long before symptoms or obvious brain signs develop.
 8. [Mexican drug cartel threatens to kill TV reporter](https://www.bbc.co.uk/news/world-latin-america-58153732) - In a video featuring heavily armed men the prominent female journalist is accused of unfair coverage.

@@ -1,4 +1,4 @@
-1. [Princess Latifa: Campaign to free Dubai ruler's daughter disbanded](https://www.bbc.co.uk/news/world-middle-east-58156419) - It comes after the daughter of the ruler of Dubai was pictured with her cousin in Iceland.
+1. [Princess Latifa: Campaign to free Dubai ruler's daughter disbanded](https://www.bbc.co.uk/news/world-middle-east-58156419) - The Dubai ruler's daughter was pictured in Iceland after accusing her father of keeping her captive.
 2. [Nigerian Igbo Jewish leader arrested with Israeli visitors freed](https://www.bbc.co.uk/news/world-africa-58097200) - Lizben Agha was held for weeks without charge after becoming caught up with the three men's arrest.
 3. [Saudi Arabia to allow in vaccinated Umrah pilgrims](https://www.bbc.co.uk/news/world-middle-east-58135756) - The Islamic holy city of Mecca will allow vaccinated pilgrims to enter, the Saudi authorities say.
 4. [Saudi oil giant Aramco sees profits soar by almost 300%](https://www.bbc.co.uk/news/business-58141607) - The results were boosted by a rise in oil prices as demand recovers after the pandemic.
