@@ -1,6 +1,6 @@
-1. [A-level results: Record rate of top grades for NI students](https://www.bbc.co.uk/news/uk-northern-ireland-58152067) - More than half of A-level entries in Northern Ireland have been awarded the top A* and A grades.
-2. [Covid-19: 80% of younger patients not vaccinated, says chief scientist](https://www.bbc.co.uk/news/uk-northern-ireland-58157207) - People should seek correct information on vaccination, says the chief scientific adviser.
-3. [Dungannon: Pair charged over death of Ali Jayden Doyle](https://www.bbc.co.uk/news/uk-northern-ireland-58154764) - Ali Jayden Doyle died in hospital on Friday after an ambulance was called to a house in Dungannon.
+1. [Dungannon: Pair in court over death of Ali Jayden Doyle](https://www.bbc.co.uk/news/uk-northern-ireland-58154764) - Ali Jayden Doyle died in hospital on Friday after an ambulance was called to a house in Dungannon.
+2. [A-level results: Record rate of top grades for NI students](https://www.bbc.co.uk/news/uk-northern-ireland-58152067) - More than half of A-level entries in Northern Ireland have been awarded the top A* and A grades.
+3. [Covid-19: 80% of younger patients not vaccinated, says chief scientist](https://www.bbc.co.uk/news/uk-northern-ireland-58157207) - People should seek correct information on vaccination, says the chief scientific adviser.
 4. [Vaginal mesh: No compensation decision 'desperately unfair'](https://www.bbc.co.uk/news/uk-northern-ireland-58158937) - Women affected by vaginal mesh pain say a decision not to offer them financial help is disgraceful.
 5. [Rio Ferdinand: Speak up on mental health, urges ex-Man Utd captain](https://www.bbc.co.uk/news/uk-northern-ireland-58156259) - The ex-Man United captain is in Belfast for the Chelsea and Villarreal Uefa Super Cup game.
 6. [Q&A: A-level results day in Northern Ireland](https://www.bbc.co.uk/news/uk-northern-ireland-58146068) - The lowdown on A-levels in Northern Ireland as pupils receive their results on Tuesday.

@@ -4,8 +4,8 @@
 4. [Rhyl cancer patient suffered from 'alarming failings' at Glan Clwyd Hospital](https://www.bbc.co.uk/news/uk-wales-58151073) - Ann Jones, 69, died after "alarming failings" at Wales' largest health board, says ombudsman.
 5. [A-Level results: Hackney twins secure Oxbridge places](https://www.bbc.co.uk/news/uk-england-london-58156170) - Emmanuel and Ebenezer Boakye say growing up in a single-parent family made them determined to thrive.
 6. [Messi 'agrees Paris St-Germain deal'](https://www.bbc.co.uk/sport/football/58159464) - Lionel Messi agrees a two-year deal with Paris St-Germain to join the French club, says BBC Sport columnist Guillem Balague.
-7. [Second-hand car sales soar amid shortage of new models](https://www.bbc.co.uk/news/business-58150025) - Used car transactions have more than doubled in the last few months, according to the industry body.
-8. [Victoria station: One dead and two injured in bus crash](https://www.bbc.co.uk/news/uk-england-london-58097961) - Two buses were involved in a crash during rush hour outside Victoria train station in London.
+7. [Victoria station: One dead and two injured in bus crash](https://www.bbc.co.uk/news/uk-england-london-58097961) - Two buses were involved in a crash during rush hour outside Victoria train station in London.
+8. [Second-hand car sales soar amid shortage of new models](https://www.bbc.co.uk/news/business-58150025) - Used car transactions have more than doubled in the last few months, according to the industry body.
 9. [JetBlue to launch NY-UK flights despite pandemic](https://www.bbc.co.uk/news/business-58156118) - The airline says there is "strong demand" for the route as the global travel industry recovers.
 10. [China: Canadian citizen loses appeal against death penalty](https://www.bbc.co.uk/news/world-asia-china-58141758) - The verdict comes as an extradition battle in Canada for Huawei executive Meng Wanzhou continues.
 11. [Mexican drug cartel threatens to kill TV reporter](https://www.bbc.co.uk/news/world-latin-america-58153732) - In a video featuring heavily armed men the prominent female journalist is accused of unfair coverage.
