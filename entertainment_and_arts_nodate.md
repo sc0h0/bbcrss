@@ -1,6 +1,6 @@
-1. [How TV's The Windsors is making its unregal stage debut](https://www.bbc.co.uk/news/entertainment-arts-58101586) - The creator and cast of the royal comedy satire take us behind the scenes of their West End show.
-2. [Stephen Lawrence drama 'celebrates common decency'](https://www.bbc.co.uk/news/entertainment-arts-58112588) - Steve Coogan says it was an honour to play the man who helped convict two men for the teen's murder.
-3. [Christina Applegate: US actress reveals MS diagnosis](https://www.bbc.co.uk/news/entertainment-arts-58148105) - The Dead To Me star says she was diagnosed with the condition a few months ago.
+1. [Stephen Lawrence drama 'celebrates common decency'](https://www.bbc.co.uk/news/entertainment-arts-58112588) - Steve Coogan says it was an honour to play the man who helped convict two men for the teen's murder.
+2. [Christina Applegate: US actress reveals MS diagnosis](https://www.bbc.co.uk/news/entertainment-arts-58148105) - The Dead To Me star says she was diagnosed with the condition a few months ago.
+3. [How TV's The Windsors is making its unregal stage debut](https://www.bbc.co.uk/news/entertainment-arts-58101586) - The creator and cast of the royal comedy satire take us behind the scenes of their West End show.
 4. [Strictly Come Dancing: BBC Breakfast's Dan Walker joins 2021 line-up](https://www.bbc.co.uk/news/entertainment-arts-58089932) - He joins Katie McGlynn, Sara Davies, Robert Webb, Tom Fletcher, Rhys Stevenson and others.
 5. [R. Kelly: Jury selection begins in singer's sex trafficking trial](https://www.bbc.co.uk/news/world-us-canada-58151775) - The R&B singer appears in court in New York, as potential jurors are questioned ahead of his trial.
 6. [Has Banksy been on an East Anglian seaside 'spraycation'?](https://www.bbc.co.uk/news/uk-england-norfolk-58145220) - Are new murals that have appeared on England's east coast really the work of the elusive artist?

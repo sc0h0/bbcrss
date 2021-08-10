@@ -11,16 +11,23 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 10 Aug 2021 10:24:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Aug 2021 10:41:28 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
             <title><![CDATA[Mexican drug cartel threatens to kill TV reporter]]></title>
-            <description><![CDATA[Men claiming to represent Mexico's most powerful drug cartel accused the anchor of unfair coverage.]]></description>
+            <description><![CDATA[In a video featuring heavily armed men the prominent female journalist is accused of unfair coverage.]]></description>
             <link>https://www.bbc.co.uk/news/world-latin-america-58153732</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-latin-america-58153732</guid>
-            <pubDate>Tue, 10 Aug 2021 06:44:52 GMT</pubDate>
+            <pubDate>Tue, 10 Aug 2021 10:28:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lionel Messi agrees Paris St-Germain deal after Barcelona exit - Guillem Balague]]></title>
+            <description><![CDATA[Lionel Messi agrees a deal with Paris St-Germain to join the French club, says BBC Sport columnist Guillem Balague.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58159464</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58159464</guid>
+            <pubDate>Tue, 10 Aug 2021 10:36:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Climate change: At-risk nations fear extinction after IPCC report]]></title>
@@ -28,13 +35,6 @@
             <link>https://www.bbc.co.uk/news/world-58064485</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-58064485</guid>
             <pubDate>Mon, 09 Aug 2021 17:11:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lionel Messi: Paris St-Germain move 'a possibility' after Barcelona exit]]></title>
-            <description><![CDATA[A tearful Lionel Messi says joining Paris St-Germain from Barcelona is "a possibility, but nothing is agreed".]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58137262</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58137262</guid>
-            <pubDate>Sun, 08 Aug 2021 12:18:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Cuba allows small and medium-sized private businesses]]></title>
@@ -107,6 +107,13 @@
             <pubDate>Thu, 22 Jul 2021 23:20:22 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Lionel Messi: Barcelona star in tears as he receives ovation news conference]]></title>
+            <description><![CDATA[Lionel Messi is distraught as he receives a standing ovation from team-mates, journalists, officials and his family at a news conference confirming his departure from Barcelona.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/football/58137848</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/58137848</guid>
+            <pubDate>Sun, 08 Aug 2021 11:05:10 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA['Quicker, faster, better!' - Thompson-Herah's 'double-double']]></title>
             <description><![CDATA[Elaine Thompson-Herah confirms her place among the pantheon of sprint greats as she completes an Olympic 100m-200m double for the second time with a sensational victory in Tokyo.]]></description>
             <link>https://www.bbc.co.uk/sport/av/olympics/58075391</link>
@@ -140,13 +147,6 @@
             <link>https://www.bbc.co.uk/news/world-us-canada-57869119</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57869119</guid>
             <pubDate>Fri, 16 Jul 2021 16:32:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Debbie Harry on Blondie's 'monumental' Cuba trip and her reunion demands]]></title>
-            <description><![CDATA[The star recalls two historic concerts in Havana, and reveals her demand before reforming Blondie.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-57808649</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-57808649</guid>
-            <pubDate>Thu, 15 Jul 2021 00:19:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
