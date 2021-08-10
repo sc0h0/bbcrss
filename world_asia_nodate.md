@@ -2,7 +2,7 @@
 2. [TikTok named as the most downloaded app of 2020](https://www.bbc.co.uk/news/business-58155103) - The Chinese app's popularity comes even after former President Donald Trump tried to ban it in the US.
 3. [China elephants: 150,000 evacuated from path of trekking herd](https://www.bbc.co.uk/news/world-asia-china-58156099) - The herd is finally headed for home after an extraordinary 17-month migration in Yunnan province.
 4. [Malaysian singer dies of Covid days after giving birth](https://www.bbc.co.uk/news/world-asia-58155203) - Siti Sarah Raisuddin never got to hold her newborn son, who was delivered via a three-hour surgery.
-5. [Why South Korean women are reclaiming their short hair](https://www.bbc.co.uk/news/world-asia-58082355) - Thousands proudly show off their short hair after an Olympic athlete is criticised for her haircut.
+5. [Anger as Nigerian diplomat manhandled in Indonesia](https://www.bbc.co.uk/news/world-africa-58159675) - Nigeria demands answers after an official's mistreatment at the hands of immigration officers.
 6. [Climate change: The IPCC environmental warning India cannot ignore](https://www.bbc.co.uk/news/world-asia-india-58155294) - It is the world's third largest carbon emitter, but hasn't set a date for becoming carbon neutral.
 7. [Jantar Mantar: India police arrest six over anti-Muslim rally](https://www.bbc.co.uk/news/world-asia-india-58155301) - The arrests came after anti-Islamic slogans were raised at an event in Delhi on Sunday.
 8. [China sues Tencent over WeChat Youth Mode](https://www.bbc.co.uk/news/technology-58145808) - Authorities allege the messaging app is violating Chinese law that aims to protect minors.
@@ -12,8 +12,9 @@
 12. [Quan Hongchan: Chinese teen diving star's village mobbed by fans](https://www.bbc.co.uk/news/world-asia-china-58141676) - Quan Hongchan's village has been sealed off after being mobbed by people searching for selfies.
 13. [Thailand man charged over death of Swiss tourist near waterfall](https://www.bbc.co.uk/news/world-asia-58141926) - The 27-year-old man has been charged with murdering the 57-year-old woman.
 14. [Alibaba to sack manager accused of rape, according to memo seen by BBC](https://www.bbc.co.uk/news/business-58141606) - The move comes after a woman's allegations of sexual assault went viral on Chinese social media.
-15. [Why China's climate policy matters to us all](https://www.bbc.co.uk/news/world-asia-china-57483492) - The global battle against climate change is likely to be won or lost in China.
+15. [Why South Korean women are reclaiming their short hair](https://www.bbc.co.uk/news/world-asia-58082355) - Thousands proudly show off their short hair after an Olympic athlete is criticised for her haircut.
 16. ['Smallest baby at birth' home after 13 months in hospital](https://www.bbc.co.uk/news/world-asia-58141756) - Kwek Yu Xuan weighed only 212g - the weight of an apple - when she was born in Singapore last year.
-17. [Afghanistan: Why is there a war?](https://www.bbc.co.uk/news/world-asia-49192495) - As foreign forces pull out after 20 years of war, what did it achieve and what happens next?
-18. [Johnson & Johnson: What we know about India's new Covid vaccines](https://www.bbc.co.uk/news/world-asia-india-55748124) - India has approved Johnson & Johnson's single-dose vaccine as it ramps up production and procurement.
-19. [Assam-Mizoram clash: 'It was like a war between two countries'](https://www.bbc.co.uk/news/world-asia-india-58066768) - A long-running border dispute is affecting relations between two neighbouring Indian states.
+17. [Why China's climate policy matters to us all](https://www.bbc.co.uk/news/world-asia-china-57483492) - The global battle against climate change is likely to be won or lost in China.
+18. [Afghanistan: Why is there a war?](https://www.bbc.co.uk/news/world-asia-49192495) - As foreign forces pull out after 20 years of war, what did it achieve and what happens next?
+19. [Johnson & Johnson: What we know about India's new Covid vaccines](https://www.bbc.co.uk/news/world-asia-india-55748124) - India has approved Johnson & Johnson's single-dose vaccine as it ramps up production and procurement.
+20. [Assam-Mizoram clash: 'It was like a war between two countries'](https://www.bbc.co.uk/news/world-asia-india-58066768) - A long-running border dispute is affecting relations between two neighbouring Indian states.
