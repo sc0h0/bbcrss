@@ -1,7 +1,7 @@
 1. [Tanzania President Samia: We're here to show that women can lead](https://www.bbc.co.uk/news/world-africa-58144849) - When Samia Suluhu Hassan first became Tanzania's president some doubted her, she tells the BBC.
 2. [Nigerian Igbo Jewish leader arrested with Israeli visitors freed](https://www.bbc.co.uk/news/world-africa-58097200) - Lizben Agha was held for weeks without charge after becoming caught up with the three men's arrest.
-3. [Malta: The teenagers pulled from the sea and accused of terrorism](https://www.bbc.co.uk/news/world-57988934) - How three teenagers rescued from the Mediterranean Sea ended up in Malta accused of terrorism.
-4. [Africa's golden moments from Tokyo 2020](https://www.bbc.co.uk/sport/africa/58140946) - BBC Sport Africa's Celestine Karoney digs out Africa's golden moments from Tokyo 2020.
+3. [Africa's golden moments from Tokyo 2020](https://www.bbc.co.uk/sport/africa/58140946) - BBC Sport Africa's Celestine Karoney digs out Africa's golden moments from Tokyo 2020.
+4. [Malta: The teenagers pulled from the sea and accused of terrorism](https://www.bbc.co.uk/news/world-57988934) - How three teenagers rescued from the Mediterranean Sea ended up in Malta accused of terrorism.
 5. [Mozambique insurgency: Key port retaken from insurgents - Rwanda](https://www.bbc.co.uk/news/world-africa-58138507) - Mocímboa da Praia was the Islamist militants' last stronghold in northern Mozambique, Rwanda says.
 6. [Outrage after Zimbabwean girl, 14, dies giving birth at church shrine](https://www.bbc.co.uk/news/world-africa-58130891) - Memory Machaya's death at a church leads to calls for the government to end forced child marriage.
 7. [Nigeria kidnappings: Chibok schoolgirl returns home seven years on](https://www.bbc.co.uk/news/world-africa-58138504) - More than 270 girls were seized by Islamist militants in 2014, and many of them are still missing.

@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 10 Aug 2021 05:56:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Aug 2021 06:22:30 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -21,6 +21,13 @@
             <link>https://www.bbc.co.uk/news/uk-58149765</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58149765</guid>
             <pubDate>Mon, 09 Aug 2021 16:14:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[High grades expected as A-level results revealed]]></title>
+            <description><![CDATA[For a second year, students will be receiving results for exams cancelled in the pandemic.]]></description>
+            <link>https://www.bbc.co.uk/news/education-58086908</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/education-58086908</guid>
+            <pubDate>Mon, 09 Aug 2021 23:48:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Climate change: IPCC report is 'code red for humanity']]></title>
@@ -42,13 +49,6 @@
             <link>https://www.bbc.co.uk/news/uk-politics-58144227</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-58144227</guid>
             <pubDate>Mon, 09 Aug 2021 10:32:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[COP26: How serious is the government about climate conference?]]></title>
-            <description><![CDATA[With less than 90 days to go to Glasgow climate summit, there is uncertainty surrounding the event.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-58107010</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-58107010</guid>
-            <pubDate>Thu, 05 Aug 2021 20:10:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Geronimo the alpaca: Protesters march on Downing Street]]></title>
@@ -77,6 +77,13 @@
             <link>https://www.bbc.co.uk/news/education-58141518</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/education-58141518</guid>
             <pubDate>Mon, 09 Aug 2021 09:15:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[COP26: How serious is the government about climate conference?]]></title>
+            <description><![CDATA[With less than 90 days to go to Glasgow climate summit, there is uncertainty surrounding the event.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-58107010</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-58107010</guid>
+            <pubDate>Thu, 05 Aug 2021 20:10:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[NHS waiting lists could rise to 14 million in England next year - report]]></title>
