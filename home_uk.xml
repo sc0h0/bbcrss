@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 10 Aug 2021 07:44:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Aug 2021 07:51:27 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -58,6 +58,13 @@
             <pubDate>Tue, 10 Aug 2021 05:02:11 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Climate change: At-risk nations fear extinction after IPCC report]]></title>
+            <description><![CDATA[The most vulnerable developing countries plead for action after a stark warning from a UN panel.]]></description>
+            <link>https://www.bbc.co.uk/news/world-58064485</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-58064485</guid>
+            <pubDate>Mon, 09 Aug 2021 17:11:45 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[China: Canadian citizen loses appeal against death penalty]]></title>
             <description><![CDATA[The verdict comes as an extradition battle in Canada for Huawei executive Meng Wanzhou is ongoing.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-china-58141758</link>
@@ -86,13 +93,6 @@
             <pubDate>Tue, 10 Aug 2021 04:28:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Friends narrowly escape flooding lift]]></title>
-            <description><![CDATA[Three residents were caught in a storm surge in Omaha, Nebraska, and recorded their ordeal.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-58154056</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-58154056</guid>
-            <pubDate>Mon, 09 Aug 2021 21:50:49 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Greensill: David Cameron 'made $10m' before company’s collapse]]></title>
             <description><![CDATA[A letter indicates the former PM received millions from shares in the controversial collapsed firm.]]></description>
             <link>https://www.bbc.co.uk/news/uk-58149765</link>
@@ -119,6 +119,13 @@
             <link>https://www.bbc.co.uk/news/world-asia-58147426</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58147426</guid>
             <pubDate>Mon, 09 Aug 2021 23:03:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Friends narrowly escape flooding lift]]></title>
+            <description><![CDATA[Three residents were caught in a storm surge in Omaha, Nebraska, and recorded their ordeal.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-58154056</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-58154056</guid>
+            <pubDate>Mon, 09 Aug 2021 21:50:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Baby loss: 'Our world grows around the grief']]></title>
