@@ -6,7 +6,7 @@
 6. [Friends narrowly escape flooding elevator](https://www.bbc.co.uk/news/world-us-canada-58154056) - Three residents were caught in a storm surge in Omaha, Nebraska, and recorded their ordeal.
 7. [Dixie Fire: Firefighters tackle historic California wildfire](https://www.bbc.co.uk/news/world-us-canada-58141340) - The Dixie Fire has burned through more than 489,000 acres and could take weeks to extinguish.
 8. [Jeffrey Epstein victims' fund awards $121m to survivors](https://www.bbc.co.uk/news/world-us-canada-58152207) - About 150 people who were sexually abused by the disgraced New York financier have received payouts.
-9. [Biden's plan to tackle racism with roads](https://www.bbc.co.uk/news/world-us-canada-58106414) - An infrastructure package that seeks to address inequality gets a mixed reception on the ground.
+9. [Biden's unlikely plan to use roads to fight racism](https://www.bbc.co.uk/news/world-us-canada-58106414) - An infrastructure package that seeks to address inequality gets a mixed reception on the ground.
 10. [Olympic medals: An alternative table - with US 15th](https://www.bbc.co.uk/news/world-us-canada-58143550) - How would the medals table look if population and wealth were taken into account?
 11. [Abba Kyari: The Nigerian super sleuth wanted in the US](https://www.bbc.co.uk/news/world-africa-58079504) - Highly decorated policeman Abba Kyari's reputation is under scrutiny over alleged fraud.
 12. [Mayflower 400 years: How many people are related to the Mayflower pilgrims?](https://www.bbc.co.uk/news/world-us-canada-57698818) - For some, the17th century "pilgrim fathers" are also real-life ancestors. But for how many?

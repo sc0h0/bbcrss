@@ -5,7 +5,7 @@
 5. [London's Tower Bridge stuck open after technical failure](https://www.bbc.co.uk/news/uk-england-london-58149716) - Police warn drivers to avoid roads around the famous London landmark after the technical failure.
 6. [Eleven people rescued from waterfalls beauty spot near Crianlarich](https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58153312) - Mountain rescue teams were called to reports of a crowd struggling amid rising water levels at the Falls of Falloch.
 7. [Artificial Intelligence may diagnose dementia in a day](https://www.bbc.co.uk/news/health-57934589) - The system being tested should spot the disease long before symptoms or obvious brain signs develop.
-8. [Afghanistan war: At least 27 children killed in three days, UN says](https://www.bbc.co.uk/news/world-asia-58142983) - Unicef says 27 deaths were recorded in three regions over 72 hours, amid rising violence.
+8. [China: Canadian citizen loses appeal against death penalty](https://www.bbc.co.uk/news/world-asia-china-58141758) - The verdict comes as an extradition battle in Canada for Huawei executive Meng Wanzhou is ongoing.
 9. [Greensill: David Cameron 'made $10m' before company’s collapse](https://www.bbc.co.uk/news/uk-58149765) - A letter indicates the former PM received millions from shares in the controversial collapsed firm.
 10. [Mexican drug cartel threatens to kill TV reporter](https://www.bbc.co.uk/news/world-latin-america-58153732) - Men claiming to represent Mexico's most powerful drug cartel accused the anchor of unfair coverage.
 11. [Anger at overflowing Covid test drop boxes](https://www.bbc.co.uk/news/business-58149951) - Provider Randox says it is increasing collections but the tests for UK arrivals are branded "pointless".
@@ -30,7 +30,7 @@
 30. [Afghanistan: Why is there a war?](https://www.bbc.co.uk/news/world-asia-49192495) - As foreign forces pull out after 20 years of war, what did it achieve and what happens next?
 31. [Olympic medals: An alternative table - with US 15th](https://www.bbc.co.uk/news/world-us-canada-58143550) - How would the medals table look if population and wealth were taken into account?
 32. [Why South Korean women are reclaiming their short hair](https://www.bbc.co.uk/news/world-asia-58082355) - Thousands proudly show off their short hair after an Olympic athlete is criticised for her haircut.
-33. [Biden's plan to tackle racism with roads](https://www.bbc.co.uk/news/world-us-canada-58106414) - An infrastructure package that seeks to address inequality gets a mixed reception on the ground.
+33. [Biden's unlikely plan to use roads to fight racism](https://www.bbc.co.uk/news/world-us-canada-58106414) - An infrastructure package that seeks to address inequality gets a mixed reception on the ground.
 34. [Sharing apps are booming but will the kindness continue?](https://www.bbc.co.uk/news/business-57981598) - The pandemic sparked a surge in activity for sharing apps like Olio but has the trend run its course?
 35. [Stephen Lawrence drama 'celebrates common decency'](https://www.bbc.co.uk/news/entertainment-arts-58112588) - Steve Coogan says it was an honour to play the man who helped convict two men for the teen's murder.
 36. [How TV's The Windsors is making its unregal stage debut](https://www.bbc.co.uk/news/entertainment-arts-58101586) - The creator and cast of the royal comedy satire take us behind the scenes of their West End show.
