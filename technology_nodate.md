@@ -1,5 +1,5 @@
 1. [Z Fold 3: Samsung aims to take folding phones mainstream](https://www.bbc.co.uk/news/technology-58175048) - The electronics giant hopes lower prices and improved durability will make folding phones catch on.
-2. [Instagram launches abuse 'limits' to hide hate speech](https://www.bbc.co.uk/news/technology-58173921) - Instagram launches a feature to automatically hide most comments during "spikes" of abuse.
+2. [Instagram launches 'limits' to hide abusive messages](https://www.bbc.co.uk/news/technology-58173921) - Instagram launches a feature to automatically hide most comments during "spikes" of abuse.
 3. [Hackers steal $600m in major cryptocurrency heist](https://www.bbc.co.uk/news/business-58163917) - Thousands of digital tokens have been stolen by hackers in one of the largest cryptocurrency heists.
 4. [Facebook removes anti-vax influencer campaign](https://www.bbc.co.uk/news/blogs-trending-58167339) - Facebook has removed hundreds of accounts linked to a anti-vaccine campaign operated from Russia.
 5. [Google may cut pay of staff who work from home](https://www.bbc.co.uk/news/business-58171716) - The tech giant has developed a calculator that lets staff see the effects of remote working.

@@ -35,7 +35,7 @@
 35. [How do we know Covid vaccines are safe?](https://www.bbc.co.uk/news/health-55056016) - Mon, 10 May 2021 17:16:50 GMT - Busting myths and explaining the facts around vaccines.
 36. [Coronavirus: What it does to the body](https://www.bbc.co.uk/news/health-51214864) - Sat, 14 Mar 2020 01:02:03 GMT - What is it like to have the coronavirus, how will it affect you and how is it treated?
 37. [Support bubbles: How do they work and who is in yours?](https://www.bbc.co.uk/news/health-52637354) - Wed, 06 Jan 2021 10:41:25 GMT - Some people across the UK have been able to form "support bubbles" or "extended households".
-38. [How to get a Covid test](https://www.bbc.co.uk/news/health-51943612) - Wed, 19 May 2021 14:06:38 GMT - Everyone in England and Scotland is being encouraged to take rapid coronavirus tests regularly.
+38. [How to get a Covid test](https://www.bbc.co.uk/news/health-51943612) - Wed, 11 Aug 2021 14:31:48 GMT - Everyone in England and Scotland is being encouraged to take rapid coronavirus tests regularly.
 39. [All you need to know on the coronavirus](https://www.bbc.co.uk/news/health-51048366) - Mon, 14 Jun 2021 11:24:35 GMT - A new cough, fever and change in smell or taste are the key symptoms that mean you may have coronavirus.
 40. [Coronavirus: Intensive care and other key terms explained](https://www.bbc.co.uk/news/health-52182658) - Sun, 03 May 2020 00:06:18 GMT - Use our tool to check the meaning of key words and phrases associated with the Covid-19 outbreak.
 41. [Coronavirus: What is the risk to men over 50?](https://www.bbc.co.uk/news/health-52197594) - Thu, 16 Apr 2020 20:03:54 GMT - While most people will have mild symptoms and recover quickly, some are more prone to getting sick.

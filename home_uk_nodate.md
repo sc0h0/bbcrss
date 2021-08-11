@@ -6,8 +6,8 @@
 6. [Julian Assange: US extradition bid gets a legal boost](https://www.bbc.co.uk/news/uk-58157955) - The US wants to put the Wikileaks founder on trial for hacking and disclosing classified information.
 7. [Climate change: Curbing methane emissions will 'buy us time'](https://www.bbc.co.uk/news/science-environment-58174111) - Scientists say that rapid cuts in methane could be a key tactic in the battle against climate change.
 8. [David Gomoh stabbing: Gang guilty of murdering NHS worker](https://www.bbc.co.uk/news/uk-england-london-58113038) - David Gomoh managed to stagger back home before dying in front of his family.
-9. [Charles and Diana's wedding cake slice sells for £1,850](https://www.bbc.co.uk/news/uk-england-gloucestershire-58173317) - The 40-year-old slice of wedding cake was bought by a buyer from Leeds.
-10. [David Cameron denies lobbying for genetics firm Illumina](https://www.bbc.co.uk/news/business-58146567) - Mr Cameron encouraged Matt Hancock to speak at a conference co-hosted by Illumina before it won a government contract.
+9. [David Cameron denies lobbying for genetics firm Illumina](https://www.bbc.co.uk/news/business-58146567) - Mr Cameron encouraged Matt Hancock to speak at a conference co-hosted by Illumina before it won a government contract.
+10. [Charles and Diana's wedding cake slice sells for £1,850](https://www.bbc.co.uk/news/uk-england-gloucestershire-58173317) - The 40-year-old slice of wedding cake was bought by a buyer from Leeds.
 11. [Love Island: Faye and Teddy's row sparks record 25,000 Ofcom complaints](https://www.bbc.co.uk/news/entertainment-arts-58162817) - Faye and Teddy's Casa Amor row sparks the highest number of Ofcom complaints in the show's history.
 12. [Max Woosey: Camping challenge boy sleeps out for 500th night](https://www.bbc.co.uk/news/uk-england-devon-58169400) - Max Woosey reaches the milestone while spending the night in a shelter built in the woods.
 13. [Bristol Balloon Fiesta: City's largest multi-site launch](https://www.bbc.co.uk/news/uk-england-bristol-58169580) - Around 40 hot air balloons launch from five locations across Bristol as part of Fiesta Fortnight.
