@@ -21,8 +21,8 @@
 21. [Ipswich Town 0-1 Newport County: Timmy Abraham strike gives Exiles EFL Cup win at Ipswich](https://www.bbc.co.uk/sport/football/58065887) - Timmy Abraham's early goal sees Newport reach the EFL Cup second round at the expense of hosts Ipswich Town.
 22. [The Hundred: Watch as Welsh Fire's Tom Banton breaks golf club in 100 challenge](https://www.bbc.co.uk/sport/av/cricket/58106424) - The Hundred: Watch as Welsh Fire's Tom Banton breaks golf club in 100 challenge.
 23. [Flynn Downes: Swansea City sign Ipswich Town midfielder](https://www.bbc.co.uk/sport/football/58123529) - Swansea City have signed Ipswich midfielder Flynn Downes in a permanent deal worth more than £1m.
-24. [Bron i hanner graddau Safon Uwch yn A* neu A](https://www.bbc.co.uk/newyddion/58156590) - Roedd disgwyl i ganlyniadau ar draws Cymru fod yn uwch na'r rhai cyn y pandemig.
-25. [Cludo dau i'r ysbyty ar ôl i fws daro coeden ger Abertawe](https://www.bbc.co.uk/newyddion/58161667) - Bws dau lawr yn taro coeden ger Abertawe brynhawn Mawrth gan anafu nifer oedd arno.
-26. [Croeso adref i'r pencampwr Olympaidd Lauren Price](https://www.bbc.co.uk/newyddion/58161844) - Cannoedd o bobl wedi casglu ar strydoedd Ystrad Mynach i groesawu'r pencampwr Olympaidd yn ôl o Tokyo.
+24. ['Mwy o straen ar ambiwlansys nawr nag ar frig y pandemig'](https://www.bbc.co.uk/newyddion/58161664) - Staff y Gwasanaeth Ambiwlans ar ben eu tennyn, gan ddweud mai dyma'u cyfnod prysuraf erioed.
+25. [Bron i hanner graddau Safon Uwch yn A* neu A](https://www.bbc.co.uk/newyddion/58156590) - Roedd disgwyl i ganlyniadau ar draws Cymru fod yn uwch na'r rhai cyn y pandemig.
+26. [Cludo dau i'r ysbyty ar ôl i fws daro coeden ger Abertawe](https://www.bbc.co.uk/newyddion/58161667) - Bws dau lawr yn taro coeden ger Abertawe brynhawn Mawrth gan anafu nifer oedd arno.
 27. ["Yr heli yn y gwaed": Byw a bod ar y môr](https://www.bbc.co.uk/newyddion/58159182) - Mae Cai Erith Williams yn gwerthfawrogi rhyfeddodau'r môr.
 28. [Tri chlwb Cymru trwodd i ail rownd Cwpan yr EFL](https://www.bbc.co.uk/newyddion/58163676) - Caerdydd yn trechu Sutton United, Abertawe yn fuddugol yn Reading a Chasnewydd yn ennill yn Ipswich.
