@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 11 Aug 2021 13:44:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Aug 2021 13:53:39 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -37,6 +37,13 @@
             <pubDate>Wed, 11 Aug 2021 12:28:33 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Five talking points ahead of Belfast's big night]]></title>
+            <description><![CDATA[The National Stadium at Windsor Park will host the biggest club fixture ever to be held in Northern Ireland when Chelsea face Villarreal in the Uefa Super Cup on Wednesday night.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58173459</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58173459</guid>
+            <pubDate>Wed, 11 Aug 2021 13:37:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Apprentice Boys Relief of Derry parade scaled back for second year]]></title>
             <description><![CDATA[The annual parade marks the anniversary of the ending of the Siege of Derry in August 1689.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58173471</link>
@@ -51,18 +58,18 @@
             <pubDate>Wed, 11 Aug 2021 13:21:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[68,000 attended Northern Ireland emergency departments in June]]></title>
-            <description><![CDATA[The latest statistics reveal an increase of more than 24% compared to the same month last year.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58170357</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58170357</guid>
-            <pubDate>Wed, 11 Aug 2021 12:44:12 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Covid-19: Unvaccinated dad speaks of four-day ventilator ordeal]]></title>
             <description><![CDATA[Gerald Prentice, who spent four days on a ventilator, says he has "no doubt" a jab would have helped.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58157207</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58157207</guid>
             <pubDate>Tue, 10 Aug 2021 18:16:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[68,000 attended Northern Ireland emergency departments in June]]></title>
+            <description><![CDATA[The latest statistics reveal an increase of more than 24% compared to the same month last year.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58170357</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58170357</guid>
+            <pubDate>Wed, 11 Aug 2021 12:44:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Eniola Aluko: Ex-footballer calls for end to online abuse]]></title>
@@ -77,13 +84,6 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58165295</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58165295</guid>
             <pubDate>Tue, 10 Aug 2021 17:30:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Derry City: Councillors press for Brandywell funding date]]></title>
-            <description><![CDATA[The first phase of the Ryan McBride Brandywell Stadium redevelopment was completed in 2018.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58169660</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58169660</guid>
-            <pubDate>Wed, 11 Aug 2021 10:25:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Londonderry: Elemental Software bought for undisclosed sum]]></title>
@@ -233,6 +233,13 @@
             <pubDate>Tue, 10 Aug 2021 15:31:01 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Derry City: Councillors press for Brandywell funding date]]></title>
+            <description><![CDATA[The first phase of the Ryan McBride Brandywell Stadium redevelopment was completed in 2018.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58169660</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58169660</guid>
+            <pubDate>Wed, 11 Aug 2021 10:25:37 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Glenshane Pass: Man dies after car and lorry crash]]></title>
             <description><![CDATA[The 30-year-old car driver from County Londonderry died at the scene.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58143530</link>
@@ -252,13 +259,6 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58112419</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58112419</guid>
             <pubDate>Sat, 07 Aug 2021 06:46:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Londonderry man is jailed after refusing hotel quarantine]]></title>
-            <description><![CDATA[Court hears man did not quarantine after returning from Turkey because he could not afford the cost.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58119663</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58119663</guid>
-            <pubDate>Fri, 06 Aug 2021 16:09:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: Vaccines for Irish 12 to 15-year-olds start this weekend]]></title>
