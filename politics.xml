@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 11 Aug 2021 08:51:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Aug 2021 09:18:09 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -21,6 +21,13 @@
             <link>https://www.bbc.co.uk/news/business-58160208</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58160208</guid>
             <pubDate>Tue, 10 Aug 2021 14:28:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Briton suspected of spying for Russia arrested in Germany]]></title>
+            <description><![CDATA[German federal prosecutors say the UK embassy staff member passed documents to Russian intelligence.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58170872</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58170872</guid>
+            <pubDate>Wed, 11 Aug 2021 09:12:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: More than 75% of UK adults now double-jabbed]]></title>
@@ -51,6 +58,13 @@
             <pubDate>Wed, 11 Aug 2021 05:08:33 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Test and Trace boss Dido Harding to step down from NHS role]]></title>
+            <description><![CDATA[Boris Johnson promised a "world-beating" system, but it was heavily criticised during her tenure.]]></description>
+            <link>https://www.bbc.co.uk/news/health-58151615</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-58151615</guid>
+            <pubDate>Mon, 09 Aug 2021 16:29:39 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Humza Yousaf launches legal action over Dundee nursery 'discrimination']]></title>
             <description><![CDATA[Humza Yousaf says his daughter was twice refused a place at the nursery, which denies discrimination.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-tayside-central-58147135</link>
@@ -58,11 +72,11 @@
             <pubDate>Tue, 10 Aug 2021 11:11:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Test and Trace boss Dido Harding to step down from NHS role]]></title>
-            <description><![CDATA[Boris Johnson promised a "world-beating" system, but it was heavily criticised during her tenure.]]></description>
-            <link>https://www.bbc.co.uk/news/health-58151615</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-58151615</guid>
-            <pubDate>Mon, 09 Aug 2021 16:29:39 GMT</pubDate>
+            <title><![CDATA[Defibrillators: PM urged to back call for devices in all schools]]></title>
+            <description><![CDATA[Mark King, whose son died 10 years ago, says the devices should be as common fire extinguishers.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-merseyside-58150414</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-merseyside-58150414</guid>
+            <pubDate>Tue, 10 Aug 2021 12:52:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Climate change: Make coal history says PM after climate warning]]></title>
@@ -112,13 +126,6 @@
             <link>https://www.bbc.co.uk/news/uk-58149765</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58149765</guid>
             <pubDate>Mon, 09 Aug 2021 16:14:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[COP26: How serious is the government about climate conference?]]></title>
-            <description><![CDATA[With less than 90 days to go to Glasgow climate summit, there is uncertainty surrounding the event.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-58107010</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-58107010</guid>
-            <pubDate>Thu, 05 Aug 2021 20:10:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[NHS waiting lists could rise to 14 million in England next year - report]]></title>
@@ -252,6 +259,13 @@
             <link>https://www.bbc.co.uk/news/uk-politics-58151563</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-58151563</guid>
             <pubDate>Mon, 09 Aug 2021 15:58:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[COP26: How serious is the government about climate conference?]]></title>
+            <description><![CDATA[With less than 90 days to go to Glasgow climate summit, there is uncertainty surrounding the event.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-58107010</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-58107010</guid>
+            <pubDate>Thu, 05 Aug 2021 20:10:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Boris Johnson: Why mining gaffe will linger after Scottish visit]]></title>

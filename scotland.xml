@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 11 Aug 2021 08:54:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Aug 2021 09:18:09 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -21,13 +21,6 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-58163742</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58163742</guid>
             <pubDate>Wed, 11 Aug 2021 05:24:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Scotland's papers: Exam grades rise and Prince Andrew arrives at Balmoral]]></title>
-            <description><![CDATA[An increase in pupils getting A grades and accusations against Prince Andrew make the front of Scotland's papers.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-58167685</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58167685</guid>
-            <pubDate>Wed, 11 Aug 2021 07:26:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Missing hillwalker: Body found in search for Frank Smith]]></title>
@@ -42,6 +35,13 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58170900</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58170900</guid>
             <pubDate>Wed, 11 Aug 2021 08:16:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Scotland's papers: Exam grades rise and Prince Andrew arrives at Balmoral]]></title>
+            <description><![CDATA[An increase in pupils getting A grades and accusations against Prince Andrew make the front of Scotland's papers.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-58167685</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58167685</guid>
+            <pubDate>Wed, 11 Aug 2021 07:26:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Scottish results day: Record high for A grades as pass rate falls]]></title>
@@ -240,11 +240,11 @@
             <pubDate>Mon, 09 Aug 2021 07:32:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Duncan Scott: 'Plenty' to improve on before Paris 2024 Olympics]]></title>
-            <description><![CDATA[Scottish swimmer Duncan Scott insists there is "plenty" to improve on after his record haul at the Olympic Games.]]></description>
-            <link>https://www.bbc.co.uk/sport/swimming/58169927</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/swimming/58169927</guid>
-            <pubDate>Wed, 11 Aug 2021 08:49:17 GMT</pubDate>
+            <title><![CDATA[Lawrence Shankland: Dundee United sell striker to Beerschot]]></title>
+            <description><![CDATA[Dundee United sell Scotland striker Lawrence Shankland to Belgian club Beerschot for an undisclosed fee.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58156602</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58156602</guid>
+            <pubDate>Wed, 11 Aug 2021 09:09:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Champions League: Questions Rangers must answer after exit against Malmo]]></title>
@@ -252,6 +252,13 @@
             <link>https://www.bbc.co.uk/sport/football/58167639</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58167639</guid>
             <pubDate>Tue, 10 Aug 2021 23:16:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Duncan Scott: 'Plenty' to improve on before Paris 2024 Olympics]]></title>
+            <description><![CDATA[Scottish swimmer Duncan Scott insists there is "plenty" to improve on after his record haul at the Olympic Games.]]></description>
+            <link>https://www.bbc.co.uk/sport/swimming/58169927</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/swimming/58169927</guid>
+            <pubDate>Wed, 11 Aug 2021 08:49:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Scottish Gossip: Rangers, Celtic, Aberdeen, Hibernian, Dundee]]></title>
@@ -266,13 +273,6 @@
             <link>https://www.bbc.co.uk/sport/football/58165761</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58165761</guid>
             <pubDate>Tue, 10 Aug 2021 17:50:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Andy Murray in US Open main draw, Dan Evans loses, Novak Djokovic misses Cincinnati]]></title>
-            <description><![CDATA[Andy Murray is added to the US Open main draw while Dan Evans loses in Toronto and Novak Djokovic withdraws from Cincinnati.]]></description>
-            <link>https://www.bbc.co.uk/sport/tennis/58152883</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/tennis/58152883</guid>
-            <pubDate>Mon, 09 Aug 2021 22:41:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
