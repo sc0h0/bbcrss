@@ -3,7 +3,7 @@
 3. [Uefa Super Cup: Football fans urged to follow Covid rules](https://www.bbc.co.uk/news/uk-northern-ireland-58165296) - About 13,000 fans will be at the Uefa Super Cup Final at Windsor Park on Wednesday.
 4. [Eniola Aluko: Ex-footballer calls for end to online abuse](https://www.bbc.co.uk/news/uk-northern-ireland-58170263) - Former England footballer Eniola Aluko deleted her Twitter account after receiving racist abuse.
 5. [Derry City: Councillors press for Brandywell funding date](https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58169660) - The first phase of the Ryan McBride Brandywell Stadium redevelopment was completed in 2018.
-6. [United Nations 'seriously concerned' over UK Troubles legacy plan](https://www.bbc.co.uk/news/uk-northern-ireland-58170353) - Human rights experts say the plan to end Troubles-related prosecutions is of serious concern.
+6. [United Nations experts voice concern over Troubles legacy plan](https://www.bbc.co.uk/news/uk-northern-ireland-58170353) - Human rights experts say the plan to end Troubles-related prosecutions is of serious concern.
 7. [Covid-19: Unvaccinated dad speaks of four-day ventilator ordeal](https://www.bbc.co.uk/news/uk-northern-ireland-58157207) - Gerald Prentice, who spent four days on a ventilator, says he has "no doubt" a jab would have helped.
 8. [Euro Auctions: Brothers delighted with £775m deal for Tyrone firm](https://www.bbc.co.uk/news/uk-northern-ireland-58165295) - Euro Auctions, set up in 1988 as a family business, was sold to a Canadian firm for more than $1bn.
 9. [Derry most affordable city to buy a home in UK](https://www.bbc.co.uk/news/business-58162371) - Winchester has leapfrogged Oxford to become the UK’s least affordable city to buy a home, says a survey.

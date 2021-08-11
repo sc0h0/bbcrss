@@ -1,4 +1,4 @@
-1. [Teenage jab rollout moving cautiously - expert](https://www.bbc.co.uk/news/uk-58170048) - Children aged 16 and 17 began to be invited for their jabs a week ago, after a change in advice.
+1. [Streatham attack: Officer 'feared for his life' in terrorist pursuit](https://www.bbc.co.uk/news/uk-england-london-58173190) - An armed surveillance officer describes the moment a terrorist ran at him with a knife in south London.
 2. [Channel migrants: Asylum seeker cleared of people smuggling was 'scapegoat'](https://www.bbc.co.uk/news/uk-england-kent-57722096) - Fouad Kakaei's lawyer says asylum seekers are "easy targets" to prosecute for small boat crossings.
 3. [Disability campaigner stranded after hotel shower fall](https://www.bbc.co.uk/news/uk-england-tees-58159843) - Jennie Berry was stuck on her bathroom floor for 20 minutes after the shower seat broke.
 4. [Essex baby given £1.79m drug for spinal muscular atrophy](https://www.bbc.co.uk/news/uk-england-essex-58101748) - Eleven-month-old Edward has received the world's most expensive drug after a campaign by his parents.
