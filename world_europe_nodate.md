@@ -3,7 +3,7 @@
 3. [Poland's ruling coalition frays ahead of key media vote](https://www.bbc.co.uk/news/world-europe-58164513) - The prime minister sacks his deputy, who opposed a controversial change to the country's media law.
 4. [Lithuania to build fence on Belarus border to stop migrants](https://www.bbc.co.uk/news/world-europe-58163073) - Tensions are running high with Belarus after a surge of non-EU migrants into Lithuania.
 5. [China: Swiss embassy urges media to remove scientist fake news](https://www.bbc.co.uk/news/world-asia-china-58168588) - A Swiss biologist who had been quoted in Chinese media in recent days did not exist, it said.
-6. [Sweden tries Hamid Nouri over 1988 Iran prison massacre](https://www.bbc.co.uk/news/world-europe-58165166) - Hamid Nouri faces trial over the mass execution of detainees during the Iran-Iraq war.
+6. [Greece fires: Welsh firefighters help battle wildfires](https://www.bbc.co.uk/news/uk-wales-58172031) - The UK's 21-strong team includes four Welsh firefighters, who are unsure when they will return home.
 7. [Lionel Messi dreams of Champions League win at Paris St-Germain](https://www.bbc.co.uk/sport/football/58159748) - Lionel Messi says he dreams of winning the Champions League once more after joining Paris St-Germain, adding: "I think we have the team to do it here."
 8. [Wildfires: How are they linked to climate change?](https://www.bbc.co.uk/news/58159451) - A series of major wildfires across the world has hit the headlines - how do they compare to previous years?
 9. [Five things we learned from UN climate report](https://www.bbc.co.uk/news/science-environment-58138714) - What are the key takeaways from the IPCC new study on the science of climate change?

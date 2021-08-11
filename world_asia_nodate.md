@@ -1,4 +1,4 @@
-1. [Afghanistan war: Taliban back brutal rule as they strike for power](https://www.bbc.co.uk/news/world-asia-58156772) - Afghanistan's ex-rulers still back brutal punishments as they continue a deadly advance towards power.
+1. [Afghanistan war: Taliban back brutal rule as they strike for power](https://www.bbc.co.uk/news/world-asia-58156772) - Afghanistan's ex-rulers still back brutal punishments, the BBC finds as it goes behind Taliban lines.
 2. [Afghanistan: The people fleeing the north for safety in Kabul](https://www.bbc.co.uk/news/world-asia-58170433) - The Taliban has taken new territories in the north, forcing thousands out of their homes.
 3. [Michael Spavor: Canadian jailed for 11 years in China on spying charges](https://www.bbc.co.uk/news/world-asia-china-58168587) - His sentencing is the latest development in a diplomatic spat between the two countries.
 4. [Kinnaur: At least 10 dead and dozens trapped in India landslide](https://www.bbc.co.uk/news/world-asia-india-58171679) - Boulders fall on a Himalayan highway, killing at least 10 people and trapping many more.
