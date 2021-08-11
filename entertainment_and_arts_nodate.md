@@ -1,5 +1,5 @@
 1. [Stevie Nicks cancels gigs to 'keep healthy' as US Covid cases rise](https://www.bbc.co.uk/news/entertainment-arts-58169510) - The Fleetwood Mac singer, 73, is "still being extremely cautious" as the Delta variant spreads.
-2. [Chef Tilly Ramsay, daughter of Gordon, joins Strictly Come Dancing](https://www.bbc.co.uk/news/entertainment-arts-58089932) - Chef and social media star Tilly Ramsay joins Dan Walker, Katie McGlynn, Robert Webb and others.
+2. [Strictly Come Dancing: Tilly Ramsay and Greg Wise join line-up](https://www.bbc.co.uk/news/entertainment-arts-58089932) - Social media influencer Tilly Ramsay and actor Greg Wise join the TV dancing show's line-up.
 3. [How The Orielles turned their album into a film score](https://www.bbc.co.uk/news/entertainment-arts-58083762) - The band on surreal gigs at cricket grounds and the "happenings" that inspired their new project.
 4. [Bilsdale transmitter fire: TV and radio for 1m off air indefinitely](https://www.bbc.co.uk/news/uk-england-tees-58169501) - The operators of a transmitter which serves part of northern England cannot say when it will be fixed.
 5. [I Am Legend screenwriter dismisses anti-vax claims based on film's plot](https://www.bbc.co.uk/news/entertainment-arts-58164833) - A sci-fi writer hits back at unfounded rumours that Covid jabs turn people into zombies.

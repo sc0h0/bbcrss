@@ -1,15 +1,15 @@
 1. [A&E queues mean Wales' ambulances 'can't take 999 calls'](https://www.bbc.co.uk/news/uk-wales-58161914) - Paramedics say they are spending more time waiting on hospital tarmac than taking 999 calls.
 2. [Mumbles: Boy, 12, in hospital after open-top bus crash](https://www.bbc.co.uk/news/uk-wales-58172145) - Several other people also sustained minor injuries after the sight-seeing bus crashed.
 3. [Kirsty Williams: Abuse of women in politics getting worse](https://www.bbc.co.uk/news/uk-wales-politics-58145445) - Kirsty Williams says she could not keep her family safe from trolling while Welsh education minister.
-4. [Gower salt marsh lamb receives protected status](https://www.bbc.co.uk/news/uk-wales-58164754) - The meat from lambs born and bred on the Gower Peninsula is now protected from copycat rivals.
-5. [Lauren Price: 'Insane' welcome for Olympic gold medallist](https://www.bbc.co.uk/news/uk-wales-58161854) - Hundreds of people line the streets to welcome home boxing gold medallist Lauren Price.
-6. [Covid: Swansea DVLA balloting for more strike action](https://www.bbc.co.uk/news/uk-wales-58171769) - Workers are being asked if they support more action over Covid safety.
-7. [Covid has 'accelerated' industrial automation in Wales](https://www.bbc.co.uk/news/uk-wales-58166015) - New technology investments ramp up in Welsh manufacturing - but will it mean fewer workers?
-8. [A-levels 2021 in Wales: Grades above pre-Covid levels](https://www.bbc.co.uk/news/uk-wales-58148512) - A total of 48.3% of A-level grades are A and A* in Wales, which is hailed a "remarkable achievement".
-9. [Aberystwyth: Man airlifted to hospital after window fall](https://www.bbc.co.uk/news/uk-wales-58162459) - A man suffers "traumatic injuries" after falling from a window in Aberystwyth.
-10. [Doctor worked at Wrexham Maelor hospital while off sick at another](https://www.bbc.co.uk/news/uk-wales-58162239) - Joao Muel said he was unfit to work in Abergavenny while doing shifts in Wrexham, a tribunal hears.
-11. [Rhyl cancer patient suffered from 'alarming failings' at Glan Clwyd Hospital](https://www.bbc.co.uk/news/uk-wales-58151073) - Ann Jones, 69, died after "alarming failings" at Wales' largest health board, says ombudsman.
-12. [Thirteen Covid deaths during week in Wales](https://www.bbc.co.uk/news/uk-wales-58159703) - The latest ONS weekly figures show a slight fall in deaths involving Covid in Wales.
+4. [Climate change: Fisherman stops farming mussels due to hot weather](https://www.bbc.co.uk/news/uk-wales-58172032) - A shellfish farmer says its no longer viable to continue farming mussels due to warmer temperatures.
+5. [Gower salt marsh lamb receives protected status](https://www.bbc.co.uk/news/uk-wales-58164754) - The meat from lambs born and bred on the Gower Peninsula is now protected from copycat rivals.
+6. [Lauren Price: 'Insane' welcome for Olympic gold medallist](https://www.bbc.co.uk/news/uk-wales-58161854) - Hundreds of people line the streets to welcome home boxing gold medallist Lauren Price.
+7. [Covid: Swansea DVLA balloting for more strike action](https://www.bbc.co.uk/news/uk-wales-58171769) - Workers are being asked if they support more action over Covid safety.
+8. [Covid has 'accelerated' industrial automation in Wales](https://www.bbc.co.uk/news/uk-wales-58166015) - New technology investments ramp up in Welsh manufacturing - but will it mean fewer workers?
+9. [A-levels 2021 in Wales: Grades above pre-Covid levels](https://www.bbc.co.uk/news/uk-wales-58148512) - A total of 48.3% of A-level grades are A and A* in Wales, which is hailed a "remarkable achievement".
+10. [Aberystwyth: Man airlifted to hospital after window fall](https://www.bbc.co.uk/news/uk-wales-58162459) - A man suffers "traumatic injuries" after falling from a window in Aberystwyth.
+11. [Doctor worked at Wrexham Maelor hospital while off sick at another](https://www.bbc.co.uk/news/uk-wales-58162239) - Joao Muel said he was unfit to work in Abergavenny while doing shifts in Wrexham, a tribunal hears.
+12. [Rhyl cancer patient suffered from 'alarming failings' at Glan Clwyd Hospital](https://www.bbc.co.uk/news/uk-wales-58151073) - Ann Jones, 69, died after "alarming failings" at Wales' largest health board, says ombudsman.
 13. [Wales: Post-lockdown demand on ambulance staff 'relentless'](https://www.bbc.co.uk/news/uk-wales-58166250) - Paramedics and control room staff share their stories as pressure on services rises.
 14. [Lauren Price: Olympic boxer overwhelmed by 'insane' reception](https://www.bbc.co.uk/news/uk-wales-58164995) - The Welsh boxing champion was given a hero's welcome on her return to Ystrad Mynach.
 15. [A-levels 2021 in Wales: Pupils celebrate after tough year](https://www.bbc.co.uk/news/uk-wales-58162240) - Pupils receive their A-level results after a mix of online and in-person learning.
@@ -24,5 +24,5 @@
 24. ['Mwy o straen ar ambiwlansys nawr nag ar frig y pandemig'](https://www.bbc.co.uk/newyddion/58161664) - Staff y Gwasanaeth Ambiwlans ar ben eu tennyn, gan ddweud mai dyma'u cyfnod prysuraf erioed.
 25. ['Sarhad o fenywod mewn gwleidyddiaeth yn gwaethygu'](https://www.bbc.co.uk/newyddion/58163671) - Y cyn-Weinidog Addysg Kirsty Williams fu'n rhannu ei phrofiadau o gamdriniaeth ar-lein gyda BBC Cymru.
 26. [Bachgen 12 oed yn yr ysbyty wedi gwrthdrawiad bws](https://www.bbc.co.uk/newyddion/58170588) - Mae ymchwiliad heddlu'n parhau wedi i fws deulawr daro coeden ger Abertawe brynhawn Mawrth.
-27. ["Yr heli yn y gwaed": Byw a bod ar y môr](https://www.bbc.co.uk/newyddion/58159182) - Mae Cai Erith Williams yn gwerthfawrogi rhyfeddodau'r môr.
+27. [Llion Williams: Lloches ar ynysoedd yr Alban](https://www.bbc.co.uk/newyddion/57916024) - Yr actor sy'n egluro pam ei fod yn byw yn yr Alban am gyfnod a'r rhybuddion i Gymru o'r Ynys Hir.
 28. [Tri chlwb Cymru trwodd i ail rownd Cwpan yr EFL](https://www.bbc.co.uk/newyddion/58163676) - Caerdydd yn trechu Sutton United, Abertawe yn fuddugol yn Reading a Chasnewydd yn ennill yn Ipswich.
