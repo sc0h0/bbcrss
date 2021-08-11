@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 11 Aug 2021 13:22:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Aug 2021 13:37:05 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -30,6 +30,20 @@
             <pubDate>Wed, 11 Aug 2021 11:37:02 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Google may cut pay of staff who work from home]]></title>
+            <description><![CDATA[The tech giant has developed a calculator that lets staff see the effects of remote working.]]></description>
+            <link>https://www.bbc.co.uk/news/business-58171716</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58171716</guid>
+            <pubDate>Wed, 11 Aug 2021 13:18:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gurkha veterans on hunger strike outside Downing Street]]></title>
+            <description><![CDATA[Gurkha veterans say they will starve themselves to death if they do not get pensions equal to British soldiers.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-58159773</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58159773</guid>
+            <pubDate>Wed, 11 Aug 2021 13:31:19 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Stevie Nicks cancels gigs due to rising US Covid cases]]></title>
             <description><![CDATA[The Fleetwood Mac singer, 73, is "still being extremely cautious" as the Delta variant spreads.]]></description>
             <link>https://www.bbc.co.uk/news/entertainment-arts-58169510</link>
@@ -37,25 +51,11 @@
             <pubDate>Wed, 11 Aug 2021 12:02:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Google may cut pay of staff who work from home]]></title>
-            <description><![CDATA[The tech giant has developed a calculator that lets staff see the effects of remote working or moving offices.]]></description>
-            <link>https://www.bbc.co.uk/news/business-58171716</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58171716</guid>
-            <pubDate>Wed, 11 Aug 2021 13:18:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Streatham attack: Officer 'feared for his life' in terrorist pursuit]]></title>
-            <description><![CDATA[A police officer describes "locking eyes" with a knife-wielding terrorist before shooting him dead.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-london-58173190</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-58173190</guid>
-            <pubDate>Wed, 11 Aug 2021 12:42:16 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[David Gomoh stabbing: Gang guilty of murdering NHS worker]]></title>
             <description><![CDATA[David Gomoh managed to stagger back home before dying in front of his family.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-london-58113038</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-58113038</guid>
-            <pubDate>Wed, 11 Aug 2021 13:04:04 GMT</pubDate>
+            <pubDate>Wed, 11 Aug 2021 13:35:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Disability campaigner stranded after hotel shower fall]]></title>
@@ -276,7 +276,7 @@
         </item>
         <item>
             <title><![CDATA[Hearn contacts Olympic boxing champion Price about turning professional]]></title>
-            <description><![CDATA[Olympic boxing champion Lauren Price says she has had talks with promoter Eddie Hearn about the prospect of turning professional.]]></description>
+            <description><![CDATA[Olympic boxing champion Lauren Price says she plans talks with promoter Eddie Hearn about the prospect of turning professional.]]></description>
             <link>https://www.bbc.co.uk/sport/boxing/58170707</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/boxing/58170707</guid>
             <pubDate>Wed, 11 Aug 2021 10:08:10 GMT</pubDate>
