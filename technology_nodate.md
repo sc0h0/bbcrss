@@ -1,5 +1,5 @@
 1. [Hackers steal $600m in major cryptocurrency heist](https://www.bbc.co.uk/news/business-58163917) - Thousands of digital tokens have been stolen by hackers in one of the largest cryptocurrency heists.
-2. [China tech giant Xiaomi aims at smartphone global top spot](https://www.bbc.co.uk/news/business-58168547) - The comments come as the Beijing-based firm celebrates the 10th anniversary of its first smartphone.
+2. [China tech giant Xiaomi aims at global smartphone top spot](https://www.bbc.co.uk/news/business-58168547) - The comments come as the Beijing-based firm celebrates the 10th anniversary of its first smartphone.
 3. [Google lets parents remove children from image-search results](https://www.bbc.co.uk/news/technology-58164582) - The search giant announces a range of changes to its children's policies on Google and YouTube.
 4. [Chameleon-like camouflage made for soft robot](https://www.bbc.co.uk/news/technology-58159730) - Researchers develop a robot that changes colour in response to its background.
 5. [Twitter algorithm prefers slimmer, younger, light-skinned faces](https://www.bbc.co.uk/news/technology-58159723) - A Twitter-sponsored competition to discover bias in its image algorithm finds precisely that.

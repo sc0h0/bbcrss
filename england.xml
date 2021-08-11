@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 11 Aug 2021 05:31:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Aug 2021 05:55:08 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -30,6 +30,13 @@
             <pubDate>Tue, 10 Aug 2021 18:05:21 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Channel migrants: Asylum seeker cleared of people smuggling was 'scapegoat']]></title>
+            <description><![CDATA[Fouad Kakaei's lawyer says asylum seekers are "easy targets" to prosecute for small boat crossings.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-kent-57722096</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-kent-57722096</guid>
+            <pubDate>Wed, 11 Aug 2021 05:38:07 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Essex baby given £1.79m drug for spinal muscular atrophy]]></title>
             <description><![CDATA[Eleven-month-old Edward has received the world's most expensive drug after a campaign by his parents.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-essex-58101748</link>
@@ -44,13 +51,6 @@
             <pubDate>Tue, 10 Aug 2021 17:30:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Megan Newborough: Murder charge after missing woman found dead]]></title>
-            <description><![CDATA[The body of 23-year-old Megan Newborough was discovered in Leicestershire on Sunday.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-leicestershire-58163532</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-leicestershire-58163532</guid>
-            <pubDate>Tue, 10 Aug 2021 14:58:42 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Smitten prison officer helped inmate lover escape]]></title>
             <description><![CDATA[Erica Whittingham met prisoner Michael Seddon after her marriage broke down, a court hears.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-derbyshire-58160687</link>
@@ -58,11 +58,11 @@
             <pubDate>Tue, 10 Aug 2021 17:22:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Hermit crabs 'excited' by plastic additive]]></title>
-            <description><![CDATA[An additive in the waste may resemble a chemical normally found in food sources, a study says.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-humber-58160697</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-humber-58160697</guid>
-            <pubDate>Tue, 10 Aug 2021 16:43:55 GMT</pubDate>
+            <title><![CDATA[Winchester is now the least affordable UK city to buy a home]]></title>
+            <description><![CDATA[Winchester has leapfrogged Oxford to become the UK’s least affordable city to buy a home, says a survey.]]></description>
+            <link>https://www.bbc.co.uk/news/business-58162371</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58162371</guid>
+            <pubDate>Tue, 10 Aug 2021 23:01:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tributes to boy hit by mirror in department store]]></title>
@@ -79,25 +79,25 @@
             <pubDate>Tue, 10 Aug 2021 18:56:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Bilsdale transmitter fire: TV and radio disrupted in 1m homes]]></title>
+            <title><![CDATA[Megan Newborough: Murder charge after missing woman found dead]]></title>
+            <description><![CDATA[The body of 23-year-old Megan Newborough was discovered in Leicestershire on Sunday.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-leicestershire-58163532</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-leicestershire-58163532</guid>
+            <pubDate>Tue, 10 Aug 2021 14:58:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Transmitter fire disrupts TV for 1m people]]></title>
             <description><![CDATA[More than a million people across North Yorkshire and parts of the North East were affected.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-tees-58163612</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-tees-58163612</guid>
             <pubDate>Tue, 10 Aug 2021 20:08:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Body found in search for diver missing off Jurassic Coast]]></title>
-            <description><![CDATA[Carvalho da Silveira was last seen in the water on Saturday afternoon.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-dorset-58162957</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-dorset-58162957</guid>
-            <pubDate>Tue, 10 Aug 2021 17:04:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sheffield Link FM radio station faces sanction over 'Jihadi' chant]]></title>
-            <description><![CDATA[An Islamic chant "encouraging violent Jihad" was broadcast by Sheffield-based Link FM, Ofcom says.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-south-yorkshire-58162579</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-south-yorkshire-58162579</guid>
-            <pubDate>Tue, 10 Aug 2021 15:02:28 GMT</pubDate>
+            <title><![CDATA[Hermit crabs 'excited' by plastic additive]]></title>
+            <description><![CDATA[An additive in the waste may resemble a chemical normally found in food sources, a study says.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-humber-58160697</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-humber-58160697</guid>
+            <pubDate>Tue, 10 Aug 2021 16:43:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A-Level results: Hackney twins secure Oxbridge places]]></title>
@@ -170,6 +170,20 @@
             <pubDate>Sat, 07 Aug 2021 23:01:40 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Disability campaigner stranded after hotel shower fall]]></title>
+            <description><![CDATA[Jennie Berry was stuck on her bathroom floor for 20 minutes after the shower seat broke.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-tees-58159843</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-tees-58159843</guid>
+            <pubDate>Tue, 10 Aug 2021 17:56:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Body found in search for diver missing off Jurassic Coast]]></title>
+            <description><![CDATA[Carvalho da Silveira was last seen in the water on Saturday afternoon.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-dorset-58162957</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-dorset-58162957</guid>
+            <pubDate>Tue, 10 Aug 2021 17:04:06 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Victoria station: One dead and two injured in bus crash]]></title>
             <description><![CDATA[Two buses were involved in a crash during rush hour outside Victoria train station in London.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-london-58097961</link>
@@ -182,6 +196,13 @@
             <link>https://www.bbc.co.uk/news/uk-england-london-58097959</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-58097959</guid>
             <pubDate>Tue, 10 Aug 2021 12:17:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sheffield Link FM radio station faces sanction over 'Jihadi' chant]]></title>
+            <description><![CDATA[An Islamic chant "encouraging violent Jihad" was broadcast by Sheffield-based Link FM, Ofcom says.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-south-yorkshire-58162579</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-south-yorkshire-58162579</guid>
+            <pubDate>Tue, 10 Aug 2021 15:02:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Nottinghamshire boxer, 64, ends career with world title win]]></title>
