@@ -2,7 +2,7 @@
 2. [Poland's ruling coalition frays on eve of key media vote](https://www.bbc.co.uk/news/world-europe-58164513) - The prime minister sacks his deputy, who opposed a controversial change to the country's media law.
 3. [Greece fires: Foreign teams join battle on Evia island](https://www.bbc.co.uk/news/world-europe-58160938) - Several European countries are helping Greece to tackle the blazes ravaging parched forests.
 4. [Sweden tries Hamid Nouri over 1988 Iran prison massacre](https://www.bbc.co.uk/news/world-europe-58165166) - Hamid Nouri faces trial over the mass execution of detainees during the Iran-Iraq war.
-5. [Lionel Messi agrees Paris St-Germain deal after Barcelona exit - Guillem Balague](https://www.bbc.co.uk/sport/football/58159464) - Lionel Messi agrees a two-year deal to join Paris St-Germain after leaving Barcelona, says BBC Sport columnist Guillem Balague.
+5. [Lionel Messi signs two-year Paris St-Germain deal after leaving Barcelona](https://www.bbc.co.uk/sport/football/58163106) - Lionel Messi signs a two-year deal with Paris St-Germain after leaving Barcelona.
 6. [Esther Dingley: Missing hiker's boyfriend finds her body](https://www.bbc.co.uk/news/uk-england-tyne-58159591) - The body and belongings of Esther Dingley are found close to where a bone fragment was discovered.
 7. [Bronze handle suggests 'lions used' in Roman Britain executions](https://www.bbc.co.uk/news/uk-england-leicestershire-58144680) - The bronze key handle found in Leicester shows a "Barbarian" grappling with a lion.
 8. [Wildfires: How are they linked to climate change?](https://www.bbc.co.uk/news/58159451) - A series of major wildfires across the world has hit the headlines - how do they compare to previous years?
