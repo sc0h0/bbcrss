@@ -1,6 +1,6 @@
 1. [Covid-19: More than 75% of UK adults now double-jabbed](https://www.bbc.co.uk/news/uk-58162318) - But Oxford vaccine chief Prof Sir Andrew Pollard warns Covid herd immunity is "not a possibility".
-2. [Oxford-jab chief criticises UK's Covid booster plan](https://www.bbc.co.uk/news/health-58159573) - Health Secretary Sajid Javid says he plans to begin the third jab rollout in a matter of weeks.
-3. [Afghanistan war: Biden says he does not regret troop withdrawal](https://www.bbc.co.uk/news/world-asia-58167408) - The US president says Afghan leaders need to fight for their nation, as more cities fall to the Taliban.
+2. [Afghanistan war: Biden says he does not regret troop withdrawal](https://www.bbc.co.uk/news/world-asia-58167408) - The US president says Afghan leaders need to fight for their nation, as more cities fall to the Taliban.
+3. [Prince Andrew can't ignore courts, says Virginia Giuffre's lawyer](https://www.bbc.co.uk/news/uk-58167469) - Virginia Giuffre's lawyer says litigation is the only way to establish the Duke of York's evidence.
 4. [Wagner: Scale of Russian mercenary mission in Libya exposed](https://www.bbc.co.uk/news/world-africa-58009514) - A Samsung tablet obtained by the BBC unveils chilling details of how mercenaries fought in Libya’s war.
 5. [New York Governor Andrew Cuomo resigns in wake of harassment report](https://www.bbc.co.uk/news/world-us-canada-58164719) - The Democrat says he will step aside after an inquiry found he sexually harassed multiple women.
 6. [Winchester is now the least affordable UK city to buy a home](https://www.bbc.co.uk/news/business-58162371) - Winchester has leapfrogged Oxford to become the UK’s least affordable city to buy a home, says a survey.

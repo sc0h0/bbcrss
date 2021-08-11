@@ -4,8 +4,8 @@
 4. [TikTok named as the most downloaded app of 2020](https://www.bbc.co.uk/news/business-58155103) - The Chinese app's popularity comes even after former President Donald Trump tried to ban it in the US.
 5. [China elephants: 150,000 evacuated from path of trekking herd](https://www.bbc.co.uk/news/world-asia-china-58156099) - The herd is finally headed for home after an extraordinary 17-month migration in Yunnan province.
 6. [Malaysian singer dies of Covid days after giving birth](https://www.bbc.co.uk/news/world-asia-58155203) - Siti Sarah Raisuddin never got to hold her newborn son, who was delivered via a three-hour surgery.
-7. [Anger as Nigerian diplomat manhandled in Indonesia](https://www.bbc.co.uk/news/world-africa-58159675) - Nigeria says there was "no justification" for an official's mistreatment by immigration officers.
-8. [Jantar Mantar: India police arrest six over anti-Muslim rally](https://www.bbc.co.uk/news/world-asia-india-58155301) - The arrests came after anti-Islamic slogans were raised at an event in Delhi on Sunday.
+7. [Jantar Mantar: India police arrest six over anti-Muslim rally](https://www.bbc.co.uk/news/world-asia-india-58155301) - The arrests came after anti-Islamic slogans were raised at an event in Delhi on Sunday.
+8. [Anger as Nigerian diplomat manhandled in Indonesia](https://www.bbc.co.uk/news/world-africa-58159675) - Nigeria says there was "no justification" for an official's mistreatment by immigration officers.
 9. [Climate change: The IPCC environmental warning India cannot ignore](https://www.bbc.co.uk/news/world-asia-india-58155294) - It is the world's third largest carbon emitter, but hasn't set a date for becoming carbon neutral.
 10. [China sues Tencent over WeChat Youth Mode](https://www.bbc.co.uk/news/technology-58145808) - Authorities allege the messaging app is violating Chinese law that aims to protect minors.
 11. [Afghanistan war: At least 27 children killed in three days, UN says](https://www.bbc.co.uk/news/world-asia-58142983) - Unicef says 27 deaths were recorded in three regions over 72 hours, amid rising violence.
