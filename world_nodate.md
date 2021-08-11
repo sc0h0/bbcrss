@@ -9,7 +9,7 @@
 9. [New York Governor Andrew Cuomo resigns in wake of harassment report](https://www.bbc.co.uk/news/world-us-canada-58164719) - The Democrat says he will step aside after an inquiry found he sexually harassed multiple women.
 10. [Facebook removes anti-vax influencer campaign](https://www.bbc.co.uk/news/blogs-trending-58167339) - Facebook has removed hundreds of accounts linked to a anti-vaccine campaign operated from Russia.
 11. [Swiss embassy urges Chinese media to remove articles about scientist](https://www.bbc.co.uk/news/world-asia-china-58168588) - A Swiss biologist who had been quoted in Chinese media in recent days did not exist, it said.
-12. [Poland's ruling coalition frays on eve of key media vote](https://www.bbc.co.uk/news/world-europe-58164513) - The prime minister sacks his deputy, who opposed a controversial change to the country's media law.
+12. [Poland's ruling coalition frays ahead of key media vote](https://www.bbc.co.uk/news/world-europe-58164513) - The prime minister sacks his deputy, who opposed a controversial change to the country's media law.
 13. [Kathy Hochul: Who is New York's first female governor?](https://www.bbc.co.uk/news/world-us-canada-58167825) - The history-making Democrat will take the role after Andrew Cuomo resigned over harassment claims.
 14. [Fenty Beauty: How make-up helped Rihanna become a billionaire](https://www.bbc.co.uk/news/newsbeat-58084543) - Rihanna makes more money from her make-up than from her music and acting work.
 15. [Wildfires: How are they linked to climate change?](https://www.bbc.co.uk/news/58159451) - A series of major wildfires across the world has hit the headlines - how do they compare to previous years?

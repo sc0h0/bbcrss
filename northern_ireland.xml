@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 11 Aug 2021 11:41:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Aug 2021 11:50:01 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -37,18 +37,18 @@
             <pubDate>Wed, 11 Aug 2021 05:25:29 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[68,000 attended Northern Ireland emergency departments in June]]></title>
+            <description><![CDATA[The latest statistics reveal an increase of more than 24% compared to the same month last year.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58170357</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58170357</guid>
+            <pubDate>Wed, 11 Aug 2021 11:46:02 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Eniola Aluko: Ex-footballer calls for end to online abuse]]></title>
             <description><![CDATA[Former England footballer Eniola Aluko deleted her Twitter account after receiving racist abuse.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58170263</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58170263</guid>
             <pubDate>Wed, 11 Aug 2021 08:30:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Derry City: Councillors press for Brandywell funding date]]></title>
-            <description><![CDATA[The first phase of the Ryan McBride Brandywell Stadium redevelopment was completed in 2018.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58169660</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58169660</guid>
-            <pubDate>Wed, 11 Aug 2021 10:25:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: Unvaccinated dad speaks of four-day ventilator ordeal]]></title>
@@ -63,6 +63,13 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58165295</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58165295</guid>
             <pubDate>Tue, 10 Aug 2021 17:30:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Derry City: Councillors press for Brandywell funding date]]></title>
+            <description><![CDATA[The first phase of the Ryan McBride Brandywell Stadium redevelopment was completed in 2018.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58169660</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58169660</guid>
+            <pubDate>Wed, 11 Aug 2021 10:25:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Derry most affordable city to buy a home in UK]]></title>
@@ -98,13 +105,6 @@
             <link>https://www.bbc.co.uk/news/world-europe-58162347</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58162347</guid>
             <pubDate>Tue, 10 Aug 2021 16:38:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tallaght: Man dies after stabbing in Dublin]]></title>
-            <description><![CDATA[A man in his 40s was also injured in the incident in Tallaght on Tuesday evening.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58167918</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58167918</guid>
-            <pubDate>Tue, 10 Aug 2021 22:30:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: Two more deaths and 1,305 new coronavirus cases]]></title>

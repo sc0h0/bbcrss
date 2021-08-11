@@ -1,5 +1,5 @@
-1. [Michael Spavor: Canadian jailed for 11 years in China on spying charges](https://www.bbc.co.uk/news/world-asia-china-58168587) - His sentencing is the latest development in a diplomatic spat between the two countries.
-2. [Afghanistan war: President Ghani rallies army in Taliban-besieged Mazar-i-Sharif](https://www.bbc.co.uk/news/world-asia-58170847) - Ashraf Ghani flies to Mazar-i-Sharif in the north, as militants seize more provincial capitals.
+1. [Afghanistan war: President Ghani rallies army in Taliban-besieged Mazar-i-Sharif](https://www.bbc.co.uk/news/world-asia-58170847) - Ashraf Ghani flies to Mazar-i-Sharif in the north, as militants seize more provincial capitals.
+2. [Michael Spavor: Canadian jailed for 11 years in China on spying charges](https://www.bbc.co.uk/news/world-asia-china-58168587) - His sentencing is the latest development in a diplomatic spat between the two countries.
 3. [Kinnaur: Two dead and dozens trapped in India landslide](https://www.bbc.co.uk/news/world-asia-india-58171679) - Falling boulders have buried many vehicles, including a bus carrying 40 people, reports say.
 4. [China to ban karaoke songs with 'illegal content'](https://www.bbc.co.uk/news/world-asia-china-58168638) - Songs that fall under this category include those that endanger national or territorial integrity.
 5. [Swiss embassy urges Chinese media to remove articles about scientist](https://www.bbc.co.uk/news/world-asia-china-58168588) - A Swiss biologist who had been quoted in Chinese media in recent days did not exist, it said.
