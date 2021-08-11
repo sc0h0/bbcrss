@@ -1,5 +1,5 @@
 1. [Wagner: Scale of Russian mercenary mission in Libya exposed](https://www.bbc.co.uk/news/world-africa-58009514) - A Samsung tablet obtained by the BBC unveils chilling details of how mercenaries fought in Libya’s war.
-2. [Afghanistan war: Afghan president rallies army in Taliban-besieged city](https://www.bbc.co.uk/news/world-asia-58170847) - Ashraf Ghani flies to Mazar-i-Sharif in the north, as militants seize more provincial capitals.
+2. [Afghanistan war: President Ghani rallies army in Taliban-besieged Mazar-i-Sharif](https://www.bbc.co.uk/news/world-asia-58170847) - Ashraf Ghani flies to Mazar-i-Sharif in the north, as militants seize more provincial capitals.
 3. [Kinnaur: Two dead and dozens trapped in India landslide](https://www.bbc.co.uk/news/world-asia-india-58171679) - Falling boulders have buried many vehicles, including a bus carrying 40 people, reports say.
 4. [Briton suspected of spying for Russia arrested in Germany](https://www.bbc.co.uk/news/world-europe-58170872) - German federal prosecutors say the British man passed documents to Russian intelligence for cash.
 5. [Woman in Sydney investigated for pretending to be a doctor](https://www.bbc.co.uk/news/world-australia-58170870) - The 27-year-old worked for eight months this year at a Sydney hospital, Australian media reports.

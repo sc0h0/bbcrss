@@ -24,5 +24,5 @@
 24. ['Mwy o straen ar ambiwlansys nawr nag ar frig y pandemig'](https://www.bbc.co.uk/newyddion/58161664) - Staff y Gwasanaeth Ambiwlans ar ben eu tennyn, gan ddweud mai dyma'u cyfnod prysuraf erioed.
 25. ['Sarhad o fenywod mewn gwleidyddiaeth yn gwaethygu'](https://www.bbc.co.uk/newyddion/58163671) - Y cyn-Weinidog Addysg Kirsty Williams fu'n rhannu ei phrofiadau o gamdriniaeth ar-lein gyda BBC Cymru.
 26. [Bachgen 12 oed yn yr ysbyty wedi gwrthdrawiad bws](https://www.bbc.co.uk/newyddion/58170588) - Mae ymchwiliad heddlu'n parhau wedi i fws deulawr daro coeden ger Abertawe brynhawn Mawrth.
-27. [Llion Williams: Lloches ar ynysoedd yr Alban](https://www.bbc.co.uk/newyddion/57916024) - Yr actor sy'n egluro pam ei fod yn byw yn yr Alban am gyfnod a'r rhybuddion i Gymru o'r Ynys Hir.
+27. [Llion Williams: Lloches ar ynysoedd yr Alban](https://www.bbc.co.uk/newyddion/57916024) - Yr actor sy'n egluro pam ei fod yn byw yn yr Alban am gyfnod a'i rybuddion i Gymru o'r Ynys Hir.
 28. [Tri chlwb Cymru trwodd i ail rownd Cwpan yr EFL](https://www.bbc.co.uk/newyddion/58163676) - Caerdydd yn trechu Sutton United, Abertawe yn fuddugol yn Reading a Chasnewydd yn ennill yn Ipswich.
