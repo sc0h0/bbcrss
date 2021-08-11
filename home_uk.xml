@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 11 Aug 2021 15:29:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Aug 2021 15:47:17 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -21,13 +21,6 @@
             <link>https://www.bbc.co.uk/news/world-asia-58156772</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58156772</guid>
             <pubDate>Wed, 11 Aug 2021 15:16:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A-levels: Warning over private and state school gap]]></title>
-            <description><![CDATA[The former school recovery tsar warns of growing educational inequality as a result of the pandemic.]]></description>
-            <link>https://www.bbc.co.uk/news/education-58172292</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/education-58172292</guid>
-            <pubDate>Wed, 11 Aug 2021 12:48:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Briton suspected of spying for Russia arrested in Germany]]></title>
@@ -51,18 +44,25 @@
             <pubDate>Wed, 11 Aug 2021 14:05:44 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[A-levels: Warning over private and state school gap]]></title>
+            <description><![CDATA[The former school recovery tsar warns of growing educational inequality as a result of the pandemic.]]></description>
+            <link>https://www.bbc.co.uk/news/education-58172292</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/education-58172292</guid>
+            <pubDate>Wed, 11 Aug 2021 12:48:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Helicopter finds missing girl asleep in field in Devon]]></title>
+            <description><![CDATA[The disappearance of the girl prompted a large-scale police search.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-devon-58176944</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-devon-58176944</guid>
+            <pubDate>Wed, 11 Aug 2021 15:34:56 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Google may cut pay of staff who work from home]]></title>
             <description><![CDATA[The tech giant has developed a calculator that lets staff see the effects of remote working.]]></description>
             <link>https://www.bbc.co.uk/news/business-58171716</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58171716</guid>
-            <pubDate>Wed, 11 Aug 2021 14:12:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Julian Assange: US extradition bid gets a legal boost]]></title>
-            <description><![CDATA[The US wants to put the Wikileaks founder on trial for hacking and disclosing classified information.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58157955</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58157955</guid>
-            <pubDate>Wed, 11 Aug 2021 14:39:29 GMT</pubDate>
+            <pubDate>Wed, 11 Aug 2021 15:39:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Climate change: Curbing methane emissions will 'buy us time']]></title>
@@ -70,6 +70,13 @@
             <link>https://www.bbc.co.uk/news/science-environment-58174111</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-58174111</guid>
             <pubDate>Wed, 11 Aug 2021 13:59:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Julian Assange: US extradition bid gets a legal boost]]></title>
+            <description><![CDATA[The US wants to put the Wikileaks founder on trial for hacking and disclosing classified information.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-58157955</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58157955</guid>
+            <pubDate>Wed, 11 Aug 2021 14:39:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Teenage girl dies following go-karting centre incident in Barking]]></title>
@@ -174,7 +181,7 @@
             <description><![CDATA[A series of major wildfires across the world has hit the headlines - how do they compare to previous years?]]></description>
             <link>https://www.bbc.co.uk/news/58159451</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/58159451</guid>
-            <pubDate>Tue, 10 Aug 2021 23:26:17 GMT</pubDate>
+            <pubDate>Wed, 11 Aug 2021 15:38:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[National anthem: Should Wales' teams sing God Save the Queen?]]></title>
