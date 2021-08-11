@@ -3,11 +3,11 @@
 3. [Gurkha veterans on hunger strike outside Downing Street](https://www.bbc.co.uk/news/uk-58159773) - Gurkha veterans say they will starve themselves to death if they do not get pensions equal to British soldiers.
 4. [Briton suspected of spying for Russia arrested in Germany](https://www.bbc.co.uk/news/world-europe-58170872) - German federal prosecutors say the British man passed documents to Russian intelligence for cash.
 5. [Henley Royal Regatta dress code allows women to wear trousers](https://www.bbc.co.uk/news/uk-england-oxfordshire-58173881) - Henley Royal Regatta changes its rules for the Steward's Enclosure for the first time in decades.
-6. [Covid-19: Teen jabs move cautiously and lockdown takeaway habits endure](https://www.bbc.co.uk/news/uk-58174722) - Five things you need to know about the coronavirus pandemic this Wednesday evening.
-7. [Helicopter finds missing girl asleep in field in Devon](https://www.bbc.co.uk/news/uk-england-devon-58176944) - The disappearance of the girl prompted a large-scale police search.
-8. [Esther Dingley: Missing hiker's body retrieved by police](https://www.bbc.co.uk/news/uk-england-tyne-58176416) - The body and belongings of Esther Dingley were found close to where a bone fragment was discovered.
-9. [Man burned down Devon village home as 'revenge' on ex-wife](https://www.bbc.co.uk/news/uk-england-devon-58172810) - John McCorry was "entirely consumed by hatred" for his estranged wife.
-10. [A-levels: Warning over private and state school gap](https://www.bbc.co.uk/news/education-58172292) - The former school recovery tsar warns of growing educational inequality as a result of the pandemic.
+6. [University of Leeds students offered £10k and free housing to defer](https://www.bbc.co.uk/news/uk-england-leeds-58176877) - Some courses in the university's schools of law and business are oversubscribed.
+7. [Sheffield girlfriend gives partner 'gift of life' kidney donation](https://www.bbc.co.uk/news/uk-england-south-yorkshire-58178126) - Eddie Huntley has a rare disease and was on dialysis three times a week before the transplant.
+8. [Helicopter finds missing girl asleep in field in Devon](https://www.bbc.co.uk/news/uk-england-devon-58176944) - The disappearance of the girl prompted a large-scale police search.
+9. [Esther Dingley: Missing hiker's body retrieved by police](https://www.bbc.co.uk/news/uk-england-tyne-58176416) - The body and belongings of Esther Dingley were found close to where a bone fragment was discovered.
+10. [Man burned down Devon village home as 'revenge' on ex-wife](https://www.bbc.co.uk/news/uk-england-devon-58172810) - John McCorry was "entirely consumed by hatred" for his estranged wife.
 11. [Love Island: Faye and Teddy's row sparks record 25,000 Ofcom complaints](https://www.bbc.co.uk/news/entertainment-arts-58162817) - Faye and Teddy's Casa Amor row sparks the highest number of Ofcom complaints in the show's history.
 12. [Man admits 'foot fetish' nuisance calls costing the NHS £21,000](https://www.bbc.co.uk/news/uk-england-sussex-58178106) - Richard William Cove made more than 1,200 calls, and would ask handlers about their feet.
 13. [Charles and Diana's wedding cake slice sells for £1,850](https://www.bbc.co.uk/news/uk-england-gloucestershire-58173317) - The 40-year-old slice of wedding cake was bought by a buyer from Leeds.
