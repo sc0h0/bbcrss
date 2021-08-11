@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 11 Aug 2021 23:18:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Aug 2021 23:32:03 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -44,6 +44,13 @@
             <pubDate>Wed, 11 Aug 2021 18:34:01 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The shopkeeper saving his island from wildfires]]></title>
+            <description><![CDATA[Spyros isn't a firefighter, but when his home was threatened with wildfires, he decided to take action.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58177493</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58177493</guid>
+            <pubDate>Wed, 11 Aug 2021 23:10:18 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Uefa Super Cup: Chelsea defeat Villarreal on penalties in Belfast to lift trophy for second time]]></title>
             <description><![CDATA[Chelsea beat Villarreal 6-5 in a penalty shootout to lift the Uefa Super Cup for a second time after a draining 120 minutes of action ends 1-1 in Belfast.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58157867</link>
@@ -56,13 +63,6 @@
             <link>https://www.bbc.co.uk/news/world-africa-58181836</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-58181836</guid>
             <pubDate>Wed, 11 Aug 2021 22:58:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[China: Swiss embassy urges media to remove scientist fake news]]></title>
-            <description><![CDATA[A Swiss biologist who had been quoted in Chinese media in recent days did not exist, it said.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-china-58168588</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-58168588</guid>
-            <pubDate>Wed, 11 Aug 2021 07:19:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Wildfires: How are they linked to climate change?]]></title>
@@ -107,13 +107,6 @@
             <pubDate>Fri, 06 Aug 2021 17:45:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The shopkeeper saving his island from wildfires]]></title>
-            <description><![CDATA[Spyros isn't a firefighter, but when his home was threatened with wildfires, he decided to take action.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58177493</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58177493</guid>
-            <pubDate>Wed, 11 Aug 2021 23:10:18 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Greece fires: Hundreds rescued by coastguard]]></title>
             <description><![CDATA[The coastguard moved 650 people from Limni, in the north of the island of Evia.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-58128033</link>
@@ -140,6 +133,13 @@
             <link>https://www.bbc.co.uk/news/world-middle-east-58108697</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-58108697</guid>
             <pubDate>Thu, 05 Aug 2021 23:01:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tankus the Henge: Touring in France post-Brexit 'a puzzle']]></title>
+            <description><![CDATA[Band Tankus the Henge negotiates touring in France, their first trip there since Brexit rules were imposed.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-58063110</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-58063110</guid>
+            <pubDate>Thu, 05 Aug 2021 23:02:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
