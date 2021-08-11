@@ -9,7 +9,7 @@
 9. [Helicopter finds missing girl asleep in field in Devon](https://www.bbc.co.uk/news/uk-england-devon-58176944) - The disappearance of the girl prompted a large-scale police search.
 10. [Weight Watchers shares dive as people put diets on hold](https://www.bbc.co.uk/news/business-58177676) - Shares in the Oprah Winfrey-backed company drop 25% as subscriber numbers fall after lockdown.
 11. [Man burned down Devon village home as 'revenge' on ex-wife](https://www.bbc.co.uk/news/uk-england-devon-58172810) - John McCorry was "entirely consumed by hatred" for his estranged wife.
-12. [Love Island: Faye and Teddy's row sparks record 25,000 Ofcom complaints](https://www.bbc.co.uk/news/entertainment-arts-58162817) - Faye and Teddy's Casa Amor row sparks the highest number of Ofcom complaints in the show's history.
+12. [Uefa Super Cup: Chelsea defeat Villarreal on penalties in Belfast to lift trophy for second time](https://www.bbc.co.uk/sport/football/58157867) - Chelsea beat Villarreal 6-5 in a penalty shootout to lift the Uefa Super Cup for a second time after a draining 120 minutes of action ends 1-1 in Belfast.
 13. [Sheffield girlfriend gives partner 'gift of life' kidney donation](https://www.bbc.co.uk/news/uk-england-south-yorkshire-58178126) - Eddie Huntley has a rare disease and was on dialysis three times a week before the transplant.
 14. [Charles and Diana's wedding cake slice sells for £1,850](https://www.bbc.co.uk/news/uk-england-gloucestershire-58173317) - The 40-year-old slice of wedding cake was bought by a buyer from Leeds.
 15. [Max Woosey: Camping challenge boy sleeps out for 500th night](https://www.bbc.co.uk/news/uk-england-devon-58169400) - Max Woosey reaches the milestone while spending the night in a shelter built in the woods.
