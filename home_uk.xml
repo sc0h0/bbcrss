@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 11 Aug 2021 13:37:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Aug 2021 13:46:54 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -58,6 +58,13 @@
             <pubDate>Wed, 11 Aug 2021 13:35:12 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Charles and Diana's wedding cake slice sells for £1,850]]></title>
+            <description><![CDATA[The 40-year-old slice of wedding cake was bought by a buyer from Leeds.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-gloucestershire-58173317</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-gloucestershire-58173317</guid>
+            <pubDate>Wed, 11 Aug 2021 12:25:14 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Disability campaigner stranded after hotel shower fall]]></title>
             <description><![CDATA[Jennie Berry was stuck on her bathroom floor for 20 minutes after the shower seat broke.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-tees-58159843</link>
@@ -77,13 +84,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-tees-58169501</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-tees-58169501</guid>
             <pubDate>Wed, 11 Aug 2021 13:16:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Charles and Diana's wedding cake slice sells for £1,850]]></title>
-            <description><![CDATA[The 40-year-old slice of wedding cake was bought by a buyer from Leeds.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-gloucestershire-58173317</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-gloucestershire-58173317</guid>
-            <pubDate>Wed, 11 Aug 2021 12:25:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Max Woosey: Camping challenge boy sleeps out for 500th night]]></title>
@@ -280,13 +280,6 @@
             <link>https://www.bbc.co.uk/sport/boxing/58170707</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/boxing/58170707</guid>
             <pubDate>Wed, 11 Aug 2021 10:08:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Hundred: Women's game being transformed by new competition]]></title>
-            <description><![CDATA[Whether it was by accident or design - or both - women's cricket is being transformed by The Hundred, writes Isabelle Westbury.]]></description>
-            <link>https://www.bbc.co.uk/sport/cricket/58149676</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/58149676</guid>
-            <pubDate>Wed, 11 Aug 2021 05:15:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid vaccine: Fertility and miscarriage claims fact-checked]]></title>

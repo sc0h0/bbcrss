@@ -8,7 +8,7 @@
 8. [Michael Spavor: Canadian jailed for 11 years in China on spying charges](https://www.bbc.co.uk/news/world-asia-china-58168587) - His sentencing is the latest development in a diplomatic spat between the two countries.
 9. [Brazil's Bolsonaro defeated over printed ballot proposal](https://www.bbc.co.uk/news/world-latin-america-58171369) - A plan by President Bolsonaro to switch to printed ballots fails to get enough support in Congress.
 10. [New York Governor Andrew Cuomo resigns in wake of harassment report](https://www.bbc.co.uk/news/world-us-canada-58164719) - The Democrat says he will step aside after an inquiry found he sexually harassed multiple women.
-11. [Swiss embassy urges Chinese media to remove articles about scientist](https://www.bbc.co.uk/news/world-asia-china-58168588) - A Swiss biologist who had been quoted in Chinese media in recent days did not exist, it said.
+11. [China: Swiss embassy urges media to remove scientist fake news](https://www.bbc.co.uk/news/world-asia-china-58168588) - A Swiss biologist who had been quoted in Chinese media in recent days did not exist, it said.
 12. [Poland's ruling coalition frays ahead of key media vote](https://www.bbc.co.uk/news/world-europe-58164513) - The prime minister sacks his deputy, who opposed a controversial change to the country's media law.
 13. [Kathy Hochul: Who is New York's first female governor?](https://www.bbc.co.uk/news/world-us-canada-58167825) - The history-making Democrat will take the role after Andrew Cuomo resigned over harassment claims.
 14. [Fenty Beauty: How make-up helped Rihanna become a billionaire](https://www.bbc.co.uk/news/newsbeat-58084543) - Rihanna makes more money from her make-up than from her music and acting work.

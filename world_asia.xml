@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 11 Aug 2021 13:29:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Aug 2021 13:44:56 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -37,6 +37,13 @@
             <pubDate>Wed, 11 Aug 2021 10:45:37 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Tokyo 2020: Some Australian Olympians face 28-day quarantine]]></title>
+            <description><![CDATA[Some Australians Olympians are having to quarantine for 28 days after returning to their country from Tokyo]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/58172665</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58172665</guid>
+            <pubDate>Wed, 11 Aug 2021 11:43:21 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[China to ban karaoke songs with 'illegal content']]></title>
             <description><![CDATA[Songs that fall under this category include those that endanger national or territorial integrity.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-china-58168638</link>
@@ -44,7 +51,7 @@
             <pubDate>Wed, 11 Aug 2021 08:13:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Swiss embassy urges Chinese media to remove articles about scientist]]></title>
+            <title><![CDATA[China: Swiss embassy urges media to remove scientist fake news]]></title>
             <description><![CDATA[A Swiss biologist who had been quoted in Chinese media in recent days did not exist, it said.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-china-58168588</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-58168588</guid>
