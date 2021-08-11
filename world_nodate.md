@@ -2,7 +2,7 @@
 2. [Afghanistan war: Army chief replaced as Taliban seize more cities](https://www.bbc.co.uk/news/world-asia-58170847) - General Wali Mohammad Ahmadzai is removed from his post, as the insurgents take more cities.
 3. [Wagner: Scale of Russian mercenary mission in Libya exposed](https://www.bbc.co.uk/news/world-africa-58009514) - A Samsung tablet obtained by the BBC unveils chilling details of how mercenaries fought in Libya’s war.
 4. [Italy may have registered Europe's hottest temperature on record](https://www.bbc.co.uk/news/world-europe-58130893) - If the registered reading is verified, it will be hottest temperature ever recorded in Europe.
-5. [Briton suspected of spying for Russia arrested in Germany](https://www.bbc.co.uk/news/world-europe-58170872) - German federal prosecutors say the British man passed documents to Russian intelligence for cash.
+5. [Polish parliament passes controversial media bill](https://www.bbc.co.uk/news/world-europe-58180761) - Opponents say the plans are an attempt to silence a TV channel critical of the government.
 6. [Algeria forest fires: At least 65 people killed as fires spread](https://www.bbc.co.uk/news/world-africa-58174918) - At least 65 people have been killed as the fires continue to spread amid an intense heatwave.
 7. [Johnny Depp's film festival awards insulting, domestic abuse charities say](https://www.bbc.co.uk/news/entertainment-arts-58170506) - The actor, labelled a "wife beater" by The Sun, is to be honoured in Spain and the Czech Republic.
 8. [Hackers steal $600m in major cryptocurrency heist](https://www.bbc.co.uk/news/business-58163917) - Thousands of digital tokens have been stolen by hackers in one of the largest cryptocurrency heists.

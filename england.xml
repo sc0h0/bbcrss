@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 11 Aug 2021 20:50:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Aug 2021 21:07:03 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -34,7 +34,7 @@
             <description><![CDATA[After a blackout of more than 24 hours, BBC TV channels for most homes are restored.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-tees-58181439</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-tees-58181439</guid>
-            <pubDate>Wed, 11 Aug 2021 20:12:34 GMT</pubDate>
+            <pubDate>Wed, 11 Aug 2021 21:06:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sheffield girlfriend gives partner 'gift of life' kidney donation]]></title>
@@ -114,6 +114,13 @@
             <pubDate>Mon, 09 Aug 2021 20:01:37 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Baby loss: 'Our world grows around the grief']]></title>
+            <description><![CDATA[Ross Coniam set up the Dads and Lads Network for men who have gone through baby loss.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-58146834</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-58146834</guid>
+            <pubDate>Mon, 09 Aug 2021 23:03:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Birmingham riots: Tariq Jahan reflects 10 years on]]></title>
             <description><![CDATA[Tariq Jahan says he forgives the men who killed his son during the 2011 riots in Birmingham.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-birmingham-58147894</link>
@@ -126,13 +133,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-nottinghamshire-58091757</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-nottinghamshire-58091757</guid>
             <pubDate>Sun, 08 Aug 2021 23:01:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['Walking to space was the best day of my life']]></title>
-            <description><![CDATA[Tim, aged nine, walked 62 miles - the distance between Earth's atmosphere and the boundary of space.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-nottinghamshire-58071075</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-nottinghamshire-58071075</guid>
-            <pubDate>Sat, 07 Aug 2021 23:01:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Leeds family wins injunction in bid to halt deportation]]></title>
@@ -198,11 +198,11 @@
             <pubDate>Wed, 11 Aug 2021 18:57:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Hundred: Southern Brave's brutal batting secures them a place in the final]]></title>
-            <description><![CDATA[Southern Brave secure a place in The Hundred final with a convincing win against Welsh Fire.]]></description>
-            <link>https://www.bbc.co.uk/sport/cricket/58177423</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/58177423</guid>
-            <pubDate>Wed, 11 Aug 2021 16:54:30 GMT</pubDate>
+            <title><![CDATA[Coventry City 1-2 Northampton Town: Cobblers knock out Championship side]]></title>
+            <description><![CDATA[Kion Etete scores twice on his first senior start as Northampton Town come from behind to knock Coventry City out of the Carabao Cup.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58081632</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58081632</guid>
+            <pubDate>Wed, 11 Aug 2021 20:53:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
