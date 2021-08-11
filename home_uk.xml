@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 11 Aug 2021 21:10:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Aug 2021 21:25:48 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -51,6 +51,13 @@
             <pubDate>Wed, 11 Aug 2021 19:35:58 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Chingford stabbing: Two boys held after man killed in street]]></title>
+            <description><![CDATA[The 14-year-olds are in custody following the death of James Markham in east London on Monday.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-58181159</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-58181159</guid>
+            <pubDate>Wed, 11 Aug 2021 19:55:26 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Henley Royal Regatta dress code allows women to wear trousers]]></title>
             <description><![CDATA[Henley Royal Regatta changes its rules for the Steward's Enclosure for the first time in decades.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-oxfordshire-58173881</link>
@@ -84,13 +91,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-devon-58172810</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-devon-58172810</guid>
             <pubDate>Wed, 11 Aug 2021 13:47:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bilsdale transmitter fire: TV and radio services largely restored]]></title>
-            <description><![CDATA[After a blackout of more than 24 hours, BBC TV channels for most homes are restored.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-tees-58181439</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-tees-58181439</guid>
-            <pubDate>Wed, 11 Aug 2021 21:06:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Love Island: Faye and Teddy's row sparks record 25,000 Ofcom complaints]]></title>
@@ -171,7 +171,7 @@
         </item>
         <item>
             <title><![CDATA[National anthem: Should Wales' teams sing God Save the Queen?]]></title>
-            <description><![CDATA[Mae Hen Wlad Fy Nhadau has been sung before Wales rugby internationals for 116 years.]]></description>
+            <description><![CDATA[Hen Wlad Fy Nhadau has been sung before Wales rugby internationals for 116 years.]]></description>
             <link>https://www.bbc.co.uk/news/uk-wales-58171799</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58171799</guid>
             <pubDate>Wed, 11 Aug 2021 15:07:34 GMT</pubDate>

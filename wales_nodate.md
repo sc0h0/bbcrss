@@ -1,6 +1,6 @@
 1. [Cardiff: Three in court charged with Bute Park murder](https://www.bbc.co.uk/news/uk-wales-58177615) - Dr Gary Jenkins died 16 days after he was attacked in the city centre park on 20 July.
 2. [Mumbles: Boy, 12, in hospital after open-top bus crash](https://www.bbc.co.uk/news/uk-wales-58172145) - Several other people also sustained minor injuries after the sight-seeing bus crashed.
-3. [National anthem: Should Wales' teams sing God Save the Queen?](https://www.bbc.co.uk/news/uk-wales-58171799) - Mae Hen Wlad Fy Nhadau has been sung before Wales rugby internationals for 116 years.
+3. [National anthem: Should Wales' teams sing God Save the Queen?](https://www.bbc.co.uk/news/uk-wales-58171799) - Hen Wlad Fy Nhadau has been sung before Wales rugby internationals for 116 years.
 4. [Kirsty Williams: Abuse of women in politics getting worse](https://www.bbc.co.uk/news/uk-wales-politics-58145445) - Kirsty Williams says she could not keep her family safe from trolling while Welsh education minister.
 5. [Greece fires: Welsh firefighters help battle wildfires](https://www.bbc.co.uk/news/uk-wales-58172031) - The UK's 21-strong team includes four Welsh firefighters, who are unsure when they will return home.
 6. [Covid: Tories accuse Starmer of hypocrisy over travel tests](https://www.bbc.co.uk/news/uk-wales-politics-58116335) - He is accused of ignoring Welsh Labour ministers' insistence that travellers use higher-cost tests.

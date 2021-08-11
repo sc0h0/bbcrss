@@ -3,12 +3,12 @@
 3. [Italy may have registered Europe's hottest temperature on record](https://www.bbc.co.uk/news/world-europe-58130893) - If the registered reading is verified, it will be hottest temperature ever recorded in Europe.
 4. [Briton suspected of spying for Russia arrested in Germany](https://www.bbc.co.uk/news/world-europe-58170872) - German federal prosecutors say the British man passed documents to Russian intelligence for cash.
 5. [University of Leeds students offered £10k and free housing to defer](https://www.bbc.co.uk/news/uk-england-leeds-58176877) - Some courses in the university's schools of law and business are oversubscribed.
-6. [Henley Royal Regatta dress code allows women to wear trousers](https://www.bbc.co.uk/news/uk-england-oxfordshire-58173881) - Henley Royal Regatta changes its rules for the Steward's Enclosure for the first time in decades.
-7. [Gurkha veterans on hunger strike outside Downing Street](https://www.bbc.co.uk/news/uk-58159773) - Gurkha veterans say they will starve themselves to death if they do not get pensions equal to British soldiers.
-8. [Helicopter finds missing girl asleep in field in Devon](https://www.bbc.co.uk/news/uk-england-devon-58176944) - The disappearance of the girl prompted a large-scale police search.
-9. [Weight Watchers shares dive as people put diets on hold](https://www.bbc.co.uk/news/business-58177676) - Shares in the Oprah Winfrey-backed company drop 25% as subscriber numbers fall after lockdown.
-10. [Man burned down Devon village home as 'revenge' on ex-wife](https://www.bbc.co.uk/news/uk-england-devon-58172810) - John McCorry was "entirely consumed by hatred" for his estranged wife.
-11. [Bilsdale transmitter fire: TV and radio services largely restored](https://www.bbc.co.uk/news/uk-england-tees-58181439) - After a blackout of more than 24 hours, BBC TV channels for most homes are restored.
+6. [Chingford stabbing: Two boys held after man killed in street](https://www.bbc.co.uk/news/uk-england-london-58181159) - The 14-year-olds are in custody following the death of James Markham in east London on Monday.
+7. [Henley Royal Regatta dress code allows women to wear trousers](https://www.bbc.co.uk/news/uk-england-oxfordshire-58173881) - Henley Royal Regatta changes its rules for the Steward's Enclosure for the first time in decades.
+8. [Gurkha veterans on hunger strike outside Downing Street](https://www.bbc.co.uk/news/uk-58159773) - Gurkha veterans say they will starve themselves to death if they do not get pensions equal to British soldiers.
+9. [Helicopter finds missing girl asleep in field in Devon](https://www.bbc.co.uk/news/uk-england-devon-58176944) - The disappearance of the girl prompted a large-scale police search.
+10. [Weight Watchers shares dive as people put diets on hold](https://www.bbc.co.uk/news/business-58177676) - Shares in the Oprah Winfrey-backed company drop 25% as subscriber numbers fall after lockdown.
+11. [Man burned down Devon village home as 'revenge' on ex-wife](https://www.bbc.co.uk/news/uk-england-devon-58172810) - John McCorry was "entirely consumed by hatred" for his estranged wife.
 12. [Love Island: Faye and Teddy's row sparks record 25,000 Ofcom complaints](https://www.bbc.co.uk/news/entertainment-arts-58162817) - Faye and Teddy's Casa Amor row sparks the highest number of Ofcom complaints in the show's history.
 13. [Sheffield girlfriend gives partner 'gift of life' kidney donation](https://www.bbc.co.uk/news/uk-england-south-yorkshire-58178126) - Eddie Huntley has a rare disease and was on dialysis three times a week before the transplant.
 14. [Charles and Diana's wedding cake slice sells for £1,850](https://www.bbc.co.uk/news/uk-england-gloucestershire-58173317) - The 40-year-old slice of wedding cake was bought by a buyer from Leeds.
@@ -20,7 +20,7 @@
 20. [CEO Secrets: Foot Locker boss shares his advice](https://www.bbc.co.uk/news/business-58101254) - Richard Johnson, CEO of Foot Locker, reflects on the lessons of the pandemic for business leaders.
 21. [Afghanistan: The people fleeing the north for safety in Kabul](https://www.bbc.co.uk/news/world-asia-58170433) - The Taliban has taken new territories in the north, forcing thousands out of their homes.
 22. [Wildfires: How are they linked to climate change?](https://www.bbc.co.uk/news/58159451) - A series of major wildfires across the world has hit the headlines - how do they compare to previous years?
-23. [National anthem: Should Wales' teams sing God Save the Queen?](https://www.bbc.co.uk/news/uk-wales-58171799) - Mae Hen Wlad Fy Nhadau has been sung before Wales rugby internationals for 116 years.
+23. [National anthem: Should Wales' teams sing God Save the Queen?](https://www.bbc.co.uk/news/uk-wales-58171799) - Hen Wlad Fy Nhadau has been sung before Wales rugby internationals for 116 years.
 24. [Mapping the advance of the Taliban in Afghanistan](https://www.bbc.co.uk/news/world-asia-57933979) - Maps of Afghanistan show who controls districts in fighting between the government and Taliban forces.
 25. [The Orielles: How the band turned their album into a film score](https://www.bbc.co.uk/news/entertainment-arts-58083762) - The band on surreal gigs at cricket grounds and the "happenings" that inspired their new project.
 26. [Fenty Beauty: How make-up helped Rihanna become a billionaire](https://www.bbc.co.uk/news/newsbeat-58084543) - Rihanna makes more money from her make-up than from her music and acting work.
