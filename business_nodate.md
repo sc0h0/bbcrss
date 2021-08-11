@@ -1,6 +1,6 @@
 1. [Winchester is now the least affordable UK city to buy a home](https://www.bbc.co.uk/news/business-58162371) - Winchester has leapfrogged Oxford to become the UK’s least affordable city to buy a home, says a survey.
 2. [Hackers steal $600m in major cryptocurrency heist](https://www.bbc.co.uk/news/business-58163917) - Thousands of digital tokens have been stolen by hackers in one of the largest cryptocurrency heists.
-3. [China tech giant Xiaomi aims at smartphone global top spot](https://www.bbc.co.uk/news/business-58168547) - The comments come as the Beijing-based firm celebrates the 10-year anniversary of its first smartphone.
+3. [China tech giant Xiaomi aims at smartphone global top spot](https://www.bbc.co.uk/news/business-58168547) - The comments come as the Beijing-based firm celebrates the 10th anniversary of its first smartphone.
 4. [Northern Ireland firm Euro Auctions sold for £775m](https://www.bbc.co.uk/news/uk-northern-ireland-58152835) - The Dromore company, set up in 1998, has grown to have more than 200 staff across 14 countries.
 5. [David Cameron personally promoted Greensill to investors](https://www.bbc.co.uk/news/business-58160208) - BBC Panorama finds Mr Cameron appeared alongside the controversial company's founder at a 2019 event.
 6. [Amazon to pay out over defective third party goods](https://www.bbc.co.uk/news/business-58163915) - The shopping giant will compensate customers who are harmed by defective goods sold in the US.
