@@ -3,11 +3,11 @@
 3. [Disability campaigner stranded after hotel shower fall](https://www.bbc.co.uk/news/uk-england-tees-58159843) - Jennie Berry was stuck on her bathroom floor for 20 minutes after the shower seat broke.
 4. [Essex baby given £1.79m drug for spinal muscular atrophy](https://www.bbc.co.uk/news/uk-england-essex-58101748) - Eleven-month-old Edward has received the world's most expensive drug after a campaign by his parents.
 5. [Woman found dead in Perton lay-by was set alight](https://www.bbc.co.uk/news/uk-england-stoke-staffordshire-58163416) - Police are still trying to identify the woman, who they say is aged between her mid-teens to late 20s.
-6. [Smitten prison officer helped inmate lover escape](https://www.bbc.co.uk/news/uk-england-derbyshire-58160687) - Erica Whittingham met prisoner Michael Seddon after her marriage broke down, a court hears.
-7. [Winchester is now the least affordable UK city to buy a home](https://www.bbc.co.uk/news/business-58162371) - Winchester has leapfrogged Oxford to become the UK’s least affordable city to buy a home, says a survey.
+6. [Winchester is now the least affordable UK city to buy a home](https://www.bbc.co.uk/news/business-58162371) - Winchester has leapfrogged Oxford to become the UK’s least affordable city to buy a home, says a survey.
+7. [Bristol Balloon Fiesta: City's largest multi-site launch](https://www.bbc.co.uk/news/uk-england-bristol-58169580) - Around 40 hot air balloons launch from five locations across Bristol as part of Fiesta Fortnight.
 8. [M1: Two children die in crash near junction 14](https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-58165017) - A woman is arrested on suspicion of driving when above the prescribed limit of alcohol.
 9. [Tributes to boy hit by mirror in department store](https://www.bbc.co.uk/news/uk-england-essex-58158096) - Freddie Farrow died days after being struck by a mirror in a High Street department store.
-10. [Harwich lifeboat appoints charity's first female coxswain](https://www.bbc.co.uk/news/uk-england-essex-58165076) - Di Bush makes history after becoming the RNLI's first full-time female coxswain.
+10. [Smitten prison officer helped inmate lover escape](https://www.bbc.co.uk/news/uk-england-derbyshire-58160687) - Erica Whittingham met prisoner Michael Seddon after her marriage broke down, a court hears.
 11. [Megan Newborough: Murder charge after missing woman found dead](https://www.bbc.co.uk/news/uk-england-leicestershire-58163532) - The body of 23-year-old Megan Newborough was discovered in Leicestershire on Sunday.
 12. [Transmitter fire disrupts TV for 1m people](https://www.bbc.co.uk/news/uk-england-tees-58163612) - More than a million people across North Yorkshire and parts of the North East are affected.
 13. [Tokyo Olympics: Galal Yafai returns to UK from Tokyo](https://www.bbc.co.uk/news/uk-england-birmingham-58151399) - Galal Yafai was met with cheers and chanting as he arrived at London Heathrow Airport from Tokyo.
