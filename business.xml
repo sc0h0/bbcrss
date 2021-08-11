@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 11 Aug 2021 23:04:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Aug 2021 23:22:30 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Cryptocurrency heist hacker returns $260m in funds]]></title>
+            <description><![CDATA[The hacker behind the $600m Poly Network cryptocurrency heist has posted a Q&A on the blockchain.]]></description>
+            <link>https://www.bbc.co.uk/news/business-58180692</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58180692</guid>
+            <pubDate>Wed, 11 Aug 2021 23:10:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Google may cut pay of staff who work from home]]></title>
             <description><![CDATA[The tech giant has developed a calculator that lets staff see the effects of remote working.]]></description>
@@ -91,13 +98,6 @@
             <link>https://www.bbc.co.uk/news/business-58163917</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58163917</guid>
             <pubDate>Wed, 11 Aug 2021 15:40:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gower salt marsh lamb receives protected status]]></title>
-            <description><![CDATA[The meat from lambs born and bred on the Gower Peninsula is now protected from copycat rivals.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-58164754</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58164754</guid>
-            <pubDate>Wed, 11 Aug 2021 10:57:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sharing apps are booming but will the kindness continue?]]></title>

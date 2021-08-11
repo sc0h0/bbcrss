@@ -17,8 +17,8 @@
 17. [Tokyo 2020: Egypt's Sherif to 'play with heart' in historic medal bid](https://www.bbc.co.uk/sport/africa/57844534) - Mayar Sherif will play 'with her heart' as she becomes the first Egyptian woman to play Olympic tennis for her country.
 18. [Pegasus: Who are the alleged victims of spyware targeting?](https://www.bbc.co.uk/news/world-57891506) - Jamal Khashoggi's wife and the editor of the Financial Times are among those said to be targeted.
 19. [The referee making Olympic history](https://www.bbc.co.uk/sport/africa/57899407) - The first Arab and African woman to referee 3x3 basketball at the Olympics shares how her Muslim faith has guided her career.
-20. [Fashion photographer: 'The world doesn't see this part of Afghanistan'](https://www.bbc.co.uk/news/world-asia-58147426) - Fatimah Hossaini is a fashion photographer in Afghanistan and wants to use her work to help women be seen.
-21. [Beirut blast: ‘The day our city exploded’](https://www.bbc.co.uk/news/world-middle-east-58076999) - One year on from the blast that rocked Beirut, no one has yet been made accountable.
-22. [Lebanon blast: ‘Path towards reform irreversible’](https://www.bbc.co.uk/news/world-middle-east-58091119) - We owe it to our people to tackle issues which led to the blast, the ambassador to the UK says.
-23. [The separated refugees brought back together by judo](https://www.bbc.co.uk/news/world-58020945) - Sanda Aldass and Muna Dahouk have trained together since childhood but the war in Syria separated them.
-24. [Lebanon’s descent into darkness](https://www.bbc.co.uk/news/world-middle-east-57988693) - The country's economic crisis has forced some families to move into refugee camps to survive.
+20. [Afghanistan war: Do the Taliban want to conquer or compromise?](https://www.bbc.co.uk/news/world-asia-58181670) - The BBC speaks to two high profile figures in its chain of command who have very different messages.
+21. [Fashion photographer: 'The world doesn't see this part of Afghanistan'](https://www.bbc.co.uk/news/world-asia-58147426) - Fatimah Hossaini is a fashion photographer in Afghanistan and wants to use her work to help women be seen.
+22. [Beirut blast: ‘The day our city exploded’](https://www.bbc.co.uk/news/world-middle-east-58076999) - One year on from the blast that rocked Beirut, no one has yet been made accountable.
+23. [Lebanon blast: ‘Path towards reform irreversible’](https://www.bbc.co.uk/news/world-middle-east-58091119) - We owe it to our people to tackle issues which led to the blast, the ambassador to the UK says.
+24. [The separated refugees brought back together by judo](https://www.bbc.co.uk/news/world-58020945) - Sanda Aldass and Muna Dahouk have trained together since childhood but the war in Syria separated them.
