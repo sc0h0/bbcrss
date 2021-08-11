@@ -1,15 +1,15 @@
-1. [Cryptocurrency heist hacker returns $260m in funds](https://www.bbc.co.uk/news/business-58180692) - The hacker behind the $600m Poly Network cryptocurrency heist has posted a Q&A on the blockchain.
-2. [Google may cut pay of staff who work from home](https://www.bbc.co.uk/news/business-58171716) - The tech giant has developed a calculator that lets staff see the effects of remote working.
-3. [Weight Watchers shares dive as people put diets on hold](https://www.bbc.co.uk/news/business-58177676) - Shares in the Oprah Winfrey-backed company drop 25% as subscriber numbers fall after lockdown.
-4. [Post Office to fight six appeals in IT scandal](https://www.bbc.co.uk/news/business-58170897) - More appeal cases are being heard after hundreds of sub-postmasters were wrongly accused of stealing.
-5. [White House urges action on oil as gasoline prices rise](https://www.bbc.co.uk/news/business-58177675) - The global recovery could falter if major oil-producing nations do not increase supply, says the White House.
-6. [Morrisons to give workers Boxing Day off](https://www.bbc.co.uk/news/business-58167627) - The supermarket chain has given all its 111,000 staff the day off as a reward for their work during the pandemic.
-7. [David Cameron in row over promoting genetics firm Illumina](https://www.bbc.co.uk/news/business-58146567) - Mr Cameron encouraged Matt Hancock to speak at a conference co-hosted by Illumina before it won a government contract.
-8. [Deliveroo orders double as lockdown habits endure](https://www.bbc.co.uk/news/business-58169570) - First results from the newly floated food delivery firm see first-half losses narrow to £104.8m.
-9. [Winchester is now the least affordable UK city to buy a home](https://www.bbc.co.uk/news/business-58162371) - Winchester has leapfrogged Oxford to become the UK’s least affordable city to buy a home, says a survey.
-10. [Working from home job adverts rise](https://www.bbc.co.uk/news/business-58160245) - Recruitment firms say an increasing number of jobseekers now expect flexible working "as the norm".
-11. [Odeon owner AMC to accept payment in Bitcoin](https://www.bbc.co.uk/news/business-58163914) - Cinemagoers will be able to buy tickets and popcorn using the cryptocurrency, says the US chain.
-12. [Hackers steal $600m in major cryptocurrency heist](https://www.bbc.co.uk/news/business-58163917) - Thousands of digital tokens have been stolen by hackers in one of the largest cryptocurrency heists.
+1. [Boohoo boss: 'We're not a throwaway fashion brand'](https://www.bbc.co.uk/news/business-58160237) - The boss of fast fashion retailer Boohoo tells the BBC it is committed to being more sustainable.
+2. [Cryptocurrency heist hacker returns $260m in funds](https://www.bbc.co.uk/news/business-58180692) - The hacker behind the $600m Poly Network cryptocurrency heist has posted a Q&A on the blockchain.
+3. [Google may cut pay of staff who work from home](https://www.bbc.co.uk/news/business-58171716) - The tech giant has developed a calculator that lets staff see the effects of remote working.
+4. [Weight Watchers shares dive as people put diets on hold](https://www.bbc.co.uk/news/business-58177676) - Shares in the Oprah Winfrey-backed company drop 25% as subscriber numbers fall after lockdown.
+5. [Post Office to fight six appeals in IT scandal](https://www.bbc.co.uk/news/business-58170897) - More appeal cases are being heard after hundreds of sub-postmasters were wrongly accused of stealing.
+6. [White House urges action on oil as gasoline prices rise](https://www.bbc.co.uk/news/business-58177675) - The global recovery could falter if major oil-producing nations do not increase supply, says the White House.
+7. [Morrisons to give workers Boxing Day off](https://www.bbc.co.uk/news/business-58167627) - The supermarket chain has given all its 111,000 staff the day off as a reward for their work during the pandemic.
+8. [David Cameron in row over promoting genetics firm Illumina](https://www.bbc.co.uk/news/business-58146567) - Mr Cameron encouraged Matt Hancock to speak at a conference co-hosted by Illumina before it won a government contract.
+9. [Deliveroo orders double as lockdown habits endure](https://www.bbc.co.uk/news/business-58169570) - First results from the newly floated food delivery firm see first-half losses narrow to £104.8m.
+10. [Winchester is now the least affordable UK city to buy a home](https://www.bbc.co.uk/news/business-58162371) - Winchester has leapfrogged Oxford to become the UK’s least affordable city to buy a home, says a survey.
+11. [Working from home job adverts rise](https://www.bbc.co.uk/news/business-58160245) - Recruitment firms say an increasing number of jobseekers now expect flexible working "as the norm".
+12. [Odeon owner AMC to accept payment in Bitcoin](https://www.bbc.co.uk/news/business-58163914) - Cinemagoers will be able to buy tickets and popcorn using the cryptocurrency, says the US chain.
 13. [Sharing apps are booming but will the kindness continue?](https://www.bbc.co.uk/news/business-57981598) - The pandemic sparked a surge in activity for sharing apps like Olio but has the trend run its course?
 14. [Can technology help authors write a book?](https://www.bbc.co.uk/news/business-58098481) - Writing a novel is notoriously difficult, but technology may give the writer a helping hand.
 15. [The activist entrepreneurs running zero-waste shops](https://www.bbc.co.uk/news/business-57920754) - Environmentally conscious entrepreneurs explain the movement towards zero-waste lifestyles.

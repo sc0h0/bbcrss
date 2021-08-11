@@ -1,6 +1,6 @@
 1. [Afghanistan war: Taliban back brutal rule as they strike for power](https://www.bbc.co.uk/news/world-asia-58156772) - Afghanistan's ex-rulers still back brutal punishments, the BBC finds as it goes behind Taliban lines.
 2. [Afghanistan war: Army chief replaced as Taliban seize more cities](https://www.bbc.co.uk/news/world-asia-58170847) - General Wali Mohammad Ahmadzai is removed from his post, as the insurgents take more cities.
-3. [Wagner: Scale of Russian mercenary mission in Libya exposed](https://www.bbc.co.uk/news/world-africa-58009514) - A Samsung tablet obtained by the BBC unveils chilling details of how mercenaries fought in Libya’s war.
+3. [Tokyo 2020: Meet Tokyo's youngest Olympic champion](https://www.bbc.co.uk/news/world-asia-58168591) - After the sport's debut in the Olympics, athletes say people are seeing it in a whole new light.
 4. [Italy may have registered Europe's hottest temperature on record](https://www.bbc.co.uk/news/world-europe-58130893) - If the registered reading is verified, it will be hottest temperature ever recorded in Europe.
 5. [Polish parliament passes controversial media bill](https://www.bbc.co.uk/news/world-europe-58180761) - Opponents say the plans are an attempt to silence a TV channel critical of the government.
 6. [Shell pays $111m over 1970s oil spill in Nigeria](https://www.bbc.co.uk/news/world-africa-58181836) - The payment marks the end of a long-running legal battle over a spill during the 1967-70 Biafran War.
@@ -11,16 +11,12 @@
 11. [Google may cut pay of staff who work from home](https://www.bbc.co.uk/news/business-58171716) - The tech giant has developed a calculator that lets staff see the effects of remote working.
 12. [Kinnaur: At least 10 dead and dozens trapped in India landslide](https://www.bbc.co.uk/news/world-asia-india-58171679) - Boulders fall on a Himalayan highway, killing at least 10 people and trapping many more.
 13. [Afghanistan: The people fleeing the north for safety in Kabul](https://www.bbc.co.uk/news/world-asia-58170433) - The Taliban has taken new territories in the north, forcing thousands out of their homes.
-14. [Kathy Hochul: Who is New York's first female governor?](https://www.bbc.co.uk/news/world-us-canada-58167825) - The history-making Democrat will take the role after Andrew Cuomo resigned over harassment claims.
-15. [Fenty Beauty: How make-up helped Rihanna become a billionaire](https://www.bbc.co.uk/news/newsbeat-58084543) - Rihanna makes more money from her make-up than from her music and acting work.
-16. [Wildfires: How are they linked to climate change?](https://www.bbc.co.uk/news/58159451) - A series of major wildfires across the world has hit the headlines - how do they compare to previous years?
-17. [Zambia election: Young voters may hold the cards](https://www.bbc.co.uk/news/world-africa-58146384) - Zambia will vote on Thursday amid growing concern about high unemployment and inflation.
-18. [Infrastructure bill: $1tn for clean energy, internet, trains and more](https://www.bbc.co.uk/news/world-us-canada-58152467) - The $1tn bill takes aim at issues from buckling bridges to global warming and remote working.
-19. [Olympic medals: An alternative table - with US 15th](https://www.bbc.co.uk/news/world-us-canada-58143550) - How would the medals table look if population and wealth were taken into account?
-20. [Afghanistan: Why is there a war?](https://www.bbc.co.uk/news/world-asia-49192495) - As foreign forces pull out after 20 years of war, what did it achieve and what happens next?
-21. [Why South Korean women are reclaiming their short hair](https://www.bbc.co.uk/news/world-asia-58082355) - Thousands proudly show off their short hair after an Olympic athlete is criticised for her haircut.
-22. [Afghanistan war: Do the Taliban want to conquer or compromise?](https://www.bbc.co.uk/news/world-asia-58181670) - The BBC speaks to two high profile figures in its chain of command who have very different messages.
-23. [The shopkeeper saving his island from wildfires](https://www.bbc.co.uk/news/world-europe-58177493) - Spyros isn't a firefighter, but when his home was threatened with wildfires, he decided to take action.
-24. [Tokyo 2020: Meet Tokyo's youngest Olympic champion](https://www.bbc.co.uk/news/world-asia-58168591) - After the sport's debut in the Olympics, athletes say people are seeing it in a whole new light.
-25. [The illegal gold mines killing rivers and livelihoods in Ghana](https://www.bbc.co.uk/news/world-africa-58119653) - Sixty percent of Ghana's water bodies are now polluted, largely due to illegal mining operations.
-26. [Cuomo resigns as New York governor](https://www.bbc.co.uk/news/world-us-canada-58165667) - New York Governor Andrew Cuomo announces his resignation after sexual harassment inquiry.
+14. [How North American cities are bracing for more heatwaves](https://www.bbc.co.uk/news/world-us-canada-58015089) - Local governments are getting creative when it comes to tackling frequent and extreme heat.
+15. [Kathy Hochul: Who is New York's first female governor?](https://www.bbc.co.uk/news/world-us-canada-58167825) - The history-making Democrat will take the role after Andrew Cuomo resigned over harassment claims.
+16. [Wagner: Scale of Russian mercenary mission in Libya exposed](https://www.bbc.co.uk/news/world-africa-58009514) - A Samsung tablet obtained by the BBC unveils chilling details of how mercenaries fought in Libya’s war.
+17. [The shopkeeper saving his island from wildfires](https://www.bbc.co.uk/news/world-europe-58177493) - Spyros isn't a firefighter, but when his home was threatened with wildfires, he decided to take action.
+18. [Afghanistan war: Do the Taliban want to conquer or compromise?](https://www.bbc.co.uk/news/world-asia-58181670) - The BBC speaks to two high profile figures in its chain of command who have very different messages.
+19. [The illegal gold mines killing rivers and livelihoods in Ghana](https://www.bbc.co.uk/news/world-africa-58119653) - Sixty percent of Ghana's water bodies are now polluted, largely due to illegal mining operations.
+20. [Cuomo resigns as New York governor](https://www.bbc.co.uk/news/world-us-canada-58165667) - New York Governor Andrew Cuomo announces his resignation after sexual harassment inquiry.
+21. [Lithuania blames Belarus for migrant crisis](https://www.bbc.co.uk/news/world-europe-58121577) - Over 4,000 people are reported to have crossed in Lithuania in recent months.
+22. [Afghanistan: Taliban seizure will challenge West - Gen Sir Nick Carter](https://www.bbc.co.uk/news/world-asia-58158658) - The chief of the defence staff on difficulties ahead if the Taliban illegitimately seize control.
