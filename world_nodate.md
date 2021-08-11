@@ -1,4 +1,4 @@
-1. [Michael Spavor: Canadian jailed for 11 years in China on spying charges](https://www.bbc.co.uk/news/world-asia-china-58168587) - Michael Spavor's sentencing is the latest development in a diplomatic spat between the two countries.
+1. [Michael Spavor: Canadian jailed for 11 years in China on spying charges](https://www.bbc.co.uk/news/world-asia-china-58168587) - His sentencing is the latest development in a diplomatic spat between the two countries.
 2. [Afghanistan war: Biden says he does not regret troop withdrawal](https://www.bbc.co.uk/news/world-asia-58167408) - The US president says Afghan leaders need to fight for their nation, as more cities fall to the Taliban.
 3. [Wagner: Scale of Russian mercenary mission in Libya exposed](https://www.bbc.co.uk/news/world-africa-58009514) - A Samsung tablet obtained by the BBC unveils chilling details of how mercenaries fought in Libya’s war.
 4. [New York Governor Andrew Cuomo resigns in wake of harassment report](https://www.bbc.co.uk/news/world-us-canada-58164719) - The Democrat says he will step aside after an inquiry found he sexually harassed multiple women.

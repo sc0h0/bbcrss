@@ -1,4 +1,4 @@
-1. [Michael Spavor: Canadian jailed for 11 years in China on spying charges](https://www.bbc.co.uk/news/world-asia-china-58168587) - Michael Spavor's sentencing is the latest development in a diplomatic spat between the two countries.
+1. [Michael Spavor: Canadian jailed for 11 years in China on spying charges](https://www.bbc.co.uk/news/world-asia-china-58168587) - His sentencing is the latest development in a diplomatic spat between the two countries.
 2. [Afghanistan war: Biden says he does not regret troop withdrawal](https://www.bbc.co.uk/news/world-asia-58167408) - The US president says Afghan leaders need to fight for their nation, as more cities fall to the Taliban.
 3. [China: Canadian citizen loses appeal against death penalty](https://www.bbc.co.uk/news/world-asia-china-58141758) - The verdict comes as an extradition battle in Canada for Huawei executive Meng Wanzhou continues.
 4. [North Korea leaves hotline with South unanswered during military drills](https://www.bbc.co.uk/news/world-asia-58162289) - Tensions have risen in the Korean peninsula as South Korea and the US hold joint military drills.
