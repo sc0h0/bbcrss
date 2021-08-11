@@ -6,8 +6,8 @@
 6. [I Am Legend screenwriter dismisses anti-vax claims based on film's plot](https://www.bbc.co.uk/news/entertainment-arts-58164833) - A sci-fi writer hits back at unfounded rumours that Covid jabs turn people into zombies.
 7. [Christina Applegate: US actress reveals MS diagnosis](https://www.bbc.co.uk/news/entertainment-arts-58148105) - The Dead To Me star says she was diagnosed with the condition a few months ago.
 8. [Kate Clanchy: Author to rewrite memoir amid book's race and ableism row](https://www.bbc.co.uk/news/entertainment-arts-58151144) - Kate Clanchy says she "got many things wrong" amid anger over her award-winning 2019 memoir.
-9. [Odeon owner AMC to accept payment in Bitcoin](https://www.bbc.co.uk/news/business-58163914) - Cinemagoers will be able to buy tickets and popcorn using the cryptocurrency, says the US chain.
-10. [Vine's co-host Storm urges helmet use after bike crash](https://www.bbc.co.uk/news/entertainment-arts-58156994) - The Jeremy Vine show co-presenter says her helmet saved her when she was knocked down by a car.
+9. [Vine's co-host Storm urges helmet use after bike crash](https://www.bbc.co.uk/news/entertainment-arts-58156994) - The Jeremy Vine show co-presenter says her helmet saved her when she was knocked down by a car.
+10. [Odeon owner AMC to accept payment in Bitcoin](https://www.bbc.co.uk/news/business-58163914) - Cinemagoers will be able to buy tickets and popcorn using the cryptocurrency, says the US chain.
 11. [Sky News Australia removes Covid misinformation clips](https://www.bbc.co.uk/news/world-australia-58168048) - The Rupert Murdoch-owned TV channel was recently banned for a week by YouTube.
 12. [Sheffield Link FM radio station faces sanction over 'Jihadi' chant](https://www.bbc.co.uk/news/uk-england-south-yorkshire-58162579) - An Islamic chant "encouraging violent Jihad" was broadcast by Sheffield-based Link FM, Ofcom says.
 13. [Fenty Beauty: How make-up helped Rihanna become a billionaire](https://www.bbc.co.uk/news/newsbeat-58084543) - Rihanna makes more money from her make-up than from her music and acting work.
