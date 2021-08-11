@@ -4,7 +4,7 @@
 4. [Lithuania to build fence on Belarus border to stop migrants](https://www.bbc.co.uk/news/world-europe-58163073) - Tensions are running high with Belarus after a surge of non-EU migrants into Lithuania.
 5. [Swiss embassy urges Chinese media to remove articles about scientist](https://www.bbc.co.uk/news/world-asia-china-58168588) - A Swiss biologist who had been quoted in Chinese media in recent days did not exist, it said.
 6. [Sweden tries Hamid Nouri over 1988 Iran prison massacre](https://www.bbc.co.uk/news/world-europe-58165166) - Hamid Nouri faces trial over the mass execution of detainees during the Iran-Iraq war.
-7. [Lionel Messi signs two-year Paris St-Germain deal after leaving Barcelona](https://www.bbc.co.uk/sport/football/58163106) - Lionel Messi signs a two-year deal with Paris St-Germain after leaving Barcelona.
+7. [Lionel Messi dreams of Champions League win at Paris St-Germain](https://www.bbc.co.uk/sport/football/58159748) - Lionel Messi says he dreams of winning the Champions League once more after joining Paris St-Germain, adding: "I think we have the team to do it here."
 8. [Wildfires: How are they linked to climate change?](https://www.bbc.co.uk/news/58159451) - A series of major wildfires across the world has hit the headlines - how do they compare to previous years?
 9. [Five things we learned from UN climate report](https://www.bbc.co.uk/news/science-environment-58138714) - What are the key takeaways from the IPCC new study on the science of climate change?
 10. [Climate change: How to be more eco-friendly in everyday life](https://www.bbc.co.uk/news/newsbeat-47990742) - From food to fashion, green bloggers give their top tips to be more eco-friendly.

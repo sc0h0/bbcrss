@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 11 Aug 2021 09:55:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Aug 2021 10:23:07 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -21,6 +21,13 @@
             <link>https://www.bbc.co.uk/news/entertainment-arts-58169510</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-58169510</guid>
             <pubDate>Wed, 11 Aug 2021 08:13:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Chef Tilly Ramsay, daughter of Gordon, joins Strictly Come Dancing]]></title>
+            <description><![CDATA[Chef and social media star Tilly Ramsay joins Dan Walker, Katie McGlynn, Robert Webb and others.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-58089932</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-58089932</guid>
+            <pubDate>Wed, 11 Aug 2021 10:08:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How The Orielles turned their album into a film score]]></title>
@@ -34,7 +41,7 @@
             <description><![CDATA[The operators of a transmitter which serves part of northern England cannot say when it will be fixed.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-tees-58169501</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-tees-58169501</guid>
-            <pubDate>Wed, 11 Aug 2021 09:04:52 GMT</pubDate>
+            <pubDate>Wed, 11 Aug 2021 09:56:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[I Am Legend screenwriter dismisses anti-vax claims based on film's plot]]></title>
@@ -42,13 +49,6 @@
             <link>https://www.bbc.co.uk/news/entertainment-arts-58164833</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-58164833</guid>
             <pubDate>Tue, 10 Aug 2021 19:17:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fenty Beauty: How make-up helped Rihanna become a billionaire]]></title>
-            <description><![CDATA[Rihanna makes more money from her make-up than from her music and acting work.]]></description>
-            <link>https://www.bbc.co.uk/news/newsbeat-58084543</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-58084543</guid>
-            <pubDate>Wed, 11 Aug 2021 00:19:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Christina Applegate: US actress reveals MS diagnosis]]></title>
@@ -65,18 +65,18 @@
             <pubDate>Tue, 10 Aug 2021 13:42:04 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Fenty Beauty: How make-up helped Rihanna become a billionaire]]></title>
+            <description><![CDATA[Rihanna makes more money from her make-up than from her music and acting work.]]></description>
+            <link>https://www.bbc.co.uk/news/newsbeat-58084543</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-58084543</guid>
+            <pubDate>Wed, 11 Aug 2021 00:19:52 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Odeon owner AMC to accept payment in Bitcoin]]></title>
             <description><![CDATA[Cinemagoers will be able to buy tickets and popcorn using the cryptocurrency, says the US chain.]]></description>
             <link>https://www.bbc.co.uk/news/business-58163914</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58163914</guid>
             <pubDate>Tue, 10 Aug 2021 19:32:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sky News Australia removes Covid misinformation clips]]></title>
-            <description><![CDATA[The Rupert Murdoch-owned TV channel was recently banned for a week by YouTube.]]></description>
-            <link>https://www.bbc.co.uk/news/world-australia-58168048</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-australia-58168048</guid>
-            <pubDate>Wed, 11 Aug 2021 04:49:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Vine's co-host Storm urges helmet use after bike crash]]></title>
@@ -86,11 +86,11 @@
             <pubDate>Tue, 10 Aug 2021 12:36:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Strictly Come Dancing: BBC Breakfast's Dan Walker joins 2021 line-up]]></title>
-            <description><![CDATA[He joins Katie McGlynn, Sara Davies, Robert Webb, Tom Fletcher, Rhys Stevenson and others.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-58089932</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-58089932</guid>
-            <pubDate>Tue, 10 Aug 2021 08:44:27 GMT</pubDate>
+            <title><![CDATA[Sky News Australia removes Covid misinformation clips]]></title>
+            <description><![CDATA[The Rupert Murdoch-owned TV channel was recently banned for a week by YouTube.]]></description>
+            <link>https://www.bbc.co.uk/news/world-australia-58168048</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-australia-58168048</guid>
+            <pubDate>Wed, 11 Aug 2021 04:49:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sheffield Link FM radio station faces sanction over 'Jihadi' chant]]></title>

@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 11 Aug 2021 09:55:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Aug 2021 10:22:46 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -28,6 +28,13 @@
             <link>https://www.bbc.co.uk/news/world-europe-58170872</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58170872</guid>
             <pubDate>Wed, 11 Aug 2021 09:44:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A-levels: Warning over private and state school gap]]></title>
+            <description><![CDATA[The former school recovery tsar warns of growing educational inequality as a result of the pandemic.]]></description>
+            <link>https://www.bbc.co.uk/news/education-58172292</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/education-58172292</guid>
+            <pubDate>Wed, 11 Aug 2021 10:01:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Operation Brock: Brexit lorry controls 'could stay']]></title>
@@ -58,18 +65,18 @@
             <pubDate>Wed, 11 Aug 2021 05:08:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Test and Trace boss Dido Harding to step down from NHS role]]></title>
-            <description><![CDATA[Boris Johnson promised a "world-beating" system, but it was heavily criticised during her tenure.]]></description>
-            <link>https://www.bbc.co.uk/news/health-58151615</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-58151615</guid>
-            <pubDate>Mon, 09 Aug 2021 16:29:39 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Humza Yousaf launches legal action over Dundee nursery 'discrimination']]></title>
             <description><![CDATA[Humza Yousaf says his daughter was twice refused a place at the nursery, which denies discrimination.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-tayside-central-58147135</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-tayside-central-58147135</guid>
             <pubDate>Tue, 10 Aug 2021 11:11:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Test and Trace boss Dido Harding to step down from NHS role]]></title>
+            <description><![CDATA[Boris Johnson promised a "world-beating" system, but it was heavily criticised during her tenure.]]></description>
+            <link>https://www.bbc.co.uk/news/health-58151615</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-58151615</guid>
+            <pubDate>Mon, 09 Aug 2021 16:29:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A-level results 2021: Top grades reach record high]]></title>
