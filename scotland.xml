@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 11 Aug 2021 20:40:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Aug 2021 20:52:29 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -62,7 +62,7 @@
             <description><![CDATA[The white Transit van owned by Edinburgh Community Food was parked in Leith when it was stolen.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-58175279</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-58175279</guid>
-            <pubDate>Wed, 11 Aug 2021 13:41:32 GMT</pubDate>
+            <pubDate>Wed, 11 Aug 2021 20:40:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Missing hillwalker: Body found in search for Frank Smith]]></title>
@@ -212,13 +212,6 @@
             <pubDate>Mon, 09 Aug 2021 07:32:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Lawrence Shankland: Dundee United sell striker to Beerschot]]></title>
-            <description><![CDATA[Dundee United sell Scotland striker Lawrence Shankland to Belgian club Beerschot for an undisclosed fee.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58156602</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58156602</guid>
-            <pubDate>Wed, 11 Aug 2021 09:09:59 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Celtic v FK Jablonec: Ange Postecoglou 'not concerned' by Edouard's future]]></title>
             <description><![CDATA[Celtic manager Ange Postecoglou says he is "not concerned" about Odsonne Edouard's future, but admits the club are worried the striker could leave for free next summer.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58138071</link>
@@ -238,6 +231,13 @@
             <link>https://www.bbc.co.uk/sport/swimming/58169927</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/swimming/58169927</guid>
             <pubDate>Wed, 11 Aug 2021 08:49:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lawrence Shankland: Dundee United sell striker to Beerschot]]></title>
+            <description><![CDATA[Dundee United sell Scotland striker Lawrence Shankland to Belgian club Beerschot for an undisclosed fee.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58156602</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58156602</guid>
+            <pubDate>Wed, 11 Aug 2021 09:09:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
