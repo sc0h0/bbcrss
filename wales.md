@@ -1,4 +1,4 @@
-1. [A&E queues mean Wales' ambulances 'can't take 999 calls'](https://www.bbc.co.uk/news/uk-wales-58161914) - Wed, 11 Aug 2021 05:25:33 GMT - Paramedics say they are spending more time waiting on hospital tarmac than taking 999 calls.
+1. [A&E queues mean Wales' ambulances 'can't take 999 calls'](https://www.bbc.co.uk/news/uk-wales-58161914) - Wed, 11 Aug 2021 07:32:50 GMT - Paramedics say they are spending more time waiting on hospital tarmac than taking 999 calls.
 2. [Kirsty Williams: Abuse of women in politics getting worse](https://www.bbc.co.uk/news/uk-wales-politics-58145445) - Wed, 11 Aug 2021 05:08:33 GMT - Kirsty Williams says she could not keep her family safe from trolling while Welsh education minister.
 3. [Mumbles: Two in hospital after open-top bus crash](https://www.bbc.co.uk/news/uk-wales-58162245) - Tue, 10 Aug 2021 16:20:05 GMT - Several other injured passengers were also assessed at the scene.
 4. [Gower salt marsh lamb receives protected status](https://www.bbc.co.uk/news/uk-wales-58164754) - Wed, 11 Aug 2021 06:57:14 GMT - The meat from lambs born and bred on the Gower Peninsula is now protected from copycat rivals.

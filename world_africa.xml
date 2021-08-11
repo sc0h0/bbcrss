@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 11 Aug 2021 07:21:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Aug 2021 07:30:52 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -28,6 +28,13 @@
             <link>https://www.bbc.co.uk/news/world-africa-58165169</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-58165169</guid>
             <pubDate>Tue, 10 Aug 2021 20:43:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The illegal gold mines killing rivers and livelihoods in Ghana]]></title>
+            <description><![CDATA[Sixty percent of Ghana's water bodies are now polluted, largely due to illegal mining operations.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-58119653</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-58119653</guid>
+            <pubDate>Tue, 10 Aug 2021 23:02:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ethiopia PM Abiy Ahmed calls on civilians to join Tigray war]]></title>
@@ -49,13 +56,6 @@
             <link>https://www.bbc.co.uk/news/world-africa-58156499</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-58156499</guid>
             <pubDate>Tue, 10 Aug 2021 10:36:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nigerian Igbo Jewish leader arrested with Israeli visitors freed]]></title>
-            <description><![CDATA[Lizben Agha was held for weeks without charge after becoming caught up with the three men's arrest.]]></description>
-            <link>https://www.bbc.co.uk/news/world-africa-58097200</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-58097200</guid>
-            <pubDate>Mon, 09 Aug 2021 08:39:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tanzania President Samia: We're here to show that women can lead]]></title>
@@ -100,13 +100,6 @@
             <pubDate>Fri, 06 Aug 2021 23:16:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The illegal gold mines killing rivers and livelihoods in Ghana]]></title>
-            <description><![CDATA[Sixty percent of Ghana's water bodies are now polluted, largely due to illegal mining operations.]]></description>
-            <link>https://www.bbc.co.uk/news/world-africa-58119653</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-58119653</guid>
-            <pubDate>Tue, 10 Aug 2021 23:02:01 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Zambia elections: What you need to know]]></title>
             <description><![CDATA[The economy is struggling and there's a tense political atmosphere ahead of Thursday's elections.]]></description>
             <link>https://www.bbc.co.uk/news/world-africa-58165905</link>
@@ -147,6 +140,13 @@
             <link>https://www.bbc.co.uk/sport/av/africa/58064410</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/africa/58064410</guid>
             <pubDate>Mon, 02 Aug 2021 17:58:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kenya's first female paraglider on life from a bird's eye view]]></title>
+            <description><![CDATA["Kenya 1" aka Nyambura Kariuki, shares her thoughts on being Kenya's first ever female paraglider.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-58055592</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-58055592</guid>
+            <pubDate>Mon, 02 Aug 2021 11:05:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
