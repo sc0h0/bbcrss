@@ -1,4 +1,4 @@
-1. [Deliveroo demand holds up despite lockdown easing](https://www.bbc.co.uk/news/business-58169570) - First results from the food delivery firm see first-half losses narrow to a pre-tax loss of £104.8m.
+1. [Deliveroo orders double as lockdown habits endure](https://www.bbc.co.uk/news/business-58169570) - First results from the newly floated food delivery firm see first-half losses narrow to £104.8m.
 2. [Winchester is now the least affordable UK city to buy a home](https://www.bbc.co.uk/news/business-58162371) - Winchester has leapfrogged Oxford to become the UK’s least affordable city to buy a home, says a survey.
 3. [Odeon owner AMC to accept payment in Bitcoin](https://www.bbc.co.uk/news/business-58163914) - Cinemagoers will be able to buy tickets and popcorn using the cryptocurrency, says the US chain.
 4. [Hackers steal $600m in major cryptocurrency heist](https://www.bbc.co.uk/news/business-58163917) - Thousands of digital tokens have been stolen by hackers in one of the largest cryptocurrency heists.

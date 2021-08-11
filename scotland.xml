@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 11 Aug 2021 06:50:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Aug 2021 07:14:02 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -28,6 +28,13 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-58167685</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58167685</guid>
             <pubDate>Wed, 11 Aug 2021 06:13:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Missing hillwalker: Body found in search for Frank Smith]]></title>
+            <description><![CDATA[Search teams had been looking for 84-year-old Frank Smith after he failed to return from a trip up Ben Cruachan.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58170058</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58170058</guid>
+            <pubDate>Wed, 11 Aug 2021 06:58:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Scottish results day: Record high for A grades as pass rate falls]]></title>
@@ -58,18 +65,18 @@
             <pubDate>Tue, 10 Aug 2021 12:17:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA['I'm going into S6 and have never done a proper exam']]></title>
-            <description><![CDATA[BBC Scotland speaks to pupils in Aberdeenshire who share their results and views on the grading process.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-58158616</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58158616</guid>
-            <pubDate>Tue, 10 Aug 2021 16:14:45 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Rangers 1-2 Malmo (2-4): Gerrard's side stunned by 10-man visitors]]></title>
             <description><![CDATA["Fear and panic" cost Rangers as they crashed out of the Champions League after losing to 10-man Malmo at a full Ibrox, says manager Steven Gerrard.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58137804</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58137804</guid>
             <pubDate>Tue, 10 Aug 2021 20:58:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['I'm going into S6 and have never done a proper exam']]></title>
+            <description><![CDATA[BBC Scotland speaks to pupils in Aberdeenshire who share their results and views on the grading process.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-58158616</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58158616</guid>
+            <pubDate>Tue, 10 Aug 2021 16:14:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Highers and Nat 5s: Four things to look out for on results day]]></title>
@@ -233,6 +240,13 @@
             <pubDate>Tue, 10 Aug 2021 23:16:45 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Scottish Gossip: Rangers, Celtic, Aberdeen, Hibernian, Dundee]]></title>
+            <description><![CDATA[Celtic star prepared to run down contract, fallout from costly Rangers defeat and more from the back pages...]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58169732</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58169732</guid>
+            <pubDate>Wed, 11 Aug 2021 07:06:08 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Celtic: Gordon Strachan takes Celtic consultancy role while continuing at Dundee]]></title>
             <description><![CDATA[Gordon Strachan will re-join Celtic for a "three-month consultancy project" - but will continue as technical director at Dundee.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58165761</link>
@@ -252,13 +266,6 @@
             <link>https://www.bbc.co.uk/sport/football/58130830</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58130830</guid>
             <pubDate>Tue, 10 Aug 2021 15:21:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[St Johnstone v Galatasaray: Murray Davidson hopes to channel 1999 Uefa Cup spirit]]></title>
-            <description><![CDATA[Midfielder Murray Davidson hopes St Johnstone can channel the spirit of the 1999 Uefa Cup side when Galatasaray visit Perth on Thursday.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58164572</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58164572</guid>
-            <pubDate>Tue, 10 Aug 2021 16:43:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
