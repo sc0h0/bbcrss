@@ -8,7 +8,7 @@
 8. [Wildfires: How are they linked to climate change?](https://www.bbc.co.uk/news/58159451) - A series of major wildfires across the world has hit the headlines - how do they compare to previous years?
 9. [Five things we learned from UN climate report](https://www.bbc.co.uk/news/science-environment-58138714) - What are the key takeaways from the IPCC new study on the science of climate change?
 10. [Climate change: How to be more eco-friendly in everyday life](https://www.bbc.co.uk/news/newsbeat-47990742) - From food to fashion, green bloggers give their top tips to be more eco-friendly.
-11. [Malta: The teenagers pulled from the sea and accused of terrorism](https://www.bbc.co.uk/news/world-57988934) - How three teenagers rescued from the Mediterranean Sea ended up in Malta accused of terrorism.
+11. [Wagner: Scale of Russian mercenary mission in Libya exposed](https://www.bbc.co.uk/news/world-africa-58009514) - A Samsung tablet obtained by the BBC unveils chilling details of how mercenaries fought in Libya’s war.
 12. [Belarus crackdown fails to crush opposition spirit](https://www.bbc.co.uk/news/world-europe-58114107) - Beaten up, jailed, forced into exile - protesters are still battling against President Lukashenko.
 13. [Lionel Messi's top 10 iconic Barcelona moments](https://www.bbc.co.uk/sport/football/58114038) - As Lionel Messi leaves Barcelona, relive 10 of his most iconic moments for the Catalan club.
 14. [Greece fires: Hundreds rescued by coastguard](https://www.bbc.co.uk/news/world-europe-58128033) - The coastguard moved 650 people from Limni, in the north of the island of Evia.
