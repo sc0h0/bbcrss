@@ -11,17 +11,10 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 11 Aug 2021 01:26:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Aug 2021 02:04:44 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
-        <item>
-            <title><![CDATA[Covid-19: More than 75% of UK adults now double-jabbed]]></title>
-            <description><![CDATA[But Oxford vaccine chief Prof Sir Andrew Pollard warns Covid herd immunity is "not a possibility".]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58162318</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58162318</guid>
-            <pubDate>Tue, 10 Aug 2021 20:48:36 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Afghanistan war: Biden says he does not regret troop withdrawal]]></title>
             <description><![CDATA[The US president says Afghan leaders need to fight for their nation, as more cities fall to the Taliban.]]></description>
@@ -44,6 +37,13 @@
             <pubDate>Tue, 10 Aug 2021 21:08:45 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Winchester is now the least affordable UK city to buy a home]]></title>
+            <description><![CDATA[Winchester has leapfrogged Oxford to become the UK’s least affordable city to buy a home, says a survey.]]></description>
+            <link>https://www.bbc.co.uk/news/business-58162371</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58162371</guid>
+            <pubDate>Tue, 10 Aug 2021 23:01:49 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[New York Governor Andrew Cuomo resigns in wake of harassment report]]></title>
             <description><![CDATA[The Democrat says he will step aside after an inquiry found he sexually harassed multiple women.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-58164719</link>
@@ -51,11 +51,32 @@
             <pubDate>Tue, 10 Aug 2021 22:13:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Winchester is now the least affordable UK city to buy a home]]></title>
-            <description><![CDATA[Winchester has leapfrogged Oxford to become the UK’s least affordable city to buy a home, says a survey.]]></description>
-            <link>https://www.bbc.co.uk/news/business-58162371</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58162371</guid>
-            <pubDate>Tue, 10 Aug 2021 23:01:49 GMT</pubDate>
+            <title><![CDATA[Algeria forest fires: Dozens killed in Kabylie region]]></title>
+            <description><![CDATA[Algeria is one of several Mediterranean countries to face devastating wildfires.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-58165169</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-58165169</guid>
+            <pubDate>Tue, 10 Aug 2021 20:43:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19: More than 75% of UK adults now double-jabbed]]></title>
+            <description><![CDATA[But Oxford vaccine chief Prof Sir Andrew Pollard warns Covid herd immunity is "not a possibility".]]></description>
+            <link>https://www.bbc.co.uk/news/uk-58162318</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58162318</guid>
+            <pubDate>Tue, 10 Aug 2021 20:48:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Family firm with 'humble' start sells for £775m]]></title>
+            <description><![CDATA[Euro Auctions, set up in 1988 as a family business, was sold to a Canadian firm for more than $1bn.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58165295</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58165295</guid>
+            <pubDate>Tue, 10 Aug 2021 17:30:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Facebook removes anti-vax influencer campaign]]></title>
+            <description><![CDATA[Facebook has removed hundreds of accounts linked to a anti-vaccine campaign operated from Russia.]]></description>
+            <link>https://www.bbc.co.uk/news/blogs-trending-58167339</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/blogs-trending-58167339</guid>
+            <pubDate>Tue, 10 Aug 2021 21:39:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A-level results 2021: Top grades reach record high]]></title>
@@ -72,32 +93,11 @@
             <pubDate>Tue, 10 Aug 2021 13:40:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Algeria forest fires: Dozens killed in Kabylie region]]></title>
-            <description><![CDATA[Algeria is one of several Mediterranean countries to face devastating wildfires.]]></description>
-            <link>https://www.bbc.co.uk/news/world-africa-58165169</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-58165169</guid>
-            <pubDate>Tue, 10 Aug 2021 20:43:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Family firm with 'humble' start sells for £775m]]></title>
-            <description><![CDATA[Euro Auctions, set up in 1988 as a family business, was sold to a Canadian firm for more than $1bn.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58165295</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58165295</guid>
-            <pubDate>Tue, 10 Aug 2021 17:30:31 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Lionel Messi signs two-year Paris St-Germain deal after leaving Barcelona]]></title>
             <description><![CDATA[Lionel Messi signs a two-year deal with Paris St-Germain after leaving Barcelona.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58163106</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58163106</guid>
             <pubDate>Tue, 10 Aug 2021 21:42:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I Am Legend screenwriter dismisses anti-vax claims based on film's plot]]></title>
-            <description><![CDATA[A sci-fi writer hits back at unfounded rumours that Covid jabs turn people into zombies.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-58164833</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-58164833</guid>
-            <pubDate>Tue, 10 Aug 2021 19:17:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Transmitter fire disrupts TV for 1m people]]></title>
