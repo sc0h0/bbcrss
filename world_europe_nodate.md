@@ -1,8 +1,8 @@
 1. [Wagner: Scale of Russian mercenary mission in Libya exposed](https://www.bbc.co.uk/news/world-africa-58009514) - A Samsung tablet obtained by the BBC unveils chilling details of how mercenaries fought in Libya’s war.
-2. [Briton suspected of spying for Russia arrested in Germany](https://www.bbc.co.uk/news/world-europe-58170872) - German federal prosecutors say the UK embassy staff member passed documents to Russian intelligence.
+2. [Briton suspected of spying for Russia arrested in Germany](https://www.bbc.co.uk/news/world-europe-58170872) - German federal prosecutors say the British man passed documents to Russian intelligence for cash.
 3. [Poland's ruling coalition frays on eve of key media vote](https://www.bbc.co.uk/news/world-europe-58164513) - The prime minister sacks his deputy, who opposed a controversial change to the country's media law.
 4. [Lithuania to build fence on Belarus border to stop migrants](https://www.bbc.co.uk/news/world-europe-58163073) - Tensions are running high with Belarus after a surge of non-EU migrants into Lithuania.
-5. [Greece fires: Foreign teams join battle on Evia island](https://www.bbc.co.uk/news/world-europe-58160938) - Several European countries are helping Greece to tackle the blazes ravaging parched forests.
+5. [Swiss embassy urges Chinese media to remove articles about scientist](https://www.bbc.co.uk/news/world-asia-china-58168588) - A Swiss biologist who had been quoted in Chinese media in recent days did not exist, it said.
 6. [Sweden tries Hamid Nouri over 1988 Iran prison massacre](https://www.bbc.co.uk/news/world-europe-58165166) - Hamid Nouri faces trial over the mass execution of detainees during the Iran-Iraq war.
 7. [Lionel Messi signs two-year Paris St-Germain deal after leaving Barcelona](https://www.bbc.co.uk/sport/football/58163106) - Lionel Messi signs a two-year deal with Paris St-Germain after leaving Barcelona.
 8. [Wildfires: How are they linked to climate change?](https://www.bbc.co.uk/news/58159451) - A series of major wildfires across the world has hit the headlines - how do they compare to previous years?

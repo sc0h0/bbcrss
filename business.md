@@ -1,4 +1,4 @@
-1. [Working from home job adverts rise](https://www.bbc.co.uk/news/business-58160245) - Wed, 11 Aug 2021 08:51:48 GMT - Recruitment firms say an increasing number of jobseekers now expect flexible working "as the norm".
+1. [Working from home job adverts rise](https://www.bbc.co.uk/news/business-58160245) - Wed, 11 Aug 2021 09:24:01 GMT - Recruitment firms say an increasing number of jobseekers now expect flexible working "as the norm".
 2. [Deliveroo orders double as lockdown habits endure](https://www.bbc.co.uk/news/business-58169570) - Wed, 11 Aug 2021 08:39:55 GMT - First results from the newly floated food delivery firm see first-half losses narrow to £104.8m.
 3. [Winchester is now the least affordable UK city to buy a home](https://www.bbc.co.uk/news/business-58162371) - Tue, 10 Aug 2021 23:01:49 GMT - Winchester has leapfrogged Oxford to become the UK’s least affordable city to buy a home, says a survey.
 4. [Odeon owner AMC to accept payment in Bitcoin](https://www.bbc.co.uk/news/business-58163914) - Tue, 10 Aug 2021 19:32:41 GMT - Cinemagoers will be able to buy tickets and popcorn using the cryptocurrency, says the US chain.

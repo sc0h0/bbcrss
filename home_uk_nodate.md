@@ -1,5 +1,5 @@
 1. [Afghanistan war: Biden says he does not regret troop withdrawal](https://www.bbc.co.uk/news/world-asia-58167408) - The US president urges Afghan leaders to fight for their nation, as more cities fall to the Taliban.
-2. [Briton suspected of spying for Russia arrested in Germany](https://www.bbc.co.uk/news/world-europe-58170872) - German federal prosecutors say the UK embassy staff member passed documents to Russian intelligence.
+2. [Briton suspected of spying for Russia arrested in Germany](https://www.bbc.co.uk/news/world-europe-58170872) - German federal prosecutors say the British man passed documents to Russian intelligence for cash.
 3. [Prince Andrew can't ignore courts, says Virginia Giuffre's lawyer](https://www.bbc.co.uk/news/uk-58167469) - Virginia Giuffre's lawyer says litigation is the only way to establish the Duke of York's evidence.
 4. [Wagner: Scale of Russian mercenary mission in Libya exposed](https://www.bbc.co.uk/news/world-africa-58009514) - A Samsung tablet obtained by the BBC unveils chilling details of how mercenaries fought in Libya’s war.
 5. [Stevie Nicks cancels gigs due to rising US Covid cases](https://www.bbc.co.uk/news/entertainment-arts-58169510) - The Fleetwood Mac singer, 73, is "still being extremely cautious" as the Delta variant spreads.
