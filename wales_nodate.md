@@ -1,8 +1,8 @@
 1. [Cardiff: Three in court charged with Bute Park murder](https://www.bbc.co.uk/news/uk-wales-58177615) - Dr Gary Jenkins died 16 days after he was attacked in the city centre park on 20 July.
-2. [A&E queues mean Wales' ambulances 'can't take 999 calls'](https://www.bbc.co.uk/news/uk-wales-58161914) - Paramedics say they are spending more time waiting on hospital tarmac than taking 999 calls.
-3. [Mumbles: Boy, 12, in hospital after open-top bus crash](https://www.bbc.co.uk/news/uk-wales-58172145) - Several other people also sustained minor injuries after the sight-seeing bus crashed.
-4. [Wales plan for capacity autumn series crowds](https://www.bbc.co.uk/sport/rugby-union/58173744) - The WRU will offer full refunds if Covid-19 disrupts plans for capacity crowds when Wales face New Zealand, South Africa, Fiji and Australia in the autumn.
-5. [Kirsty Williams: Abuse of women in politics getting worse](https://www.bbc.co.uk/news/uk-wales-politics-58145445) - Kirsty Williams says she could not keep her family safe from trolling while Welsh education minister.
+2. [Mumbles: Boy, 12, in hospital after open-top bus crash](https://www.bbc.co.uk/news/uk-wales-58172145) - Several other people also sustained minor injuries after the sight-seeing bus crashed.
+3. [Wales plan for capacity autumn series crowds](https://www.bbc.co.uk/sport/rugby-union/58173744) - The WRU will offer full refunds if Covid-19 disrupts plans for capacity crowds when Wales face New Zealand, South Africa, Fiji and Australia in the autumn.
+4. [Kirsty Williams: Abuse of women in politics getting worse](https://www.bbc.co.uk/news/uk-wales-politics-58145445) - Kirsty Williams says she could not keep her family safe from trolling while Welsh education minister.
+5. [A&E queues mean Wales' ambulances 'can't take 999 calls'](https://www.bbc.co.uk/news/uk-wales-58161914) - Paramedics say they are spending more time waiting on hospital tarmac than taking 999 calls.
 6. [Climate change: Fisherman stops farming mussels due to hot weather](https://www.bbc.co.uk/news/uk-wales-58172032) - A shellfish farmer says its no longer viable to continue farming mussels due to warmer temperatures.
 7. [Gower salt marsh lamb receives protected status](https://www.bbc.co.uk/news/uk-wales-58164754) - The meat from lambs born and bred on the Gower Peninsula is now protected from copycat rivals.
 8. [Lauren Price: 'Insane' welcome for Olympic gold medallist](https://www.bbc.co.uk/news/uk-wales-58161854) - Hundreds of people line the streets to welcome home boxing gold medallist Lauren Price.
