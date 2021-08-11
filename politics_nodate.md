@@ -1,5 +1,5 @@
 1. [Afghanistan: Ex-Tory ministers attack Biden over troops pullout](https://www.bbc.co.uk/news/uk-politics-58177193) - Tory politicians say it is not too late for UK troops to stay - but the government rules it out.
-2. [David Cameron denies lobbying for genetics firm Illumina](https://www.bbc.co.uk/news/business-58146567) - Mr Cameron encouraged Matt Hancock to speak at a conference co-hosted by Illumina before it won a government contract.
+2. [David Cameron in row over promoting genetics firm Illumina](https://www.bbc.co.uk/news/business-58146567) - Mr Cameron encouraged Matt Hancock to speak at a conference co-hosted by Illumina before it won a government contract.
 3. [Briton suspected of spying for Russia arrested in Germany](https://www.bbc.co.uk/news/world-europe-58170872) - German federal prosecutors say the British man passed documents to Russian intelligence for cash.
 4. [A-levels: Warning over private and state school gap](https://www.bbc.co.uk/news/education-58172292) - The former school recovery tsar warns of growing educational inequality as a result of the pandemic.
 5. [Operation Brock: Brexit lorry controls 'could stay'](https://www.bbc.co.uk/news/uk-england-kent-58170463) - Lorry controls brought in for Brexit could stay - in case of any type of disruption near the border.

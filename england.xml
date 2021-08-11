@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 11 Aug 2021 17:38:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Aug 2021 18:12:44 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -28,6 +28,13 @@
             <link>https://www.bbc.co.uk/news/uk-england-lincolnshire-58170654</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-lincolnshire-58170654</guid>
             <pubDate>Wed, 11 Aug 2021 15:10:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Esther Dingley: Missing hiker's body retrieved by police]]></title>
+            <description><![CDATA[The body and belongings of Esther Dingley were found close to where a bone fragment was discovered.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-tyne-58176416</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-tyne-58176416</guid>
+            <pubDate>Wed, 11 Aug 2021 17:34:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Helicopter finds missing girl asleep in field in Devon]]></title>
@@ -63,13 +70,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-devon-58169400</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-devon-58169400</guid>
             <pubDate>Wed, 11 Aug 2021 15:08:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Esther Dingley: Missing hiker's body retrieved by police]]></title>
-            <description><![CDATA[The body and belongings of Esther Dingley were found close to where a bone fragment was discovered.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-tyne-58176416</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-tyne-58176416</guid>
-            <pubDate>Wed, 11 Aug 2021 17:34:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Leeds family wins injunction in bid to halt deportation]]></title>
@@ -219,18 +219,11 @@
             <pubDate>Wed, 11 Aug 2021 16:10:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Premier League still the 'most competitive league in Europe', says chief executive Masters]]></title>
-            <description><![CDATA[Premier League chief executive Richard Masters has dismissed the idea that England's top clubs are pulling away from the rest, adding that it is the "most competitive league in Europe".]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58174868</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58174868</guid>
-            <pubDate>Wed, 11 Aug 2021 13:48:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Derby County: Wayne Rooney hails 'proudest moment' after Carabao Cup win over Salford City]]></title>
-            <description><![CDATA[Wayne Rooney hails Derby's EFL Cup win over Salford as his 'proudest moment' since becoming Rams boss.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58170373</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58170373</guid>
-            <pubDate>Wed, 11 Aug 2021 08:18:28 GMT</pubDate>
+            <title><![CDATA[The Hundred: Southern Brave's brutal batting secures them a place in the final]]></title>
+            <description><![CDATA[Southern Brave secure a place in The Hundred final with a convincing win against Welsh Fire.]]></description>
+            <link>https://www.bbc.co.uk/sport/cricket/58177423</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/58177423</guid>
+            <pubDate>Wed, 11 Aug 2021 16:54:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
