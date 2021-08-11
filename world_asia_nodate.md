@@ -1,7 +1,7 @@
 1. [Afghanistan war: Taliban back brutal rule as they strike for power](https://www.bbc.co.uk/news/world-asia-58156772) - Afghanistan's ex-rulers still back brutal punishments as they continue a deadly advance towards power.
 2. [Afghanistan: The people fleeing the north for safety in Kabul](https://www.bbc.co.uk/news/world-asia-58170433) - The Taliban has taken new territories in the north, forcing thousands out of their homes.
 3. [Michael Spavor: Canadian jailed for 11 years in China on spying charges](https://www.bbc.co.uk/news/world-asia-china-58168587) - His sentencing is the latest development in a diplomatic spat between the two countries.
-4. [Kinnaur: Two dead and dozens trapped in India landslide](https://www.bbc.co.uk/news/world-asia-india-58171679) - Falling boulders have buried many vehicles, including a bus carrying 40 people, reports say.
+4. [Kinnaur: At least 10 dead and dozens trapped in India landslide](https://www.bbc.co.uk/news/world-asia-india-58171679) - Boulders fall on a Himalayan highway, killing at least 10 people and trapping many more.
 5. [Tokyo 2020: Some Australian Olympians face 28-day quarantine](https://www.bbc.co.uk/sport/olympics/58172665) - Some Australians Olympians are having to quarantine for 28 days after returning to their country from Tokyo
 6. [China: Swiss embassy urges media to remove scientist fake news](https://www.bbc.co.uk/news/world-asia-china-58168588) - A Swiss biologist who had been quoted in Chinese media in recent days did not exist, it said.
 7. [Gurkha veterans on hunger strike outside Downing Street](https://www.bbc.co.uk/news/uk-58159773) - Gurkha veterans say they will starve themselves to death if they do not get pensions equal to British soldiers.

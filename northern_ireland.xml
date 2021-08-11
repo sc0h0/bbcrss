@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 11 Aug 2021 16:30:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Aug 2021 17:00:44 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -44,18 +44,18 @@
             <pubDate>Wed, 11 Aug 2021 13:37:51 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Dungannon: Industrial business struggling to grow in mid Ulster]]></title>
+            <description><![CDATA[The area is known for manufacturing and engineering firms but companies say they need land to grow.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58175158</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58175158</guid>
+            <pubDate>Wed, 11 Aug 2021 16:53:15 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Apprentice Boys Relief of Derry parade scaled back for second year]]></title>
             <description><![CDATA[The annual parade marks the anniversary of the ending of the Siege of Derry in August 1689.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58173471</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58173471</guid>
             <pubDate>Wed, 11 Aug 2021 12:40:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid-19: Three more deaths and 1,467 new coronavirus cases]]></title>
-            <description><![CDATA[The total number of deaths linked to Covid-19 in NI since the start of the pandemic is 2,233.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58176079</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58176079</guid>
-            <pubDate>Wed, 11 Aug 2021 13:21:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Kathy Hochul: New York's next governor influenced by Irish roots]]></title>
@@ -65,11 +65,18 @@
             <pubDate>Wed, 11 Aug 2021 13:59:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid-19: Unvaccinated dad speaks of four-day ventilator ordeal]]></title>
-            <description><![CDATA[Gerald Prentice, who spent four days on a ventilator, says he has "no doubt" a jab would have helped.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58157207</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58157207</guid>
-            <pubDate>Tue, 10 Aug 2021 18:16:19 GMT</pubDate>
+            <title><![CDATA[Covid-19: Three more deaths and 1,467 new coronavirus cases]]></title>
+            <description><![CDATA[The total number of deaths linked to Covid-19 in NI since the start of the pandemic is 2,233.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58176079</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58176079</guid>
+            <pubDate>Wed, 11 Aug 2021 13:21:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rob Kearney: Former Ireland full-back returns to GAA club action]]></title>
+            <description><![CDATA[Former Ireland and Leinster full-back Rob Kearney is playing GAA again with Louth club Cooley Kickhams after a 16-year break.]]></description>
+            <link>https://www.bbc.co.uk/sport/rugby-union/58175564</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/58175564</guid>
+            <pubDate>Wed, 11 Aug 2021 13:12:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[68,000 attended Northern Ireland emergency departments in June]]></title>
@@ -86,18 +93,18 @@
             <pubDate>Wed, 11 Aug 2021 08:30:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Londonderry: Elemental Software bought for undisclosed sum]]></title>
-            <description><![CDATA[The software firm was set up by former community development workers and employs more than 30 people.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58173472</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58173472</guid>
-            <pubDate>Wed, 11 Aug 2021 12:04:48 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[United Nations experts voice concern over Troubles legacy plan]]></title>
             <description><![CDATA[Human rights experts say the plan to end Troubles-related prosecutions is of serious concern.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58170353</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58170353</guid>
             <pubDate>Wed, 11 Aug 2021 08:12:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19: Unvaccinated dad speaks of four-day ventilator ordeal]]></title>
+            <description><![CDATA[Gerald Prentice, who spent four days on a ventilator, says he has "no doubt" a jab would have helped.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58157207</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58157207</guid>
+            <pubDate>Tue, 10 Aug 2021 18:16:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: Two more deaths and 1,305 new coronavirus cases]]></title>
@@ -233,6 +240,13 @@
             <pubDate>Tue, 10 Aug 2021 15:31:01 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Londonderry: Elemental Software bought for undisclosed sum]]></title>
+            <description><![CDATA[The software firm was set up by former community development workers and employs more than 30 people.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58173472</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58173472</guid>
+            <pubDate>Wed, 11 Aug 2021 12:04:48 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Derry City: Councillors press for Brandywell funding date]]></title>
             <description><![CDATA[The first phase of the Ryan McBride Brandywell Stadium redevelopment was completed in 2018.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58169660</link>
@@ -252,13 +266,6 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58152835</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58152835</guid>
             <pubDate>Mon, 09 Aug 2021 18:46:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[North coast murals spring up 'to encourage footfall']]></title>
-            <description><![CDATA[The mayor of Causeway Coast and Glens says the new installations are "a fantastic talking point".]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58112419</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58112419</guid>
-            <pubDate>Sat, 07 Aug 2021 06:46:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: Vaccines for Irish 12 to 15-year-olds start this weekend]]></title>

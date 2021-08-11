@@ -7,7 +7,7 @@
 7. [Instagram launches 'limits' to hide abusive messages](https://www.bbc.co.uk/news/technology-58173921) - Instagram launches a feature to automatically hide most comments during "spikes" of abuse.
 8. [Tokyo 2020: Some Australian Olympians face 28-day quarantine](https://www.bbc.co.uk/sport/olympics/58172665) - Some Australians Olympians are having to quarantine for 28 days after returning to their country from Tokyo
 9. [Google may cut pay of staff who work from home](https://www.bbc.co.uk/news/business-58171716) - The tech giant has developed a calculator that lets staff see the effects of remote working.
-10. [Kinnaur: Two dead and dozens trapped in India landslide](https://www.bbc.co.uk/news/world-asia-india-58171679) - Falling boulders have buried many vehicles, including a bus carrying 40 people, reports say.
+10. [Kinnaur: At least 10 dead and dozens trapped in India landslide](https://www.bbc.co.uk/news/world-asia-india-58171679) - Boulders fall on a Himalayan highway, killing at least 10 people and trapping many more.
 11. [Brazil's Bolsonaro defeated over printed ballot proposal](https://www.bbc.co.uk/news/world-latin-america-58171369) - A plan by President Bolsonaro to switch to printed ballots fails to get enough support in Congress.
 12. [Poland's ruling coalition frays ahead of key media vote](https://www.bbc.co.uk/news/world-europe-58164513) - The prime minister sacks his deputy, who opposed a controversial change to the country's media law.
 13. [Afghanistan: The people fleeing the north for safety in Kabul](https://www.bbc.co.uk/news/world-asia-58170433) - The Taliban has taken new territories in the north, forcing thousands out of their homes.
