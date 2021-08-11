@@ -1,4 +1,4 @@
-1. [First Scottish pupils back at school for new term beyond level zero](https://www.bbc.co.uk/news/uk-scotland-58163742) - The return to classrooms comes a week after most Covid restrictions were lifted, but many safety protocols remain.
+1. [First Scottish pupils back at school for new term beyond level zero](https://www.bbc.co.uk/news/uk-scotland-58163742) - The return to classrooms comes days after most Covid restrictions were lifted, but many safety protocols remain.
 2. [Scottish results day: Record high for A grades as pass rate falls](https://www.bbc.co.uk/news/uk-scotland-58150287) - Pupils' pass rates are still well above pre-pandemic levels after formal exams were cancelled for the second year.
 3. [Ex-Rangers chief Charles Green wins £6.3m payout](https://www.bbc.co.uk/news/uk-scotland-58159210) - The former club executive wins Crown Office compensation over its "malicious" fraud prosecution of him.
 4. [Humza Yousaf launches legal action over Dundee nursery 'discrimination'](https://www.bbc.co.uk/news/uk-scotland-tayside-central-58147135) - Humza Yousaf says his daughter was twice refused a place at the nursery, which denies discrimination.
