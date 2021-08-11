@@ -1,8 +1,8 @@
 1. [New York Governor Andrew Cuomo resigns in wake of harassment report](https://www.bbc.co.uk/news/world-us-canada-58164719) - The Democrat says he will step aside after an inquiry found he sexually harassed multiple women.
 2. ['Hurt' Andrew Cuomo addresses daughters as he quits](https://www.bbc.co.uk/news/world-us-canada-58167628) - The New York governor steps down amid allegations he sexually harassed multiple women.
 3. [Florida governor says no salaries for school leaders requiring masks](https://www.bbc.co.uk/news/world-us-canada-58162329) - As cases rise across the US, Florida's governor argues school mask rules infringe on parent rights.
-4. [Andrew Cuomo: Time's Up leader resigns over ties to governor](https://www.bbc.co.uk/news/world-us-canada-58153726) - Roberta Kaplan was accused of trying to discredit a woman who said Mr Cuomo had harassed her.
-5. [Virginia Giuffre: Prince Andrew accuser files civil case in US](https://www.bbc.co.uk/news/uk-58153711) - Virginia Giuffre alleges the Duke of York sexually assaulted her when she was 17 years old.
+4. [Prince Andrew can't ignore courts - accuser's lawyer](https://www.bbc.co.uk/news/uk-58167469) - Virginia Giuffre's lawyer says litigation is the only way to establish the Duke of York's evidence.
+5. [Kathy Hochul: Who is New York's first female governor?](https://www.bbc.co.uk/news/world-us-canada-58167825) - The history-making Democrat will take the role after Andrew Cuomo resigned over harassment claims.
 6. [China: Canadian citizen loses appeal against death penalty](https://www.bbc.co.uk/news/world-asia-china-58141758) - The verdict comes as an extradition battle in Canada for Huawei executive Meng Wanzhou continues.
 7. [Covid: Canada opens its border to vaccinated Americans](https://www.bbc.co.uk/news/world-us-canada-58154057) - We asked Canadians how they feel about the move, which lifts a pandemic-long restriction.
 8. [Infrastructure bill: $1tn for clean energy, internet, trains and more](https://www.bbc.co.uk/news/world-us-canada-58152467) - The $1tn bill takes aim at issues from buckling bridges to global warming and remote working.
