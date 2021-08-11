@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 11 Aug 2021 15:41:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Aug 2021 15:54:48 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -51,6 +51,13 @@
             <pubDate>Wed, 11 Aug 2021 14:26:02 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Lorry driver jailed for injuring two police officers in A1 crash]]></title>
+            <description><![CDATA[Christopher Swain tested positive for cannabis after crashing into a police car, a court hears.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-lincolnshire-58176209</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-lincolnshire-58176209</guid>
+            <pubDate>Wed, 11 Aug 2021 15:28:26 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Max Woosey: Camping challenge boy sleeps out for 500th night]]></title>
             <description><![CDATA[Max Woosey reaches the milestone while spending the night in a shelter built in the woods.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-devon-58169400</link>
@@ -77,13 +84,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-leicestershire-58122802</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-leicestershire-58122802</guid>
             <pubDate>Wed, 11 Aug 2021 10:49:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Carlton Colville: Driver seriously injured in conservatory crash]]></title>
-            <description><![CDATA[Derek Harrington says he "thought it was thunder" when the vehicle struck his house.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-suffolk-58170234</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-suffolk-58170234</guid>
-            <pubDate>Wed, 11 Aug 2021 09:29:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bilsdale transmitter fire: TV and radio for 1m off air indefinitely]]></title>
@@ -135,6 +135,20 @@
             <pubDate>Sat, 07 Aug 2021 23:01:40 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Megan Newborough death: Man in court charged with murder]]></title>
+            <description><![CDATA[Megan Newborough, 23, was found dead on a rural lane after being reported missing, police say.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-leicestershire-58172103</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-leicestershire-58172103</guid>
+            <pubDate>Wed, 11 Aug 2021 13:30:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Carlton Colville: Driver seriously injured in conservatory crash]]></title>
+            <description><![CDATA[Derek Harrington says he "thought it was thunder" when the vehicle struck his house.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-suffolk-58170234</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-suffolk-58170234</guid>
+            <pubDate>Wed, 11 Aug 2021 09:29:06 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Bradford taxi driver killing: Man guilty of road rage revenge murder]]></title>
             <description><![CDATA[Ricardo Linton shot dead Mohammed Basharat in Bradford in 2001 in revenge for a road rage incident.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-leeds-58150838</link>
@@ -149,53 +163,18 @@
             <pubDate>Wed, 11 Aug 2021 10:04:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Operation Brock: Brexit lorry controls 'could stay']]></title>
-            <description><![CDATA[Lorry controls brought in for Brexit could stay - in case of any type of disruption near the border.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-kent-58170463</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-kent-58170463</guid>
-            <pubDate>Wed, 11 Aug 2021 09:05:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Megan Newborough death: Man in court charged with murder]]></title>
-            <description><![CDATA[Megan Newborough, 23, was found dead on a rural lane after being reported missing, police say.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-leicestershire-58172103</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-leicestershire-58172103</guid>
-            <pubDate>Wed, 11 Aug 2021 13:30:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Channel migrants: Asylum seeker cleared of people smuggling was 'scapegoat']]></title>
-            <description><![CDATA[Fouad Kakaei's lawyer says asylum seekers are "easy targets" to prosecute for small boat crossings.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-kent-57722096</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-kent-57722096</guid>
-            <pubDate>Wed, 11 Aug 2021 05:38:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ellesmere Port crash: Speeding driver jailed for killing friend]]></title>
-            <description><![CDATA[Kelvin Davies admits causing the death of Kieran Lloyd, 18, who was a passenger in his car.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-merseyside-58166275</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-merseyside-58166275</guid>
-            <pubDate>Wed, 11 Aug 2021 09:16:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Teenage boy dies nine days after park attack]]></title>
-            <description><![CDATA[The victim was attacked inside Lordship Recreation Ground and died nine days later.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-london-58160150</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-58160150</guid>
-            <pubDate>Wed, 11 Aug 2021 07:32:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bristol Balloon Fiesta: City's largest multi-site launch]]></title>
-            <description><![CDATA[Around 40 hot air balloons launch from five locations across Bristol as part of Fiesta Fortnight.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-bristol-58169580</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-bristol-58169580</guid>
-            <pubDate>Wed, 11 Aug 2021 09:43:52 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Staffordshire Covid sceptic urges people to get vaccine]]></title>
             <description><![CDATA[Royal Stoke University Hospital says it is seeing more younger, unvaccinated patients.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-stoke-staffordshire-58167498</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-stoke-staffordshire-58167498</guid>
             <pubDate>Wed, 11 Aug 2021 10:46:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Operation Brock: Brexit lorry controls 'could stay']]></title>
+            <description><![CDATA[Lorry controls brought in for Brexit could stay - in case of any type of disruption near the border.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-kent-58170463</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-kent-58170463</guid>
+            <pubDate>Wed, 11 Aug 2021 09:05:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[England v India: Stuart Broad out of series - James Anderson doubt for second Test]]></title>
