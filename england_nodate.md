@@ -4,7 +4,7 @@
 4. [Essex baby given £1.79m drug for spinal muscular atrophy](https://www.bbc.co.uk/news/uk-england-essex-58101748) - Eleven-month-old Edward has received the world's most expensive drug after a campaign by his parents.
 5. [Bilsdale transmitter fire: TV and radio for 1m off air indefinitely](https://www.bbc.co.uk/news/uk-england-tees-58169501) - The operators of a transmitter which serves part of northern England cannot say when it will be fixed.
 6. [Janos Sztoska: Modern slavery boss made victim live in squalor](https://www.bbc.co.uk/news/uk-england-leicestershire-58122802) - One victim told police he was forced to sleep without a bed and was not allowed to use the toilet.
-7. [Charles and Diana's wedding cake slice sells for £1,850](https://www.bbc.co.uk/news/uk-england-gloucestershire-58173317) - The 40-year-old slice of wedding cake was bought by a buyer from the Middle East.
+7. [Charles and Diana's wedding cake slice sells for £1,850](https://www.bbc.co.uk/news/uk-england-gloucestershire-58173317) - The 40-year-old slice of wedding cake was bought by a buyer from Leeds.
 8. [Bradford taxi driver killing: Man guilty of road rage revenge murder](https://www.bbc.co.uk/news/uk-england-leeds-58150838) - Ricardo Linton shot dead Mohammed Basharat in Bradford in 2001 in revenge for a road rage incident.
 9. [Megan Newborough death: Man in court charged with murder](https://www.bbc.co.uk/news/uk-england-leicestershire-58172103) - Megan Newborough, 23, was found dead on a rural lane after being reported missing, police say.
 10. [Operation Brock: Brexit lorry controls 'could stay'](https://www.bbc.co.uk/news/uk-england-kent-58170463) - Lorry controls brought in for Brexit could stay - in case of any type of disruption near the border.

@@ -6,7 +6,7 @@
 6. [China to ban karaoke songs with 'illegal content'](https://www.bbc.co.uk/news/world-asia-china-58168638) - Songs that fall under this category include those that endanger national or territorial integrity.
 7. [Instagram launches hate-speech 'limits' to hide abuse](https://www.bbc.co.uk/news/technology-58173921) - Instagram launches a feature to automatically hide most comments during "spikes" of abuse.
 8. [Michael Spavor: Canadian jailed for 11 years in China on spying charges](https://www.bbc.co.uk/news/world-asia-china-58168587) - His sentencing is the latest development in a diplomatic spat between the two countries.
-9. [Algeria forest fires: Dozens killed in Kabylie region](https://www.bbc.co.uk/news/world-africa-58165169) - Algeria is one of several Mediterranean countries to face devastating wildfires.
+9. [Brazil's Bolsonaro defeated over printed ballot proposal](https://www.bbc.co.uk/news/world-latin-america-58171369) - A plan by President Bolsonaro to switch to printed ballots fails to get enough support in Congress.
 10. [New York Governor Andrew Cuomo resigns in wake of harassment report](https://www.bbc.co.uk/news/world-us-canada-58164719) - The Democrat says he will step aside after an inquiry found he sexually harassed multiple women.
 11. [Swiss embassy urges Chinese media to remove articles about scientist](https://www.bbc.co.uk/news/world-asia-china-58168588) - A Swiss biologist who had been quoted in Chinese media in recent days did not exist, it said.
 12. [Poland's ruling coalition frays ahead of key media vote](https://www.bbc.co.uk/news/world-europe-58164513) - The prime minister sacks his deputy, who opposed a controversial change to the country's media law.

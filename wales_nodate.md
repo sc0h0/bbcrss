@@ -6,10 +6,10 @@
 6. [Lauren Price: 'Insane' welcome for Olympic gold medallist](https://www.bbc.co.uk/news/uk-wales-58161854) - Hundreds of people line the streets to welcome home boxing gold medallist Lauren Price.
 7. [Covid: Swansea DVLA balloting for more strike action](https://www.bbc.co.uk/news/uk-wales-58171769) - Workers are being asked if they support more action over Covid safety.
 8. [Covid has 'accelerated' industrial automation in Wales](https://www.bbc.co.uk/news/uk-wales-58166015) - New technology investments ramp up in Welsh manufacturing - but will it mean fewer workers?
-9. [A-levels 2021 in Wales: Grades above pre-Covid levels](https://www.bbc.co.uk/news/uk-wales-58148512) - A total of 48.3% of A-level grades are A and A* in Wales, which is hailed a "remarkable achievement".
-10. [Aberystwyth: Man airlifted to hospital after window fall](https://www.bbc.co.uk/news/uk-wales-58162459) - A man suffers "traumatic injuries" after falling from a window in Aberystwyth.
-11. [Doctor worked at Wrexham Maelor hospital while off sick at another](https://www.bbc.co.uk/news/uk-wales-58162239) - Joao Muel said he was unfit to work in Abergavenny while doing shifts in Wrexham, a tribunal hears.
-12. [Rhyl cancer patient suffered from 'alarming failings' at Glan Clwyd Hospital](https://www.bbc.co.uk/news/uk-wales-58151073) - Ann Jones, 69, died after "alarming failings" at Wales' largest health board, says ombudsman.
+9. [Carmarthenshire council: 'Significant' planning problems](https://www.bbc.co.uk/news/uk-wales-58172148) - Almost 850 planning applications were waiting to be determined, some dating back five years.
+10. [A-levels 2021 in Wales: Grades above pre-Covid levels](https://www.bbc.co.uk/news/uk-wales-58148512) - A total of 48.3% of A-level grades are A and A* in Wales, which is hailed a "remarkable achievement".
+11. [Aberystwyth: Man airlifted to hospital after window fall](https://www.bbc.co.uk/news/uk-wales-58162459) - A man suffers "traumatic injuries" after falling from a window in Aberystwyth.
+12. [Doctor worked at Wrexham Maelor hospital while off sick at another](https://www.bbc.co.uk/news/uk-wales-58162239) - Joao Muel said he was unfit to work in Abergavenny while doing shifts in Wrexham, a tribunal hears.
 13. [Wales: Post-lockdown demand on ambulance staff 'relentless'](https://www.bbc.co.uk/news/uk-wales-58166250) - Paramedics and control room staff share their stories as pressure on services rises.
 14. [Lauren Price: Olympic boxer overwhelmed by 'insane' reception](https://www.bbc.co.uk/news/uk-wales-58164995) - The Welsh boxing champion was given a hero's welcome on her return to Ystrad Mynach.
 15. [A-levels 2021 in Wales: Pupils celebrate after tough year](https://www.bbc.co.uk/news/uk-wales-58162240) - Pupils receive their A-level results after a mix of online and in-person learning.
