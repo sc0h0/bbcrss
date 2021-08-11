@@ -1,6 +1,6 @@
 1. [Michael Spavor: Canadian jailed for 11 years in China on spying charges](https://www.bbc.co.uk/news/world-asia-china-58168587) - His sentencing is the latest development in a diplomatic spat between the two countries.
 2. [Afghanistan war: Biden says he does not regret troop withdrawal](https://www.bbc.co.uk/news/world-asia-58167408) - The US president urges Afghan leaders to fight for their nation, as more cities fall to the Taliban.
-3. [Kinnaur: One dead and dozens trapped in India landslide](https://www.bbc.co.uk/news/world-asia-india-58171679) - Falling boulders have buried many vehicles, including a bus carrying 40 people, reports say.
+3. [Kinnaur: Two dead and dozens trapped in India landslide](https://www.bbc.co.uk/news/world-asia-india-58171679) - Falling boulders have buried many vehicles, including a bus carrying 40 people, reports say.
 4. [China to ban karaoke songs with 'illegal content'](https://www.bbc.co.uk/news/world-asia-china-58168638) - Songs that fall under this category include those that endanger national or territorial integrity.
 5. [Swiss embassy urges Chinese media to remove articles about scientist](https://www.bbc.co.uk/news/world-asia-china-58168588) - A Swiss biologist who had been quoted in Chinese media in recent days did not exist, it said.
 6. [North Korea leaves hotline with South unanswered during military drills](https://www.bbc.co.uk/news/world-asia-58162289) - Tensions have risen in the Korean peninsula as South Korea and the US hold joint military drills.

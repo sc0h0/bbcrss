@@ -1,6 +1,6 @@
 1. [Wagner: Scale of Russian mercenary mission in Libya exposed](https://www.bbc.co.uk/news/world-africa-58009514) - A Samsung tablet obtained by the BBC unveils chilling details of how mercenaries fought in Libya’s war.
 2. [Afghanistan war: Biden says he does not regret troop withdrawal](https://www.bbc.co.uk/news/world-asia-58167408) - The US president urges Afghan leaders to fight for their nation, as more cities fall to the Taliban.
-3. [Kinnaur: One dead and dozens trapped in India landslide](https://www.bbc.co.uk/news/world-asia-india-58171679) - Falling boulders have buried many vehicles, including a bus carrying 40 people, reports say.
+3. [Kinnaur: Two dead and dozens trapped in India landslide](https://www.bbc.co.uk/news/world-asia-india-58171679) - Falling boulders have buried many vehicles, including a bus carrying 40 people, reports say.
 4. [Briton suspected of spying for Russia arrested in Germany](https://www.bbc.co.uk/news/world-europe-58170872) - German federal prosecutors say the British man passed documents to Russian intelligence for cash.
 5. [Woman in Sydney investigated for pretending to be a doctor](https://www.bbc.co.uk/news/world-australia-58170870) - The 27-year-old worked for eight months this year at a Sydney hospital, Australian media reports.
 6. [China to ban karaoke songs with 'illegal content'](https://www.bbc.co.uk/news/world-asia-china-58168638) - Songs that fall under this category include those that endanger national or territorial integrity.
