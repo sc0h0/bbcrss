@@ -1,11 +1,11 @@
-1. [Winchester is now the least affordable UK city to buy a home](https://www.bbc.co.uk/news/business-58162371) - Winchester has leapfrogged Oxford to become the UK’s least affordable city to buy a home, says a survey.
-2. [Hackers steal $600m in major cryptocurrency heist](https://www.bbc.co.uk/news/business-58163917) - Thousands of digital tokens have been stolen by hackers in one of the largest cryptocurrency heists.
-3. [Deliveroo demand holds up despite lockdown easing](https://www.bbc.co.uk/news/business-58169570) - Debut results from the food delivery firm sees first-half losses narrow to a pre-tax loss of £104.8m.
-4. [China tech giant Xiaomi aims at global smartphone top spot](https://www.bbc.co.uk/news/business-58168547) - The comments come as the Beijing-based firm celebrates the 10th anniversary of its first smartphone.
-5. [Northern Ireland firm Euro Auctions sold for £775m](https://www.bbc.co.uk/news/uk-northern-ireland-58152835) - The Dromore company, set up in 1998, has grown to have more than 200 staff across 14 countries.
-6. [David Cameron personally promoted Greensill to investors](https://www.bbc.co.uk/news/business-58160208) - BBC Panorama finds Mr Cameron appeared alongside the controversial company's founder at a 2019 event.
-7. [Amazon to pay out over defective third party goods](https://www.bbc.co.uk/news/business-58163915) - The shopping giant will compensate customers who are harmed by defective goods sold in the US.
-8. [Odeon owner AMC to accept payment in Bitcoin](https://www.bbc.co.uk/news/business-58163914) - Cinemagoers will be able to buy tickets and popcorn using the cryptocurrency, says the US chain.
+1. [Deliveroo demand holds up despite lockdown easing](https://www.bbc.co.uk/news/business-58169570) - First results from the food delivery firm see first-half losses narrow to a pre-tax loss of £104.8m.
+2. [Winchester is now the least affordable UK city to buy a home](https://www.bbc.co.uk/news/business-58162371) - Winchester has leapfrogged Oxford to become the UK’s least affordable city to buy a home, says a survey.
+3. [Odeon owner AMC to accept payment in Bitcoin](https://www.bbc.co.uk/news/business-58163914) - Cinemagoers will be able to buy tickets and popcorn using the cryptocurrency, says the US chain.
+4. [Hackers steal $600m in major cryptocurrency heist](https://www.bbc.co.uk/news/business-58163917) - Thousands of digital tokens have been stolen by hackers in one of the largest cryptocurrency heists.
+5. [China tech giant Xiaomi aims at global smartphone top spot](https://www.bbc.co.uk/news/business-58168547) - The comments come as the Beijing-based firm celebrates the 10th anniversary of its first smartphone.
+6. [Northern Ireland firm Euro Auctions sold for £775m](https://www.bbc.co.uk/news/uk-northern-ireland-58152835) - The Dromore company, set up in 1998, has grown to have more than 200 staff across 14 countries.
+7. [David Cameron personally promoted Greensill to investors](https://www.bbc.co.uk/news/business-58160208) - BBC Panorama finds Mr Cameron appeared alongside the controversial company's founder at a 2019 event.
+8. [Amazon to pay out over defective third party goods](https://www.bbc.co.uk/news/business-58163915) - The shopping giant will compensate customers who are harmed by defective goods sold in the US.
 9. [No auction showdown in battle to buy asthma firm](https://www.bbc.co.uk/news/business-58156122) - Philip Morris and private equity firm Carlyle have placed bids to buy drugmaker Vectura.
 10. [JetBlue to launch NY-UK flights despite pandemic](https://www.bbc.co.uk/news/business-58156118) - The airline says there is "strong demand" for the route as the global travel industry recovers.
 11. [Paddy Power owner betting shop revenue rebounds](https://www.bbc.co.uk/news/business-58156250) - Gambling giant Flutter says shop revenue jumps as number of gamblers leaps by 40%.

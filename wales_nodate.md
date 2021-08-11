@@ -2,14 +2,14 @@
 2. [Kirsty Williams: Abuse of women in politics getting worse](https://www.bbc.co.uk/news/uk-wales-politics-58145445) - Kirsty Williams says she could not keep her family safe from trolling while Welsh education minister.
 3. [Mumbles: Two in hospital after open-top bus crash](https://www.bbc.co.uk/news/uk-wales-58162245) - Several other injured passengers were also assessed at the scene.
 4. [Lauren Price: 'Insane' welcome for Olympic gold medallist](https://www.bbc.co.uk/news/uk-wales-58161854) - Hundreds of people line the streets to welcome home boxing gold medallist Lauren Price.
-5. [A-levels 2021 in Wales: Grades above pre-Covid levels](https://www.bbc.co.uk/news/uk-wales-58148512) - A total of 48.3% of A-level grades are A and A* in Wales, which is hailed a "remarkable achievement".
-6. [Aberystwyth: Man airlifted to hospital after window fall](https://www.bbc.co.uk/news/uk-wales-58162459) - A man suffers "traumatic injuries" after falling from a window in Aberystwyth.
-7. [Doctor worked at Wrexham Maelor hospital while off sick at another](https://www.bbc.co.uk/news/uk-wales-58162239) - Joao Muel said he was unfit to work in Abergavenny while doing shifts in Wrexham, a tribunal hears.
-8. [Rhyl cancer patient suffered from 'alarming failings' at Glan Clwyd Hospital](https://www.bbc.co.uk/news/uk-wales-58151073) - Ann Jones, 69, died after "alarming failings" at Wales' largest health board, says ombudsman.
-9. [Thirteen Covid deaths during week in Wales](https://www.bbc.co.uk/news/uk-wales-58159703) - The latest ONS weekly figures show a slight fall in deaths involving Covid in Wales.
-10. [Mental health: Altered images on social media 'detrimental'](https://www.bbc.co.uk/news/uk-wales-58153556) - Postgrad student Lara Philippart says internet adverts gave her anxiety about her own body.
-11. [Gang tried to kidnap Anglesey child over satanic abuse fear](https://www.bbc.co.uk/news/uk-wales-57941016) - Two gang members snatched the child at knifepoint as they returned home from school.
-12. [North Wales swimmers 'disadvantaged' without Olympic 50m pool](https://www.bbc.co.uk/news/uk-wales-58156228) - There are calls for an Olympic sized swimming pool to be built in the heart of north Wales.
+5. [Covid has 'accelerated' industrial automation in Wales](https://www.bbc.co.uk/news/uk-wales-58166015) - New technology investments ramp up in Welsh manufacturing - but will it mean fewer workers?
+6. [A-levels 2021 in Wales: Grades above pre-Covid levels](https://www.bbc.co.uk/news/uk-wales-58148512) - A total of 48.3% of A-level grades are A and A* in Wales, which is hailed a "remarkable achievement".
+7. [Aberystwyth: Man airlifted to hospital after window fall](https://www.bbc.co.uk/news/uk-wales-58162459) - A man suffers "traumatic injuries" after falling from a window in Aberystwyth.
+8. [Doctor worked at Wrexham Maelor hospital while off sick at another](https://www.bbc.co.uk/news/uk-wales-58162239) - Joao Muel said he was unfit to work in Abergavenny while doing shifts in Wrexham, a tribunal hears.
+9. [Rhyl cancer patient suffered from 'alarming failings' at Glan Clwyd Hospital](https://www.bbc.co.uk/news/uk-wales-58151073) - Ann Jones, 69, died after "alarming failings" at Wales' largest health board, says ombudsman.
+10. [Thirteen Covid deaths during week in Wales](https://www.bbc.co.uk/news/uk-wales-58159703) - The latest ONS weekly figures show a slight fall in deaths involving Covid in Wales.
+11. [Mental health: Altered images on social media 'detrimental'](https://www.bbc.co.uk/news/uk-wales-58153556) - Postgrad student Lara Philippart says internet adverts gave her anxiety about her own body.
+12. [Gang tried to kidnap Anglesey child over satanic abuse fear](https://www.bbc.co.uk/news/uk-wales-57941016) - Two gang members snatched the child at knifepoint as they returned home from school.
 13. [Wales: Post-lockdown demand on ambulance staff 'relentless'](https://www.bbc.co.uk/news/uk-wales-58166250) - Paramedics and control room staff share their stories as pressure on services rises.
 14. [Lauren Price: Olympic boxer overwhelmed by 'insane' reception](https://www.bbc.co.uk/news/uk-wales-58164995) - The Welsh boxing champion was given a hero's welcome on her return to Ystrad Mynach.
 15. [A-levels 2021 in Wales: Pupils celebrate after tough year](https://www.bbc.co.uk/news/uk-wales-58162240) - Pupils receive their A-level results after a mix of online and in-person learning.
