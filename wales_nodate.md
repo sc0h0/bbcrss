@@ -23,6 +23,6 @@
 23. [The Hundred: Watch as Welsh Fire's Tom Banton breaks golf club in 100 challenge](https://www.bbc.co.uk/sport/av/cricket/58106424) - The Hundred: Watch as Welsh Fire's Tom Banton breaks golf club in 100 challenge.
 24. ['Mwy o straen ar ambiwlansys nawr nag ar frig y pandemig'](https://www.bbc.co.uk/newyddion/58161664) - Staff y Gwasanaeth Ambiwlans ar ben eu tennyn, gan ddweud mai dyma'u cyfnod prysuraf erioed.
 25. ['Sarhad o fenywod mewn gwleidyddiaeth yn gwaethygu'](https://www.bbc.co.uk/newyddion/58163671) - Y cyn-Weinidog Addysg Kirsty Williams fu'n rhannu ei phrofiadau o gamdriniaeth ar-lein gyda BBC Cymru.
-26. [Newid hinsawdd yn effeithio ar ffermio cregyn gleision](https://www.bbc.co.uk/newyddion/58160557) - Ffermwr pysgod cregyn yn dweud nad oes gwerth parhau i ffermio cregyn gleision ar hyn o bryd.
+26. [Bachgen 12 oed yn yr ysbyty wedi gwrthdrawiad bws](https://www.bbc.co.uk/newyddion/58170588) - Mae ymchwiliad heddlu'n parhau wedi i fws deulawr daro coeden ger Abertawe brynhawn Mawrth.
 27. ["Yr heli yn y gwaed": Byw a bod ar y môr](https://www.bbc.co.uk/newyddion/58159182) - Mae Cai Erith Williams yn gwerthfawrogi rhyfeddodau'r môr.
 28. [Tri chlwb Cymru trwodd i ail rownd Cwpan yr EFL](https://www.bbc.co.uk/newyddion/58163676) - Caerdydd yn trechu Sutton United, Abertawe yn fuddugol yn Reading a Chasnewydd yn ennill yn Ipswich.
