@@ -6,8 +6,8 @@
 6. [Facebook removes anti-vax influencer campaign](https://www.bbc.co.uk/news/blogs-trending-58167339) - Facebook has removed hundreds of accounts linked to a anti-vaccine campaign operated from Russia.
 7. [Algeria forest fires: Dozens killed in Kabylie region](https://www.bbc.co.uk/news/world-africa-58165169) - Algeria is one of several Mediterranean countries to face devastating wildfires.
 8. [Ethiopia PM Abiy Ahmed calls on civilians to join Tigray war](https://www.bbc.co.uk/news/world-africa-58163641) - Abiy Ahmed has asked all "capable" Ethiopians to join the fight against resurgent Tigrayan rebels.
-9. [Florida governor says no salaries for school leaders requiring masks](https://www.bbc.co.uk/news/world-us-canada-58162329) - As cases rise across the US, Florida's governor argues school mask rules infringe on parent rights.
-10. [Anger as Nigerian diplomat manhandled in Indonesia](https://www.bbc.co.uk/news/world-africa-58159675) - Nigeria says there was "no justification" for an official's mistreatment by immigration officers.
+9. [Swiss embassy urges Chinese media to remove articles about scientist](https://www.bbc.co.uk/news/world-asia-china-58168588) - A Swiss biologist who had been quoted in Chinese media in recent days did not exist, it said.
+10. [Florida governor says no salaries for school leaders requiring masks](https://www.bbc.co.uk/news/world-us-canada-58162329) - As cases rise across the US, Florida's governor argues school mask rules infringe on parent rights.
 11. [I Am Legend screenwriter dismisses anti-vax claims based on film's plot](https://www.bbc.co.uk/news/entertainment-arts-58164833) - A sci-fi writer hits back at unfounded rumours that Covid jabs turn people into zombies.
 12. [Poland's ruling coalition frays on eve of key media vote](https://www.bbc.co.uk/news/world-europe-58164513) - The prime minister sacks his deputy, who opposed a controversial change to the country's media law.
 13. [Kathy Hochul: Who is New York's first female governor?](https://www.bbc.co.uk/news/world-us-canada-58167825) - The history-making Democrat will take the role after Andrew Cuomo resigned over harassment claims.
