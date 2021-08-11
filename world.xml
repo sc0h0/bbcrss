@@ -11,16 +11,16 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 11 Aug 2021 03:01:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Aug 2021 03:49:49 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
-            <title><![CDATA[Wagner: Scale of Russian mercenary mission in Libya exposed]]></title>
-            <description><![CDATA[A Samsung tablet obtained by the BBC unveils chilling details of how mercenaries fought in Libya’s war.]]></description>
-            <link>https://www.bbc.co.uk/news/world-africa-58009514</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-58009514</guid>
-            <pubDate>Tue, 10 Aug 2021 21:08:45 GMT</pubDate>
+            <title><![CDATA[Michael Spavor: Canadian jailed for 11 years in China on spying charges]]></title>
+            <description><![CDATA[Michael Spavor's sentencing is the latest development in a diplomatic spat between the two countries.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-china-58168587</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-58168587</guid>
+            <pubDate>Wed, 11 Aug 2021 03:10:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Afghanistan war: Biden says he does not regret troop withdrawal]]></title>
@@ -28,6 +28,13 @@
             <link>https://www.bbc.co.uk/news/world-asia-58167408</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58167408</guid>
             <pubDate>Tue, 10 Aug 2021 22:11:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wagner: Scale of Russian mercenary mission in Libya exposed]]></title>
+            <description><![CDATA[A Samsung tablet obtained by the BBC unveils chilling details of how mercenaries fought in Libya’s war.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-58009514</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-58009514</guid>
+            <pubDate>Tue, 10 Aug 2021 21:08:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[New York Governor Andrew Cuomo resigns in wake of harassment report]]></title>
@@ -65,13 +72,6 @@
             <pubDate>Tue, 10 Aug 2021 20:43:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Greece fires: Foreign teams join battle on Evia island]]></title>
-            <description><![CDATA[Several European countries are helping Greece to tackle the blazes ravaging parched forests.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58160938</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58160938</guid>
-            <pubDate>Tue, 10 Aug 2021 15:23:58 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Florida governor says no salaries for school leaders requiring masks]]></title>
             <description><![CDATA[As cases rise across the US, Florida's governor argues school mask rules infringe on parent rights.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-58162329</link>
@@ -79,18 +79,25 @@
             <pubDate>Tue, 10 Aug 2021 23:03:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Poland's ruling coalition frays on eve of key media vote]]></title>
-            <description><![CDATA[The prime minister sacks his deputy, who opposed a controversial change to the country's media law.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58164513</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58164513</guid>
-            <pubDate>Tue, 10 Aug 2021 21:17:46 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[I Am Legend screenwriter dismisses anti-vax claims based on film's plot]]></title>
             <description><![CDATA[A sci-fi writer hits back at unfounded rumours that Covid jabs turn people into zombies.]]></description>
             <link>https://www.bbc.co.uk/news/entertainment-arts-58164833</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-58164833</guid>
             <pubDate>Tue, 10 Aug 2021 19:17:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Greece fires: Foreign teams join battle on Evia island]]></title>
+            <description><![CDATA[Several European countries are helping Greece to tackle the blazes ravaging parched forests.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58160938</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58160938</guid>
+            <pubDate>Tue, 10 Aug 2021 15:23:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Poland's ruling coalition frays on eve of key media vote]]></title>
+            <description><![CDATA[The prime minister sacks his deputy, who opposed a controversial change to the country's media law.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58164513</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58164513</guid>
+            <pubDate>Tue, 10 Aug 2021 21:17:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Anger as Nigerian diplomat manhandled in Indonesia]]></title>
@@ -168,13 +175,6 @@
             <link>https://www.bbc.co.uk/news/world-asia-58082355</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58082355</guid>
             <pubDate>Mon, 09 Aug 2021 23:16:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Climate change: Five things we have learned from the IPCC report]]></title>
-            <description><![CDATA[What are the key takeaways from the IPCC new study on the science of climate change?]]></description>
-            <link>https://www.bbc.co.uk/news/science-environment-58138714</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-58138714</guid>
-            <pubDate>Mon, 09 Aug 2021 12:41:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The illegal gold mines killing rivers and livelihoods in Ghana]]></title>
