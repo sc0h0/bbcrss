@@ -11,16 +11,23 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 11 Aug 2021 11:49:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Aug 2021 12:19:42 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Johnny Depp's film festival awards insulting, domestic abuse charity says]]></title>
+            <description><![CDATA[The actor, labelled a "wife beater" by The Sun, is to be honoured in Spain and the Czech Republic.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-58170506</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-58170506</guid>
+            <pubDate>Wed, 11 Aug 2021 11:59:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Stevie Nicks cancels gigs to 'keep healthy' as US Covid cases rise]]></title>
             <description><![CDATA[The Fleetwood Mac singer, 73, is "still being extremely cautious" as the Delta variant spreads.]]></description>
             <link>https://www.bbc.co.uk/news/entertainment-arts-58169510</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-58169510</guid>
-            <pubDate>Wed, 11 Aug 2021 08:13:52 GMT</pubDate>
+            <pubDate>Wed, 11 Aug 2021 12:02:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Strictly Come Dancing: Tilly Ramsay and Greg Wise join line-up]]></title>
@@ -30,7 +37,7 @@
             <pubDate>Wed, 11 Aug 2021 11:11:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How The Orielles turned their album into a film score]]></title>
+            <title><![CDATA[The Orielles: How the band turned their album into a film score]]></title>
             <description><![CDATA[The band on surreal gigs at cricket grounds and the "happenings" that inspired their new project.]]></description>
             <link>https://www.bbc.co.uk/news/entertainment-arts-58083762</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-58083762</guid>
@@ -65,13 +72,6 @@
             <pubDate>Tue, 10 Aug 2021 13:42:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Fenty Beauty: How make-up helped Rihanna become a billionaire]]></title>
-            <description><![CDATA[Rihanna makes more money from her make-up than from her music and acting work.]]></description>
-            <link>https://www.bbc.co.uk/news/newsbeat-58084543</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-58084543</guid>
-            <pubDate>Wed, 11 Aug 2021 00:19:52 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Odeon owner AMC to accept payment in Bitcoin]]></title>
             <description><![CDATA[Cinemagoers will be able to buy tickets and popcorn using the cryptocurrency, says the US chain.]]></description>
             <link>https://www.bbc.co.uk/news/business-58163914</link>
@@ -100,11 +100,11 @@
             <pubDate>Tue, 10 Aug 2021 15:02:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How TV's The Windsors is making its unregal stage debut]]></title>
-            <description><![CDATA[The creator and cast of the royal comedy satire take us behind the scenes of their West End show.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-58101586</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-58101586</guid>
-            <pubDate>Tue, 10 Aug 2021 00:28:01 GMT</pubDate>
+            <title><![CDATA[Fenty Beauty: How make-up helped Rihanna become a billionaire]]></title>
+            <description><![CDATA[Rihanna makes more money from her make-up than from her music and acting work.]]></description>
+            <link>https://www.bbc.co.uk/news/newsbeat-58084543</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-58084543</guid>
+            <pubDate>Wed, 11 Aug 2021 00:19:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Stephen Lawrence drama 'celebrates common decency']]></title>
@@ -112,6 +112,13 @@
             <link>https://www.bbc.co.uk/news/entertainment-arts-58112588</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-58112588</guid>
             <pubDate>Tue, 10 Aug 2021 00:33:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How TV's The Windsors is making its unregal stage debut]]></title>
+            <description><![CDATA[The creator and cast of the royal comedy satire take us behind the scenes of their West End show.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-58101586</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-58101586</guid>
+            <pubDate>Tue, 10 Aug 2021 00:28:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ryan Reynolds: Why Free Guy is more than a 'video game movie']]></title>

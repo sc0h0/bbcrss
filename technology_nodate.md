@@ -1,6 +1,6 @@
 1. [Hackers steal $600m in major cryptocurrency heist](https://www.bbc.co.uk/news/business-58163917) - Thousands of digital tokens have been stolen by hackers in one of the largest cryptocurrency heists.
 2. [Facebook removes anti-vax influencer campaign](https://www.bbc.co.uk/news/blogs-trending-58167339) - Facebook has removed hundreds of accounts linked to a anti-vaccine campaign operated from Russia.
-3. [Google may cut pay of staff who work from home](https://www.bbc.co.uk/news/business-58171716) - New pay calculator can assess geographical cost of remote versus office working.
+3. [Google may cut pay of staff who work from home](https://www.bbc.co.uk/news/business-58171716) - The tech giant has developed a calculator that lets staff see the effects of remote working or moving offices.
 4. [Odeon owner AMC to accept payment in Bitcoin](https://www.bbc.co.uk/news/business-58163914) - Cinemagoers will be able to buy tickets and popcorn using the cryptocurrency, says the US chain.
 5. [Google lets parents remove children from image-search results](https://www.bbc.co.uk/news/technology-58164582) - The search giant announces a range of changes to its children's policies on Google and YouTube.
 6. [Chameleon-like camouflage made for soft robot](https://www.bbc.co.uk/news/technology-58159730) - Researchers develop a robot that changes colour in response to its background.

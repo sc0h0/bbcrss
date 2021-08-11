@@ -1,5 +1,5 @@
-1. [Morrisons to give workers Boxing Day off](https://www.bbc.co.uk/news/business-58167627) - The supermarket chain has given all its 111,000 staff the day off as a reward for their work during the pandemic.
-2. [Google may cut pay of staff who work from home](https://www.bbc.co.uk/news/business-58171716) - New pay calculator can assess geographical cost of remote versus office working.
+1. [Google may cut pay of staff who work from home](https://www.bbc.co.uk/news/business-58171716) - The tech giant has developed a calculator that lets staff see the effects of remote working or moving offices.
+2. [Morrisons to give workers Boxing Day off](https://www.bbc.co.uk/news/business-58167627) - The supermarket chain has given all its 111,000 staff the day off as a reward for their work during the pandemic.
 3. [David Cameron denies lobbying for genetics firm Illumina](https://www.bbc.co.uk/news/business-58146567) - Mr Cameron encouraged Matt Hancock to speak at a conference co-hosted by Illumina before it won a government contract.
 4. [Deliveroo orders double as lockdown habits endure](https://www.bbc.co.uk/news/business-58169570) - First results from the newly floated food delivery firm see first-half losses narrow to £104.8m.
 5. [Winchester is now the least affordable UK city to buy a home](https://www.bbc.co.uk/news/business-58162371) - Winchester has leapfrogged Oxford to become the UK’s least affordable city to buy a home, says a survey.
