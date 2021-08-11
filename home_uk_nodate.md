@@ -1,7 +1,7 @@
 1. [Afghanistan war: Taliban back brutal rule as they strike for power](https://www.bbc.co.uk/news/world-asia-58156772) - Afghanistan's ex-rulers still back brutal punishments, the BBC finds as it goes behind Taliban lines.
-2. [Briton suspected of spying for Russia arrested in Germany](https://www.bbc.co.uk/news/world-europe-58170872) - German federal prosecutors say the British man passed documents to Russian intelligence for cash.
-3. [UK deportation flight to Jamaica leaves with dozens reprieved](https://www.bbc.co.uk/news/uk-58177487) - A plane to Jamaica chartered by the Home Office was carrying just seven passengers, lawyers say.
-4. [Gurkha veterans on hunger strike outside Downing Street](https://www.bbc.co.uk/news/uk-58159773) - Gurkha veterans say they will starve themselves to death if they do not get pensions equal to British soldiers.
+2. [UK deportation flight to Jamaica leaves with dozens reprieved](https://www.bbc.co.uk/news/uk-58177487) - A plane to Jamaica chartered by the Home Office was carrying just seven passengers, lawyers say.
+3. [Gurkha veterans on hunger strike outside Downing Street](https://www.bbc.co.uk/news/uk-58159773) - Gurkha veterans say they will starve themselves to death if they do not get pensions equal to British soldiers.
+4. [Briton suspected of spying for Russia arrested in Germany](https://www.bbc.co.uk/news/world-europe-58170872) - German federal prosecutors say the British man passed documents to Russian intelligence for cash.
 5. [Henley Royal Regatta dress code allows women to wear trousers](https://www.bbc.co.uk/news/uk-england-oxfordshire-58173881) - Henley Royal Regatta changes its rules for the Steward's Enclosure for the first time in decades.
 6. [Covid-19: Teen jabs move cautiously and lockdown takeaway habits endure](https://www.bbc.co.uk/news/uk-58174722) - Five things you need to know about the coronavirus pandemic this Wednesday evening.
 7. [A-levels: Warning over private and state school gap](https://www.bbc.co.uk/news/education-58172292) - The former school recovery tsar warns of growing educational inequality as a result of the pandemic.

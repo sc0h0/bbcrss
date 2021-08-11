@@ -3,7 +3,7 @@
 3. [Briton suspected of spying for Russia arrested in Germany](https://www.bbc.co.uk/news/world-europe-58170872) - German federal prosecutors say the British man passed documents to Russian intelligence for cash.
 4. [A-levels: Warning over private and state school gap](https://www.bbc.co.uk/news/education-58172292) - The former school recovery tsar warns of growing educational inequality as a result of the pandemic.
 5. [Operation Brock: Brexit lorry controls 'could stay'](https://www.bbc.co.uk/news/uk-england-kent-58170463) - Lorry controls brought in for Brexit could stay - in case of any type of disruption near the border.
-6. [Covid: Tories accuse Starmer of hypocrisy over travel tests](https://www.bbc.co.uk/news/uk-wales-politics-58116335) - He is accused of ignoring Welsh Labour ministers' insistence on travellers use higher-cost tests.
+6. [Covid: Tories accuse Starmer of hypocrisy over travel tests](https://www.bbc.co.uk/news/uk-wales-politics-58116335) - He is accused of ignoring Welsh Labour ministers' insistence that travellers use higher-cost tests.
 7. [Covid-19: More than 75% of UK adults now double-jabbed](https://www.bbc.co.uk/news/uk-58162318) - But Oxford vaccine chief Prof Sir Andrew Pollard warns Covid herd immunity is "not a possibility".
 8. [Oxford-jab chief criticises UK's Covid booster plan](https://www.bbc.co.uk/news/health-58159573) - Health Secretary Sajid Javid says he plans to begin the third jab rollout in a matter of weeks.
 9. [Kirsty Williams: Abuse of women in politics getting worse](https://www.bbc.co.uk/news/uk-wales-politics-58145445) - Kirsty Williams says she could not keep her family safe from trolling while Welsh education minister.

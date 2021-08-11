@@ -1,5 +1,5 @@
 1. [Love Island: Faye and Teddy's row sparks record 25,000 Ofcom complaints](https://www.bbc.co.uk/news/entertainment-arts-58162817) - Faye and Teddy's Casa Amor row sparks the highest number of Ofcom complaints in the show's history.
-2. [Instagram says sorry for removing Pedro Almodovar film poster](https://www.bbc.co.uk/news/entertainment-arts-58177715) - The image of a lactating nipple had been removed for breaking the social platform's nudity rules.
+2. [Instagram says sorry for removing Pedro Almodovar film poster](https://www.bbc.co.uk/news/entertainment-arts-58177715) - The advert for revered Spanish director Pedro Almodovar's new film features a lactating nipple.
 3. [Johnny Depp's film festival awards insulting, domestic abuse charities say](https://www.bbc.co.uk/news/entertainment-arts-58170506) - The actor, labelled a "wife beater" by The Sun, is to be honoured in Spain and the Czech Republic.
 4. [Stevie Nicks cancels gigs to 'keep healthy' as US Covid cases rise](https://www.bbc.co.uk/news/entertainment-arts-58169510) - The Fleetwood Mac singer, 73, is "still being extremely cautious" as the Delta variant spreads.
 5. [Strictly Come Dancing: Tilly Ramsay and Greg Wise join line-up](https://www.bbc.co.uk/news/entertainment-arts-58089932) - Social media influencer Tilly Ramsay and actor Greg Wise join the TV dancing show's line-up.
