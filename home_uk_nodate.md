@@ -7,9 +7,9 @@
 7. [Tributes to dad stabbed after confronting youths](https://www.bbc.co.uk/news/uk-england-london-58186688) - James Markham, 45, was killed after confronting a group of youths outside his home.
 8. [NHS waiting list in England hits record 5.45 million](https://www.bbc.co.uk/news/health-58186708) - Hospitals are working through the backlog - but some patients are waiting more than two years.
 9. [Bomb threat arrest at Northampton police station caught on film](https://www.bbc.co.uk/news/uk-england-northamptonshire-58187469) - A man is seen being tackled to the ground by officers after claiming he had a bomb in a bag.
-10. [Australian capital Canberra goes into snap lockdown](https://www.bbc.co.uk/news/world-australia-58182419) - The one-week lockdown comes after Canberra recorded its first case of Covid-19 for more than a year.
-11. [Tui boss: UK falling behind European travel recovery](https://www.bbc.co.uk/news/business-58184088) - UK bookings lag behind Europe amid shifting Covid travel restrictions, the travel giant says.
-12. [Cryptocurrency heist hacker returns $260m in funds](https://www.bbc.co.uk/news/business-58180692) - The hacker behind the $600m Poly Network cryptocurrency heist has posted a Q&A on the blockchain.
+10. [Jeffrey Epstein: Met Police to review decision not to investigate](https://www.bbc.co.uk/news/uk-england-london-58186118) - The Met previously concluded it was "not the appropriate authority" to investigate Jeffrey Epstein.
+11. [Australian capital Canberra goes into snap lockdown](https://www.bbc.co.uk/news/world-australia-58182419) - The one-week lockdown comes after Canberra recorded its first case of Covid-19 for more than a year.
+12. [Tui boss: UK falling behind European travel recovery](https://www.bbc.co.uk/news/business-58184088) - UK bookings lag the rest of Europe amid shifting Covid travel restrictions, the travel giant says.
 13. [Electric cars: Do ministers put their motor where their mouth is?](https://www.bbc.co.uk/news/uk-politics-58170665) - Politicians are keen for us to live greener lives, but how many have taken the electric car plunge?
 14. [Afghanistan war: Do the Taliban want to conquer or compromise?](https://www.bbc.co.uk/news/world-asia-58181670) - The BBC speaks to two high profile figures in its chain of command who have very different messages.
 15. [Boohoo boss: 'We're not a throwaway fashion brand'](https://www.bbc.co.uk/news/business-58160237) - The boss of fast fashion retailer Boohoo tells the BBC it is committed to being more sustainable.
