@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 12 Aug 2021 06:14:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Aug 2021 06:42:29 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -21,6 +21,13 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58179582</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58179582</guid>
             <pubDate>Thu, 12 Aug 2021 06:00:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What are Northern Ireland's Covid-19 rules now?]]></title>
+            <description><![CDATA[How do restrictions here compare to other parts of the UK and the Republic of Ireland?]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58175159</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58175159</guid>
+            <pubDate>Thu, 12 Aug 2021 06:01:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[GCSE results issued with grades expected to rise]]></title>
@@ -93,20 +100,6 @@
             <pubDate>Wed, 11 Aug 2021 16:53:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Apprentice Boys Relief of Derry parade scaled back for second year]]></title>
-            <description><![CDATA[The annual parade marks the anniversary of the ending of the Siege of Derry in August 1689.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58173471</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58173471</guid>
-            <pubDate>Wed, 11 Aug 2021 12:40:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kathy Hochul: New York's next governor influenced by Irish roots]]></title>
-            <description><![CDATA[Kathy Hochul's grandparents were from Ireland and had a "profound impact" on her political outlook.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58174022</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58174022</guid>
-            <pubDate>Wed, 11 Aug 2021 13:59:08 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Covid-19: Three more deaths and 1,467 new coronavirus cases]]></title>
             <description><![CDATA[The total number of deaths linked to Covid-19 in NI since the start of the pandemic is 2,233.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58176079</link>
@@ -119,13 +112,6 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58157207</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58157207</guid>
             <pubDate>Tue, 10 Aug 2021 18:16:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid-19: Two more deaths and 1,305 new coronavirus cases]]></title>
-            <description><![CDATA[The total number of deaths linked to Covid-19 in NI since the start of the pandemic is 2,230.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58162340</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58162340</guid>
-            <pubDate>Tue, 10 Aug 2021 16:50:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Anger at overflowing Covid test drop boxes]]></title>
@@ -167,7 +153,7 @@
             <description><![CDATA[The weather forecast in Northern Ireland.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-26018439</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-26018439</guid>
-            <pubDate>Tue, 10 Aug 2021 05:42:59 GMT</pubDate>
+            <pubDate>Thu, 12 Aug 2021 06:40:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Uefa Super Cup: Irish FA chief Nelson says Chelsea-Villarreal game 'fantastic opportunity' for Northern Ireland]]></title>
@@ -219,6 +205,13 @@
             <pubDate>Tue, 10 Aug 2021 18:15:40 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Apprentice Boys Relief of Derry parade scaled back for second year]]></title>
+            <description><![CDATA[The annual parade marks the anniversary of the ending of the Siege of Derry in August 1689.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58173471</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58173471</guid>
+            <pubDate>Wed, 11 Aug 2021 12:40:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Londonderry: Elemental Software bought for undisclosed sum]]></title>
             <description><![CDATA[The software firm was set up by former community development workers and employs more than 30 people.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58173472</link>
@@ -240,11 +233,11 @@
             <pubDate>Mon, 09 Aug 2021 19:39:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Euro Auctions sold to Ritchie Bros for £775m]]></title>
-            <description><![CDATA[The Dromore company, set up in 1998, has grown to have more than 200 staff across 14 countries.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58152835</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58152835</guid>
-            <pubDate>Mon, 09 Aug 2021 18:46:45 GMT</pubDate>
+            <title><![CDATA[Kathy Hochul: New York's next governor influenced by Irish roots]]></title>
+            <description><![CDATA[Kathy Hochul's grandparents were from Ireland and had a "profound impact" on her political outlook.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58174022</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58174022</guid>
+            <pubDate>Wed, 11 Aug 2021 13:59:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: Vaccines for Irish 12 to 15-year-olds start this weekend]]></title>
@@ -273,13 +266,6 @@
             <link>https://www.bbc.co.uk/news/world-europe-58116692</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58116692</guid>
             <pubDate>Fri, 06 Aug 2021 11:41:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Teenage girl killed in County Meath crash]]></title>
-            <description><![CDATA[The 17-year-old died at the scene of the crash in Drumree on Thursday, while two men were injured.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58112411</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58112411</guid>
-            <pubDate>Fri, 06 Aug 2021 06:49:56 GMT</pubDate>
         </item>
     </channel>
 </rss>

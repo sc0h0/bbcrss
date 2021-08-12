@@ -1,7 +1,7 @@
-1. [UK economy grows by 4.8% but misses forecasts](https://www.bbc.co.uk/news/uk-58183519) - Official data shows growth slowed between April and June despite most businesses emerging from lockdown.
+1. [UK economy grows 4.8% as Covid restrictions ease](https://www.bbc.co.uk/news/uk-58183519) - Retail, restaurants and hotels show strong growth between April and June but data misses forecasts.
 2. [Boohoo boss: 'We're not a throwaway fashion brand'](https://www.bbc.co.uk/news/business-58160237) - The boss of fast fashion retailer Boohoo tells the BBC it is committed to being more sustainable.
 3. [Cryptocurrency heist hacker returns $260m in funds](https://www.bbc.co.uk/news/business-58180692) - The hacker behind the $600m Poly Network cryptocurrency heist has posted a Q&A on the blockchain.
-4. [China says crackdown on business to go on for years](https://www.bbc.co.uk/news/business-58182658) - The five-year plan comes soon after a major clampdown on several big tech and education companies.
+4. [China says crackdown on business to go on for years](https://www.bbc.co.uk/news/business-58182658) - The five-year plan comes soon after a major clampdown on several big technology and education firms.
 5. [Quarantine hotel rules face legal challenge](https://www.bbc.co.uk/news/business-58180307) - Travellers affected by the UK's quarantine hotel policy want a judicial review of the rules.
 6. [Google may cut pay of staff who work from home](https://www.bbc.co.uk/news/business-58171716) - The tech giant has developed a calculator that lets staff see the effects of remote working.
 7. [Weight Watchers shares dive as people put diets on hold](https://www.bbc.co.uk/news/business-58177676) - Shares in the Oprah Winfrey-backed company drop 25% as subscriber numbers fall after lockdown.

@@ -1,5 +1,5 @@
 1. [GCSES 2021: Higher results expected after exams axed](https://www.bbc.co.uk/news/education-58174253) - Pupils are finding out their GCSE results, as a second year of bumper grades is predicted.
-2. [UK economy grows by 4.8% but misses forecasts](https://www.bbc.co.uk/news/uk-58183519) - Official data shows growth slowed between April and June despite most businesses emerging from lockdown.
+2. [UK economy grows 4.8% as Covid restrictions ease](https://www.bbc.co.uk/news/uk-58183519) - Retail, restaurants and hotels show strong growth between April and June but data misses forecasts.
 3. [Afghanistan war: Army chief replaced as Taliban seize more cities](https://www.bbc.co.uk/news/world-asia-58170847) - General Wali Mohammad Ahmadzai has been removed from his post, as insurgents take more cities.
 4. [Afghanistan war: Do the Taliban want to conquer or compromise?](https://www.bbc.co.uk/news/world-asia-58181670) - The BBC speaks to two high profile figures in its chain of command who have very different messages.
 5. [New Zealand borders to remain closed for rest of the year](https://www.bbc.co.uk/news/world-asia-58182418) - Prime Minister Jacinda Ardern said her priority was vaccinating the population by the end of 2021.
