@@ -1,4 +1,4 @@
-1. [GCSEs: Exams 'definitely' have place in Wales' future](https://www.bbc.co.uk/news/uk-wales-58180628) - The head of the qualifications watchdog says pupils would be "let down" if they were scrapped.
+1. [GCSEs: Top grade improvement for second year running](https://www.bbc.co.uk/news/uk-wales-58180628) - Pupils are praised for their "resilience" as more get top GCSE grades after studying through Covid.
 2. [Afghanistan war: Veterans reflect on troops leaving country](https://www.bbc.co.uk/news/uk-wales-58181826) - The two veterans have opposing views on whether the conflict has had a positive effect.
 3. [Georgia shipwreck: Welsh kit to help Golden Ray clean-up](https://www.bbc.co.uk/news/uk-wales-58174475) - About a million gallons of contaminated mud needs to be treated from the remains of the ship.
 4. [Trellyffaint: Proof unearthed of Neolithic dairy farming in Pembrokeshire](https://www.bbc.co.uk/news/uk-wales-58174481) - Shards of decorated pottery containing traces of dairy fat residue have been dated to 3,100BC.
@@ -20,8 +20,8 @@
 20. [No away fans allowed at September's European internationals because of 'spike' in Covid cases](https://www.bbc.co.uk/sport/football/58179312) - No away fans will be permitted at next month's international matches in Europe because of a "spike"in Covid-19 cases, Uefa and Fifa confirm.
 21. [Lauren Price: Tokyo Olympics boxing champion reveals approach from promoter Eddie Hearn](https://www.bbc.co.uk/sport/boxing/58170707) - Olympic boxing champion Lauren Price reveals promoter Eddie Hearn has contacted her about the prospect of turning professional.
 22. [David Probert: Welsh jockey rides five straight winners at Ffos Las](https://www.bbc.co.uk/sport/horse-racing/58183791) - Welsh jockey David Probert rides five successive winners at Ffos Las.
-23. ['Angen i arholiadau barhau'n rhan o'r drefn asesu'](https://www.bbc.co.uk/newyddion/58173123) - Ar ddiwrnod cyhoeddi canlyniadau TGAU, cadeirydd Cymwysterau Cymru yn dweud bod angen arholiadau.
-24. [Galw am 'adfer democratiaeth' Ceredigion wedi'r cyfyngiadau](https://www.bbc.co.uk/newyddion/58173127) - Gwrthblaid yn dweud bod angen i Gyngor Ceredigion fynd 'nôl i'r drefn arferol o reoli yn sgil llacio cyfyngiadau.
-25. ['Bywyd syml Ynys Enlli yn denu mwy o bobl'](https://www.bbc.co.uk/newyddion/58147955) - Does yna ddim dŵr cynnes, trydan, cawod na Wi-Fi ar Ynys Enlli, ond mae'r bywyd syml "yn dod yn fwy poblogaidd".
+23. [Mwy yn cael y graddau TGAU uchaf yng Nghymru](https://www.bbc.co.uk/newyddion/58175746) - Disgyblion TGAU yn derbyn eu canlyniadau, gyda dros chwarter y graddau yn A neu A*.
+24. ['Angen i arholiadau barhau'n rhan o'r drefn asesu'](https://www.bbc.co.uk/newyddion/58173123) - Ar ddiwrnod cyhoeddi canlyniadau TGAU, cadeirydd Cymwysterau Cymru yn dweud bod angen arholiadau.
+25. [Galw am 'adfer democratiaeth' Ceredigion wedi'r cyfyngiadau](https://www.bbc.co.uk/newyddion/58173127) - Gwrthblaid yn dweud bod angen i Gyngor Ceredigion fynd 'nôl i'r drefn arferol o reoli yn sgil llacio cyfyngiadau.
 26. [Llion Williams: Lloches ar ynysoedd yr Alban](https://www.bbc.co.uk/newyddion/57916024) - Yr actor sy'n egluro pam ei fod yn byw yn yr Alban am gyfnod a'i rybuddion i Gymru o'r Ynys Hir.
 27. [Tri chlwb Cymru trwodd i ail rownd Cwpan yr EFL](https://www.bbc.co.uk/newyddion/58163676) - Caerdydd yn trechu Sutton United, Abertawe yn fuddugol yn Reading a Chasnewydd yn ennill yn Ipswich.

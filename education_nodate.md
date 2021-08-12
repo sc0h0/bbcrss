@@ -1,4 +1,4 @@
-1. [GCSES 2021: Higher results expected after exams axed](https://www.bbc.co.uk/news/education-58174253) - Pupils are finding out their GCSE results, as a second year of bumper grades is predicted.
+1. [GCSE results 2021: Record passes and top grades](https://www.bbc.co.uk/news/education-58174253) - Record high GCSE grades in a second year of exams disrupted by the pandemic.
 2. [A-levels: Warning over private and state school gap](https://www.bbc.co.uk/news/education-58172292) - The former school recovery tsar warns of growing educational inequality as a result of the pandemic.
 3. [A-level results 2021: Top grades reach record high](https://www.bbc.co.uk/news/education-58086908) - The second year of results after cancelled exams sees the highest level of A* and A grades at A-level.
 4. [Scottish results day: Record high for A grades as pass rate falls](https://www.bbc.co.uk/news/uk-scotland-58150287) - Pupils' pass rates are still well above pre-pandemic levels after formal exams were cancelled for the second year.
@@ -21,7 +21,7 @@
 21. [MPs call for national register of home-educated children](https://www.bbc.co.uk/news/education-57974170) - They say the government must "get a grip" on the number of children taught at home in England.
 22. [National Adoption Strategy: £48m to improve services in England](https://www.bbc.co.uk/news/uk-57962679) - A new National Adoption Strategy aims to enhance support to families and end a postcode lottery.
 23. [Daily testing can keep pupils in school, study suggests](https://www.bbc.co.uk/news/health-57930214) - A study in 200 English secondary schools and colleges found very few infections in close contacts of cases.
-24. [GCSE results 2021: When do results come out?](https://www.bbc.co.uk/news/education-53682466) - Teachers have decided pupils' grades this year after exams were cancelled due to Covid.
+24. [GCSE results 2021: How were grades decided?](https://www.bbc.co.uk/news/education-53682466) - Teachers have decided pupils' grades this year after Covid cancelled exams for a second year.
 25. [GCSEs 2021: The 9-1 grading system explained](https://www.bbc.co.uk/news/education-48993830) - Teenagers will receive their GCSE results on 12 August.
 26. ['Only way you'll get to Oxford is on a bus'](https://www.bbc.co.uk/news/education-58013607) - Social mobility campaigner Sir Peter Lampl worries about the lack of fair opportunity for young people.
 27. [Parents' fears over sexting and abuse among teenagers](https://www.bbc.co.uk/news/education-57599347) - A mother and a father reveal their shock at learning of their children's experiences of online sex.
