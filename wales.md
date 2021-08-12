@@ -1,4 +1,4 @@
-1. [GCSEs: Exams 'definitely' have place in Wales' future](https://www.bbc.co.uk/news/uk-wales-58180628) - Wed, 11 Aug 2021 21:53:35 GMT - The head of the qualifications watchdog says pupils would be "let down" if they were scrapped.
+1. [GCSEs: Exams 'definitely' have place in Wales' future](https://www.bbc.co.uk/news/uk-wales-58180628) - Thu, 12 Aug 2021 05:02:32 GMT - The head of the qualifications watchdog says pupils would be "let down" if they were scrapped.
 2. [Afghanistan war: Veterans reflect on troops leaving country](https://www.bbc.co.uk/news/uk-wales-58181826) - Wed, 11 Aug 2021 21:53:41 GMT - The two veterans have opposing views on whether the conflict has had a positive effect.
 3. [National anthem: Should Wales' teams sing God Save the Queen?](https://www.bbc.co.uk/news/uk-wales-58171799) - Wed, 11 Aug 2021 15:07:34 GMT - Hen Wlad Fy Nhadau has been sung before Wales rugby internationals for 116 years.
 4. [Cardiff: Three in court charged with Bute Park murder](https://www.bbc.co.uk/news/uk-wales-58177615) - Wed, 11 Aug 2021 14:33:04 GMT - Dr Gary Jenkins died 16 days after he was attacked in the city centre park on 20 July.
