@@ -5,7 +5,7 @@
 5. [Kinnaur: At least 13 dead and dozens trapped in India landslide](https://www.bbc.co.uk/news/world-asia-india-58171679) - Boulders fall on a Himalayan highway, killing at least 13 people and trapping many more.
 6. [Tokyo 2020: Some Australian Olympians face 28-day quarantine](https://www.bbc.co.uk/sport/olympics/58172665) - Some Australians Olympians are having to quarantine for 28 days after returning to their country from Tokyo
 7. [China: Swiss embassy urges media to remove scientist fake news](https://www.bbc.co.uk/news/world-asia-china-58168588) - A Swiss biologist who had been quoted in Chinese media in recent days did not exist, it said.
-8. [Afghanistan war: Army chief replaced as Taliban seize more cities](https://www.bbc.co.uk/news/world-asia-58170847) - General Wali Mohammad Ahmadzai is removed from his post, as the insurgents take more cities.
+8. [Afghanistan war: Army chief replaced as Taliban seize more cities](https://www.bbc.co.uk/news/world-asia-58170847) - General Wali Mohammad Ahmadzai has been removed from his post, as insurgents take more cities.
 9. [China to ban karaoke songs with 'illegal content'](https://www.bbc.co.uk/news/world-asia-china-58168638) - Songs that fall under this category include those that endanger national or territorial integrity.
 10. [North Korea leaves hotline with South unanswered during military drills](https://www.bbc.co.uk/news/world-asia-58162289) - Tensions have risen in the Korean peninsula as South Korea and the US hold joint military drills.
 11. [TikTok named as the most downloaded app of 2020](https://www.bbc.co.uk/news/business-58155103) - The Chinese app's popularity comes even after former President Donald Trump tried to ban it in the US.

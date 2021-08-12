@@ -1,4 +1,4 @@
-1. [Afghanistan war: Army chief replaced as Taliban seize more cities](https://www.bbc.co.uk/news/world-asia-58170847) - General Wali Mohammad Ahmadzai is removed from his post, as the insurgents take more cities.
+1. [Afghanistan war: Army chief replaced as Taliban seize more cities](https://www.bbc.co.uk/news/world-asia-58170847) - General Wali Mohammad Ahmadzai has been removed from his post, as insurgents take more cities.
 2. [Afghanistan war: Do the Taliban want to conquer or compromise?](https://www.bbc.co.uk/news/world-asia-58181670) - The BBC speaks to two high profile figures in its chain of command who have very different messages.
 3. [GCSES 2021: Higher results expected after exams axed](https://www.bbc.co.uk/news/education-58174253) - Pupils are finding out their GCSE results, as a second year of bumper grades is predicted.
 4. [New Zealand borders to remain closed for rest of the year](https://www.bbc.co.uk/news/world-asia-58182418) - Prime Minister Jacinda Ardern said her priority was vaccinating the population by the end of 2021.
