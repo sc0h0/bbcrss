@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 12 Aug 2021 12:31:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Aug 2021 12:52:56 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -23,18 +23,25 @@
             <pubDate>Thu, 12 Aug 2021 09:45:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Jeffrey Epstein: Met Police to review decision not to investigate]]></title>
-            <description><![CDATA[The Met previously concluded it was "not the appropriate authority" to investigate Jeffrey Epstein.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-london-58186118</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-58186118</guid>
-            <pubDate>Thu, 12 Aug 2021 10:35:17 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[GCSE results 2021: Exams triumph for boy who spent year in hospital]]></title>
             <description><![CDATA[Jason Ledford hopes to become a nurse after undergoing treatment for a brain tumour.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-derbyshire-58166542</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-derbyshire-58166542</guid>
             <pubDate>Thu, 12 Aug 2021 10:52:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Olympic Gadirova twins 'thrilled' at school grades]]></title>
+            <description><![CDATA[The 16-year-old Olympic medallists plan to stay on to study sport and management while competing.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-58187027</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-58187027</guid>
+            <pubDate>Thu, 12 Aug 2021 12:38:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jeffrey Epstein: Met Police to review decision not to investigate]]></title>
+            <description><![CDATA[The Met previously concluded it was "not the appropriate authority" to investigate Jeffrey Epstein.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-58186118</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-58186118</guid>
+            <pubDate>Thu, 12 Aug 2021 10:35:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Burned woman found in lay-by identified]]></title>
@@ -44,25 +51,11 @@
             <pubDate>Thu, 12 Aug 2021 10:16:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Ex-Olympian Stan Wild continued gym coaching after abuse claim]]></title>
-            <description><![CDATA[Stan Wild represented Great Britain at two Olympic Games and founded his own York gymnastics club.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-58169460</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-58169460</guid>
-            <pubDate>Thu, 12 Aug 2021 05:20:02 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Bomb threat arrest at Northampton police station caught on film]]></title>
             <description><![CDATA[A man is seen being tackled to the ground by officers after claiming he had a bomb in a bag.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-northamptonshire-58187469</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-northamptonshire-58187469</guid>
             <pubDate>Thu, 12 Aug 2021 10:42:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Napier Barracks: Further cases of Covid-19 among asylum seekers]]></title>
-            <description><![CDATA[More cases of Covid-19 are confirmed at Napier Barracks, which saw an outbreak in January.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-kent-58186216</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-kent-58186216</guid>
-            <pubDate>Thu, 12 Aug 2021 12:12:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Victoria station bus crash victim named as Melissa Burr]]></title>
@@ -72,11 +65,18 @@
             <pubDate>Thu, 12 Aug 2021 10:36:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A64 Tadcaster: Delays as crane fire closes road]]></title>
-            <description><![CDATA[The blaze on the A64 means the eastbound route is to remain closed all day on Thursday, say police.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-58184494</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-58184494</guid>
-            <pubDate>Thu, 12 Aug 2021 10:33:20 GMT</pubDate>
+            <title><![CDATA[Ex-Olympian Stan Wild continued gym coaching after abuse claim]]></title>
+            <description><![CDATA[Stan Wild represented Great Britain at two Olympic Games and founded his own York gymnastics club.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-58169460</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-58169460</guid>
+            <pubDate>Thu, 12 Aug 2021 05:20:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hospital worker fell asleep during operation]]></title>
+            <description><![CDATA[Prosper Johnson failed to observe his patient during an operation, a tribunal found.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-devon-58185529</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-devon-58185529</guid>
+            <pubDate>Thu, 12 Aug 2021 12:20:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Horndean dog theft: Teen arrested after pet snatched from boy]]></title>
@@ -87,7 +87,7 @@
         </item>
         <item>
             <title><![CDATA[Postcard from Chile arrives in Dorset after 30 years]]></title>
-            <description><![CDATA[The recipient was 'slightly confused' when it landed on his doormat three decades late.]]></description>
+            <description><![CDATA[The recipient says he was 'slightly confused' when it landed on his doormat three decades late.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-hampshire-58179661</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-hampshire-58179661</guid>
             <pubDate>Thu, 12 Aug 2021 06:05:34 GMT</pubDate>
@@ -128,6 +128,20 @@
             <pubDate>Mon, 09 Aug 2021 20:01:37 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[M1: Woman charged over crash which killed two children]]></title>
+            <description><![CDATA[A 35-year-old woman is charged with causing death by dangerous driving after the crash on the M1.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-58189059</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-58189059</guid>
+            <pubDate>Thu, 12 Aug 2021 11:48:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Napier Barracks: Further cases of Covid-19 among asylum seekers]]></title>
+            <description><![CDATA[More cases of Covid-19 are confirmed at Napier Barracks, which saw an outbreak in January.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-kent-58186216</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-kent-58186216</guid>
+            <pubDate>Thu, 12 Aug 2021 12:12:46 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Sheffield girlfriend gives partner 'gift of life' kidney donation]]></title>
             <description><![CDATA[Eddie Huntley has a rare disease and was on dialysis three times a week before the transplant.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-south-yorkshire-58178126</link>
@@ -135,11 +149,11 @@
             <pubDate>Wed, 11 Aug 2021 19:32:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid: Blackpool tops post-lockdown footfall recovery list]]></title>
-            <description><![CDATA[The resort's footfall since restrictions eased is higher than before the pandemic, a study finds.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-lancashire-58170980</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-lancashire-58170980</guid>
-            <pubDate>Thu, 12 Aug 2021 05:54:45 GMT</pubDate>
+            <title><![CDATA[A64 Tadcaster: Crane fire closes road eastbound overnight]]></title>
+            <description><![CDATA[A section of the A64 near Tadcaster will remain closed until Friday morning, Highways England say.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-58184494</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-58184494</guid>
+            <pubDate>Thu, 12 Aug 2021 12:49:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Appleby Horse Fair: Gypsies and travellers gather for postponed spectacle]]></title>
@@ -147,13 +161,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-cumbria-58184220</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-cumbria-58184220</guid>
             <pubDate>Thu, 12 Aug 2021 08:04:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lulworth cliff rescue: Two teen climbers winched to safety]]></title>
-            <description><![CDATA[The two boys are winched to safety during the rescue operation on Dorset's Jurassic Coast.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-dorset-58185121</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-dorset-58185121</guid>
-            <pubDate>Thu, 12 Aug 2021 08:43:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Blockbusters on Trafalgar Square big screen aim to woo film fans]]></title>

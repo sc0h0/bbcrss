@@ -1,4 +1,4 @@
-1. [Sturgeon urges UK government to reassess Cambo oil field plan](https://www.bbc.co.uk/news/uk-scotland-58186181) - The first minister says proposals should be re-examined due to the severity of the climate emergency
+1. [Sturgeon urges UK government to reassess Cambo oil field plan](https://www.bbc.co.uk/news/uk-scotland-58186181) - The first minister says proposals should be re-examined due to the severity of the climate emergency.
 2. [Electric cars: Do ministers put their motor where their mouth is?](https://www.bbc.co.uk/news/uk-politics-58170665) - Politicians are keen for us to live greener lives, but how many have taken the electric car plunge?
 3. [Exams: Keir Starmer calls for Gavin Williamson to lose job](https://www.bbc.co.uk/news/uk-politics-58188897) - It is "pretty astonishing" that the education secretary is still in his job, says the Labour leader.
 4. [Afghanistan: Ex-Tory ministers attack Biden over troops pullout](https://www.bbc.co.uk/news/uk-politics-58177193) - Tory politicians say it is not too late for UK troops to stay - but the government rules it out.
@@ -42,10 +42,10 @@
 42. [Conservative donors have no influence on policy, insists Grant Shapps](https://www.bbc.co.uk/news/uk-politics-58098887) - Grant Shapps defends big donors getting access to Boris Johnson and Rishi Sunak.
 43. [Paul Embery: Pro-Brexit fire union official unfairly sacked, tribunal finds](https://www.bbc.co.uk/news/uk-56376172) - A tribunal finds Paul Embery was subject to a "witch hunt" after appearing at a Leave Means Leave rally.
 44. [Sajid Javid says NHS waiting lists will rise](https://www.bbc.co.uk/news/uk-politics-58188899) - The health secretary urges people to come forward and "know that the NHS is there for them".
-45. [Rishi Sunak says 'not complacent' about UK growth figures](https://www.bbc.co.uk/news/business-58179847) - Chancellor Rishi Sunak says there's still work to be done as the UK economy recovers from lockdown.
-46. [Williamson: 'We expect students to be getting better grades'](https://www.bbc.co.uk/news/education-58157238) - High grades are expected to be awarded in A-levels after exams were cancelled for a second year.
-47. [A-levels: Keir Starmer on attainment gap getting bigger](https://www.bbc.co.uk/news/uk-politics-58175363) - Students who most need help from government are not getting it, says the Labour leader.
-48. [Javid expects Covid booster vaccines from early September](https://www.bbc.co.uk/news/uk-politics-58163333) - The UK has reached the 'milestone' of three quarters of adults fully-vaccinated, the health secretary announces.
+45. [Trolling of women in politics 'worrying'](https://www.bbc.co.uk/news/uk-wales-58176912) - Kirsty Williams said she had felt unable to keep her family safe from the trolling on social media.
+46. [Rishi Sunak says 'not complacent' about UK growth figures](https://www.bbc.co.uk/news/business-58179847) - Chancellor Rishi Sunak says there's still work to be done as the UK economy recovers from lockdown.
+47. [Yousaf warns 'Covid has not gone away' as restrictions ease](https://www.bbc.co.uk/news/uk-scotland-58139385) - The health secretary warns that 'Covid has not gone away' ahead of Monday's significant milestone.
+48. [Williamson: 'We expect students to be getting better grades'](https://www.bbc.co.uk/news/education-58157238) - High grades are expected to be awarded in A-levels after exams were cancelled for a second year.
 49. [COP26: How serious is the government about climate conference?](https://www.bbc.co.uk/news/uk-politics-58107010) - With less than 90 days to go to Glasgow climate summit, there is uncertainty surrounding the event.
 50. [Boris Johnson: Why mining gaffe will linger after Scottish visit](https://www.bbc.co.uk/news/uk-scotland-58117514) - Boris Johnson put his foot in it by joking that Margaret Thatcher gave the UK a "big early start" in the shift away from coal.
 51. [Riots 10 years on: The five summer nights when London burned](https://www.bbc.co.uk/news/uk-england-london-58058031) - In August 2011 a man was shot dead by police in London, triggering the worst civil unrest in decades.
