@@ -1,6 +1,6 @@
 1. [Streatham attack: Sudesh Amman's victim feared he would bleed to death](https://www.bbc.co.uk/news/uk-england-london-58187861) - The victim heard the phrase "he's not going to make it" after being stabbed by Sudesh Amman.
 2. [GCSE results 2021: Exams triumph for boy who spent year in hospital](https://www.bbc.co.uk/news/uk-england-derbyshire-58166542) - Jason Ledford hopes to become a nurse after undergoing treatment for a brain tumour.
-3. [Olympic Gadirova twins 'thrilled' at school grades](https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-58187027) - The 16-year-old Olympic medallists plan to stay on to study sport and management while competing.
+3. [GCSE results 2021: 'I could burst with pride'](https://www.bbc.co.uk/news/uk-england-nottinghamshire-58190943) - Jonny, who has cerebral palsy, celebrates his results, which he said were better than he expected.
 4. [Tributes to dad stabbed after confronting youths](https://www.bbc.co.uk/news/uk-england-london-58186688) - James Markham, 45, was killed after confronting a group of youths outside his home.
 5. [Jeffrey Epstein: Met Police to review decision not to investigate](https://www.bbc.co.uk/news/uk-england-london-58186118) - The Met previously concluded it was "not the appropriate authority" to investigate Jeffrey Epstein.
 6. [Bomb threat arrest at Northampton police station caught on film](https://www.bbc.co.uk/news/uk-england-northamptonshire-58187469) - A man is seen being tackled to the ground by officers after claiming he had a bomb in a bag.

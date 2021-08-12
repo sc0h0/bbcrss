@@ -1,15 +1,15 @@
 1. [Google search led to arrest of cleared campaigner](https://www.bbc.co.uk/news/technology-58165478) - An innocent housing campaigner was suspected of hacking after sharing documents he found online.
-2. [TikTok hopes to help teenagers work, rest and sleep](https://www.bbc.co.uk/news/technology-58188318) - The network changes direct messaging and stops late-night push notifications,
-3. [Cryptocurrency heist hacker returns $260m in funds](https://www.bbc.co.uk/news/business-58180692) - The hacker behind the $600m Poly Network cryptocurrency heist has posted a Q&A on the blockchain.
-4. [Z Fold 3: Samsung aims to take folding phones mainstream](https://www.bbc.co.uk/news/technology-58175048) - The electronics giant hopes lower prices and improved durability will make folding phones catch on.
-5. [Facebook removes anti-vax influencer campaign](https://www.bbc.co.uk/news/blogs-trending-58167339) - Facebook has removed hundreds of accounts linked to a anti-vaccine campaign operated from Russia.
-6. [Instagram says sorry for removing Pedro Almodovar film poster](https://www.bbc.co.uk/news/entertainment-arts-58177715) - The advert for revered Spanish director Pedro Almodovar's new film features a lactating nipple.
-7. [Google may cut pay of staff who work from home](https://www.bbc.co.uk/news/business-58171716) - The tech giant has developed a calculator that lets staff see the effects of remote working.
+2. [Activision Blizzard: Diablo 4 director and two others leave company](https://www.bbc.co.uk/news/technology-58187612) - Three more high-profile leaders leave the gaming giant, including key staff on its latest Diablo game.
+3. [TikTok hopes to help teenagers work, rest and sleep](https://www.bbc.co.uk/news/technology-58188318) - The network changes direct messaging and stops late-night push notifications,
+4. [Cryptocurrency heist hacker returns $260m in funds](https://www.bbc.co.uk/news/business-58180692) - The hacker behind the $600m Poly Network cryptocurrency heist has posted a Q&A on the blockchain.
+5. [Z Fold 3: Samsung aims to take folding phones mainstream](https://www.bbc.co.uk/news/technology-58175048) - The electronics giant hopes lower prices and improved durability will make folding phones catch on.
+6. [Facebook removes anti-vax influencer campaign](https://www.bbc.co.uk/news/blogs-trending-58167339) - Facebook has removed hundreds of accounts linked to a anti-vaccine campaign operated from Russia.
+7. [Instagram says sorry for removing Pedro Almodovar film poster](https://www.bbc.co.uk/news/entertainment-arts-58177715) - The advert for revered Spanish director Pedro Almodovar's new film features a lactating nipple.
 8. [Instagram launches 'limits' to hide abusive messages](https://www.bbc.co.uk/news/technology-58173921) - Instagram launches a feature to automatically hide most comments during "spikes" of abuse.
-9. [Google lets parents remove children from image-search results](https://www.bbc.co.uk/news/technology-58164582) - The search giant announces a range of changes to its children's policies on Google and YouTube.
-10. [Odeon owner AMC to accept payment in Bitcoin](https://www.bbc.co.uk/news/business-58163914) - Cinemagoers will be able to buy tickets and popcorn using the cryptocurrency, says the US chain.
-11. [Chameleon-like camouflage made for soft robot](https://www.bbc.co.uk/news/technology-58159730) - Researchers develop a robot that changes colour in response to its background.
-12. [China tech giant Xiaomi aims at global smartphone top spot](https://www.bbc.co.uk/news/business-58168547) - The comments come as the Beijing-based firm celebrates the 10th anniversary of its first smartphone.
+9. [Google may cut pay of staff who work from home](https://www.bbc.co.uk/news/business-58171716) - The tech giant has developed a calculator that lets staff see the effects of remote working.
+10. [Google lets parents remove children from image-search results](https://www.bbc.co.uk/news/technology-58164582) - The search giant announces a range of changes to its children's policies on Google and YouTube.
+11. [Odeon owner AMC to accept payment in Bitcoin](https://www.bbc.co.uk/news/business-58163914) - Cinemagoers will be able to buy tickets and popcorn using the cryptocurrency, says the US chain.
+12. [Chameleon-like camouflage made for soft robot](https://www.bbc.co.uk/news/technology-58159730) - Researchers develop a robot that changes colour in response to its background.
 13. [Classic Bentleys and Rolls-Royce adapted to fully electric](https://www.bbc.co.uk/news/technology-57901893) - The vintage petrol-powered cars are re-engineered by a company based at the home of UK motorsport.
 14. [Ariana Grande sings in Fortnite's metaverse](https://www.bbc.co.uk/news/technology-58146042) - The pop star is the latest musician to perform a series of concerts inside the hit video game.
 15. [How smart buildings could transform our experience of work](https://www.bbc.co.uk/news/technology-58014316) - Lara Lewington visits a new smart office block to see how technology could transform working lives.
