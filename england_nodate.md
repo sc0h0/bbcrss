@@ -1,4 +1,4 @@
-1. [Emergency services respond to incident in Keyham in Plymouth](https://www.bbc.co.uk/news/uk-england-devon-58189679) - A local MP has urged residents to stay indoors and to follow police advice.
+1. [Emergency services respond to incident in Keyham in Plymouth](https://www.bbc.co.uk/news/uk-england-devon-58189679) - A local MP has urges residents to stay indoors following a "serious and tragic" incident.
 2. [Cheshire care worker caught on camera sexually assaulting patient](https://www.bbc.co.uk/news/uk-england-stoke-staffordshire-58188294) - Benjamin Poole, 21, is jailed for six years after admitting seven offences.
 3. [Streatham attack: Sudesh Amman's victim feared he would bleed to death](https://www.bbc.co.uk/news/uk-england-london-58187861) - The victim heard the phrase "he's not going to make it" after being stabbed by Sudesh Amman.
 4. [Priti Patel: Men jailed over racist Snapchat video that went viral](https://www.bbc.co.uk/news/uk-england-nottinghamshire-58188886) - The racist Snapchat video went viral and was viewed by millions of people.
