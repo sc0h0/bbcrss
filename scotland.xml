@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 12 Aug 2021 05:54:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Aug 2021 06:12:29 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -212,6 +212,13 @@
             <pubDate>Wed, 11 Aug 2021 14:02:49 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Scottish Women's Open: Defending champion Stacey Lewis takes Collin Morikawa inspiration]]></title>
+            <description><![CDATA[Defending Scottish Women's Open champion Stacey Lewis says Collin Morikawa showed how playing links golf helps hone skills for the Open.]]></description>
+            <link>https://www.bbc.co.uk/sport/golf/58181182</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/golf/58181182</guid>
+            <pubDate>Thu, 12 Aug 2021 06:03:30 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[St Johnstone v Galatasaray: Perth side 'must keep fighting' to cause shock]]></title>
             <description><![CDATA[St Johnstone "must keep fighting to the end" to give themselves a chance to upset Turkish giants Galatasaray in Europa League qualifying, says manager Callum Davidson.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58138064</link>
@@ -224,13 +231,6 @@
             <link>https://www.bbc.co.uk/sport/swimming/58169927</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/swimming/58169927</guid>
             <pubDate>Wed, 11 Aug 2021 08:49:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lawrence Shankland: Dundee United sell striker to Beerschot]]></title>
-            <description><![CDATA[Dundee United sell Scotland striker Lawrence Shankland to Belgian club Beerschot for an undisclosed fee.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58156602</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58156602</guid>
-            <pubDate>Wed, 11 Aug 2021 09:09:59 GMT</pubDate>
         </item>
     </channel>
 </rss>

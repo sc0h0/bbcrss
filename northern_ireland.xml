@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 12 Aug 2021 05:47:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Aug 2021 06:14:59 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Covid-19: NI proposal to relax self-isolation rules for close contacts]]></title>
+            <description><![CDATA[The change, which would bring NI in line with GB, will be discussed by Stormont ministers later.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58179582</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58179582</guid>
+            <pubDate>Thu, 12 Aug 2021 06:00:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[GCSE results issued with grades expected to rise]]></title>
             <description><![CDATA[About 29,000 students in Northern Ireland will receive their grades on Thursday.]]></description>
@@ -51,18 +58,18 @@
             <pubDate>Wed, 11 Aug 2021 22:00:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Belfast Trust sees 182 nurse resignations in six months]]></title>
-            <description><![CDATA[A total of 315 nurses left the Belfast Trust in the first half of this year and more than half resigned.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58161936</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58161936</guid>
-            <pubDate>Wed, 11 Aug 2021 11:37:09 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Covid-19: NI student struggling to get vaccination certificate]]></title>
             <description><![CDATA[Conor Kernohan cannot get a vaccine certificate as he got one jab in GB and the second in Belfast.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58180215</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58180215</guid>
             <pubDate>Wed, 11 Aug 2021 18:33:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Belfast Trust sees 182 nurse resignations in six months]]></title>
+            <description><![CDATA[A total of 315 nurses left the Belfast Trust in the first half of this year and more than half resigned.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58161936</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58161936</guid>
+            <pubDate>Wed, 11 Aug 2021 11:37:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: Derry man out on bail after refusing hotel quarantine]]></title>
