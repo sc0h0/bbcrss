@@ -13,7 +13,7 @@
 13. [Electric cars: Do ministers put their motor where their mouth is?](https://www.bbc.co.uk/news/uk-politics-58170665) - Politicians are keen for us to live greener lives, but how many have taken the electric car plunge?
 14. [Afghanistan war: Do the Taliban want to conquer or compromise?](https://www.bbc.co.uk/news/world-asia-58181670) - The BBC speaks to two high profile figures in its chain of command who have very different messages.
 15. [Boohoo boss: 'We're not a throwaway fashion brand'](https://www.bbc.co.uk/news/business-58160237) - The boss of fast fashion retailer Boohoo tells the BBC it is committed to being more sustainable.
-16. [The Papers: 'Spy sold secrets' and 'no way back for Andrew'](https://www.bbc.co.uk/news/blogs-the-papers-58181876) - Thursday's papers report fears that a spy at the British embassy in Berlin sold data to Russia.
+16. [Uyghur Muslims in London campaign for relatives in China](https://www.bbc.co.uk/news/science-environment-58108634) - Eighteen-year-old Uyghur Muslim Dilnaz and her father are trying to find relatives living in China.
 17. [The shopkeeper saving his island from wildfires](https://www.bbc.co.uk/news/world-europe-58177493) - Spyros isn't a firefighter, but when his home was threatened with wildfires, he decided to take action.
 18. [Tokyo 2020: Meet Tokyo's youngest Olympic champion](https://www.bbc.co.uk/news/world-asia-58168591) - Japan's Momiji Nishiya won the first women’s street skateboarding gold in the sport's Olympic debut.
 19. [Charles and Diana's wedding cake slice sells for £1,850](https://www.bbc.co.uk/news/uk-england-gloucestershire-58173317) - The 40-year-old slice of wedding cake was bought by a buyer from Leeds.

@@ -1,4 +1,4 @@
-1. [GCSE results 2021: Record passes and top grades](https://www.bbc.co.uk/news/education-58174253) - Thu, 12 Aug 2021 11:29:28 GMT - Record high GCSE grades in a second year of exams disrupted by the pandemic.
+1. [GCSE results 2021: Record passes and top grades](https://www.bbc.co.uk/news/education-58174253) - Thu, 12 Aug 2021 11:46:26 GMT - Record high GCSE grades in a second year of exams disrupted by the pandemic.
 2. [A-levels: Warning over private and state school gap](https://www.bbc.co.uk/news/education-58172292) - Wed, 11 Aug 2021 12:48:58 GMT - The former school recovery tsar warns of growing educational inequality as a result of the pandemic.
 3. [A-level results 2021: Top grades reach record high](https://www.bbc.co.uk/news/education-58086908) - Tue, 10 Aug 2021 10:33:37 GMT - The second year of results after cancelled exams sees the highest level of A* and A grades at A-level.
 4. [Scottish results day: Record high for A grades as pass rate falls](https://www.bbc.co.uk/news/uk-scotland-58150287) - Tue, 10 Aug 2021 13:56:16 GMT - Pupils' pass rates are still well above pre-pandemic levels after formal exams were cancelled for the second year.
