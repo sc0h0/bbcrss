@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 12 Aug 2021 19:34:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Aug 2021 19:48:57 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -30,6 +30,13 @@
             <pubDate>Thu, 12 Aug 2021 19:05:09 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Doctors and dentists awarded 3% pay rise in Scotland]]></title>
+            <description><![CDATA[The Scottish government said the award was in recognition of efforts during the pandemic and will be backdated to 1 April 2021.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-58194902</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58194902</guid>
+            <pubDate>Thu, 12 Aug 2021 19:36:38 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Covid in Scotland: Where are the latest cases?]]></title>
             <description><![CDATA[A daily update on the number and location of coronavirus cases in Scotland.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-53511877</link>
@@ -44,18 +51,18 @@
             <pubDate>Thu, 12 Aug 2021 15:39:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Mum's 'life-saving' scheme after family suicides]]></title>
-            <description><![CDATA[Seonaid Stallan has set out to support other families after the deaths of her son and sister-in-law.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-58185754</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58185754</guid>
-            <pubDate>Thu, 12 Aug 2021 14:33:11 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[TRNSMT fans must show proof of negative Covid test]]></title>
             <description><![CDATA[Ticket-holders are required to take a lateral flow test 48 hours before arriving at the event in Glasgow.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58187779</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58187779</guid>
             <pubDate>Thu, 12 Aug 2021 17:05:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mum's 'life-saving' scheme after family suicides]]></title>
+            <description><![CDATA[Seonaid Stallan has set out to support other families after the deaths of her son and sister-in-law.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-58185754</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58185754</guid>
+            <pubDate>Thu, 12 Aug 2021 14:33:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Man dies and three injured in A74(M) crash]]></title>
