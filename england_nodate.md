@@ -1,5 +1,5 @@
-1. [Ex-Olympian Stan Wild continued gym coaching after abuse claim](https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-58169460) - Stan Wild represented Great Britain at two Olympic Games and founded his own York gymnastics club.
-2. [Chingford stabbing: Two boys held after man killed in street](https://www.bbc.co.uk/news/uk-england-london-58181159) - The 14-year-olds are in custody following the death of James Markham in east London on Monday.
+1. [Tributes to dad stabbed after confronting youths](https://www.bbc.co.uk/news/uk-england-london-58186688) - James Markham, 45, was killed after confronting a group of youths outside his home.
+2. [Ex-Olympian Stan Wild continued gym coaching after abuse claim](https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-58169460) - Stan Wild represented Great Britain at two Olympic Games and founded his own York gymnastics club.
 3. [GCSE results 2021: Record passes and top grades](https://www.bbc.co.uk/news/education-58174253) - Record high GCSE grades in a second year of exams disrupted by the pandemic.
 4. [Esther Dingley: Missing hiker's body retrieved by police](https://www.bbc.co.uk/news/uk-england-tyne-58176416) - The body and belongings of Esther Dingley were found close to where a bone fragment was discovered.
 5. [Sheffield girlfriend gives partner 'gift of life' kidney donation](https://www.bbc.co.uk/news/uk-england-south-yorkshire-58178126) - Eddie Huntley has a rare disease and was on dialysis three times a week before the transplant.
@@ -23,4 +23,3 @@
 23. [England v India: Batsman Ollie Pope released from squad for second Test](https://www.bbc.co.uk/sport/cricket/58185438) - England batsman Ollie Pope is released from the squad to face India in the second Test at Lord's.
 24. [Christos Tzolis: Norwich City sign Greece international for £8.8m](https://www.bbc.co.uk/sport/football/58185642) - Greece international Christos Tzolis joins Norwich City from PAOK on a five-year deal for £8.8m.
 25. [Challenge Cup final to move from Wembley to Tottenham Hotspur Stadium](https://www.bbc.co.uk/sport/rugby-league/58185334) - The 2022 Challenge Cup final will take place at the Tottenham Hotspur Stadium instead of its traditional Wembley home.
-26. [England v India: Stuart Broad out of series - James Anderson doubt for second Test](https://www.bbc.co.uk/sport/cricket/58169608) - Stuart Broad will miss the remainder of England's series against India because of a calf tear and James Anderson is a doubt for the second Test.

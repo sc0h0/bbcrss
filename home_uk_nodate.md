@@ -3,12 +3,12 @@
 3. [Covid: Higher GCSE results predicted and UK economy grows](https://www.bbc.co.uk/news/uk-58179163) - Five things you need to know about the coronavirus pandemic this Thursday morning.
 4. [Afghanistan: Taliban take 10th provincial capital as Ghazni falls](https://www.bbc.co.uk/news/world-asia-58184202) - The fall of Ghazni, south-west of Kabul, brings the militants closer to the Afghan capital.
 5. [Afghanistan war: Do the Taliban want to conquer or compromise?](https://www.bbc.co.uk/news/world-asia-58181670) - The BBC speaks to two high profile figures in its chain of command who have very different messages.
-6. [New Zealand borders to remain closed for rest of the year](https://www.bbc.co.uk/news/world-asia-58182418) - Prime Minister Jacinda Ardern said her priority was vaccinating the population by the end of 2021.
-7. [Australian capital Canberra goes into snap lockdown](https://www.bbc.co.uk/news/world-australia-58182419) - The one-week lockdown comes after Canberra recorded its first case of Covid-19 for more than a year.
-8. [Quarantine hotel rules face legal challenge](https://www.bbc.co.uk/news/business-58180307) - Travellers affected by the UK's quarantine hotel policy want a judicial review of the rules.
-9. [Boohoo boss: 'We're not a throwaway fashion brand'](https://www.bbc.co.uk/news/business-58160237) - The boss of fast fashion retailer Boohoo tells the BBC it is committed to being more sustainable.
-10. [Tourist helicopter crashes into Russian lake](https://www.bbc.co.uk/news/world-europe-58182420) - Eight people survived after a helicopter with 16 people crashed in the Far East region, reports say.
-11. [Climate: WWF warns UK spending is lagging behind targets](https://www.bbc.co.uk/news/uk-politics-58170865) - The conservation group WWF says the UK government must keep its promises on climate change.
+6. [Tributes to dad stabbed after confronting youths](https://www.bbc.co.uk/news/uk-england-london-58186688) - James Markham, 45, was killed after confronting a group of youths outside his home.
+7. [New Zealand borders to remain closed for rest of the year](https://www.bbc.co.uk/news/world-asia-58182418) - Prime Minister Jacinda Ardern said her priority was vaccinating the population by the end of 2021.
+8. [Australian capital Canberra goes into snap lockdown](https://www.bbc.co.uk/news/world-australia-58182419) - The one-week lockdown comes after Canberra recorded its first case of Covid-19 for more than a year.
+9. [Tui's European bookings jump on pent-up demand](https://www.bbc.co.uk/news/business-58184088) - But UK bookings lag behind amid shifting Covid travel restrictions, the travel firm says.
+10. [Boohoo boss: 'We're not a throwaway fashion brand'](https://www.bbc.co.uk/news/business-58160237) - The boss of fast fashion retailer Boohoo tells the BBC it is committed to being more sustainable.
+11. [Tourist helicopter crashes into Russian lake](https://www.bbc.co.uk/news/world-europe-58182420) - Eight people survived after a helicopter with 16 people crashed in the Far East region, reports say.
 12. [Cryptocurrency heist hacker returns $260m in funds](https://www.bbc.co.uk/news/business-58180692) - The hacker behind the $600m Poly Network cryptocurrency heist has posted a Q&A on the blockchain.
 13. [Electric cars: Do ministers put their motor where their mouth is?](https://www.bbc.co.uk/news/uk-politics-58170665) - Politicians are keen for us to live greener lives, but how many have taken the electric car plunge?
 14. [The Papers: 'Spy sold secrets' and 'no way back for Andrew'](https://www.bbc.co.uk/news/blogs-the-papers-58181876) - Thursday's papers report fears that a spy at the British embassy in Berlin sold data to Russia.

@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 12 Aug 2021 09:43:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Aug 2021 10:20:28 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Tributes to dad stabbed after confronting youths]]></title>
+            <description><![CDATA[James Markham, 45, was killed after confronting a group of youths outside his home.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-58186688</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-58186688</guid>
+            <pubDate>Thu, 12 Aug 2021 09:45:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Ex-Olympian Stan Wild continued gym coaching after abuse claim]]></title>
             <description><![CDATA[Stan Wild represented Great Britain at two Olympic Games and founded his own York gymnastics club.]]></description>
@@ -23,18 +30,11 @@
             <pubDate>Thu, 12 Aug 2021 05:20:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Chingford stabbing: Two boys held after man killed in street]]></title>
-            <description><![CDATA[The 14-year-olds are in custody following the death of James Markham in east London on Monday.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-london-58181159</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-58181159</guid>
-            <pubDate>Wed, 11 Aug 2021 19:55:26 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[GCSE results 2021: Record passes and top grades]]></title>
             <description><![CDATA[Record high GCSE grades in a second year of exams disrupted by the pandemic.]]></description>
             <link>https://www.bbc.co.uk/news/education-58174253</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/education-58174253</guid>
-            <pubDate>Thu, 12 Aug 2021 08:55:23 GMT</pubDate>
+            <pubDate>Thu, 12 Aug 2021 10:11:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Esther Dingley: Missing hiker's body retrieved by police]]></title>
@@ -189,13 +189,6 @@
             <link>https://www.bbc.co.uk/sport/rugby-league/58185334</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-league/58185334</guid>
             <pubDate>Thu, 12 Aug 2021 09:42:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[England v India: Stuart Broad out of series - James Anderson doubt for second Test]]></title>
-            <description><![CDATA[Stuart Broad will miss the remainder of England's series against India because of a calf tear and James Anderson is a doubt for the second Test.]]></description>
-            <link>https://www.bbc.co.uk/sport/cricket/58169608</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/58169608</guid>
-            <pubDate>Wed, 11 Aug 2021 17:23:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
