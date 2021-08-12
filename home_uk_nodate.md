@@ -1,7 +1,7 @@
 1. [Record GCSE results after second year of no exams](https://www.bbc.co.uk/news/education-58174253) - Record high GCSE grades in a second year of exams disrupted by the pandemic.
 2. [UK economy grows 4.8% as Covid restrictions ease](https://www.bbc.co.uk/news/uk-58183519) - Retail, restaurants and hotels show strong growth between April and June but data misses forecasts.
 3. [Covid: Higher GCSE results predicted and UK economy grows](https://www.bbc.co.uk/news/uk-58179163) - Five things you need to know about the coronavirus pandemic this Thursday morning.
-4. [Afghanistan war: Army chief replaced as Taliban seize more cities](https://www.bbc.co.uk/news/world-asia-58170847) - General Wali Mohammad Ahmadzai has been removed from his post, as insurgents take more cities.
+4. [Afghanistan: Taliban take 10th provincial capital as Ghazni falls](https://www.bbc.co.uk/news/world-asia-58184202) - The fall of Ghazni, south-west of Kabul, brings the militants closer to the Afghan capital.
 5. [Afghanistan war: Do the Taliban want to conquer or compromise?](https://www.bbc.co.uk/news/world-asia-58181670) - The BBC speaks to two high profile figures in its chain of command who have very different messages.
 6. [New Zealand borders to remain closed for rest of the year](https://www.bbc.co.uk/news/world-asia-58182418) - Prime Minister Jacinda Ardern said her priority was vaccinating the population by the end of 2021.
 7. [Australian capital Canberra goes into snap lockdown](https://www.bbc.co.uk/news/world-australia-58182419) - The one-week lockdown comes after Canberra recorded its first case of Covid-19 for more than a year.
@@ -28,7 +28,7 @@
 28. [England's Broad out of India series - Anderson a doubt for second Test](https://www.bbc.co.uk/sport/cricket/58169608) - Stuart Broad will miss the remainder of England's series against India because of a calf tear and James Anderson is a doubt for the second Test.
 29. [Haye to return to the ring to fight 'overconfident billionaire buddy' Fournier](https://www.bbc.co.uk/sport/boxing/58183582) - Former heavyweight and cruiserweight champion David Haye returning to the ring in September to face Joe Fournier.
 30. [Kepa goes from shootout villain to Super Cup hero](https://www.bbc.co.uk/sport/football/58182206) - Kepa Arrizabalaga's time at Chelsea has been defined by an incident involving a substitution with penalties looming - and now another, but in much happier circumstances.
-31. [Konta beats third seed Svitolina at Canadian Open](https://www.bbc.co.uk/sport/tennis/58179319) - British number one Johanna Konta fights back from a set down to defeat third seed Elina Svitolina and reach the Canadian Open third round.
+31. [Konta to face Gauff in last 16 after beating third seed Svitolina at Canadian Open](https://www.bbc.co.uk/sport/tennis/58179319) - British number one Johanna Konta fights back from a set down to defeat third seed Elina Svitolina and reach the Canadian Open third round.
 32. [Wildfires: How Portuguese club Tondela drove through the flames](https://www.bbc.co.uk/sport/football/58101546) - In Tondela, the bond between club and fans was at its strongest during the night in October 2017 when nobody slept.
 33. [GCSE results 2021: How were grades decided?](https://www.bbc.co.uk/news/education-53682466) - Teachers have decided pupils' grades this year after Covid cancelled exams for a second year.
 34. [GCSEs 2021: The 9-1 grading system explained](https://www.bbc.co.uk/news/education-48993830) - Teenagers will receive their GCSE results on 12 August.
