@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 12 Aug 2021 01:09:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Aug 2021 02:01:09 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -55,7 +55,14 @@
             <description><![CDATA[The hacker behind the $600m Poly Network cryptocurrency heist has posted a Q&A on the blockchain.]]></description>
             <link>https://www.bbc.co.uk/news/business-58180692</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58180692</guid>
-            <pubDate>Wed, 11 Aug 2021 23:55:56 GMT</pubDate>
+            <pubDate>Thu, 12 Aug 2021 01:35:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Quarantine hotel rules face legal challenge]]></title>
+            <description><![CDATA[Travellers affected by the UK's quarantine hotel policy want a judicial review of the rules.]]></description>
+            <link>https://www.bbc.co.uk/news/business-58180307</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58180307</guid>
+            <pubDate>Thu, 12 Aug 2021 00:40:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Italy may have registered Europe's hottest temperature on record]]></title>
@@ -93,13 +100,6 @@
             <pubDate>Wed, 11 Aug 2021 19:55:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Henley Royal Regatta dress code allows women to wear trousers]]></title>
-            <description><![CDATA[Henley Royal Regatta changes its rules for the Steward's Enclosure for the first time in decades.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-oxfordshire-58173881</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-oxfordshire-58173881</guid>
-            <pubDate>Wed, 11 Aug 2021 15:57:20 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Weight Watchers shares dive as people put diets on hold]]></title>
             <description><![CDATA[Shares in the Oprah Winfrey-backed company drop 25% as subscriber numbers fall after lockdown.]]></description>
             <link>https://www.bbc.co.uk/news/business-58177676</link>
@@ -129,7 +129,7 @@
         </item>
         <item>
             <title><![CDATA[Tokyo 2020: Meet Tokyo's youngest Olympic champion]]></title>
-            <description><![CDATA[After the sport's debut in the Olympics, athletes say people are seeing it in a whole new light.]]></description>
+            <description><![CDATA[Japan's Momiji Nishaya won the first women’s street skateboarding gold in the sport's Olympic debut.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-58168591</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58168591</guid>
             <pubDate>Wed, 11 Aug 2021 23:10:23 GMT</pubDate>
@@ -149,11 +149,39 @@
             <pubDate>Wed, 11 Aug 2021 16:23:54 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[How we can all get more high-quality sleep]]></title>
+            <description><![CDATA[The pandemic has led to a sharp increase in insomnia, but some firms are now helping their staff.]]></description>
+            <link>https://www.bbc.co.uk/news/business-58148044</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58148044</guid>
+            <pubDate>Wed, 11 Aug 2021 23:33:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How North American cities are bracing for more heatwaves]]></title>
+            <description><![CDATA[Local governments are getting creative when it comes to tackling frequent and extreme heat.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-58015089</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-58015089</guid>
+            <pubDate>Wed, 11 Aug 2021 23:13:59 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Afghanistan: The people fleeing the north for safety in Kabul]]></title>
             <description><![CDATA[The Taliban has taken new territories in the north, forcing thousands out of their homes.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-58170433</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58170433</guid>
             <pubDate>Wed, 11 Aug 2021 15:28:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sweet Anita: Tourette's queen of Twitch]]></title>
+            <description><![CDATA[Anita broadcasts to thousands every week, playing games whilst talking Tourette's and mental health.]]></description>
+            <link>https://www.bbc.co.uk/news/disability-57155426</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/disability-57155426</guid>
+            <pubDate>Wed, 11 Aug 2021 23:37:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lily Allen on making her West End debut in 2:22 - A Ghost Story]]></title>
+            <description><![CDATA[The singer is temporarily pausing her successful music career to star in a brand new play 2:22.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-58148849</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-58148849</guid>
+            <pubDate>Thu, 12 Aug 2021 01:28:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Wildfires: How are they linked to climate change?]]></title>
@@ -168,34 +196,6 @@
             <link>https://www.bbc.co.uk/news/uk-wales-58171799</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58171799</guid>
             <pubDate>Wed, 11 Aug 2021 15:07:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mapping the advance of the Taliban in Afghanistan]]></title>
-            <description><![CDATA[Maps of Afghanistan show who controls districts in fighting between the government and Taliban forces.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-57933979</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-57933979</guid>
-            <pubDate>Wed, 11 Aug 2021 07:21:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Orielles: How the band turned their album into a film score]]></title>
-            <description><![CDATA[The band on surreal gigs at cricket grounds and the "happenings" that inspired their new project.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-58083762</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-58083762</guid>
-            <pubDate>Wed, 11 Aug 2021 00:01:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fenty Beauty: How make-up helped Rihanna become a billionaire]]></title>
-            <description><![CDATA[Rihanna makes more money from her make-up than from her music and acting work.]]></description>
-            <link>https://www.bbc.co.uk/news/newsbeat-58084543</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-58084543</guid>
-            <pubDate>Wed, 11 Aug 2021 00:19:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The labels encouraging Chileans to buy healthier food]]></title>
-            <description><![CDATA[Chile's government introduced food labelling five years ago to drive down its high obesity rate.]]></description>
-            <link>https://www.bbc.co.uk/news/world-latin-america-57553315</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-latin-america-57553315</guid>
-            <pubDate>Tue, 10 Aug 2021 23:49:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Uefa Super Cup: Chelsea defeat Villarreal on penalties in Belfast to lift trophy for second time]]></title>
@@ -240,39 +240,32 @@
             <pubDate>Wed, 11 Aug 2021 21:08:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid-19 in the UK: How many coronavirus cases are there in my area?]]></title>
-            <description><![CDATA[Explore the data on coronavirus in the UK and find out how many cases there are in your area.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-51768274</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-51768274</guid>
-            <pubDate>Wed, 11 Aug 2021 16:21:09 GMT</pubDate>
+            <title><![CDATA[GCSE results 2021: When do results come out?]]></title>
+            <description><![CDATA[Teachers are deciding pupils' grades again this year]]></description>
+            <link>https://www.bbc.co.uk/news/education-53682466</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/education-53682466</guid>
+            <pubDate>Wed, 11 Aug 2021 09:14:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid vaccine: Fertility and miscarriage claims fact-checked]]></title>
-            <description><![CDATA[Posts claiming Covid vaccines cause miscarriages are not supported by scientific evidence.]]></description>
-            <link>https://www.bbc.co.uk/news/health-57552527</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-57552527</guid>
-            <pubDate>Wed, 11 Aug 2021 07:38:40 GMT</pubDate>
+            <title><![CDATA[GCSEs 2021: The 9-1 grading system explained]]></title>
+            <description><![CDATA[Teenagers will receive their GCSE results on 12 August.]]></description>
+            <link>https://www.bbc.co.uk/news/education-48993830</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/education-48993830</guid>
+            <pubDate>Thu, 05 Aug 2021 08:40:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid rules: What's changing in Wales, Scotland, England and Northern Ireland]]></title>
-            <description><![CDATA[Major changes to lockdown rules have taken effect in England, Scotland and Wales but some restrictions remain.]]></description>
-            <link>https://www.bbc.co.uk/news/explainers-52530518</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52530518</guid>
-            <pubDate>Mon, 09 Aug 2021 09:33:50 GMT</pubDate>
+            <title><![CDATA[Exams 2021: 'Will they take our Covid grades seriously?']]></title>
+            <description><![CDATA[It's been a stressful few months for the thousands of young people waiting for their exam results.]]></description>
+            <link>https://www.bbc.co.uk/news/education-58085778</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/education-58085778</guid>
+            <pubDate>Sat, 07 Aug 2021 23:00:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid: Should I be working from home or going back to the office?]]></title>
-            <description><![CDATA[The working from home advice in England is set to change on 19 July.]]></description>
-            <link>https://www.bbc.co.uk/news/business-52567567</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-52567567</guid>
-            <pubDate>Tue, 10 Aug 2021 15:13:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What are the holiday rules for travel to green, amber and red list countries?]]></title>
-            <description><![CDATA[The government has updated its red, amber and green lists of countries.]]></description>
-            <link>https://www.bbc.co.uk/news/explainers-52544307</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52544307</guid>
-            <pubDate>Tue, 10 Aug 2021 08:51:14 GMT</pubDate>
+            <title><![CDATA[A-level results: Students have been treated fairly - watchdog]]></title>
+            <description><![CDATA[The head of the exams regulator defends the system for deciding grades ahead of A-level and GCSE results day.]]></description>
+            <link>https://www.bbc.co.uk/news/education-58141518</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/education-58141518</guid>
+            <pubDate>Mon, 09 Aug 2021 09:15:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Malta: The teenagers pulled from the sea and accused of terrorism]]></title>

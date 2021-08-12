@@ -1,6 +1,6 @@
 1. [Afghanistan war: Taliban back brutal rule as they strike for power](https://www.bbc.co.uk/news/world-asia-58156772) - Afghanistan's ex-rulers still back brutal punishments, the BBC finds as it goes behind Taliban lines.
 2. [Afghanistan war: Army chief replaced as Taliban seize more cities](https://www.bbc.co.uk/news/world-asia-58170847) - General Wali Mohammad Ahmadzai is removed from his post, as the insurgents take more cities.
-3. [Tokyo 2020: Meet Tokyo's youngest Olympic champion](https://www.bbc.co.uk/news/world-asia-58168591) - After the sport's debut in the Olympics, athletes say people are seeing it in a whole new light.
+3. [Tokyo 2020: Meet Tokyo's youngest Olympic champion](https://www.bbc.co.uk/news/world-asia-58168591) - Japan's Momiji Nishaya won the first women’s street skateboarding gold in the sport's Olympic debut.
 4. [New Zealand borders to remain closed for rest of the year](https://www.bbc.co.uk/news/world-asia-58182418) - Prime Minister Jacinda Ardern said her priority was vaccinating the population by the end of 2021.
 5. [Polish parliament passes controversial media bill](https://www.bbc.co.uk/news/world-europe-58180761) - Opponents say the plans are an attempt to silence a TV channel critical of the government.
 6. [Shell pays $111m over 1970s oil spill in Nigeria](https://www.bbc.co.uk/news/world-africa-58181836) - The payment marks the end of a long-running legal battle over a spill during the 1967-70 Biafran War.

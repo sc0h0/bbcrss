@@ -1,6 +1,6 @@
 1. [Afghanistan war: Taliban back brutal rule as they strike for power](https://www.bbc.co.uk/news/world-asia-58156772) - Afghanistan's ex-rulers still back brutal punishments, the BBC finds as it goes behind Taliban lines.
 2. [Afghanistan war: Do the Taliban want to conquer or compromise?](https://www.bbc.co.uk/news/world-asia-58181670) - The BBC speaks to two high profile figures in its chain of command who have very different messages.
-3. [Tokyo 2020: Meet Tokyo's youngest Olympic champion](https://www.bbc.co.uk/news/world-asia-58168591) - After the sport's debut in the Olympics, athletes say people are seeing it in a whole new light.
+3. [Tokyo 2020: Meet Tokyo's youngest Olympic champion](https://www.bbc.co.uk/news/world-asia-58168591) - Japan's Momiji Nishaya won the first women’s street skateboarding gold in the sport's Olympic debut.
 4. [Michael Spavor: Canadian jailed for 11 years in China on spying charges](https://www.bbc.co.uk/news/world-asia-china-58168587) - His sentencing is the latest development in a diplomatic spat between the two countries.
 5. [Kinnaur: At least 10 dead and dozens trapped in India landslide](https://www.bbc.co.uk/news/world-asia-india-58171679) - Boulders fall on a Himalayan highway, killing at least 10 people and trapping many more.
 6. [Tokyo 2020: Some Australian Olympians face 28-day quarantine](https://www.bbc.co.uk/sport/olympics/58172665) - Some Australians Olympians are having to quarantine for 28 days after returning to their country from Tokyo
