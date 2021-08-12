@@ -1,4 +1,4 @@
-1. [Una Stubbs: Sherlock and EastEnders actress dies aged 84](https://www.bbc.co.uk/news/entertainment-arts-58190446) - She was known for her roles in shows like Worzel Gummidge, Till Death Us Do Part and Sherlock.
+1. [Una Stubbs: Till Death Us Do Part and Sherlock actress dies aged 84](https://www.bbc.co.uk/news/entertainment-arts-58190446) - She was known for her roles in shows like Worzel Gummidge, Till Death Us Do Part and Sherlock.
 2. [Lily Allen on feeling like theatre's 'village idiot'](https://www.bbc.co.uk/news/entertainment-arts-58148849) - The singer is temporarily pausing her successful music career to star in a brand new play 2:22.
 3. [Ashton Kutcher and Mila Kunis poke fun at cleanliness debate](https://www.bbc.co.uk/news/entertainment-arts-58184325) - The Hollywood couple caused a stir last month by saying they didn't fully bathe their kids everyday.
 4. [Batman: Robin coming out as bisexual was 'missing piece' of story](https://www.bbc.co.uk/news/entertainment-arts-58184320) - The Batman comics writer says addressing Robin's sexuality was the "missing piece" of his story.

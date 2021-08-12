@@ -8,7 +8,7 @@
 8. [Tributes to dad stabbed after confronting youths](https://www.bbc.co.uk/news/uk-england-london-58186688) - James Markham, 45, was killed after confronting a group of youths outside his home.
 9. [NHS waiting list in England hits record 5.45 million](https://www.bbc.co.uk/news/health-58186708) - Hospitals are working through the backlog - but some patients are waiting more than two years.
 10. [Rapper Nines admits plot to import cannabis](https://www.bbc.co.uk/news/uk-england-london-58190579) - The chart-topping musician and another man have been remanded in custody ahead of sentencing.
-11. [Australian capital Canberra goes into snap lockdown](https://www.bbc.co.uk/news/world-australia-58182419) - The one-week lockdown comes after Canberra recorded its first case of Covid-19 for more than a year.
+11. [Half a million EU citizens await decision over right to stay in UK](https://www.bbc.co.uk/news/uk-58188657) - More than half a million EU citizens who have applied for settled status in the UK await a decision.
 12. [Bomb threat arrest at Northampton police station caught on film](https://www.bbc.co.uk/news/uk-england-northamptonshire-58187469) - A man is seen being tackled to the ground by officers after claiming he had a bomb in a bag.
 13. [Berlin embassy arrest: A case of old-school spying?](https://www.bbc.co.uk/news/uk-58185957) - Why nothing in the case of the arrest of a man at the British Embassy in Berlin should surprise us.
 14. [Wildfires rage in Algeria as heatwave hits North Africa](https://www.bbc.co.uk/news/world-africa-58184912) - The blazes in the mountainous Kabylie region are some of the worst in the country's history.
