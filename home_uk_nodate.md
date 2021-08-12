@@ -30,7 +30,7 @@
 30. [Wildfires: How Portuguese club Tondela drove through the flames](https://www.bbc.co.uk/sport/football/58101546) - In Tondela, the bond between club and fans was at its strongest during the night in October 2017 when nobody slept.
 31. [Konta beats third seed Svitolina at Canadian Open](https://www.bbc.co.uk/sport/tennis/58179319) - British number one Johanna Konta fights back from a set down to defeat third seed Elina Svitolina and reach the Canadian Open third round.
 32. [Brave's men storm to top of table and eliminate Fire](https://www.bbc.co.uk/sport/cricket/58177424) - Southern Brave cruise to a comfortable win over Welsh Fire which takes them to the top of the table.
-33. [GCSE results 2021: When do results come out?](https://www.bbc.co.uk/news/education-53682466) - Teachers are deciding pupils' grades again this year
+33. [GCSE results 2021: When do results come out?](https://www.bbc.co.uk/news/education-53682466) - Teachers have decided pupils' grades this year after exams were cancelled due to Covid.
 34. [GCSEs 2021: The 9-1 grading system explained](https://www.bbc.co.uk/news/education-48993830) - Teenagers will receive their GCSE results on 12 August.
 35. [Exams 2021: 'Will they take our Covid grades seriously?'](https://www.bbc.co.uk/news/education-58085778) - It's been a stressful few months for the thousands of young people waiting for their exam results.
 36. [A-level results: Students have been treated fairly - watchdog](https://www.bbc.co.uk/news/education-58141518) - The head of the exams regulator defends the system for deciding grades ahead of A-level and GCSE results day.
