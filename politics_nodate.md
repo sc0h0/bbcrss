@@ -1,6 +1,6 @@
 1. [Sturgeon urges UK government to reassess Cambo oil field plan](https://www.bbc.co.uk/news/uk-scotland-58186181) - The first minister says proposals should be re-examined due to the severity of the climate emergency.
-2. [Electric cars: Do ministers put their motor where their mouth is?](https://www.bbc.co.uk/news/uk-politics-58170665) - Politicians are keen for us to live greener lives, but how many have taken the electric car plunge?
-3. [Exams: Keir Starmer calls for Gavin Williamson to lose job](https://www.bbc.co.uk/news/uk-politics-58188897) - It is "pretty astonishing" that the education secretary is still in his job, says the Labour leader.
+2. [Starmer rejects McCluskey's claim Labour could be finished under his leadership](https://www.bbc.co.uk/news/uk-politics-58188208) - The Unite boss warns Labour could "go under" if Sir Keir Starmer remains leader, in a new autobiography.
+3. [Electric cars: Do ministers put their motor where their mouth is?](https://www.bbc.co.uk/news/uk-politics-58170665) - Politicians are keen for us to live greener lives, but how many have taken the electric car plunge?
 4. [Afghanistan: Ex-Tory ministers attack Biden over troops pullout](https://www.bbc.co.uk/news/uk-politics-58177193) - Tory politicians say it is not too late for UK troops to stay - but the government rules it out.
 5. [UK economy rebounds as Covid restrictions ease](https://www.bbc.co.uk/news/uk-58183519) - Retail, restaurants and hotels show strong growth between April and June but data misses forecasts.
 6. [Climate: WWF warns UK spending is lagging behind targets](https://www.bbc.co.uk/news/uk-politics-58170865) - The conservation group WWF says the UK government must keep its promises on climate change.
@@ -42,10 +42,10 @@
 42. [Conservative donors have no influence on policy, insists Grant Shapps](https://www.bbc.co.uk/news/uk-politics-58098887) - Grant Shapps defends big donors getting access to Boris Johnson and Rishi Sunak.
 43. [Paul Embery: Pro-Brexit fire union official unfairly sacked, tribunal finds](https://www.bbc.co.uk/news/uk-56376172) - A tribunal finds Paul Embery was subject to a "witch hunt" after appearing at a Leave Means Leave rally.
 44. [Sajid Javid says NHS waiting lists will rise](https://www.bbc.co.uk/news/uk-politics-58188899) - The health secretary urges people to come forward and "know that the NHS is there for them".
-45. [Trolling of women in politics 'worrying'](https://www.bbc.co.uk/news/uk-wales-58176912) - Kirsty Williams said she had felt unable to keep her family safe from the trolling on social media.
-46. [Rishi Sunak says 'not complacent' about UK growth figures](https://www.bbc.co.uk/news/business-58179847) - Chancellor Rishi Sunak says there's still work to be done as the UK economy recovers from lockdown.
-47. [Yousaf warns 'Covid has not gone away' as restrictions ease](https://www.bbc.co.uk/news/uk-scotland-58139385) - The health secretary warns that 'Covid has not gone away' ahead of Monday's significant milestone.
-48. [Williamson: 'We expect students to be getting better grades'](https://www.bbc.co.uk/news/education-58157238) - High grades are expected to be awarded in A-levels after exams were cancelled for a second year.
+45. [Exams: Keir Starmer calls for Gavin Williamson to lose job](https://www.bbc.co.uk/news/uk-politics-58188897) - It is "pretty astonishing" that the education secretary is still in his job, says the Labour leader.
+46. [Trolling of women in politics 'worrying'](https://www.bbc.co.uk/news/uk-wales-58176912) - Kirsty Williams said she had felt unable to keep her family safe from the trolling on social media.
+47. [Rishi Sunak says 'not complacent' about UK growth figures](https://www.bbc.co.uk/news/business-58179847) - Chancellor Rishi Sunak says there's still work to be done as the UK economy recovers from lockdown.
+48. [Yousaf warns 'Covid has not gone away' as restrictions ease](https://www.bbc.co.uk/news/uk-scotland-58139385) - The health secretary warns that 'Covid has not gone away' ahead of Monday's significant milestone.
 49. [Berlin embassy arrest: A case of old-school spying?](https://www.bbc.co.uk/news/uk-58185957) - Why nothing in the case of the arrest of a man at the British Embassy in Berlin should surprise us.
 50. [COP26: How serious is the government about climate conference?](https://www.bbc.co.uk/news/uk-politics-58107010) - With less than 90 days to go to Glasgow climate summit, there is uncertainty surrounding the event.
 51. [Boris Johnson: Why mining gaffe will linger after Scottish visit](https://www.bbc.co.uk/news/uk-scotland-58117514) - Boris Johnson put his foot in it by joking that Margaret Thatcher gave the UK a "big early start" in the shift away from coal.

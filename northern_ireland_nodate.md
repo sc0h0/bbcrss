@@ -1,4 +1,4 @@
-1. [Covid-19: NI ministers agree to relax self-isolation rules](https://www.bbc.co.uk/news/uk-northern-ireland-58179582) - After agreeing to further relaxations, First Minister Paul Givan says he hopes all restrictions will be lifted by the end of next month.
+1. [Covid-19: NI ministers agree to relax self-isolation rules](https://www.bbc.co.uk/news/uk-northern-ireland-58179582) - First Minister Paul Givan says he hopes all restrictions will be lifted by the end of next month.
 2. [What are Northern Ireland's Covid-19 rules now?](https://www.bbc.co.uk/news/uk-northern-ireland-58175159) - How do restrictions here compare to other parts of the UK and the Republic of Ireland?
 3. [GCSEs: Rise in top grades in Northern Ireland as results issued](https://www.bbc.co.uk/news/uk-northern-ireland-58179094) - Due to the Covid-19 pandemic, pupils' results were based on grades calculated by schools.
 4. [PSNI investigates attacks on homes in Belfast and Coleraine](https://www.bbc.co.uk/news/uk-northern-ireland-58187934) - Shots were fired at a house and up to nine men targeted a house in north Belfast in separate incidents.
