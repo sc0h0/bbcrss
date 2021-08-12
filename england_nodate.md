@@ -1,4 +1,4 @@
-1. [Plymouth shooting: Multiple fatalities in Keyham](https://www.bbc.co.uk/news/uk-england-devon-58195419) - A local MP says the shooting is not terror-related and the suspect is not on the run.
+1. [Plymouth shooting: Six fatalities in Keyham](https://www.bbc.co.uk/news/uk-england-devon-58195419) - Police say the suspected gunman is among the dead while a local MP says the shooting is not terror-related.
 2. [Cheshire care worker caught on camera sexually assaulting patient](https://www.bbc.co.uk/news/uk-england-stoke-staffordshire-58188294) - Benjamin Poole, 21, is jailed for six years after admitting seven offences.
 3. [Streatham attack: Sudesh Amman's victim feared he would bleed to death](https://www.bbc.co.uk/news/uk-england-london-58187861) - The victim heard the phrase "he's not going to make it" after being stabbed by Sudesh Amman.
 4. [Priti Patel: Men jailed over racist Snapchat video that went viral](https://www.bbc.co.uk/news/uk-england-nottinghamshire-58188886) - The racist Snapchat video went viral and was viewed by millions of people.

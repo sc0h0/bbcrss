@@ -1,4 +1,4 @@
-1. [Plymouth shooting: Multiple fatalities in Keyham](https://www.bbc.co.uk/news/uk-england-devon-58195419) - A local MP says the shooting is not terror-related and the suspect is not on the run.
+1. [Plymouth shooting: Six fatalities in Keyham](https://www.bbc.co.uk/news/uk-england-devon-58195419) - Police say the suspected gunman is among the dead while a local MP says the shooting is not terror-related.
 2. [Afghanistan: UK troops sent to get Britons out as Taliban advances](https://www.bbc.co.uk/news/uk-58195286) - Around 600 troops will be deployed on a short-term basis after the Taliban seized several cities.
 3. [Afghanistan: Major cities fall to Taliban amid heavy fighting](https://www.bbc.co.uk/news/world-asia-58184202) - Militants now control many of Afghanistan's key regional cities, including Herat and Ghazni.
 4. [Britney Spears' father steps down as conservator](https://www.bbc.co.uk/news/world-us-canada-58191439) - The star had requested Jamie Spears be removed after accusing him of "conservatorship abuse".
