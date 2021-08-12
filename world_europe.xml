@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 12 Aug 2021 16:30:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Aug 2021 16:56:18 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -44,6 +44,13 @@
             <pubDate>Thu, 12 Aug 2021 10:08:28 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[UK and Russia ambassadors anger Iran by restaging WWII image]]></title>
+            <description><![CDATA[Iran condemns an "inappropriate" image of the UK and Russian ambassadors recreating a wartime image.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-58186006</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-58186006</guid>
+            <pubDate>Thu, 12 Aug 2021 15:45:26 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Tourist helicopter crashes into Russian lake]]></title>
             <description><![CDATA[Eight people survived after a helicopter with 16 people crashed in the Far East region, reports say.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-58182420</link>
@@ -58,18 +65,18 @@
             <pubDate>Thu, 12 Aug 2021 14:05:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Picasso masterpieces to go on sale in blockbuster auction]]></title>
-            <description><![CDATA[Proceeds could reach $100m in what is thought to be the most valuable auction of the artist's works.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-58185744</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-58185744</guid>
-            <pubDate>Thu, 12 Aug 2021 09:55:26 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Berlin embassy arrest: A case of old-school spying?]]></title>
             <description><![CDATA[Why nothing in the case of the arrest of a man at the British Embassy in Berlin should surprise us.]]></description>
             <link>https://www.bbc.co.uk/news/uk-58185957</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58185957</guid>
             <pubDate>Thu, 12 Aug 2021 12:42:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Picasso masterpieces to go on sale in blockbuster auction]]></title>
+            <description><![CDATA[Proceeds could reach $100m in what is thought to be the most valuable auction of the artist's works.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-58185744</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-58185744</guid>
+            <pubDate>Thu, 12 Aug 2021 09:55:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Half a million EU citizens await decision over right to stay in UK]]></title>
@@ -98,13 +105,6 @@
             <link>https://www.bbc.co.uk/news/58159451</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/58159451</guid>
             <pubDate>Wed, 11 Aug 2021 15:38:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Wildfires: How Portuguese club Tondela drove through the flames]]></title>
-            <description><![CDATA[In Tondela, the bond between club and fans was at its strongest during the night in October 2017 when nobody slept.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58101546</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58101546</guid>
-            <pubDate>Wed, 11 Aug 2021 23:04:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Greece fires: Hundreds rescued by coastguard]]></title>

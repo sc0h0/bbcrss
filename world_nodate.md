@@ -1,4 +1,4 @@
-1. [Afghanistan: Taliban take 10th provincial capital as Ghazni falls](https://www.bbc.co.uk/news/world-asia-58184202) - Militants have overrun Ghazni while there is heavy fighting in the cities of Herat and Kandahar.
+1. [Afghanistan: Taliban take 11th provincial capital as Ghazni and Herat fall](https://www.bbc.co.uk/news/world-asia-58184202) - Militants have overrun Ghazni and Herat, and now control a third of Afghanistan's regional cities.
 2. [Afghanistan war: Taliban back brutal rule as they strike for power](https://www.bbc.co.uk/news/world-asia-58156772) - Afghanistan's ex-rulers still back brutal punishments, the BBC finds as it goes behind Taliban lines.
 3. [Covid: Germany fears thousands got saline, not vaccine from nurse](https://www.bbc.co.uk/news/world-europe-58186032) - More than 8,000 mostly elderly people are urged to get vaccinated again as a nurse is questioned.
 4. [Wildfires rage in Algeria as heatwave hits North Africa](https://www.bbc.co.uk/news/world-africa-58184912) - The blazes in the mountainous Kabylie region are some of the worst in the country's history.
