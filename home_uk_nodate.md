@@ -7,7 +7,7 @@
 7. [Covid: Germany fears thousands got saline, not vaccine from nurse](https://www.bbc.co.uk/news/world-europe-58186032) - More than 8,000 mostly elderly people are urged to get vaccinated again as a nurse is questioned.
 8. [Tributes to dad stabbed after confronting youths](https://www.bbc.co.uk/news/uk-england-london-58186688) - James Markham, 45, was killed after confronting a group of youths outside his home.
 9. [NHS waiting list in England hits record 5.45 million](https://www.bbc.co.uk/news/health-58186708) - Hospitals are working through the backlog - but some patients are waiting more than two years.
-10. [Jeffrey Epstein: Met Police to review decision not to investigate](https://www.bbc.co.uk/news/uk-england-london-58186118) - The Met previously concluded it was "not the appropriate authority" to investigate Jeffrey Epstein.
+10. [Rapper Nines admits plot to import cannabis](https://www.bbc.co.uk/news/uk-england-london-58190579) - The chart-topping musician and another man have been remanded in custody ahead of sentencing.
 11. [Australian capital Canberra goes into snap lockdown](https://www.bbc.co.uk/news/world-australia-58182419) - The one-week lockdown comes after Canberra recorded its first case of Covid-19 for more than a year.
 12. [Bomb threat arrest at Northampton police station caught on film](https://www.bbc.co.uk/news/uk-england-northamptonshire-58187469) - A man is seen being tackled to the ground by officers after claiming he had a bomb in a bag.
 13. [Berlin embassy arrest: A case of old-school spying?](https://www.bbc.co.uk/news/uk-58185957) - Why nothing in the case of the arrest of a man at the British Embassy in Berlin should surprise us.
@@ -33,7 +33,7 @@
 33. [Aston Martin withdraw appeal against Sebastian Vettel's disqualification in Hungary](https://www.bbc.co.uk/sport/formula1/58190803) - Aston Martin withdraw their appeal against Sebastian Vettel's disqualification from second place in the Hungarian Grand Prix.
 34. [Is new boss Nagelsmann facing Bayern turmoil already?](https://www.bbc.co.uk/sport/football/58158867) - With only two signings made and not enough time on the training field - does new boss Julian Nagelsmann face early trouble at Bayern Munich?
 35. [Haye to return to the ring to fight 'overconfident billionaire buddy' Fournier](https://www.bbc.co.uk/sport/boxing/58183582) - Former heavyweight and cruiserweight champion David Haye returning to the ring in September to face Joe Fournier.
-36. [Wildfires: How Portuguese club Tondela drove through the flames](https://www.bbc.co.uk/sport/football/58101546) - In Tondela, the bond between club and fans was at its strongest during the night in October 2017 when nobody slept.
+36. [Southampton's Vestergaard set for Leicester move](https://www.bbc.co.uk/sport/football/58182118) - Defender Jannik Vestergaard is set to join Leicester City from Southampton, confirms Ralph Hasenhuttl.
 37. [GCSE results 2021: Exams triumph for boy who spent year in hospital](https://www.bbc.co.uk/news/uk-england-derbyshire-58166542) - Jason Ledford hopes to become a nurse after undergoing treatment for a brain tumour.
 38. [GCSE results 2021: Will employers judge Covid grades badly? And other questions](https://www.bbc.co.uk/news/education-58149810) - Our experts answer your questions about GCSE results, after a second year without formal exams.
 39. [GCSE results 2021: How were grades decided?](https://www.bbc.co.uk/news/education-53682466) - Teachers have decided their pupils' grades after Covid cancelled exams for a second year.

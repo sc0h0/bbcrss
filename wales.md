@@ -23,5 +23,5 @@
 23. [Mwy yn cael y graddau TGAU uchaf yng Nghymru](https://www.bbc.co.uk/newyddion/58175746) - Thu, 12 Aug 2021 12:14:40 GMT - Disgyblion TGAU yn derbyn eu canlyniadau, gyda dros chwarter y graddau yn A neu A*.
 24. [Arestio menyw ar amheuaeth o geisio llofruddio bachgen](https://www.bbc.co.uk/newyddion/58186503) - Thu, 12 Aug 2021 13:25:22 GMT - Mae'r bachgen dyflwydd oed mewn cyflwr difrifol yn yr ysbyty wedi digwyddiad ym Mhen-y-bont ar Ogwr.
 25. [Galw am 'adfer democratiaeth' Ceredigion wedi'r cyfyngiadau](https://www.bbc.co.uk/newyddion/58173127) - Thu, 12 Aug 2021 07:54:30 GMT - Gwrthblaid yn dweud bod angen i Gyngor Ceredigion fynd 'nôl i'r drefn arferol o reoli yn sgil llacio cyfyngiadau.
-26. [Fforio am fwyd am ddim ar draethau Cymru](https://www.bbc.co.uk/newyddion/58101142) - Thu, 12 Aug 2021 09:23:12 GMT - Tips y fforiwr glan môr, Craig Evans, am bum bwyd blasus gallwch chi eu cael ar ein harfordir.
+26. [Cerdyn post oddi wrth... Mari Lovgreen](https://www.bbc.co.uk/newyddion/58173010) - Thu, 12 Aug 2021 14:35:44 GMT - Y gyflwynwraig sy'n anfon cyfarchion o'i gwyliau gartref.
 27. [Tri chlwb Cymru trwodd i ail rownd Cwpan yr EFL](https://www.bbc.co.uk/newyddion/58163676) - Tue, 10 Aug 2021 20:51:06 GMT - Caerdydd yn trechu Sutton United, Abertawe yn fuddugol yn Reading a Chasnewydd yn ennill yn Ipswich.
