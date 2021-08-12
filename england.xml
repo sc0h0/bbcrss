@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 12 Aug 2021 19:13:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Aug 2021 19:23:23 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Emergency services respond to incident in Keyham in Plymouth]]></title>
+            <description><![CDATA[Police, multiple ambulances and air ambulances were called to Keyham in Plymouth this evening.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-devon-58189679</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-devon-58189679</guid>
+            <pubDate>Thu, 12 Aug 2021 19:20:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Cheshire care worker caught on camera sexually assaulting patient]]></title>
             <description><![CDATA[Benjamin Poole, 21, is jailed for six years after admitting seven offences.]]></description>
@@ -86,13 +93,6 @@
             <pubDate>Thu, 12 Aug 2021 10:36:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Bomb threat arrest at Northampton police station caught on film]]></title>
-            <description><![CDATA[A man is seen being tackled to the ground by officers after claiming he had a bomb in a bag.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-northamptonshire-58187469</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-northamptonshire-58187469</guid>
-            <pubDate>Thu, 12 Aug 2021 10:42:23 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA['Penny-sized' mouse rescued after cat scares mother away]]></title>
             <description><![CDATA[The tiny newborn was about the size of a one pence coin when she was found at a house in Newcastle.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-tyne-58186659</link>
@@ -135,6 +135,13 @@
             <pubDate>Thu, 12 Aug 2021 13:50:21 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Bomb threat arrest at Northampton police station caught on film]]></title>
+            <description><![CDATA[A man is seen being tackled to the ground by officers after claiming he had a bomb in a bag.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-northamptonshire-58187469</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-northamptonshire-58187469</guid>
+            <pubDate>Thu, 12 Aug 2021 10:42:23 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Kane, Southgate and Sterling mural in Nuneaton nets £10,000]]></title>
             <description><![CDATA[The three lions on the wall painting in Nuneaton helps to fund seven defibrillators.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-coventry-warwickshire-58188675</link>
@@ -163,13 +170,6 @@
             <pubDate>Thu, 12 Aug 2021 05:30:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tokyo Olympics: Galal Yafai returns to UK from Tokyo]]></title>
-            <description><![CDATA[Galal Yafai was met with cheers and chanting as he arrived at London Heathrow Airport from Tokyo.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-birmingham-58151399</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-birmingham-58151399</guid>
-            <pubDate>Mon, 09 Aug 2021 16:00:16 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Rapper Nines admits plot to import cannabis]]></title>
             <description><![CDATA[The chart-topping musician and another man have been remanded in custody ahead of sentencing.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-london-58190579</link>
@@ -191,7 +191,7 @@
             <pubDate>Thu, 12 Aug 2021 12:49:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Burned woman found in lay-by identified]]></title>
+            <title><![CDATA[Jomaa Jerrare not seen for weeks before Perton lay-by body find]]></title>
             <description><![CDATA[Police believe Jomaa Jerrare was killed before her badly burnt body was dumped in a lay-by in Perton.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-stoke-staffordshire-58185660</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-stoke-staffordshire-58185660</guid>
@@ -220,7 +220,7 @@
         </item>
         <item>
             <title><![CDATA[Glamorgan & Durham make One-Day Cup semis as Gloucs, Surrey, Yorkshire & Essex also progress]]></title>
-            <description><![CDATA[Durham and Glamorgan earn home One-Day Cup semi-finals, with Gloucestershire, Surrey and Yorkshire joining Essex in the last eight.]]></description>
+            <description><![CDATA[Durham and Glamorgan earn home One-Day Cup semi-finals, with Gloucestershire, Surrey and Yorkshire joining Essex in quarter-finals.]]></description>
             <link>https://www.bbc.co.uk/sport/cricket/58189593</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/58189593</guid>
             <pubDate>Thu, 12 Aug 2021 19:02:27 GMT</pubDate>
