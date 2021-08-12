@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 12 Aug 2021 14:48:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Aug 2021 15:17:42 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -30,6 +30,13 @@
             <pubDate>Thu, 12 Aug 2021 13:58:58 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Rapper Nines admits plot to import cannabis]]></title>
+            <description><![CDATA[The chart-topping musician and another man have been remanded in custody ahead of sentencing.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-58190579</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-58190579</guid>
+            <pubDate>Thu, 12 Aug 2021 14:30:30 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Olympic Gadirova twins 'thrilled' at school grades]]></title>
             <description><![CDATA[The 16-year-old Olympic medallists plan to stay on to study sport and management while competing.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-58187027</link>
@@ -42,13 +49,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-nottinghamshire-58190943</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-nottinghamshire-58190943</guid>
             <pubDate>Thu, 12 Aug 2021 13:33:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tributes to dad stabbed after confronting youths]]></title>
-            <description><![CDATA[James Markham, 45, was killed after confronting a group of youths outside his home.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-london-58186688</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-58186688</guid>
-            <pubDate>Thu, 12 Aug 2021 09:45:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bomb threat arrest at Northampton police station caught on film]]></title>
@@ -65,11 +65,11 @@
             <pubDate>Thu, 12 Aug 2021 14:42:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A64 Tadcaster: Crane fire closes road eastbound overnight]]></title>
-            <description><![CDATA[A section of the A64 near Tadcaster will remain closed until Friday morning, Highways England say.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-58184494</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-58184494</guid>
-            <pubDate>Thu, 12 Aug 2021 12:49:52 GMT</pubDate>
+            <title><![CDATA[Tributes to dad stabbed after confronting youths]]></title>
+            <description><![CDATA[James Markham, 45, was killed after confronting a group of youths outside his home.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-58186688</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-58186688</guid>
+            <pubDate>Thu, 12 Aug 2021 09:45:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Victoria station bus crash victim named as Melissa Burr]]></title>
@@ -142,6 +142,13 @@
             <pubDate>Thu, 12 Aug 2021 10:35:17 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[A64 Tadcaster: Crane fire closes road eastbound overnight]]></title>
+            <description><![CDATA[A section of the A64 near Tadcaster will remain closed until Friday morning, Highways England say.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-58184494</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-58184494</guid>
+            <pubDate>Thu, 12 Aug 2021 12:49:52 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Burned woman found in lay-by identified]]></title>
             <description><![CDATA[The cause of death of Wolverhampton resident Jomaa Jerrare is still under investigation, say officers.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-stoke-staffordshire-58185660</link>
@@ -203,13 +210,6 @@
             <link>https://www.bbc.co.uk/sport/rugby-league/58185334</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-league/58185334</guid>
             <pubDate>Thu, 12 Aug 2021 09:42:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[England v India: Batsman Ollie Pope released from squad for second Test]]></title>
-            <description><![CDATA[England batsman Ollie Pope is released from the squad to face India in the second Test at Lord's.]]></description>
-            <link>https://www.bbc.co.uk/sport/cricket/58185438</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/58185438</guid>
-            <pubDate>Thu, 12 Aug 2021 08:44:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
