@@ -16,8 +16,8 @@
 16. [Kathy Hochul: Who is New York's first female governor?](https://www.bbc.co.uk/news/world-us-canada-58167825) - The history-making Democrat will take the role after Andrew Cuomo resigned over harassment claims.
 17. [Wagner: Scale of Russian mercenary mission in Libya exposed](https://www.bbc.co.uk/news/world-africa-58009514) - A Samsung tablet obtained by the BBC unveils chilling details of how mercenaries fought in Libya’s war.
 18. [The shopkeeper saving his island from wildfires](https://www.bbc.co.uk/news/world-europe-58177493) - Spyros isn't a firefighter, but when his home was threatened with wildfires, he decided to take action.
-19. [Northern Turkey hit by severe flash flooding](https://www.bbc.co.uk/news/world-58194460) - Seventeen people have reportedly died, with more than 1,400 people evacuated from the areas affected.
+19. [Afghanistan: Desperation as thousands flee the Taliban](https://www.bbc.co.uk/news/world-asia-58191043) - Yogita Limaye reports from a camp in Kabul where thousands who have been displaced by violence seek refuge.
 20. [Afghanistan war: Do the Taliban want to conquer or compromise?](https://www.bbc.co.uk/news/world-asia-58181670) - The BBC speaks to two high profile figures in its chain of command who have very different messages.
-21. [Wildfires rage in Algeria as heatwave hits North Africa](https://www.bbc.co.uk/news/world-africa-58184912) - The blazes in the mountainous Kabylie region are some of the worst in the country's history.
-22. [Afghanistan war: Veterans reflect on troops leaving country](https://www.bbc.co.uk/news/uk-wales-58181826) - The two veterans have opposing views on whether the conflict has had a positive effect.
-23. [Tokyo 2020: Meet Tokyo's youngest Olympic champion](https://www.bbc.co.uk/news/world-asia-58168591) - Japan's Momiji Nishiya won the first women’s street skateboarding gold in the sport's Olympic debut.
+21. [Northern Turkey hit by severe flash flooding](https://www.bbc.co.uk/news/world-58194460) - Seventeen people have reportedly died, with more than 1,400 people evacuated from the areas affected.
+22. [Virtual reality: 'There's no max, there's no limit!'](https://www.bbc.co.uk/news/entertainment-arts-58177685) - "There's no max, there's no limit" to virtual reality, so is it the future of live music?
+23. [Wildfires rage in Algeria as heatwave hits North Africa](https://www.bbc.co.uk/news/world-africa-58184912) - The blazes in the mountainous Kabylie region are some of the worst in the country's history.

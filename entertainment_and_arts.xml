@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 12 Aug 2021 23:01:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Aug 2021 23:19:58 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Britney Spears' father steps down as conservator]]></title>
+            <description><![CDATA[The star had requested Jamie Spears be removed after accusing him of "conservatorship abuse".]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-58191439</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-58191439</guid>
+            <pubDate>Thu, 12 Aug 2021 23:09:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Una Stubbs: Till Death Us Do Part and Sherlock actress dies aged 84]]></title>
             <description><![CDATA[She was known for her roles in shows like Worzel Gummidge, Till Death Us Do Part and Sherlock.]]></description>
@@ -28,13 +35,6 @@
             <link>https://www.bbc.co.uk/news/newsbeat-58188400</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-58188400</guid>
             <pubDate>Thu, 12 Aug 2021 15:10:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Britney Spears' father steps down as conservator]]></title>
-            <description><![CDATA[The star had requested Jamie Spears be removed after accusing him of "conservatorship abuse".]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-58191439</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-58191439</guid>
-            <pubDate>Thu, 12 Aug 2021 22:35:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Strictly Come Dancing: Actress Rose Ayling-Ellis to be show's first deaf dancer]]></title>
@@ -100,6 +100,13 @@
             <pubDate>Tue, 10 Aug 2021 00:28:01 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Virtual reality: 'There's no max, there's no limit!']]></title>
+            <description><![CDATA["There's no max, there's no limit" to virtual reality, so is it the future of live music?]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-58177685</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-58177685</guid>
+            <pubDate>Thu, 12 Aug 2021 23:11:57 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Fashion photographer: 'The world doesn't see this part of Afghanistan']]></title>
             <description><![CDATA[Fatimah Hossaini is a fashion photographer in Afghanistan and wants to use her work to help women be seen.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-58147426</link>
@@ -133,13 +140,6 @@
             <link>https://www.bbc.co.uk/news/entertainment-arts-58115465</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-58115465</guid>
             <pubDate>Sat, 07 Aug 2021 23:00:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tankus the Henge: Touring in France post-Brexit 'a puzzle']]></title>
-            <description><![CDATA[Band Tankus the Henge negotiates touring in France, their first trip there since Brexit rules were imposed.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-58063110</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-58063110</guid>
-            <pubDate>Thu, 05 Aug 2021 23:02:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
