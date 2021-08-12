@@ -1,6 +1,6 @@
 1. [GCSEs: Top grades show sharp increase on 2019](https://www.bbc.co.uk/news/uk-wales-58180628) - Pupils are praised for their "resilience" as more get top GCSE grades after studying through Covid.
 2. [Bridgend: Attempted murder arrest as boy, 2, critically ill in hospital](https://www.bbc.co.uk/news/uk-wales-58187028) - Police have arrested a 31-year-old woman and say the boy is in a critical condition in hospital.
-3. [Abercynon Road: Man charged after car crashed into vehicles](https://www.bbc.co.uk/news/uk-wales-58184062) - A man, charged with drink driving, will appear before magistrates after being charged.
+3. [Abercynon Road: Man charged after car crashed into vehicles](https://www.bbc.co.uk/news/uk-wales-58184062) - A man, charged with drink driving, will appear before magistrates after several cars were damaged.
 4. [Covid recovery: More new jobs in Gwynedd areas than Cardiff, report says](https://www.bbc.co.uk/news/uk-wales-58184055) - A think-tank says cities are "lagging behind", while a holiday boom is seeing more jobs elsewhere.
 5. [Trellyffaint: Proof unearthed of Neolithic dairy farming in Pembrokeshire](https://www.bbc.co.uk/news/uk-wales-58174481) - Shards of decorated pottery containing traces of dairy fat residue have been dated to 3,100BC.
 6. [Afghanistan war: Veterans reflect on troops leaving country](https://www.bbc.co.uk/news/uk-wales-58181826) - The two veterans have opposing views on whether the conflict has had a positive effect.
