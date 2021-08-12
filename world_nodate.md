@@ -9,7 +9,7 @@
 9. [Cryptocurrency heist hacker returns $260m in funds](https://www.bbc.co.uk/news/business-58180692) - The hacker behind the $600m Poly Network cryptocurrency heist has posted a Q&A on the blockchain.
 10. [Picasso masterpieces to go on sale in blockbuster auction](https://www.bbc.co.uk/news/world-us-canada-58185744) - Proceeds could reach $100m in what is thought to be the most valuable auction of the artist's works.
 11. [Russia holds hypersonic flight expert in spy probe](https://www.bbc.co.uk/news/world-europe-58186033) - Alexander Kuranov, detained by FSB agents, runs a team of pioneering spaceflight researchers.
-12. [Former K-pop star Seungri jailed for gambling and organising sex work](https://www.bbc.co.uk/news/world-asia-58185784) - Seungri, whose former band Big Bang has sold 140 million records, is given a three-year prison term.
+12. [Seungri: Former K-pop star jailed for gambling and organising sex work](https://www.bbc.co.uk/news/world-asia-58185784) - Seungri, whose former band Big Bang has sold 140 million records, is given a three-year prison term.
 13. [Afghanistan: The people fleeing the north for safety in Kabul](https://www.bbc.co.uk/news/world-asia-58170433) - The Taliban has taken new territories in the north, forcing thousands out of their homes.
 14. [Berlin embassy arrest: A case of old-school spying?](https://www.bbc.co.uk/news/uk-58185957) - Why nothing in the case of the arrest of a man at the British Embassy in Berlin should surprise us.
 15. [How North American cities are bracing for more heatwaves](https://www.bbc.co.uk/news/world-us-canada-58015089) - Local governments are getting creative when it comes to tackling frequent and extreme heat.
