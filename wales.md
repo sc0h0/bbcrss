@@ -1,4 +1,4 @@
-1. [Bridgend: Murder probe launched as boy, 2, dies](https://www.bbc.co.uk/news/uk-wales-58194706) - Thu, 12 Aug 2021 21:34:04 GMT - A 31-year-old woman has been arrested on suspicion of murder and remains in police custody.
+1. [Bridgend: Murder probe launched as boy, 2, dies](https://www.bbc.co.uk/news/uk-wales-58194706) - Thu, 12 Aug 2021 21:51:27 GMT - A 31-year-old woman has been arrested on suspicion of murder and remains in police custody.
 2. [GCSEs: Top grades show sharp increase on 2019](https://www.bbc.co.uk/news/uk-wales-58180628) - Thu, 12 Aug 2021 17:56:20 GMT - Pupils are praised for their "resilience" as more get top GCSE grades after studying through Covid.
 3. [Crickhowell rape: Man arrested after Powys attack](https://www.bbc.co.uk/news/uk-wales-58191699) - Thu, 12 Aug 2021 15:53:00 GMT - Dyfed-Powys Police said the suspect, arrested on Tuesday, has been released under investigation.
 4. [Doctor who did locum shifts while on sick would 'lie and lie'](https://www.bbc.co.uk/news/uk-wales-58191698) - Thu, 12 Aug 2021 18:59:24 GMT - Dr Joao Muel is facing 13 allegations of dishonesty and clinical failure in 2018 and 2019, tribunal hears.
