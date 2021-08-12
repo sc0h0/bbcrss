@@ -1,4 +1,4 @@
-1. [Cryptocurrency heist hacker returns $260m in funds](https://www.bbc.co.uk/news/business-58180692) - Wed, 11 Aug 2021 23:49:30 GMT - The hacker behind the $600m Poly Network cryptocurrency heist has posted a Q&A on the blockchain.
+1. [Cryptocurrency heist hacker returns $260m in funds](https://www.bbc.co.uk/news/business-58180692) - Wed, 11 Aug 2021 23:55:56 GMT - The hacker behind the $600m Poly Network cryptocurrency heist has posted a Q&A on the blockchain.
 2. [Z Fold 3: Samsung aims to take folding phones mainstream](https://www.bbc.co.uk/news/technology-58175048) - Wed, 11 Aug 2021 14:03:37 GMT - The electronics giant hopes lower prices and improved durability will make folding phones catch on.
 3. [Instagram launches 'limits' to hide abusive messages](https://www.bbc.co.uk/news/technology-58173921) - Wed, 11 Aug 2021 12:20:01 GMT - Instagram launches a feature to automatically hide most comments during "spikes" of abuse.
 4. [Hackers steal $600m in major cryptocurrency heist](https://www.bbc.co.uk/news/business-58163917) - Wed, 11 Aug 2021 15:40:58 GMT - Thousands of digital tokens have been stolen by hackers in one of the largest cryptocurrency heists.
