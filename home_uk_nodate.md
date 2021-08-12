@@ -4,10 +4,10 @@
 4. [New Zealand borders to remain closed for rest of the year](https://www.bbc.co.uk/news/world-asia-58182418) - Prime Minister Jacinda Ardern said her priority was vaccinating the population by the end of 2021.
 5. [Cryptocurrency heist hacker returns $260m in funds](https://www.bbc.co.uk/news/business-58180692) - The hacker behind the $600m Poly Network cryptocurrency heist has posted a Q&A on the blockchain.
 6. [Quarantine hotel rules face legal challenge](https://www.bbc.co.uk/news/business-58180307) - Travellers affected by the UK's quarantine hotel policy want a judicial review of the rules.
-7. [Italy may have registered Europe's hottest temperature on record](https://www.bbc.co.uk/news/world-europe-58130893) - If the registered reading is verified, it will be hottest temperature ever recorded in Europe.
-8. [UK deportation flight to Jamaica leaves with dozens reprieved](https://www.bbc.co.uk/news/uk-58177487) - A plane to Jamaica chartered by the Home Office was carrying just seven passengers, lawyers say.
+7. [Climate: WWF warns UK spending is lagging behind targets](https://www.bbc.co.uk/news/uk-politics-58170865) - The conservation group WWF says the UK government must keep its promises on climate change.
+8. [Italy may have registered Europe's hottest temperature on record](https://www.bbc.co.uk/news/world-europe-58130893) - If the registered reading is verified, it will be hottest temperature ever recorded in Europe.
 9. [Briton suspected of spying for Russia arrested in Germany](https://www.bbc.co.uk/news/world-europe-58170872) - German federal prosecutors say the British man passed documents to Russian intelligence for cash.
-10. [Climate: WWF warns UK spending is lagging behind targets](https://www.bbc.co.uk/news/uk-politics-58170865) - The conservation group WWF says the UK government must keep its promises on climate change.
+10. [UK deportation flight to Jamaica leaves with dozens reprieved](https://www.bbc.co.uk/news/uk-58177487) - A plane to Jamaica chartered by the Home Office was carrying just seven passengers, lawyers say.
 11. [University of Leeds students offered £10k and free housing to defer](https://www.bbc.co.uk/news/uk-england-leeds-58176877) - Some courses in the university's schools of law and business are oversubscribed.
 12. [Chingford stabbing: Two boys held after man killed in street](https://www.bbc.co.uk/news/uk-england-london-58181159) - The 14-year-olds are in custody following the death of James Markham in east London on Monday.
 13. [Weight Watchers shares dive as people put diets on hold](https://www.bbc.co.uk/news/business-58177676) - Shares in the Oprah Winfrey-backed company drop 25% as subscriber numbers fall after lockdown.
