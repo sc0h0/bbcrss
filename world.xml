@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 12 Aug 2021 09:31:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Aug 2021 09:46:19 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -37,13 +37,6 @@
             <pubDate>Wed, 11 Aug 2021 23:10:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Australian capital Canberra goes into snap lockdown]]></title>
-            <description><![CDATA[The one-week lockdown comes after Canberra recorded its first case of Covid-19 for more than a year.]]></description>
-            <link>https://www.bbc.co.uk/news/world-australia-58182419</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-australia-58182419</guid>
-            <pubDate>Thu, 12 Aug 2021 03:35:39 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Tourist helicopter crashes into Russian lake]]></title>
             <description><![CDATA[Eight people survived after a helicopter with 16 people crashed in the Far East region, reports say.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-58182420</link>
@@ -58,11 +51,25 @@
             <pubDate>Thu, 12 Aug 2021 08:43:01 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Tokyo Olympic gold medal replaced after first got bitten]]></title>
+            <description><![CDATA[The mayor of softball athlete Miu Goto's hometown prompted outrage after chomping on her medal.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58186002</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58186002</guid>
+            <pubDate>Thu, 12 Aug 2021 09:42:48 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Cryptocurrency heist hacker returns $260m in funds]]></title>
             <description><![CDATA[The hacker behind the $600m Poly Network cryptocurrency heist has posted a Q&A on the blockchain.]]></description>
             <link>https://www.bbc.co.uk/news/business-58180692</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58180692</guid>
             <pubDate>Thu, 12 Aug 2021 06:36:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Australian capital Canberra goes into snap lockdown]]></title>
+            <description><![CDATA[The one-week lockdown comes after Canberra recorded its first case of Covid-19 for more than a year.]]></description>
+            <link>https://www.bbc.co.uk/news/world-australia-58182419</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-australia-58182419</guid>
+            <pubDate>Thu, 12 Aug 2021 03:35:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Italy may have registered Europe's hottest temperature on record]]></title>
@@ -84,13 +91,6 @@
             <link>https://www.bbc.co.uk/news/world-asia-58185784</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58185784</guid>
             <pubDate>Thu, 12 Aug 2021 09:29:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[New Zealand borders to remain closed for rest of the year]]></title>
-            <description><![CDATA[Prime Minister Jacinda Ardern said her priority was vaccinating the population by the end of 2021.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58182418</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58182418</guid>
-            <pubDate>Thu, 12 Aug 2021 00:31:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Google may cut pay of staff who work from home]]></title>

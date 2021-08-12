@@ -23,5 +23,5 @@
 23. [Mwy yn cael y graddau TGAU uchaf yng Nghymru](https://www.bbc.co.uk/newyddion/58175746) - Disgyblion TGAU yn derbyn eu canlyniadau, gyda dros chwarter y graddau yn A neu A*.
 24. [Arestio menyw ar amheuaeth o geisio llofruddio bachgen](https://www.bbc.co.uk/newyddion/58186503) - Mae'r bachgen dyflwydd oed mewn cyflwr difrifol yn yr ysbyty wedi digwyddiad ym Mhen-y-bont ar Ogwr.
 25. [Galw am 'adfer democratiaeth' Ceredigion wedi'r cyfyngiadau](https://www.bbc.co.uk/newyddion/58173127) - Gwrthblaid yn dweud bod angen i Gyngor Ceredigion fynd 'nôl i'r drefn arferol o reoli yn sgil llacio cyfyngiadau.
-26. [Llion Williams: Lloches ar ynysoedd yr Alban](https://www.bbc.co.uk/newyddion/57916024) - Yr actor sy'n egluro pam ei fod yn byw yn yr Alban am gyfnod a'i rybuddion i Gymru o'r Ynys Hir.
+26. [Fforio am fwyd am ddim ar draethau Cymru](https://www.bbc.co.uk/newyddion/58101142) - Tips y fforiwr glan môr, Craig Evans, am bum bwyd blasus gallwch chi eu cael ar ein harfordir.
 27. [Tri chlwb Cymru trwodd i ail rownd Cwpan yr EFL](https://www.bbc.co.uk/newyddion/58163676) - Caerdydd yn trechu Sutton United, Abertawe yn fuddugol yn Reading a Chasnewydd yn ennill yn Ipswich.
