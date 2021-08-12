@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 12 Aug 2021 03:47:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Aug 2021 04:00:00 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -58,6 +58,13 @@
             <pubDate>Thu, 12 Aug 2021 00:40:52 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Australian capital Canberra goes into snap lockdown]]></title>
+            <description><![CDATA[The one-week lockdown comes after Canberra recorded its first case of Covid-19 for more than a year.]]></description>
+            <link>https://www.bbc.co.uk/news/world-australia-58182419</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-australia-58182419</guid>
+            <pubDate>Thu, 12 Aug 2021 03:35:39 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Climate: WWF warns UK spending is lagging behind targets]]></title>
             <description><![CDATA[The conservation group WWF says the UK government must keep its promises on climate change.]]></description>
             <link>https://www.bbc.co.uk/news/uk-politics-58170865</link>
@@ -98,13 +105,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-london-58181159</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-58181159</guid>
             <pubDate>Wed, 11 Aug 2021 19:55:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Weight Watchers shares dive as people put diets on hold]]></title>
-            <description><![CDATA[Shares in the Oprah Winfrey-backed company drop 25% as subscriber numbers fall after lockdown.]]></description>
-            <link>https://www.bbc.co.uk/news/business-58177676</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58177676</guid>
-            <pubDate>Wed, 11 Aug 2021 20:06:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Papers: 'Spy sold secrets' and 'no way back for Andrew']]></title>
