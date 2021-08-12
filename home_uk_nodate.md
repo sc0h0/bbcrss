@@ -12,8 +12,8 @@
 12. [UK inhaler firm Vectura backs £1bn bid by Marlboro-maker](https://www.bbc.co.uk/news/business-58193391) - The bid by the maker of Marlboro cigarettes trumps a rival offer by US private equity firm Carlyle.
 13. [Half a million EU citizens await decision over right to stay in UK](https://www.bbc.co.uk/news/uk-58188657) - More than half a million EU citizens who have applied for settled status in the UK await a decision.
 14. [TV newsreader Victoria Derbyshire overcomes on-air shoe struggle](https://www.bbc.co.uk/news/uk-58194764) - The BBC News channel presenter was seen quietly cursing as she struggled to put on her high heels.
-15. [Northern Turkey hit by severe flash flooding](https://www.bbc.co.uk/news/world-58194460) - Seventeen people have reportedly died, with more than 1,400 people evacuated from the areas affected.
-16. [Nick Grimshaw on leaving Radio 1: 'I've interviewed everyone, twice'](https://www.bbc.co.uk/news/newsbeat-58188400) - The legendary presenter reflects on leaving BBC Radio 1 after 14 years.
+15. [Nick Grimshaw on leaving Radio 1: 'I've interviewed everyone, twice'](https://www.bbc.co.uk/news/newsbeat-58188400) - The legendary presenter reflects on leaving BBC Radio 1 after 14 years.
+16. [Northern Turkey hit by severe flash flooding](https://www.bbc.co.uk/news/world-58194460) - Seventeen people have reportedly died, with more than 1,400 people evacuated from the areas affected.
 17. [Life in a town taken by the Taliban in Afghanistan](https://www.bbc.co.uk/news/world-asia-58194378) - BBC correspondent Secunder Kermani reports from a town in Afghanistan recently taken by the Taliban
 18. [Tokyo Olympic gold medal replaced after first got bitten](https://www.bbc.co.uk/news/world-asia-58186002) - The mayor of softball athlete Miu Goto's hometown prompted outrage after chomping on her medal.
 19. [GCSE students praised for 'resilience, commitment and dedication'](https://www.bbc.co.uk/news/education-58185698) - Students have received their GCSE results after coronavirus cancelled exams for a second year.
