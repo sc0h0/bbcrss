@@ -1,4 +1,4 @@
-1. [UK economy grows 4.8% as Covid restrictions ease](https://www.bbc.co.uk/news/uk-58183519) - Thu, 12 Aug 2021 07:12:16 GMT - Retail, restaurants and hotels show strong growth between April and June but data misses forecasts.
+1. [UK economy grows 4.8% as Covid restrictions ease](https://www.bbc.co.uk/news/uk-58183519) - Thu, 12 Aug 2021 07:31:35 GMT - Retail, restaurants and hotels show strong growth between April and June but data misses forecasts.
 2. [Boohoo boss: 'We're not a throwaway fashion brand'](https://www.bbc.co.uk/news/business-58160237) - Thu, 12 Aug 2021 01:08:00 GMT - The boss of fast fashion retailer Boohoo tells the BBC it is committed to being more sustainable.
 3. [Cryptocurrency heist hacker returns $260m in funds](https://www.bbc.co.uk/news/business-58180692) - Thu, 12 Aug 2021 06:36:19 GMT - The hacker behind the $600m Poly Network cryptocurrency heist has posted a Q&A on the blockchain.
 4. [China says crackdown on business to go on for years](https://www.bbc.co.uk/news/business-58182658) - Thu, 12 Aug 2021 05:38:31 GMT - The five-year plan comes soon after a major clampdown on several big technology and education firms.
