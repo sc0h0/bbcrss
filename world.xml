@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 12 Aug 2021 03:29:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Aug 2021 03:40:01 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -37,6 +37,13 @@
             <pubDate>Wed, 11 Aug 2021 23:10:23 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Australian capital Canberra goes into snap lockdown]]></title>
+            <description><![CDATA[The one-week lockdown comes after Canberra recorded its first case of Covid-19 for more than a year.]]></description>
+            <link>https://www.bbc.co.uk/news/world-australia-58182419</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-australia-58182419</guid>
+            <pubDate>Thu, 12 Aug 2021 03:35:39 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[New Zealand borders to remain closed for rest of the year]]></title>
             <description><![CDATA[Prime Minister Jacinda Ardern said her priority was vaccinating the population by the end of 2021.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-58182418</link>
@@ -49,13 +56,6 @@
             <link>https://www.bbc.co.uk/news/world-europe-58180761</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58180761</guid>
             <pubDate>Wed, 11 Aug 2021 20:48:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Shell pays $111m over 1970s oil spill in Nigeria]]></title>
-            <description><![CDATA[The payment marks the end of a long-running legal battle over a spill during the 1967-70 Biafran War.]]></description>
-            <link>https://www.bbc.co.uk/news/world-africa-58181836</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-58181836</guid>
-            <pubDate>Wed, 11 Aug 2021 22:58:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Cryptocurrency heist hacker returns $260m in funds]]></title>
@@ -72,11 +72,11 @@
             <pubDate>Wed, 11 Aug 2021 19:43:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Johnny Depp's film festival awards insulting, domestic abuse charities say]]></title>
-            <description><![CDATA[The actor, labelled a "wife beater" by The Sun, is to be honoured in Spain and the Czech Republic.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-58170506</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-58170506</guid>
-            <pubDate>Wed, 11 Aug 2021 15:50:24 GMT</pubDate>
+            <title><![CDATA[Shell pays $111m over 1970s oil spill in Nigeria]]></title>
+            <description><![CDATA[The payment marks the end of a long-running legal battle over a spill during the 1967-70 Biafran War.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-58181836</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-58181836</guid>
+            <pubDate>Wed, 11 Aug 2021 22:58:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo 2020: Some Australian Olympians face 28-day quarantine]]></title>
