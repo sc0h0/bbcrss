@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 12 Aug 2021 09:20:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Aug 2021 09:33:02 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -149,6 +149,13 @@
             <pubDate>Mon, 09 Aug 2021 14:20:08 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Ariana Grande sings in Fortnite's metaverse]]></title>
+            <description><![CDATA[The pop star is the latest musician to perform a series of concerts inside the hit video game.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-58146042</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-58146042</guid>
+            <pubDate>Mon, 09 Aug 2021 10:57:54 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Sir Tom Stoppard: ‘Cancel culture has eroded free speech’]]></title>
             <description><![CDATA[The playwright talks to Newsnight about the impact of cancel culture and his latest production Leopoldstadt.]]></description>
             <link>https://www.bbc.co.uk/news/entertainment-arts-58118789</link>
@@ -168,13 +175,6 @@
             <link>https://www.bbc.co.uk/news/entertainment-arts-58063110</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-58063110</guid>
             <pubDate>Thu, 05 Aug 2021 23:02:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Becoming Tina Turner in London's West End]]></title>
-            <description><![CDATA[Aisha Jawando takes over from Adrienne Warren in the title role in the musical Tina.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-58017932</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-58017932</guid>
-            <pubDate>Wed, 04 Aug 2021 23:01:51 GMT</pubDate>
         </item>
     </channel>
 </rss>

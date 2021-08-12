@@ -1,4 +1,4 @@
-1. [UK economy grows 4.8% as Covid restrictions ease](https://www.bbc.co.uk/news/uk-58183519) - Retail, restaurants and hotels show strong growth between April and June but data misses forecasts.
+1. [UK economy rebounds as Covid restrictions ease](https://www.bbc.co.uk/news/uk-58183519) - Retail, restaurants and hotels show strong growth between April and June but data misses forecasts.
 2. [Boohoo boss: 'We're not a throwaway fashion brand'](https://www.bbc.co.uk/news/business-58160237) - The boss of fast fashion retailer Boohoo tells the BBC it is committed to being more sustainable.
 3. [Cryptocurrency heist hacker returns $260m in funds](https://www.bbc.co.uk/news/business-58180692) - The hacker behind the $600m Poly Network cryptocurrency heist has posted a Q&A on the blockchain.
 4. [China says crackdown on business to go on for years](https://www.bbc.co.uk/news/business-58182658) - The five-year plan comes soon after a major clampdown on several big technology and education firms.

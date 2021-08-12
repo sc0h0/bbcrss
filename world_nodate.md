@@ -7,7 +7,7 @@
 7. [Cryptocurrency heist hacker returns $260m in funds](https://www.bbc.co.uk/news/business-58180692) - The hacker behind the $600m Poly Network cryptocurrency heist has posted a Q&A on the blockchain.
 8. [Italy may have registered Europe's hottest temperature on record](https://www.bbc.co.uk/news/world-europe-58130893) - If the registered reading is verified, it will be hottest temperature ever recorded in Europe.
 9. [China says crackdown on business to go on for years](https://www.bbc.co.uk/news/business-58182658) - The five-year plan comes soon after a major clampdown on several big technology and education firms.
-10. [Shell pays $111m over 1970s oil spill in Nigeria](https://www.bbc.co.uk/news/world-africa-58181836) - The payment marks the end of a long-running legal battle over a spill during the 1967-70 Biafran War.
+10. [Former K-pop star Seungri jailed for gambling and organising sex work](https://www.bbc.co.uk/news/world-asia-58185784) - Seungri, whose former band Big Bang has sold 140 million records, is given a three-year prison term.
 11. [New Zealand borders to remain closed for rest of the year](https://www.bbc.co.uk/news/world-asia-58182418) - Prime Minister Jacinda Ardern said her priority was vaccinating the population by the end of 2021.
 12. [Google may cut pay of staff who work from home](https://www.bbc.co.uk/news/business-58171716) - The tech giant has developed a calculator that lets staff see the effects of remote working.
 13. [Afghanistan: The people fleeing the north for safety in Kabul](https://www.bbc.co.uk/news/world-asia-58170433) - The Taliban has taken new territories in the north, forcing thousands out of their homes.

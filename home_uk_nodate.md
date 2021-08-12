@@ -1,5 +1,5 @@
 1. [Record GCSE results after second year of no exams](https://www.bbc.co.uk/news/education-58174253) - Record high GCSE grades in a second year of exams disrupted by the pandemic.
-2. [UK economy grows 4.8% as Covid restrictions ease](https://www.bbc.co.uk/news/uk-58183519) - Retail, restaurants and hotels show strong growth between April and June but data misses forecasts.
+2. [UK economy rebounds as Covid restrictions ease](https://www.bbc.co.uk/news/uk-58183519) - Retail, restaurants and hotels show strong growth between April and June but data misses forecasts.
 3. [Covid: Higher GCSE results predicted and UK economy grows](https://www.bbc.co.uk/news/uk-58179163) - Five things you need to know about the coronavirus pandemic this Thursday morning.
 4. [Afghanistan: Taliban take 10th provincial capital as Ghazni falls](https://www.bbc.co.uk/news/world-asia-58184202) - The fall of Ghazni, south-west of Kabul, brings the militants closer to the Afghan capital.
 5. [Afghanistan war: Do the Taliban want to conquer or compromise?](https://www.bbc.co.uk/news/world-asia-58181670) - The BBC speaks to two high profile figures in its chain of command who have very different messages.
@@ -29,13 +29,12 @@
 29. [Haye to return to the ring to fight 'overconfident billionaire buddy' Fournier](https://www.bbc.co.uk/sport/boxing/58183582) - Former heavyweight and cruiserweight champion David Haye returning to the ring in September to face Joe Fournier.
 30. [Kepa goes from shootout villain to Super Cup hero](https://www.bbc.co.uk/sport/football/58182206) - Kepa Arrizabalaga's time at Chelsea has been defined by an incident involving a substitution with penalties looming - and now another, but in much happier circumstances.
 31. [Konta to face Gauff in last 16 after beating third seed Svitolina at Canadian Open](https://www.bbc.co.uk/sport/tennis/58179319) - British number one Johanna Konta fights back from a set down to defeat third seed Elina Svitolina and reach the Canadian Open third round.
-32. [Wildfires: How Portuguese club Tondela drove through the flames](https://www.bbc.co.uk/sport/football/58101546) - In Tondela, the bond between club and fans was at its strongest during the night in October 2017 when nobody slept.
-33. [GCSE results 2021: How were grades decided?](https://www.bbc.co.uk/news/education-53682466) - Teachers have decided pupils' grades this year after Covid cancelled exams for a second year.
-34. [GCSEs 2021: The 9-1 grading system explained](https://www.bbc.co.uk/news/education-48993830) - Teenagers will receive their GCSE results on 12 August.
-35. [Exams 2021: 'Will they take our Covid grades seriously?'](https://www.bbc.co.uk/news/education-58085778) - It's been a stressful few months for the thousands of young people waiting for their exam results.
-36. [A-level results: Students have been treated fairly - watchdog](https://www.bbc.co.uk/news/education-58141518) - The head of the exams regulator defends the system for deciding grades ahead of A-level and GCSE results day.
-37. [UK holidays: What are the rules?](https://www.bbc.co.uk/news/explainers-52646738) - Going abroad is not straightforward, so many people are opting to stay in the UK for their holidays.
-38. [Covid: How do I get a lateral flow or PCR test?](https://www.bbc.co.uk/news/health-51943612) - Everyone in England and Scotland is being encouraged to take rapid coronavirus tests regularly.
-39. [What are the rules and guidance for face masks and coverings?](https://www.bbc.co.uk/news/health-51205344) - Masks are no longer compulsory in England, but remain necessary in other parts of the UK.
-40. [Covid: What do under-30s need to know about the vaccine?](https://www.bbc.co.uk/news/health-57273875) - The government has announced that 16 and 17-year-olds will receive the Covid vaccine.
-41. [Covid-19 in the UK: How many coronavirus cases are there in my area?](https://www.bbc.co.uk/news/uk-51768274) - Explore the data on coronavirus in the UK and find out how many cases there are in your area.
+32. [GCSE results 2021: How were grades decided?](https://www.bbc.co.uk/news/education-53682466) - Teachers have decided their pupils' grades after Covid cancelled exams for a second year.
+33. [GCSEs 2021: The 9-1 grading system explained](https://www.bbc.co.uk/news/education-48993830) - Teenagers will receive their GCSE results on 12 August.
+34. [Exams 2021: 'Will they take our Covid grades seriously?'](https://www.bbc.co.uk/news/education-58085778) - It's been a stressful few months for the thousands of young people waiting for their exam results.
+35. [A-level results: Students have been treated fairly - watchdog](https://www.bbc.co.uk/news/education-58141518) - The head of the exams regulator defends the system for deciding grades ahead of A-level and GCSE results day.
+36. [UK holidays: What are the rules?](https://www.bbc.co.uk/news/explainers-52646738) - Going abroad is not straightforward, so many people are opting to stay in the UK for their holidays.
+37. [Covid: How do I get a lateral flow or PCR test?](https://www.bbc.co.uk/news/health-51943612) - Everyone in England and Scotland is being encouraged to take rapid coronavirus tests regularly.
+38. [What are the rules and guidance for face masks and coverings?](https://www.bbc.co.uk/news/health-51205344) - Masks are no longer compulsory in England, but remain necessary in other parts of the UK.
+39. [Covid: What do under-30s need to know about the vaccine?](https://www.bbc.co.uk/news/health-57273875) - The government has announced that 16 and 17-year-olds will receive the Covid vaccine.
+40. [Covid-19 in the UK: How many coronavirus cases are there in my area?](https://www.bbc.co.uk/news/uk-51768274) - Explore the data on coronavirus in the UK and find out how many cases there are in your area.
