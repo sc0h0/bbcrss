@@ -5,9 +5,9 @@
 5. [Wildfires rage in Algeria as heatwave hits North Africa](https://www.bbc.co.uk/news/world-africa-58184912) - The blazes in the mountainous Kabylie region are some of the worst in the country's history.
 6. [Tributes to dad stabbed after confronting youths](https://www.bbc.co.uk/news/uk-england-london-58186688) - James Markham, 45, was killed after confronting a group of youths outside his home.
 7. [NHS waiting list in England hits record 5.45 million](https://www.bbc.co.uk/news/health-58186708) - Hospitals are working through the backlog - but some patients are waiting more than two years.
-8. [New Zealand borders to remain closed for rest of the year](https://www.bbc.co.uk/news/world-asia-58182418) - Prime Minister Jacinda Ardern said her priority was vaccinating the population by the end of 2021.
+8. [Bomb threat arrest at Northampton police station caught on film](https://www.bbc.co.uk/news/uk-england-northamptonshire-58187469) - A man is seen being tackled to the ground by officers after claiming he had a bomb in a bag.
 9. [Australian capital Canberra goes into snap lockdown](https://www.bbc.co.uk/news/world-australia-58182419) - The one-week lockdown comes after Canberra recorded its first case of Covid-19 for more than a year.
-10. [Tui's European bookings jump on pent-up demand](https://www.bbc.co.uk/news/business-58184088) - But UK bookings lag behind amid shifting Covid travel restrictions, the travel giant says.
+10. [Tui boss: UK falling behind European travel recovery](https://www.bbc.co.uk/news/business-58184088) - UK bookings lag behind Europe amid shifting Covid travel restrictions, the travel giant says.
 11. [Tourist helicopter crashes into Russian lake](https://www.bbc.co.uk/news/world-europe-58182420) - Eight people survived after a helicopter with 16 people crashed in the Far East region, reports say.
 12. [Cryptocurrency heist hacker returns $260m in funds](https://www.bbc.co.uk/news/business-58180692) - The hacker behind the $600m Poly Network cryptocurrency heist has posted a Q&A on the blockchain.
 13. [Electric cars: Do ministers put their motor where their mouth is?](https://www.bbc.co.uk/news/uk-politics-58170665) - Politicians are keen for us to live greener lives, but how many have taken the electric car plunge?

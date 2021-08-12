@@ -1,6 +1,6 @@
 1. [Tributes to dad stabbed after confronting youths](https://www.bbc.co.uk/news/uk-england-london-58186688) - James Markham, 45, was killed after confronting a group of youths outside his home.
 2. [Jeffrey Epstein: Met Police to review decision not to investigate](https://www.bbc.co.uk/news/uk-england-london-58186118) - The Met previously concluded it was "not the appropriate authority" to investigate Jeffrey Epstein.
-3. [GCSE results 2021: Record passes and top grades](https://www.bbc.co.uk/news/education-58174253) - Record high GCSE grades in a second year of exams disrupted by the pandemic.
+3. [GCSE results 2021: Exams triumph for boy who spent year in hospital](https://www.bbc.co.uk/news/uk-england-derbyshire-58166542) - Jason Ledford hopes to become a nurse after undergoing treatment for a brain tumour.
 4. [Burned woman found in lay-by identified](https://www.bbc.co.uk/news/uk-england-stoke-staffordshire-58185660) - The cause of death of Wolverhampton resident Jomaa Jerrare is still under investigation, say officers.
 5. [Ex-Olympian Stan Wild continued gym coaching after abuse claim](https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-58169460) - Stan Wild represented Great Britain at two Olympic Games and founded his own York gymnastics club.
 6. [Bomb threat arrest at Northampton police station caught on film](https://www.bbc.co.uk/news/uk-england-northamptonshire-58187469) - A man is seen being tackled to the ground by officers after claiming he had a bomb in a bag.

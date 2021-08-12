@@ -1,5 +1,5 @@
 1. [GCSEs: Rise in top grades in Northern Ireland as results issued](https://www.bbc.co.uk/news/uk-northern-ireland-58179094) - Due to the Covid-19 pandemic, pupils' results were based on grades calculated by schools.
-2. [Covid-19: NI ministers to discuss relaxing self-isolation rules](https://www.bbc.co.uk/news/uk-northern-ireland-58179582) - The change, which would bring NI in line with GB, will be discussed by Stormont ministers later.
+2. [Covid-19: NI ministers discussing relaxing self-isolation rules](https://www.bbc.co.uk/news/uk-northern-ireland-58179582) - The change, which would bring NI in line with GB, is to be discussed by Stormont ministers.
 3. [What are Northern Ireland's Covid-19 rules now?](https://www.bbc.co.uk/news/uk-northern-ireland-58175159) - How do restrictions here compare to other parts of the UK and the Republic of Ireland?
 4. [Former B&M worker settles disability discrimination case](https://www.bbc.co.uk/news/uk-northern-ireland-58175166) - Harvey Spence, who has a learning disability, says he "dreaded going to work" because of his experience.
 5. [Northern Ireland blood donation rule changes to be implemented](https://www.bbc.co.uk/news/uk-northern-ireland-58185808) - Men in a same-sex relationship for more than three months will now be able to donate blood.

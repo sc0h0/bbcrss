@@ -2,9 +2,9 @@
 2. [Italy may have registered Europe's hottest temperature on record](https://www.bbc.co.uk/news/world-europe-58130893) - If the registered reading is verified, it will be hottest temperature ever recorded in Europe.
 3. [Turkish capital reels from violent protests against Syrians](https://www.bbc.co.uk/news/world-europe-58185612) - Protesters attacked houses owned by Syrians after tensions flared over reports of a fatal stabbing.
 4. [Tourist helicopter crashes into Russian lake](https://www.bbc.co.uk/news/world-europe-58182420) - Eight people survived after a helicopter with 16 people crashed in the Far East region, reports say.
-5. [Polish parliament passes controversial media bill](https://www.bbc.co.uk/news/world-europe-58180761) - Opponents say the plans are an attempt to silence a TV channel critical of the government.
-6. [Briton suspected of spying for Russia arrested in Germany](https://www.bbc.co.uk/news/world-europe-58170872) - German federal prosecutors say the British man passed documents to Russian intelligence for cash.
-7. [Instagram says sorry for removing Pedro Almodovar film poster](https://www.bbc.co.uk/news/entertainment-arts-58177715) - The advert for revered Spanish director Pedro Almodovar's new film features a lactating nipple.
+5. [Picasso masterpieces to go on sale in blockbuster auction](https://www.bbc.co.uk/news/world-us-canada-58185744) - Proceeds could reach $100m in what is thought to be the most valuable auction of the artist's works.
+6. [Polish parliament passes controversial media bill](https://www.bbc.co.uk/news/world-europe-58180761) - Opponents say the plans are an attempt to silence a TV channel critical of the government.
+7. [Briton suspected of spying for Russia arrested in Germany](https://www.bbc.co.uk/news/world-europe-58170872) - German federal prosecutors say the British man passed documents to Russian intelligence for cash.
 8. [The shopkeeper saving his island from wildfires](https://www.bbc.co.uk/news/world-europe-58177493) - Spyros isn't a firefighter, but when his home was threatened with wildfires, he decided to take action.
 9. [Wagner: Scale of Russian mercenary mission in Libya exposed](https://www.bbc.co.uk/news/world-africa-58009514) - A Samsung tablet obtained by the BBC unveils chilling details of how mercenaries fought in Libya’s war.
 10. [Wildfires: How are they linked to climate change?](https://www.bbc.co.uk/news/58159451) - A series of major wildfires across the world has hit the headlines - how do they compare to previous years?

@@ -1,5 +1,5 @@
 1. [UK economy rebounds as Covid restrictions ease](https://www.bbc.co.uk/news/uk-58183519) - Retail, restaurants and hotels show strong growth between April and June but data misses forecasts.
-2. [Tui's European bookings jump on pent-up demand](https://www.bbc.co.uk/news/business-58184088) - But UK bookings lag behind amid shifting Covid travel restrictions, the travel giant says.
+2. [Tui boss: UK falling behind European travel recovery](https://www.bbc.co.uk/news/business-58184088) - UK bookings lag behind Europe amid shifting Covid travel restrictions, the travel giant says.
 3. [Boohoo boss: 'We're not a throwaway fashion brand'](https://www.bbc.co.uk/news/business-58160237) - The boss of fast fashion retailer Boohoo tells the BBC it is committed to being more sustainable.
 4. [Cryptocurrency heist hacker returns $260m in funds](https://www.bbc.co.uk/news/business-58180692) - The hacker behind the $600m Poly Network cryptocurrency heist has posted a Q&A on the blockchain.
 5. [China says crackdown on business to go on for years](https://www.bbc.co.uk/news/business-58182658) - The five-year plan comes soon after a major clampdown on several big technology and education firms.
