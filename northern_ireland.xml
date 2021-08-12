@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 12 Aug 2021 08:37:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Aug 2021 08:44:08 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[GCSEs: Rise in top grades in Northern Ireland as results issued]]></title>
+            <description><![CDATA[Due to the Covid-19 pandemic, pupils' results were based on grades calculated by schools.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58179094</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58179094</guid>
+            <pubDate>Thu, 12 Aug 2021 08:40:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Covid-19: NI ministers to discuss relaxing self-isolation rules]]></title>
             <description><![CDATA[The change, which would bring NI in line with GB, will be discussed by Stormont ministers later.]]></description>
@@ -28,13 +35,6 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58175159</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58175159</guid>
             <pubDate>Thu, 12 Aug 2021 06:01:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[GCSE results issued with grades expected to rise]]></title>
-            <description><![CDATA[About 29,000 students in Northern Ireland will receive their grades on Thursday.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58179094</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58179094</guid>
-            <pubDate>Thu, 12 Aug 2021 05:15:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Former B&M worker settles disability discrimination case]]></title>
@@ -70,13 +70,6 @@
             <link>https://www.bbc.co.uk/sport/football/58184964</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58184964</guid>
             <pubDate>Thu, 12 Aug 2021 08:02:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Chelsea win Super Cup in Belfast final]]></title>
-            <description><![CDATA[Chelsea beat Villarreal 6-5 in a penalty shootout to lift the Uefa Super Cup for a second time after a draining 120 minutes of action ends 1-1 in Belfast.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58157867</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58157867</guid>
-            <pubDate>Wed, 11 Aug 2021 22:00:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: NI student struggling to get vaccination certificate]]></title>
