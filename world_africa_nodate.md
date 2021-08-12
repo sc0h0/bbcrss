@@ -1,5 +1,5 @@
-1. [Algeria forest fires: At least 65 people killed as fires spread](https://www.bbc.co.uk/news/world-africa-58174918) - At least 65 people have been killed as the fires continue to spread amid an intense heatwave.
-2. [Shell pays $111m over 1970s oil spill in Nigeria](https://www.bbc.co.uk/news/world-africa-58181836) - The payment marks the end of a long-running legal battle over a spill during the 1967-70 Biafran War.
+1. [Shell pays $111m over 1970s oil spill in Nigeria](https://www.bbc.co.uk/news/world-africa-58181836) - The payment marks the end of a long-running legal battle over a spill during the 1967-70 Biafran War.
+2. [Algeria forest fires: At least 65 people killed as fires spread](https://www.bbc.co.uk/news/world-africa-58174918) - At least 65 people have been killed as the fires continue to spread amid an intense heatwave.
 3. [Dutch medallist - no regrets about quitting Ethiopia](https://www.bbc.co.uk/sport/africa/58159734) - Dutch triple Olympic medallist Sifan Hassan has no regrets over leaving Ethiopia and calls for peace to stop more athletes following suit.
 4. [Wagner: Scale of Russian mercenary mission in Libya exposed](https://www.bbc.co.uk/news/world-africa-58009514) - A Samsung tablet obtained by the BBC unveils chilling details of how mercenaries fought in Libya’s war.
 5. [Ethiopia using rape as a strategy in Tigray war - Amnesty](https://www.bbc.co.uk/news/world-africa-58167818) - Sexual violations during the conflict in Tigray amount to war crimes, the rights group says.

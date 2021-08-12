@@ -16,7 +16,7 @@
 16. [Wagner: Scale of Russian mercenary mission in Libya exposed](https://www.bbc.co.uk/news/world-africa-58009514) - A Samsung tablet obtained by the BBC unveils chilling details of how mercenaries fought in Libya’s war.
 17. [The shopkeeper saving his island from wildfires](https://www.bbc.co.uk/news/world-europe-58177493) - Spyros isn't a firefighter, but when his home was threatened with wildfires, he decided to take action.
 18. [Afghanistan war: Do the Taliban want to conquer or compromise?](https://www.bbc.co.uk/news/world-asia-58181670) - The BBC speaks to two high profile figures in its chain of command who have very different messages.
-19. [The illegal gold mines killing rivers and livelihoods in Ghana](https://www.bbc.co.uk/news/world-africa-58119653) - Sixty percent of Ghana's water bodies are now polluted, largely due to illegal mining operations.
-20. [Cuomo resigns as New York governor](https://www.bbc.co.uk/news/world-us-canada-58165667) - New York Governor Andrew Cuomo announces his resignation after sexual harassment inquiry.
-21. [Lithuania blames Belarus for migrant crisis](https://www.bbc.co.uk/news/world-europe-58121577) - Over 4,000 people are reported to have crossed in Lithuania in recent months.
-22. [Afghanistan: Taliban seizure will challenge West - Gen Sir Nick Carter](https://www.bbc.co.uk/news/world-asia-58158658) - The chief of the defence staff on difficulties ahead if the Taliban illegitimately seize control.
+19. [Afghanistan war: Veterans reflect on troops leaving country](https://www.bbc.co.uk/news/uk-wales-58181826) - The two veterans have opposing views on whether the conflict has had a positive effect.
+20. [The illegal gold mines killing rivers and livelihoods in Ghana](https://www.bbc.co.uk/news/world-africa-58119653) - Sixty percent of Ghana's water bodies are now polluted, largely due to illegal mining operations.
+21. [Cuomo resigns as New York governor](https://www.bbc.co.uk/news/world-us-canada-58165667) - New York Governor Andrew Cuomo announces his resignation after sexual harassment inquiry.
+22. [Lithuania blames Belarus for migrant crisis](https://www.bbc.co.uk/news/world-europe-58121577) - Over 4,000 people are reported to have crossed in Lithuania in recent months.
