@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 12 Aug 2021 14:04:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Aug 2021 14:20:47 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -79,6 +79,13 @@
             <pubDate>Thu, 12 Aug 2021 10:14:07 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Edinburgh food charity's delivery van found after theft]]></title>
+            <description><![CDATA[The white Transit van owned by Edinburgh Community Food was stolen in Leith but was recovered in nearby Newhaven.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-58175279</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-58175279</guid>
+            <pubDate>Thu, 12 Aug 2021 14:09:21 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Work on new Edinburgh concert hall set to start next year]]></title>
             <description><![CDATA[A scaled-back design means the backers of Edinburgh's Dunard Centre are hopeful construction can begin in 2022.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-58186538</link>
@@ -91,20 +98,6 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-58177865</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-58177865</guid>
             <pubDate>Thu, 12 Aug 2021 05:08:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kinloch Castle: 'Right owner' sought for historic Rum lodge]]></title>
-            <description><![CDATA[NatureScot says it has been working to find a "beneficial owner" of Rum's Kinloch Castle over the past few years.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-highlands-islands-58170779</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-highlands-islands-58170779</guid>
-            <pubDate>Thu, 12 Aug 2021 05:10:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Murder probe after man's body found at fire in Glasgow park]]></title>
-            <description><![CDATA[Police believe the 31-year-old, whose remains were discovered in a Glasgow park, was the victim of a targeted attack.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58177870</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58177870</guid>
-            <pubDate>Wed, 11 Aug 2021 20:35:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid in Scotland: Where are the latest cases?]]></title>
@@ -154,6 +147,13 @@
             <link>https://www.bbc.co.uk/news/world-51235105</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-51235105</guid>
             <pubDate>Mon, 09 Aug 2021 09:47:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kinloch Castle: 'Right owner' sought for historic Rum lodge]]></title>
+            <description><![CDATA[NatureScot says it has been working to find a "beneficial owner" of Rum's Kinloch Castle over the past few years.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-highlands-islands-58170779</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-highlands-islands-58170779</guid>
+            <pubDate>Thu, 12 Aug 2021 05:10:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['I'm going into S6 and have never done a proper exam']]></title>

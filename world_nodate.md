@@ -5,10 +5,10 @@
 5. [Hamas rocket fire a war crime, Human Rights Watch says](https://www.bbc.co.uk/news/world-middle-east-58183968) - The attacks, which killed 13 people in Israel in May, violated the laws of war, a probe finds.
 6. [Brazil Congress expels lawmaker over murder charges](https://www.bbc.co.uk/news/world-latin-america-58171370) - Gospel singer turned lawmaker Flordelis de Souza is accused of ordering the murder of her husband.
 7. [Tokyo Olympic gold medal replaced after first got bitten](https://www.bbc.co.uk/news/world-asia-58186002) - The mayor of softball athlete Miu Goto's hometown prompted outrage after chomping on her medal.
-8. [Tourist helicopter crashes into Russian lake](https://www.bbc.co.uk/news/world-europe-58182420) - Eight people survived after a helicopter with 16 people crashed in the Far East region, reports say.
-9. [Turkish capital reels from violent protests against Syrians](https://www.bbc.co.uk/news/world-europe-58185612) - Protesters attacked houses owned by Syrians after tensions flared over reports of a fatal stabbing.
-10. [Cryptocurrency heist hacker returns $260m in funds](https://www.bbc.co.uk/news/business-58180692) - The hacker behind the $600m Poly Network cryptocurrency heist has posted a Q&A on the blockchain.
-11. [Picasso masterpieces to go on sale in blockbuster auction](https://www.bbc.co.uk/news/world-us-canada-58185744) - Proceeds could reach $100m in what is thought to be the most valuable auction of the artist's works.
+8. [Turkish capital reels from violent protests against Syrians](https://www.bbc.co.uk/news/world-europe-58185612) - Protesters attacked houses owned by Syrians after tensions flared over reports of a fatal stabbing.
+9. [Cryptocurrency heist hacker returns $260m in funds](https://www.bbc.co.uk/news/business-58180692) - The hacker behind the $600m Poly Network cryptocurrency heist has posted a Q&A on the blockchain.
+10. [Picasso masterpieces to go on sale in blockbuster auction](https://www.bbc.co.uk/news/world-us-canada-58185744) - Proceeds could reach $100m in what is thought to be the most valuable auction of the artist's works.
+11. [Russia holds hypersonic flight expert in spy probe](https://www.bbc.co.uk/news/world-europe-58186033) - Alexander Kuranov, detained by FSB agents, runs a team of pioneering spaceflight researchers.
 12. [Former K-pop star Seungri jailed for gambling and organising sex work](https://www.bbc.co.uk/news/world-asia-58185784) - Seungri, whose former band Big Bang has sold 140 million records, is given a three-year prison term.
 13. [Afghanistan: The people fleeing the north for safety in Kabul](https://www.bbc.co.uk/news/world-asia-58170433) - The Taliban has taken new territories in the north, forcing thousands out of their homes.
 14. [Berlin embassy arrest: A case of old-school spying?](https://www.bbc.co.uk/news/uk-58185957) - Why nothing in the case of the arrest of a man at the British Embassy in Berlin should surprise us.
