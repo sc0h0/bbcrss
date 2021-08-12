@@ -3,7 +3,7 @@
 3. [Russia holds hypersonic flight expert in spy probe](https://www.bbc.co.uk/news/world-europe-58186033) - Alexander Kuranov, detained by FSB agents, runs a team of pioneering spaceflight researchers.
 4. [Turkish capital reels from violent protests against Syrians](https://www.bbc.co.uk/news/world-europe-58185612) - Protesters attacked houses owned by Syrians after tensions flared over reports of a fatal stabbing.
 5. [UK and Russia ambassadors anger Iran by restaging WWII image](https://www.bbc.co.uk/news/world-middle-east-58186006) - Iran condemns an "inappropriate" image of the UK and Russian ambassadors recreating a wartime image.
-6. [Tourist helicopter crashes into Russian lake](https://www.bbc.co.uk/news/world-europe-58182420) - Eight people survived after a helicopter with 16 people crashed in the Far East region, reports say.
+6. [Wagner: Gaddafi's son faces arrest over Russian mercenaries](https://www.bbc.co.uk/news/world-africa-58191433) - A warrant is issued against Saif al-Islam Gaddafi after a BBC investigation into mercenaries in Libya.
 7. [Messi: What are the PSG fan tokens given to the footballer?](https://www.bbc.co.uk/news/world-58094912) - Paris St-Germain has given Messi a "large number" of fan tokens as part of his welcome package.
 8. [Berlin embassy arrest: A case of old-school spying?](https://www.bbc.co.uk/news/uk-58185957) - Why nothing in the case of the arrest of a man at the British Embassy in Berlin should surprise us.
 9. [Picasso masterpieces to go on sale in blockbuster auction](https://www.bbc.co.uk/news/world-us-canada-58185744) - Proceeds could reach $100m in what is thought to be the most valuable auction of the artist's works.

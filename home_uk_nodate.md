@@ -7,7 +7,7 @@
 7. [Streatham attack: Sudesh Amman's victim feared he would bleed to death](https://www.bbc.co.uk/news/uk-england-london-58187861) - The victim heard the phrase "he's not going to make it" after being stabbed by Sudesh Amman.
 8. [CJ Ujah: British Olympic silver medallist suspended after positive test for banned substance](https://www.bbc.co.uk/sport/athletics/58193101) - British sprinter CJ Ujah is suspended from competition after a positive test for a banned substance.
 9. [NHS waiting list in England hits record 5.45 million](https://www.bbc.co.uk/news/health-58186708) - Hospitals are working through the backlog - but some patients are waiting more than two years.
-10. [KFC blames supply issues for missing menu items](https://www.bbc.co.uk/news/business-58180308) - The fast food chain has warned customers menus will be missing items as a result of the supply problems.
+10. [KFC warns menu items missing due to supply issues](https://www.bbc.co.uk/news/business-58180308) - The fast food chain has warned customers menus will be missing items as a result of the supply problems.
 11. ['Slugs and mould' in quarantine hotels as prices rise](https://www.bbc.co.uk/news/uk-58108635) - Dirty rooms, bad food and unsafe conditions can be found in some of the UK’s quarantine hotels.
 12. [UK inhaler firm Vectura backs £1bn bid by Marlboro-maker](https://www.bbc.co.uk/news/business-58193391) - The bid by the maker of Marlboro cigarettes trumps a rival offer by US private equity firm Carlyle.
 13. [Half a million EU citizens await decision over right to stay in UK](https://www.bbc.co.uk/news/uk-58188657) - More than half a million EU citizens who have applied for settled status in the UK await a decision.

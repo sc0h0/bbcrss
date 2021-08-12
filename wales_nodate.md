@@ -1,4 +1,4 @@
-1. [Bridgend: Attempted murder arrest as boy, 2, critically ill in hospital](https://www.bbc.co.uk/news/uk-wales-58187028) - Police have arrested a 31-year-old woman and say the boy is in a critical condition in hospital.
+1. [Bridgend: Murder probe launched as boy, 2, dies](https://www.bbc.co.uk/news/uk-wales-58194706) - A 31-year-old woman has been arrested on suspicion of murder and remains in police custody.
 2. [GCSEs: Top grades show sharp increase on 2019](https://www.bbc.co.uk/news/uk-wales-58180628) - Pupils are praised for their "resilience" as more get top GCSE grades after studying through Covid.
 3. [Crickhowell rape: Man arrested after Powys attack](https://www.bbc.co.uk/news/uk-wales-58191699) - Dyfed-Powys Police said the suspect, arrested on Tuesday, has been released under investigation.
 4. [Doctor who did locum shifts while on sick would 'lie and lie'](https://www.bbc.co.uk/news/uk-wales-58191698) - Dr Joao Muel is facing 13 allegations of dishonesty and clinical failure in 2018 and 2019, tribunal hears.
@@ -20,8 +20,8 @@
 20. [Joe Cordina: Welsh boxer looking to make up for lost time](https://www.bbc.co.uk/sport/boxing/58189119) - Welsh boxer Joe Cordina is looking to continue his comeback against Joshuah Hernandez after enduring surgery and uncertainty.
 21. [One-Day Cup: Both sides through as Yorkshire edge Glamorgan](https://www.bbc.co.uk/sport/cricket/58166116) - Yorkshire reach the One-Day Cup quarter-finals with a four-run win over Glamorgan, who still top the group and earn a semi-final spot.
 22. [Viktoria Plzen 3-1 The New Saints (agg 5-5; Plzen win 4-1 pens): Saints crash out on penalties](https://www.bbc.co.uk/sport/football/58163343) - The New Saints lose a thrilling Europa Conference League tie on penalties in the second leg away to Czech side Viktoria Plzen.
-23. [Mwy yn cael y graddau TGAU uchaf yng Nghymru](https://www.bbc.co.uk/newyddion/58175746) - Disgyblion TGAU yn derbyn eu canlyniadau, gyda dros chwarter y graddau yn A neu A*.
-24. [Arestio menyw ar amheuaeth o geisio llofruddio bachgen](https://www.bbc.co.uk/newyddion/58186503) - Mae'r bachgen dyflwydd oed mewn cyflwr difrifol yn yr ysbyty wedi digwyddiad ym Mhen-y-bont ar Ogwr.
+23. [Arestio menyw ar amheuaeth o lofruddio bachgen](https://www.bbc.co.uk/newyddion/58186503) - Mae'r heddlu wedi lansio ymchwiliad llofruddiaeth yn dilyn marwolaeth bachgen dyflwydd oed a oedd mewn cyflwr difrifol yn yr ysbyty wedi digwyddiad ym Mhen-y-bont ar Ogwr.
+24. [Mwy yn cael y graddau TGAU uchaf yng Nghymru](https://www.bbc.co.uk/newyddion/58175746) - Disgyblion TGAU yn derbyn eu canlyniadau, gyda dros chwarter y graddau yn A neu A*.
 25. [Viktoria Plzen 4-1 Y Seintiau Newydd](https://www.bbc.co.uk/newyddion/58194977) - Y Seintiau allan o Gynghrair Ewropa ar ôl hunllef ciciau o'r smotyn.
 26. [Cerdyn post oddi wrth... Mari Lovgreen](https://www.bbc.co.uk/newyddion/58173010) - Y gyflwynwraig sy'n anfon cyfarchion o'i gwyliau gartref.
 27. [Colled i Forgannwg, ond yn dal ar frig y grŵp](https://www.bbc.co.uk/newyddion/58194976) - Morgannwg yn sicrhau gêm gartref yn y rowndiau terfynol er colli i Sir Efrog yng Ngerddi Soffia.
