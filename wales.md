@@ -1,4 +1,4 @@
-1. [GCSEs: Exams 'definitely' have place in Wales' future](https://www.bbc.co.uk/news/uk-wales-58180628) - Thu, 12 Aug 2021 05:02:32 GMT - The head of the qualifications watchdog says pupils would be "let down" if they were scrapped.
+1. [GCSEs: Exams 'definitely' have place in Wales' future](https://www.bbc.co.uk/news/uk-wales-58180628) - Thu, 12 Aug 2021 06:41:30 GMT - The head of the qualifications watchdog says pupils would be "let down" if they were scrapped.
 2. [Afghanistan war: Veterans reflect on troops leaving country](https://www.bbc.co.uk/news/uk-wales-58181826) - Thu, 12 Aug 2021 05:02:51 GMT - The two veterans have opposing views on whether the conflict has had a positive effect.
 3. [Georgia shipwreck: Welsh kit to help Golden Ray clean-up](https://www.bbc.co.uk/news/uk-wales-58174475) - Thu, 12 Aug 2021 05:44:29 GMT - About a million gallons of contaminated mud needs to be treated from the remains of the ship.
 4. [Cardiff: Three in court charged with Bute Park murder](https://www.bbc.co.uk/news/uk-wales-58177615) - Wed, 11 Aug 2021 14:33:04 GMT - Dr Gary Jenkins died 16 days after he was attacked in the city centre park on 20 July.
