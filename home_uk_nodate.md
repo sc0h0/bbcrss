@@ -1,5 +1,5 @@
 1. [Afghanistan: UK troops sent to get Britons out as Taliban advances](https://www.bbc.co.uk/news/uk-58195286) - Around 600 troops will be deployed on a short-term basis after the Taliban seized several cities.
-2. [Emergency services respond to incident in Keyham in Plymouth](https://www.bbc.co.uk/news/uk-england-devon-58189679) - Members of the public are being warned to stay indoors by a local MP as the incident unfolds.
+2. [Emergency services respond to incident in Keyham in Plymouth](https://www.bbc.co.uk/news/uk-england-devon-58189679) - A local MP has urged residents to stay indoors and to follow police advice.
 3. [Afghanistan: Major cities fall to Taliban amid heavy fighting](https://www.bbc.co.uk/news/world-asia-58184202) - Militants now control many of Afghanistan's key regional cities, including Herat and Ghazni.
 4. [Record GCSE results after second year of no exams](https://www.bbc.co.uk/news/education-58174253) - Record high GCSE grades in a second year of exams disrupted by the pandemic.
 5. [Actress Una Stubbs dies aged 84](https://www.bbc.co.uk/news/entertainment-arts-58190446) - She was known for her roles in shows like Worzel Gummidge, Till Death Us Do Part and Sherlock.
