@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 12 Aug 2021 17:01:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Aug 2021 17:25:10 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -44,18 +44,18 @@
             <pubDate>Thu, 12 Aug 2021 14:33:11 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[TRNSMT fans must show proof of negative Covid test]]></title>
+            <description><![CDATA[Ticket-holders are required to take a lateral flow test 48 hours before arriving at the event in Glasgow.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58187779</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58187779</guid>
+            <pubDate>Thu, 12 Aug 2021 17:05:30 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[New guidance on supporting transgender pupils in schools]]></title>
             <description><![CDATA[The Scottish government says the advice is not prescriptive and does not promote transitioning.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-58186268</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58186268</guid>
             <pubDate>Thu, 12 Aug 2021 10:18:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[SSPCA call for Dangerous Dogs Act to judge 'deeds not breeds']]></title>
-            <description><![CDATA[Campaigners say certain breeds should be rehomed rather than put down if they go into care.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-58186176</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58186176</guid>
-            <pubDate>Thu, 12 Aug 2021 11:15:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Man dies and three injured in A74(M) crash]]></title>
@@ -70,6 +70,13 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-tayside-central-58188220</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-tayside-central-58188220</guid>
             <pubDate>Thu, 12 Aug 2021 16:11:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[SSPCA call for Dangerous Dogs Act to judge 'deeds not breeds']]></title>
+            <description><![CDATA[Campaigners say certain breeds should be rehomed rather than put down if they go into care.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-58186176</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58186176</guid>
+            <pubDate>Thu, 12 Aug 2021 11:15:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid in Scotland: Hospitals under more pressure than ever, say medics]]></title>
@@ -238,20 +245,6 @@
             <link>https://www.bbc.co.uk/sport/athletics/58181178</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/athletics/58181178</guid>
             <pubDate>Thu, 12 Aug 2021 07:35:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Scottish Gossip: Celtic, Rangers, Hearts, Dundee Utd, Morelos, Everton, Souttar, Porto, Fuchs, Juranovic, Henry, Henderson, Legia Warsaw]]></title>
-            <description><![CDATA[Celtic reportedly hold talks with Legia Warsaw right-back Josip Juranovic as Porto eye a cut-price deal for Rangers striker Alfredo Morelos.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58184064</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58184064</guid>
-            <pubDate>Thu, 12 Aug 2021 07:08:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Celtic v Jablonec: Ange Postecoglou 'not concerned' by Edouard's future]]></title>
-            <description><![CDATA[Celtic manager Ange Postecoglou says he is "not concerned" about Odsonne Edouard's future, but admits the club are worried the striker could leave for free next summer.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58138071</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58138071</guid>
-            <pubDate>Wed, 11 Aug 2021 14:02:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
