@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 12 Aug 2021 07:14:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Aug 2021 07:23:31 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -23,11 +23,25 @@
             <pubDate>Thu, 12 Aug 2021 00:22:09 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[GCSES 2021: Higher results expected after exams axed]]></title>
+            <description><![CDATA[Pupils are finding out their GCSE results, as a second year of bumper grades is predicted.]]></description>
+            <link>https://www.bbc.co.uk/news/education-58174253</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/education-58174253</guid>
+            <pubDate>Thu, 12 Aug 2021 00:39:41 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Afghanistan: Ex-Tory ministers attack Biden over troops pullout]]></title>
             <description><![CDATA[Tory politicians say it is not too late for UK troops to stay - but the government rules it out.]]></description>
             <link>https://www.bbc.co.uk/news/uk-politics-58177193</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-58177193</guid>
             <pubDate>Wed, 11 Aug 2021 16:45:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[UK economy grows 4.8% as Covid restrictions ease]]></title>
+            <description><![CDATA[Retail, restaurants and hotels show strong growth between April and June but data misses forecasts.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-58183519</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58183519</guid>
+            <pubDate>Thu, 12 Aug 2021 07:12:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[David Cameron in row over promoting genetics firm Illumina]]></title>
@@ -37,18 +51,18 @@
             <pubDate>Wed, 11 Aug 2021 17:57:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Briton suspected of spying for Russia arrested in Germany]]></title>
-            <description><![CDATA[German federal prosecutors say the British man passed documents to Russian intelligence for cash.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58170872</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58170872</guid>
-            <pubDate>Wed, 11 Aug 2021 22:39:53 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[A-levels: Warning over private and state school gap]]></title>
             <description><![CDATA[The former school recovery tsar warns of growing educational inequality as a result of the pandemic.]]></description>
             <link>https://www.bbc.co.uk/news/education-58172292</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/education-58172292</guid>
             <pubDate>Wed, 11 Aug 2021 12:48:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Operation Brock: Brexit lorry controls 'could stay']]></title>
+            <description><![CDATA[Lorry controls brought in for Brexit could stay - in case of any type of disruption near the border.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-kent-58170463</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-kent-58170463</guid>
+            <pubDate>Wed, 11 Aug 2021 09:05:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Gurkha veterans on hunger strike outside Downing Street]]></title>
@@ -58,11 +72,11 @@
             <pubDate>Wed, 11 Aug 2021 13:53:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Operation Brock: Brexit lorry controls 'could stay']]></title>
-            <description><![CDATA[Lorry controls brought in for Brexit could stay - in case of any type of disruption near the border.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-kent-58170463</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-kent-58170463</guid>
-            <pubDate>Wed, 11 Aug 2021 09:05:59 GMT</pubDate>
+            <title><![CDATA[Briton suspected of spying for Russia arrested in Germany]]></title>
+            <description><![CDATA[German federal prosecutors say the British man passed documents to Russian intelligence for cash.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58170872</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58170872</guid>
+            <pubDate>Wed, 11 Aug 2021 22:39:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: Tories accuse Starmer of hypocrisy over travel tests]]></title>
