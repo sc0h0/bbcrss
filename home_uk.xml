@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 12 Aug 2021 18:52:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Aug 2021 19:05:40 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Afghanistan: UK troops sent to get Britons out]]></title>
+            <description><![CDATA[Around 600 troops will be deployed on a short-term basis after the Taliban seized several cities.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-58195286</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58195286</guid>
+            <pubDate>Thu, 12 Aug 2021 19:04:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Afghanistan: Taliban take 11th provincial capital as Ghazni and Herat fall]]></title>
             <description><![CDATA[Militants have overrun Ghazni and Herat, and now control a third of Afghanistan's regional cities.]]></description>
@@ -65,13 +72,6 @@
             <pubDate>Thu, 12 Aug 2021 18:18:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid-19: Record GCSE results and economy rebounds as restrictions ease]]></title>
-            <description><![CDATA[Five things you need to know about the coronavirus pandemic this Thursday evening.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58188635</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58188635</guid>
-            <pubDate>Thu, 12 Aug 2021 15:50:49 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[NHS waiting list in England hits record 5.45 million]]></title>
             <description><![CDATA[Hospitals are working through the backlog - but some patients are waiting more than two years.]]></description>
             <link>https://www.bbc.co.uk/news/health-58186708</link>
@@ -86,11 +86,11 @@
             <pubDate>Thu, 12 Aug 2021 17:22:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Rapper Nines admits plot to import cannabis]]></title>
-            <description><![CDATA[The chart-topping musician and another man have been remanded in custody ahead of sentencing.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-london-58190579</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-58190579</guid>
-            <pubDate>Thu, 12 Aug 2021 14:30:30 GMT</pubDate>
+            <title><![CDATA['Slugs and mould' in quarantine hotels as prices rise]]></title>
+            <description><![CDATA[Dirty rooms, bad food and unsafe conditions can be found in some of the UK’s quarantine hotels.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-58108635</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58108635</guid>
+            <pubDate>Thu, 12 Aug 2021 18:48:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[UK inhaler firm Vectura backs £1bn bid by Marlboro-maker]]></title>
@@ -294,6 +294,13 @@
             <link>https://www.bbc.co.uk/sport/formula1/58190803</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/formula1/58190803</guid>
             <pubDate>Thu, 12 Aug 2021 13:50:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is new boss Nagelsmann facing Bayern turmoil already?]]></title>
+            <description><![CDATA[With only two signings made and not enough time on the training field - does new boss Julian Nagelsmann face early trouble at Bayern Munich?]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58158867</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58158867</guid>
+            <pubDate>Thu, 12 Aug 2021 06:06:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[GCSE results 2021: Exams triumph for boy who spent year in hospital]]></title>
