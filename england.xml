@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 12 Aug 2021 08:44:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Aug 2021 08:54:17 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -58,11 +58,11 @@
             <pubDate>Thu, 12 Aug 2021 05:38:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid: Blackpool tops post-lockdown footfall recovery list]]></title>
-            <description><![CDATA[Blackpool's footfall since restrictions were eased is higher than it was before the pandemic, a study finds.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-lancashire-58170980</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-lancashire-58170980</guid>
-            <pubDate>Thu, 12 Aug 2021 05:54:45 GMT</pubDate>
+            <title><![CDATA[A64 Tadcaster: Delays as crane fire closes road]]></title>
+            <description><![CDATA[The blaze on the A64 near York has closed the road and is causing long tailbacks.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-58184494</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-58184494</guid>
+            <pubDate>Thu, 12 Aug 2021 08:28:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bilsdale transmitter fire: TV and radio services largely restored]]></title>
@@ -128,6 +128,13 @@
             <pubDate>Mon, 09 Aug 2021 12:09:40 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid: Blackpool tops post-lockdown footfall recovery list]]></title>
+            <description><![CDATA[Blackpool's footfall since restrictions were eased is higher than it was before the pandemic, a study finds.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-lancashire-58170980</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-lancashire-58170980</guid>
+            <pubDate>Thu, 12 Aug 2021 05:54:45 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Appleby Horse Fair: Gypsies and travellers gather for postponed spectacle]]></title>
             <description><![CDATA[The annual meeting of Gypsy, Romany and travelling communities usually takes place in June.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-cumbria-58184220</link>
@@ -135,11 +142,11 @@
             <pubDate>Thu, 12 Aug 2021 08:04:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Long delays as crane fire closes road]]></title>
-            <description><![CDATA[The blaze on the A64 near York has closed the road and is causing long tailbacks.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-58184494</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-58184494</guid>
-            <pubDate>Thu, 12 Aug 2021 08:28:01 GMT</pubDate>
+            <title><![CDATA[Lulworth cliff rescue: Two teen climbers winched to safety]]></title>
+            <description><![CDATA[The two boys are winched to safety during the rescue operation on Dorset's Jurassic Coast.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-dorset-58185121</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-dorset-58185121</guid>
+            <pubDate>Thu, 12 Aug 2021 08:43:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[National Trust adapts Oxburgh Hall's roof tiles for bats]]></title>
@@ -163,6 +170,13 @@
             <pubDate>Wed, 11 Aug 2021 22:00:06 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[England v India: Batsman Ollie Pope released from squad for second Test]]></title>
+            <description><![CDATA[England batsman Ollie Pope is released from the squad to face India in the second Test at Lord's.]]></description>
+            <link>https://www.bbc.co.uk/sport/cricket/58185438</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/58185438</guid>
+            <pubDate>Thu, 12 Aug 2021 08:44:41 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[England v India: Stuart Broad out of series - James Anderson doubt for second Test]]></title>
             <description><![CDATA[Stuart Broad will miss the remainder of England's series against India because of a calf tear and James Anderson is a doubt for the second Test.]]></description>
             <link>https://www.bbc.co.uk/sport/cricket/58169608</link>
@@ -182,13 +196,6 @@
             <link>https://www.bbc.co.uk/sport/football/58180834</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58180834</guid>
             <pubDate>Wed, 11 Aug 2021 18:57:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Johanna Konta beats Elina Svitolina to reach Canadian Open third round]]></title>
-            <description><![CDATA[British number one Johanna Konta fights back from a set down to defeat third seed Elina Svitolina and reach the Canadian Open third round.]]></description>
-            <link>https://www.bbc.co.uk/sport/tennis/58179319</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/tennis/58179319</guid>
-            <pubDate>Thu, 12 Aug 2021 06:02:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
