@@ -1,9 +1,9 @@
-1. [Afghanistan: UK troops sent to get Britons out](https://www.bbc.co.uk/news/uk-58195286) - Around 600 troops will be deployed on a short-term basis after the Taliban seized several cities.
+1. [Afghanistan: UK troops sent to get Britons out as Taliban advances](https://www.bbc.co.uk/news/uk-58195286) - Around 600 troops will be deployed on a short-term basis after the Taliban seized several cities.
 2. [Afghanistan: Taliban take 11th provincial capital as Ghazni and Herat fall](https://www.bbc.co.uk/news/world-asia-58184202) - Militants have overrun Ghazni and Herat, and now control a third of Afghanistan's regional cities.
 3. [Record GCSE results after second year of no exams](https://www.bbc.co.uk/news/education-58174253) - Record high GCSE grades in a second year of exams disrupted by the pandemic.
 4. [Actress Una Stubbs dies aged 84](https://www.bbc.co.uk/news/entertainment-arts-58190446) - She was known for her roles in shows like Worzel Gummidge, Till Death Us Do Part and Sherlock.
-5. [UK police involved for months in embassy spy case - Met boss](https://www.bbc.co.uk/news/uk-58185952) - A man working for the British Embassy was arrested near Berlin accused of spying for Russia.
-6. [Olympic Gadirova twins 'thrilled' at school grades](https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-58187027) - The 16-year-old Olympic medallists plan to stay on to study sport and management while competing.
+5. [Emergency services respond to incident in Keyham in Plymouth](https://www.bbc.co.uk/news/uk-england-devon-58189679) - Police, multiple ambulances and air ambulances were called to Keyham in Plymouth this evening.
+6. [UK police involved for months in embassy spy case - Met boss](https://www.bbc.co.uk/news/uk-58185952) - A man working for the British Embassy was arrested near Berlin accused of spying for Russia.
 7. [Streatham attack: Sudesh Amman's victim feared he would bleed to death](https://www.bbc.co.uk/news/uk-england-london-58187861) - The victim heard the phrase "he's not going to make it" after being stabbed by Sudesh Amman.
 8. [CJ Ujah: British Olympic silver medallist suspended after positive test for banned substance](https://www.bbc.co.uk/sport/athletics/58193101) - British sprinter CJ Ujah is suspended from competition after a positive test for a banned substance.
 9. [NHS waiting list in England hits record 5.45 million](https://www.bbc.co.uk/news/health-58186708) - Hospitals are working through the backlog - but some patients are waiting more than two years.

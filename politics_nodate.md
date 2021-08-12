@@ -1,4 +1,4 @@
-1. [UK troops sent to get Britons out of Afghanistan](https://www.bbc.co.uk/news/uk-58195286) - Around 600 UK troops are to be deployed to Afghanistan to assist British nationals to leave.
+1. [Afghanistan: UK troops sent to get Britons out as Taliban advances](https://www.bbc.co.uk/news/uk-58195286) - Around 600 troops will be deployed on a short-term basis after the Taliban seized several cities.
 2. [Sturgeon urges UK government to reassess Cambo oil field plan](https://www.bbc.co.uk/news/uk-scotland-58186181) - The first minister says proposals should be re-examined due to the severity of the climate emergency.
 3. [Starmer rejects McCluskey's claim Labour could be finished under his leadership](https://www.bbc.co.uk/news/uk-politics-58188208) - The Unite boss warns Labour could "go under" if Sir Keir Starmer remains leader, in a new autobiography.
 4. [Electric cars: Do ministers put their motor where their mouth is?](https://www.bbc.co.uk/news/uk-politics-58170665) - Politicians are keen for us to live greener lives, but how many have taken the electric car plunge?
