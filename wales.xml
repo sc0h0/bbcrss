@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 12 Aug 2021 10:22:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Aug 2021 10:36:06 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -30,6 +30,13 @@
             <pubDate>Thu, 12 Aug 2021 09:59:08 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Abercynon Road: Man charged after car crashed into vehicles]]></title>
+            <description><![CDATA[A man, charged with drink driving, will appear before magistrates after being charged.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-58184062</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58184062</guid>
+            <pubDate>Thu, 12 Aug 2021 10:19:15 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Covid recovery: More new jobs in Gwynedd areas than Cardiff, report says]]></title>
             <description><![CDATA[A think-tank says cities are "lagging behind", while a holiday boom is seeing more jobs elsewhere.]]></description>
             <link>https://www.bbc.co.uk/news/uk-wales-58184055</link>
@@ -44,18 +51,18 @@
             <pubDate>Thu, 12 Aug 2021 07:12:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Georgia shipwreck: Welsh kit to help Golden Ray clean-up]]></title>
-            <description><![CDATA[About a million gallons of contaminated mud needs to be treated from the remains of the ship.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-58174475</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58174475</guid>
-            <pubDate>Thu, 12 Aug 2021 05:44:29 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Afghanistan war: Veterans reflect on troops leaving country]]></title>
             <description><![CDATA[The two veterans have opposing views on whether the conflict has had a positive effect.]]></description>
             <link>https://www.bbc.co.uk/news/uk-wales-58181826</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58181826</guid>
             <pubDate>Thu, 12 Aug 2021 05:02:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Georgia shipwreck: Welsh kit to help Golden Ray clean-up]]></title>
+            <description><![CDATA[About a million gallons of contaminated mud needs to be treated from the remains of the ship.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-58174475</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58174475</guid>
+            <pubDate>Thu, 12 Aug 2021 05:44:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Mumbles: Boy, 12, in hospital after open-top bus crash]]></title>
@@ -84,13 +91,6 @@
             <link>https://www.bbc.co.uk/news/uk-wales-58172031</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58172031</guid>
             <pubDate>Wed, 11 Aug 2021 15:26:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Climate change: Fisherman stops farming mussels due to hot weather]]></title>
-            <description><![CDATA[A shellfish farmer says its no longer viable to continue farming mussels due to warmer temperatures.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-58172032</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58172032</guid>
-            <pubDate>Wed, 11 Aug 2021 11:06:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Greece wildfires: 12-hour days for Welsh firefighter]]></title>
