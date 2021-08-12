@@ -1,5 +1,5 @@
 1. [UK inhaler firm Vectura backs £1bn bid by Marlboro-maker](https://www.bbc.co.uk/news/business-58193391) - The bid by the maker of Marlboro cigarettes trumps a rival offer by US private equity firm Carlyle.
-2. [KFC suffers supply shortage for food and packaging](https://www.bbc.co.uk/news/business-58180308) - The fast food chain has warned customers menus will be missing items as a result of the supply problems.
+2. [KFC blames supply issues for missing menu items](https://www.bbc.co.uk/news/business-58180308) - The fast food chain has warned customers menus will be missing items as a result of the supply problems.
 3. [Pret a Manger makes staff pay cuts permanent](https://www.bbc.co.uk/news/business-58186299) - The firm had said unpaid breaks would be temporary but trade remains "significantly below" pre-Covid levels.
 4. [Tui boss: UK falling behind European travel recovery](https://www.bbc.co.uk/news/business-58184088) - UK bookings lag the rest of Europe amid shifting Covid travel restrictions, the travel giant says.
 5. [UK economy rebounds as Covid restrictions ease](https://www.bbc.co.uk/news/uk-58183519) - Retail, restaurants and hotels show strong growth between April and June but data misses forecasts.
