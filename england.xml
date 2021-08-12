@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 12 Aug 2021 15:17:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Aug 2021 15:35:31 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -198,18 +198,18 @@
             <pubDate>Thu, 12 Aug 2021 12:00:19 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Chelsea: Manufacturing issue could see some fans miss season opener]]></title>
+            <description><![CDATA[Chelsea warn fans there could be a seating issue which may prevent some from attending their Premier League opener against Crystal Palace]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58185651</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58185651</guid>
+            <pubDate>Thu, 12 Aug 2021 15:32:48 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Leeds United: Marcelo Bielsa declares contract situation 'resolved']]></title>
             <description><![CDATA[Leeds United head coach Marcelo Bielsa says his contract situation has been "resolved" ahead of Saturday's Premier League opener at Manchester United.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58183586</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58183586</guid>
             <pubDate>Thu, 12 Aug 2021 13:53:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Challenge Cup final to move from Wembley to Tottenham Hotspur Stadium]]></title>
-            <description><![CDATA[The 2022 Challenge Cup final will take place at the Tottenham Hotspur Stadium instead of its traditional Wembley home.]]></description>
-            <link>https://www.bbc.co.uk/sport/rugby-league/58185334</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-league/58185334</guid>
-            <pubDate>Thu, 12 Aug 2021 09:42:22 GMT</pubDate>
         </item>
     </channel>
 </rss>

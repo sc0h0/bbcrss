@@ -1,4 +1,4 @@
-1. [Afghanistan: Taliban take 10th provincial capital as Ghazni falls](https://www.bbc.co.uk/news/world-asia-58184202) - The fall of Ghazni, south-west of Kabul, brings the militants closer to the Afghan capital.
+1. [Afghanistan: Taliban take 10th provincial capital as Ghazni falls](https://www.bbc.co.uk/news/world-asia-58184202) - Militants have overrun Ghazni while there is heavy fighting in the cities of Herat and Kandahar.
 2. [Afghanistan war: Do the Taliban want to conquer or compromise?](https://www.bbc.co.uk/news/world-asia-58181670) - The BBC speaks to two high profile figures in its chain of command who have very different messages.
 3. [Tokyo 2020: Meet Tokyo's youngest Olympic champion](https://www.bbc.co.uk/news/world-asia-58168591) - Japan's Momiji Nishiya won the first women’s street skateboarding gold in the sport's Olympic debut.
 4. [Kinnaur: At least 13 dead and dozens trapped in India landslide](https://www.bbc.co.uk/news/world-asia-india-58171679) - Boulders fall on a Himalayan highway, killing at least 13 people and trapping many more.
