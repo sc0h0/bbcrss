@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 12 Aug 2021 11:14:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Aug 2021 11:22:33 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Google search led to arrest of cleared campaigner]]></title>
+            <description><![CDATA[An innocent housing campaigner was suspected of hacking after sharing documents he found online.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-58165478</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-58165478</guid>
+            <pubDate>Thu, 12 Aug 2021 11:12:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Cryptocurrency heist hacker returns $260m in funds]]></title>
             <description><![CDATA[The hacker behind the $600m Poly Network cryptocurrency heist has posted a Q&A on the blockchain.]]></description>
@@ -91,20 +98,6 @@
             <link>https://www.bbc.co.uk/news/business-58168547</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58168547</guid>
             <pubDate>Wed, 11 Aug 2021 05:15:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Twitter algorithm prefers slimmer, younger, light-skinned faces]]></title>
-            <description><![CDATA[A Twitter-sponsored competition to discover bias in its image algorithm finds precisely that.]]></description>
-            <link>https://www.bbc.co.uk/news/technology-58159723</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-58159723</guid>
-            <pubDate>Tue, 10 Aug 2021 16:17:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Social media abuse: Twitter says UK 'by far' main origin of comments after Euro 2020 final]]></title>
-            <description><![CDATA[The UK was "by far" the main origin of the "abhorrent racist abuse" on Twitter after England lost the Euro 2020 final, says the social media platform.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58159878</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58159878</guid>
-            <pubDate>Tue, 10 Aug 2021 15:14:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Classic Bentleys and Rolls-Royce adapted to fully electric]]></title>
