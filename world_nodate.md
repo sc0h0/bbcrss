@@ -16,8 +16,8 @@
 16. [Kathy Hochul: Who is New York's first female governor?](https://www.bbc.co.uk/news/world-us-canada-58167825) - The history-making Democrat will take the role after Andrew Cuomo resigned over harassment claims.
 17. [Wagner: Scale of Russian mercenary mission in Libya exposed](https://www.bbc.co.uk/news/world-africa-58009514) - A Samsung tablet obtained by the BBC unveils chilling details of how mercenaries fought in Libya’s war.
 18. [The shopkeeper saving his island from wildfires](https://www.bbc.co.uk/news/world-europe-58177493) - Spyros isn't a firefighter, but when his home was threatened with wildfires, he decided to take action.
-19. [Afghanistan war: Do the Taliban want to conquer or compromise?](https://www.bbc.co.uk/news/world-asia-58181670) - The BBC speaks to two high profile figures in its chain of command who have very different messages.
-20. [Afghanistan war: Veterans reflect on troops leaving country](https://www.bbc.co.uk/news/uk-wales-58181826) - The two veterans have opposing views on whether the conflict has had a positive effect.
-21. [Tokyo 2020: Meet Tokyo's youngest Olympic champion](https://www.bbc.co.uk/news/world-asia-58168591) - Japan's Momiji Nishiya won the first women’s street skateboarding gold in the sport's Olympic debut.
-22. [The illegal gold mines killing rivers and livelihoods in Ghana](https://www.bbc.co.uk/news/world-africa-58119653) - Sixty percent of Ghana's water bodies are now polluted, largely due to illegal mining operations.
-23. [Cuomo resigns as New York governor](https://www.bbc.co.uk/news/world-us-canada-58165667) - New York Governor Andrew Cuomo announces his resignation after sexual harassment inquiry.
+19. [Northern Turkey hit by severe flash flooding](https://www.bbc.co.uk/news/world-58194460) - Seventeen people have reportedly died, with more than 1,400 people evacuated from the areas affected.
+20. [Afghanistan war: Do the Taliban want to conquer or compromise?](https://www.bbc.co.uk/news/world-asia-58181670) - The BBC speaks to two high profile figures in its chain of command who have very different messages.
+21. [Afghanistan war: Veterans reflect on troops leaving country](https://www.bbc.co.uk/news/uk-wales-58181826) - The two veterans have opposing views on whether the conflict has had a positive effect.
+22. [Tokyo 2020: Meet Tokyo's youngest Olympic champion](https://www.bbc.co.uk/news/world-asia-58168591) - Japan's Momiji Nishiya won the first women’s street skateboarding gold in the sport's Olympic debut.
+23. [The illegal gold mines killing rivers and livelihoods in Ghana](https://www.bbc.co.uk/news/world-africa-58119653) - Sixty percent of Ghana's water bodies are now polluted, largely due to illegal mining operations.
