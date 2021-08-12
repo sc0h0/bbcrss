@@ -1,4 +1,4 @@
-1. [Afghanistan: Taliban take 11th provincial capital as Ghazni and Herat fall](https://www.bbc.co.uk/news/world-asia-58184202) - Militants have overrun Ghazni and Herat, and now control a third of Afghanistan's regional cities.
+1. [Afghanistan: Major cities fall to Taliban amid heavy fighting](https://www.bbc.co.uk/news/world-asia-58184202) - Militants now control many of Afghanistan's key regional cities, including Herat and Ghazni.
 2. [Afghanistan war: Do the Taliban want to conquer or compromise?](https://www.bbc.co.uk/news/world-asia-58181670) - The BBC speaks to two high profile figures in its chain of command who have very different messages.
 3. [Tokyo 2020: Meet Tokyo's youngest Olympic champion](https://www.bbc.co.uk/news/world-asia-58168591) - Japan's Momiji Nishiya won the first women’s street skateboarding gold in the sport's Olympic debut.
 4. [Kinnaur: At least 13 dead and dozens trapped in India landslide](https://www.bbc.co.uk/news/world-asia-india-58171679) - Boulders fall on a Himalayan highway, killing at least 13 people and trapping many more.

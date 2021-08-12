@@ -1,4 +1,4 @@
-1. [Afghanistan: Taliban take 11th provincial capital as Ghazni and Herat fall](https://www.bbc.co.uk/news/world-asia-58184202) - Militants have overrun Ghazni and Herat, and now control a third of Afghanistan's regional cities.
+1. [Afghanistan: Major cities fall to Taliban amid heavy fighting](https://www.bbc.co.uk/news/world-asia-58184202) - Militants now control many of Afghanistan's key regional cities, including Herat and Ghazni.
 2. [Life in a town taken by the Taliban in Afghanistan](https://www.bbc.co.uk/news/world-asia-58194378) - BBC correspondent Secunder Kermani reports from a town in Afghanistan recently taken by the Taliban
 3. [Covid: Germany fears thousands got saline, not vaccine from nurse](https://www.bbc.co.uk/news/world-europe-58186032) - More than 8,000 mostly elderly people are urged to get vaccinated again as a nurse is questioned.
 4. [Russia holds hypersonic flight expert in spy probe](https://www.bbc.co.uk/news/world-europe-58186033) - Alexander Kuranov, detained by FSB agents, runs a team of pioneering spaceflight researchers.
