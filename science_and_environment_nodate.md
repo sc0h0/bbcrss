@@ -1,5 +1,5 @@
-1. [Climate: WWF warns UK spending is lagging behind targets](https://www.bbc.co.uk/news/uk-politics-58170865) - The conservation group WWF says the UK government must keep its promises on climate change.
-2. [Tusk reveals woolly mammoth's massive lifetime mileage](https://www.bbc.co.uk/news/science-environment-58191123) - Scientists analyse the chemistry in a woolly mammoth tusk to work out how far it travelled.
+1. [Tusk reveals woolly mammoth's massive lifetime mileage](https://www.bbc.co.uk/news/science-environment-58191123) - Scientists analyse the chemistry in a woolly mammoth tusk to work out how far it travelled.
+2. [Climate: WWF warns UK spending is lagging behind targets](https://www.bbc.co.uk/news/uk-politics-58170865) - The conservation group WWF says the UK government must keep its promises on climate change.
 3. [Climate change: Curbing methane emissions will 'buy us time'](https://www.bbc.co.uk/news/science-environment-58174111) - Scientists say that rapid cuts in methane could be a key tactic in the battle against climate change.
 4. [Tropical Storm Fred: Sixth Atlantic storm hints at above-average hurricane season](https://www.bbc.co.uk/news/science-environment-58160257) - Meteorologists have named the sixth Atlantic storm of 2021, hinting at an above-average season.
 5. [How are wildfires linked to climate change?](https://www.bbc.co.uk/news/58159451) - A series of major wildfires across the world has hit the headlines - how do they compare to previous years?
