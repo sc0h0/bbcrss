@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 12 Aug 2021 09:34:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Aug 2021 09:43:43 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -41,7 +41,7 @@
             <description><![CDATA[Three people died when the 06:38 Aberdeen to Glasgow service crashed into a landslide near Stonehaven a year ago.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-58183508</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-58183508</guid>
-            <pubDate>Thu, 12 Aug 2021 06:47:28 GMT</pubDate>
+            <pubDate>Thu, 12 Aug 2021 09:40:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Man dies and three injured in A74(M) crash]]></title>
@@ -231,6 +231,13 @@
             <link>https://www.bbc.co.uk/sport/football/58184064</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58184064</guid>
             <pubDate>Thu, 12 Aug 2021 07:08:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No away fans allowed at September's European internationals because of 'spike' in Covid cases]]></title>
+            <description><![CDATA[No away fans will be permitted at next month's international matches in Europe because of a "spike"in Covid-19 cases, Uefa and Fifa confirm.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58179312</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58179312</guid>
+            <pubDate>Wed, 11 Aug 2021 16:56:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
