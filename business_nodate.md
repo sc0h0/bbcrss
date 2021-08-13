@@ -3,9 +3,9 @@
 3. [Lee Jae-yong: Samsung heir released from prison on parole](https://www.bbc.co.uk/news/world-asia-58196575) - Critics say the move raises fresh questions about the preferential treatment of business leaders.
 4. [Ningbo: Global supply fears as China partly shuts major port](https://www.bbc.co.uk/news/business-58196477) - The closure of a terminal at Ningbo-Zhoushan port came after a worker was infected with Covid-19.
 5. [Photographer, farmer and plasterer job ads rise](https://www.bbc.co.uk/news/business-58180312) - The last three weeks have seen the highest numbers of new job postings since mid-May, research shows.
-6. [The $8bn EV company you’ve probably never heard of](https://www.bbc.co.uk/news/business-58174043) - Electric vehicle firm Arrival is worth $8bn (£5.7bn) - and is only making vans, buses and taxis.
-7. [UK inhaler firm Vectura backs £1bn bid by Marlboro-maker](https://www.bbc.co.uk/news/business-58193391) - The bid by the maker of Marlboro cigarettes trumps a rival offer by US private equity firm Carlyle.
-8. [Crypto heist hacker returns most of the stolen funds](https://www.bbc.co.uk/news/business-58193396) - In notes sent to the blockchain, the hacker claimed to be offered a reward for returning the assets.
+6. [Crypto heist hacker returns most of the stolen funds](https://www.bbc.co.uk/news/business-58193396) - In notes sent to the blockchain, the hacker claimed to be offered a reward for returning the assets.
+7. [The $8bn EV company you’ve probably never heard of](https://www.bbc.co.uk/news/business-58174043) - Electric vehicle firm Arrival is worth $8bn (£5.7bn) - and is only making vans, buses and taxis.
+8. [UK inhaler firm Vectura backs £1bn bid by Marlboro-maker](https://www.bbc.co.uk/news/business-58193391) - The bid by the maker of Marlboro cigarettes trumps a rival offer by US private equity firm Carlyle.
 9. [KFC warns menu items missing due to supply issues](https://www.bbc.co.uk/news/business-58180308) - The fast food chain has warned customers menus will be missing items as a result of the supply problems.
 10. [Can Americans pull the plug on petrol-powered cars?](https://www.bbc.co.uk/news/business-58123729) - Joe Biden wants half of all cars sold in the US to be zero emission by 2030 - but getting there won't be easy.
 11. [Pret a Manger makes staff pay cuts permanent](https://www.bbc.co.uk/news/business-58186299) - The firm had said unpaid breaks would be temporary but trade remains "significantly below" pre-Covid levels.

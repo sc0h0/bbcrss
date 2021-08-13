@@ -2,8 +2,8 @@
 2. [Lord of the Rings: Amazon moves show to UK from New Zealand](https://www.bbc.co.uk/news/business-58196473) - The multi-million dollar production is one of the most expensive shows in the history of television.
 3. [Coda: 'Deafness is not a costume you can put on,' says film director](https://www.bbc.co.uk/news/entertainment-arts-58058653) - The maker of the film Coda says being authentic to the story of child with deaf parents was vital.
 4. [Una Stubbs: Till Death Us Do Part and Sherlock actress dies aged 84](https://www.bbc.co.uk/news/entertainment-arts-58190446) - She was known for her roles in shows like Worzel Gummidge, Till Death Us Do Part and Sherlock.
-5. [Nick Grimshaw: 'I'm leaving Radio 1 in a leap of faith'](https://www.bbc.co.uk/news/newsbeat-58188400) - The legendary presenter reflects on leaving BBC Radio 1 after 14 years.
-6. [Strictly Come Dancing: Actress Rose Ayling-Ellis to be show's first deaf dancer](https://www.bbc.co.uk/news/entertainment-arts-58089932) - Rose Ayling-Ellis says she hopes to "do the deaf community proud and break down more barriers".
+5. [Strictly Come Dancing: Actress Rose Ayling-Ellis to be show's first deaf dancer](https://www.bbc.co.uk/news/entertainment-arts-58089932) - Rose Ayling-Ellis says she hopes to "do the deaf community proud and break down more barriers".
+6. [Nick Grimshaw: 'I'm leaving Radio 1 in a leap of faith'](https://www.bbc.co.uk/news/newsbeat-58188400) - The legendary presenter reflects on leaving BBC Radio 1 after 14 years.
 7. [TV newsreader Victoria Derbyshire overcomes on-air shoe struggle](https://www.bbc.co.uk/news/uk-58194764) - The BBC News channel presenter was seen quietly cursing as she struggled to put on her high heels.
 8. [Ashton Kutcher and Mila Kunis poke fun at cleanliness debate](https://www.bbc.co.uk/news/entertainment-arts-58184325) - The Hollywood couple caused a stir last month by saying they didn't fully bathe their kids everyday.
 9. [Batman: Robin coming out as bisexual was 'missing piece' of story](https://www.bbc.co.uk/news/entertainment-arts-58184320) - The Batman comics writer says addressing Robin's sexuality was the "missing piece" of his story.

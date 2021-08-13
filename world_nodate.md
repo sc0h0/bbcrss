@@ -1,4 +1,4 @@
-1. [Taliban capture Kandahar, Afghanistan's second largest city](https://www.bbc.co.uk/news/world-asia-58191638) - The fall of Afghanistan’s second largest city is a crushing blow for the government.
+1. [Taliban capture Kandahar, Afghanistan's second largest city](https://www.bbc.co.uk/news/world-asia-58191638) - Kandahar's fall is a crushing blow for the government, as the militants continue their offensive.
 2. [Afghanistan: Desperation as thousands flee the Taliban](https://www.bbc.co.uk/news/world-asia-58191043) - Yogita Limaye reports from a camp in Kabul where thousands who have been displaced by violence seek refuge.
 3. [Britney Spears' father steps down as conservator](https://www.bbc.co.uk/news/world-us-canada-58191439) - The star had requested Jamie Spears be removed after accusing him of "conservatorship abuse".
 4. [Lee Jae-yong: Samsung heir released from prison on parole](https://www.bbc.co.uk/news/world-asia-58196575) - Critics say the move raises fresh questions about the preferential treatment of business leaders.

@@ -1,5 +1,5 @@
 1. [Plymouth shooting: Suspected gunman and five others die](https://www.bbc.co.uk/news/uk-england-devon-58195419) - A Plymouth MP says one of the victims was a child and more people are being treated in hospital.
-2. [Taliban capture Kandahar, Afghanistan's second largest city](https://www.bbc.co.uk/news/world-asia-58191638) - The fall of Afghanistan’s second largest city is a crushing blow for the government.
+2. [Taliban capture Kandahar, Afghanistan's second largest city](https://www.bbc.co.uk/news/world-asia-58191638) - Kandahar's fall is a crushing blow for the government, as the militants continue their offensive.
 3. [Afghanistan: UK troops sent to get Britons out as Taliban advances](https://www.bbc.co.uk/news/uk-58195286) - About 600 troops will be deployed on a short-term basis after the Taliban seized several cities.
 4. [Satanic forums visited by a killer uncovered](https://www.bbc.co.uk/news/uk-58191473) - The BBC uncovers evidence about Satanic forums visited by killer Danyal Hussein.
 5. [Metabolism peaks at age one and tanks after 60, study finds](https://www.bbc.co.uk/news/health-58186710) - Middle-aged spread cannot be blamed on a waning metabolism, according to researchers.
