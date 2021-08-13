@@ -1,4 +1,4 @@
-1. [Britney Spears' father to step down as conservator](https://www.bbc.co.uk/news/world-us-canada-58191439) - The star had requested Jamie Spears be removed after accusing him of "conservatorship abuse".
+1. [Britney Spears' father to step down as conservator](https://www.bbc.co.uk/news/world-us-canada-58191439) - Jamie Spears pledges to take part in an "orderly transition" without confirming when he will do so.
 2. [US census: Hispanic and Asian-American driving US population growth](https://www.bbc.co.uk/news/world-us-canada-58195166) - Newly released data points to sluggish population growth and a more multiracial US.
 3. [Can Americans pull the plug on petrol-powered cars?](https://www.bbc.co.uk/news/business-58123729) - Joe Biden wants half of all cars sold in the US to be zero emission by 2030 - but getting there won't be easy.
 4. [Satanic forums visited by a killer uncovered](https://www.bbc.co.uk/news/uk-58191473) - The BBC uncovers evidence about Satanic forums visited by the killer of two sisters.

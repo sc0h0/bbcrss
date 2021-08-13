@@ -1,5 +1,5 @@
 1. [Taliban capture Kandahar, Afghanistan's second largest city](https://www.bbc.co.uk/news/world-asia-58191638) - Kandahar's fall is a crushing blow for the government, as the militants continue their offensive.
-2. [Britney Spears' father to step down as conservator](https://www.bbc.co.uk/news/world-us-canada-58191439) - The star had requested Jamie Spears be removed after accusing him of "conservatorship abuse".
+2. [Britney Spears' father to step down as conservator](https://www.bbc.co.uk/news/world-us-canada-58191439) - Jamie Spears pledges to take part in an "orderly transition" without confirming when he will do so.
 3. [Lee Jae-yong: Samsung heir released from prison on parole](https://www.bbc.co.uk/news/world-asia-58196575) - Critics say the move raises fresh questions about the preferential treatment of business leaders.
 4. [US census: Hispanic and Asian-American driving US population growth](https://www.bbc.co.uk/news/world-us-canada-58195166) - Newly released data points to sluggish population growth and a more multiracial US.
 5. [Lord of the Rings: Amazon moves show to UK from New Zealand](https://www.bbc.co.uk/news/business-58196473) - The multi-million dollar production is one of the most expensive shows in the history of television.
