@@ -29,5 +29,6 @@
 29. [Glasgow TK Maxx flooded by torrential rain](https://www.bbc.co.uk/news/uk-scotland-58157258) - A shopper in Glasgow captured the moment rain poured from the ceiling of a TK Maxx.
 30. [Rangers 5-0 Dunfermline: Ruthless Ibrox side ease into quarter-finals](https://www.bbc.co.uk/sport/football/58137878) - Kemar Roofe scores twice as Rangers end a run of three defeats by breezing past Dunfermline into the League Cup quarter-finals.
 31. [Scottish League Cup watch: What you need to know going into knockout stage](https://www.bbc.co.uk/sport/football/58156608) - We give you the lowdown on the tastiest tussles from this weekend's Scottish League Cup last-16 games.
-32. [Dundee United re-sign Marc McNulty on loan from Reading](https://www.bbc.co.uk/sport/football/58178019) - Dundee United re-sign striker Marc McNulty from Reading on a season-long loan.
-33. [Celtic 3-0 Jablonec (agg 7-2) - Celtic cruise into Europa League play-off](https://www.bbc.co.uk/sport/football/58138071) - Celtic continue their recent resurgence as they stroll past the Czech Republic's Jablonec in the third qualifying round of the Europa League at Celtic Park.
+32. [Women's Scottish Open: Ariya Jutanugarn leads by three shots after second round](https://www.bbc.co.uk/sport/golf/58203684) - Ariya Jutanugarn took charge on day two of the Women's Scottish Open, leading by three shots at Dumbarnie Links.
+33. [Dundee United re-sign Marc McNulty on loan from Reading](https://www.bbc.co.uk/sport/football/58178019) - Dundee United re-sign striker Marc McNulty from Reading on a season-long loan.
+34. [Watch: Women's Scottish Open second round highlights](https://www.bbc.co.uk/sport/av/golf/58209331) - Watch highlights of day two of the Women's Scottish Open at Dumbarnie Links.
