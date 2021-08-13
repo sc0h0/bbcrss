@@ -1,4 +1,4 @@
-1. [Bridgend: Woman arrested in murder probe after boy, 2, dies](https://www.bbc.co.uk/news/uk-wales-58194706) - Fri, 13 Aug 2021 11:06:06 GMT - Police are not looking for anyone else in connection with the boy's death.
+1. [Bridgend: Woman arrested in murder probe after boy, 2, dies](https://www.bbc.co.uk/news/uk-wales-58194706) - Fri, 13 Aug 2021 13:49:02 GMT - Police are not looking for anyone else in connection with the boy's death.
 2. [Wales' GCSE gap widens for children from poorer backgrounds](https://www.bbc.co.uk/news/uk-wales-58189971) - Fri, 13 Aug 2021 09:51:48 GMT - While those getting A*-C grades is up, it is lower for pupils from poorer backgrounds.
 3. [Reading: Teacher gets stories published after 46 years](https://www.bbc.co.uk/news/uk-wales-58189969) - Fri, 13 Aug 2021 09:39:15 GMT - Keith Godwin used to make up stories for his pupils in the 1970s, now they have been published.
 4. [Fitness trackers used to monitor Wales sheep pregnancies](https://www.bbc.co.uk/news/uk-wales-58198198) - Fri, 13 Aug 2021 10:37:24 GMT - The devices measure how long the animals lie down, predicting when they will give birth.
