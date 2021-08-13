@@ -3,7 +3,7 @@
 3. [Strictly Come Dancing: Olympic champion Adam Peaty joins 2021 line-up](https://www.bbc.co.uk/news/entertainment-arts-58089932) - Swimmer Adam Peaty aims to add Strictly's glitterball trophy to the two gold medals he won in Tokyo.
 4. [Marble Arch Mound: Deputy leader resigns amid spiralling costs](https://www.bbc.co.uk/news/uk-england-london-58197626) - Westminster Council's Melvyn Caplan steps down after total costs nearly doubled to £6m.
 5. [Daniela Espirito Santo reported partner to police seven times before death](https://www.bbc.co.uk/news/uk-england-lincolnshire-58187438) - Daniela Espirito Santo, from Grantham, was not failed by police, a watchdog says.
-6. [James Markham killing: Boy, 14, charged with murder](https://www.bbc.co.uk/news/uk-england-london-58197629) - A 14-year-old boy will appear in youth court charged with murdering James Markham.
+6. [James Markham killing: Boy, 14, charged with murder](https://www.bbc.co.uk/news/uk-england-london-58197629) - A 14-year-old boy appears in youth court charged with murdering James Markham.
 7. [First batch of student's washing machines shipped to Iraq](https://www.bbc.co.uk/news/uk-england-somerset-58083385) - Inspired by a salad spinner, Navjot Sawhney invented the hand-cranked washer four years ago.
 8. [Covid vaccine fraudster who targeted 92-year-old woman jailed](https://www.bbc.co.uk/news/uk-england-london-58200457) - David Chambers tricked his 92-year-old victim into paying £140 for a fake coronavirus vaccine.
 9. [Tribute to Manchester Arena bomb survivor found dead aged 20](https://www.bbc.co.uk/news/uk-england-birmingham-58194047) - Eve Aston is remembered as "very jolly, sassy, sociable" by her "proud" family.
