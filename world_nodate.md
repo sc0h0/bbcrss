@@ -6,8 +6,8 @@
 6. [Lord of the Rings: Amazon moves show to UK from New Zealand](https://www.bbc.co.uk/news/business-58196473) - The multi-million dollar production is one of the most expensive shows in the history of television.
 7. [North Korea airs Olympics coverage days after it ends](https://www.bbc.co.uk/news/world-asia-58196464) - Korean Central Television airs a women's football match that was actually played last month.
 8. [Covid: Germany fears thousands got saline, not vaccine from nurse](https://www.bbc.co.uk/news/world-europe-58186032) - More than 8,000 mostly elderly people are urged to get vaccinated again as a nurse is questioned.
-9. [Picasso masterpieces to go on sale in blockbuster auction](https://www.bbc.co.uk/news/world-us-canada-58185744) - Proceeds could reach $100m in what is thought to be the most valuable auction of the artist's works.
-10. [UK and Russia ambassadors anger Iran by restaging WWII image](https://www.bbc.co.uk/news/world-middle-east-58186006) - Iran condemns an "inappropriate" image of the UK and Russian ambassadors recreating a wartime image.
+9. [Covid booster: US approves third jab for the immunocompromised](https://www.bbc.co.uk/news/world-us-canada-58191293) - It marks the first time US health officials have indicated that Covid booster shots may be needed.
+10. [Picasso masterpieces to go on sale in blockbuster auction](https://www.bbc.co.uk/news/world-us-canada-58185744) - Proceeds could reach $100m in what is thought to be the most valuable auction of the artist's works.
 11. [Russia holds hypersonic flight expert in spy probe](https://www.bbc.co.uk/news/world-europe-58186033) - Alexander Kuranov, detained by FSB agents, runs a team of pioneering spaceflight researchers.
 12. [Brazil Congress expels lawmaker over murder charges](https://www.bbc.co.uk/news/world-latin-america-58171370) - Gospel singer turned lawmaker Flordelis de Souza is accused of ordering the murder of her husband.
 13. [Afghanistan: How the Taliban gained ground so quickly](https://www.bbc.co.uk/news/world-asia-58187410) - The situation looks bleak for the Afghan government, but there may still be a chance of a stalemate.
