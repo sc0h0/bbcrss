@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 13 Aug 2021 23:19:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Aug 2021 23:29:10 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Covid vaccine: Parents upset at jabs wait for high-risk children]]></title>
+            <description><![CDATA[Some families are struggling to get vaccines for vulnerable teens, nearly a month after they became eligible.]]></description>
+            <link>https://www.bbc.co.uk/news/health-58179302</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-58179302</guid>
+            <pubDate>Fri, 13 Aug 2021 23:20:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Cost of NHS Covid tests for UK arrivals reduced]]></title>
             <description><![CDATA[Sajid Javid reduces the cost of NHS travel tests ahead of a review into the pricing of all test providers.]]></description>
