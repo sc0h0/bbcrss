@@ -2,7 +2,7 @@
 2. [Afghanistan: Panic and disbelief as thousands flee Taliban onslaught](https://www.bbc.co.uk/news/world-asia-58191638) - Thousands of Afghans seek refuge in the capital Kabul as the militants seize more key cities.
 3. [Marble Arch Mound: Deputy leader resigns amid spiralling costs](https://www.bbc.co.uk/news/uk-england-london-58197626) - Westminster Council's Melvyn Caplan steps down after total costs nearly doubled to £6m.
 4. [James Markham killing: Boy, 14, charged with murder](https://www.bbc.co.uk/news/uk-england-london-58197629) - A 14-year-old boy will appear in youth court charged with murdering James Markham.
-5. [Tony Bennett: Legendary singer retires from stage aged 95](https://www.bbc.co.uk/news/entertainment-arts-58198989) - The jazz singer ends a seven-decade stage career after a final performance with Lady Gaga last week.
+5. [Tony Bennett: Legendary singer retires from stage aged 95](https://www.bbc.co.uk/news/entertainment-arts-58198989) - The veteran crooner ends a seven-decade career after a final performance with Lady Gaga last week.
 6. [Metabolism peaks at age one and tanks after 60, study finds](https://www.bbc.co.uk/news/health-58186710) - Middle-aged spread cannot be blamed on a waning metabolism, according to researchers.
 7. [Tribute to Manchester Arena bomb survivor found dead aged 20](https://www.bbc.co.uk/news/uk-england-birmingham-58194047) - Eve Aston is remembered as "very jolly, sassy, sociable" by her "proud" family.
 8. [Britney Spears' father to step down as conservator](https://www.bbc.co.uk/news/world-us-canada-58191439) - Jamie Spears pledges to take part in an "orderly transition" without confirming when he will do so.
