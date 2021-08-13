@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 13 Aug 2021 13:50:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Aug 2021 14:09:13 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -44,18 +44,18 @@
             <pubDate>Thu, 12 Aug 2021 23:08:51 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid-19: Four more deaths and 1,389 new cases]]></title>
+            <description><![CDATA[Covid-19 linked deaths are reported by counting patients who die within 28 days of testing positive.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58204481</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58204481</guid>
+            <pubDate>Fri, 13 Aug 2021 13:52:42 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[What are Northern Ireland's Covid-19 rules now?]]></title>
             <description><![CDATA[How do restrictions here compare to other parts of the UK and the Republic of Ireland?]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58175159</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58175159</guid>
             <pubDate>Thu, 12 Aug 2021 14:40:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[GCSEs: Rise in top grades in Northern Ireland as results issued]]></title>
-            <description><![CDATA[Due to the Covid-19 pandemic, pupils' results were based on grades calculated by schools.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58179094</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58179094</guid>
-            <pubDate>Thu, 12 Aug 2021 10:56:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Northern Ireland couple who took on the world in a camper van]]></title>
@@ -65,39 +65,11 @@
             <pubDate>Thu, 12 Aug 2021 13:00:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Climate change: Ireland getting warmer and wetter]]></title>
-            <description><![CDATA[The Status of Ireland Climate 2020 report also shows that sea levels around the coast are rising.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58184287</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58184287</guid>
-            <pubDate>Thu, 12 Aug 2021 14:44:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[PSNI investigates attacks on homes in Belfast and Coleraine]]></title>
-            <description><![CDATA[Shots were fired at a house and up to nine men targeted a house in north Belfast in separate incidents.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58187934</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58187934</guid>
-            <pubDate>Thu, 12 Aug 2021 12:34:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Europa Conference League: Larne out despite memorable 1-0 win over Pacos de Ferreira]]></title>
-            <description><![CDATA[Larne's maiden European journey ends on a high as Mark Randall's late strike gives them a deserved 1-0 second leg win over Pacos de Ferreira]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58151345</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58151345</guid>
-            <pubDate>Thu, 12 Aug 2021 20:44:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Climate change: NI Executive to hold special meeting]]></title>
-            <description><![CDATA[Infrastructure Minister Nichola Mallon says climate change requires "urgent intervention".]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58188052</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58188052</guid>
-            <pubDate>Thu, 12 Aug 2021 14:12:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tunnelling machine to go to work beneath Belfast streets]]></title>
-            <description><![CDATA[A pupil at Downey House Primary School won a competition to name the underground digger.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58184712</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58184712</guid>
-            <pubDate>Thu, 12 Aug 2021 12:04:40 GMT</pubDate>
+            <title><![CDATA[GCSEs: Rise in top grades in Northern Ireland as results issued]]></title>
+            <description><![CDATA[Due to the Covid-19 pandemic, pupils' results were based on grades calculated by schools.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58179094</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58179094</guid>
+            <pubDate>Thu, 12 Aug 2021 10:56:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: Unvaccinated dad speaks of four-day ventilator ordeal]]></title>
@@ -233,6 +205,13 @@
             <pubDate>Wed, 11 Aug 2021 12:04:48 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Climate change: Ireland getting warmer and wetter]]></title>
+            <description><![CDATA[The Status of Ireland Climate 2020 report also shows that sea levels around the coast are rising.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58184287</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58184287</guid>
+            <pubDate>Thu, 12 Aug 2021 14:44:34 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Limerick: Pair arrested on suspicion of child's murder]]></title>
             <description><![CDATA[The four-year-old child was fatally injured in a house in Limerick on 13 March.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-58190823</link>
@@ -259,13 +238,6 @@
             <link>https://www.bbc.co.uk/news/world-europe-58149217</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58149217</guid>
             <pubDate>Mon, 09 Aug 2021 14:52:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Irish Boxer Harrington wins Olympic gold ]]></title>
-            <description><![CDATA[Irish boxer Kellie Harrington wins an Olympic gold medal after defeating Brazil's Beatriz Ferreira in the women's lightweight final.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/58130534</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/58130534</guid>
-            <pubDate>Sun, 08 Aug 2021 10:07:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
