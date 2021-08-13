@@ -3,7 +3,7 @@
 3. [Reading: Teacher gets stories published after 46 years](https://www.bbc.co.uk/news/uk-wales-58189969) - Keith Godwin used to make up stories for his pupils in the 1970s, now they have been published.
 4. [Skate park 'devastated' after bid to reopen in Swansea refused](https://www.bbc.co.uk/news/uk-wales-58172022) - Ramps Skatepark, which wants to reopen in a new location, says it will appeal against the decision.
 5. [Fitness trackers used to monitor Wales sheep pregnancies](https://www.bbc.co.uk/news/uk-wales-58198198) - The devices measure how long the animals lie down, predicting when they will give birth.
-6. [Covid: One on 220 estimated to be infected in Wales](https://www.bbc.co.uk/news/uk-wales-58204723) - Around 14,100 people are estimated to have Covid - and the rest of today's data for Wales.
+6. [Covid: One in 220 estimated to be infected in Wales](https://www.bbc.co.uk/news/uk-wales-58204723) - Around 14,100 people are estimated to have Covid - and the rest of today's data for Wales.
 7. [Wales' GCSE gap widens for children from poorer backgrounds](https://www.bbc.co.uk/news/uk-wales-58189971) - While those getting A*-C grades is up, it is lower for pupils from poorer backgrounds.
 8. [Covid: Record visits to north Wales boost tourism](https://www.bbc.co.uk/news/uk-wales-58189968) - North Wales has overtaken Cornwall and Devon for staycations, one organisation says.
 9. [Crickhowell rape: Man arrested after Powys attack](https://www.bbc.co.uk/news/uk-wales-58191699) - Dyfed-Powys Police said the suspect, arrested on Tuesday, has been released under investigation.
