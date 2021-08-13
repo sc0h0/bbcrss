@@ -1,19 +1,20 @@
-1. [Firms want help to measure their carbon footprint](https://www.bbc.co.uk/news/business-58167618) - Many small businesses say they lack the resources needed to calculate their carbon footprint.
-2. [Photographer, farmer and plasterer job ads rise](https://www.bbc.co.uk/news/business-58180312) - The last three weeks have seen the highest numbers of new job postings since mid-May, research shows.
-3. [The $8bn EV company you’ve probably never heard of](https://www.bbc.co.uk/news/business-58174043) - Electric vehicle firm Arrival is worth $8bn (£5.7bn) - and is only making vans, buses and taxis.
-4. [UK inhaler firm Vectura backs £1bn bid by Marlboro-maker](https://www.bbc.co.uk/news/business-58193391) - The bid by the maker of Marlboro cigarettes trumps a rival offer by US private equity firm Carlyle.
-5. [Crypto heist hacker returns most of the stolen funds](https://www.bbc.co.uk/news/business-58193396) - In notes sent to the blockchain, the hacker claimed to be offered a reward for returning the assets.
-6. [KFC warns menu items missing due to supply issues](https://www.bbc.co.uk/news/business-58180308) - The fast food chain has warned customers menus will be missing items as a result of the supply problems.
-7. [Can Americans pull the plug on petrol-powered cars?](https://www.bbc.co.uk/news/business-58123729) - Joe Biden wants half of all cars sold in the US to be zero emission by 2030 - but getting there won't be easy.
-8. [Pret a Manger makes staff pay cuts permanent](https://www.bbc.co.uk/news/business-58186299) - The firm had said unpaid breaks would be temporary but trade remains "significantly below" pre-Covid levels.
-9. [Tui boss: UK falling behind European travel recovery](https://www.bbc.co.uk/news/business-58184088) - UK bookings lag the rest of Europe amid shifting Covid travel restrictions, the travel giant says.
-10. [UK economy rebounds as Covid restrictions ease](https://www.bbc.co.uk/news/uk-58183519) - Retail, restaurants and hotels show strong growth between April and June but data misses forecasts.
-11. [Boohoo boss: 'We're not a throwaway fashion brand'](https://www.bbc.co.uk/news/business-58160237) - The boss of fast fashion retailer Boohoo tells the BBC it is committed to being more sustainable.
-12. [Cryptocurrency heist hacker returns $260m in funds](https://www.bbc.co.uk/news/business-58180692) - The hacker behind the $600m Poly Network cryptocurrency heist has posted a Q&A on the blockchain.
-13. [Quarantine hotel rules face legal challenge](https://www.bbc.co.uk/news/business-58180307) - Travellers affected by the UK's quarantine hotel policy want a judicial review of the rules.
-14. [How we can all get more high-quality sleep](https://www.bbc.co.uk/news/business-58148044) - The pandemic has led to a sharp increase in insomnia, but some firms are now helping their staff.
-15. [CEO Secrets: Foot Locker boss shares his advice](https://www.bbc.co.uk/news/business-58101254) - Richard Johnson, CEO of Foot Locker, reflects on the lessons of the pandemic for business leaders.
-16. [Sharing apps are booming but will the kindness continue?](https://www.bbc.co.uk/news/business-57981598) - The pandemic sparked a surge in activity for sharing apps like Olio but has the trend run its course?
-17. [Can technology help authors write a book?](https://www.bbc.co.uk/news/business-58098481) - Writing a novel is notoriously difficult, but technology may give the writer a helping hand.
-18. [The activist entrepreneurs running zero-waste shops](https://www.bbc.co.uk/news/business-57920754) - Environmentally conscious entrepreneurs explain the movement towards zero-waste lifestyles.
-19. [Why artificial intelligence is being used to write adverts](https://www.bbc.co.uk/news/business-57781557) - Advertisers are increasingly using artificial intelligence to come up with their winning slogans.
+1. [Lord of the Rings: Amazon moves show to UK from New Zealand](https://www.bbc.co.uk/news/business-58196473) - The multi-million dollar production is one of the most expensive shows in the history of television.
+2. [Firms want help to measure their carbon footprint](https://www.bbc.co.uk/news/business-58167618) - Many small businesses say they lack the resources needed to calculate their carbon footprint.
+3. [Photographer, farmer and plasterer job ads rise](https://www.bbc.co.uk/news/business-58180312) - The last three weeks have seen the highest numbers of new job postings since mid-May, research shows.
+4. [The $8bn EV company you’ve probably never heard of](https://www.bbc.co.uk/news/business-58174043) - Electric vehicle firm Arrival is worth $8bn (£5.7bn) - and is only making vans, buses and taxis.
+5. [UK inhaler firm Vectura backs £1bn bid by Marlboro-maker](https://www.bbc.co.uk/news/business-58193391) - The bid by the maker of Marlboro cigarettes trumps a rival offer by US private equity firm Carlyle.
+6. [Crypto heist hacker returns most of the stolen funds](https://www.bbc.co.uk/news/business-58193396) - In notes sent to the blockchain, the hacker claimed to be offered a reward for returning the assets.
+7. [KFC warns menu items missing due to supply issues](https://www.bbc.co.uk/news/business-58180308) - The fast food chain has warned customers menus will be missing items as a result of the supply problems.
+8. [Can Americans pull the plug on petrol-powered cars?](https://www.bbc.co.uk/news/business-58123729) - Joe Biden wants half of all cars sold in the US to be zero emission by 2030 - but getting there won't be easy.
+9. [Pret a Manger makes staff pay cuts permanent](https://www.bbc.co.uk/news/business-58186299) - The firm had said unpaid breaks would be temporary but trade remains "significantly below" pre-Covid levels.
+10. [Tui boss: UK falling behind European travel recovery](https://www.bbc.co.uk/news/business-58184088) - UK bookings lag the rest of Europe amid shifting Covid travel restrictions, the travel giant says.
+11. [UK economy rebounds as Covid restrictions ease](https://www.bbc.co.uk/news/uk-58183519) - Retail, restaurants and hotels show strong growth between April and June but data misses forecasts.
+12. [Boohoo boss: 'We're not a throwaway fashion brand'](https://www.bbc.co.uk/news/business-58160237) - The boss of fast fashion retailer Boohoo tells the BBC it is committed to being more sustainable.
+13. [Cryptocurrency heist hacker returns $260m in funds](https://www.bbc.co.uk/news/business-58180692) - The hacker behind the $600m Poly Network cryptocurrency heist has posted a Q&A on the blockchain.
+14. [Quarantine hotel rules face legal challenge](https://www.bbc.co.uk/news/business-58180307) - Travellers affected by the UK's quarantine hotel policy want a judicial review of the rules.
+15. [How we can all get more high-quality sleep](https://www.bbc.co.uk/news/business-58148044) - The pandemic has led to a sharp increase in insomnia, but some firms are now helping their staff.
+16. [CEO Secrets: Foot Locker boss shares his advice](https://www.bbc.co.uk/news/business-58101254) - Richard Johnson, CEO of Foot Locker, reflects on the lessons of the pandemic for business leaders.
+17. [Sharing apps are booming but will the kindness continue?](https://www.bbc.co.uk/news/business-57981598) - The pandemic sparked a surge in activity for sharing apps like Olio but has the trend run its course?
+18. [Can technology help authors write a book?](https://www.bbc.co.uk/news/business-58098481) - Writing a novel is notoriously difficult, but technology may give the writer a helping hand.
+19. [The activist entrepreneurs running zero-waste shops](https://www.bbc.co.uk/news/business-57920754) - Environmentally conscious entrepreneurs explain the movement towards zero-waste lifestyles.
+20. [Why artificial intelligence is being used to write adverts](https://www.bbc.co.uk/news/business-57781557) - Advertisers are increasingly using artificial intelligence to come up with their winning slogans.
