@@ -5,7 +5,7 @@
 5. [Turkey floods: Death toll near Black Sea rises to 31](https://www.bbc.co.uk/news/world-europe-58200296) - Flash floods in northern Turkey are the country's second natural disaster this month.
 6. [Lord of the Rings: Amazon moves show to UK from New Zealand](https://www.bbc.co.uk/news/business-58196473) - The multi-million dollar production is one of the most expensive shows in the history of television.
 7. [US-Mexico border migrant detention levels reach 21-year high](https://www.bbc.co.uk/news/world-us-canada-58207124) - Migrant numbers usually dip during the hot summer months, but July has continued an upward trend.
-8. [Three Florida educators die of Covid, saysunion](https://www.bbc.co.uk/news/world-us-canada-58204206) - A Florida teachers' union announces the deaths with just days to go before the academic year begins.
+8. [Three Florida educators die of Covid, says union](https://www.bbc.co.uk/news/world-us-canada-58204206) - A Florida teachers' union announces the deaths with just days to go before the academic year begins.
 9. [Lee Jae-yong: Samsung heir released from prison on parole](https://www.bbc.co.uk/news/world-asia-58196575) - Critics say the move raises fresh questions about the preferential treatment of business leaders.
 10. [North Korea airs Olympics coverage days after it ends](https://www.bbc.co.uk/news/world-asia-58196464) - Korean Central Television airs a women's football match that was actually played last month.
 11. [Afghanistan: Journalist Anisa Shaheed refuses to give in to Taliban](https://www.bbc.co.uk/news/world-asia-58175088) - Anisa Shaheed fears women's freedoms will be curbed again if the Taliban come to power.
