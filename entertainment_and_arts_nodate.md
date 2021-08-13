@@ -2,7 +2,7 @@
 2. [Strictly Come Dancing: Olympic champion Adam Peaty joins 2021 line-up](https://www.bbc.co.uk/news/entertainment-arts-58089932) - Swimmer Adam Peaty aims to add Strictly's glitterball trophy to the two gold medals he won in Tokyo.
 3. [Tony Bennett: Legendary singer retires from stage aged 95](https://www.bbc.co.uk/news/entertainment-arts-58198989) - The veteran crooner ends a seven-decade career after a final performance with Lady Gaga last week.
 4. [Britney Spears' father to step down as conservator](https://www.bbc.co.uk/news/world-us-canada-58191439) - Jamie Spears pledges to take part in an "orderly transition" but doesn't say when that will happen.
-5. [Banksy confirms East Anglian seaside artwork is genuine](https://www.bbc.co.uk/news/uk-england-norfolk-58163143) - The secretive artist claims responsibility for the pieces along England's east coast.
+5. [Banksy confirms East Anglian seaside artwork is genuine](https://www.bbc.co.uk/news/uk-england-norfolk-58163143) - The secretive artist claims responsibility for pieces along England's east coast.
 6. [BBC condemns Russia's decision to not renew correspondent's visa](https://www.bbc.co.uk/news/world-europe-58203842) - The decision to not renew Sarah Rainsford's visa is an "assault on media freedom", the corporation says.
 7. [Music stars and festivals sign up to UN initiative to combat harassment](https://www.bbc.co.uk/news/entertainment-arts-58201264) - The UN Safe Spaces Now initiative is backed by Anne-Marie, Clara Amfo and Glastonbury's Emily Eavis.
 8. [Johnny Depp: San Sebastian Film Festival defends honorary award](https://www.bbc.co.uk/news/entertainment-arts-58200208) - The San Sebastian Film Festival reacts to claims that it is disrespecting domestic abuse survivors.
