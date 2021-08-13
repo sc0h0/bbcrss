@@ -1,5 +1,5 @@
 1. [Lord of the Rings: Amazon moves show to UK from New Zealand](https://www.bbc.co.uk/news/business-58196473) - The multi-million dollar production is one of the most expensive shows in the history of television.
-2. [Gatwick in talks with lenders amid Covid losses](https://www.bbc.co.uk/news/business-58200001) - The airport says Covid travel restrictions and a collapse in customer demand pushed it to a loss.
+2. [Gatwick in talks with lenders amid Covid losses](https://www.bbc.co.uk/news/business-58200001) - The airport says Covid restrictions and a collapse in customer demand pushed it to a loss.
 3. [Crypto hacker offered reward after $600m heist](https://www.bbc.co.uk/news/business-58193396) - The anonymous hacker has returned almost all the money, but claims not to be interested in reward.
 4. [Firms want help to measure their carbon footprint](https://www.bbc.co.uk/news/business-58167618) - Many small businesses say they lack the resources needed to calculate their carbon footprint.
 5. [Lee Jae-yong: Samsung heir released from prison on parole](https://www.bbc.co.uk/news/world-asia-58196575) - Critics say the move raises fresh questions about the preferential treatment of business leaders.

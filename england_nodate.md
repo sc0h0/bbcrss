@@ -1,14 +1,14 @@
-1. [Plymouth shooting: Jake Davison deadly spree took 6 minutes](https://www.bbc.co.uk/news/uk-england-devon-58197414) - Jake Davison killed five people, including a young girl, in Plymouth before turning the gun on himself.
+1. [Plymouth shooting: Jake Davison was licensed gun holder](https://www.bbc.co.uk/news/uk-england-devon-58197414) - The 22-year-old killed five people, including a young girl, in Plymouth before turning the gun on himself.
 2. [James Markham killing: Boy, 14, charged with murder](https://www.bbc.co.uk/news/uk-england-london-58197629) - A 14-year-old boy will appear in youth court charged with murdering James Markham.
 3. [Woman died on hold reporting boyfriend assault](https://www.bbc.co.uk/news/uk-england-lincolnshire-58187438) - Daniela Espirito Santo, from Grantham, was not failed by police, a watchdog says.
 4. [Covid vaccine fraudster who targeted 92-year-old woman jailed](https://www.bbc.co.uk/news/uk-england-london-58200457) - David Chambers tricked his 92-year-old victim into paying £140 for a fake coronavirus vaccine.
 5. [Child killer allowed to appeal against sentence](https://www.bbc.co.uk/news/uk-england-manchester-58200782) - Eltiona Skana, who killed Emily Jones in a park, is granted leave to appeal her life sentence.
 6. [Marble Arch Mound: Deputy leader resigns amid spiralling costs](https://www.bbc.co.uk/news/uk-england-london-58197626) - Westminster Council's Melvyn Caplan steps down after total costs nearly doubled to £6m.
-7. [Shooting 'a truly shocking event' say police](https://www.bbc.co.uk/news/uk-58198081) - Devon and Cornwall Police Chief Constable Shaun Sawyer explains how reports of the shootings came in.
-8. [Plymouth shooting: Who can own a firearm or shotgun in the UK?](https://www.bbc.co.uk/news/uk-58198857) - A shooting in Plymouth which left six people dead has put the focus on who can own a gun in the UK.
-9. [Plymouth MP: Community 'trying to make sense' of shooting](https://www.bbc.co.uk/news/uk-58198078) - MP Luke Pollard says the community is pulling together in the face of the "deeply grim" news.
-10. [Plymouth shooting: Defence Secretary rules out terrorism](https://www.bbc.co.uk/news/uk-58198079) - Defence Secretary Ben Wallace said the shooting in Plymouth was ''a very sad and tragic event''.
-11. [Plymouth shooting: Forensic investigators at the scene](https://www.bbc.co.uk/news/uk-58200017) - Police cordoned off the area and said that the situation has been contained.
+7. [Plymouth Shootings: Home Secretary says many questions to be asked](https://www.bbc.co.uk/news/uk-58200691) - Home Secretary Priti Patel says she'll be looking for answers about the shootings that left six dead.
+8. [Shooting 'a truly shocking event' say police](https://www.bbc.co.uk/news/uk-58198081) - Devon and Cornwall Police Chief Constable Shaun Sawyer explains how reports of the shootings came in.
+9. [Plymouth shooting: Who can own a firearm or shotgun in the UK?](https://www.bbc.co.uk/news/uk-58198857) - A shooting in Plymouth which left six people dead has put the focus on who can own a gun in the UK.
+10. [Plymouth MP: Community 'trying to make sense' of shooting](https://www.bbc.co.uk/news/uk-58198078) - MP Luke Pollard says the community is pulling together in the face of the "deeply grim" news.
+11. [Plymouth shooting: Inside the dark world of 'incels'](https://www.bbc.co.uk/news/blogs-trending-44053828) - Who are the angry young men who describe themselves as "involuntarily celibate"?
 12. [Tribute to Manchester Arena bomb survivor found dead aged 20](https://www.bbc.co.uk/news/uk-england-birmingham-58194047) - Eve Aston is remembered as "very jolly, sassy, sociable" by her "proud" family.
 13. [First batch of student's washing machines shipped to Iraq](https://www.bbc.co.uk/news/uk-england-somerset-58083385) - Inspired by a salad spinner, Navjot Sawhney invented the hand-cranked washer four years ago.
 14. [Jomaa Jerrare: Murder arrests after Perton lay-by body find](https://www.bbc.co.uk/news/uk-england-stoke-staffordshire-58199613) - Two suspects are detained following the discovery of Jomaa Jerrare's badly burned remains.
