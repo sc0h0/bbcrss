@@ -1,4 +1,4 @@
-1. ['Naive' to set Covid restrictions end date for Northern Ireland - Mallon](https://www.bbc.co.uk/news/uk-northern-ireland-58198832) - Infrastructure Minister Nichola Mallon says decisions should be based on data rather than dates.
+1. [Covid-19: NI medics warn of more cancelled operations](https://www.bbc.co.uk/news/uk-northern-ireland-58198832) - Health staff say further cancellations are inevitable due to hospital pressure from unvaccinated patients.
 2. [Covid-19: Universities to return to face-to-face teaching](https://www.bbc.co.uk/news/uk-northern-ireland-58199977) - The majority of students in Northern Ireland have spent the last academic year learning online.
 3. [Covid-19: Nisra records 31 virus-related deaths in NI](https://www.bbc.co.uk/news/uk-northern-ireland-58200161) - Thirty-one deaths were registered in the week up to last Friday, a rise of 13 from the previous week.
 4. [Gerry Hutch arrested in Spain over boxing weigh-in gun attack](https://www.bbc.co.uk/news/world-europe-58195768) - Gerry Hutch, known as "The Monk", is wanted over the 2016 gun attack at the Regency Airport Hotel.

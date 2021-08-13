@@ -1,4 +1,4 @@
-1. [Bridgend: Woman arrested in murder probe after boy, 2, dies](https://www.bbc.co.uk/news/uk-wales-58194706) - Fri, 13 Aug 2021 13:49:02 GMT - Police are not looking for anyone else in connection with the boy's death.
+1. [Bridgend: Woman arrested in murder probe after boy, 2, dies](https://www.bbc.co.uk/news/uk-wales-58194706) - Fri, 13 Aug 2021 14:22:49 GMT - Police are not looking for anyone else in connection with the boy's death.
 2. [Wales' GCSE gap widens for children from poorer backgrounds](https://www.bbc.co.uk/news/uk-wales-58189971) - Fri, 13 Aug 2021 09:51:48 GMT - While those getting A*-C grades is up, it is lower for pupils from poorer backgrounds.
 3. [Reading: Teacher gets stories published after 46 years](https://www.bbc.co.uk/news/uk-wales-58189969) - Fri, 13 Aug 2021 09:39:15 GMT - Keith Godwin used to make up stories for his pupils in the 1970s, now they have been published.
 4. [Skate park 'devastated' after bid to reopen in Swansea refused](https://www.bbc.co.uk/news/uk-wales-58172022) - Fri, 13 Aug 2021 06:20:11 GMT - Ramps Skatepark, which wants to reopen in a new location, says it will appeal against the decision.
