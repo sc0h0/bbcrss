@@ -1,4 +1,4 @@
-1. [Afghanistan: Major cities fall to Taliban amid heavy fighting](https://www.bbc.co.uk/news/world-asia-58184202) - Militants now control many of Afghanistan's key regional cities, including Herat and Ghazni.
+1. [Taliban claim capture of Kandahar, Afghanistan's second largest city](https://www.bbc.co.uk/news/world-asia-58191638) - The fall of Afghanistan’s second largest city would be a crushing blow for the government.
 2. [Afghanistan: Desperation as thousands flee the Taliban](https://www.bbc.co.uk/news/world-asia-58191043) - Yogita Limaye reports from a camp in Kabul where thousands who have been displaced by violence seek refuge.
 3. [Covid: Germany fears thousands got saline, not vaccine from nurse](https://www.bbc.co.uk/news/world-europe-58186032) - More than 8,000 mostly elderly people are urged to get vaccinated again as a nurse is questioned.
 4. [Russia holds hypersonic flight expert in spy probe](https://www.bbc.co.uk/news/world-europe-58186033) - Alexander Kuranov, detained by FSB agents, runs a team of pioneering spaceflight researchers.
@@ -16,8 +16,8 @@
 16. [Africa's week in pictures: 6-12 August 2021](https://www.bbc.co.uk/news/world-africa-58186939) - A selection of the best photos from the African continent and beyond.
 17. [365 dates: Indian serial dater Sunder Ramu still looking to meet his target](https://www.bbc.co.uk/news/world-asia-india-58183168) - Tamil actor Sunder Ramu's dates are not all romantic ones - and his aim is not just to find love.
 18. [The fiendish new trick cyber-criminals are using to evade capture](https://www.bbc.co.uk/news/technology-58176113) - Bitcoin researchers discover a new darknet tool criminals are using to help launder their digital money.
-19. [Afghanistan war: Do the Taliban want to conquer or compromise?](https://www.bbc.co.uk/news/world-asia-58181670) - The BBC speaks to two high profile figures in its chain of command who have very different messages.
-20. [Northern Turkey hit by severe flash flooding](https://www.bbc.co.uk/news/world-58194460) - Seventeen people have reportedly died, with more than 1,400 people evacuated from the areas affected.
-21. [Virtual reality: 'There's no max, there's no limit!'](https://www.bbc.co.uk/news/entertainment-arts-58177685) - "There's no max, there's no limit" to virtual reality, so is it the future of live music?
-22. [Wildfires rage in Algeria as heatwave hits North Africa](https://www.bbc.co.uk/news/world-africa-58184912) - The blazes in the mountainous Kabylie region are some of the worst in the country's history.
-23. [Afghanistan war: Veterans reflect on troops leaving country](https://www.bbc.co.uk/news/uk-wales-58181826) - The two veterans have opposing views on whether the conflict has had a positive effect.
+19. [Kiwi Chow: The filmmaker who took Hong Kong's protests to Cannes](https://www.bbc.co.uk/news/world-asia-58196411) - Kiwi Chow's film about the 2019 protests was screened in Cannes - and it has a controversial title.
+20. [Afghanistan war: Do the Taliban want to conquer or compromise?](https://www.bbc.co.uk/news/world-asia-58181670) - The BBC speaks to two high profile figures in its chain of command who have very different messages.
+21. [Northern Turkey hit by severe flash flooding](https://www.bbc.co.uk/news/world-58194460) - Seventeen people have reportedly died, with more than 1,400 people evacuated from the areas affected.
+22. [Virtual reality: 'There's no max, there's no limit!'](https://www.bbc.co.uk/news/entertainment-arts-58177685) - "There's no max, there's no limit" to virtual reality, so is it the future of live music?
+23. [Wildfires rage in Algeria as heatwave hits North Africa](https://www.bbc.co.uk/news/world-africa-58184912) - The blazes in the mountainous Kabylie region are some of the worst in the country's history.

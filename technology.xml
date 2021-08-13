@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 12 Aug 2021 23:52:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Aug 2021 00:57:01 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -142,6 +142,13 @@
             <pubDate>Tue, 03 Aug 2021 23:11:44 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[How can new technology protect outdoor workers?]]></title>
+            <description><![CDATA[Working outdoors in extreme heat can be deadly, new tech and better protection for workers could help.]]></description>
+            <link>https://www.bbc.co.uk/news/business-58049625</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58049625</guid>
+            <pubDate>Thu, 12 Aug 2021 23:14:25 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The fiendish new trick cyber-criminals are using to evade capture]]></title>
             <description><![CDATA[Bitcoin researchers discover a new darknet tool criminals are using to help launder their digital money.]]></description>
             <link>https://www.bbc.co.uk/news/technology-58176113</link>
@@ -175,27 +182,6 @@
             <link>https://www.bbc.co.uk/news/world-australia-58053519</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-australia-58053519</guid>
             <pubDate>Wed, 04 Aug 2021 00:44:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The fungus and bacteria tackling plastic waste]]></title>
-            <description><![CDATA[Bacteria, fungus and enzymes can all digest plastic, but can they work at a useful commercial scale?]]></description>
-            <link>https://www.bbc.co.uk/news/business-57733178</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57733178</guid>
-            <pubDate>Thu, 29 Jul 2021 23:04:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Can better tech make video meetings less excruciating?]]></title>
-            <description><![CDATA[Technology firms are scrambling to add new features but will video calls improve.]]></description>
-            <link>https://www.bbc.co.uk/news/business-57720504</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57720504</guid>
-            <pubDate>Mon, 26 Jul 2021 23:00:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why remote working leaves us vulnerable to cyber-attacks]]></title>
-            <description><![CDATA[Experts warn working from home has led to complacency over security protocols]]></description>
-            <link>https://www.bbc.co.uk/news/business-57847652</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57847652</guid>
-            <pubDate>Sun, 25 Jul 2021 23:00:23 GMT</pubDate>
         </item>
     </channel>
 </rss>

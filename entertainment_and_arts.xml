@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 12 Aug 2021 23:52:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Aug 2021 00:57:00 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -100,6 +100,13 @@
             <pubDate>Tue, 10 Aug 2021 00:28:01 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Kiwi Chow: The filmmaker who took Hong Kong's protests to Cannes]]></title>
+            <description><![CDATA[Kiwi Chow's film about the 2019 protests was screened in Cannes - and it has a controversial title.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58196411</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58196411</guid>
+            <pubDate>Fri, 13 Aug 2021 00:30:47 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Virtual reality: 'There's no max, there's no limit!']]></title>
             <description><![CDATA["There's no max, there's no limit" to virtual reality, so is it the future of live music?]]></description>
             <link>https://www.bbc.co.uk/news/entertainment-arts-58177685</link>
@@ -133,13 +140,6 @@
             <link>https://www.bbc.co.uk/news/entertainment-arts-58118789</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-58118789</guid>
             <pubDate>Fri, 06 Aug 2021 12:46:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Olympics: Capturing the perfect moment]]></title>
-            <description><![CDATA[Three sports photographers explain what goes into getting the best shots of the day at the Games.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-58115465</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-58115465</guid>
-            <pubDate>Sat, 07 Aug 2021 23:00:39 GMT</pubDate>
         </item>
     </channel>
 </rss>

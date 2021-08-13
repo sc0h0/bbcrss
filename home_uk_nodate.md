@@ -1,6 +1,6 @@
-1. [Plymouth shooting: Six fatalities in Keyham](https://www.bbc.co.uk/news/uk-england-devon-58195419) - Police say the suspected gunman is among the dead while a local MP says the shooting is not terror-related.
-2. [Afghanistan: UK troops sent to get Britons out as Taliban advances](https://www.bbc.co.uk/news/uk-58195286) - Around 600 troops will be deployed on a short-term basis after the Taliban seized several cities.
-3. [Afghanistan: Major cities fall to Taliban amid heavy fighting](https://www.bbc.co.uk/news/world-asia-58184202) - Militants now control many of Afghanistan's key regional cities, including Herat and Ghazni.
+1. [Plymouth shooting: Suspected gunman and five others die](https://www.bbc.co.uk/news/uk-england-devon-58195419) - A Plymouth MP says one of the victims was a child and more people are being treated in hospital.
+2. [Afghanistan: UK troops sent to get Britons out as Taliban advances](https://www.bbc.co.uk/news/uk-58195286) - About 600 troops will be deployed on a short-term basis after the Taliban seized several cities.
+3. [Taliban claim capture of Kandahar, Afghanistan's second largest city](https://www.bbc.co.uk/news/world-asia-58191638) - The fall of Afghanistan’s second largest city would be a crushing blow for the government.
 4. [Britney Spears' father steps down as conservator](https://www.bbc.co.uk/news/world-us-canada-58191439) - The star had requested Jamie Spears be removed after accusing him of "conservatorship abuse".
 5. [Record GCSE results after second year of no exams](https://www.bbc.co.uk/news/education-58174253) - Record high GCSE grades in a second year of exams disrupted by the pandemic.
 6. [Actress Una Stubbs dies aged 84](https://www.bbc.co.uk/news/entertainment-arts-58190446) - She was known for her roles in shows like Worzel Gummidge, Till Death Us Do Part and Sherlock.
