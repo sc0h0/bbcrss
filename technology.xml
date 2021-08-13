@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 13 Aug 2021 08:38:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Aug 2021 08:47:03 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -21,6 +21,13 @@
             <link>https://www.bbc.co.uk/news/business-58193396</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58193396</guid>
             <pubDate>Thu, 12 Aug 2021 22:10:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The fiendish new trick cyber-criminals are using to evade capture]]></title>
+            <description><![CDATA[Bitcoin researchers discover a new darknet tool criminals are using to help launder their digital money.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-58176113</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-58176113</guid>
+            <pubDate>Thu, 12 Aug 2021 23:15:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Lord of the Rings: Amazon moves show to UK from New Zealand]]></title>
@@ -65,13 +72,6 @@
             <pubDate>Thu, 12 Aug 2021 12:23:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Cryptocurrency heist hacker returns $260m in funds]]></title>
-            <description><![CDATA[The hacker behind the $600m Poly Network cryptocurrency heist has posted a Q&A on the blockchain.]]></description>
-            <link>https://www.bbc.co.uk/news/business-58180692</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58180692</guid>
-            <pubDate>Thu, 12 Aug 2021 06:36:19 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Z Fold 3: Samsung aims to take folding phones mainstream]]></title>
             <description><![CDATA[The electronics giant hopes lower prices and improved durability will make folding phones catch on.]]></description>
             <link>https://www.bbc.co.uk/news/technology-58175048</link>
@@ -93,32 +93,11 @@
             <pubDate>Wed, 11 Aug 2021 12:20:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Google may cut pay of staff who work from home]]></title>
-            <description><![CDATA[The tech giant has developed a calculator that lets staff see the effects of remote working.]]></description>
-            <link>https://www.bbc.co.uk/news/business-58171716</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58171716</guid>
-            <pubDate>Wed, 11 Aug 2021 15:39:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Instagram says sorry for removing Pedro Almodovar film poster]]></title>
-            <description><![CDATA[The advert for revered Spanish director Pedro Almodovar's new film features a lactating nipple.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-58177715</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-58177715</guid>
-            <pubDate>Wed, 11 Aug 2021 17:27:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Google lets parents remove children from image-search results]]></title>
-            <description><![CDATA[The search giant announces a range of changes to its children's policies on Google and YouTube.]]></description>
-            <link>https://www.bbc.co.uk/news/technology-58164582</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-58164582</guid>
-            <pubDate>Tue, 10 Aug 2021 16:51:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Odeon owner AMC to accept payment in Bitcoin]]></title>
-            <description><![CDATA[Cinemagoers will be able to buy tickets and popcorn using the cryptocurrency, says the US chain.]]></description>
-            <link>https://www.bbc.co.uk/news/business-58163914</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58163914</guid>
-            <pubDate>Tue, 10 Aug 2021 19:32:41 GMT</pubDate>
+            <title><![CDATA[Green aviation: Electric powered plane trialled over Orkney]]></title>
+            <description><![CDATA[A hybrid-electric plane is being trialled in Orkney as part of a study into ways of reducing aviation emissions.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-58180367</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58180367</guid>
+            <pubDate>Thu, 12 Aug 2021 05:10:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Virtual reality: 'There's no max, there's no limit!']]></title>
@@ -163,13 +142,6 @@
             <pubDate>Thu, 12 Aug 2021 23:14:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The fiendish new trick cyber-criminals are using to evade capture]]></title>
-            <description><![CDATA[Bitcoin researchers discover a new darknet tool criminals are using to help launder their digital money.]]></description>
-            <link>https://www.bbc.co.uk/news/technology-58176113</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-58176113</guid>
-            <pubDate>Thu, 12 Aug 2021 23:15:25 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Sharing apps are booming but will the kindness continue?]]></title>
             <description><![CDATA[The pandemic sparked a surge in activity for sharing apps like Olio but has the trend run its course?]]></description>
             <link>https://www.bbc.co.uk/news/business-57981598</link>
@@ -196,6 +168,13 @@
             <link>https://www.bbc.co.uk/news/world-australia-58053519</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-australia-58053519</guid>
             <pubDate>Wed, 04 Aug 2021 00:44:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Twitter algorithm prefers slimmer, younger, light-skinned faces]]></title>
+            <description><![CDATA[A Twitter-sponsored competition to discover bias in its image algorithm finds precisely that.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-58159723</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-58159723</guid>
+            <pubDate>Tue, 10 Aug 2021 16:17:48 GMT</pubDate>
         </item>
     </channel>
 </rss>

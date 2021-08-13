@@ -1,8 +1,8 @@
 1. [Plymouth shooting: Jake Davison named as gunman who killed five](https://www.bbc.co.uk/news/uk-england-devon-58197414) - Jake Davison is suspected to have killed five people before turning the gun on himself.
-2. [Taliban capture Kandahar, Afghanistan's second largest city](https://www.bbc.co.uk/news/world-asia-58191638) - Kandahar's fall is a crushing blow for the government, as the militants continue their offensive.
+2. [Taliban capture Kandahar, Afghanistan's second largest city](https://www.bbc.co.uk/news/world-asia-58191638) - Civilians seek refuge in Kabul as the militants seize key cities around the country.
 3. [Marble Arch Mound: Deputy leader resigns amid spiralling costs](https://www.bbc.co.uk/news/uk-england-london-58197626) - Westminster Council's Melvyn Caplan steps down after total costs nearly doubled to £6m.
 4. [James Markham killing: Boy, 14, charged with murder](https://www.bbc.co.uk/news/uk-england-london-58197629) - A 14-year-old boy will appear in youth court charged with murdering James Markham.
-5. [1 in 10 first wave Covid cases caught in hospital](https://www.bbc.co.uk/news/health-58186709) - Hospital-acquired Covid ranged from 1% to 25% of cases in different hospitals.
+5. [Huge gulf in hospitals' ability to contain Covid](https://www.bbc.co.uk/news/health-58186709) - Hospital-acquired Covid ranged from 1% to 25% of cases in different hospitals.
 6. [Metabolism peaks at age one and tanks after 60, study finds](https://www.bbc.co.uk/news/health-58186710) - Middle-aged spread cannot be blamed on a waning metabolism, according to researchers.
 7. [Britney Spears' father to step down as conservator](https://www.bbc.co.uk/news/world-us-canada-58191439) - Jamie Spears pledges to take part in an "orderly transition" without confirming when he will do so.
 8. [Connor Markward: Family of teen drowned in Loch Lomond call for better education](https://www.bbc.co.uk/news/uk-scotland-58188082) - The family of a drowned teenager call for better education in schools on the dangers of Scotland's waters.

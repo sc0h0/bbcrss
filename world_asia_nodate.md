@@ -1,4 +1,4 @@
-1. [Taliban capture Kandahar, Afghanistan's second largest city](https://www.bbc.co.uk/news/world-asia-58191638) - Kandahar's fall is a crushing blow for the government, as the militants continue their offensive.
+1. [Taliban capture Kandahar, Afghanistan's second largest city](https://www.bbc.co.uk/news/world-asia-58191638) - Civilians seek refuge in Kabul as the militants seize key cities around the country.
 2. [North Korea airs Olympics coverage days after it ends](https://www.bbc.co.uk/news/world-asia-58196464) - Korean Central Television airs a women's football match that was actually played last month.
 3. [Afghanistan: Desperation as thousands flee the Taliban](https://www.bbc.co.uk/news/world-asia-58191043) - Yogita Limaye reports from a camp in Kabul where thousands who have been displaced by violence seek refuge.
 4. [Ningbo: Global supply fears as China partly shuts major port](https://www.bbc.co.uk/news/business-58196477) - The closure of a terminal at Ningbo-Zhoushan port came after a worker was infected with Covid-19.
