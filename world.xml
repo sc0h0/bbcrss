@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 13 Aug 2021 04:55:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Aug 2021 05:17:07 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -30,6 +30,13 @@
             <pubDate>Thu, 12 Aug 2021 23:10:24 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Britney Spears' father steps down as conservator]]></title>
+            <description><![CDATA[The star had requested Jamie Spears be removed after accusing him of "conservatorship abuse".]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-58191439</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-58191439</guid>
+            <pubDate>Thu, 12 Aug 2021 23:09:11 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Lee Jae-yong: Samsung heir released from prison on parole]]></title>
             <description><![CDATA[Critics say the move raises fresh questions about the preferential treatment of business leaders.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-58196575</link>
@@ -42,13 +49,6 @@
             <link>https://www.bbc.co.uk/news/world-us-canada-58195166</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-58195166</guid>
             <pubDate>Thu, 12 Aug 2021 21:40:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Wagner: Gaddafi's son faces arrest over Russian mercenaries]]></title>
-            <description><![CDATA[A warrant is issued against Saif al-Islam Gaddafi after a BBC investigation into mercenaries in Libya.]]></description>
-            <link>https://www.bbc.co.uk/news/world-africa-58191433</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-58191433</guid>
-            <pubDate>Thu, 12 Aug 2021 19:46:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Lord of the Rings: Amazon moves show to UK from New Zealand]]></title>
@@ -65,11 +65,11 @@
             <pubDate>Fri, 13 Aug 2021 03:27:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid: Germany fears thousands got saline, not vaccine from nurse]]></title>
-            <description><![CDATA[More than 8,000 mostly elderly people are urged to get vaccinated again as a nurse is questioned.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58186032</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58186032</guid>
-            <pubDate>Thu, 12 Aug 2021 09:36:36 GMT</pubDate>
+            <title><![CDATA[Wagner: Gaddafi's son faces arrest over Russian mercenaries]]></title>
+            <description><![CDATA[A warrant is issued against Saif al-Islam Gaddafi after a BBC investigation into mercenaries in Libya.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-58191433</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-58191433</guid>
+            <pubDate>Thu, 12 Aug 2021 19:46:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid booster: US approves third jab for the immunocompromised]]></title>

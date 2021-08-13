@@ -21,7 +21,7 @@
 21. [One-Day Cup: Both sides through as Yorkshire edge Glamorgan](https://www.bbc.co.uk/sport/cricket/58166116) - Yorkshire reach the One-Day Cup quarter-finals with a four-run win over Glamorgan, who still top the group and earn a semi-final spot.
 22. [Viktoria Plzen 3-1 The New Saints (agg 5-5; Plzen win 4-1 pens): Saints crash out on penalties](https://www.bbc.co.uk/sport/football/58163343) - The New Saints lose a thrilling Europa Conference League tie on penalties in the second leg away to Czech side Viktoria Plzen.
 23. [Arestio menyw ar amheuaeth o lofruddio bachgen](https://www.bbc.co.uk/newyddion/58186503) - Mae'r heddlu wedi lansio ymchwiliad llofruddiaeth yn dilyn marwolaeth bachgen dyflwydd oed a oedd mewn cyflwr difrifol yn yr ysbyty wedi digwyddiad ym Mhen-y-bont ar Ogwr.
-24. [Mwy yn cael y graddau TGAU uchaf yng Nghymru](https://www.bbc.co.uk/newyddion/58175746) - Disgyblion TGAU yn derbyn eu canlyniadau, gyda dros chwarter y graddau yn A neu A*.
+24. [TGAU: Mwy o fwlch rhwng y difreintiedig a'u cyfoedion](https://www.bbc.co.uk/newyddion/58194116) - Mae nifer y disgyblion sy'n dod o gefndir difreintiedig ac wedi derbyn graddau rhwng A* a C wedi lleihau.
 25. [Viktoria Plzen 4-1 Y Seintiau Newydd](https://www.bbc.co.uk/newyddion/58194977) - Y Seintiau allan o Gynghrair Ewropa ar ôl hunllef ciciau o'r smotyn.
 26. [Cerdyn post oddi wrth... Mari Lovgreen](https://www.bbc.co.uk/newyddion/58173010) - Y gyflwynwraig sy'n anfon cyfarchion o'i gwyliau gartref.
 27. [Colled i Forgannwg, ond yn dal ar frig y grŵp](https://www.bbc.co.uk/newyddion/58194976) - Morgannwg yn sicrhau gêm gartref yn y rowndiau terfynol er colli i Sir Efrog yng Ngerddi Soffia.
