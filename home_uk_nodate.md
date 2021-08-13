@@ -6,7 +6,7 @@
 6. [Covid-19: Gulf in hospitals' virus containment and metal fans go back to Bloodstock](https://www.bbc.co.uk/news/uk-58196884) - Five things you need to know about the coronavirus pandemic this Friday morning.
 7. [Huge gulf in hospitals' ability to contain Covid](https://www.bbc.co.uk/news/health-58186709) - Hospital-acquired Covid ranged from 1% to 25% of cases in different hospitals.
 8. [Afghanistan: Desperation as thousands flee the Taliban](https://www.bbc.co.uk/news/world-asia-58191043) - Yogita Limaye reports from a camp in Kabul where thousands who have been displaced by violence seek refuge.
-9. [Marble Arch Mound: Deputy leader resigns amid spiralling costs](https://www.bbc.co.uk/news/uk-england-london-58197626) - Westminster Council's Melvyn Caplan steps down after total costs nearly doubled to £6m.
+9. [Resignation over spiralling Marble Arch mound costs](https://www.bbc.co.uk/news/uk-england-london-58197626) - Westminster Council's Melvyn Caplan steps down after total costs nearly doubled to £6m.
 10. [Britney Spears' father to step down as conservator](https://www.bbc.co.uk/news/world-us-canada-58191439) - The star had requested Jamie Spears be removed after accusing him of "conservatorship abuse".
 11. ['We never knew how dangerous Loch Lomond was'](https://www.bbc.co.uk/news/uk-scotland-58188082) - Family of drowned teenager call for better education in schools on the dangers of Scotland's waters.
 12. [Council policies often inconsistent with climate goals](https://www.bbc.co.uk/news/science-environment-58102578) - A third of English councils support policies that could increase emissions, BBC research suggests.

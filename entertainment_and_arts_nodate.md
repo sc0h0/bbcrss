@@ -5,7 +5,7 @@
 5. [Strictly Come Dancing: Actress Rose Ayling-Ellis to be show's first deaf dancer](https://www.bbc.co.uk/news/entertainment-arts-58089932) - Rose Ayling-Ellis says she hopes to "do the deaf community proud and break down more barriers".
 6. [Nick Grimshaw: 'I'm leaving Radio 1 in a leap of faith'](https://www.bbc.co.uk/news/newsbeat-58188400) - The legendary presenter reflects on leaving BBC Radio 1 after 14 years.
 7. [TV newsreader Victoria Derbyshire overcomes on-air shoe struggle](https://www.bbc.co.uk/news/uk-58194764) - The BBC News channel presenter was seen quietly cursing as she struggled to put on her high heels.
-8. [Ashton Kutcher and Mila Kunis poke fun at cleanliness debate](https://www.bbc.co.uk/news/entertainment-arts-58184325) - The Hollywood couple caused a stir last month by saying they didn't fully bathe their kids everyday.
+8. [Ashton Kutcher and Mila Kunis poke fun at cleanliness debate](https://www.bbc.co.uk/news/entertainment-arts-58184325) - The Hollywood couple caused a stir last month by saying they didn't fully bathe their kids every day.
 9. [Batman: Robin coming out as bisexual was 'missing piece' of story](https://www.bbc.co.uk/news/entertainment-arts-58184320) - The Batman comics writer says addressing Robin's sexuality was the "missing piece" of his story.
 10. [Rapper Nines admits plot to import cannabis](https://www.bbc.co.uk/news/uk-england-london-58190579) - The chart-topping musician and another man have been remanded in custody ahead of sentencing.
 11. [Lily Allen on feeling like theatre's 'village idiot'](https://www.bbc.co.uk/news/entertainment-arts-58148849) - The singer is temporarily pausing her successful music career to star in a brand new play 2:22.
