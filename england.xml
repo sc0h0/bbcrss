@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 13 Aug 2021 19:40:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Aug 2021 19:45:07 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -128,6 +128,13 @@
             <pubDate>Fri, 13 Aug 2021 06:44:18 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Bilsdale transmitter fire: TV and radio disruption could last up to 14 days]]></title>
+            <description><![CDATA[Mast operator Arqiva says work to put up temporary transmitters will take between seven and 14 days.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-tees-58208326</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-tees-58208326</guid>
+            <pubDate>Fri, 13 Aug 2021 19:39:02 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Shrewsbury police officer stalked ex out of 'twisted vengeance']]></title>
             <description><![CDATA[Stephen Green, 60, is given a six month sentence suspended for two years after admitting stalking.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-shropshire-58207935</link>
@@ -154,13 +161,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-london-58197629</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-58197629</guid>
             <pubDate>Fri, 13 Aug 2021 13:39:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Child killer allowed to appeal against sentence]]></title>
-            <description><![CDATA[Eltiona Skana, who killed Emily Jones in a park, is granted leave to appeal her life sentence.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-manchester-58200782</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-manchester-58200782</guid>
-            <pubDate>Fri, 13 Aug 2021 12:01:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Car in near-miss with train on Cumbria level crossing]]></title>
@@ -198,11 +198,11 @@
             <pubDate>Thu, 12 Aug 2021 18:02:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Graham Taylor mural honours ex-England manager ]]></title>
-            <description><![CDATA[The commissioned artwork is within the shadow of Vicarage Road, the home of Watford FC.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-58199572</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-58199572</guid>
-            <pubDate>Fri, 13 Aug 2021 13:04:55 GMT</pubDate>
+            <title><![CDATA[Child killer allowed to appeal against sentence]]></title>
+            <description><![CDATA[Eltiona Skana, who killed Emily Jones in a park, is granted leave to appeal her life sentence.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-manchester-58200782</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-manchester-58200782</guid>
+            <pubDate>Fri, 13 Aug 2021 12:01:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Streatham attack: Sudesh Amman not treated for 80 minutes]]></title>
