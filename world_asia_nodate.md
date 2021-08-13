@@ -1,4 +1,4 @@
-1. [Taliban claim capture of Kandahar, Afghanistan's second largest city](https://www.bbc.co.uk/news/world-asia-58191638) - The fall of Afghanistan’s second largest city would be a crushing blow for the government.
+1. [Taliban capture Kandahar, Afghanistan's second largest city](https://www.bbc.co.uk/news/world-asia-58191638) - The fall of Afghanistan’s second largest city is a crushing blow for the government.
 2. [Afghanistan: Major cities fall to Taliban amid heavy fighting](https://www.bbc.co.uk/news/world-asia-58184202) - Militants now control many of Afghanistan's key regional cities, including Herat and Ghazni.
 3. [Afghanistan: Desperation as thousands flee the Taliban](https://www.bbc.co.uk/news/world-asia-58191043) - Yogita Limaye reports from a camp in Kabul where thousands who have been displaced by violence seek refuge.
 4. [Afghanistan: How the Taliban gained ground so quickly](https://www.bbc.co.uk/news/world-asia-58187410) - The situation looks bleak for the Afghan government, but there may still be a chance of a stalemate.

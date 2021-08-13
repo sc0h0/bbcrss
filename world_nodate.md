@@ -1,4 +1,4 @@
-1. [Taliban claim capture of Kandahar, Afghanistan's second largest city](https://www.bbc.co.uk/news/world-asia-58191638) - The fall of Afghanistan’s second largest city would be a crushing blow for the government.
+1. [Taliban capture Kandahar, Afghanistan's second largest city](https://www.bbc.co.uk/news/world-asia-58191638) - The fall of Afghanistan’s second largest city is a crushing blow for the government.
 2. [Afghanistan: Desperation as thousands flee the Taliban](https://www.bbc.co.uk/news/world-asia-58191043) - Yogita Limaye reports from a camp in Kabul where thousands who have been displaced by violence seek refuge.
 3. [Lee Jae-yong: Samsung heir released from prison on parole](https://www.bbc.co.uk/news/world-asia-58196575) - Critics say the move raises fresh questions about the preferential treatment of business leaders.
 4. [US census: Hispanic and Asian-American driving US population growth](https://www.bbc.co.uk/news/world-us-canada-58195166) - Newly released data points to sluggish population growth and a more multiracial US.
