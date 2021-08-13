@@ -1,6 +1,6 @@
-1. [Plymouth shooting: Jake Davison was licensed gun holder](https://www.bbc.co.uk/news/uk-england-devon-58197414) - Jake Davison killed five people, including a three-year-old girl, before turning the gun on himself.
+1. [Plymouth shooting: Maxine Davison, killer's mother, was first victim](https://www.bbc.co.uk/news/uk-england-devon-58206101) - Jake Davison murdered his mother Maxine before shooting and killing four other people.
 2. [West Mercia Police officer and child found dead in Kidderminster](https://www.bbc.co.uk/news/uk-england-hereford-worcester-58205396) - The deaths in Worcestershire are being treated as unexplained, West Mercia Police says.
-3. [Esther Dingley: Hiker's Pyrenees death an accident, police say](https://www.bbc.co.uk/news/uk-england-tyne-58205386) - Sources say it is unclear what caused her to fall but her boots may have been inadequate for ice.
+3. [Esther Dingley: Hiker's Pyrenees death an accident, police say](https://www.bbc.co.uk/news/uk-england-tyne-58205386) - Sources say it is unclear what caused her to fall but her boots may have been unsuitable for ice.
 4. [Kadian Nelson: Man who raped girl on her way to school jailed](https://www.bbc.co.uk/news/uk-england-london-58204431) - Kadian Nelson was chased away during the attack after a 10-year-old girl saw him snatch his victim.
 5. [Woman died on hold reporting boyfriend assault](https://www.bbc.co.uk/news/uk-england-lincolnshire-58187438) - Daniela Espirito Santo, from Grantham, was not failed by police, a watchdog says.
 6. [Care home deluged with cards for Jack Annall's 101st birthday](https://www.bbc.co.uk/news/uk-england-leeds-58201824) - Jack Annall was sent the cards after being disappointed not to see his daughter on his birthday.
@@ -24,7 +24,7 @@
 24. [Marble Arch Mound: Deputy leader resigns amid spiralling costs](https://www.bbc.co.uk/news/uk-england-london-58197626) - Westminster Council's Melvyn Caplan steps down after total costs nearly doubled to £6m.
 25. [Tribute to Manchester Arena bomb survivor found dead aged 20](https://www.bbc.co.uk/news/uk-england-birmingham-58194047) - Eve Aston is remembered as "very jolly, sassy, sociable" by her "proud" family.
 26. [First batch of student's washing machines shipped to Iraq](https://www.bbc.co.uk/news/uk-england-somerset-58083385) - Inspired by a salad spinner, Navjot Sawhney invented the hand-cranked washer four years ago.
-27. [Channel migrants: French prosecutors investigate death](https://www.bbc.co.uk/news/uk-england-kent-58198605) - French authorities launch a manslaughter investigation after a migrant dies.
+27. [Channel migrants: French prosecutors investigate death](https://www.bbc.co.uk/news/uk-england-kent-58198605) - A 27-year-old Eritrean man jumped into the water as the boat sank, a French refugee charity says.
 28. [Jomaa Jerrare: Murder arrests after Perton lay-by body find](https://www.bbc.co.uk/news/uk-england-stoke-staffordshire-58199613) - Two suspects are detained following the discovery of Jomaa Jerrare's badly burned remains.
 29. [Ben Nevis: Amputee Ben Lovell to lead charity climb](https://www.bbc.co.uk/news/uk-england-leeds-58199522) - Bradford man Ben Lovell, who lost a leg in 2017, is raising cash to send child amputees on holiday.
 30. [Michael Jackson fragrance fraud denied by Batley designer Hrh Arfaq](https://www.bbc.co.uk/news/uk-england-leeds-58198100) - Hrh Arfaq, from West Yorkshire, sold a bottle of the perfume for £370,000, a court hears.

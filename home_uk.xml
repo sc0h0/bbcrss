@@ -11,16 +11,23 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 13 Aug 2021 16:12:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Aug 2021 16:51:44 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
-            <title><![CDATA[Plymouth shooting: Jake Davison was licensed gun holder]]></title>
-            <description><![CDATA[Jake Davison killed five people, including a three-year-old girl, before turning the gun on himself.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-devon-58197414</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-devon-58197414</guid>
-            <pubDate>Fri, 13 Aug 2021 16:07:57 GMT</pubDate>
+            <title><![CDATA[Plymouth shooting: Maxine Davison, killer's mother, was first victim]]></title>
+            <description><![CDATA[Jake Davison murdered his mother Maxine before shooting and killing four other people.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-devon-58206101</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-devon-58206101</guid>
+            <pubDate>Fri, 13 Aug 2021 16:42:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Afghan war: Kabul's young women plead for help as Taliban advance]]></title>
+            <description><![CDATA[They feel abandoned by the democratic world they thought they were part of, writes Yalda Hakim.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58205062</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58205062</guid>
+            <pubDate>Fri, 13 Aug 2021 15:19:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Afghanistan: Boris Johnson calls emergency meeting to discuss situation]]></title>
@@ -37,13 +44,6 @@
             <pubDate>Fri, 13 Aug 2021 16:01:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Strictly Come Dancing: Olympic champion Adam Peaty joins 2021 line-up]]></title>
-            <description><![CDATA[Swimmer Adam Peaty aims to add Strictly's glitterball trophy to the two gold medals he won in Tokyo.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-58089932</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-58089932</guid>
-            <pubDate>Fri, 13 Aug 2021 12:26:42 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Lord of the Rings: Amazon moves show to UK from New Zealand]]></title>
             <description><![CDATA[The multi-million dollar production is one of the most expensive shows in the history of television.]]></description>
             <link>https://www.bbc.co.uk/news/business-58196473</link>
@@ -58,11 +58,11 @@
             <pubDate>Fri, 13 Aug 2021 14:25:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[First batch of student's washing machines shipped to Iraq]]></title>
-            <description><![CDATA[Inspired by a salad spinner, Navjot Sawhney invented the hand-cranked washer four years ago.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-somerset-58083385</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-somerset-58083385</guid>
-            <pubDate>Fri, 13 Aug 2021 10:21:49 GMT</pubDate>
+            <title><![CDATA[Strictly Come Dancing: Olympic champion Adam Peaty joins 2021 line-up]]></title>
+            <description><![CDATA[Swimmer Adam Peaty aims to add Strictly's glitterball trophy to the two gold medals he won in Tokyo.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-58089932</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-58089932</guid>
+            <pubDate>Fri, 13 Aug 2021 12:26:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Daniela Espirito Santo reported partner to police seven times before death]]></title>
@@ -73,7 +73,7 @@
         </item>
         <item>
             <title><![CDATA[Esther Dingley: Hiker's Pyrenees death an accident, police say]]></title>
-            <description><![CDATA[Sources say it is unclear what caused her to fall but her boots may have been inadequate for ice.]]></description>
+            <description><![CDATA[Sources say it is unclear what caused her to fall but her boots may have been unsuitable for ice.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-tyne-58205386</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-tyne-58205386</guid>
             <pubDate>Fri, 13 Aug 2021 14:52:09 GMT</pubDate>
@@ -254,6 +254,13 @@
             <pubDate>Fri, 13 Aug 2021 14:34:12 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The investigation so far]]></title>
+            <description><![CDATA[Police and forensic teams are searching multiple crime scenes after five people were killed.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-58200018</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58200018</guid>
+            <pubDate>Fri, 13 Aug 2021 16:38:44 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Shooting 'a truly shocking event' say police]]></title>
             <description><![CDATA[Devon and Cornwall Police Chief Constable Shaun Sawyer explains how reports of the shootings came in.]]></description>
             <link>https://www.bbc.co.uk/news/uk-58198081</link>
@@ -370,7 +377,7 @@
             <description><![CDATA[Explore the data on coronavirus in the UK and find out how many cases there are in your area.]]></description>
             <link>https://www.bbc.co.uk/news/uk-51768274</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-51768274</guid>
-            <pubDate>Thu, 12 Aug 2021 16:15:55 GMT</pubDate>
+            <pubDate>Fri, 13 Aug 2021 16:14:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[UK holidays: What are the rules?]]></title>
