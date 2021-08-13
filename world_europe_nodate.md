@@ -1,6 +1,6 @@
-1. [Covid: Germany fears thousands got saline, not vaccine from nurse](https://www.bbc.co.uk/news/world-europe-58186032) - More than 8,000 mostly elderly people are urged to get vaccinated again as a nurse is questioned.
-2. [Six killed in Plymouth gunman attack](https://www.bbc.co.uk/news/uk-england-devon-58195419) - A Plymouth MP says one of the victims was a child and more people are being treated in hospital.
-3. [Romelu Lukaku: Chelsea re-sign Belgium striker from Inter Milan for a club record £97.5m](https://www.bbc.co.uk/sport/football/58111490) - Chelsea have re-signed Belgium striker Romelu Lukaku from Inter Milan for £97.5m.
+1. [Six killed in Plymouth gunman attack](https://www.bbc.co.uk/news/uk-england-devon-58195419) - A Plymouth MP says one of the victims was a child and more people are being treated in hospital.
+2. [Romelu Lukaku: Chelsea re-sign Belgium striker from Inter Milan for a club record £97.5m](https://www.bbc.co.uk/sport/football/58111490) - Chelsea have re-signed Belgium striker Romelu Lukaku from Inter Milan for £97.5m.
+3. [Covid: Germany fears thousands got saline, not vaccine from nurse](https://www.bbc.co.uk/news/world-europe-58186032) - More than 8,000 mostly elderly people are urged to get vaccinated again as a nurse is questioned.
 4. [Italy may have registered Europe's hottest temperature on record](https://www.bbc.co.uk/news/world-europe-58130893) - If the registered reading is verified, it will be hottest temperature ever recorded in Europe.
 5. [Russia holds hypersonic flight expert in spy probe](https://www.bbc.co.uk/news/world-europe-58186033) - Alexander Kuranov, detained by FSB agents, runs a team of pioneering spaceflight researchers.
 6. [Wagner: Gaddafi's son faces arrest over Russian mercenaries](https://www.bbc.co.uk/news/world-africa-58191433) - A warrant is issued against Saif al-Islam Gaddafi after a BBC investigation into mercenaries in Libya.

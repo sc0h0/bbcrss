@@ -1,4 +1,4 @@
-1. [Afghanistan: UK troops sent to get Britons out as Taliban advances](https://www.bbc.co.uk/news/uk-58195286) - About 600 troops will be deployed on a short-term basis after the Taliban seized several cities.
+1. [Afghanistan heading for civil war - UK minister](https://www.bbc.co.uk/news/uk-58198340) - The defence secretary says poverty and terrorism are likely to increase as the UK and US withdraw.
 2. [Council policies often inconsistent with climate goals](https://www.bbc.co.uk/news/science-environment-58102578) - A third of English councils support policies that could increase emissions, BBC research suggests.
 3. [Sturgeon urges UK government to reassess Cambo oil field plan](https://www.bbc.co.uk/news/uk-scotland-58186181) - The first minister says proposals should be re-examined due to the severity of the climate emergency.
 4. [Starmer rejects McCluskey's claim Labour could be finished under his leadership](https://www.bbc.co.uk/news/uk-politics-58188208) - The Unite boss warns Labour could "go under" if Sir Keir Starmer remains leader, in a new autobiography.
