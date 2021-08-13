@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 13 Aug 2021 11:02:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Aug 2021 11:21:10 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -100,6 +100,13 @@
             <pubDate>Thu, 12 Aug 2021 05:10:50 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The $8bn EV company you’ve probably never heard of]]></title>
+            <description><![CDATA[Electric vehicle firm Arrival is worth $8bn (£5.7bn) - and is only making vans, buses and taxis.]]></description>
+            <link>https://www.bbc.co.uk/news/business-58174043</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58174043</guid>
+            <pubDate>Thu, 12 Aug 2021 23:41:59 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Virtual reality: 'There's no max, there's no limit!']]></title>
             <description><![CDATA["There's no max, there's no limit" to virtual reality, so is it the future of live music?]]></description>
             <link>https://www.bbc.co.uk/news/entertainment-arts-58177685</link>
@@ -119,20 +126,6 @@
             <link>https://www.bbc.co.uk/news/technology-58146042</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-58146042</guid>
             <pubDate>Mon, 09 Aug 2021 10:57:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How smart buildings could transform our experience of work]]></title>
-            <description><![CDATA[Lara Lewington visits a new smart office block to see how technology could transform working lives.]]></description>
-            <link>https://www.bbc.co.uk/news/technology-58014316</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-58014316</guid>
-            <pubDate>Wed, 04 Aug 2021 13:27:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CEO Secrets: Airbnb boss shares his business advice]]></title>
-            <description><![CDATA[Brian Chesky, co-founder and CEO of Airbnb, shares his business advice for the CEO Secrets series.]]></description>
-            <link>https://www.bbc.co.uk/news/business-58025562</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58025562</guid>
-            <pubDate>Tue, 03 Aug 2021 23:11:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How can new technology protect outdoor workers?]]></title>

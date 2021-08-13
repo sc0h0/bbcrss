@@ -1,4 +1,4 @@
-1. [Bridgend: Woman arrested in murder probe after boy, 2, dies](https://www.bbc.co.uk/news/uk-wales-58194706) - Police say they are not looking for anyone else in connection with the boy's death.
+1. [Bridgend: Woman arrested in murder probe after boy, 2, dies](https://www.bbc.co.uk/news/uk-wales-58194706) - Police are not looking for anyone else in connection with the boy's death.
 2. [Wales' GCSE gap widens for children from poorer backgrounds](https://www.bbc.co.uk/news/uk-wales-58189971) - While those getting A*-C grades is up, it is lower for pupils from poorer backgrounds.
 3. [Reading: Teacher gets stories published after 46 years](https://www.bbc.co.uk/news/uk-wales-58189969) - Keith Godwin used to make up stories for his pupils in the 1970s, now they have been published.
 4. [Fitness trackers used to monitor Wales sheep pregnancies](https://www.bbc.co.uk/news/uk-wales-58198198) - The devices measure how long the animals lie down, predicting when they will give birth.
