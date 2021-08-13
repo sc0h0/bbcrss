@@ -1,4 +1,4 @@
-1. [Plymouth shooting: Jake Davison named as gunman who killed five](https://www.bbc.co.uk/news/uk-england-devon-58197414) - Jake Davison killed five people, including a young girl, in Plymouth before turning the gun on himself.
+1. [Plymouth shooting: Jake Davison deadly spree took 6 minutes](https://www.bbc.co.uk/news/uk-england-devon-58197414) - Jake Davison killed five people, including a young girl, in Plymouth before turning the gun on himself.
 2. [James Markham killing: Boy, 14, charged with murder](https://www.bbc.co.uk/news/uk-england-london-58197629) - A 14-year-old boy will appear in youth court charged with murdering James Markham.
 3. [Woman died on hold reporting boyfriend assault](https://www.bbc.co.uk/news/uk-england-lincolnshire-58187438) - Daniela Espirito Santo, from Grantham, was not failed by police, a watchdog says.
 4. [Marble Arch Mound: Deputy leader resigns amid spiralling costs](https://www.bbc.co.uk/news/uk-england-london-58197626) - Westminster Council's Melvyn Caplan steps down after total costs nearly doubled to £6m.
