@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 13 Aug 2021 21:02:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Aug 2021 21:22:02 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -233,6 +233,13 @@
             <pubDate>Fri, 13 Aug 2021 08:17:12 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Brentford 2-0 Arsenal: Bees earn fully deserved win over Gunners]]></title>
+            <description><![CDATA[Brentford mark their Premier League debut with a deserved win over Arsenal at a jubilant Brentford Community Stadium.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58109868</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58109868</guid>
+            <pubDate>Fri, 13 Aug 2021 21:20:52 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[England v India: Rory Burns falls late to check hosts' fightback]]></title>
             <description><![CDATA[England's spirited fightback in the second Test against India is dented by the loss of Rory Burns late on day two at Lord's.]]></description>
             <link>https://www.bbc.co.uk/sport/cricket/58207135</link>
@@ -240,11 +247,11 @@
             <pubDate>Fri, 13 Aug 2021 17:55:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Hundred: Birmingham Phoenix beats Trent Rockets in must-win game in women's competition.]]></title>
-            <description><![CDATA[Birmingham Phoenix pull off a brilliant comeback victory over local rivals Trent Rockets at Trent Bridge to keep their hopes of making it out of the women's Hundred group stages alive.]]></description>
-            <link>https://www.bbc.co.uk/sport/cricket/58206847</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/58206847</guid>
-            <pubDate>Fri, 13 Aug 2021 17:39:20 GMT</pubDate>
+            <title><![CDATA[The Hundred: Liam Livingstone hits 50 as Birmingham Phoenix beat Trent Rockets to go top of the table]]></title>
+            <description><![CDATA[Birmingham Phoenix move to the top of the men's Hundred table after a comfortable win over rivals Trent Rockets at Trent Bridge.]]></description>
+            <link>https://www.bbc.co.uk/sport/cricket/58206850</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/58206850</guid>
+            <pubDate>Fri, 13 Aug 2021 21:02:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jack Grealish: Aston Villa can be stronger following £100m sale of captain, says Dean Smith]]></title>
@@ -254,11 +261,11 @@
             <pubDate>Fri, 13 Aug 2021 10:47:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Two National League games off due to Covid]]></title>
-            <description><![CDATA[Dover Athletic v Solihull Moors and Wrexham v Yeovil Town are both postponed due to Covid-19 outbreaks.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58203548</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58203548</guid>
-            <pubDate>Fri, 13 Aug 2021 13:25:35 GMT</pubDate>
+            <title><![CDATA[The Hundred: Birmingham Phoenix beats Trent Rockets in must-win game in women's competition.]]></title>
+            <description><![CDATA[Birmingham Phoenix pull off a brilliant comeback victory over local rivals Trent Rockets at Trent Bridge to keep their hopes of making it out of the women's Hundred group stages alive.]]></description>
+            <link>https://www.bbc.co.uk/sport/cricket/58206847</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/58206847</guid>
+            <pubDate>Fri, 13 Aug 2021 17:39:20 GMT</pubDate>
         </item>
     </channel>
 </rss>

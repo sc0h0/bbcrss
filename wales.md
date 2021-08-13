@@ -23,4 +23,4 @@
 23. [Cyn-gynghorydd yn methu â chael iawndal am sŵn awyrennau](https://www.bbc.co.uk/newyddion/58201465) - Fri, 13 Aug 2021 15:49:31 GMT - Roedd John Arthur Jones a'i wraig Rhian yn dadlau fod y sŵn yn amharu ar eu heiddo a'u hawliau dynol.
 24. [Covid: Galw ar bobl i fod yn 'ofalus' mewn clybiau nos](https://www.bbc.co.uk/newyddion/58194120) - Fri, 13 Aug 2021 18:08:00 GMT - "Cyfran sylweddol" o'r 187 achos Covid a gofnodwyd yn Sir Benfro yr wythnos hon yn ymwneud â chlybiau nos.
 25. [Unigrwydd cefn gwlad: 'Neb i siarad efo'](https://www.bbc.co.uk/newyddion/58199552) - Fri, 13 Aug 2021 10:02:50 GMT - Gethin Bickerton a sut aeth ati i ddysgu i fyw gyda’i iechyd meddwl.
-26. [Gohirio gêm gyntaf Wrecsam oherwydd Covid-19](https://www.bbc.co.uk/newyddion/58201458) - Fri, 13 Aug 2021 12:28:15 GMT - Mae'r gêm wedi'i gohirio ar ôl i achosion Covid-19 ddod i'r amlwg ymhlith carfan eu gwrthwynebwyr, Yeovil.
+26. [Cymru Premier: Derwyddon Cefn 0-2 Cei Connah](https://www.bbc.co.uk/newyddion/58209271) - Fri, 13 Aug 2021 21:06:50 GMT - Cei Connah oedd yn fuddugol yn erbyn Derwyddon Cefn nos Wener yng ngem agoriadol tymor newydd Cymru Premier.
