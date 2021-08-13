@@ -1,6 +1,6 @@
 1. ['We never knew how dangerous Loch Lomond was'](https://www.bbc.co.uk/news/uk-scotland-58188082) - Family of drowned teenager call for better education in schools on the dangers of Scotland's waters.
 2. [Fettes abuse accuser hails 'bittersweet victory' over extradition](https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-58190418) - A Crown Office u-turn means a man accused of abusing children at the prestigious school can be extradited from South Africa.
-3. ['Forensics stop people getting away with murder'](https://www.bbc.co.uk/news/uk-scotland-58188079) - Tom Nelson says the advances over his 40-year career could not have been dreamt of and there is more to come.
+3. ['Forensics stop people getting away with murder'](https://www.bbc.co.uk/news/uk-scotland-58188079) - Tom Nelson says the advances over his 40-year career could not have been dreamt of - and there is more to come.
 4. [Doctors and dentists awarded 3% pay rise in Scotland](https://www.bbc.co.uk/news/uk-scotland-58194902) - The Scottish government said the award was in recognition of efforts during the pandemic and will be backdated to 1 April 2021.
 5. [Prices for wool 'have gone through the floor'](https://www.bbc.co.uk/news/uk-scotland-highlands-islands-58162610) - Farmers and crofters say the once-important annual "wool cheque" is the lowest they have ever seen.
 6. [Two children injured in rollercoaster breakdown](https://www.bbc.co.uk/news/uk-scotland-highlands-islands-58190701) - The attraction at Landmark Forest Adventure Park near Aviemore suffered a mechanical failure.
