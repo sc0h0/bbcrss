@@ -1,4 +1,4 @@
-1. [Afghanistan: Panic and disbelief as thousands flee Taliban onslaught](https://www.bbc.co.uk/news/world-asia-58191638) - Thousands of Afghans seek refuge in the capital Kabul as the militants seize more key cities.
+1. [Afghanistan: Diplomats hasten exit as Taliban near Kabul](https://www.bbc.co.uk/news/world-asia-58206400) - US troops arrive to help with evacuation efforts as militants seize a city an hour's drive from Kabul.
 2. [Afghan war: Kabul's young women plead for help as Taliban advance](https://www.bbc.co.uk/news/world-asia-58205062) - They feel abandoned by the democratic world they thought they were part of, writes Yalda Hakim.
 3. [BBC condemns Russia's decision to not renew correspondent's visa](https://www.bbc.co.uk/news/world-europe-58203842) - The decision to not renew Sarah Rainsford's visa is an "assault on media freedom", the corporation says.
 4. [Britney Spears' father to step down as conservator](https://www.bbc.co.uk/news/world-us-canada-58191439) - Jamie Spears pledges to take part in an "orderly transition" but doesn't say when that will happen.
@@ -8,7 +8,7 @@
 8. [Four Florida educators died of Covid within day of each other, says union](https://www.bbc.co.uk/news/world-us-canada-58204206) - A Florida teachers union announced the deaths with just days to go before the academic year begins.
 9. [Lee Jae-yong: Samsung heir released from prison on parole](https://www.bbc.co.uk/news/world-asia-58196575) - Critics say the move raises fresh questions about the preferential treatment of business leaders.
 10. [North Korea airs Olympics coverage days after it ends](https://www.bbc.co.uk/news/world-asia-58196464) - Korean Central Television airs a women's football match that was actually played last month.
-11. [US census: Hispanic and Asian-American driving US population growth](https://www.bbc.co.uk/news/world-us-canada-58195166) - Newly released data points to sluggish population growth and a more multiracial US.
+11. [Afghanistan: Journalist Anisa Shaheed refuses to give in to Taliban](https://www.bbc.co.uk/news/world-asia-58175088) - Anisa Shaheed fears women's freedoms will be curbed again if the Taliban come to power.
 12. [Covid booster: US approves third jab for the immunocompromised](https://www.bbc.co.uk/news/world-us-canada-58191293) - It marks the first time US health officials have indicated that Covid booster shots may be needed.
 13. [Afghanistan: How the Taliban gained ground so quickly](https://www.bbc.co.uk/news/world-asia-58187410) - The situation looks bleak for the Afghan government, but there may still be a chance of a stalemate.
 14. [The murderous crime wave sweeping Israel's Arabs](https://www.bbc.co.uk/news/world-middle-east-58183954) - Many killings often go unsolved, with blame being put on the police.

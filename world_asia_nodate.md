@@ -1,7 +1,7 @@
 1. [Afghanistan: Panic and disbelief as thousands flee Taliban onslaught](https://www.bbc.co.uk/news/world-asia-58191638) - Thousands of Afghans seek refuge in the capital Kabul as the militants seize more key cities.
 2. [Twitter locks accounts of India party leaders](https://www.bbc.co.uk/news/world-asia-india-58196793) - Twitter has locked accounts of Rahul Gandhi and others for sharing photos of a rape victim's parents.
-3. [North Korea airs Olympics coverage days after it ends](https://www.bbc.co.uk/news/world-asia-58196464) - Korean Central Television airs a women's football match that was actually played last month.
-4. [Afghanistan: Desperation as thousands flee the Taliban](https://www.bbc.co.uk/news/world-asia-58191043) - Yogita Limaye reports from a camp in Kabul where thousands who have been displaced by violence seek refuge.
+3. [Afghanistan: Journalist Anisa Shaheed refuses to give in to Taliban](https://www.bbc.co.uk/news/world-asia-58175088) - Anisa Shaheed fears women's freedoms will be curbed again if the Taliban come to power.
+4. [North Korea airs Olympics coverage days after it ends](https://www.bbc.co.uk/news/world-asia-58196464) - Korean Central Television airs a women's football match that was actually played last month.
 5. [Ningbo: Global supply fears as China partly shuts major port](https://www.bbc.co.uk/news/business-58196477) - The closure of a terminal at Ningbo-Zhoushan port came after a worker was infected with Covid-19.
 6. [Kiwi Chow: The film-maker who took Hong Kong's protests to Cannes](https://www.bbc.co.uk/news/world-asia-58196411) - Kiwi Chow's documentary was a surprise at the film festival - and it has a controversial title.
 7. [China says crackdown on business to go on for years](https://www.bbc.co.uk/news/business-58182658) - The five-year plan comes soon after a major clampdown on several big technology and education firms.
