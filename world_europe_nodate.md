@@ -1,5 +1,5 @@
 1. [Turkey floods: Death toll near Black Sea rises to 27](https://www.bbc.co.uk/news/world-europe-58200296) - Flash floods in northern Turkey are the country's second natural disaster this month.
-2. [Plymouth shooting: Jake Davison named as gunman who killed five](https://www.bbc.co.uk/news/uk-england-devon-58197414) - Jake Davison is suspected to have killed five people before turning the gun on himself.
+2. [Plymouth shooting: Jake Davison named as gunman who killed five](https://www.bbc.co.uk/news/uk-england-devon-58197414) - In online videos, Jake Davison spoke of being "beaten down" and "defeated by life".
 3. [Romelu Lukaku: Chelsea re-sign Belgium striker from Inter Milan for a club record £97.5m](https://www.bbc.co.uk/sport/football/58111490) - Chelsea have re-signed Belgium striker Romelu Lukaku from Inter Milan for £97.5m.
 4. [Russia holds hypersonic flight expert in spy probe](https://www.bbc.co.uk/news/world-europe-58186033) - Alexander Kuranov, detained by FSB agents, runs a team of pioneering spaceflight researchers.
 5. [Covid: Germany fears thousands got saline, not vaccine from nurse](https://www.bbc.co.uk/news/world-europe-58186032) - More than 8,000 mostly elderly people are urged to get vaccinated again as a nurse is questioned.
