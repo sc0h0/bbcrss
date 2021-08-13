@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 13 Aug 2021 15:40:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Aug 2021 15:45:41 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -30,13 +30,6 @@
             <pubDate>Fri, 13 Aug 2021 14:38:36 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid-19: Universities to return to face-to-face teaching]]></title>
-            <description><![CDATA[The majority of students in Northern Ireland have spent the last academic year learning online.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58199977</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58199977</guid>
-            <pubDate>Fri, 13 Aug 2021 10:46:12 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Covid-19: Four more deaths and 1,389 new cases]]></title>
             <description><![CDATA[Covid-19 linked deaths are reported by counting patients who die within 28 days of testing positive.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58204481</link>
@@ -44,11 +37,18 @@
             <pubDate>Fri, 13 Aug 2021 13:52:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Gerry Hutch arrested in Spain over boxing weigh-in gun attack]]></title>
-            <description><![CDATA[Gerry Hutch, known as "The Monk", is wanted over the 2016 gun attack at the Regency Airport Hotel.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58195768</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58195768</guid>
-            <pubDate>Thu, 12 Aug 2021 23:08:51 GMT</pubDate>
+            <title><![CDATA[Fishing in Fermanagh: Reeling in young anglers by teaching new skills]]></title>
+            <description><![CDATA[Erne Anglers is offering lessons in the basics of fishing to youngsters in Enniskillen.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58201855</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58201855</guid>
+            <pubDate>Fri, 13 Aug 2021 15:42:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19: Universities to return to face-to-face teaching]]></title>
+            <description><![CDATA[The majority of students in Northern Ireland have spent the last academic year learning online.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58199977</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58199977</guid>
+            <pubDate>Fri, 13 Aug 2021 10:46:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: Where are Covid-19 vaccine clinics in NI?]]></title>
@@ -210,6 +210,13 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58173472</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58173472</guid>
             <pubDate>Wed, 11 Aug 2021 12:04:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gerry Hutch arrested in Spain over boxing weigh-in gun attack]]></title>
+            <description><![CDATA[Gerry Hutch, known as "The Monk", is wanted over the 2016 gun attack at the Regency Airport Hotel.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58195768</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58195768</guid>
+            <pubDate>Thu, 12 Aug 2021 23:08:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Climate change: Ireland getting warmer and wetter]]></title>
