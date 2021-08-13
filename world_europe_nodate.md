@@ -7,7 +7,7 @@
 7. [Messi: What are the PSG fan tokens given to the footballer?](https://www.bbc.co.uk/news/world-58094912) - Paris St-Germain has given Messi a "large number" of fan tokens as part of his welcome package.
 8. [Berlin embassy arrest: A case of old-school spying?](https://www.bbc.co.uk/news/uk-58185957) - Why nothing in the case of the arrest of a man at the British Embassy in Berlin should surprise us.
 9. [Picasso masterpieces to go on sale in blockbuster auction](https://www.bbc.co.uk/news/world-us-canada-58185744) - Proceeds could reach $100m in what is thought to be the most valuable auction of the artist's works.
-10. [Kiwi Chow: The filmmaker who took Hong Kong's protests to Cannes](https://www.bbc.co.uk/news/world-asia-58196411) - Kiwi Chow's film about the 2019 protests was screened in Cannes - and it has a controversial title.
+10. [Kiwi Chow: The filmmaker who took Hong Kong's protests to Cannes](https://www.bbc.co.uk/news/world-asia-58196411) - Kiwi Chow's documentary was a surprise at the film festival - and it has a controversial title.
 11. [Half a million EU citizens await decision over right to stay in UK](https://www.bbc.co.uk/news/uk-58188657) - More than half a million EU citizens who have applied for settled status in the UK await a decision.
 12. [The shopkeeper saving his island from wildfires](https://www.bbc.co.uk/news/world-europe-58177493) - Spyros isn't a firefighter, but when his home was threatened with wildfires, he decided to take action.
 13. [Wagner: Scale of Russian mercenary mission in Libya exposed](https://www.bbc.co.uk/news/world-africa-58009514) - A Samsung tablet obtained by the BBC unveils chilling details of how mercenaries fought in Libya’s war.

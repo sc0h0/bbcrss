@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 13 Aug 2021 01:50:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Aug 2021 01:59:48 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -37,6 +37,13 @@
             <pubDate>Thu, 12 Aug 2021 23:17:21 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Satanic forums visited by a killer uncovered]]></title>
+            <description><![CDATA[The BBC uncovers evidence about Satanic forums visited by killer Danyal Hussein.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-58191473</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58191473</guid>
+            <pubDate>Thu, 12 Aug 2021 23:09:32 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Back to school causes fierce US debate over student masks]]></title>
             <description><![CDATA[With Covid cases rising, Americans are divided over how students should return to the classroom.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-58194162</link>
@@ -44,25 +51,18 @@
             <pubDate>Thu, 12 Aug 2021 19:48:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Michael Spavor: Canadian jailed for 11 years in China on spying charges]]></title>
-            <description><![CDATA[His sentencing is the latest development in a diplomatic spat between the two countries.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-china-58168587</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-58168587</guid>
-            <pubDate>Wed, 11 Aug 2021 06:03:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Afghanistan war: Biden says he does not regret troop withdrawal]]></title>
-            <description><![CDATA[The US president urges Afghan leaders to fight for their nation, as more cities fall to the Taliban.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58167408</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58167408</guid>
-            <pubDate>Wed, 11 Aug 2021 08:27:30 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[How North American cities are bracing for more heatwaves]]></title>
             <description><![CDATA[Local governments are getting creative when it comes to tackling frequent and extreme heat.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-58015089</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-58015089</guid>
             <pubDate>Wed, 11 Aug 2021 23:13:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Michael Spavor: Canadian jailed for 11 years in China on spying charges]]></title>
+            <description><![CDATA[His sentencing is the latest development in a diplomatic spat between the two countries.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-china-58168587</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-58168587</guid>
+            <pubDate>Wed, 11 Aug 2021 06:03:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Kathy Hochul: New York's next governor influenced by Irish roots]]></title>
