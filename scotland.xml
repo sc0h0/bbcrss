@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 13 Aug 2021 11:49:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Aug 2021 12:18:59 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -37,6 +37,13 @@
             <pubDate>Fri, 13 Aug 2021 09:43:02 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA['Hip hip hooray, it's the Burryman's Day']]></title>
+            <description><![CDATA[The quirky parade features a man walking through South Queensferry covered from head to ankles in burrs.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-58201759</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-58201759</guid>
+            <pubDate>Fri, 13 Aug 2021 12:03:41 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Prices for wool 'have gone through the floor']]></title>
             <description><![CDATA[Farmers and crofters say the once-important annual "wool cheque" is the lowest they have ever seen.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-highlands-islands-58162610</link>
@@ -44,18 +51,18 @@
             <pubDate>Fri, 13 Aug 2021 05:42:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Fettes abuse accuser hails 'bittersweet victory' over extradition]]></title>
-            <description><![CDATA[A Crown Office U-turn means a man accused of abusing children at the prestigious school can be extradited from South Africa.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-58190418</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-58190418</guid>
-            <pubDate>Thu, 12 Aug 2021 19:05:09 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA['Forensics stop people getting away with murder']]></title>
             <description><![CDATA[Tom Nelson says the advances over his 40-year career could not have been dreamt of - and there is more to come.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-58188079</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58188079</guid>
             <pubDate>Fri, 13 Aug 2021 05:39:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fettes abuse accuser hails 'bittersweet victory' over extradition]]></title>
+            <description><![CDATA[A Crown Office U-turn means a man accused of abusing children at the prestigious school can be extradited from South Africa.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-58190418</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-58190418</guid>
+            <pubDate>Thu, 12 Aug 2021 19:05:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Una Stubbs: Sir Cliff and Cumberbatch remember 'wonderful' actress]]></title>
@@ -72,13 +79,6 @@
             <pubDate>Fri, 13 Aug 2021 07:37:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Doctors and dentists awarded 3% pay rise in Scotland]]></title>
-            <description><![CDATA[The Scottish government said the award was in recognition of efforts during the pandemic and will be backdated to 1 April 2021.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-58194902</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58194902</guid>
-            <pubDate>Thu, 12 Aug 2021 19:36:38 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Two children injured in rollercoaster breakdown]]></title>
             <description><![CDATA[The attraction at Landmark Forest Adventure Park near Aviemore suffered a mechanical failure.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-highlands-islands-58190701</link>
@@ -91,6 +91,13 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58187779</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58187779</guid>
             <pubDate>Thu, 12 Aug 2021 17:05:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Doctors and dentists awarded 3% pay rise in Scotland]]></title>
+            <description><![CDATA[The Scottish government said the award was in recognition of efforts during the pandemic and will be backdated to 1 April 2021.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-58194902</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58194902</guid>
+            <pubDate>Thu, 12 Aug 2021 19:36:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid in Scotland: Where are the latest cases?]]></title>
