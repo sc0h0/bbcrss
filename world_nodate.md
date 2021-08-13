@@ -1,4 +1,4 @@
-1. [Taliban capture Kandahar, Afghanistan's second largest city](https://www.bbc.co.uk/news/world-asia-58191638) - Civilians seek refuge in Kabul as the militants seize key cities around the country.
+1. [Afghanistan: Panic and disbelief as thousands flee Taliban onslaught](https://www.bbc.co.uk/news/world-asia-58191638) - Thousands of Afghans seek refuge in the capital Kabul as the militants seize more key cities.
 2. [Britney Spears' father to step down as conservator](https://www.bbc.co.uk/news/world-us-canada-58191439) - Jamie Spears pledges to take part in an "orderly transition" without confirming when he will do so.
 3. [Lee Jae-yong: Samsung heir released from prison on parole](https://www.bbc.co.uk/news/world-asia-58196575) - Critics say the move raises fresh questions about the preferential treatment of business leaders.
 4. [US census: Hispanic and Asian-American driving US population growth](https://www.bbc.co.uk/news/world-us-canada-58195166) - Newly released data points to sluggish population growth and a more multiracial US.
