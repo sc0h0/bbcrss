@@ -1,15 +1,15 @@
-1. [Plymouth shooting: Suspected gunman and five others die](https://www.bbc.co.uk/news/uk-england-devon-58195419) - A Plymouth MP says one of the victims was a child and more people are being treated in hospital.
+1. [Plymouth shooting: Jake Davison named as gunman who killed five](https://www.bbc.co.uk/news/uk-england-devon-58197414) - Jake Davison is suspected to have killed five people in Plymouth before turning the gun on himself.
 2. [Taliban capture Kandahar, Afghanistan's second largest city](https://www.bbc.co.uk/news/world-asia-58191638) - Kandahar's fall is a crushing blow for the government, as the militants continue their offensive.
-3. [Afghanistan: UK troops sent to get Britons out as Taliban advances](https://www.bbc.co.uk/news/uk-58195286) - About 600 troops will be deployed on a short-term basis after the Taliban seized several cities.
+3. [Afghanistan heading for civil war - UK minister](https://www.bbc.co.uk/news/uk-58198340) - The defence secretary says poverty and terrorism are likely to increase as the UK and US withdraw.
 4. [Satanic forums visited by a killer uncovered](https://www.bbc.co.uk/news/uk-58191473) - The BBC uncovers evidence about Satanic forums visited by killer Danyal Hussein.
 5. [Metabolism peaks at age one and tanks after 60, study finds](https://www.bbc.co.uk/news/health-58186710) - Middle-aged spread cannot be blamed on a waning metabolism, according to researchers.
 6. [Covid-19: Gulf in hospitals' virus containment and metal fans go back to Bloodstock](https://www.bbc.co.uk/news/uk-58196884) - Five things you need to know about the coronavirus pandemic this Friday morning.
 7. [Huge gulf in hospitals' ability to contain Covid](https://www.bbc.co.uk/news/health-58186709) - Hospital-acquired Covid ranged from 1% to 25% of cases in different hospitals.
 8. [Afghanistan: Desperation as thousands flee the Taliban](https://www.bbc.co.uk/news/world-asia-58191043) - Yogita Limaye reports from a camp in Kabul where thousands who have been displaced by violence seek refuge.
-9. [Britney Spears' father steps down as conservator](https://www.bbc.co.uk/news/world-us-canada-58191439) - The star had requested Jamie Spears be removed after accusing him of "conservatorship abuse".
-10. ['We never knew how dangerous Loch Lomond was'](https://www.bbc.co.uk/news/uk-scotland-58188082) - Family of drowned teenager call for better education in schools on the dangers of Scotland's waters.
-11. [Council policies often inconsistent with climate goals](https://www.bbc.co.uk/news/science-environment-58102578) - A third of English councils support policies that could increase emissions, BBC research suggests.
-12. [North Korea airs Olympics coverage days after it ends](https://www.bbc.co.uk/news/world-asia-58196464) - Korean Central Television airs a women's football match that was actually played last month.
+9. [Marble Arch Mound: Deputy leader resigns amid spiralling costs](https://www.bbc.co.uk/news/uk-england-london-58197626) - Westminster Council's Melvyn Caplan steps down after total costs nearly doubled to £6m.
+10. [Britney Spears' father to step down as conservator](https://www.bbc.co.uk/news/world-us-canada-58191439) - The star had requested Jamie Spears be removed after accusing him of "conservatorship abuse".
+11. ['We never knew how dangerous Loch Lomond was'](https://www.bbc.co.uk/news/uk-scotland-58188082) - Family of drowned teenager call for better education in schools on the dangers of Scotland's waters.
+12. [Council policies often inconsistent with climate goals](https://www.bbc.co.uk/news/science-environment-58102578) - A third of English councils support policies that could increase emissions, BBC research suggests.
 13. [Lord of the Rings: Amazon moves show to UK from New Zealand](https://www.bbc.co.uk/news/business-58196473) - The multi-million dollar production is one of the most expensive shows in the history of television.
 14. [The papers: 'Plymouth death toll fears' and 'Operation Kabul'](https://www.bbc.co.uk/news/blogs-the-papers-58195638) - Friday's papers focus on a serious firearms incident in Plymouth and UK troops returning to Afghanistan.
 15. [TV newsreader Victoria Derbyshire overcomes on-air shoe struggle](https://www.bbc.co.uk/news/uk-58194764) - The BBC News channel presenter was seen quietly cursing as she struggled to put on her high heels.
@@ -43,6 +43,6 @@
 43. [Covid: How do I get a lateral flow or PCR test?](https://www.bbc.co.uk/news/health-51943612) - Everyone in England and Scotland is being encouraged to take rapid coronavirus tests regularly.
 44. [What are the rules and guidance for face masks and coverings?](https://www.bbc.co.uk/news/health-51205344) - Masks are no longer compulsory in England, but remain necessary in other parts of the UK.
 45. [Covid: What do under-30s need to know about the vaccine?](https://www.bbc.co.uk/news/health-57273875) - The government has announced that 16 and 17-year-olds will receive the Covid vaccine.
-46. [Malta: The teenagers pulled from the sea and accused of terrorism](https://www.bbc.co.uk/news/world-57988934) - How three teenagers rescued from the Mediterranean Sea ended up in Malta accused of terrorism.
-47. [‘If only I’d found out earlier I had pelvic congestion syndrome’](https://www.bbc.co.uk/news/stories-58030699) - Sophie Robehmed suffered from back and stomach pains for years before being diagnosed with PCS.
-48. [From Afghan interpreter to US homeless - the long road to the American dream](https://www.bbc.co.uk/news/world-us-canada-58020494) - Thousands of Afghan interpreters have waited years to flee to the US. Arriving is a different story.
+46. [Wildfires: How Portuguese club Tondela drove through the flames](https://www.bbc.co.uk/sport/football/58101546) - In Tondela, the bond between club and fans was at its strongest during the night in October 2017 when nobody slept.
+47. [Malta: The teenagers pulled from the sea and accused of terrorism](https://www.bbc.co.uk/news/world-57988934) - How three teenagers rescued from the Mediterranean Sea ended up in Malta accused of terrorism.
+48. [‘If only I’d found out earlier I had pelvic congestion syndrome’](https://www.bbc.co.uk/news/stories-58030699) - Sophie Robehmed suffered from back and stomach pains for years before being diagnosed with PCS.

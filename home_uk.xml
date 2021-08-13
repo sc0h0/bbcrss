@@ -11,16 +11,16 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 13 Aug 2021 06:52:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Aug 2021 07:15:54 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
-            <title><![CDATA[Plymouth shooting: Suspected gunman and five others die]]></title>
-            <description><![CDATA[A Plymouth MP says one of the victims was a child and more people are being treated in hospital.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-devon-58195419</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-devon-58195419</guid>
-            <pubDate>Fri, 13 Aug 2021 06:22:56 GMT</pubDate>
+            <title><![CDATA[Plymouth shooting: Jake Davison named as gunman who killed five]]></title>
+            <description><![CDATA[Jake Davison is suspected to have killed five people in Plymouth before turning the gun on himself.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-devon-58197414</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-devon-58197414</guid>
+            <pubDate>Fri, 13 Aug 2021 07:10:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Taliban capture Kandahar, Afghanistan's second largest city]]></title>
@@ -30,11 +30,11 @@
             <pubDate>Fri, 13 Aug 2021 06:50:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Afghanistan: UK troops sent to get Britons out as Taliban advances]]></title>
-            <description><![CDATA[About 600 troops will be deployed on a short-term basis after the Taliban seized several cities.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58195286</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58195286</guid>
-            <pubDate>Fri, 13 Aug 2021 06:33:53 GMT</pubDate>
+            <title><![CDATA[Afghanistan heading for civil war - UK minister]]></title>
+            <description><![CDATA[The defence secretary says poverty and terrorism are likely to increase as the UK and US withdraw.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-58198340</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58198340</guid>
+            <pubDate>Fri, 13 Aug 2021 07:03:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Satanic forums visited by a killer uncovered]]></title>
@@ -72,7 +72,14 @@
             <pubDate>Thu, 12 Aug 2021 23:10:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Britney Spears' father steps down as conservator]]></title>
+            <title><![CDATA[Marble Arch Mound: Deputy leader resigns amid spiralling costs]]></title>
+            <description><![CDATA[Westminster Council's Melvyn Caplan steps down after total costs nearly doubled to £6m.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-58197626</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-58197626</guid>
+            <pubDate>Fri, 13 Aug 2021 07:02:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Britney Spears' father to step down as conservator]]></title>
             <description><![CDATA[The star had requested Jamie Spears be removed after accusing him of "conservatorship abuse".]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-58191439</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-58191439</guid>
@@ -91,13 +98,6 @@
             <link>https://www.bbc.co.uk/news/science-environment-58102578</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-58102578</guid>
             <pubDate>Fri, 13 Aug 2021 02:02:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[North Korea airs Olympics coverage days after it ends]]></title>
-            <description><![CDATA[Korean Central Television airs a women's football match that was actually played last month.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58196464</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58196464</guid>
-            <pubDate>Fri, 13 Aug 2021 03:27:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Lord of the Rings: Amazon moves show to UK from New Zealand]]></title>
@@ -331,6 +331,13 @@
             <pubDate>Wed, 11 Aug 2021 15:58:15 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Wildfires: How Portuguese club Tondela drove through the flames]]></title>
+            <description><![CDATA[In Tondela, the bond between club and fans was at its strongest during the night in October 2017 when nobody slept.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58101546</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58101546</guid>
+            <pubDate>Wed, 11 Aug 2021 23:04:35 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Malta: The teenagers pulled from the sea and accused of terrorism]]></title>
             <description><![CDATA[How three teenagers rescued from the Mediterranean Sea ended up in Malta accused of terrorism.]]></description>
             <link>https://www.bbc.co.uk/news/world-57988934</link>
@@ -343,13 +350,6 @@
             <link>https://www.bbc.co.uk/news/stories-58030699</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/stories-58030699</guid>
             <pubDate>Fri, 30 Jul 2021 23:59:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[From Afghan interpreter to US homeless - the long road to the American dream]]></title>
-            <description><![CDATA[Thousands of Afghan interpreters have waited years to flee to the US. Arriving is a different story.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-58020494</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-58020494</guid>
-            <pubDate>Mon, 02 Aug 2021 19:46:17 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -1,4 +1,4 @@
-1. [Britney Spears' father steps down as conservator](https://www.bbc.co.uk/news/world-us-canada-58191439) - The star had requested Jamie Spears be removed after accusing him of "conservatorship abuse".
+1. [Britney Spears' father to step down as conservator](https://www.bbc.co.uk/news/world-us-canada-58191439) - The star had requested Jamie Spears be removed after accusing him of "conservatorship abuse".
 2. [Lord of the Rings: Amazon moves show to UK from New Zealand](https://www.bbc.co.uk/news/business-58196473) - The multi-million dollar production is one of the most expensive shows in the history of television.
 3. [Coda: 'Deafness is not a costume you can put on,' says film director](https://www.bbc.co.uk/news/entertainment-arts-58058653) - The maker of the film Coda says being authentic to the story of child with deaf parents was vital.
 4. [Una Stubbs: Till Death Us Do Part and Sherlock actress dies aged 84](https://www.bbc.co.uk/news/entertainment-arts-58190446) - She was known for her roles in shows like Worzel Gummidge, Till Death Us Do Part and Sherlock.

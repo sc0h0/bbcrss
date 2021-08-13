@@ -1,4 +1,4 @@
-1. [Plymouth shooting: Suspected gunman and five others die](https://www.bbc.co.uk/news/uk-england-devon-58195419) - A Plymouth MP says one of the victims was a child and more people are being treated in hospital.
+1. [Plymouth shooting: Jake Davison named as gunman who killed five](https://www.bbc.co.uk/news/uk-england-devon-58197414) - Jake Davison is suspected to have killed five people in Plymouth before turning the gun on himself.
 2. [Cheshire care worker caught on camera sexually assaulting patient](https://www.bbc.co.uk/news/uk-england-stoke-staffordshire-58188294) - Benjamin Poole, 21, is jailed for six years after admitting seven offences.
 3. [M4 near Langley and Slough to close for further smart motorway work](https://www.bbc.co.uk/news/uk-england-berkshire-58191772) - The weekend closure between junctions five and six will last until Monday, Highways England says.
 4. [Priti Patel: Men jailed over racist Snapchat video that went viral](https://www.bbc.co.uk/news/uk-england-nottinghamshire-58188886) - The racist Snapchat video went viral and was viewed by millions of people.
@@ -6,7 +6,7 @@
 6. [Ryanair sorry it made autistic Harlow boy take Covid test](https://www.bbc.co.uk/news/uk-england-essex-58184608) - The boy's mother says he was "petrified" about being forced to have the test, despite being exempt.
 7. [Somerset mum creates dream prom for child with rare disease](https://www.bbc.co.uk/news/uk-england-bristol-58181717) - Kiera's mother wanted her to be able to enjoy a school prom before she embarks on further treatment.
 8. [Covid: Knowsley Council ponders sick day rule for unvaccinated staff](https://www.bbc.co.uk/news/uk-england-merseyside-58190763) - Knowsley Council is considering reclassifying self-isolation for the unvaccinated as sick leave.
-9. [Builder fleeced vulnerable victims out of £100,000](https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-58189584) - George Allen is described by a judge as a "dyed in the wool fraudster"
+9. [Builder fleeced vulnerable victims out of £100,000](https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-58189584) - George Allen is described by a judge as a "dyed-in-the-wool fraudster"
 10. [Charity aims to school taxi drivers to look for signs of distress](https://www.bbc.co.uk/news/uk-england-bristol-58187049) - Not the Last Stop aims to help taxi drivers recognise when customers might be considering self harm.
 11. [Victoria station bus crash victim named as Melissa Burr](https://www.bbc.co.uk/news/uk-england-london-58187859) - Melissa Burr was killed when two single-decker buses crashed outside London Victoria rail station.
 12. ['Penny-sized' mouse rescued after cat scares mother away](https://www.bbc.co.uk/news/uk-england-tyne-58186659) - The tiny newborn was about the size of a one pence coin when she was found at a house in Newcastle.
