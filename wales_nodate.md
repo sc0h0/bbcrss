@@ -1,9 +1,9 @@
 1. [Bridgend: Woman arrested in murder probe after boy, 2, dies](https://www.bbc.co.uk/news/uk-wales-58194706) - Police are not looking for anyone else in connection with the boy's death.
 2. [Wales' GCSE gap widens for children from poorer backgrounds](https://www.bbc.co.uk/news/uk-wales-58189971) - While those getting A*-C grades is up, it is lower for pupils from poorer backgrounds.
 3. [Reading: Teacher gets stories published after 46 years](https://www.bbc.co.uk/news/uk-wales-58189969) - Keith Godwin used to make up stories for his pupils in the 1970s, now they have been published.
-4. [Fitness trackers used to monitor Wales sheep pregnancies](https://www.bbc.co.uk/news/uk-wales-58198198) - The devices measure how long the animals lie down, predicting when they will give birth.
-5. [Covid: Record visits to north Wales boost tourism](https://www.bbc.co.uk/news/uk-wales-58189968) - North Wales has overtaken Cornwall and Devon for staycations, one organisation says.
-6. [Skate park 'devastated' after bid to reopen in Swansea refused](https://www.bbc.co.uk/news/uk-wales-58172022) - Ramps Skatepark, which wants to reopen in a new location, says it will appeal against the decision.
+4. [Skate park 'devastated' after bid to reopen in Swansea refused](https://www.bbc.co.uk/news/uk-wales-58172022) - Ramps Skatepark, which wants to reopen in a new location, says it will appeal against the decision.
+5. [Fitness trackers used to monitor Wales sheep pregnancies](https://www.bbc.co.uk/news/uk-wales-58198198) - The devices measure how long the animals lie down, predicting when they will give birth.
+6. [Covid: Record visits to north Wales boost tourism](https://www.bbc.co.uk/news/uk-wales-58189968) - North Wales has overtaken Cornwall and Devon for staycations, one organisation says.
 7. [Crickhowell rape: Man arrested after Powys attack](https://www.bbc.co.uk/news/uk-wales-58191699) - Dyfed-Powys Police said the suspect, arrested on Tuesday, has been released under investigation.
 8. [Doctor who did locum shifts while on sick would 'lie and lie'](https://www.bbc.co.uk/news/uk-wales-58191698) - Dr Joao Muel is facing 13 allegations of dishonesty and clinical failure in 2018 and 2019, tribunal hears.
 9. [Cat of the year: Three-legged Minty wins charity award](https://www.bbc.co.uk/news/uk-wales-58189412) - Minty was recognised for his "special bond" with six-year-old Connor, who has learning difficulties.
@@ -23,5 +23,5 @@
 23. [Ymchwiliad llofruddiaeth wedi i fachgen 2 oed farw](https://www.bbc.co.uk/newyddion/58186503) - Mae menyw 31 wedi ei harestio ar amheuaeth o lofruddiaeth wedi digwyddiad ym Mhen-y-bont ar Ogwr.
 24. [TGAU: Mwy o fwlch rhwng y difreintiedig a'u cyfoedion](https://www.bbc.co.uk/newyddion/58194116) - Mae nifer y disgyblion sy'n dod o gefndir difreintiedig ac wedi derbyn graddau rhwng A* a C wedi lleihau.
 25. [Gwyliau: Gogledd Cymru'n fwy poblogaidd na Chernyw](https://www.bbc.co.uk/newyddion/58192422) - Busnesau twristiaeth yn dathlu haf prysur wrth i gyfyngiadau teithio dramor olygu mwy o bobl yn cymryd gwyliau yng Nghymru.
-26. [Y Gymraes tu ôl i grysau Brasil, Barça a'r All Blacks](https://www.bbc.co.uk/newyddion/58186548) - Ffion Appleton Jones o Aberystwyth sy'n trafod ei gyrfa yn dylunio dillad chwaraeon.
+26. [Unigrwydd cefn gwlad: 'Neb i siarad efo'](https://www.bbc.co.uk/newyddion/58199552) - Gethin Bickerton a sut aeth ati i ddysgu i fyw gyda’i iechyd meddwl.
 27. [Gohirio gêm gyntaf Wrecsam oherwydd Covid-19](https://www.bbc.co.uk/newyddion/58201458) - Mae'r gêm wedi'i gohirio ar ôl i achosion Covid-19 ddod i'r amlwg ymhlith carfan eu gwrthwynebwyr, Yeovil.
