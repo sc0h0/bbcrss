@@ -23,5 +23,5 @@
 23. [Ymchwiliad llofruddiaeth wedi i fachgen 2 oed farw](https://www.bbc.co.uk/newyddion/58186503) - Mae menyw 31 wedi ei harestio ar amheuaeth o lofruddiaeth wedi digwyddiad ym Mhen-y-bont ar Ogwr.
 24. [TGAU: Mwy o fwlch rhwng y difreintiedig a'u cyfoedion](https://www.bbc.co.uk/newyddion/58194116) - Mae nifer y disgyblion sy'n dod o gefndir difreintiedig ac wedi derbyn graddau rhwng A* a C wedi lleihau.
 25. [Gwyliau: Gogledd Cymru'n fwy poblogaidd na Chernyw](https://www.bbc.co.uk/newyddion/58192422) - Busnesau twristiaeth yn dathlu haf prysur wrth i gyfyngiadau teithio dramor olygu mwy o bobl yn cymryd gwyliau yng Nghymru.
-26. [Cerdyn post oddi wrth... Mari Lovgreen](https://www.bbc.co.uk/newyddion/58173010) - Y gyflwynwraig sy'n anfon cyfarchion o'i gwyliau gartref.
+26. [Y Gymraes tu ôl i grysau Brasil, Barça a'r All Blacks](https://www.bbc.co.uk/newyddion/58186548) - Ffion Appleton Jones o Aberystwyth sy'n trafod ei gyrfa yn dylunio dillad chwaraeon.
 27. [Torcalon i'r Seintiau Newydd yng Nghyngres Europa](https://www.bbc.co.uk/newyddion/58194977) - Y Seintiau allan o Gynghres Ewropa ar giciau o'r smotyn er iddyn nhw fod ddwy ar y blaen gyda phum munud yn weddill.
