@@ -37,11 +37,11 @@
 37. [Covid PCR costs can be excessive and exploitative, says Javid](https://www.bbc.co.uk/news/business-58137461) - The health secretary calls on a watchdog to investigate "exploitative" firms overcharging holidaymakers.
 38. [PM's coal mining 'joke' no laughing matter, say MPs](https://www.bbc.co.uk/news/uk-england-58116722) - Boris Johnson said that closing mines had given the UK an early start fighting climate change.
 39. [Climate change: Time running out to stop catastrophe - Alok Sharma](https://www.bbc.co.uk/news/uk-58132939) - Despite his warning, the Tory climate chief does not rule out future fossil fuel projects in the UK.
-40. [Nandy on UK action over helping Afghanistan 'disaster'](https://www.bbc.co.uk/news/uk-politics-58204319) - Labour is calling for a potential recall of Parliament over the “disaster” in Afghanistan.
-41. [Afghanistan 'heading for civil war' says Defence Secretary](https://www.bbc.co.uk/news/uk-58198080) - Defence Secretary Ben Wallace says it is likely that poverty and terrorism will increase in the country.
-42. [Sajid Javid says NHS waiting lists will rise](https://www.bbc.co.uk/news/uk-politics-58188899) - The health secretary urges people to come forward and "know that the NHS is there for them".
-43. [Exams: Keir Starmer calls for Gavin Williamson to lose job](https://www.bbc.co.uk/news/uk-politics-58188897) - It is "pretty astonishing" that the education secretary is still in his job, says the Labour leader.
-44. [Trolling of women in politics 'worrying'](https://www.bbc.co.uk/news/uk-wales-58176912) - Kirsty Williams said she had felt unable to keep her family safe from the trolling on social media.
+40. [Boris Johnson: 'I don't believe the Afghan war was in vain'](https://www.bbc.co.uk/news/uk-58207987) - Boris Johnson says he "shares the sorrow" of the families of troops killed as he defended UK involvement.
+41. [Nandy on UK action over helping Afghanistan 'disaster'](https://www.bbc.co.uk/news/uk-politics-58204319) - Labour is calling for a potential recall of Parliament over the “disaster” in Afghanistan.
+42. [Afghanistan 'heading for civil war' says Defence Secretary](https://www.bbc.co.uk/news/uk-58198080) - Defence Secretary Ben Wallace says it is likely that poverty and terrorism will increase in the country.
+43. [Sajid Javid says NHS waiting lists will rise](https://www.bbc.co.uk/news/uk-politics-58188899) - The health secretary urges people to come forward and "know that the NHS is there for them".
+44. [Exams: Keir Starmer calls for Gavin Williamson to lose job](https://www.bbc.co.uk/news/uk-politics-58188897) - It is "pretty astonishing" that the education secretary is still in his job, says the Labour leader.
 45. [Afghanistan: How the Taliban gained ground so quickly](https://www.bbc.co.uk/news/world-asia-58187410) - The situation looks bleak for the Afghan government, but there may still be a chance of a stalemate.
 46. [Berlin embassy arrest: A case of old-school spying?](https://www.bbc.co.uk/news/uk-58185957) - Why nothing in the case of the arrest of a man at the British Embassy in Berlin should surprise us.
 47. [COP26: How serious is the government about climate conference?](https://www.bbc.co.uk/news/uk-politics-58107010) - With less than 90 days to go to Glasgow climate summit, there is uncertainty surrounding the event.

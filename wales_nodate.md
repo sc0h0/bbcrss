@@ -22,6 +22,6 @@
 22. [National League: Dover v Solihull Moors and Wrexham v Yeovil off amid Covid-19 outbreaks](https://www.bbc.co.uk/sport/football/58203548) - Dover Athletic v Solihull Moors and Wrexham v Yeovil Town are both postponed due to Covid-19 outbreaks.
 23. [Cyhoeddi enw bachgen 2 oed fu farw ym Mhen-y-bont](https://www.bbc.co.uk/newyddion/58206727) - Mae menyw gafodd ei harestio ar amheuaeth o lofruddio bellach dan ofal gwasanaethau iechyd meddwl.
 24. [Cyn-gynghorydd yn methu â chael iawndal am sŵn awyrennau](https://www.bbc.co.uk/newyddion/58201465) - Roedd John Arthur Jones a'i wraig Rhian yn dadlau fod y sŵn yn amharu ar eu heiddo a'u hawliau dynol.
-25. [TGAU: Mwy o fwlch rhwng y difreintiedig a'u cyfoedion](https://www.bbc.co.uk/newyddion/58194116) - Mae nifer y disgyblion sy'n dod o gefndir difreintiedig ac wedi derbyn graddau rhwng A* a C wedi lleihau.
+25. [Covid: Galw ar bobl i fod yn 'ofalus' mewn clybiau nos](https://www.bbc.co.uk/newyddion/58194120) - "Cyfran sylweddol" o'r 187 achos Covid a gofnodwyd yn Sir Benfro yr wythnos hon yn ymwneud â chlybiau nos.
 26. [Unigrwydd cefn gwlad: 'Neb i siarad efo'](https://www.bbc.co.uk/newyddion/58199552) - Gethin Bickerton a sut aeth ati i ddysgu i fyw gyda’i iechyd meddwl.
 27. [Gohirio gêm gyntaf Wrecsam oherwydd Covid-19](https://www.bbc.co.uk/newyddion/58201458) - Mae'r gêm wedi'i gohirio ar ôl i achosion Covid-19 ddod i'r amlwg ymhlith carfan eu gwrthwynebwyr, Yeovil.
