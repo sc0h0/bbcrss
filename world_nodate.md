@@ -1,7 +1,7 @@
 1. [Afghanistan: Panic and disbelief as thousands flee Taliban onslaught](https://www.bbc.co.uk/news/world-asia-58191638) - Thousands of Afghans seek refuge in the capital Kabul as the militants seize more key cities.
 2. [Britney Spears' father to step down as conservator](https://www.bbc.co.uk/news/world-us-canada-58191439) - Jamie Spears pledges to take part in an "orderly transition" but doesn't say when that will happen.
 3. [Lee Jae-yong: Samsung heir released from prison on parole](https://www.bbc.co.uk/news/world-asia-58196575) - Critics say the move raises fresh questions about the preferential treatment of business leaders.
-4. [Turkey floods: Death toll near Black Sea rises to 27](https://www.bbc.co.uk/news/world-europe-58200296) - Flash floods in northern Turkey are the country's second natural disaster this month.
+4. [Turkey floods: Death toll near Black Sea rises to 31](https://www.bbc.co.uk/news/world-europe-58200296) - Flash floods in northern Turkey are the country's second natural disaster this month.
 5. [Lord of the Rings: Amazon moves show to UK from New Zealand](https://www.bbc.co.uk/news/business-58196473) - The multi-million dollar production is one of the most expensive shows in the history of television.
 6. [US-Mexico border migrant detention levels reach 21-year high](https://www.bbc.co.uk/news/world-us-canada-58207124) - Migrant numbers usually dip during the hot summer months, but July has continued an upward trend.
 7. [Four Florida educators died of Covid within day of each other, says union](https://www.bbc.co.uk/news/world-us-canada-58204206) - A Florida teachers union announced the deaths with just days to go before the academic year begins.
