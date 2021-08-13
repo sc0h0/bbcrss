@@ -1,4 +1,4 @@
-1. [Council policies often inconsistent with climate goals](https://www.bbc.co.uk/news/science-environment-58102578) - A third of English councils support policies that could increase emissions, BBC research suggests.
+1. [Council policies 'inconsistent' with climate goals](https://www.bbc.co.uk/news/science-environment-58102578) - A third of English councils support policies that could increase emissions, BBC research suggests.
 2. [Tusk reveals woolly mammoth's massive lifetime mileage](https://www.bbc.co.uk/news/science-environment-58191123) - Scientists analyse the chemistry in a woolly mammoth tusk to work out how far it travelled.
 3. [Climate: WWF warns UK spending is lagging behind targets](https://www.bbc.co.uk/news/uk-politics-58170865) - The conservation group WWF says the UK government must keep its promises on climate change.
 4. [Climate change: Curbing methane emissions will 'buy us time'](https://www.bbc.co.uk/news/science-environment-58174111) - Scientists say that rapid cuts in methane could be a key tactic in the battle against climate change.

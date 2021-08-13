@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 13 Aug 2021 08:57:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Aug 2021 09:18:06 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -72,13 +72,6 @@
             <pubDate>Thu, 12 Aug 2021 15:39:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Oil: from bonanza to dilemma]]></title>
-            <description><![CDATA[The Cambo oil field has become a symbol of the pressure the UK and Scottish governments face over climate change.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-scotland-business-58195442</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-scotland-business-58195442</guid>
-            <pubDate>Thu, 12 Aug 2021 20:41:09 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[TRNSMT fans must show proof of negative Covid test]]></title>
             <description><![CDATA[Ticket-holders are required to take a lateral flow test 48 hours before arriving at the event in Glasgow.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58187779</link>
@@ -98,6 +91,13 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-58185754</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58185754</guid>
             <pubDate>Thu, 12 Aug 2021 14:33:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Oil: from bonanza to dilemma]]></title>
+            <description><![CDATA[The Cambo oil field has become a symbol of the pressure the UK and Scottish governments face over climate change.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-scotland-business-58195442</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-scotland-business-58195442</guid>
+            <pubDate>Thu, 12 Aug 2021 20:41:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid in Scotland: Where are the latest cases?]]></title>
@@ -247,7 +247,7 @@
             <pubDate>Fri, 13 Aug 2021 06:36:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[St Johnstone 2-4 Galatasaray (3-5) : Turkish experience overcomes brave Perth side]]></title>
+            <title><![CDATA[St Johnstone 2-4 Galatasaray (agg 3-5): Turkish experience overcomes brave Perth side]]></title>
             <description><![CDATA[St Johnstone can use the experience gained in a battling defeat by Galatasaray to try to secure European group stage football for the first time ever, manager Callum Davidson says.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58138064</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58138064</guid>

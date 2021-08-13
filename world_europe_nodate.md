@@ -9,7 +9,7 @@
 9. [Kiwi Chow: The filmmaker who took Hong Kong's protests to Cannes](https://www.bbc.co.uk/news/world-asia-58196411) - Kiwi Chow's documentary was a surprise at the film festival - and it has a controversial title.
 10. [Berlin embassy arrest: A case of old-school spying?](https://www.bbc.co.uk/news/uk-58185957) - Why nothing in the case of the arrest of a man at the British Embassy in Berlin should surprise us.
 11. [Picasso masterpieces to go on sale in blockbuster auction](https://www.bbc.co.uk/news/world-us-canada-58185744) - Proceeds could reach $100m in what is thought to be the most valuable auction of the artist's works.
-12. [Half a million EU citizens await decision over right to stay in UK](https://www.bbc.co.uk/news/uk-58188657) - More than half a million EU citizens who have applied for settled status in the UK await a decision.
+12. [Almost half a million EU citizens await decision over right to stay in UK](https://www.bbc.co.uk/news/uk-58188657) - Almost half a million EU citizens who have applied for settled status in the UK await a decision.
 13. [The shopkeeper saving his island from wildfires](https://www.bbc.co.uk/news/world-europe-58177493) - Spyros isn't a firefighter, but when his home was threatened with wildfires, he decided to take action.
 14. [Greece fires: Hundreds rescued by coastguard](https://www.bbc.co.uk/news/world-europe-58128033) - The coastguard moved 650 people from Limni, in the north of the island of Evia.
 15. [Lukashenko: 'You can choke on your sanctions in the UK'](https://www.bbc.co.uk/news/world-europe-58150328) - The UK and US are tightening sanctions on Belarus, hitting economic sectors.
