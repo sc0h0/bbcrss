@@ -1,4 +1,4 @@
-1. [Afghanistan heading for civil war - UK minister](https://www.bbc.co.uk/news/uk-58198340) - The defence secretary says poverty and terrorism are likely to increase as the UK and US withdraw.
+1. [Afghanistan: Boris Johnson calls emergency meeting to discuss situation](https://www.bbc.co.uk/news/uk-58204857) - It follows criticism from Labour that the government has been "in hiding" over the situation.
 2. [Council policies 'inconsistent' with climate goals](https://www.bbc.co.uk/news/science-environment-58102578) - A third of English councils support policies that could increase emissions, BBC research suggests.
 3. [Sturgeon urges UK government to reassess Cambo oil field plan](https://www.bbc.co.uk/news/uk-scotland-58186181) - The first minister says proposals should be re-examined due to the severity of the climate emergency.
 4. [Covid: Record your cough to help improve detection, says government](https://www.bbc.co.uk/news/uk-politics-58199049) - The government wants people to send in samples of themselves breathing, coughing and reading aloud.
