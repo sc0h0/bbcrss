@@ -14,9 +14,9 @@
 14. [The Orielles on turning their album into a film score](https://www.bbc.co.uk/news/entertainment-arts-58083762) - The band on surreal gigs at cricket grounds and the "happenings" that inspired their new project.
 15. [Stephen Lawrence drama 'celebrates common decency'](https://www.bbc.co.uk/news/entertainment-arts-58112588) - Steve Coogan says it was an honour to play the man who helped convict two men for the teen's murder.
 16. [How TV's The Windsors is making its unregal stage debut](https://www.bbc.co.uk/news/entertainment-arts-58101586) - The creator and cast of the royal comedy satire take us behind the scenes of their West End show.
-17. [Reading: Teacher gets stories published after 46 years](https://www.bbc.co.uk/news/uk-wales-58189969) - Keith Godwin used to make up stories for his pupils in the 1970s, now they have been published.
-18. [Kiwi Chow: The film-maker who took Hong Kong's protests to Cannes](https://www.bbc.co.uk/news/world-asia-58196411) - Kiwi Chow's documentary was a surprise at the film festival - and it has a controversial title.
-19. [Virtual reality: 'There's no max, there's no limit!'](https://www.bbc.co.uk/news/entertainment-arts-58177685) - "There's no max, there's no limit" to virtual reality, so is it the future of live music?
-20. [Fashion photographer: 'The world doesn't see this part of Afghanistan'](https://www.bbc.co.uk/news/world-asia-58147426) - Fatimah Hossaini is a fashion photographer in Afghanistan and wants to use her work to help women be seen.
-21. [Peter Kay charity shows: Cancer patient 'honoured'](https://www.bbc.co.uk/news/uk-58144223) - Sometimes laughter is all you've got, says Laura Nuttall, who is receiving treatment for brain cancer.
-22. [Ariana Grande sings in Fortnite's metaverse](https://www.bbc.co.uk/news/technology-58146042) - The pop star is the latest musician to perform a series of concerts inside the hit video game.
+17. [Adam Peaty: I'm going to be very uncomfortable on Strictly](https://www.bbc.co.uk/news/newsbeat-58203082) - The Olympic champion is the latest to be announced for the show.
+18. [Reading: Teacher gets stories published after 46 years](https://www.bbc.co.uk/news/uk-wales-58189969) - Keith Godwin used to make up stories for his pupils in the 1970s, now they have been published.
+19. [Kiwi Chow: The film-maker who took Hong Kong's protests to Cannes](https://www.bbc.co.uk/news/world-asia-58196411) - Kiwi Chow's documentary was a surprise at the film festival - and it has a controversial title.
+20. [Virtual reality: 'There's no max, there's no limit!'](https://www.bbc.co.uk/news/entertainment-arts-58177685) - "There's no max, there's no limit" to virtual reality, so is it the future of live music?
+21. [Fashion photographer: 'The world doesn't see this part of Afghanistan'](https://www.bbc.co.uk/news/world-asia-58147426) - Fatimah Hossaini is a fashion photographer in Afghanistan and wants to use her work to help women be seen.
+22. [Peter Kay charity shows: Cancer patient 'honoured'](https://www.bbc.co.uk/news/uk-58144223) - Sometimes laughter is all you've got, says Laura Nuttall, who is receiving treatment for brain cancer.

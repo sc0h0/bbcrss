@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 13 Aug 2021 12:12:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Aug 2021 12:38:40 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -20,7 +20,7 @@
             <description><![CDATA[Jake Davison killed five people, including a young girl, in Plymouth before turning the gun on himself.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-devon-58197414</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-devon-58197414</guid>
-            <pubDate>Fri, 13 Aug 2021 12:10:46 GMT</pubDate>
+            <pubDate>Fri, 13 Aug 2021 12:38:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[James Markham killing: Boy, 14, charged with murder]]></title>
@@ -37,11 +37,18 @@
             <pubDate>Fri, 13 Aug 2021 10:52:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid vaccine fraudster jailed after injecting Surbiton pensioner]]></title>
-            <description><![CDATA[David Chambers tricked his elderly victim into paying £140 for a fake coronavirus vaccine.]]></description>
+            <title><![CDATA[Covid vaccine fraudster who targeted 92-year-old woman jailed]]></title>
+            <description><![CDATA[David Chambers tricked his 92-year-old victim into paying £140 for a fake coronavirus vaccine.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-london-58200457</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-58200457</guid>
-            <pubDate>Fri, 13 Aug 2021 11:36:20 GMT</pubDate>
+            <pubDate>Fri, 13 Aug 2021 12:30:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Child killer allowed to appeal against sentence]]></title>
+            <description><![CDATA[Eltiona Skana, who killed Emily Jones in a park, is granted leave to appeal her life sentence.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-manchester-58200782</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-manchester-58200782</guid>
+            <pubDate>Fri, 13 Aug 2021 12:01:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Marble Arch Mound: Deputy leader resigns amid spiralling costs]]></title>
@@ -49,13 +56,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-london-58197626</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-58197626</guid>
             <pubDate>Fri, 13 Aug 2021 10:44:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tribute to Manchester Arena bomb survivor found dead aged 20]]></title>
-            <description><![CDATA[Eve Aston is remembered as "very jolly, sassy, sociable" by her "proud" family.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-birmingham-58194047</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-birmingham-58194047</guid>
-            <pubDate>Fri, 13 Aug 2021 08:17:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Shooting 'a truly shocking event' say police]]></title>
@@ -93,6 +93,13 @@
             <pubDate>Fri, 13 Aug 2021 09:39:05 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Tribute to Manchester Arena bomb survivor found dead aged 20]]></title>
+            <description><![CDATA[Eve Aston is remembered as "very jolly, sassy, sociable" by her "proud" family.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-birmingham-58194047</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-birmingham-58194047</guid>
+            <pubDate>Fri, 13 Aug 2021 08:17:12 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[First batch of student's washing machines shipped to Iraq]]></title>
             <description><![CDATA[Inspired by a salad spinner, Navjot Sawhney invented the hand-cranked washer four years ago.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-somerset-58083385</link>
@@ -112,13 +119,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-kent-58198605</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-kent-58198605</guid>
             <pubDate>Fri, 13 Aug 2021 09:09:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Privately owned e-scooters 'should be legal on roads']]></title>
-            <description><![CDATA[Tony Mumford died a week after crashing the e-scooter his partner Cheryl Evans gave to him.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-london-58190581</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-58190581</guid>
-            <pubDate>Fri, 13 Aug 2021 05:30:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Michael Jackson fragrance fraud denied by Batley designer Hrh Arfaq]]></title>
@@ -161,6 +161,20 @@
             <link>https://www.bbc.co.uk/news/uk-england-coventry-warwickshire-58194409</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-coventry-warwickshire-58194409</guid>
             <pubDate>Thu, 12 Aug 2021 18:02:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ben Nevis: Amputee Ben Lovell to lead charity climb]]></title>
+            <description><![CDATA[Bradford man Ben Lovell, who lost a leg in 2017, is raising cash to send child amputees on holiday.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-leeds-58199522</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-leeds-58199522</guid>
+            <pubDate>Fri, 13 Aug 2021 12:22:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Privately owned e-scooters 'should be legal on roads']]></title>
+            <description><![CDATA[Tony Mumford died a week after crashing the e-scooter his partner Cheryl Evans gave to him.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-58190581</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-58190581</guid>
+            <pubDate>Fri, 13 Aug 2021 05:30:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[M4 near Langley and Slough to close for further smart motorway work]]></title>

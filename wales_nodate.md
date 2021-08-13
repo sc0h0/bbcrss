@@ -24,4 +24,4 @@
 24. [TGAU: Mwy o fwlch rhwng y difreintiedig a'u cyfoedion](https://www.bbc.co.uk/newyddion/58194116) - Mae nifer y disgyblion sy'n dod o gefndir difreintiedig ac wedi derbyn graddau rhwng A* a C wedi lleihau.
 25. [Gwyliau: Gogledd Cymru'n fwy poblogaidd na Chernyw](https://www.bbc.co.uk/newyddion/58192422) - Busnesau twristiaeth yn dathlu haf prysur wrth i gyfyngiadau teithio dramor olygu mwy o bobl yn cymryd gwyliau yng Nghymru.
 26. [Y Gymraes tu ôl i grysau Brasil, Barça a'r All Blacks](https://www.bbc.co.uk/newyddion/58186548) - Ffion Appleton Jones o Aberystwyth sy'n trafod ei gyrfa yn dylunio dillad chwaraeon.
-27. [Torcalon i'r Seintiau Newydd yng Nghyngres Europa](https://www.bbc.co.uk/newyddion/58194977) - Y Seintiau allan o Gynghres Ewropa ar giciau o'r smotyn er iddyn nhw fod ddwy ar y blaen gyda phum munud yn weddill.
+27. [Gohirio gêm gyntaf Wrecsam oherwydd Covid-19](https://www.bbc.co.uk/newyddion/58201458) - Mae'r gêm wedi'i gohirio ar ôl i achosion Covid-19 ddod i'r amlwg ymhlith carfan eu gwrthwynebwyr, Yeovil.
