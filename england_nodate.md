@@ -1,4 +1,4 @@
-1. [Plymouth shooting: Maxine Davison, killer's mother, was first victim](https://www.bbc.co.uk/news/uk-england-devon-58206101) - Jake Davison murdered his mother Maxine before shooting and killing four other people.
+1. [Plymouth shooting: Gunman's mother among five victims named](https://www.bbc.co.uk/news/uk-england-devon-58206101) - Jake Davison murdered his mother Maxine before shooting and killing four other people.
 2. [Police officer and child found dead in Kidderminster](https://www.bbc.co.uk/news/uk-england-hereford-worcester-58205396) - The deaths in Kidderminster are being treated as unexplained, West Mercia Police says.
 3. [Banksy confirms East Anglian seaside artwork is genuine](https://www.bbc.co.uk/news/uk-england-norfolk-58163143) - The secretive artist claims responsibility for the pieces along England's east coast.
 4. [Esther Dingley: Hiker's Pyrenees death an accident, police say](https://www.bbc.co.uk/news/uk-england-tyne-58205386) - Sources say it is unclear what caused her to fall but her boots may have been unsuitable for ice.
