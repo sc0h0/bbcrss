@@ -1,6 +1,6 @@
 1. [Covid-19: NI ministers agree to relax self-isolation rules](https://www.bbc.co.uk/news/uk-northern-ireland-58179582) - First Minister Paul Givan says he hopes all restrictions will be lifted by the end of next month.
 2. [What are Northern Ireland's Covid-19 rules now?](https://www.bbc.co.uk/news/uk-northern-ireland-58175159) - How do restrictions here compare to other parts of the UK and the Republic of Ireland?
-3. [Gerry Hutch arrested in Spain over boxing weigh-in gun attack](https://www.bbc.co.uk/news/world-europe-58195768) - Gerry Hutch, known as 'The Monk', is wanted over the 2016 gun attack at the Regency Airport Hotel.
+3. [Gerry Hutch arrested in Spain over boxing weigh-in gun attack](https://www.bbc.co.uk/news/world-europe-58195768) - Gerry Hutch, known as "The Monk", is wanted over the 2016 gun attack at the Regency Airport Hotel.
 4. [GCSEs: Rise in top grades in Northern Ireland as results issued](https://www.bbc.co.uk/news/uk-northern-ireland-58179094) - Due to the Covid-19 pandemic, pupils' results were based on grades calculated by schools.
 5. [Climate change: Ireland getting warmer and wetter](https://www.bbc.co.uk/news/world-europe-58184287) - The Status of Ireland Climate 2020 report also shows that sea levels around the coast are rising.
 6. [PSNI investigates attacks on homes in Belfast and Coleraine](https://www.bbc.co.uk/news/uk-northern-ireland-58187934) - Shots were fired at a house and up to nine men targeted a house in north Belfast in separate incidents.

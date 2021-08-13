@@ -1,7 +1,7 @@
 1. [Britney Spears' father to step down as conservator](https://www.bbc.co.uk/news/world-us-canada-58191439) - The star had requested Jamie Spears be removed after accusing him of "conservatorship abuse".
 2. [US census: Hispanic and Asian-American driving US population growth](https://www.bbc.co.uk/news/world-us-canada-58195166) - Newly released data points to sluggish population growth and a more multiracial US.
 3. [Can Americans pull the plug on petrol-powered cars?](https://www.bbc.co.uk/news/business-58123729) - Joe Biden wants half of all cars sold in the US to be zero emission by 2030 - but getting there won't be easy.
-4. [Satanic forums visited by a killer uncovered](https://www.bbc.co.uk/news/uk-58191473) - The BBC uncovers evidence about Satanic forums visited by killer Danyal Hussein.
+4. [Satanic forums visited by a killer uncovered](https://www.bbc.co.uk/news/uk-58191473) - The BBC uncovers evidence about Satanic forums visited by the killer of two sisters.
 5. [Back to school triggers US fury over masks for students](https://www.bbc.co.uk/news/world-us-canada-58194162) - With Covid cases rising, Americans are divided over how students should return to the classroom.
 6. [How North American cities are bracing for more heatwaves](https://www.bbc.co.uk/news/world-us-canada-58015089) - Local governments are getting creative when it comes to tackling frequent and extreme heat.
 7. [Michael Spavor: Canadian jailed for 11 years in China on spying charges](https://www.bbc.co.uk/news/world-asia-china-58168587) - His sentencing is the latest development in a diplomatic spat between the two countries.

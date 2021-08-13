@@ -1,4 +1,4 @@
-1. ['We never knew how dangerous Loch Lomond was'](https://www.bbc.co.uk/news/uk-scotland-58188082) - Family of drowned teenager call for better education in schools on the dangers of Scotland's waters.
+1. [Connor Markward: Family of teen drowned in Loch Lomond call for better education](https://www.bbc.co.uk/news/uk-scotland-58188082) - The family of a drowned teenager call for better education in schools on the dangers of Scotland's waters.
 2. [Scotland's papers: 'Firearms horror strikes city' and 'terror ride'](https://www.bbc.co.uk/news/uk-scotland-58195907) - A mass shooting and a rollercoaster accident feature on the front pages of Scotland's newspapers.
 3. [Fettes abuse accuser hails 'bittersweet victory' over extradition](https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-58190418) - A Crown Office u-turn means a man accused of abusing children at the prestigious school can be extradited from South Africa.
 4. ['Forensics stop people getting away with murder'](https://www.bbc.co.uk/news/uk-scotland-58188079) - Tom Nelson says the advances over his 40-year career could not have been dreamt of - and there is more to come.
