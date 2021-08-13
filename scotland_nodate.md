@@ -30,3 +30,4 @@
 30. [Scottish League Cup watch: What you need to know going into knockout stage](https://www.bbc.co.uk/sport/football/58156608) - We give you the lowdown on the tastiest tussles from this weekend's Scottish League Cup last-16 games.
 31. [Dundee United re-sign Marc McNulty on loan from Reading](https://www.bbc.co.uk/sport/football/58178019) - Dundee United re-sign striker Marc McNulty from Reading on a season-long loan.
 32. [Celtic 3-0 Jablonec (agg 7-2) - Celtic cruise into Europa League play-off](https://www.bbc.co.uk/sport/football/58138071) - Celtic continue their recent resurgence as they stroll past the Czech Republic's Jablonec in the third qualifying round of the Europa League at Celtic Park.
+33. [Women's Scottish Open: Ariya Jutanugarn leads by three shots after second round](https://www.bbc.co.uk/sport/golf/58203684) - Ariya Jutanugarn took charge on day two of the Women's Scottish Open, leading by three shots at Dumbarnie Links.
