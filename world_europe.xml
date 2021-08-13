@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 13 Aug 2021 06:18:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Aug 2021 06:41:34 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -30,11 +30,25 @@
             <pubDate>Thu, 12 Aug 2021 06:42:45 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Six killed in Plymouth gunman attack]]></title>
+            <description><![CDATA[A Plymouth MP says one of the victims was a child and more people are being treated in hospital.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-devon-58195419</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-devon-58195419</guid>
+            <pubDate>Fri, 13 Aug 2021 06:22:56 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Russia holds hypersonic flight expert in spy probe]]></title>
             <description><![CDATA[Alexander Kuranov, detained by FSB agents, runs a team of pioneering spaceflight researchers.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-58186033</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58186033</guid>
             <pubDate>Thu, 12 Aug 2021 13:40:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wagner: Gaddafi's son faces arrest over Russian mercenaries]]></title>
+            <description><![CDATA[A warrant is issued against Saif al-Islam Gaddafi after a BBC investigation into mercenaries in Libya.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-58191433</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-58191433</guid>
+            <pubDate>Thu, 12 Aug 2021 19:46:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Turkish capital reels from violent protests against Syrians]]></title>
@@ -49,20 +63,6 @@
             <link>https://www.bbc.co.uk/news/world-middle-east-58186006</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-58186006</guid>
             <pubDate>Thu, 12 Aug 2021 15:45:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Wagner: Gaddafi's son faces arrest over Russian mercenaries]]></title>
-            <description><![CDATA[A warrant is issued against Saif al-Islam Gaddafi after a BBC investigation into mercenaries in Libya.]]></description>
-            <link>https://www.bbc.co.uk/news/world-africa-58191433</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-58191433</guid>
-            <pubDate>Thu, 12 Aug 2021 19:46:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Messi: What are the PSG fan tokens given to the footballer?]]></title>
-            <description><![CDATA[Paris St-Germain has given Messi a "large number" of fan tokens as part of his welcome package.]]></description>
-            <link>https://www.bbc.co.uk/news/world-58094912</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-58094912</guid>
-            <pubDate>Thu, 12 Aug 2021 14:05:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Berlin embassy arrest: A case of old-school spying?]]></title>
@@ -105,13 +105,6 @@
             <link>https://www.bbc.co.uk/news/world-africa-58009514</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-58009514</guid>
             <pubDate>Wed, 11 Aug 2021 18:40:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Wildfires: How are they linked to climate change?]]></title>
-            <description><![CDATA[A series of major wildfires across the world has hit the headlines - how do they compare to previous years?]]></description>
-            <link>https://www.bbc.co.uk/news/58159451</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/58159451</guid>
-            <pubDate>Wed, 11 Aug 2021 15:38:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Greece fires: Hundreds rescued by coastguard]]></title>

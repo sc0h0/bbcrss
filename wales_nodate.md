@@ -1,14 +1,14 @@
 1. [Bridgend: Murder probe launched as boy, 2, dies](https://www.bbc.co.uk/news/uk-wales-58194706) - A 31-year-old woman has been arrested on suspicion of murder and remains in police custody.
 2. [Wales' GCSE gap widens for children from poorer backgrounds](https://www.bbc.co.uk/news/uk-wales-58189971) - While those getting A*-C grades is up, it is lower for pupils from poorer backgrounds.
 3. [Reading: Teacher gets stories published after 46 years](https://www.bbc.co.uk/news/uk-wales-58189969) - Keith Godwin used to make up stories for his pupils in the 1970s, now they have been published.
-4. [Crickhowell rape: Man arrested after Powys attack](https://www.bbc.co.uk/news/uk-wales-58191699) - Dyfed-Powys Police said the suspect, arrested on Tuesday, has been released under investigation.
-5. [Doctor who did locum shifts while on sick would 'lie and lie'](https://www.bbc.co.uk/news/uk-wales-58191698) - Dr Joao Muel is facing 13 allegations of dishonesty and clinical failure in 2018 and 2019, tribunal hears.
-6. [Cat of the year: Three-legged Minty wins charity award](https://www.bbc.co.uk/news/uk-wales-58189412) - Minty was recognised for his "special bond" with six-year-old Connor, who has learning difficulties.
-7. [Abercynon Road: Man charged after car crashed into vehicles](https://www.bbc.co.uk/news/uk-wales-58184062) - A man, charged with drink driving, will appear before magistrates after several cars were damaged.
-8. [Covid recovery: More new jobs in Gwynedd areas than Cardiff, report says](https://www.bbc.co.uk/news/uk-wales-58184055) - A think-tank says cities are "lagging behind", while a holiday boom is seeing more jobs elsewhere.
-9. [Trellyffaint: Proof unearthed of Neolithic dairy farming in Pembrokeshire](https://www.bbc.co.uk/news/uk-wales-58174481) - Shards of decorated pottery containing traces of dairy fat residue have been dated to 3,100BC.
-10. [Afghanistan war: Veterans reflect on troops leaving country](https://www.bbc.co.uk/news/uk-wales-58181826) - The two veterans have opposing views on whether the conflict has had a positive effect.
-11. [Georgia shipwreck: Welsh kit to help Golden Ray clean-up](https://www.bbc.co.uk/news/uk-wales-58174475) - About a million gallons of contaminated mud needs to be treated from the remains of the ship.
+4. [Skate park 'devastated' after bid to reopen in Swansea refused](https://www.bbc.co.uk/news/uk-wales-58172022) - Ramps Skatepark, which wants to reopen in a new location, says it will appeal against the decision.
+5. [Crickhowell rape: Man arrested after Powys attack](https://www.bbc.co.uk/news/uk-wales-58191699) - Dyfed-Powys Police said the suspect, arrested on Tuesday, has been released under investigation.
+6. [Doctor who did locum shifts while on sick would 'lie and lie'](https://www.bbc.co.uk/news/uk-wales-58191698) - Dr Joao Muel is facing 13 allegations of dishonesty and clinical failure in 2018 and 2019, tribunal hears.
+7. [Cat of the year: Three-legged Minty wins charity award](https://www.bbc.co.uk/news/uk-wales-58189412) - Minty was recognised for his "special bond" with six-year-old Connor, who has learning difficulties.
+8. [Abercynon Road: Man charged after car crashed into vehicles](https://www.bbc.co.uk/news/uk-wales-58184062) - A man, charged with drink driving, will appear before magistrates after several cars were damaged.
+9. [Covid recovery: More new jobs in Gwynedd areas than Cardiff, report says](https://www.bbc.co.uk/news/uk-wales-58184055) - A think-tank says cities are "lagging behind", while a holiday boom is seeing more jobs elsewhere.
+10. [Trellyffaint: Proof unearthed of Neolithic dairy farming in Pembrokeshire](https://www.bbc.co.uk/news/uk-wales-58174481) - Shards of decorated pottery containing traces of dairy fat residue have been dated to 3,100BC.
+11. [Afghanistan war: Veterans reflect on troops leaving country](https://www.bbc.co.uk/news/uk-wales-58181826) - The two veterans have opposing views on whether the conflict has had a positive effect.
 12. [GCSEs: Wales' pupils celebrate as A and A* grades improve again](https://www.bbc.co.uk/news/uk-wales-58191705) - A and A* grades made up 28.7% of those awarded, compared with 18.4% when exams were last held in 2019.
 13. [Greece wildfires: 12-hour days for Welsh firefighter](https://www.bbc.co.uk/news/uk-wales-58176916) - The UK's 21-strong team includes four Welsh firefighters, who are unsure when they will return home.
 14. [Trolling of women in politics 'worrying'](https://www.bbc.co.uk/news/uk-wales-58176912) - Kirsty Williams said she had felt unable to keep her family safe from the trolling on social media.
@@ -24,4 +24,4 @@
 24. [TGAU: Mwy o fwlch rhwng y difreintiedig a'u cyfoedion](https://www.bbc.co.uk/newyddion/58194116) - Mae nifer y disgyblion sy'n dod o gefndir difreintiedig ac wedi derbyn graddau rhwng A* a C wedi lleihau.
 25. [Gwyliau: Gogledd Cymru'n fwy poblogaidd na Chernyw](https://www.bbc.co.uk/newyddion/58192422) - Busnesau twristiaeth yn dathlu haf prysur wrth i gyfyngiadau teithio dramor olygu mwy o bobl yn cymryd gwyliau yng Nghymru.
 26. [Cerdyn post oddi wrth... Mari Lovgreen](https://www.bbc.co.uk/newyddion/58173010) - Y gyflwynwraig sy'n anfon cyfarchion o'i gwyliau gartref.
-27. [Colled i Forgannwg, ond yn dal ar frig y grŵp](https://www.bbc.co.uk/newyddion/58194976) - Morgannwg yn sicrhau gêm gartref yn y rowndiau terfynol er colli i Sir Efrog yng Ngerddi Soffia.
+27. [Torcalon i'r Seintiau Newydd yng Nghyngres Europa](https://www.bbc.co.uk/newyddion/58194977) - Y Seintiau allan o Gynghres Ewropa ar giciau o'r smotyn er iddyn nhw fod ddwy ar y blaen gyda phum munud yn weddill.

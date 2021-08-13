@@ -1,5 +1,5 @@
-1. [Wagner: Gaddafi's son faces arrest over Russian mercenaries](https://www.bbc.co.uk/news/world-africa-58191433) - A warrant is issued against Saif al-Islam Gaddafi after a BBC investigation into mercenaries in Libya.
-2. [Africa's week in pictures: 6-12 August 2021](https://www.bbc.co.uk/news/world-africa-58186939) - A selection of the best photos from the African continent and beyond.
+1. [Africa's week in pictures: 6-12 August 2021](https://www.bbc.co.uk/news/world-africa-58186939) - A selection of the best photos from the African continent and beyond.
+2. [Wagner: Gaddafi's son faces arrest over Russian mercenaries](https://www.bbc.co.uk/news/world-africa-58191433) - A warrant is issued against Saif al-Islam Gaddafi after a BBC investigation into mercenaries in Libya.
 3. [Shell pays $111m over 1970s oil spill in Nigeria](https://www.bbc.co.uk/news/world-africa-58181836) - The payment marks the end of a long-running legal battle over a spill during the 1967-70 Biafran War.
 4. [Algeria forest fires: At least 65 people killed as fires spread](https://www.bbc.co.uk/news/world-africa-58174918) - At least 65 people have been killed as the fires continue to spread amid an intense heatwave.
 5. [Dutch medallist - no regrets about quitting Ethiopia](https://www.bbc.co.uk/sport/africa/58159734) - Dutch triple Olympic medallist Sifan Hassan has no regrets over leaving Ethiopia and calls for peace to stop more athletes following suit.
