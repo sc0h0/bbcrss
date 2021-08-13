@@ -1,4 +1,4 @@
-1. [Bridgend: Murder probe launched as boy, 2, dies](https://www.bbc.co.uk/news/uk-wales-58194706) - Thu, 12 Aug 2021 21:51:27 GMT - A 31-year-old woman has been arrested on suspicion of murder and remains in police custody.
+1. [Bridgend: Murder probe launched as boy, 2, dies](https://www.bbc.co.uk/news/uk-wales-58194706) - Fri, 13 Aug 2021 07:52:09 GMT - A 31-year-old woman has been arrested on suspicion of murder and remains in police custody.
 2. [Wales' GCSE gap widens for children from poorer backgrounds](https://www.bbc.co.uk/news/uk-wales-58189971) - Fri, 13 Aug 2021 05:09:57 GMT - While those getting A*-C grades is up, it is lower for pupils from poorer backgrounds.
 3. [Reading: Teacher gets stories published after 46 years](https://www.bbc.co.uk/news/uk-wales-58189969) - Fri, 13 Aug 2021 06:08:19 GMT - Keith Godwin used to make up stories for his pupils in the 1970s, now they have been published.
 4. [Covid: Record visits to north Wales boost tourism](https://www.bbc.co.uk/news/uk-wales-58189968) - Fri, 13 Aug 2021 07:24:58 GMT - North Wales has overtaken Cornwall and Devon for staycations, one organisation says.
