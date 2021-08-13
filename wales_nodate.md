@@ -21,7 +21,7 @@
 21. [Ciaron Brown: 'Why would I sell him to Warnock?' - Cardiff boss Mick McCarthy](https://www.bbc.co.uk/sport/av/football/58203109) - Cardiff City manager Mick McCarthy says he will not be selling defender Ciaron Brown to Middlesbrough boss Neil Warnock based on the current offer on the table.
 22. [National League: Dover v Solihull Moors and Wrexham v Yeovil off amid Covid-19 outbreaks](https://www.bbc.co.uk/sport/football/58203548) - Dover Athletic v Solihull Moors and Wrexham v Yeovil Town are both postponed due to Covid-19 outbreaks.
 23. [Ymchwiliad llofruddiaeth wedi i fachgen 2 oed farw](https://www.bbc.co.uk/newyddion/58186503) - Mae menyw 31 wedi ei harestio ar amheuaeth o lofruddiaeth wedi digwyddiad ym Mhen-y-bont ar Ogwr.
-24. [TGAU: Mwy o fwlch rhwng y difreintiedig a'u cyfoedion](https://www.bbc.co.uk/newyddion/58194116) - Mae nifer y disgyblion sy'n dod o gefndir difreintiedig ac wedi derbyn graddau rhwng A* a C wedi lleihau.
-25. [Gwyliau: Gogledd Cymru'n fwy poblogaidd na Chernyw](https://www.bbc.co.uk/newyddion/58192422) - Busnesau twristiaeth yn dathlu haf prysur wrth i gyfyngiadau teithio dramor olygu mwy o bobl yn cymryd gwyliau yng Nghymru.
+24. [Cyn-gynghorydd yn methu â chael iawndal am sŵn awyrennau](https://www.bbc.co.uk/newyddion/58201465) - Roedd John Arthur Jones a'i wraig Rhian yn dadlau fod y sŵn yn amharu ar eu heiddo a'u hawliau dynol.
+25. [TGAU: Mwy o fwlch rhwng y difreintiedig a'u cyfoedion](https://www.bbc.co.uk/newyddion/58194116) - Mae nifer y disgyblion sy'n dod o gefndir difreintiedig ac wedi derbyn graddau rhwng A* a C wedi lleihau.
 26. [Unigrwydd cefn gwlad: 'Neb i siarad efo'](https://www.bbc.co.uk/newyddion/58199552) - Gethin Bickerton a sut aeth ati i ddysgu i fyw gyda’i iechyd meddwl.
 27. [Gohirio gêm gyntaf Wrecsam oherwydd Covid-19](https://www.bbc.co.uk/newyddion/58201458) - Mae'r gêm wedi'i gohirio ar ôl i achosion Covid-19 ddod i'r amlwg ymhlith carfan eu gwrthwynebwyr, Yeovil.
