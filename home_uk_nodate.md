@@ -5,7 +5,7 @@
 5. [Tony Bennett: Legendary singer retires from stage aged 95](https://www.bbc.co.uk/news/entertainment-arts-58198989) - The veteran crooner ends a seven-decade career after a final performance with Lady Gaga last week.
 6. [Metabolism peaks at age one and tanks after 60, study finds](https://www.bbc.co.uk/news/health-58186710) - Middle-aged spread cannot be blamed on a waning metabolism, according to researchers.
 7. [Tribute to Manchester Arena bomb survivor found dead aged 20](https://www.bbc.co.uk/news/uk-england-birmingham-58194047) - Eve Aston is remembered as "very jolly, sassy, sociable" by her "proud" family.
-8. [Britney Spears' father to step down as conservator](https://www.bbc.co.uk/news/world-us-canada-58191439) - Jamie Spears pledges to take part in an "orderly transition" without confirming when he will do so.
+8. [Britney Spears' father to step down as conservator](https://www.bbc.co.uk/news/world-us-canada-58191439) - Jamie Spears pledges to take part in an "orderly transition" but doesn't say when that will happen.
 9. [Connor Markward: Family of teen drowned in Loch Lomond in water safety call](https://www.bbc.co.uk/news/uk-scotland-58188082) - The family of a drowned teenager call for better education in schools on the dangers of Scotland's waters.
 10. [Lord of the Rings: Amazon moves show to UK from New Zealand](https://www.bbc.co.uk/news/business-58196473) - The multi-million dollar production is one of the most expensive shows in the history of television.
 11. [The papers: 'Plymouth death toll fears' and 'Operation Kabul'](https://www.bbc.co.uk/news/blogs-the-papers-58195638) - Friday's papers focus on a serious firearms incident in Plymouth and UK troops returning to Afghanistan.

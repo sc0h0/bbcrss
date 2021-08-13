@@ -1,5 +1,5 @@
 1. [Afghanistan: Panic and disbelief as thousands flee Taliban onslaught](https://www.bbc.co.uk/news/world-asia-58191638) - Thousands of Afghans seek refuge in the capital Kabul as the militants seize more key cities.
-2. [Britney Spears' father to step down as conservator](https://www.bbc.co.uk/news/world-us-canada-58191439) - Jamie Spears pledges to take part in an "orderly transition" without confirming when he will do so.
+2. [Britney Spears' father to step down as conservator](https://www.bbc.co.uk/news/world-us-canada-58191439) - Jamie Spears pledges to take part in an "orderly transition" but doesn't say when that will happen.
 3. [Lee Jae-yong: Samsung heir released from prison on parole](https://www.bbc.co.uk/news/world-asia-58196575) - Critics say the move raises fresh questions about the preferential treatment of business leaders.
 4. [Turkey floods: Death toll near Black Sea rises to 27](https://www.bbc.co.uk/news/world-europe-58200296) - Flash floods in northern Turkey are the country's second natural disaster this month.
 5. [Lord of the Rings: Amazon moves show to UK from New Zealand](https://www.bbc.co.uk/news/business-58196473) - The multi-million dollar production is one of the most expensive shows in the history of television.
@@ -16,7 +16,7 @@
 16. [365 dates: Indian serial dater Sunder Ramu still looking to meet his target](https://www.bbc.co.uk/news/world-asia-india-58183168) - Tamil actor Sunder Ramu's dates are not all romantic ones - and his aim is not just to find love.
 17. [The fiendish new trick cyber-criminals are using to evade capture](https://www.bbc.co.uk/news/technology-58176113) - Bitcoin researchers discover a new darknet tool criminals are using to help launder their digital money.
 18. [Afghanistan: Desperation as thousands flee the Taliban](https://www.bbc.co.uk/news/world-asia-58191043) - Yogita Limaye reports from a camp in Kabul where thousands who have been displaced by violence seek refuge.
-19. [Kiwi Chow: The filmmaker who took Hong Kong's protests to Cannes](https://www.bbc.co.uk/news/world-asia-58196411) - Kiwi Chow's documentary was a surprise at the film festival - and it has a controversial title.
+19. [Kiwi Chow: The film-maker who took Hong Kong's protests to Cannes](https://www.bbc.co.uk/news/world-asia-58196411) - Kiwi Chow's documentary was a surprise at the film festival - and it has a controversial title.
 20. [Afghanistan war: Do the Taliban want to conquer or compromise?](https://www.bbc.co.uk/news/world-asia-58181670) - The BBC speaks to two high profile figures in its chain of command who have very different messages.
 21. [Northern Turkey hit by severe flash flooding](https://www.bbc.co.uk/news/world-58194460) - Seventeen people have reportedly died, with more than 1,400 people evacuated from the areas affected.
 22. [Virtual reality: 'There's no max, there's no limit!'](https://www.bbc.co.uk/news/entertainment-arts-58177685) - "There's no max, there's no limit" to virtual reality, so is it the future of live music?

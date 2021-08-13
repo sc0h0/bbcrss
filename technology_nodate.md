@@ -1,4 +1,4 @@
-1. [Crypto heist hacker returns most of the stolen funds](https://www.bbc.co.uk/news/business-58193396) - In notes sent to the blockchain, the hacker claimed to be offered a reward for returning the assets.
+1. [Crypto hacker offered reward after $600m heist](https://www.bbc.co.uk/news/business-58193396) - The anonymous hacker has returned almost all the money, but claims not to be interested in reward.
 2. [The fiendish new trick cyber-criminals are using to evade capture](https://www.bbc.co.uk/news/technology-58176113) - Bitcoin researchers discover a new darknet tool criminals are using to help launder their digital money.
 3. [Lord of the Rings: Amazon moves show to UK from New Zealand](https://www.bbc.co.uk/news/business-58196473) - The multi-million dollar production is one of the most expensive shows in the history of television.
 4. [Lee Jae-yong: Samsung heir released from prison on parole](https://www.bbc.co.uk/news/world-asia-58196575) - Critics say the move raises fresh questions about the preferential treatment of business leaders.

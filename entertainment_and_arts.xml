@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 13 Aug 2021 10:44:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Aug 2021 11:03:03 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -31,7 +31,7 @@
         </item>
         <item>
             <title><![CDATA[Britney Spears' father to step down as conservator]]></title>
-            <description><![CDATA[Jamie Spears pledges to take part in an "orderly transition" without confirming when he will do so.]]></description>
+            <description><![CDATA[Jamie Spears pledges to take part in an "orderly transition" but doesn't say when that will happen.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-58191439</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-58191439</guid>
             <pubDate>Fri, 13 Aug 2021 10:33:40 GMT</pubDate>
@@ -128,7 +128,14 @@
             <pubDate>Tue, 10 Aug 2021 00:28:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Kiwi Chow: The filmmaker who took Hong Kong's protests to Cannes]]></title>
+            <title><![CDATA[Reading: Teacher gets stories published after 46 years]]></title>
+            <description><![CDATA[Keith Godwin used to make up stories for his pupils in the 1970s, now they have been published.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-58189969</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58189969</guid>
+            <pubDate>Fri, 13 Aug 2021 09:39:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kiwi Chow: The film-maker who took Hong Kong's protests to Cannes]]></title>
             <description><![CDATA[Kiwi Chow's documentary was a surprise at the film festival - and it has a controversial title.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-58196411</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58196411</guid>
@@ -161,13 +168,6 @@
             <link>https://www.bbc.co.uk/news/technology-58146042</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-58146042</guid>
             <pubDate>Mon, 09 Aug 2021 10:57:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sir Tom Stoppard: ‘Cancel culture has eroded free speech’]]></title>
-            <description><![CDATA[The playwright talks to Newsnight about the impact of cancel culture and his latest production Leopoldstadt.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-58118789</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-58118789</guid>
-            <pubDate>Fri, 06 Aug 2021 12:46:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
