@@ -1,4 +1,4 @@
-1. [Plymouth shooting: Gunman shot own mother then a dad and daughter](https://www.bbc.co.uk/news/uk-england-devon-58206101) - Jake Davison murdered his mother Maxine before shooting and killing a father and daughter.
+1. [Plymouth shooting: Police investigated over gunman's licence](https://www.bbc.co.uk/news/uk-england-devon-58209726) - Jake Davison's shotgun and permit were confiscated in December but returned in July, the police watchdog says.
 2. [Afghanistan: Diplomats hasten exit as Taliban near Kabul](https://www.bbc.co.uk/news/world-asia-58206400) - US troops arrive to help with evacuation efforts as militants seize a city an hour's drive from Kabul.
 3. [Afghanistan: Boris Johnson defends UK's role amid evacuation](https://www.bbc.co.uk/news/uk-58204857) - Boris Johnson says there is "no military solution" to the situation as the Taliban advances.
 4. [Climate change: July world's hottest month ever - US agency](https://www.bbc.co.uk/news/world-us-canada-58208792) - US scientists say July's land and ocean temperature was 0.93C (1.68F) above the 20th Century average.
