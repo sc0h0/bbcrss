@@ -1,6 +1,6 @@
 1. [Afghanistan: Diplomats hasten exit as Taliban near Kabul](https://www.bbc.co.uk/news/world-asia-58206400) - US troops arrive to help with evacuation efforts as militants seize a city an hour's drive from Kabul.
 2. [Nanci Griffith: Folk and country singer-songwriter dies aged 68](https://www.bbc.co.uk/news/entertainment-arts-58212802) - The Grammy-winning artist was best known for her influential career in folk and country music.
-3. [Climate change: July world's hottest month ever - US agency](https://www.bbc.co.uk/news/world-us-canada-58208792) - US scientists say July's land and ocean temperature was 0.93C (1.68F) above the 20th Century average.
+3. [Climate change: July world's hottest month ever recorded - US agency](https://www.bbc.co.uk/news/world-us-canada-58208792) - US scientists say July's land and ocean temperature was 0.93C (1.68F) above the 20th Century average.
 4. [Three Florida educators die of Covid, says union](https://www.bbc.co.uk/news/world-us-canada-58204206) - They are said to have died from Covid-19 related complications - days before the school year begins.
 5. [Nicki Minaj and husband Kenneth Petty sued by sex assault victim](https://www.bbc.co.uk/news/world-us-canada-58209403) - The woman claims the couple harassed her to try to make her recant accusations against Kenneth Petty.
 6. [US census: Hispanic and Asian-American driving US population growth](https://www.bbc.co.uk/news/world-us-canada-58195166) - Newly released data points to sluggish population growth and a more multiracial US.
