@@ -1,4 +1,4 @@
-1. [Plymouth shooting: Killer had shotgun licence returned last month](https://www.bbc.co.uk/news/uk-england-devon-58209726) - The police watchdog is investigating the decision to give back Jake Davison's shotgun and permit.
+1. [Plymouth shooting: Killer had shotgun permit returned last month](https://www.bbc.co.uk/news/uk-england-devon-58209726) - The police watchdog is investigating the decision to give back Jake Davison's shotgun and certificate.
 2. [Police officer and child found dead in Kidderminster](https://www.bbc.co.uk/news/uk-england-hereford-worcester-58205396) - The deaths in Kidderminster are being treated as unexplained, West Mercia Police says.
 3. [Brett Staniland: Love Island contestant's twin calls out trolls](https://www.bbc.co.uk/news/uk-england-derbyshire-58201708) - Scott Staniland says comments about his brother Brett's looks are particularly upsetting.
 4. [Lindsey hoard: Coins stashed during Civil War declared treasure](https://www.bbc.co.uk/news/uk-england-suffolk-58205023) - An inquest hears the hoard includes coins of all rulers from King Edward VI to Charles I.
