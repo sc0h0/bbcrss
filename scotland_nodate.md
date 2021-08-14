@@ -33,4 +33,3 @@
 33. [Scottish Gossip: Celtic, Rangers, Aberdeen, St Johnstone, Scott Brown](https://www.bbc.co.uk/sport/football/58213153) - Celtic step up hunt for new right-back, Aberdeen captain comes in for criticism from beaten European opponents...
 34. [Scottish League Cup watch: What you need to know going into knockout stage](https://www.bbc.co.uk/sport/football/58156608) - We give you the lowdown on the tastiest tussles from this weekend's Scottish League Cup last-16 games.
 35. [Women's Scottish Open: Ariya Jutanugarn leads by three shots after second round](https://www.bbc.co.uk/sport/golf/58203684) - Ariya Jutanugarn took charge on day two of the Women's Scottish Open, leading by three shots at Dumbarnie Links.
-36. [Dundee United re-sign Marc McNulty on loan from Reading](https://www.bbc.co.uk/sport/football/58178019) - Dundee United re-sign striker Marc McNulty from Reading on a season-long loan.
