@@ -1,6 +1,6 @@
 1. [Tyrone ask again for deferral of All-Ireland semi](https://www.bbc.co.uk/sport/gaelic-games/58215316) - Feargal Logan says deferring the All-Ireland Football semi-final against Kerry for a further week could see Tyrone fulfilling the fixture.
 2. [Apprentice Boys parade takes place in Derry](https://www.bbc.co.uk/news/uk-northern-ireland-58205639) - Traditionally thousands of people attend the march but about 500 take part due this year to Covid-19.
-3. [Six cars burnt-out in Lisburn arson attack](https://www.bbc.co.uk/news/uk-northern-ireland-58216995) - It happened at a business premises on Barnfield Road in the early hours of Saturday.
+3. [Six cars burnt out in Lisburn arson attack](https://www.bbc.co.uk/news/uk-northern-ireland-58216995) - It happened at a business premises on Barnfield Road in the early hours of Saturday.
 4. [Irish Paralympian's wheelchair broken on plane](https://www.bbc.co.uk/sport/disability-sport/58214675) - Irish Para-swimmer Patrick Flanagan's wheelchair is left "completely broken" following a flight to Heathrow en route to the Tokyo Games.
 5. [Covid-19: Londonderry walk-in jab clinic for pregnant women opens](https://www.bbc.co.uk/news/uk-northern-ireland-58214624) - It is part of efforts to try to increase Northern Ireland's vaccination rate, amid rising coronavirus cases.
 6. [The day firebombs devastated Ballymena](https://www.bbc.co.uk/news/uk-northern-ireland-58171539) - BBC NI's political correspondent Stephen Walker recalls his hometown on a dark day in 1976.
