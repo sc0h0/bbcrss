@@ -1,8 +1,8 @@
 1. [Plymouth shooting: Gunman shot own mother then a dad and daughter](https://www.bbc.co.uk/news/uk-england-devon-58206101) - Jake Davison murdered his mother Maxine before shooting and killing a father and daughter.
 2. [Police officer and child found dead in Kidderminster](https://www.bbc.co.uk/news/uk-england-hereford-worcester-58205396) - The deaths in Kidderminster are being treated as unexplained, West Mercia Police says.
-3. [Banksy confirms East Anglian seaside artwork is genuine](https://www.bbc.co.uk/news/uk-england-norfolk-58163143) - The secretive artist claims responsibility for pieces along England's east coast.
-4. [Esther Dingley: Hiker's Pyrenees death an accident, police say](https://www.bbc.co.uk/news/uk-england-tyne-58205386) - Sources say it is unclear what caused her to fall but her boots may have been unsuitable for ice.
-5. [Kadian Nelson: Man who raped girl on her way to school jailed](https://www.bbc.co.uk/news/uk-england-london-58204431) - Kadian Nelson was chased away during the attack after a 10-year-old girl saw him snatch his victim.
+3. [Brett Staniland: Love Island contestant's twin calls out trolls](https://www.bbc.co.uk/news/uk-england-derbyshire-58201708) - Scott Staniland says comments about his brother Brett's looks are particularly upsetting.
+4. [Banksy confirms East Anglian seaside artwork is genuine](https://www.bbc.co.uk/news/uk-england-norfolk-58163143) - The secretive artist claims responsibility for pieces along England's east coast.
+5. [Esther Dingley: Hiker's Pyrenees death an accident, police say](https://www.bbc.co.uk/news/uk-england-tyne-58205386) - Sources say it is unclear what caused her to fall but her boots may have been unsuitable for ice.
 6. [Firefighters tackle huge blaze in North Tyneside](https://www.bbc.co.uk/news/uk-england-tyne-58207577) - Witnesses report seeing smoke billowing across the River Tyne.
 7. [Care home deluged with cards for Jack Annall's 101st birthday](https://www.bbc.co.uk/news/uk-england-leeds-58201824) - Jack Annall was sent the cards after being disappointed not to see his daughter on his birthday.
 8. [Who were the victims?](https://www.bbc.co.uk/news/uk-58202760) - The gunman's mother, Maxine Davison, and three-year-old Sophie Martyn have been named among the dead.
@@ -18,7 +18,7 @@
 18. [Bilsdale transmitter fire: TV and radio disruption could last up to 14 days](https://www.bbc.co.uk/news/uk-england-tees-58208326) - Mast operator Arqiva says work to put up temporary transmitters will take between seven and 14 days.
 19. [Shrewsbury police officer stalked ex out of 'twisted vengeance'](https://www.bbc.co.uk/news/uk-england-shropshire-58207935) - Stephen Green, 60, is given a six month sentence suspended for two years after admitting stalking.
 20. [Woman died on hold reporting boyfriend assault](https://www.bbc.co.uk/news/uk-england-lincolnshire-58187438) - Daniela Espirito Santo, from Grantham, was not failed by police, a watchdog says.
-21. [Covid vaccine fraudster who targeted 92-year-old woman jailed](https://www.bbc.co.uk/news/uk-england-london-58200457) - David Chambers tricked his 92-year-old victim into paying £140 for a fake coronavirus vaccine.
+21. [Kadian Nelson: Man who raped girl on her way to school jailed](https://www.bbc.co.uk/news/uk-england-london-58204431) - Kadian Nelson was chased away during the attack after a 10-year-old girl saw him snatch his victim.
 22. [Car in near-miss with train on Cumbria level crossing](https://www.bbc.co.uk/news/uk-england-cumbria-58202029) - CCTV footage shows the car driving across the barrierless crossing in front of the Northern train.
 23. [Bolton woman inspired to create Muslim hiking group](https://www.bbc.co.uk/news/uk-england-manchester-58192877) - Amira Patel says more women should be encouraged to become confident walking in the wild.
 24. [Bomb threat arrest at Northampton police station caught on film](https://www.bbc.co.uk/news/uk-england-northamptonshire-58187469) - A man is seen being tackled to the ground by officers after claiming he had a bomb in a bag.
