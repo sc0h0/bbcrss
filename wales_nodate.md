@@ -1,5 +1,5 @@
-1. [Bridgend: Tribute to boy, 2, as woman arrested for murder](https://www.bbc.co.uk/news/uk-wales-58194706) - Reid Steele died in hospital after being found in a critical condition at a house in Bridgend.
-2. [Covid: Safety fears as face-mask rules 'ignored on Welsh trains'](https://www.bbc.co.uk/news/uk-wales-58144669) - Passengers say they feel unsafe, crammed on trains face-to-face with people not wearing masks.
+1. [Covid: Safety fears as face-mask rules 'ignored on Welsh trains'](https://www.bbc.co.uk/news/uk-wales-58144669) - Passengers say they feel unsafe, crammed on trains face-to-face with people not wearing masks.
+2. [Bridgend: Tribute to boy, 2, as woman arrested for murder](https://www.bbc.co.uk/news/uk-wales-58194706) - Reid Steele died in hospital after being found in a critical condition at a house in Bridgend.
 3. [Covid study: How to avoid catching virus in a shared car](https://www.bbc.co.uk/news/uk-wales-58202468) - Opening four windows at lower speeds and only two on the motorway is best, researchers say.
 4. [Reading: Teacher gets stories published after 46 years](https://www.bbc.co.uk/news/uk-wales-58189969) - Keith Godwin used to make up stories for his pupils in the 1970s, now they have been published.
 5. [Cardiff stabbing: Boy attacked during football match](https://www.bbc.co.uk/news/uk-wales-58194369) - The 15-year-old victim suffered a puncture wound to his leg in the assault, police say.
