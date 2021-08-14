@@ -19,6 +19,6 @@
 19. [Life in a town taken by the Taliban in Afghanistan](https://www.bbc.co.uk/news/world-asia-58194378) - BBC correspondent Secunder Kermani reports from a town in Afghanistan recently taken by the Taliban
 20. [Afghanistan in serious danger - President Ghani](https://www.bbc.co.uk/news/world-asia-58213300) - Ashraf Ghani addresses the nation as the Taliban reportedly close in on the Afghan capital, Kabul.
 21. [Afghanistan: Desperation as thousands flee the Taliban](https://www.bbc.co.uk/news/world-asia-58191043) - Yogita Limaye reports from a camp in Kabul where thousands who have been displaced by violence seek refuge.
-22. [Virtual reality: 'There's no max, there's no limit!'](https://www.bbc.co.uk/news/entertainment-arts-58177685) - "There's no max, there's no limit" to virtual reality, so is it the future of live music?
-23. [Kiwi Chow: The film-maker who took Hong Kong's protests to Cannes](https://www.bbc.co.uk/news/world-asia-58196411) - Kiwi Chow's documentary was a surprise at the film festival - and it has a controversial title.
-24. [Northern Turkey hit by severe flash flooding](https://www.bbc.co.uk/news/world-58194460) - Seventeen people have reportedly died, with more than 1,400 people evacuated from the areas affected.
+22. [Japan floods: Residents rescued as torrential rain threatens homes](https://www.bbc.co.uk/news/world-asia-58216613) - Nearly two million people have been urged to evacuate their homes amid heavy rainfall.
+23. [Virtual reality: 'There's no max, there's no limit!'](https://www.bbc.co.uk/news/entertainment-arts-58177685) - "There's no max, there's no limit" to virtual reality, so is it the future of live music?
+24. [Kiwi Chow: The film-maker who took Hong Kong's protests to Cannes](https://www.bbc.co.uk/news/world-asia-58196411) - Kiwi Chow's documentary was a surprise at the film festival - and it has a controversial title.

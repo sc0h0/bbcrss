@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 14 Aug 2021 15:19:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Aug 2021 16:21:45 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -34,7 +34,7 @@
             <description><![CDATA[A 7.2-magnitude quake hits the Caribbean nation, which is still recovering from the devastation of 2010.]]></description>
             <link>https://www.bbc.co.uk/news/world-latin-america-58215631</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-latin-america-58215631</guid>
-            <pubDate>Sat, 14 Aug 2021 15:11:44 GMT</pubDate>
+            <pubDate>Sat, 14 Aug 2021 16:20:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sarah Rainsford on Russia: 'I've been told I can't come back - ever']]></title>
@@ -163,6 +163,13 @@
             <pubDate>Thu, 12 Aug 2021 23:10:24 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Japan floods: Residents rescued as torrential rain threatens homes]]></title>
+            <description><![CDATA[Nearly two million people have been urged to evacuate their homes amid heavy rainfall.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58216613</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58216613</guid>
+            <pubDate>Sat, 14 Aug 2021 15:14:47 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Virtual reality: 'There's no max, there's no limit!']]></title>
             <description><![CDATA["There's no max, there's no limit" to virtual reality, so is it the future of live music?]]></description>
             <link>https://www.bbc.co.uk/news/entertainment-arts-58177685</link>
@@ -175,13 +182,6 @@
             <link>https://www.bbc.co.uk/news/world-asia-58196411</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58196411</guid>
             <pubDate>Fri, 13 Aug 2021 00:30:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Northern Turkey hit by severe flash flooding]]></title>
-            <description><![CDATA[Seventeen people have reportedly died, with more than 1,400 people evacuated from the areas affected.]]></description>
-            <link>https://www.bbc.co.uk/news/world-58194460</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-58194460</guid>
-            <pubDate>Thu, 12 Aug 2021 18:46:46 GMT</pubDate>
         </item>
     </channel>
 </rss>

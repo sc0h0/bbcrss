@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 14 Aug 2021 16:07:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Aug 2021 16:43:09 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -51,18 +51,18 @@
             <pubDate>Sat, 14 Aug 2021 15:28:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid: Four health boards pause non-emergency surgery]]></title>
-            <description><![CDATA[NHS Ayrshire and Arran, Borders, Lothian and Highland have put elective operations on hold amid rising pressure on services.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-58204236</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58204236</guid>
-            <pubDate>Fri, 13 Aug 2021 16:34:03 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Raft of Glasgow Orange walks to see 7,500 march in one day]]></title>
             <description><![CDATA[The Grand Orange Lodge of Scotland has proposed 34 marches in Glasgow on 18 September.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58203584</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58203584</guid>
             <pubDate>Fri, 13 Aug 2021 17:06:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: Four health boards pause non-emergency surgery]]></title>
+            <description><![CDATA[NHS Ayrshire and Arran, Borders, Lothian and Highland have put elective operations on hold amid rising pressure on services.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-58204236</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58204236</guid>
+            <pubDate>Fri, 13 Aug 2021 16:34:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['Stress and frustration' over Scotland's paper vaccine pass]]></title>
@@ -244,7 +244,7 @@
             <description><![CDATA[Lee Ashcroft's header ensures Dundee's progression to the Scottish League Cup last eight by ending Motherwell's 10-game unbeaten run over them.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58137912</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58137912</guid>
-            <pubDate>Sat, 14 Aug 2021 15:55:16 GMT</pubDate>
+            <pubDate>Sat, 14 Aug 2021 16:15:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Rangers 5-0 Dunfermline: Ruthless Ibrox side cruise into quarter-finals]]></title>
@@ -261,18 +261,11 @@
             <pubDate>Sat, 14 Aug 2021 08:07:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Women's Scottish Open: Ariya Jutanugarn leads by three shots after second round]]></title>
-            <description><![CDATA[Ariya Jutanugarn took charge on day two of the Women's Scottish Open, leading by three shots at Dumbarnie Links.]]></description>
-            <link>https://www.bbc.co.uk/sport/golf/58203684</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/golf/58203684</guid>
-            <pubDate>Fri, 13 Aug 2021 19:13:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Scottish League Cup watch: What you need to know going into knockout stage]]></title>
-            <description><![CDATA[We give you the lowdown on the tastiest tussles from this weekend's Scottish League Cup last-16 games.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58156608</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58156608</guid>
-            <pubDate>Fri, 13 Aug 2021 20:20:26 GMT</pubDate>
+            <title><![CDATA[Watch: Women's Scottish Open second round highlights]]></title>
+            <description><![CDATA[Watch highlights of day two of the Women's Scottish Open at Dumbarnie Links.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/golf/58209331</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/golf/58209331</guid>
+            <pubDate>Fri, 13 Aug 2021 20:53:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
