@@ -30,4 +30,3 @@
 30. [Buckland St Mary: Two die in light aircraft crash](https://www.bbc.co.uk/news/uk-england-bristol-58194887) - A male and a female on board both died but formal identification has yet to take place.
 31. [Tribute to Manchester Arena bomb survivor found dead aged 20](https://www.bbc.co.uk/news/uk-england-birmingham-58194047) - Eve Aston is remembered as "very jolly, sassy, sociable" by her "proud" family.
 32. [Brentford 2-0 Arsenal: Bees earn fully deserved win over Gunners](https://www.bbc.co.uk/sport/football/58109868) - Brentford mark their Premier League debut with a deserved win over Arsenal at a jubilant Brentford Community Stadium.
-33. [Super League: Hull KR win 26-14 in first double over Wigan in 37 years](https://www.bbc.co.uk/sport/rugby-league/58204257) - Hull Kingston Rovers score five tries as they win to complete a first double over Wigan in 37 years.

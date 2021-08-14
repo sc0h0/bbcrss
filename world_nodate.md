@@ -1,5 +1,5 @@
 1. [Afghan war: Kabul's young women plead for help as Taliban advance](https://www.bbc.co.uk/news/world-asia-58205062) - They feel abandoned by the democratic world they thought they were part of, writes Yalda Hakim.
-2. [BBC condemns Russia's decision to not renew correspondent's visa](https://www.bbc.co.uk/news/world-europe-58203842) - The decision to not renew Sarah Rainsford's visa is an "assault on media freedom", the corporation says.
+2. [Sarah Rainsford on Russia: 'I've been told I can't come back - ever'](https://www.bbc.co.uk/news/world-europe-58213845) - The BBC's Sarah Rainsford, who is being expelled from Russia, speaks about the country she loves.
 3. [Japan rain: More than a million residents told to seek shelter](https://www.bbc.co.uk/news/world-asia-58212803) - Some provinces are under evacuation alerts as experts warn of "unprecedented" rainfall.
 4. [Turkey floods: Death toll near Black Sea rises to 31](https://www.bbc.co.uk/news/world-europe-58200296) - Flash floods in northern Turkey are the country's second natural disaster this month.
 5. [Nicaragua: Police raid offices of La Prensa newspaper](https://www.bbc.co.uk/news/world-latin-america-58212024) - It comes a day after La Prensa said authorities were withholding its supplies of paper and ink.
