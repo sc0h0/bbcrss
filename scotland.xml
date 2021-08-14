@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 14 Aug 2021 21:21:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Aug 2021 21:33:08 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -254,18 +254,18 @@
             <pubDate>Sat, 14 Aug 2021 16:59:55 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Kash Farooq claims WBC international bantamweight title]]></title>
+            <description><![CDATA[Scotland's Kash Farooq defeated Luis Gerardo Castillo on a unanimous points decision to claim the WBC international bantamweight title.]]></description>
+            <link>https://www.bbc.co.uk/sport/boxing/58218631</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/boxing/58218631</guid>
+            <pubDate>Sat, 14 Aug 2021 21:18:59 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Women's Scottish Open: Charley Hull shares lead after third round]]></title>
             <description><![CDATA[England's Charley Hull says her game has never been in better shape as she attempts to convert a share of the lead into the Scottish Open title.]]></description>
             <link>https://www.bbc.co.uk/sport/golf/58217046</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/golf/58217046</guid>
             <pubDate>Sat, 14 Aug 2021 19:01:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kash Farooq wins WBC international bantamweight title]]></title>
-            <description><![CDATA[Scotland's Kash Farooq defeated Luis Gerardo Castillo on a unanimous points decision to claim the WBC international bantamweight title.]]></description>
-            <link>https://www.bbc.co.uk/sport/boxing/58218631</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/boxing/58218631</guid>
-            <pubDate>Sat, 14 Aug 2021 21:18:59 GMT</pubDate>
         </item>
     </channel>
 </rss>

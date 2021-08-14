@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 14 Aug 2021 21:24:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Aug 2021 21:33:55 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -30,6 +30,13 @@
             <pubDate>Sat, 14 Aug 2021 11:17:34 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Channel migrant crossings reach record high as man dies]]></title>
+            <description><![CDATA[The UK deals with 592 people crossing the Channel on the day a migrant makes a fatal leap into the sea.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-kent-58213583</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-kent-58213583</guid>
+            <pubDate>Sat, 14 Aug 2021 11:34:28 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Plymouth shooting: Jake Davison was licensed gun holder]]></title>
             <description><![CDATA[Jake Davison killed five people, including a three-year-old girl, before turning the gun on himself.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-devon-58197414</link>
@@ -44,25 +51,11 @@
             <pubDate>Fri, 13 Aug 2021 23:45:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Romelu Lukaku: Chelsea re-sign Belgium striker from Inter Milan for a club record £97.5m]]></title>
-            <description><![CDATA[Chelsea have re-signed Belgium striker Romelu Lukaku from Inter Milan for £97.5m.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58111490</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58111490</guid>
-            <pubDate>Thu, 12 Aug 2021 17:52:40 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Wagner: Gaddafi's son faces arrest over Russian mercenaries]]></title>
             <description><![CDATA[A warrant is issued against Saif al-Islam Gaddafi after a BBC investigation into mercenaries in Libya.]]></description>
             <link>https://www.bbc.co.uk/news/world-africa-58191433</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-58191433</guid>
             <pubDate>Thu, 12 Aug 2021 19:46:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Russia holds hypersonic flight expert in spy probe]]></title>
-            <description><![CDATA[Alexander Kuranov, detained by FSB agents, runs a team of pioneering spaceflight researchers.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58186033</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58186033</guid>
-            <pubDate>Thu, 12 Aug 2021 13:40:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: Germany fears thousands got saline, not vaccine from nurse]]></title>
