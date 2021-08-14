@@ -1,7 +1,7 @@
 1. [Plymouth shooting: Starmer asks why gunman had licence](https://www.bbc.co.uk/news/uk-england-devon-58209726) - The police watchdog is investigating the decision to give back Jake Davison's shotgun and certificate.
 2. [Haiti struck by deadly 7.2-magnitude earthquake](https://www.bbc.co.uk/news/world-latin-america-58215631) - At least 304 people are killed, and many more injured, by the powerful earthquake.
 3. [Afghan conflict: Taliban take Mazar-i-Sharif, government's last northern stronghold](https://www.bbc.co.uk/news/world-asia-58213848) - The militants head for the Afghan capital after capturing the key city of Mazar-i-Sharif.
-4. [Channel migrant crossings reach record high as man dies](https://www.bbc.co.uk/news/uk-england-kent-58213583) - The UK deals with 592 people crossing the Channel on the day a migrant makes a fatal leap into the sea.
+4. [Covid: 16 and 17-year-olds in England to be offered jab by 23 August](https://www.bbc.co.uk/news/uk-58216017) - Those in England will be offered a jab or the chance to book one by 23 August, the government says.
 5. [Australia: New South Wales 'in worst ever Covid situation'](https://www.bbc.co.uk/news/world-australia-58170440) - While case numbers are relatively low, the Australian state's premier has warned of a Covid surge.
 6. [James Markham killing: Chingford father was partner's 'world'](https://www.bbc.co.uk/news/uk-england-london-58215540) - The partner of James Markham has remembered him as "her world" following his stabbing.
 7. [Polish law on property stolen by Nazis angers Israel](https://www.bbc.co.uk/news/world-europe-58218750) - A new law will make it harder for people to recover property lost in World War Two.
