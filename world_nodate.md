@@ -5,7 +5,7 @@
 5. [Nicaragua: Police raid offices of La Prensa newspaper](https://www.bbc.co.uk/news/world-latin-america-58212024) - It comes a day after La Prensa said authorities were withholding its supplies of paper and ink.
 6. [Nicki Minaj and husband Kenneth Petty sued by sex assault victim](https://www.bbc.co.uk/news/world-us-canada-58209403) - The woman claims the couple harassed her to try to make her recant accusations against Kenneth Petty.
 7. [US-Mexico border migrant detention levels reach 21-year high](https://www.bbc.co.uk/news/world-us-canada-58207124) - Migrant numbers usually dip during the hot summer months, but July has continued an upward trend.
-8. [Three Florida educators die of Covid, says union](https://www.bbc.co.uk/news/world-us-canada-58204206) - They are said to have died from Covid-19 related complications - days before the school year begins.
+8. [Three Florida teachers die of Covid, says union](https://www.bbc.co.uk/news/world-us-canada-58204206) - They are said to have died from Covid-19 related complications - days before the school year begins.
 9. [Afghanistan: Journalist Anisa Shaheed refuses to give in to Taliban](https://www.bbc.co.uk/news/world-asia-58175088) - Anisa Shaheed fears women's freedoms will be curbed again if the Taliban come to power.
 10. [Covid booster: US approves third jab for the immunocompromised](https://www.bbc.co.uk/news/world-us-canada-58191293) - It marks the first time US health officials have indicated that Covid booster shots may be needed.
 11. [Nanci Griffith: Folk and country singer-songwriter dies aged 68](https://www.bbc.co.uk/news/entertainment-arts-58212802) - The Grammy-winning artist was best known for her influential career in folk and country music.
