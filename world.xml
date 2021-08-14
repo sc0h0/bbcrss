@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 14 Aug 2021 13:47:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Aug 2021 14:25:07 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -21,6 +21,13 @@
             <link>https://www.bbc.co.uk/news/world-asia-58205062</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58205062</guid>
             <pubDate>Fri, 13 Aug 2021 15:19:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Major 7.2-magnitude earthquake strikes Haiti]]></title>
+            <description><![CDATA[A 7.2-magnitude quake hits the Caribbean nation, which is still recovering from the devastation of 2010.]]></description>
+            <link>https://www.bbc.co.uk/news/world-latin-america-58215631</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-latin-america-58215631</guid>
+            <pubDate>Sat, 14 Aug 2021 14:24:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sarah Rainsford on Russia: 'I've been told I can't come back - ever']]></title>
@@ -51,13 +58,6 @@
             <pubDate>Sat, 14 Aug 2021 04:38:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Nicki Minaj and husband Kenneth Petty sued by sex assault victim]]></title>
-            <description><![CDATA[The woman claims the couple harassed her to try to make her recant accusations against Kenneth Petty.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-58209403</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-58209403</guid>
-            <pubDate>Sat, 14 Aug 2021 03:46:41 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Australia: New South Wales 'in worst ever Covid situation']]></title>
             <description><![CDATA[While case numbers are relatively low, the Australian state's premier has warned of a Covid surge.]]></description>
             <link>https://www.bbc.co.uk/news/world-australia-58170440</link>
@@ -72,11 +72,11 @@
             <pubDate>Fri, 13 Aug 2021 18:35:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Three Florida teachers die of Covid, says union]]></title>
-            <description><![CDATA[They are said to have died from Covid-19 related complications - days before the school year begins.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-58204206</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-58204206</guid>
-            <pubDate>Fri, 13 Aug 2021 23:23:18 GMT</pubDate>
+            <title><![CDATA[Nicki Minaj and husband Kenneth Petty sued by sex assault victim]]></title>
+            <description><![CDATA[The woman claims the couple harassed her to try to make her recant accusations against Kenneth Petty.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-58209403</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-58209403</guid>
+            <pubDate>Sat, 14 Aug 2021 03:46:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Afghanistan: Journalist Anisa Shaheed refuses to give in to Taliban]]></title>
