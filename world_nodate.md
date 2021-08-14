@@ -16,11 +16,8 @@
 16. [Afghanistan: How the Taliban gained ground so quickly](https://www.bbc.co.uk/news/world-asia-58187410) - The situation looks bleak for the Afghan government, but there may still be a chance of a stalemate.
 17. [The murderous crime wave sweeping Israel's Arabs](https://www.bbc.co.uk/news/world-middle-east-58183954) - Many killings often go unsolved, with blame being put on the police.
 18. [Life in a town taken by the Taliban in Afghanistan](https://www.bbc.co.uk/news/world-asia-58194378) - BBC correspondent Secunder Kermani reports from a town in Afghanistan recently taken by the Taliban
-19. [Africa's week in pictures: 6-12 August 2021](https://www.bbc.co.uk/news/world-africa-58186939) - A selection of the best photos from the African continent and beyond.
-20. [365 dates: Indian serial dater Sunder Ramu still looking to meet his target](https://www.bbc.co.uk/news/world-asia-india-58183168) - Tamil actor Sunder Ramu's dates are not all romantic ones - and his aim is not just to find love.
-21. [The fiendish new trick cyber-criminals are using to evade capture](https://www.bbc.co.uk/news/technology-58176113) - Bitcoin researchers discover a new darknet tool criminals are using to help launder their digital money.
-22. [Afghanistan: Desperation as thousands flee the Taliban](https://www.bbc.co.uk/news/world-asia-58191043) - Yogita Limaye reports from a camp in Kabul where thousands who have been displaced by violence seek refuge.
-23. [Kiwi Chow: The film-maker who took Hong Kong's protests to Cannes](https://www.bbc.co.uk/news/world-asia-58196411) - Kiwi Chow's documentary was a surprise at the film festival - and it has a controversial title.
-24. [Afghanistan war: Do the Taliban want to conquer or compromise?](https://www.bbc.co.uk/news/world-asia-58181670) - The BBC speaks to two high profile figures in its chain of command who have very different messages.
-25. [Northern Turkey hit by severe flash flooding](https://www.bbc.co.uk/news/world-58194460) - Seventeen people have reportedly died, with more than 1,400 people evacuated from the areas affected.
-26. [Virtual reality: 'There's no max, there's no limit!'](https://www.bbc.co.uk/news/entertainment-arts-58177685) - "There's no max, there's no limit" to virtual reality, so is it the future of live music?
+19. [Afghanistan: Desperation as thousands flee the Taliban](https://www.bbc.co.uk/news/world-asia-58191043) - Yogita Limaye reports from a camp in Kabul where thousands who have been displaced by violence seek refuge.
+20. [Kiwi Chow: The film-maker who took Hong Kong's protests to Cannes](https://www.bbc.co.uk/news/world-asia-58196411) - Kiwi Chow's documentary was a surprise at the film festival - and it has a controversial title.
+21. [Afghanistan war: Do the Taliban want to conquer or compromise?](https://www.bbc.co.uk/news/world-asia-58181670) - The BBC speaks to two high profile figures in its chain of command who have very different messages.
+22. [Northern Turkey hit by severe flash flooding](https://www.bbc.co.uk/news/world-58194460) - Seventeen people have reportedly died, with more than 1,400 people evacuated from the areas affected.
+23. [Virtual reality: 'There's no max, there's no limit!'](https://www.bbc.co.uk/news/entertainment-arts-58177685) - "There's no max, there's no limit" to virtual reality, so is it the future of live music?
