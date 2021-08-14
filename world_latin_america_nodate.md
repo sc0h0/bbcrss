@@ -1,4 +1,4 @@
-1. [Haiti struck by deadly 7.2-magnitude earthquake](https://www.bbc.co.uk/news/world-latin-america-58215631) - At least 227 people are killed, and many more injured, by the powerful earthquake.
+1. [Haiti struck by deadly 7.2-magnitude earthquake](https://www.bbc.co.uk/news/world-latin-america-58215631) - At least 304 people are killed, and many more injured, by the powerful earthquake.
 2. [Nicaragua: Police raid offices of La Prensa newspaper](https://www.bbc.co.uk/news/world-latin-america-58212024) - It comes a day after La Prensa said authorities were withholding its supplies of paper and ink.
 3. [Brazil Congress expels lawmaker over murder charges](https://www.bbc.co.uk/news/world-latin-america-58171370) - Gospel singer turned lawmaker Flordelis de Souza is accused of ordering the murder of her husband.
 4. [Brazil's Bolsonaro defeated over printed ballot proposal](https://www.bbc.co.uk/news/world-latin-america-58171369) - A plan by President Bolsonaro to switch to printed ballots fails to get enough support in Congress.
