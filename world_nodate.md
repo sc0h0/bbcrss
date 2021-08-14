@@ -1,5 +1,5 @@
 1. [Afghan war: Kabul's young women plead for help as Taliban advance](https://www.bbc.co.uk/news/world-asia-58205062) - They feel abandoned by the democratic world they thought they were part of, writes Yalda Hakim.
-2. [Major 7.2-magnitude earthquake strikes Haiti](https://www.bbc.co.uk/news/world-latin-america-58215631) - A 7.2-magnitude quake hits the Caribbean nation, which is still recovering from the devastation of 2010.
+2. [Haiti: Many deaths feared after major 7.2-magnitude earthquake](https://www.bbc.co.uk/news/world-latin-america-58215631) - A 7.2-magnitude quake hits the Caribbean nation, which is still recovering from the devastation of 2010.
 3. [Sarah Rainsford on Russia: 'I've been told I can't come back - ever'](https://www.bbc.co.uk/news/world-europe-58213845) - The BBC's Sarah Rainsford, devastated after being told she could not return to Russia, ever.
 4. [Japan rain: Nearly two million residents told to seek shelter](https://www.bbc.co.uk/news/world-asia-58212803) - Some provinces are under evacuation alerts as experts warn of "unprecedented" rainfall.
 5. [Turkey floods: Death toll near Black Sea rises to at least 40](https://www.bbc.co.uk/news/world-europe-58200296) - Flash floods in northern Turkey are the country's second natural disaster this month.
