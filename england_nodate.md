@@ -1,4 +1,4 @@
-1. [Plymouth shooting: Killer had shotgun permit returned last month](https://www.bbc.co.uk/news/uk-england-devon-58209726) - The police watchdog is investigating the decision to give back Jake Davison's shotgun and certificate.
+1. [Plymouth shooting: Starmer asks why gunman had licence?](https://www.bbc.co.uk/news/uk-england-devon-58209726) - The police watchdog is investigating the decision to give back Jake Davison's shotgun and certificate.
 2. [James Markham killing: Chingford father was partner's 'world'](https://www.bbc.co.uk/news/uk-england-london-58215540) - The partner of James Markham has remembered him as "her world" following his stabbing.
 3. [Brett Staniland: Love Island contestant's twin calls out trolls](https://www.bbc.co.uk/news/uk-england-derbyshire-58201708) - Scott Staniland says comments about his brother Brett's looks are particularly upsetting.
 4. [Lindsey hoard: Coins stashed during Civil War declared treasure](https://www.bbc.co.uk/news/uk-england-suffolk-58205023) - An inquest hears the hoard includes coins of all rulers from King Edward VI to Charles I.
