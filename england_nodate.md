@@ -1,4 +1,4 @@
-1. [Plymouth shooting: Gunman shot own mother then a dad and daughter](https://www.bbc.co.uk/news/uk-england-devon-58206101) - Jake Davison murdered his mother Maxine before shooting and killing a father and daughter.
+1. [Plymouth shooting: Police investigated over gunman's licence](https://www.bbc.co.uk/news/uk-england-devon-58209726) - Jake Davison's shotgun and permit were confiscated in December but returned in July, the police watchdog says.
 2. [Police officer and child found dead in Kidderminster](https://www.bbc.co.uk/news/uk-england-hereford-worcester-58205396) - The deaths in Kidderminster are being treated as unexplained, West Mercia Police says.
 3. [Brett Staniland: Love Island contestant's twin calls out trolls](https://www.bbc.co.uk/news/uk-england-derbyshire-58201708) - Scott Staniland says comments about his brother Brett's looks are particularly upsetting.
 4. [Banksy confirms East Anglian seaside artwork is genuine](https://www.bbc.co.uk/news/uk-england-norfolk-58163143) - The secretive artist claims responsibility for pieces along England's east coast.
