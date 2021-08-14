@@ -7,7 +7,7 @@
 7. [Covid vaccine: Parents upset at jabs wait for high-risk children](https://www.bbc.co.uk/news/health-58179302) - Some families are struggling to get vaccines for vulnerable teens, nearly a month after they became eligible.
 8. [Police officer and child found dead in Kidderminster](https://www.bbc.co.uk/news/uk-england-hereford-worcester-58205396) - The deaths in Kidderminster are being treated as unexplained, West Mercia Police says.
 9. [BBC condemns Russia's decision to not renew correspondent's visa](https://www.bbc.co.uk/news/world-europe-58203842) - The decision to not renew Sarah Rainsford's visa is an "assault on media freedom", the corporation says.
-10. [Esther Dingley: Hiker's Pyrenees death an accident, police say](https://www.bbc.co.uk/news/uk-england-tyne-58205386) - Sources say it is unclear what caused her to fall but her boots may have been unsuitable for ice.
+10. [Covid-19: Canada to require vaccination for all federal workers by autumn](https://www.bbc.co.uk/news/world-us-canada-58208791) - Commercial air, cruise and interprovincial train passengers will also need to be vaccinated.
 11. [Don't ignore cancer signs, says new NHS England boss](https://www.bbc.co.uk/news/health-58199169) - About 10% fewer people with cancer than normal have been seen over the past year, figures show.
 12. [Brentford 2-0 Arsenal: Bees earn fully deserved win over Gunners](https://www.bbc.co.uk/sport/football/58109868) - Brentford mark their Premier League debut with a deserved win over Arsenal at a jubilant Brentford Community Stadium.
 13. [Banksy confirms East Anglian seaside artwork is genuine](https://www.bbc.co.uk/news/uk-england-norfolk-58163143) - The secretive artist claims responsibility for pieces along England's east coast.
