@@ -1,4 +1,4 @@
-1. [Afghan conflict: Taliban take Mazar-e-Sharif, government's last northern stronghold](https://www.bbc.co.uk/news/world-asia-58213848) - Militants head for the Afghan capital after capturing Mazar-e-Sharif, a major northern stronghold.
+1. [Afghan conflict: Taliban take Mazar-e-Sharif, government's last northern stronghold](https://www.bbc.co.uk/news/world-asia-58213848) - The militants head for the Afghan capital after capturing the key city of Mazar-e-Sharif.
 2. [Afghan war: Kabul's young women plead for help as Taliban advance](https://www.bbc.co.uk/news/world-asia-58205062) - They feel abandoned by the democratic world they thought they were part of, writes Yalda Hakim.
 3. [Haiti struck by deadly 7.2-magnitude earthquake](https://www.bbc.co.uk/news/world-latin-america-58215631) - At least 29 people are killed, and many more injured, by the powerful earthquake.
 4. [Sarah Rainsford on Russia: 'I've been told I can't come back - ever'](https://www.bbc.co.uk/news/world-europe-58213845) - The BBC's Sarah Rainsford, devastated after being told she could not return to Russia, ever.
