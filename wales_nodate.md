@@ -4,9 +4,9 @@
 4. [Boy takes on 150-mile walk from Rugby to visit grandparents](https://www.bbc.co.uk/news/uk-england-coventry-warwickshire-58200813) - Fundraising Arthur Mortimer says he is looking forward to his nan's cakes after lockdown kept them apart.
 5. [Humpback whale spotted off Pembrokeshire coast](https://www.bbc.co.uk/news/uk-wales-58214562) - Tour guide Ffion Rees says it is the first time she had seen the species in UK waters in 27 years.
 6. [Covid study: How to avoid catching virus in a shared car](https://www.bbc.co.uk/news/uk-wales-58202468) - Opening four windows at lower speeds and only two on the motorway is best, researchers say.
-7. [Cardiff stabbing: Boy attacked during football match](https://www.bbc.co.uk/news/uk-wales-58194369) - The 15-year-old victim suffered a puncture wound to his leg in the assault, police say.
-8. [Skate park 'devastated' after bid to reopen in Swansea refused](https://www.bbc.co.uk/news/uk-wales-58172022) - Ramps Skatepark, which wants to reopen in a new location, says it will appeal against the decision.
-9. [Covid: One in 220 estimated to be infected in Wales](https://www.bbc.co.uk/news/uk-wales-58204723) - Around 14,100 people are estimated to have Covid - and the rest of today's data for Wales.
+7. [Anglesey: Rescued woman 'very fortunate' to be alive](https://www.bbc.co.uk/news/uk-wales-58214566) - Wendy Goddard got into trouble after drifting out to sea on an inflatable on Friday.
+8. [Cardiff stabbing: Boy attacked during football match](https://www.bbc.co.uk/news/uk-wales-58194369) - The 15-year-old victim suffered a puncture wound to his leg in the assault, police say.
+9. [Skate park 'devastated' after bid to reopen in Swansea refused](https://www.bbc.co.uk/news/uk-wales-58172022) - Ramps Skatepark, which wants to reopen in a new location, says it will appeal against the decision.
 10. [Covid in Wales: Rail staff face abuse enforcing mask rules](https://www.bbc.co.uk/news/uk-wales-58205655) - Passengers on trains in Wales must still wear a mask, unlike in England where it is only advised.
 11. [Covid-19: How many windows to keep open to cut virus build-up](https://www.bbc.co.uk/news/uk-wales-58204733) - Opening four windows at lower speeds and only two on the motorway is best, researchers say.
 12. [Reading: Teacher gets stories published after 46 years](https://www.bbc.co.uk/news/uk-wales-58189969) - Keith Godwin used to make up stories for his pupils in the 1970s, now they have been published.
