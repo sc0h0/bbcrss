@@ -11,7 +11,7 @@
 11. [Mark Sheridan, 25, urged to hand himself in to police](https://www.bbc.co.uk/news/uk-northern-ireland-58208449) - Mark Sheridan, 25, who was convicted for assault, cannot be located after being recalled to prison.
 12. [Ballymurphy: Shadow SoS meets victims' families in Belfast](https://www.bbc.co.uk/news/uk-northern-ireland-58204484) - Ms Haigh says people across the UK are "unanimous" in their opposition to Troubles legacy proposals.
 13. [GCSEs: Rise in top grades in Northern Ireland as results issued](https://www.bbc.co.uk/news/uk-northern-ireland-58179094) - Due to the Covid-19 pandemic, pupils' results were based on grades calculated by schools.
-14. [Covid-19: Four more deaths and 1,389 new cases](https://www.bbc.co.uk/news/uk-northern-ireland-58204481) - Covid-19 linked deaths are reported by counting patients who die within 28 days of testing positive.
+14. [Covid-19: Five more deaths and 1,437 new cases](https://www.bbc.co.uk/news/uk-northern-ireland-58214633) - Covid-19 linked deaths are reported by counting patients who die within 28 days of testing positive.
 15. [Covid-19: Where are Covid-19 vaccine clinics in NI?](https://www.bbc.co.uk/news/uk-northern-ireland-57863840) - Anyone aged 18 can now get a coronavirus jab at walk-in centres across Northern Ireland.
 16. [Covid-19: Nisra records 31 virus-related deaths in NI](https://www.bbc.co.uk/news/uk-northern-ireland-58200161) - Thirty-one deaths were registered in the week up to last Friday, a rise of 13 from the previous week.
 17. [Covid-19: Universities to return to face-to-face teaching](https://www.bbc.co.uk/news/uk-northern-ireland-58199977) - The majority of students in Northern Ireland have spent the last academic year learning online.
