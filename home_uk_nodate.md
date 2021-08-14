@@ -7,7 +7,7 @@
 7. [Climate change: July world's hottest month ever recorded - US agency](https://www.bbc.co.uk/news/world-us-canada-58208792) - US scientists say July's land and ocean temperature was 0.93C (1.68F) above the 20th Century average.
 8. [Nanci Griffith: Folk and country singer-songwriter dies aged 68](https://www.bbc.co.uk/news/entertainment-arts-58212802) - The Grammy-winning artist was best known for her influential career in folk and country music.
 9. [Marines to check sea depths after recruit drowned](https://www.bbc.co.uk/news/uk-england-cornwall-58205696) - A 20-year-old recruit died after disembarking into deep water at Tregantle in Cornwall.
-10. [Nicki Minaj and husband Kenneth Petty sued by sex assault victim](https://www.bbc.co.uk/news/world-us-canada-58209403) - The woman claims the couple harassed her to try to make her recant accusations against Kenneth Petty.
+10. [Covid vaccine: Parents upset at jabs wait for high-risk children](https://www.bbc.co.uk/news/health-58179302) - Some families are struggling to get vaccines for vulnerable teens, nearly a month after they became eligible.
 11. [Brett Staniland: Love Island contestant's twin calls out trolls](https://www.bbc.co.uk/news/uk-england-derbyshire-58201708) - Scott Staniland says comments about his brother Brett's looks are particularly upsetting.
 12. [The papers: Gun licence questions after 'senseless massacre'](https://www.bbc.co.uk/news/blogs-the-papers-58209181) - Revelations about Plymouth shooter Jake Davison's gun licence feature on the front pages.
 13. [Afghanistan: Journalist Anisa Shaheed refuses to give in to Taliban](https://www.bbc.co.uk/news/world-asia-58175088) - Anisa Shaheed fears women's freedoms will be curbed again if the Taliban come to power.
