@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 14 Aug 2021 05:39:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Aug 2021 05:53:39 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -30,18 +30,25 @@
             <pubDate>Sat, 14 Aug 2021 05:27:50 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The day firebombs devastated Ballymena]]></title>
+            <description><![CDATA[BBC NI's political correspondent Stephen Walker recalls his hometown on a dark day in 1976.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58171539</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58171539</guid>
+            <pubDate>Sat, 14 Aug 2021 05:43:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Antiques Roadshow looking for hidden NI treasures]]></title>
+            <description><![CDATA[The BBC show is asking people to contact them if they have something of interest for their experts.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58161934</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58161934</guid>
+            <pubDate>Sat, 14 Aug 2021 05:45:24 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Dungannon: Mother charged over child's death 'lied to police']]></title>
             <description><![CDATA[Jade Dempsey, who is accused of causing her two-year-old's death, appears at a bail hearing.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58199984</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58199984</guid>
             <pubDate>Fri, 13 Aug 2021 14:38:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ballymurphy: Shadow SoS meets victims' families in Belfast]]></title>
-            <description><![CDATA[Ms Haigh says people across the UK are "unanimous" in their opposition to Troubles legacy proposals.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58204484</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58204484</guid>
-            <pubDate>Fri, 13 Aug 2021 16:41:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Mark Sheridan, 25, urged to hand himself in to police]]></title>
@@ -51,13 +58,6 @@
             <pubDate>Fri, 13 Aug 2021 18:24:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid-19: Four more deaths and 1,389 new cases]]></title>
-            <description><![CDATA[Covid-19 linked deaths are reported by counting patients who die within 28 days of testing positive.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58204481</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58204481</guid>
-            <pubDate>Fri, 13 Aug 2021 17:42:47 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[What are Northern Ireland's Covid-19 rules now?]]></title>
             <description><![CDATA[How do restrictions here compare to other parts of the UK and the Republic of Ireland?]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58175159</link>
@@ -65,11 +65,25 @@
             <pubDate>Thu, 12 Aug 2021 14:40:14 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Ballymurphy: Shadow SoS meets victims' families in Belfast]]></title>
+            <description><![CDATA[Ms Haigh says people across the UK are "unanimous" in their opposition to Troubles legacy proposals.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58204484</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58204484</guid>
+            <pubDate>Fri, 13 Aug 2021 16:41:14 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[GCSEs: Rise in top grades in Northern Ireland as results issued]]></title>
             <description><![CDATA[Due to the Covid-19 pandemic, pupils' results were based on grades calculated by schools.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58179094</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58179094</guid>
             <pubDate>Thu, 12 Aug 2021 10:56:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19: Four more deaths and 1,389 new cases]]></title>
+            <description><![CDATA[Covid-19 linked deaths are reported by counting patients who die within 28 days of testing positive.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58204481</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58204481</guid>
+            <pubDate>Fri, 13 Aug 2021 17:42:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: Where are Covid-19 vaccine clinics in NI?]]></title>
