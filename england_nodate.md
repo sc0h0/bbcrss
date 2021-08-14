@@ -1,8 +1,8 @@
 1. [Plymouth shooting: Killer had shotgun licence returned last month](https://www.bbc.co.uk/news/uk-england-devon-58209726) - The police watchdog is investigating the decision to give back Jake Davison's shotgun and permit.
 2. [Police officer and child found dead in Kidderminster](https://www.bbc.co.uk/news/uk-england-hereford-worcester-58205396) - The deaths in Kidderminster are being treated as unexplained, West Mercia Police says.
 3. [Brett Staniland: Love Island contestant's twin calls out trolls](https://www.bbc.co.uk/news/uk-england-derbyshire-58201708) - Scott Staniland says comments about his brother Brett's looks are particularly upsetting.
-4. [Donald Campbell Bluebird: Plea for return of restored hydroplane 'in one piece'](https://www.bbc.co.uk/news/uk-england-cumbria-58205737) - Restorer Bill Smith says a museum has broken an agreement to "share" the restored craft.
-5. [Lindsey hoard: Coins stashed during Civil War declared treasure](https://www.bbc.co.uk/news/uk-england-suffolk-58205023) - An inquest hears the hoard includes coins of all rulers from King Edward VI to Charles I.
+4. [Lindsey hoard: Coins stashed during Civil War declared treasure](https://www.bbc.co.uk/news/uk-england-suffolk-58205023) - An inquest hears the hoard includes coins of all rulers from King Edward VI to Charles I.
+5. [Donald Campbell: Plea for return of restored Bluebird 'in one piece'](https://www.bbc.co.uk/news/uk-england-cumbria-58205737) - Restorer Bill Smith says a museum has broken an agreement to "share" the restored craft.
 6. [Esther Dingley: Hiker's Pyrenees death an accident, police say](https://www.bbc.co.uk/news/uk-england-tyne-58205386) - Sources say it is unclear what caused her to fall but her boots may have been unsuitable for ice.
 7. [Care home deluged with cards for Jack Annall's 101st birthday](https://www.bbc.co.uk/news/uk-england-leeds-58201824) - Jack Annall was sent the cards after being disappointed not to see his daughter on his birthday.
 8. [Who were the victims?](https://www.bbc.co.uk/news/uk-58202760) - The gunman's mother, Maxine Davison, and three-year-old Sophie Martyn have been named among the dead.
