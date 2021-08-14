@@ -1,4 +1,4 @@
-1. [Afghan conflict: Taliban take Mazar-e-Sharif, government's last northern stronghold](https://www.bbc.co.uk/news/world-asia-58213848) - Militants seize Mazar-e-Sharif, which was the last northern Afghan city under government control.
+1. [Afghan conflict: Taliban take Mazar-e-Sharif, government's last northern stronghold](https://www.bbc.co.uk/news/world-asia-58213848) - Militants head for the Afghan capital after capturing Mazar-e-Sharif, a major northern stronghold.
 2. [Afghanistan: Journalist Anisa Shaheed refuses to give in to Taliban](https://www.bbc.co.uk/news/world-asia-58175088) - Anisa Shaheed fears women's freedoms will be curbed again if the Taliban come to power.
 3. [Japan rain: Nearly two million residents told to seek shelter](https://www.bbc.co.uk/news/world-asia-58212803) - Some provinces are under evacuation alerts as experts warn of "unprecedented" rainfall.
 4. [Australia: New South Wales 'in worst ever Covid situation'](https://www.bbc.co.uk/news/world-australia-58170440) - While case numbers are relatively low, the Australian state's premier has warned of a Covid surge.
