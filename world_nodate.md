@@ -1,9 +1,9 @@
 1. [Afghanistan: Diplomats hasten exit as Taliban near Kabul](https://www.bbc.co.uk/news/world-asia-58206400) - US troops arrive to help with evacuation efforts as militants seize a city an hour's drive from Kabul.
 2. [Afghan war: Kabul's young women plead for help as Taliban advance](https://www.bbc.co.uk/news/world-asia-58205062) - They feel abandoned by the democratic world they thought they were part of, writes Yalda Hakim.
 3. [BBC condemns Russia's decision to not renew correspondent's visa](https://www.bbc.co.uk/news/world-europe-58203842) - The decision to not renew Sarah Rainsford's visa is an "assault on media freedom", the corporation says.
-4. [Britney Spears' father to step down as conservator](https://www.bbc.co.uk/news/world-us-canada-58191439) - Jamie Spears pledges to take part in an "orderly transition" but doesn't say when that will happen.
+4. [Nicki Minaj and husband Kenneth Petty sued by sex assault victim](https://www.bbc.co.uk/news/world-us-canada-58209403) - The woman claims the couple harassed her to try to make her recant accusations against Kenneth Petty.
 5. [Turkey floods: Death toll near Black Sea rises to 31](https://www.bbc.co.uk/news/world-europe-58200296) - Flash floods in northern Turkey are the country's second natural disaster this month.
-6. [Lord of the Rings: Amazon moves show to UK from New Zealand](https://www.bbc.co.uk/news/business-58196473) - The multi-million dollar production is one of the most expensive shows in the history of television.
+6. [Nicaragua: Police raid offices of La Prensa newspaper](https://www.bbc.co.uk/news/world-latin-america-58212024) - It comes a day after La Prensa said authorities were withholding its supplies of paper and ink.
 7. [US-Mexico border migrant detention levels reach 21-year high](https://www.bbc.co.uk/news/world-us-canada-58207124) - Migrant numbers usually dip during the hot summer months, but July has continued an upward trend.
 8. [Three Florida educators die of Covid, says union](https://www.bbc.co.uk/news/world-us-canada-58204206) - They are said to have died from Covid-19 related complications - days before the school year begins.
 9. [Lee Jae-yong: Samsung heir released from prison on parole](https://www.bbc.co.uk/news/world-asia-58196575) - Critics say the move raises fresh questions about the preferential treatment of business leaders.
