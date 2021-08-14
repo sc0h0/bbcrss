@@ -16,8 +16,8 @@
 16. [Afghanistan: How the Taliban gained ground so quickly](https://www.bbc.co.uk/news/world-asia-58187410) - The situation looks bleak for the Afghan government, but there may still be a chance of a stalemate.
 17. [The murderous crime wave sweeping Israel's Arabs](https://www.bbc.co.uk/news/world-middle-east-58183954) - Many killings often go unsolved, with blame being put on the police.
 18. [Life in a town taken by the Taliban in Afghanistan](https://www.bbc.co.uk/news/world-asia-58194378) - BBC correspondent Secunder Kermani reports from a town in Afghanistan recently taken by the Taliban
-19. [Afghanistan: Desperation as thousands flee the Taliban](https://www.bbc.co.uk/news/world-asia-58191043) - Yogita Limaye reports from a camp in Kabul where thousands who have been displaced by violence seek refuge.
-20. [Kiwi Chow: The film-maker who took Hong Kong's protests to Cannes](https://www.bbc.co.uk/news/world-asia-58196411) - Kiwi Chow's documentary was a surprise at the film festival - and it has a controversial title.
-21. [Afghanistan war: Do the Taliban want to conquer or compromise?](https://www.bbc.co.uk/news/world-asia-58181670) - The BBC speaks to two high profile figures in its chain of command who have very different messages.
-22. [Northern Turkey hit by severe flash flooding](https://www.bbc.co.uk/news/world-58194460) - Seventeen people have reportedly died, with more than 1,400 people evacuated from the areas affected.
-23. [Virtual reality: 'There's no max, there's no limit!'](https://www.bbc.co.uk/news/entertainment-arts-58177685) - "There's no max, there's no limit" to virtual reality, so is it the future of live music?
+19. [Afghanistan in serious danger - President Ghani](https://www.bbc.co.uk/news/world-asia-58213300) - Ashraf Ghani addresses the nation as the Taliban reportedly close in on the Afghan capital, Kabul.
+20. [Afghanistan: Desperation as thousands flee the Taliban](https://www.bbc.co.uk/news/world-asia-58191043) - Yogita Limaye reports from a camp in Kabul where thousands who have been displaced by violence seek refuge.
+21. [Virtual reality: 'There's no max, there's no limit!'](https://www.bbc.co.uk/news/entertainment-arts-58177685) - "There's no max, there's no limit" to virtual reality, so is it the future of live music?
+22. [Kiwi Chow: The film-maker who took Hong Kong's protests to Cannes](https://www.bbc.co.uk/news/world-asia-58196411) - Kiwi Chow's documentary was a surprise at the film festival - and it has a controversial title.
+23. [Northern Turkey hit by severe flash flooding](https://www.bbc.co.uk/news/world-58194460) - Seventeen people have reportedly died, with more than 1,400 people evacuated from the areas affected.
