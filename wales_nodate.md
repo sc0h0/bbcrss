@@ -1,4 +1,4 @@
-1. [Covid: Safety fears as face-mask rules 'ignored on Welsh trains'](https://www.bbc.co.uk/news/uk-wales-58144669) - Passengers say they feel unsafe, crammed on trains face-to-face with people not wearing masks.
+1. [Covid: Safety fears as face-mask rules 'ignored on Welsh trains'](https://www.bbc.co.uk/news/uk-wales-58144669) - Some passengers say they feel unsafe, crammed on trains face-to-face with people not wearing masks.
 2. [Bridgend: Tribute to boy, 2, as woman arrested for murder](https://www.bbc.co.uk/news/uk-wales-58194706) - Reid Steele died in hospital after being found in a critical condition at a house in Bridgend.
 3. [Covid study: How to avoid catching virus in a shared car](https://www.bbc.co.uk/news/uk-wales-58202468) - Opening four windows at lower speeds and only two on the motorway is best, researchers say.
 4. [Reading: Teacher gets stories published after 46 years](https://www.bbc.co.uk/news/uk-wales-58189969) - Keith Godwin used to make up stories for his pupils in the 1970s, now they have been published.
@@ -22,5 +22,4 @@
 22. [Rheol mygydau ar drenau yn cael ei 'anwybyddu'](https://www.bbc.co.uk/newyddion/58172186) - Rhai yn pryderu dros eu diogelwch wrth i bobl wrthod cadw at y rheolau tra'n teithio.
 23. [Llacio cyfyngiadau wedi gwneud 'andros o wahaniaeth'](https://www.bbc.co.uk/newyddion/58194118) - Rhai o drigolion Llanrwst yn edrych yn ôl ar y dyddiau diwethaf wedi i drwch cyfyngiadau Covid gael eu codi.
 24. [Cyhoeddi enw bachgen 2 oed fu farw ym Mhen-y-bont](https://www.bbc.co.uk/newyddion/58206727) - Mae menyw gafodd ei harestio ar amheuaeth o lofruddio bellach dan ofal gwasanaethau iechyd meddwl.
-25. [Unigrwydd cefn gwlad: 'Neb i siarad efo'](https://www.bbc.co.uk/newyddion/58199552) - Gethin Bickerton a sut aeth ati i ddysgu i fyw gyda’i iechyd meddwl.
-26. [Cymru Premier: Derwyddon Cefn 0-2 Cei Connah](https://www.bbc.co.uk/newyddion/58209271) - Cei Connah oedd yn fuddugol yn erbyn Derwyddon Cefn nos Wener yng ngem agoriadol tymor newydd Cymru Premier.
+25. [Cymru Premier: Derwyddon Cefn 0-2 Cei Connah](https://www.bbc.co.uk/newyddion/58209271) - Cei Connah oedd yn fuddugol yn erbyn Derwyddon Cefn nos Wener yng ngem agoriadol tymor newydd Cymru Premier.

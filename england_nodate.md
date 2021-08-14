@@ -2,8 +2,8 @@
 2. [Police officer and child found dead in Kidderminster](https://www.bbc.co.uk/news/uk-england-hereford-worcester-58205396) - The deaths in Kidderminster are being treated as unexplained, West Mercia Police says.
 3. [Brett Staniland: Love Island contestant's twin calls out trolls](https://www.bbc.co.uk/news/uk-england-derbyshire-58201708) - Scott Staniland says comments about his brother Brett's looks are particularly upsetting.
 4. [Banksy confirms East Anglian seaside artwork is genuine](https://www.bbc.co.uk/news/uk-england-norfolk-58163143) - The secretive artist claims responsibility for pieces along England's east coast.
-5. [Esther Dingley: Hiker's Pyrenees death an accident, police say](https://www.bbc.co.uk/news/uk-england-tyne-58205386) - Sources say it is unclear what caused her to fall but her boots may have been unsuitable for ice.
-6. [Firefighters tackle huge blaze in North Tyneside](https://www.bbc.co.uk/news/uk-england-tyne-58207577) - Witnesses report seeing smoke billowing across the River Tyne.
+5. [Lindsey hoard: Coins stashed during Civil War declared treasure](https://www.bbc.co.uk/news/uk-england-suffolk-58205023) - An inquest hears the hoard includes coins of all rulers from King Edward VI to Charles I.
+6. [Esther Dingley: Hiker's Pyrenees death an accident, police say](https://www.bbc.co.uk/news/uk-england-tyne-58205386) - Sources say it is unclear what caused her to fall but her boots may have been unsuitable for ice.
 7. [Care home deluged with cards for Jack Annall's 101st birthday](https://www.bbc.co.uk/news/uk-england-leeds-58201824) - Jack Annall was sent the cards after being disappointed not to see his daughter on his birthday.
 8. [Who were the victims?](https://www.bbc.co.uk/news/uk-58202760) - The gunman's mother, Maxine Davison, and three-year-old Sophie Martyn have been named among the dead.
 9. [A visual guide to what happened](https://www.bbc.co.uk/news/uk-england-devon-58200336) - A gunman shot and killed five people in Plymouth before turning the gun on himself. Here's what we know about how events unfolded.
@@ -15,7 +15,7 @@
 15. [Plymouth shooting: Inside the dark world of 'incels'](https://www.bbc.co.uk/news/blogs-trending-44053828) - Who are the angry young men who describe themselves as "involuntarily celibate"?
 16. [Plymouth MP: Community 'trying to make sense' of shooting](https://www.bbc.co.uk/news/uk-58198078) - MP Luke Pollard says the community is pulling together in the face of the "deeply grim" news.
 17. [Covid-19: Bradford hairdresser found guilty of lockdown breaches](https://www.bbc.co.uk/news/uk-england-leeds-58208420) - Sinead Quinn racked up £17,000 in fines after repeatedly breaking lockdown restrictions, court hears.
-18. [Bilsdale transmitter fire: TV and radio disruption could last up to 14 days](https://www.bbc.co.uk/news/uk-england-tees-58208326) - Mast operator Arqiva says work to put up temporary transmitters will take between seven and 14 days.
+18. [Firefighters tackle huge blaze in North Tyneside](https://www.bbc.co.uk/news/uk-england-tyne-58207577) - Witnesses report seeing smoke billowing across the River Tyne.
 19. [Shrewsbury police officer stalked ex out of 'twisted vengeance'](https://www.bbc.co.uk/news/uk-england-shropshire-58207935) - Stephen Green, 60, is given a six month sentence suspended for two years after admitting stalking.
 20. [Woman died on hold reporting boyfriend assault](https://www.bbc.co.uk/news/uk-england-lincolnshire-58187438) - Daniela Espirito Santo, from Grantham, was not failed by police, a watchdog says.
 21. [Kadian Nelson: Man who raped girl on her way to school jailed](https://www.bbc.co.uk/news/uk-england-london-58204431) - Kadian Nelson was chased away during the attack after a 10-year-old girl saw him snatch his victim.
