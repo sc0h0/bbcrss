@@ -20,7 +20,7 @@
 20. [Cardiff City: Aden Flint says Mick McCarthy brought him back from 'wilderness'](https://www.bbc.co.uk/sport/football/58203102) - Defender Aden Flint says he is grateful to be playing for Cardiff City again after being brought back from the "wilderness" by Mick McCarthy.
 21. [Jonathan Davies: Wales centre on return of full crowds and beating All Blacks](https://www.bbc.co.uk/sport/rugby-union/58190099) - Wales centre Jonathan Davies on the return of capacity crowds, the 'struggle' of empty stadiums and the chance to beat New Zealand.
 22. [Rheol mygydau ar drenau yn cael ei 'anwybyddu'](https://www.bbc.co.uk/newyddion/58172186) - Rhai yn pryderu dros eu diogelwch wrth i bobl wrthod cadw at y rheolau tra'n teithio.
-23. [Cyhoeddi enw bachgen 2 oed fu farw ym Mhen-y-bont](https://www.bbc.co.uk/newyddion/58206727) - Mae menyw gafodd ei harestio ar amheuaeth o lofruddio bellach dan ofal gwasanaethau iechyd meddwl.
-24. [Cyn-gynghorydd yn methu â chael iawndal am sŵn awyrennau](https://www.bbc.co.uk/newyddion/58201465) - Roedd John Arthur Jones a'i wraig Rhian yn dadlau fod y sŵn yn amharu ar eu heiddo a'u hawliau dynol.
+23. [Llacio cyfyngiadau wedi gwneud 'andros o wahaniaeth'](https://www.bbc.co.uk/newyddion/58194118) - Rhai o drigolion Llanrwst yn edrych yn ôl ar y dyddiau diwethaf wedi i drwch cyfyngiadau Covid gael eu codi.
+24. [Cyhoeddi enw bachgen 2 oed fu farw ym Mhen-y-bont](https://www.bbc.co.uk/newyddion/58206727) - Mae menyw gafodd ei harestio ar amheuaeth o lofruddio bellach dan ofal gwasanaethau iechyd meddwl.
 25. [Unigrwydd cefn gwlad: 'Neb i siarad efo'](https://www.bbc.co.uk/newyddion/58199552) - Gethin Bickerton a sut aeth ati i ddysgu i fyw gyda’i iechyd meddwl.
 26. [Cymru Premier: Derwyddon Cefn 0-2 Cei Connah](https://www.bbc.co.uk/newyddion/58209271) - Cei Connah oedd yn fuddugol yn erbyn Derwyddon Cefn nos Wener yng ngem agoriadol tymor newydd Cymru Premier.
