@@ -5,7 +5,7 @@
 5. [Turkey floods: Death toll near Black Sea rises to 31](https://www.bbc.co.uk/news/world-europe-58200296) - Flash floods in northern Turkey are the country's second natural disaster this month.
 6. [Lord of the Rings: Amazon moves show to UK from New Zealand](https://www.bbc.co.uk/news/business-58196473) - The multi-million dollar production is one of the most expensive shows in the history of television.
 7. [US-Mexico border migrant detention levels reach 21-year high](https://www.bbc.co.uk/news/world-us-canada-58207124) - Migrant numbers usually dip during the hot summer months, but July has continued an upward trend.
-8. [Three Florida educators die of Covid, says union](https://www.bbc.co.uk/news/world-us-canada-58204206) - A Florida teachers' union announces the deaths with just days to go before the academic year begins.
+8. [Three Florida educators die of Covid, says union](https://www.bbc.co.uk/news/world-us-canada-58204206) - They are said to have died from Covid-19 related complications - days before the school year begins.
 9. [Lee Jae-yong: Samsung heir released from prison on parole](https://www.bbc.co.uk/news/world-asia-58196575) - Critics say the move raises fresh questions about the preferential treatment of business leaders.
 10. [North Korea airs Olympics coverage days after it ends](https://www.bbc.co.uk/news/world-asia-58196464) - Korean Central Television airs a women's football match that was actually played last month.
 11. [Afghanistan: Journalist Anisa Shaheed refuses to give in to Taliban](https://www.bbc.co.uk/news/world-asia-58175088) - Anisa Shaheed fears women's freedoms will be curbed again if the Taliban come to power.
@@ -13,14 +13,15 @@
 13. [Afghans living under Taliban lament loss of freedoms](https://www.bbc.co.uk/news/world-asia-58191440) - Afghans in Taliban-controlled provinces describe life under its fundamentalist Islamist rule.
 14. [Myanmar: The woman who jumped to her death while fleeing police](https://www.bbc.co.uk/news/world-asia-58196465) - Wai Wai Myint was among five people who jumped out of a building while fleeing a police raid in Myanmar.
 15. [Climate change: Does Germany produce double the UK's carbon emissions?](https://www.bbc.co.uk/news/58148881) - MP John Redwood claims that, on carbon emissions, Germany "puts out twice as much as we do". Is he right?
-16. [Afghanistan: How the Taliban gained ground so quickly](https://www.bbc.co.uk/news/world-asia-58187410) - The situation looks bleak for the Afghan government, but there may still be a chance of a stalemate.
-17. [The murderous crime wave sweeping Israel's Arabs](https://www.bbc.co.uk/news/world-middle-east-58183954) - Many killings often go unsolved, with blame being put on the police.
-18. [Life in a town taken by the Taliban in Afghanistan](https://www.bbc.co.uk/news/world-asia-58194378) - BBC correspondent Secunder Kermani reports from a town in Afghanistan recently taken by the Taliban
-19. [Africa's week in pictures: 6-12 August 2021](https://www.bbc.co.uk/news/world-africa-58186939) - A selection of the best photos from the African continent and beyond.
-20. [365 dates: Indian serial dater Sunder Ramu still looking to meet his target](https://www.bbc.co.uk/news/world-asia-india-58183168) - Tamil actor Sunder Ramu's dates are not all romantic ones - and his aim is not just to find love.
-21. [The fiendish new trick cyber-criminals are using to evade capture](https://www.bbc.co.uk/news/technology-58176113) - Bitcoin researchers discover a new darknet tool criminals are using to help launder their digital money.
-22. [Afghanistan: Desperation as thousands flee the Taliban](https://www.bbc.co.uk/news/world-asia-58191043) - Yogita Limaye reports from a camp in Kabul where thousands who have been displaced by violence seek refuge.
-23. [Kiwi Chow: The film-maker who took Hong Kong's protests to Cannes](https://www.bbc.co.uk/news/world-asia-58196411) - Kiwi Chow's documentary was a surprise at the film festival - and it has a controversial title.
-24. [Afghanistan war: Do the Taliban want to conquer or compromise?](https://www.bbc.co.uk/news/world-asia-58181670) - The BBC speaks to two high profile figures in its chain of command who have very different messages.
-25. [Northern Turkey hit by severe flash flooding](https://www.bbc.co.uk/news/world-58194460) - Seventeen people have reportedly died, with more than 1,400 people evacuated from the areas affected.
-26. [Virtual reality: 'There's no max, there's no limit!'](https://www.bbc.co.uk/news/entertainment-arts-58177685) - "There's no max, there's no limit" to virtual reality, so is it the future of live music?
+16. [Viewpoint: Why Twitter got it wrong in Nigeria](https://www.bbc.co.uk/news/world-africa-58175708) - Complex issues have been raised about policing speech and censoring unpopular voices.
+17. [Afghanistan: How the Taliban gained ground so quickly](https://www.bbc.co.uk/news/world-asia-58187410) - The situation looks bleak for the Afghan government, but there may still be a chance of a stalemate.
+18. [The murderous crime wave sweeping Israel's Arabs](https://www.bbc.co.uk/news/world-middle-east-58183954) - Many killings often go unsolved, with blame being put on the police.
+19. [Life in a town taken by the Taliban in Afghanistan](https://www.bbc.co.uk/news/world-asia-58194378) - BBC correspondent Secunder Kermani reports from a town in Afghanistan recently taken by the Taliban
+20. [Africa's week in pictures: 6-12 August 2021](https://www.bbc.co.uk/news/world-africa-58186939) - A selection of the best photos from the African continent and beyond.
+21. [365 dates: Indian serial dater Sunder Ramu still looking to meet his target](https://www.bbc.co.uk/news/world-asia-india-58183168) - Tamil actor Sunder Ramu's dates are not all romantic ones - and his aim is not just to find love.
+22. [The fiendish new trick cyber-criminals are using to evade capture](https://www.bbc.co.uk/news/technology-58176113) - Bitcoin researchers discover a new darknet tool criminals are using to help launder their digital money.
+23. [Afghanistan: Desperation as thousands flee the Taliban](https://www.bbc.co.uk/news/world-asia-58191043) - Yogita Limaye reports from a camp in Kabul where thousands who have been displaced by violence seek refuge.
+24. [Kiwi Chow: The film-maker who took Hong Kong's protests to Cannes](https://www.bbc.co.uk/news/world-asia-58196411) - Kiwi Chow's documentary was a surprise at the film festival - and it has a controversial title.
+25. [Afghanistan war: Do the Taliban want to conquer or compromise?](https://www.bbc.co.uk/news/world-asia-58181670) - The BBC speaks to two high profile figures in its chain of command who have very different messages.
+26. [Northern Turkey hit by severe flash flooding](https://www.bbc.co.uk/news/world-58194460) - Seventeen people have reportedly died, with more than 1,400 people evacuated from the areas affected.
+27. [Virtual reality: 'There's no max, there's no limit!'](https://www.bbc.co.uk/news/entertainment-arts-58177685) - "There's no max, there's no limit" to virtual reality, so is it the future of live music?

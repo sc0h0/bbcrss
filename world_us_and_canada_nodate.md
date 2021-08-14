@@ -1,6 +1,6 @@
 1. [Afghanistan: Diplomats hasten exit as Taliban near Kabul](https://www.bbc.co.uk/news/world-asia-58206400) - US troops arrive to help with evacuation efforts as militants seize a city an hour's drive from Kabul.
 2. [Climate change: July world's hottest month ever - US agency](https://www.bbc.co.uk/news/world-us-canada-58208792) - US scientists say July's land and ocean temperature was 0.93C (1.68F) above the 20th Century average.
-3. [Three Florida educators die of Covid, says union](https://www.bbc.co.uk/news/world-us-canada-58204206) - A Florida teachers' union announces the deaths with just days to go before the academic year begins.
+3. [Three Florida educators die of Covid, says union](https://www.bbc.co.uk/news/world-us-canada-58204206) - They are said to have died from Covid-19 related complications - days before the school year begins.
 4. [Britney Spears' father to step down as conservator](https://www.bbc.co.uk/news/world-us-canada-58191439) - Jamie Spears pledges to take part in an "orderly transition" but doesn't say when that will happen.
 5. [US census: Hispanic and Asian-American driving US population growth](https://www.bbc.co.uk/news/world-us-canada-58195166) - Newly released data points to sluggish population growth and a more multiracial US.
 6. [Can Americans pull the plug on petrol-powered cars?](https://www.bbc.co.uk/news/business-58123729) - Joe Biden wants half of all cars sold in the US to be zero emission by 2030 - but getting there won't be easy.
