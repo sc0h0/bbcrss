@@ -3,7 +3,7 @@
 3. [Australia: New South Wales 'in worst ever Covid situation'](https://www.bbc.co.uk/news/world-australia-58170440) - While case numbers are relatively low, the Australian state's premier has warned of a Covid surge.
 4. [James Markham killing: Chingford father was partner's 'world'](https://www.bbc.co.uk/news/uk-england-london-58215540) - The partner of James Markham has remembered him as "her world" following his stabbing.
 5. [Rwandan president lashes out at Arsenal defeat](https://www.bbc.co.uk/news/world-africa-58162403) - Paul Kagame, a committed Gunners fan, lashes out on Twitter at the club his government sponsors.
-6. [Major 7.2-magnitude earthquake strikes Haiti](https://www.bbc.co.uk/news/world-latin-america-58215631) - A 7.2-magnitude quake hits the west of Haiti, which is still recovering from the devastation of 2010.
+6. [Major 7.2-magnitude earthquake strikes Haiti](https://www.bbc.co.uk/news/world-latin-america-58215631) - A 7.2-magnitude quake hits the Caribbean nation, which is still recovering from the devastation of 2010.
 7. [Turkey floods: Death toll near Black Sea rises to at least 40](https://www.bbc.co.uk/news/world-europe-58200296) - Flash floods in northern Turkey are the country's second natural disaster this month.
 8. [Covid: Carrie Johnson urges pregnant women to get vaccinated](https://www.bbc.co.uk/news/uk-58215440) - The PM's wife, who is expecting a baby, says she is "feeling great" after having her second vaccine.
 9. [Sark: Two people test positive for Covid-19](https://www.bbc.co.uk/news/world-europe-guernsey-58212983) - The small Channel Island only recorded its first case of Covid-19 in July.
