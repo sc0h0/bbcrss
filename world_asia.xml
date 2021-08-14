@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 14 Aug 2021 12:33:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Aug 2021 13:00:32 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -30,6 +30,13 @@
             <pubDate>Sat, 14 Aug 2021 08:20:33 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Australia: New South Wales 'in worst ever Covid situation']]></title>
+            <description><![CDATA[While case numbers are relatively low, the Australian state's premier has warned of a Covid surge.]]></description>
+            <link>https://www.bbc.co.uk/news/world-australia-58170440</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-australia-58170440</guid>
+            <pubDate>Sat, 14 Aug 2021 12:54:50 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Myanmar: The woman who jumped to her death while fleeing police]]></title>
             <description><![CDATA[Wai Wai Myint was among five people who jumped out of a building while fleeing a police raid in Myanmar.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-58196465</link>
@@ -37,18 +44,18 @@
             <pubDate>Sat, 14 Aug 2021 00:25:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Twitter locks accounts of India party leaders]]></title>
-            <description><![CDATA[Twitter has locked accounts of Rahul Gandhi and others for sharing photos of a rape victim's parents.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-india-58196793</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-58196793</guid>
-            <pubDate>Fri, 13 Aug 2021 10:14:58 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Kiwi Chow: The film-maker who took Hong Kong's protests to Cannes]]></title>
             <description><![CDATA[Kiwi Chow's documentary was a surprise at the film festival - and it has a controversial title.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-58196411</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58196411</guid>
             <pubDate>Fri, 13 Aug 2021 00:30:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Twitter locks accounts of India party leaders]]></title>
+            <description><![CDATA[Twitter has locked accounts of Rahul Gandhi and others for sharing photos of a rape victim's parents.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-india-58196793</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-58196793</guid>
+            <pubDate>Fri, 13 Aug 2021 10:14:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[North Korea airs Olympics coverage days after it ends]]></title>
@@ -70,13 +77,6 @@
             <link>https://www.bbc.co.uk/news/world-asia-india-58171679</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-58171679</guid>
             <pubDate>Thu, 12 Aug 2021 09:40:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Australian capital Canberra goes into snap lockdown]]></title>
-            <description><![CDATA[The one-week lockdown comes after Canberra recorded its first case of Covid-19 for more than a year.]]></description>
-            <link>https://www.bbc.co.uk/news/world-australia-58182419</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-australia-58182419</guid>
-            <pubDate>Thu, 12 Aug 2021 03:35:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[China: Swiss embassy urges media to remove scientist fake news]]></title>

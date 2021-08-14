@@ -1,5 +1,5 @@
 1. [Nicki Minaj and husband Kenneth Petty sued by sex assault victim](https://www.bbc.co.uk/news/world-us-canada-58209403) - The woman claims the couple harassed her to try to make her recant accusations against Kenneth Petty.
-2. [Sarah Rainsford on Russia: 'I've been told I can't come back - ever'](https://www.bbc.co.uk/news/world-europe-58213845) - The BBC's Sarah Rainsford, who is being expelled from Russia, speaks about the country she loves.
+2. [Sarah Rainsford on Russia: 'I've been told I can't come back - ever'](https://www.bbc.co.uk/news/world-europe-58213845) - The BBC's Sarah Rainsford, devastated after being told she could not return to Russia, ever.
 3. [Shetland’s biggest gig – the day Pulp flew in to Lerwick](https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-57599869) - At the height of their fame, the Britpop icons travelled to Lerwick to play a show for just 1,400 fans.
 4. [Strictly Come Dancing: Ex-rugby star Ugo Monye completes 2021 line-up](https://www.bbc.co.uk/news/entertainment-arts-58089932) - Ugo Monye will join Olympic swimmer Adam Peaty and 13 other stars when the show returns next month.
 5. [Nanci Griffith: Folk and country singer-songwriter dies aged 68](https://www.bbc.co.uk/news/entertainment-arts-58212802) - The Grammy-winning artist was best known for her influential career in folk and country music.

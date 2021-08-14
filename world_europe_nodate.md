@@ -1,5 +1,5 @@
 1. [Turkey floods: Death toll near Black Sea rises to 31](https://www.bbc.co.uk/news/world-europe-58200296) - Flash floods in northern Turkey are the country's second natural disaster this month.
-2. [Sarah Rainsford on Russia: 'I've been told I can't come back - ever'](https://www.bbc.co.uk/news/world-europe-58213845) - The BBC's Sarah Rainsford, who is being expelled from Russia, speaks about the country she loves.
+2. [Sarah Rainsford on Russia: 'I've been told I can't come back - ever'](https://www.bbc.co.uk/news/world-europe-58213845) - The BBC's Sarah Rainsford, devastated after being told she could not return to Russia, ever.
 3. [Plymouth shooting: Jake Davison was licensed gun holder](https://www.bbc.co.uk/news/uk-england-devon-58197414) - Jake Davison killed five people, including a three-year-old girl, before turning the gun on himself.
 4. [Climate change: Does Germany produce double the UK's carbon emissions?](https://www.bbc.co.uk/news/58148881) - MP John Redwood claims that, on carbon emissions, Germany "puts out twice as much as we do". Is he right?
 5. [Romelu Lukaku: Chelsea re-sign Belgium striker from Inter Milan for a club record £97.5m](https://www.bbc.co.uk/sport/football/58111490) - Chelsea have re-signed Belgium striker Romelu Lukaku from Inter Milan for £97.5m.
