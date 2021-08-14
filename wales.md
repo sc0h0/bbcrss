@@ -21,4 +21,4 @@
 21. [Gwasanaeth coffa i fachgen gafodd ei ganfod mewn afon](https://www.bbc.co.uk/newyddion/58213535) - Sat, 14 Aug 2021 11:56:35 GMT - Cafwyd hyd i Logan Mwangi, 5, yn Afon Ogwr ger Pen-y-bont ar 31 Gorffennaf.
 22. [Rheol mygydau ar drenau yn cael ei 'anwybyddu'](https://www.bbc.co.uk/newyddion/58172186) - Sat, 14 Aug 2021 07:25:16 GMT - Rhai yn pryderu dros eu diogelwch wrth i bobl wrthod cadw at y rheolau tra'n teithio.
 23. [Llacio cyfyngiadau wedi gwneud 'andros o wahaniaeth'](https://www.bbc.co.uk/newyddion/58194118) - Sat, 14 Aug 2021 07:37:36 GMT - Rhai o drigolion Llanrwst yn edrych yn ôl ar y dyddiau diwethaf wedi i drwch cyfyngiadau Covid gael eu codi.
-24. [Cymru Premier: Derwyddon Cefn 0-2 Cei Connah](https://www.bbc.co.uk/newyddion/58209271) - Fri, 13 Aug 2021 21:06:50 GMT - Cei Connah oedd yn fuddugol yn erbyn Derwyddon Cefn nos Wener yng ngem agoriadol tymor newydd Cymru Premier.
+24. [Cymru Premier: Aberystwyth a'r Fflint yn ennill](https://www.bbc.co.uk/newyddion/58209271) - Sat, 14 Aug 2021 15:34:28 GMT - Buddugoliaeth swmpus i'r Fflint, a hynny wedi i Cei Connah ennill nos Wener yng ngem agoriadol y tymor newydd.
