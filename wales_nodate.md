@@ -16,8 +16,8 @@
 16. [British and Irish Lions: Historic series win in New Zealand remembered 50 years on](https://www.bbc.co.uk/sport/rugby-union/58128404) - Half a century on, BBC Sport Wales recalls how the British and Irish Lions secured the one series win over New Zealand in their history.
 17. [Blackpool v Cardiff City](https://www.bbc.co.uk/sport/football/58124642) - Live coverage of Saturday's Championship game between Blackpool and Cardiff City.
 18. [Mansfield Town v Newport County](https://www.bbc.co.uk/sport/football/58124809) - Live coverage of Saturday's League Two game between Mansfield Town and Newport County.
-19. [Olympic gold medallist Lauren Price gets a phone box to match](https://www.bbc.co.uk/news/uk-wales-58205982) - The Olympic gold medallist was over the moon with the accolade dubbing it "brilliant".
-20. [Jonny Williams: Swindon Town sign Wales midfielder on free transfer](https://www.bbc.co.uk/sport/football/58207019) - Swindon Town sign Wales international Jonny Williams on a free transfer after his release by Cardiff City this summer.
+19. [Oli McBurnie: Sheffield United striker to 'be respectful' on Swansea City return](https://www.bbc.co.uk/sport/football/58184942) - Sheffield United striker Oli McBurnie is heading back to Swansea City with a pledge to show respect to the club where he made his name.
+20. [Olympic gold medallist Lauren Price gets a phone box to match](https://www.bbc.co.uk/news/uk-wales-58205982) - The Olympic gold medallist was over the moon with the accolade dubbing it "brilliant".
 21. [Gwasanaeth coffa i fachgen gafodd ei ganfod mewn afon](https://www.bbc.co.uk/newyddion/58213535) - Cafwyd hyd i Logan Mwangi, 5, yn Afon Ogwr ger Pen-y-bont ar 31 Gorffennaf.
 22. [Rheol mygydau ar drenau yn cael ei 'anwybyddu'](https://www.bbc.co.uk/newyddion/58172186) - Rhai yn pryderu dros eu diogelwch wrth i bobl wrthod cadw at y rheolau tra'n teithio.
 23. [Llacio cyfyngiadau wedi gwneud 'andros o wahaniaeth'](https://www.bbc.co.uk/newyddion/58194118) - Rhai o drigolion Llanrwst yn edrych yn ôl ar y dyddiau diwethaf wedi i drwch cyfyngiadau Covid gael eu codi.

@@ -5,9 +5,9 @@
 5. [Rwandan president lashes out at Arsenal defeat](https://www.bbc.co.uk/news/world-africa-58162403) - Paul Kagame, a committed Gunners fan, lashes out on Twitter at the club his government sponsors.
 6. [Covid: Carrie Johnson urges pregnant women to get vaccinated](https://www.bbc.co.uk/news/uk-58215440) - The PM's wife, who is expecting a baby, says she is "feeling great" after having her second vaccine.
 7. [Sark: Two people test positive for Covid-19](https://www.bbc.co.uk/news/world-europe-guernsey-58212983) - The small Channel Island only recorded its first case of Covid-19 in July.
-8. [Nicola Sturgeon's sister Gillian arrested over Ayrshire incident](https://www.bbc.co.uk/news/uk-scotland-58213744) - Gillian Sturgeon was arrested along with a man over an alleged domestic incident in North Ayrshire.
-9. [Cost of NHS Covid tests for UK arrivals reduced](https://www.bbc.co.uk/news/business-58206517) - Sajid Javid reduces the cost of NHS travel tests ahead of a review into the pricing of all test providers.
-10. [Climate change: July world's hottest month ever recorded - US agency](https://www.bbc.co.uk/news/world-us-canada-58208792) - US scientists say July's land and ocean temperature was 0.93C (1.68F) above the 20th Century average.
+8. [Turkey floods: Death toll near Black Sea rises to at least 40](https://www.bbc.co.uk/news/world-europe-58200296) - Flash floods in northern Turkey are the country's second natural disaster this month.
+9. [Nicola Sturgeon's sister Gillian arrested over Ayrshire incident](https://www.bbc.co.uk/news/uk-scotland-58213744) - Gillian Sturgeon was arrested along with a man over an alleged domestic incident in North Ayrshire.
+10. [Cost of NHS Covid tests for UK arrivals reduced](https://www.bbc.co.uk/news/business-58206517) - Sajid Javid reduces the cost of NHS travel tests ahead of a review into the pricing of all test providers.
 11. [Nanci Griffith: Folk and country singer-songwriter dies aged 68](https://www.bbc.co.uk/news/entertainment-arts-58212802) - The Grammy-winning artist was best known for her influential career in folk and country music.
 12. [Marines to check sea depths after recruit drowned](https://www.bbc.co.uk/news/uk-england-cornwall-58205696) - A 20-year-old recruit died after disembarking into deep water at Tregantle in Cornwall.
 13. [Afghanistan: Journalist Anisa Shaheed refuses to give in to Taliban](https://www.bbc.co.uk/news/world-asia-58175088) - Anisa Shaheed fears women's freedoms will be curbed again if the Taliban come to power.
