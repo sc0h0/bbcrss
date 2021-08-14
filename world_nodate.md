@@ -1,6 +1,6 @@
 1. [Afghan conflict: Taliban take Mazar-e-Sharif, government's last northern stronghold](https://www.bbc.co.uk/news/world-asia-58213848) - The militants head for the Afghan capital after capturing the key city of Mazar-e-Sharif.
 2. [Afghan war: Kabul's young women plead for help as Taliban advance](https://www.bbc.co.uk/news/world-asia-58205062) - They feel abandoned by the democratic world they thought they were part of, writes Yalda Hakim.
-3. [Haiti struck by deadly 7.2-magnitude earthquake](https://www.bbc.co.uk/news/world-latin-america-58215631) - At least 29 people are killed, and many more injured, by the powerful earthquake.
+3. [Haiti struck by deadly 7.2-magnitude earthquake](https://www.bbc.co.uk/news/world-latin-america-58215631) - At least 227 people are killed, and many more injured, by the powerful earthquake.
 4. [Sarah Rainsford on Russia: 'I've been told I can't come back - ever'](https://www.bbc.co.uk/news/world-europe-58213845) - The BBC's Sarah Rainsford, devastated after being told she could not return to Russia, ever.
 5. [Japan rain: Nearly two million residents told to seek shelter](https://www.bbc.co.uk/news/world-asia-58212803) - Some provinces are under evacuation alerts as experts warn of "unprecedented" rainfall.
 6. [Turkey floods: Death toll near Black Sea rises to at least 40](https://www.bbc.co.uk/news/world-europe-58200296) - Flash floods in northern Turkey are the country's second natural disaster this month.
