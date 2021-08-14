@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 14 Aug 2021 12:50:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Aug 2021 13:26:54 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -233,18 +233,18 @@
             <pubDate>Fri, 13 Aug 2021 08:17:12 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Manchester United 5-1 Leeds United: Bruno Fernandes hat-trick earns hosts thumping win]]></title>
+            <description><![CDATA[Bruno Fernandes scores a hat-trick as Manchester United overpower old rivals Leeds to make the perfect start to the new Premier League season.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58124893</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58124893</guid>
+            <pubDate>Sat, 14 Aug 2021 13:21:58 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Raphael Varane: Manchester United sign France defender on four-year deal]]></title>
             <description><![CDATA[Manchester United complete the signing of France centre-back Raphael Varane from Real Madrid on a four-year-deal.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58176187</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58176187</guid>
             <pubDate>Sat, 14 Aug 2021 11:38:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Brentford 2-0 Arsenal: Bees earn fully deserved win over Gunners]]></title>
-            <description><![CDATA[Brentford mark their Premier League debut with a deserved win over Arsenal at a jubilant Brentford Community Stadium.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58109868</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58109868</guid>
-            <pubDate>Fri, 13 Aug 2021 21:20:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
