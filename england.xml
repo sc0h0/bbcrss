@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 14 Aug 2021 10:47:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Aug 2021 11:07:27 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -51,18 +51,18 @@
             <pubDate>Sat, 14 Aug 2021 08:32:12 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Cornwall Royal Marines death prompts sea depths checks]]></title>
+            <description><![CDATA[A 20-year-old recruit died after disembarking into deep water at Tregantle in Cornwall.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-cornwall-58205696</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-cornwall-58205696</guid>
+            <pubDate>Sat, 14 Aug 2021 10:59:38 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Jacksdale woman charged with murder of three-year-old boy]]></title>
             <description><![CDATA[Police took the boy to hospital after he was hurt at a home in Jacksdale, but he died two days later.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-nottinghamshire-58213753</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-nottinghamshire-58213753</guid>
             <pubDate>Sat, 14 Aug 2021 10:03:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Care home deluged with cards for Jack Annall's 101st birthday]]></title>
-            <description><![CDATA[Jack Annall was sent the cards after being disappointed not to see his daughter on his birthday.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-leeds-58201824</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-leeds-58201824</guid>
-            <pubDate>Fri, 13 Aug 2021 15:32:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Who were the victims?]]></title>
@@ -142,18 +142,18 @@
             <pubDate>Fri, 13 Aug 2021 20:45:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Firefighters tackle huge blaze in North Tyneside]]></title>
-            <description><![CDATA[Witnesses report seeing smoke billowing across the River Tyne.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-tyne-58207577</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-tyne-58207577</guid>
-            <pubDate>Fri, 13 Aug 2021 17:55:47 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Shrewsbury police officer stalked ex out of 'twisted vengeance']]></title>
             <description><![CDATA[Stephen Green, 60, is given a six month sentence suspended for two years after admitting stalking.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-shropshire-58207935</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-shropshire-58207935</guid>
             <pubDate>Fri, 13 Aug 2021 18:38:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Care home deluged with cards for Jack Annall's 101st birthday]]></title>
+            <description><![CDATA[Jack Annall was sent the cards after being disappointed not to see his daughter on his birthday.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-leeds-58201824</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-leeds-58201824</guid>
+            <pubDate>Fri, 13 Aug 2021 15:32:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Woman died on hold reporting boyfriend assault]]></title>
@@ -240,18 +240,11 @@
             <pubDate>Fri, 13 Aug 2021 21:20:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[England v India: Rory Burns falls late to check hosts' fightback]]></title>
-            <description><![CDATA[England's spirited fightback in the second Test against India is dented by the loss of Rory Burns late on day two at Lord's.]]></description>
-            <link>https://www.bbc.co.uk/sport/cricket/58207135</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/58207135</guid>
-            <pubDate>Fri, 13 Aug 2021 17:55:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Hundred: Liam Livingstone hits 50 as Birmingham Phoenix beat Trent Rockets to go top of the table]]></title>
-            <description><![CDATA[Birmingham Phoenix move to the top of the men's Hundred table after a comfortable win over rivals Trent Rockets at Trent Bridge.]]></description>
-            <link>https://www.bbc.co.uk/sport/cricket/58206850</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/58206850</guid>
-            <pubDate>Fri, 13 Aug 2021 21:02:56 GMT</pubDate>
+            <title><![CDATA[Super League: Hull KR win 26-14 in first double over Wigan in 37 years]]></title>
+            <description><![CDATA[Hull Kingston Rovers score five tries as they win to complete a first double over Wigan in 37 years.]]></description>
+            <link>https://www.bbc.co.uk/sport/rugby-league/58204257</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-league/58204257</guid>
+            <pubDate>Fri, 13 Aug 2021 22:33:41 GMT</pubDate>
         </item>
     </channel>
 </rss>

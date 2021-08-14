@@ -3,8 +3,8 @@
 3. [Brett Staniland: Love Island contestant's twin calls out trolls](https://www.bbc.co.uk/news/uk-england-derbyshire-58201708) - Scott Staniland says comments about his brother Brett's looks are particularly upsetting.
 4. [Lindsey hoard: Coins stashed during Civil War declared treasure](https://www.bbc.co.uk/news/uk-england-suffolk-58205023) - An inquest hears the hoard includes coins of all rulers from King Edward VI to Charles I.
 5. [Donald Campbell: Plea for return of restored Bluebird 'in one piece'](https://www.bbc.co.uk/news/uk-england-cumbria-58205737) - Restorer Bill Smith says a museum has broken an agreement to "share" the restored craft.
-6. [Jacksdale woman charged with murder of three-year-old boy](https://www.bbc.co.uk/news/uk-england-nottinghamshire-58213753) - Police took the boy to hospital after he was hurt at a home in Jacksdale, but he died two days later.
-7. [Care home deluged with cards for Jack Annall's 101st birthday](https://www.bbc.co.uk/news/uk-england-leeds-58201824) - Jack Annall was sent the cards after being disappointed not to see his daughter on his birthday.
+6. [Cornwall Royal Marines death prompts sea depths checks](https://www.bbc.co.uk/news/uk-england-cornwall-58205696) - A 20-year-old recruit died after disembarking into deep water at Tregantle in Cornwall.
+7. [Jacksdale woman charged with murder of three-year-old boy](https://www.bbc.co.uk/news/uk-england-nottinghamshire-58213753) - Police took the boy to hospital after he was hurt at a home in Jacksdale, but he died two days later.
 8. [Who were the victims?](https://www.bbc.co.uk/news/uk-58202760) - The gunman's mother, Maxine Davison, and three-year-old Sophie Martyn have been named among the dead.
 9. [A visual guide to what happened](https://www.bbc.co.uk/news/uk-england-devon-58200336) - A gunman shot and killed five people in Plymouth before turning the gun on himself. Here's what we know about how events unfolded.
 10. [Plymouth shooting: PM Boris Johnson - My thoughts are with the families](https://www.bbc.co.uk/news/uk-58207986) - Boris Johnson also says it needs to be "properly investigated" how the gunman got a firearms licence.
@@ -16,8 +16,8 @@
 16. [Plymouth MP: Community 'trying to make sense' of shooting](https://www.bbc.co.uk/news/uk-58198078) - MP Luke Pollard says the community is pulling together in the face of the "deeply grim" news.
 17. [Banksy confirms East Anglian seaside artwork is genuine](https://www.bbc.co.uk/news/uk-england-norfolk-58163143) - The secretive artist claims responsibility for pieces along England's east coast.
 18. [Covid-19: Bradford hairdresser found guilty of lockdown breaches](https://www.bbc.co.uk/news/uk-england-leeds-58208420) - Sinead Quinn racked up £17,000 in fines after repeatedly breaking lockdown restrictions, court hears.
-19. [Firefighters tackle huge blaze in North Tyneside](https://www.bbc.co.uk/news/uk-england-tyne-58207577) - Witnesses report seeing smoke billowing across the River Tyne.
-20. [Shrewsbury police officer stalked ex out of 'twisted vengeance'](https://www.bbc.co.uk/news/uk-england-shropshire-58207935) - Stephen Green, 60, is given a six month sentence suspended for two years after admitting stalking.
+19. [Shrewsbury police officer stalked ex out of 'twisted vengeance'](https://www.bbc.co.uk/news/uk-england-shropshire-58207935) - Stephen Green, 60, is given a six month sentence suspended for two years after admitting stalking.
+20. [Care home deluged with cards for Jack Annall's 101st birthday](https://www.bbc.co.uk/news/uk-england-leeds-58201824) - Jack Annall was sent the cards after being disappointed not to see his daughter on his birthday.
 21. [Woman died on hold reporting boyfriend assault](https://www.bbc.co.uk/news/uk-england-lincolnshire-58187438) - Daniela Espirito Santo, from Grantham, was not failed by police, a watchdog says.
 22. [Car in near-miss with train on Cumbria level crossing](https://www.bbc.co.uk/news/uk-england-cumbria-58202029) - CCTV footage shows the car driving across the barrierless crossing in front of the Northern train.
 23. [Bolton woman inspired to create Muslim hiking group](https://www.bbc.co.uk/news/uk-england-manchester-58192877) - Amira Patel says more women should be encouraged to become confident walking in the wild.
@@ -30,5 +30,4 @@
 30. [Buckland St Mary: Two die in light aircraft crash](https://www.bbc.co.uk/news/uk-england-bristol-58194887) - A male and a female on board both died but formal identification has yet to take place.
 31. [Tribute to Manchester Arena bomb survivor found dead aged 20](https://www.bbc.co.uk/news/uk-england-birmingham-58194047) - Eve Aston is remembered as "very jolly, sassy, sociable" by her "proud" family.
 32. [Brentford 2-0 Arsenal: Bees earn fully deserved win over Gunners](https://www.bbc.co.uk/sport/football/58109868) - Brentford mark their Premier League debut with a deserved win over Arsenal at a jubilant Brentford Community Stadium.
-33. [England v India: Rory Burns falls late to check hosts' fightback](https://www.bbc.co.uk/sport/cricket/58207135) - England's spirited fightback in the second Test against India is dented by the loss of Rory Burns late on day two at Lord's.
-34. [The Hundred: Liam Livingstone hits 50 as Birmingham Phoenix beat Trent Rockets to go top of the table](https://www.bbc.co.uk/sport/cricket/58206850) - Birmingham Phoenix move to the top of the men's Hundred table after a comfortable win over rivals Trent Rockets at Trent Bridge.
+33. [Super League: Hull KR win 26-14 in first double over Wigan in 37 years](https://www.bbc.co.uk/sport/rugby-league/58204257) - Hull Kingston Rovers score five tries as they win to complete a first double over Wigan in 37 years.
