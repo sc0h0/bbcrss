@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 14 Aug 2021 16:43:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Aug 2021 17:03:09 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -247,6 +247,20 @@
             <pubDate>Sat, 14 Aug 2021 16:15:06 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Ayr United 1-1 Dundee United: (3-4 on pens) Premiership side win on penalties]]></title>
+            <description><![CDATA[Two Nicky Clark penalties help Dundee United avoid a League Cup upset by Ayr United at Somerset Park.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58137905</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58137905</guid>
+            <pubDate>Sat, 14 Aug 2021 16:52:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Livingston 1-1 St Mirren (aet, 90 mins 1-1, Livingston win 4-3 on pens)]]></title>
+            <description><![CDATA[Livingston knock St Mirren out of the Scottish League Cup for the second season running to squeeze through to the last eight on penalties.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58137919</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58137919</guid>
+            <pubDate>Sat, 14 Aug 2021 16:59:55 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Rangers 5-0 Dunfermline: Ruthless Ibrox side cruise into quarter-finals]]></title>
             <description><![CDATA[Kemar Roofe scores twice as Rangers end a run of three defeats by breezing past Dunfermline into the League Cup quarter-finals.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58137878</link>
@@ -259,13 +273,6 @@
             <link>https://www.bbc.co.uk/sport/football/58213153</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58213153</guid>
             <pubDate>Sat, 14 Aug 2021 08:07:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Watch: Women's Scottish Open second round highlights]]></title>
-            <description><![CDATA[Watch highlights of day two of the Women's Scottish Open at Dumbarnie Links.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/golf/58209331</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/golf/58209331</guid>
-            <pubDate>Fri, 13 Aug 2021 20:53:13 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -1,6 +1,6 @@
 1. [Plymouth shooting: Starmer asks why gunman had licence](https://www.bbc.co.uk/news/uk-england-devon-58209726) - The police watchdog is investigating the decision to give back Jake Davison's shotgun and certificate.
-2. [Drone spots suspected burglars on Mansfield bank roof](https://www.bbc.co.uk/news/uk-england-nottinghamshire-58213759) - Police found no sign of any intruders until they deployed a thermal imaging drone.
-3. [Deaths of police officer and child 'awful' for West Mercia colleagues](https://www.bbc.co.uk/news/uk-england-hereford-worcester-58215075) - "Heartbreak" over police colleagues' discovery of the bodies of a 39-year-old man and girl aged three.
+2. [Deaths of police officer and child 'awful' for West Mercia colleagues](https://www.bbc.co.uk/news/uk-england-hereford-worcester-58215075) - "Heartbreak" over police colleagues' discovery of the bodies of a 39-year-old man and girl aged three.
+3. [Drone spots suspected burglars on Mansfield bank roof](https://www.bbc.co.uk/news/uk-england-nottinghamshire-58213759) - Police found no sign of any intruders until they deployed a thermal imaging drone.
 4. [Windermere diver retrieves lost prosthetic leg from lake](https://www.bbc.co.uk/news/uk-england-cumbria-58213985) - Angus Hosking finds Josephine Bridges' leg after responding to a social media plea for help.
 5. [Merrivale Model Village owner shares Banksy's tactics](https://www.bbc.co.uk/news/uk-england-norfolk-58215520) - The secretive artist has left a spray-painted miniature stable at a model village without anyone seeing.
 6. [Cornwall Royal Marines death prompts sea depths checks](https://www.bbc.co.uk/news/uk-england-cornwall-58205696) - A 20-year-old recruit died after disembarking into deep water at Tregantle in Cornwall.

@@ -8,7 +8,7 @@
 8. [Rwandan president lashes out at Arsenal defeat](https://www.bbc.co.uk/news/world-africa-58162403) - Paul Kagame, a committed Gunners fan, lashes out on Twitter at the club his government sponsors.
 9. [Covid: Carrie Johnson urges pregnant women to get vaccinated](https://www.bbc.co.uk/news/uk-58215440) - The PM's wife, who is expecting a baby, says she is "feeling great" after having her second vaccine.
 10. [Sark: Two people test positive for Covid-19](https://www.bbc.co.uk/news/world-europe-guernsey-58212983) - The small Channel Island only recorded its first case of Covid-19 in July.
-11. [Manchester United v Leeds: Six arrests made before game](https://www.bbc.co.uk/news/uk-england-manchester-58213906) - Social media footage showed chairs and a bin thrown in a fight in Manchester city centre.
+11. [Manchester United v Leeds: Six arrests made](https://www.bbc.co.uk/news/uk-england-manchester-58213906) - Social media footage showed chairs and a bin thrown in a fight in Manchester city centre.
 12. [Nicola Sturgeon's sister Gillian arrested over Ayrshire incident](https://www.bbc.co.uk/news/uk-scotland-58213744) - Gillian Sturgeon was arrested along with a man over an alleged domestic incident in North Ayrshire.
 13. [Drone spots suspected burglars on Mansfield bank roof](https://www.bbc.co.uk/news/uk-england-nottinghamshire-58213759) - Police found no sign of any intruders until they deployed a thermal imaging drone.
 14. [Afghanistan: Journalist Anisa Shaheed refuses to give in to Taliban](https://www.bbc.co.uk/news/world-asia-58175088) - Anisa Shaheed fears women's freedoms will be curbed again if the Taliban come to power.
