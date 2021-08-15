@@ -23,4 +23,4 @@
 23. [Gwersyllfaoedd dros dro yn niweidio cymunedau gwledig](https://www.bbc.co.uk/newyddion/58200366) - Trigolion mannau prydferth yn gorfod dygymod â thraffig peryglus a thyllau tân yn llosgi drwy'r nos.
 24. ['Fi wedi bod mewn lockdown ers 20 mlynedd'](https://www.bbc.co.uk/newyddion/58194119) - Mae Rhys Bowler yn galw am gyllid iechyd personol er mwyn rhoi mwy o ryddid i bobl fel fe sy'n byw ag anabledd.
 25. [Gwasanaeth coffa i fachgen gafodd ei ganfod mewn afon](https://www.bbc.co.uk/newyddion/58213535) - Cafwyd hyd i Logan Mwangi, 5, yn Afon Ogwr ger Pen-y-bont ar 31 Gorffennaf.
-26. [Y Bencampwriaeth: Blackpool 0-2 Caerdydd](https://www.bbc.co.uk/newyddion/58213541) - Goliau Leandro Bacuna a Kieffer Moore yn sicrhau buddugoliaeth gyntaf y tymor yn y gynghrair i Gaerdydd.
+26. [Y Bencampwriaeth: Abertawe 0-0 Sheffield United](https://www.bbc.co.uk/newyddion/58209273) - Gêm ddi-sgôr oedd hi rhwng Abertawe a Sheffield United nos Sadwrn yn ne Cymru.
