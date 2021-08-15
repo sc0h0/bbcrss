@@ -1,5 +1,5 @@
 1. [Covid: Is Scotland lagging behind on vaccine certificates?](https://www.bbc.co.uk/news/uk-scotland-57519070) - A digital "passport" has been rolled out across the EU - so why does Scotland use a paper system?
-2. [Man, 41, dies after Newtongrange garden disturbance](https://www.bbc.co.uk/news/uk-scotland-58221739) - A 48-year-old man is arrested after a man dies in a disturbance at a garden in Newtongrange in Midlothian.
+2. [Man, 41, dies after Newtongrange garden disturbance](https://www.bbc.co.uk/news/uk-scotland-58221739) - A 48-year-old man is arrested and charged over the death of Roddy Georgeson in Newtongrange in Midlothian.
 3. [Sailings cancelled after Covid outbreak on Arran ferry](https://www.bbc.co.uk/news/uk-scotland-58221775) - CalMac's Campbeltown-Ardrossan service is cancelled while the MV Caledonian Isles is deep cleaned.
 4. [Afghanistan: ‘My family are trapped in the middle of a war’](https://www.bbc.co.uk/news/uk-scotland-58224887) - Former refugee Abdul Bostani, who fled the Taliban, speaks of his fears for his family in Afghanistan.
 5. [Covid in Scotland: Where are the latest cases?](https://www.bbc.co.uk/news/uk-scotland-53511877) - A daily update on the number and location of coronavirus cases in Scotland.
