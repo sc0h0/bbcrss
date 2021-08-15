@@ -1,4 +1,4 @@
-1. [Afghan conflict: Taliban enter outskirts of the capital Kabul](https://www.bbc.co.uk/news/world-asia-58222066) - Sun, 15 Aug 2021 13:53:12 GMT - Negotiations are reportedly taking place for a peaceful transition of power as people flee the city.
+1. [Afghanistan on the brink of Taliban takeover](https://www.bbc.co.uk/news/world-asia-58222066) - Sun, 15 Aug 2021 14:22:07 GMT - President Ashraf Ghani is reported to have fled the country as the insurgents reach the capital Kabul.
 2. [Haiti struck by deadly 7.2-magnitude earthquake](https://www.bbc.co.uk/news/world-latin-america-58215631) - Sat, 14 Aug 2021 22:59:51 GMT - At least 304 people are killed and more than 1800 injured by the powerful earthquake.
 3. [Independence Day: Key takeaways from PM Modi's speech](https://www.bbc.co.uk/news/world-asia-india-58196795) - Sun, 15 Aug 2021 05:58:10 GMT - India is celebrating 75 years of independence as it continues to battle coronavirus.
 4. [Polish law on property stolen by Nazis angers Israel](https://www.bbc.co.uk/news/world-europe-58218750) - Sat, 14 Aug 2021 22:12:44 GMT - A new law will make it harder for people to recover property lost in World War Two.

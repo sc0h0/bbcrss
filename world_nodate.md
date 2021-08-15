@@ -1,4 +1,4 @@
-1. [Afghan conflict: Taliban enter outskirts of the capital Kabul](https://www.bbc.co.uk/news/world-asia-58222066) - Negotiations are reportedly taking place for a peaceful transition of power as people flee the city.
+1. [Afghanistan on the brink of Taliban takeover](https://www.bbc.co.uk/news/world-asia-58222066) - President Ashraf Ghani is reported to have fled the country as the insurgents reach the capital Kabul.
 2. [Haiti struck by deadly 7.2-magnitude earthquake](https://www.bbc.co.uk/news/world-latin-america-58215631) - At least 304 people are killed and more than 1800 injured by the powerful earthquake.
 3. [Independence Day: Key takeaways from PM Modi's speech](https://www.bbc.co.uk/news/world-asia-india-58196795) - India is celebrating 75 years of independence as it continues to battle coronavirus.
 4. [Polish law on property stolen by Nazis angers Israel](https://www.bbc.co.uk/news/world-europe-58218750) - A new law will make it harder for people to recover property lost in World War Two.
