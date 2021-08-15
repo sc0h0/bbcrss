@@ -23,4 +23,5 @@
 23. [Charli Britton, drymiwr Edward H. Dafis, wedi marw](https://www.bbc.co.uk/newyddion/58209274) - Mae drymiwr y band Edward H. Dafis, Charli Britton, wedi marw'n 68 oed.
 24. [Gwersyllfaoedd dros dro yn niweidio cymunedau gwledig](https://www.bbc.co.uk/newyddion/58200366) - Trigolion mannau prydferth yn gorfod dygymod â thraffig peryglus a thyllau tân yn llosgi drwy'r nos.
 25. ['Fi wedi bod mewn lockdown ers 20 mlynedd'](https://www.bbc.co.uk/newyddion/58194119) - Mae Rhys Bowler yn galw am gyllid iechyd personol er mwyn rhoi mwy o ryddid i bobl fel fe sy'n byw ag anabledd.
-26. [Y Bencampwriaeth: Abertawe 0-0 Sheffield United](https://www.bbc.co.uk/newyddion/58209273) - Gêm ddi-sgôr oedd hi rhwng Abertawe a Sheffield United nos Sadwrn yn ne Cymru.
+26. [Oriel: Golygfeydd o Eryri sydd ddim ar y cardiau post](https://www.bbc.co.uk/newyddion/58089792) - Delweddau'r ffotograffydd Richard Outram o gymunedau byw Eryri.
+27. [Y Bencampwriaeth: Abertawe 0-0 Sheffield United](https://www.bbc.co.uk/newyddion/58209273) - Gêm ddi-sgôr oedd hi rhwng Abertawe a Sheffield United nos Sadwrn yn ne Cymru.

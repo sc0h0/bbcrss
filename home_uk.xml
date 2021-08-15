@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 15 Aug 2021 15:18:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Aug 2021 15:37:31 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -28,13 +28,6 @@
             <link>https://www.bbc.co.uk/news/world-asia-58222066</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58222066</guid>
             <pubDate>Sun, 15 Aug 2021 15:14:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Taliban spokesman tells BBC they are 'awaiting a peaceful transfer of power']]></title>
-            <description><![CDATA[The BBC's Yalda Hakim was contacted by a spokesperson for the Taliban, Suhail Shaheen, live on air.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58220305</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58220305</guid>
-            <pubDate>Sun, 15 Aug 2021 12:45:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Plymouth shooting: Prayers to remember victims]]></title>
@@ -72,13 +65,6 @@
             <pubDate>Sat, 14 Aug 2021 22:59:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tottenham v Manchester City: Harry Kane left out of Spurs squad for season opener]]></title>
-            <description><![CDATA[Tottenham striker Harry Kane is not in the squad to face Manchester City in the London side's season opener.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58133102</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58133102</guid>
-            <pubDate>Sun, 15 Aug 2021 14:44:26 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Four injured in suspected shooting in Camden]]></title>
             <description><![CDATA[Police are called to the Clarence Gardens area on Saturday night following reports of gunshots.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-london-58220601</link>
@@ -114,18 +100,18 @@
             <pubDate>Sun, 15 Aug 2021 13:46:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The papers: Gun owners 'should face hate trawl' and Afghans flee]]></title>
-            <description><![CDATA[A call from a former Met Police chief to improve checks on prospective gun owners is among the front-page stories.]]></description>
-            <link>https://www.bbc.co.uk/news/blogs-the-papers-58218580</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/blogs-the-papers-58218580</guid>
-            <pubDate>Sun, 15 Aug 2021 04:53:31 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA['It's not just boys who can do it']]></title>
             <description><![CDATA[Girls take part in a summer scheme introducing them to careers traditionally viewed as jobs for men.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58201588</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58201588</guid>
             <pubDate>Sun, 15 Aug 2021 05:51:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The papers: Gun owners 'should face hate trawl' and Afghans flee]]></title>
+            <description><![CDATA[A call from a former Met Police chief to improve checks on prospective gun owners is among the front-page stories.]]></description>
+            <link>https://www.bbc.co.uk/news/blogs-the-papers-58218580</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/blogs-the-papers-58218580</guid>
+            <pubDate>Sun, 15 Aug 2021 04:53:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Afghanistan: Journalist Anisa Shaheed refuses to give in to Taliban]]></title>
@@ -219,6 +205,13 @@
             <pubDate>Fri, 13 Aug 2021 21:09:50 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Kane not involved for Tottenham against Man City]]></title>
+            <description><![CDATA[Tottenham striker Harry Kane is not in the squad to face Manchester City in the London side's season opener.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58133102</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58133102</guid>
+            <pubDate>Sun, 15 Aug 2021 15:30:20 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Newcastle 2-4 West Ham: Hammers stage fightback to win thriller]]></title>
             <description><![CDATA[West Ham twice come from behind to get their Premier League campaign off to the ideal start by beating Newcastle in an entertaining match at St James' Park.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58133101</link>
@@ -226,11 +219,11 @@
             <pubDate>Sun, 15 Aug 2021 15:01:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Ali's grandson Ali Walsh wins debut professional bout]]></title>
-            <description><![CDATA[Nico Ali Walsh pays tribute to his grandfather Muhammad Ali as he wins his debut professional bout wearing a pair of shorts he had given him.]]></description>
-            <link>https://www.bbc.co.uk/sport/boxing/58220103</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/boxing/58220103</guid>
-            <pubDate>Sun, 15 Aug 2021 06:09:29 GMT</pubDate>
+            <title><![CDATA[Formula E: Nyck de Vries wins drivers' championship as other contenders crash]]></title>
+            <description><![CDATA[Mercedes-EQ's Nyck de Vries wins the Formula E drivers' championship after three other contenders crashed out in the early stages of the final race.]]></description>
+            <link>https://www.bbc.co.uk/sport/motorsport/58215182</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/motorsport/58215182</guid>
+            <pubDate>Sun, 15 Aug 2021 15:15:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bayern Munich and Germany legend Muller dies aged 75]]></title>
@@ -240,11 +233,18 @@
             <pubDate>Sun, 15 Aug 2021 13:41:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Afghanistan: The people fleeing the north for safety in Kabul]]></title>
-            <description><![CDATA[The Taliban has taken new territories in the north, forcing thousands out of their homes.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58170433</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58170433</guid>
-            <pubDate>Wed, 11 Aug 2021 15:28:04 GMT</pubDate>
+            <title><![CDATA[Watch: Muller strikes winner for Germany in 1974 World Cup final]]></title>
+            <description><![CDATA[World Cup moments - Gerd Muller's winner for West Germany against the Netherlands in the 1974 final, as the hosts recovered from a goal down to win a dramatic match 2-1.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/football/26944301</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/26944301</guid>
+            <pubDate>Sat, 24 May 2014 05:28:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Afghanistan: Taliban spokesman Suhail Shaheen calls the BBC - interview in full]]></title>
+            <description><![CDATA[A spokesman for the Taliban, Suhail Shaheen, called the BBC's Yalda Hakim, live on air.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58223530</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58223530</guid>
+            <pubDate>Sun, 15 Aug 2021 15:02:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Mapping the advance of the Taliban in Afghanistan]]></title>
@@ -254,11 +254,11 @@
             <pubDate>Sun, 15 Aug 2021 12:45:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Afghans living under Taliban lament loss of freedoms]]></title>
-            <description><![CDATA[Afghans in Taliban-controlled provinces describe life under its fundamentalist Islamist rule.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58191440</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58191440</guid>
-            <pubDate>Sat, 14 Aug 2021 00:15:15 GMT</pubDate>
+            <title><![CDATA[Afghan war: Kabul's young women plead for help as Taliban advance]]></title>
+            <description><![CDATA[They feel abandoned by the democratic world they thought they were part of, writes Yalda Hakim.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58205062</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58205062</guid>
+            <pubDate>Fri, 13 Aug 2021 15:19:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Afghanistan: Why is there a war?]]></title>
@@ -268,11 +268,18 @@
             <pubDate>Tue, 10 Aug 2021 07:07:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Afghan war: Kabul's young women plead for help as Taliban advance]]></title>
-            <description><![CDATA[They feel abandoned by the democratic world they thought they were part of, writes Yalda Hakim.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58205062</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58205062</guid>
-            <pubDate>Fri, 13 Aug 2021 15:19:42 GMT</pubDate>
+            <title><![CDATA[Afghanistan: The people fleeing the north for safety in Kabul]]></title>
+            <description><![CDATA[The Taliban has taken new territories in the north, forcing thousands out of their homes.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58170433</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58170433</guid>
+            <pubDate>Wed, 11 Aug 2021 15:28:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Afghans living under Taliban lament loss of freedoms]]></title>
+            <description><![CDATA[Afghans in Taliban-controlled provinces describe life under its fundamentalist Islamist rule.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58191440</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58191440</guid>
+            <pubDate>Sat, 14 Aug 2021 00:15:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[‘Not an Afghanistan problem but a humanity problem’ - Gen McMaster]]></title>
@@ -280,13 +287,6 @@
             <link>https://www.bbc.co.uk/news/world-asia-58191964</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58191964</guid>
             <pubDate>Thu, 12 Aug 2021 14:48:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Afghanistan in serious danger - President Ghani]]></title>
-            <description><![CDATA[Ashraf Ghani addresses the nation as the Taliban reportedly close in on the Afghan capital, Kabul.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58213300</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58213300</guid>
-            <pubDate>Sat, 14 Aug 2021 11:35:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: What do under-30s need to know about the vaccine?]]></title>
