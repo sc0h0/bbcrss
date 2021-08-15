@@ -1,6 +1,6 @@
 1. [Afghan conflict: Taliban control all key cities except Kabul](https://www.bbc.co.uk/news/world-asia-58219169) - The militant group takes the eastern city of Jalalabad without a fight as it closes in on the capital.
 2. [Haiti struck by deadly 7.2-magnitude earthquake](https://www.bbc.co.uk/news/world-latin-america-58215631) - At least 304 people are killed and more than 1800 injured by the powerful earthquake.
-3. [Afghan war: Kabul's young women plead for help as Taliban advance](https://www.bbc.co.uk/news/world-asia-58205062) - They feel abandoned by the democratic world they thought they were part of, writes Yalda Hakim.
+3. [Independence Day: Key takeaways from PM Modi's speech](https://www.bbc.co.uk/news/world-asia-india-58196795) - India is celebrating 75 years of independence as it continues to battle coronavirus.
 4. [Polish law on property stolen by Nazis angers Israel](https://www.bbc.co.uk/news/world-europe-58218750) - A new law will make it harder for people to recover property lost in World War Two.
 5. [Sarah Rainsford on Russia: 'I've been told I can't come back - ever'](https://www.bbc.co.uk/news/world-europe-58213845) - The BBC's Sarah Rainsford, devastated after being told she could not return to Russia, ever.
 6. [Japan rain: Nearly two million residents told to seek shelter](https://www.bbc.co.uk/news/world-asia-58212803) - Some provinces are under evacuation alerts as experts warn of "unprecedented" rainfall.
@@ -9,8 +9,8 @@
 9. [Sri Lankan teenager builds solar-powered tuk-tuk from scraps](https://www.bbc.co.uk/news/world-asia-58192468) - Piranawan, 15, from Sri Lanka spent eight months of his Covid lockdown making his eco-friendly vehicle.
 10. [Australia: New South Wales 'in worst ever Covid situation'](https://www.bbc.co.uk/news/world-australia-58170440) - While case numbers are relatively low, the Australian state's premier has warned of a Covid surge.
 11. [Rahul Gandhi: Twitter restores Congress party member accounts](https://www.bbc.co.uk/news/world-asia-india-58195377) - Rahul Gandhi and opposition allies had been suspended for sharing photos of a rape victim's parents.
-12. [Nicki Minaj and husband Kenneth Petty sued by sex assault victim](https://www.bbc.co.uk/news/world-us-canada-58209403) - The woman claims the couple harassed her to try to make her recant accusations against Kenneth Petty.
-13. [Nanci Griffith: Folk and country singer-songwriter dies aged 68](https://www.bbc.co.uk/news/entertainment-arts-58212802) - The Grammy-winning artist was best known for her influential career in folk and country music.
+12. [Afghan war: Kabul's young women plead for help as Taliban advance](https://www.bbc.co.uk/news/world-asia-58205062) - They feel abandoned by the democratic world they thought they were part of, writes Yalda Hakim.
+13. [Nicki Minaj and husband Kenneth Petty sued by sex assault victim](https://www.bbc.co.uk/news/world-us-canada-58209403) - The woman claims the couple harassed her to try to make her recant accusations against Kenneth Petty.
 14. ['How I found out my dad was a best-selling sex writer'](https://www.bbc.co.uk/news/stories-58171940) - Sara Faith Alterman was always close to her father. Then she learned he was concealing a secret.
 15. [Who is TikTok’s masked vigilante?](https://www.bbc.co.uk/news/blogs-trending-58195065) - Think you’re safe being an anonymous TikTok troll or cyber bully? Meet your worst nightmare.
 16. ['My night in notorious Nazi collaborator Quisling's cabin'](https://www.bbc.co.uk/news/stories-58208551) - When Ben McPherson realised he could rent Vidkun Quisling's cabin, it struck him as weird. His Norwegian wife disagreed.
