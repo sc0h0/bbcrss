@@ -17,8 +17,8 @@
 17. [Ethiopia: What do we know about aid going into Tigray?](https://www.bbc.co.uk/news/58189049) - Who's preventing desperately needed aid supplies reaching Ethiopia's Tigray region?
 18. [Myanmar: The woman who jumped to her death while fleeing police](https://www.bbc.co.uk/news/world-asia-58196465) - Wai Wai Myint was among five people who jumped out of a building while fleeing a police raid in Myanmar.
 19. [Afghans living under Taliban lament loss of freedoms](https://www.bbc.co.uk/news/world-asia-58191440) - Afghans in Taliban-controlled provinces describe life under its fundamentalist Islamist rule.
-20. [Haiti struck by deadly 7.2-magnitude earthquake](https://www.bbc.co.uk/news/world-latin-america-58216614) - A powerful earthquake has struck the Caribbean nation of Haiti, killing at least 304 people.
-21. [ICYMI: Little Amal the walking refugee puppet and Perseid meteor shower](https://www.bbc.co.uk/news/world-58207989) - We also travel back to the Ice Age and to Sao Paulo's tallest building in this week's round-up.
-22. [Afghanistan: Journalist Anisa Shaheed refuses to give in to Taliban](https://www.bbc.co.uk/news/world-asia-58175088) - Anisa Shaheed fears women's freedoms will be curbed again if the Taliban come to power.
-23. [Afghanistan in serious danger - President Ghani](https://www.bbc.co.uk/news/world-asia-58213300) - Ashraf Ghani addresses the nation as the Taliban reportedly close in on the Afghan capital, Kabul.
-24. [Afghanistan: Desperation as thousands flee the Taliban](https://www.bbc.co.uk/news/world-asia-58191043) - Yogita Limaye reports from a camp in Kabul where thousands who have been displaced by violence seek refuge.
+20. [Afghanistan: People flee Kabul as Taliban overrun cities](https://www.bbc.co.uk/news/world-middle-east-58225187) - Roads out of the Afghan capital have been choked with traffic as people try to escape a Taliban takeover.
+21. [Haiti struck by deadly 7.2-magnitude earthquake](https://www.bbc.co.uk/news/world-latin-america-58216614) - A powerful earthquake has struck the Caribbean nation of Haiti, killing at least 304 people.
+22. [ICYMI: Little Amal the walking refugee puppet and Perseid meteor shower](https://www.bbc.co.uk/news/world-58207989) - We also travel back to the Ice Age and to Sao Paulo's tallest building in this week's round-up.
+23. [Afghanistan: Journalist Anisa Shaheed refuses to give in to Taliban](https://www.bbc.co.uk/news/world-asia-58175088) - Anisa Shaheed fears women's freedoms will be curbed again if the Taliban come to power.
+24. [Afghanistan in serious danger - President Ghani](https://www.bbc.co.uk/news/world-asia-58213300) - Ashraf Ghani addresses the nation as the Taliban reportedly close in on the Afghan capital, Kabul.
