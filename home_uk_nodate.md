@@ -28,7 +28,7 @@
 28. [Shetland’s biggest gig – the day Pulp flew in to Lerwick](https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-57599869) - At the height of their fame, the Britpop icons travelled to Lerwick to play a show for just 1,400 fans.
 29. [Will I ever be able to fly without feeling guilty again?](https://www.bbc.co.uk/news/business-57917193) - More efficient planes and sustainable fuels could lower air travel's impact, but not for a while.
 30. [Bayern Munich and Germany legend Muller dies aged 75](https://www.bbc.co.uk/sport/football/58222495) - Bayern Munich and Germany legend Gerd Muller dies at the age of 75.
-31. ['If we are wrong, prove it' - Guardiola defends Man City spending](https://www.bbc.co.uk/sport/football/58216727) - Manager Pep Guardiola challenges Manchester City's critics to come up with the evidence if they believe the club are breaking spending rules.
+31. [Kane not involved for Tottenham against Man City](https://www.bbc.co.uk/sport/football/58133102) - Tottenham striker Harry Kane is not in the squad to face Manchester City in the London side's season opener.
 32. [Ali's grandson Ali Walsh wins debut professional bout](https://www.bbc.co.uk/sport/boxing/58220103) - Nico Ali Walsh pays tribute to his grandfather Muhammad Ali as he wins his debut professional bout wearing a pair of shorts he had given him.
 33. [Afghanistan: The people fleeing the north for safety in Kabul](https://www.bbc.co.uk/news/world-asia-58170433) - The Taliban has taken new territories in the north, forcing thousands out of their homes.
 34. [Mapping the advance of the Taliban in Afghanistan](https://www.bbc.co.uk/news/world-asia-57933979) - Maps of Afghanistan show who controls districts in fighting between the government and Taliban forces.
