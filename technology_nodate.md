@@ -14,9 +14,10 @@
 14. [Virtual reality: 'There's no max, there's no limit!'](https://www.bbc.co.uk/news/entertainment-arts-58177685) - "There's no max, there's no limit" to virtual reality, so is it the future of live music?
 15. [Classic Bentleys and Rolls-Royce adapted to fully electric](https://www.bbc.co.uk/news/technology-57901893) - The vintage petrol-powered cars are re-engineered by a company based at the home of UK motorsport.
 16. [Ariana Grande sings in Fortnite's metaverse](https://www.bbc.co.uk/news/technology-58146042) - The pop star is the latest musician to perform a series of concerts inside the hit video game.
-17. [How can new technology protect outdoor workers?](https://www.bbc.co.uk/news/business-58049625) - Working outdoors in extreme heat can be deadly, new tech and better protection for workers could help.
-18. [Sharing apps are booming but will the kindness continue?](https://www.bbc.co.uk/news/business-57981598) - The pandemic sparked a surge in activity for sharing apps like Olio but has the trend run its course?
-19. [Why artificial intelligence is being used to write adverts](https://www.bbc.co.uk/news/business-57781557) - Advertisers are increasingly using artificial intelligence to come up with their winning slogans.
-20. [The perfect storm striking World of Warcraft](https://www.bbc.co.uk/news/technology-58017429) - All of a sudden, WoW players are in revolt, and its competitors are having a boom.
-21. [Tokyo 2020: TikTok becomes the unofficial behind-the-scenes Olympic channel](https://www.bbc.co.uk/news/world-australia-58053519) - The short-form video platform is giving fans unprecedented insight into the athletes' experience.
-22. [Twitter algorithm prefers slimmer, younger, light-skinned faces](https://www.bbc.co.uk/news/technology-58159723) - A Twitter-sponsored competition to discover bias in its image algorithm finds precisely that.
+17. [Would you let a robot lawyer defend you?](https://www.bbc.co.uk/news/business-58158820) - Why artificial intelligence is increasingly being used by the legal profession.
+18. [How can new technology protect outdoor workers?](https://www.bbc.co.uk/news/business-58049625) - Working outdoors in extreme heat can be deadly, new tech and better protection for workers could help.
+19. [Sharing apps are booming but will the kindness continue?](https://www.bbc.co.uk/news/business-57981598) - The pandemic sparked a surge in activity for sharing apps like Olio but has the trend run its course?
+20. [Why artificial intelligence is being used to write adverts](https://www.bbc.co.uk/news/business-57781557) - Advertisers are increasingly using artificial intelligence to come up with their winning slogans.
+21. [The perfect storm striking World of Warcraft](https://www.bbc.co.uk/news/technology-58017429) - All of a sudden, WoW players are in revolt, and its competitors are having a boom.
+22. [Tokyo 2020: TikTok becomes the unofficial behind-the-scenes Olympic channel](https://www.bbc.co.uk/news/world-australia-58053519) - The short-form video platform is giving fans unprecedented insight into the athletes' experience.
+23. [Twitter algorithm prefers slimmer, younger, light-skinned faces](https://www.bbc.co.uk/news/technology-58159723) - A Twitter-sponsored competition to discover bias in its image algorithm finds precisely that.
