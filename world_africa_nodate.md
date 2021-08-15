@@ -1,7 +1,7 @@
 1. [Zambia election: President claims vote was not free and fair](https://www.bbc.co.uk/news/world-africa-58215507) - Early results show Edgar Lungu, who is seeking a second term, trailing rival Hakainde Hichilema.
 2. [Ethiopia: What do we know about aid going into Tigray?](https://www.bbc.co.uk/news/58189049) - Who's preventing desperately needed aid supplies reaching Ethiopia's Tigray region?
-3. [Rwandan President and Arsenal fan Paul Kagame frustrated by defeat](https://www.bbc.co.uk/news/world-africa-58162403) - Paul Kagame, a committed Gunners fan, lashes out on Twitter at the club his government sponsors.
-4. [Viewpoint: Why Twitter got it wrong in Nigeria](https://www.bbc.co.uk/news/world-africa-58175708) - Complex issues have been raised about policing speech and censoring unpopular voices.
+3. [Viewpoint: Why Twitter got it wrong in Nigeria](https://www.bbc.co.uk/news/world-africa-58175708) - Complex issues have been raised about policing speech and censoring unpopular voices.
+4. [Rwandan President and Arsenal fan Paul Kagame frustrated by defeat](https://www.bbc.co.uk/news/world-africa-58162403) - Paul Kagame, a committed Gunners fan, lashes out on Twitter at the club his government sponsors.
 5. [Wagner: Gaddafi's son faces arrest over Russian mercenaries](https://www.bbc.co.uk/news/world-africa-58191433) - A warrant is issued against Saif al-Islam Gaddafi after a BBC investigation into mercenaries in Libya.
 6. [Tariqe Fosu: Ghana winger ready to step up with Brentford in the Premier League](https://www.bbc.co.uk/sport/africa/57579608) - Ghana's Tariqe Fosu admits he is going to have to step up a level as his Brentford team prepare for life in the Premier League.
 7. [Dutch medallist - no regrets about quitting Ethiopia](https://www.bbc.co.uk/sport/africa/58159734) - Dutch triple Olympic medallist Sifan Hassan has no regrets over leaving Ethiopia and calls for peace to stop more athletes following suit.
