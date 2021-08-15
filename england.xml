@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 15 Aug 2021 10:59:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Aug 2021 11:54:24 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -37,6 +37,13 @@
             <pubDate>Sun, 15 Aug 2021 09:41:36 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Ravine rescue: Cat's meows alert rescuers to stricken owner]]></title>
+            <description><![CDATA[A cat leads rescuers to its 83-year-old owner, who had fallen down a 70ft (21m) ravine.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-cornwall-58217476</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-cornwall-58217476</guid>
+            <pubDate>Sun, 15 Aug 2021 11:53:48 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Hidden cameras spot New Forest pine marten]]></title>
             <description><![CDATA[A new study aims to discover more about how the rare creatures have bred in the New Forest.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-hampshire-58191770</link>
@@ -56,13 +63,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-stoke-staffordshire-58221105</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-stoke-staffordshire-58221105</guid>
             <pubDate>Sun, 15 Aug 2021 09:10:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid-19: Boardmasters festival-goers urged to 'grab a jab']]></title>
-            <description><![CDATA[A pop-up vaccination clinic says it is hoping to see as many "glittered-up faces as possible".]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-cornwall-58220286</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-cornwall-58220286</guid>
-            <pubDate>Sun, 15 Aug 2021 07:45:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Who were the victims?]]></title>
@@ -140,6 +140,13 @@
             <link>https://www.bbc.co.uk/news/uk-58198078</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58198078</guid>
             <pubDate>Fri, 13 Aug 2021 06:44:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19: Boardmasters festival-goers urged to 'grab a jab']]></title>
+            <description><![CDATA[A pop-up vaccination clinic says it is hoping to see as many "glittered-up faces as possible".]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-cornwall-58220286</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-cornwall-58220286</guid>
+            <pubDate>Sun, 15 Aug 2021 07:45:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: 16 and 17-year-olds in England to be offered jab by 23 August]]></title>
@@ -294,13 +301,6 @@
             <link>https://www.bbc.co.uk/sport/football/58220327</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58220327</guid>
             <pubDate>Sun, 15 Aug 2021 08:51:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Manchester United 5-1 Leeds United: Bruno Fernandes hat-trick earns hosts thumping win]]></title>
-            <description><![CDATA[Bruno Fernandes scores a hat-trick as Manchester United overpower old rivals Leeds to make the perfect start to the new Premier League season.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58124893</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58124893</guid>
-            <pubDate>Sat, 14 Aug 2021 14:01:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
