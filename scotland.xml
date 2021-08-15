@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 15 Aug 2021 07:22:09 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Aug 2021 07:33:58 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -226,25 +226,11 @@
             <pubDate>Tue, 10 Aug 2021 12:14:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Dundee 1-0 Motherwell: Lee Ashcroft header sends hosts into League Cup last eight]]></title>
-            <description><![CDATA[Lee Ashcroft's header ensures Dundee's progression to the Scottish League Cup last eight by ending Motherwell's 10-game unbeaten run over them.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58137912</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58137912</guid>
-            <pubDate>Sat, 14 Aug 2021 16:15:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ayr United 1-1 Dundee United: (3-4 on pens) Premiership side win on penalties]]></title>
-            <description><![CDATA[Two Nicky Clark penalties help Dundee United avoid a League Cup upset by Ayr United at Somerset Park.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58137905</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58137905</guid>
-            <pubDate>Sat, 14 Aug 2021 17:06:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Livingston 1-1 St Mirren (aet, 90 mins 1-1, Livingston win 4-3 on pens)]]></title>
-            <description><![CDATA[Livingston knock St Mirren out of the Scottish League Cup for the second season running to squeeze through to the last eight on penalties.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58137919</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58137919</guid>
-            <pubDate>Sat, 14 Aug 2021 16:59:55 GMT</pubDate>
+            <title><![CDATA[Billy Gilmour: Liverpool condemn alleged homophobic chants aimed at on-loan Norwich midfielder]]></title>
+            <description><![CDATA[Liverpool condemn alleged homophobic chanting aimed at Norwich's on-loan midfielder Billy Gilmour at Carrow Road on Saturday.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58220000</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58220000</guid>
+            <pubDate>Sun, 15 Aug 2021 06:25:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Kash Farooq claims WBC international bantamweight title]]></title>
@@ -259,6 +245,20 @@
             <link>https://www.bbc.co.uk/sport/golf/58217046</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/golf/58217046</guid>
             <pubDate>Sat, 14 Aug 2021 19:01:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dundee 1-0 Motherwell: Lee Ashcroft header sends hosts into League Cup last eight]]></title>
+            <description><![CDATA[Lee Ashcroft's header ensures Dundee's progression to the Scottish League Cup last eight by ending Motherwell's 10-game unbeaten run over them.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58137912</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58137912</guid>
+            <pubDate>Sat, 14 Aug 2021 16:15:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ayr United 1-1 Dundee United: (3-4 on pens) Premiership side win on penalties]]></title>
+            <description><![CDATA[Two Nicky Clark penalties help Dundee United avoid a League Cup upset by Ayr United at Somerset Park.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58137905</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58137905</guid>
+            <pubDate>Sat, 14 Aug 2021 17:06:49 GMT</pubDate>
         </item>
     </channel>
 </rss>

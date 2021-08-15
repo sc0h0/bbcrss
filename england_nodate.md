@@ -19,7 +19,7 @@
 19. [Drone spots suspected burglars on Mansfield bank roof](https://www.bbc.co.uk/news/uk-england-nottinghamshire-58213759) - Police found no sign of any intruders until they deployed a thermal imaging drone.
 20. [Boy takes on 150-mile walk from Rugby to visit grandparents](https://www.bbc.co.uk/news/uk-england-coventry-warwickshire-58200813) - Fundraising Arthur Mortimer says he is looking forward to his nan's cakes after lockdown kept them apart.
 21. [James Markham killing: Chingford father was partner's 'world'](https://www.bbc.co.uk/news/uk-england-london-58215540) - The partner of James Markham has remembered him as "her world" following his stabbing.
-22. [Merrivale Model Village owner shares Banksy's tactics](https://www.bbc.co.uk/news/uk-england-norfolk-58215520) - The secretive artist has left a spray-painted miniature stable at a model village without anyone seeing.
+22. [Merrivale Model Village owner shares Banksy's tactics](https://www.bbc.co.uk/news/uk-england-norfolk-58215520) - The secretive artist leaves a spray-painted miniature stable at a model village without anyone seeing.
 23. [Windermere diver retrieves lost prosthetic leg from lake](https://www.bbc.co.uk/news/uk-england-cumbria-58213985) - Angus Hosking finds Josephine Bridges' leg after responding to a social media plea for help.
 24. [Newcastle exhibition sheds a light on life in lockdown](https://www.bbc.co.uk/news/uk-england-tyne-58115931) - Mini sheds are made during lockdown with remote support from artist Nicola Lynch.
 25. [Donald Campbell: Plea for return of restored Bluebird 'in one piece'](https://www.bbc.co.uk/news/uk-england-cumbria-58205737) - Restorer Bill Smith says a museum has broken an agreement to "share" the restored craft.
