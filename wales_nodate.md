@@ -19,7 +19,7 @@
 19. [Alaves 1-4 Real Madrid: Karim Benzema scores twice as Real win on opening day](https://www.bbc.co.uk/sport/football/58217898) - Karim Benzema scores twice as Real Madrid beat Alaves in their La Liga opener as Carlo Ancelotti and Gareth Bale return to the club.
 20. [Joe Cordina defeats Henrandez to extend unbeaten record](https://www.bbc.co.uk/sport/boxing/58218723) - Welsh boxer Joe Cordina secures a stunning victory over American Joshuah Hernandez via a first-round knockout
 21. [Mansfield Town 2-1 Newport County](https://www.bbc.co.uk/sport/football/58124809) - Mansfield Town continue their promising start to the season with a narrow 2-1 win against Newport County.
-22. [Gwasanaeth coffa i fachgen gafodd ei ganfod mewn afon](https://www.bbc.co.uk/newyddion/58213535) - Cafwyd hyd i Logan Mwangi, 5, yn Afon Ogwr ger Pen-y-bont ar 31 Gorffennaf.
-23. [Rheol mygydau ar drenau yn cael ei 'anwybyddu'](https://www.bbc.co.uk/newyddion/58172186) - Rhai yn pryderu dros eu diogelwch wrth i bobl wrthod cadw at y rheolau tra'n teithio.
-24. [Llacio cyfyngiadau wedi gwneud 'andros o wahaniaeth'](https://www.bbc.co.uk/newyddion/58194118) - Rhai o drigolion Llanrwst yn edrych yn ôl ar y dyddiau diwethaf wedi i drwch cyfyngiadau Covid gael eu codi.
+22. [Gwersyllfaoedd dros dro yn niweidio cymunedau gwledig](https://www.bbc.co.uk/newyddion/58200366) - Trigolion mannau prydferth yn gorfod dygymod â thraffig peryglus a thyllau tân yn llosgi drwy'r nos.
+23. [Gwasanaeth coffa i fachgen gafodd ei ganfod mewn afon](https://www.bbc.co.uk/newyddion/58213535) - Cafwyd hyd i Logan Mwangi, 5, yn Afon Ogwr ger Pen-y-bont ar 31 Gorffennaf.
+24. [Rheol mygydau ar drenau yn cael ei 'anwybyddu'](https://www.bbc.co.uk/newyddion/58172186) - Rhai yn pryderu dros eu diogelwch wrth i bobl wrthod cadw at y rheolau tra'n teithio.
 25. [Y Bencampwriaeth: Blackpool 0-2 Caerdydd](https://www.bbc.co.uk/newyddion/58213541) - Goliau Leandro Bacuna a Kieffer Moore yn sicrhau buddugoliaeth gyntaf y tymor yn y gynghrair i Gaerdydd.

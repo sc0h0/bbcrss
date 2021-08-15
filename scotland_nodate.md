@@ -11,7 +11,7 @@
 11. [Covid in Scotland: How have the rules changed?](https://www.bbc.co.uk/news/uk-scotland-53166816) - Scotland's levels system of restrictions have come to an end - but what does that mean people can do?
 12. [Is the coronavirus pandemic over at last?](https://www.bbc.co.uk/news/uk-scotland-58112939) - As Scotland loosens most of its remaining restrictions, is the devastating pandemic finally at an end?
 13. [Covid in Scotland: Your questions answered on life after level zero](https://www.bbc.co.uk/news/uk-scotland-58071989) - Readers have been sending in their questions about what the ending of more Covid rules means for them.
-14. [Covid in Scotland: Do I need a vaccine certificate to travel?](https://www.bbc.co.uk/news/uk-scotland-57519070) - The documents could be used in an international vaccine passport programme enabling foreign travel.
+14. [Covid: Is Scotland lagging behind on vaccine certificates?](https://www.bbc.co.uk/news/uk-scotland-57519070) - A digital vaccine "passport" has been rolled out across the EU - so why does Scotland use a paper system?
 15. [Covid in Scotland: Are young people slowing the vaccine drive?](https://www.bbc.co.uk/news/uk-scotland-57915106) - Concerns have been raised about vaccine uptake among younger adults, but are they less likely to want a jab? Here, we examine the statistics.
 16. [Covid map: Coronavirus cases, deaths, vaccinations by country](https://www.bbc.co.uk/news/world-51235105) - Key maps and charts explaining how the virus has spread around the world.
 17. [Shetland’s biggest gig – the day Pulp flew in to Lerwick](https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-57599869) - At the height of their fame, the Britpop icons travelled to Lerwick to play a show for just 1,400 fans.
