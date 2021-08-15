@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 15 Aug 2021 07:33:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Aug 2021 07:42:45 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -31,7 +31,7 @@
         </item>
         <item>
             <title><![CDATA[Covid: Is Scotland lagging behind on vaccine certificates?]]></title>
-            <description><![CDATA[A digital vaccine "passport" has been rolled out across the EU - so why does Scotland use a paper system?]]></description>
+            <description><![CDATA[A digital "passport" has been rolled out across the EU - so why does Scotland use a paper system?]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-57519070</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-57519070</guid>
             <pubDate>Sun, 15 Aug 2021 07:09:54 GMT</pubDate>
@@ -233,6 +233,13 @@
             <pubDate>Sun, 15 Aug 2021 06:25:28 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Scottish Gossip: Celtic, Rangers, Hibernian, Couto, Katic, Edouard, Doidge]]></title>
+            <description><![CDATA[Brazilian right-back pleads for Celtic move, Rangers defender told to find new club and more from the back pages...]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58220419</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58220419</guid>
+            <pubDate>Sun, 15 Aug 2021 07:37:08 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Kash Farooq claims WBC international bantamweight title]]></title>
             <description><![CDATA[Scotland's Kash Farooq defeated Luis Gerardo Castillo on a unanimous points decision to claim the WBC international bantamweight title.]]></description>
             <link>https://www.bbc.co.uk/sport/boxing/58218631</link>
@@ -252,13 +259,6 @@
             <link>https://www.bbc.co.uk/sport/football/58137912</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58137912</guid>
             <pubDate>Sat, 14 Aug 2021 16:15:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ayr United 1-1 Dundee United: (3-4 on pens) Premiership side win on penalties]]></title>
-            <description><![CDATA[Two Nicky Clark penalties help Dundee United avoid a League Cup upset by Ayr United at Somerset Park.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58137905</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58137905</guid>
-            <pubDate>Sat, 14 Aug 2021 17:06:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
