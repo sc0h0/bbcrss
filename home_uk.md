@@ -1,4 +1,4 @@
-1. [Afghanistan: UK has abandoned Afghan people, says senior MP](https://www.bbc.co.uk/news/uk-58220730) - Sun, 15 Aug 2021 10:31:07 GMT - Tory MP Tom Tugendhat says the troop withdrawal is the biggest foreign policy disaster since Suez.
+1. [Afghanistan: UK has abandoned Afghan people, says senior MP](https://www.bbc.co.uk/news/uk-58220730) - Sun, 15 Aug 2021 10:57:34 GMT - Tory MP Tom Tugendhat says the troop withdrawal is the biggest foreign policy disaster since Suez.
 2. [Afghan conflict: Taliban control all key cities except Kabul](https://www.bbc.co.uk/news/world-asia-58219169) - Sun, 15 Aug 2021 09:45:44 GMT - The militant group takes the eastern city of Jalalabad without a fight as it closes in on the capital.
 3. [Haiti struck by deadly 7.2-magnitude earthquake](https://www.bbc.co.uk/news/world-latin-america-58215631) - Sat, 14 Aug 2021 22:59:51 GMT - At least 304 people are killed and more than 1800 injured by the powerful earthquake.
 4. [Plymouth shooting: Prayers to remember victims](https://www.bbc.co.uk/news/uk-58219415) - Sun, 15 Aug 2021 10:38:57 GMT - Father David Way says it is a time of "shock, sadness and horror" following the shootings.

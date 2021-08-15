@@ -40,8 +40,8 @@
 40. [Covid PCR costs can be excessive and exploitative, says Javid](https://www.bbc.co.uk/news/business-58137461) - The health secretary calls on a watchdog to investigate "exploitative" firms overcharging holidaymakers.
 41. [PM's coal mining 'joke' no laughing matter, say MPs](https://www.bbc.co.uk/news/uk-england-58116722) - Boris Johnson said that closing mines had given the UK an early start fighting climate change.
 42. [Climate change: Time running out to stop catastrophe - Alok Sharma](https://www.bbc.co.uk/news/uk-58132939) - Despite his warning, the Tory climate chief does not rule out future fossil fuel projects in the UK.
-43. [Boris Johnson: 'I don't believe the Afghan war was in vain'](https://www.bbc.co.uk/news/uk-58207987) - Boris Johnson says he "shares the sorrow" of the families of troops killed as he defended UK involvement.
-44. [Nandy on UK action over helping Afghanistan 'disaster'](https://www.bbc.co.uk/news/uk-politics-58204319) - Labour is calling for a potential recall of Parliament over the “disaster” in Afghanistan.
+43. [Afghanistan: US and UK withdrawal a catastrophic miscalculation, says Nandy](https://www.bbc.co.uk/news/uk-58220904) - The shadow foreign secretary calls on the UK government to act amid the unfolding crisis.
+44. [Boris Johnson: 'I don't believe the Afghan war was in vain'](https://www.bbc.co.uk/news/uk-58207987) - Boris Johnson says he "shares the sorrow" of the families of troops killed as he defended UK involvement.
 45. [Afghanistan 'heading for civil war' says Defence Secretary](https://www.bbc.co.uk/news/uk-58198080) - Defence Secretary Ben Wallace says it is likely that poverty and terrorism will increase in the country.
 46. [Sajid Javid says NHS waiting lists will rise](https://www.bbc.co.uk/news/uk-politics-58188899) - The health secretary urges people to come forward and "know that the NHS is there for them".
 47. [Exams: Keir Starmer calls for Gavin Williamson to lose job](https://www.bbc.co.uk/news/uk-politics-58188897) - It is "pretty astonishing" that the education secretary is still in his job, says the Labour leader.
