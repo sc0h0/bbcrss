@@ -1,5 +1,5 @@
-1. [Zambia election: President claims vote was not free and fair](https://www.bbc.co.uk/news/world-africa-58215507) - Early results show Edgar Lungu, who is seeking a second term, trailing rival Hakainde Hichilema.
-2. [Ethiopia: What do we know about aid going into Tigray?](https://www.bbc.co.uk/news/58189049) - Who's preventing desperately needed aid supplies reaching Ethiopia's Tigray region?
+1. [Ethiopia: What do we know about aid going into Tigray?](https://www.bbc.co.uk/news/58189049) - Who's preventing desperately needed aid supplies reaching Ethiopia's Tigray region?
+2. [Zambia election: President claims vote was not free and fair](https://www.bbc.co.uk/news/world-africa-58215507) - Early results show Edgar Lungu, who is seeking a second term, trailing rival Hakainde Hichilema.
 3. [Viewpoint: Why Twitter got it wrong in Nigeria](https://www.bbc.co.uk/news/world-africa-58175708) - Complex issues have been raised about policing speech and censoring unpopular voices.
 4. [Norwich 0-3 Liverpool: Mohamed Salah scores and assists two](https://www.bbc.co.uk/sport/football/58124894) - Mohamed Salah scores one and provides two assists as Liverpool get their Premier League title bid off to a winning start with victory at newly promoted Norwich City.
 5. [Rwandan President and Arsenal fan Paul Kagame frustrated by defeat](https://www.bbc.co.uk/news/world-africa-58162403) - Paul Kagame, a committed Gunners fan, lashes out on Twitter at the club his government sponsors.
