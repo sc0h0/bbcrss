@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 15 Aug 2021 19:15:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Aug 2021 19:25:15 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Call for Covid vaccination focus on under-30s in Wales]]></title>
+            <description><![CDATA[Nearly 120,000 people under 30 have still not taken up their first vaccine dose.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-58224626</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58224626</guid>
+            <pubDate>Sun, 15 Aug 2021 19:23:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Seven men from south Wales arrested after attack]]></title>
             <description><![CDATA[A 24-year-old man from Northern Ireland is in a critical but stable condition, police say.]]></description>
@@ -70,13 +77,6 @@
             <link>https://www.bbc.co.uk/news/uk-wales-58223168</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58223168</guid>
             <pubDate>Sun, 15 Aug 2021 13:41:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Boy takes on 150-mile walk from Rugby to visit grandparents]]></title>
-            <description><![CDATA[Fundraising Arthur Mortimer says he is looking forward to his nan's cakes after lockdown kept them apart.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-coventry-warwickshire-58200813</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-coventry-warwickshire-58200813</guid>
-            <pubDate>Sat, 14 Aug 2021 09:42:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bridgend: Tribute to boy, 2, as woman arrested for murder]]></title>
