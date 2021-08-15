@@ -1,5 +1,5 @@
 1. [Afghan conflict: Taliban control all key cities except Kabul](https://www.bbc.co.uk/news/world-asia-58219169) - The militant group takes the eastern city of Jalalabad without a fight as it closes in on the capital.
-2. [Independence Day: PM Modi praises India's Covid workers in his speech](https://www.bbc.co.uk/news/world-asia-india-58196795) - India is celebrating 75 years of independence as it continues to battle coronavirus.
+2. [Independence Day: Key takeaways from PM Modi's speech](https://www.bbc.co.uk/news/world-asia-india-58196795) - India is celebrating 75 years of independence as it continues to battle coronavirus.
 3. [Afghanistan: Journalist Anisa Shaheed refuses to give in to Taliban](https://www.bbc.co.uk/news/world-asia-58175088) - Anisa Shaheed fears women's freedoms will be curbed again if the Taliban come to power.
 4. [Afghan conflict: Taliban take Mazar-i-Sharif, government's last northern stronghold](https://www.bbc.co.uk/news/world-asia-58213848) - The militants head for the Afghan capital after capturing the key city of Mazar-i-Sharif.
 5. [Japan rain: Nearly two million residents told to seek shelter](https://www.bbc.co.uk/news/world-asia-58212803) - Some provinces are under evacuation alerts as experts warn of "unprecedented" rainfall.
