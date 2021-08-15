@@ -7,8 +7,8 @@
 7. [UK scholarships for Afghan students paused](https://www.bbc.co.uk/news/uk-58219114) - The government says the situation in Afghanistan means the British Embassy in Kabul cannot finalise plans.
 8. [Dead police officer and child in Kidderminster were father and son](https://www.bbc.co.uk/news/uk-england-hereford-worcester-58220317) - Colleagues from the West Mercia force name the pair as David Louden, 39, and Harrison, three.
 9. [Polish law on property stolen by Nazis angers Israel](https://www.bbc.co.uk/news/world-europe-58218750) - A new law will make it harder for people to recover property lost in World War Two.
-10. [Four injured in suspected shooting in Camden](https://www.bbc.co.uk/news/uk-england-london-58220601) - Police are called to the Clarence Gardens area on Saturday night following reports of gunshots.
-11. [CJ Ujah: British sprinter 'shocked and devastated' after positive drugs test](https://www.bbc.co.uk/sport/athletics/58216873) - Olympic silver medallist CJ Ujah denies wrongdoing and says he is "shocked and devastated" after a positive drugs test.
+10. [Esther Dingley: Hiker's partner thanks 'hero' searchers](https://www.bbc.co.uk/news/uk-england-tyne-58221135) - Daniel Colegate pays tribute to French and Spanish teams who looked for his partner Esther Dingley.
+11. [Four injured in suspected shooting in Camden](https://www.bbc.co.uk/news/uk-england-london-58220601) - Police are called to the Clarence Gardens area on Saturday night following reports of gunshots.
 12. [Japan rain: Nearly two million residents told to seek shelter](https://www.bbc.co.uk/news/world-asia-58212803) - Some provinces are under evacuation alerts as experts warn of "unprecedented" rainfall.
 13. [The papers: Gun owners 'should face hate trawl' and Afghans flee](https://www.bbc.co.uk/news/blogs-the-papers-58218580) - A call from a former Met Police chief to improve checks on prospective gun owners is among the front-page stories.
 14. [Sri Lankan teenager builds solar-powered tuk-tuk from scraps](https://www.bbc.co.uk/news/world-asia-58192468) - Piranawan, 15, from Sri Lanka spent eight months of his Covid lockdown making his eco-friendly vehicle.

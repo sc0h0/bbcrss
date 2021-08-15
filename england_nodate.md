@@ -2,7 +2,7 @@
 2. [Dead police officer and child in Kidderminster were father and son](https://www.bbc.co.uk/news/uk-england-hereford-worcester-58220317) - Colleagues from the West Mercia force name the pair as David Louden, 39, and Harrison, three.
 3. [Esther Dingley: Hiker's partner thanks 'hero' searchers](https://www.bbc.co.uk/news/uk-england-tyne-58221135) - Daniel Colegate pays tribute to French and Spanish teams who looked for his partner Esther Dingley.
 4. [Hidden cameras spot New Forest pine marten](https://www.bbc.co.uk/news/uk-england-hampshire-58191770) - A new study aims to discover more about how the rare creatures have bred in the New Forest.
-5. [Covid: 16 and 17-year-olds in England to be offered jab by 23 August](https://www.bbc.co.uk/news/uk-58216017) - Those in England will be offered a jab or the chance to book one by 23 August, the government says.
+5. [Four injured in suspected shooting in Camden](https://www.bbc.co.uk/news/uk-england-london-58220601) - Police are called to the Clarence Gardens area on Saturday night following reports of gunshots.
 6. [Jomaa Jerrare: Police get more time to question suspects over lay-by body](https://www.bbc.co.uk/news/uk-england-stoke-staffordshire-58221105) - Police say they believe Jomaa Jerrare was killed and driven to a lay-by where she was set alight.
 7. [Covid-19: Boardmasters festival-goers urged to 'grab a jab'](https://www.bbc.co.uk/news/uk-england-cornwall-58220286) - A pop-up vaccination clinic says it is hoping to see as many "glittered-up faces as possible".
 8. [Who were the victims?](https://www.bbc.co.uk/news/uk-58202760) - The gunman's mother, Maxine Davison, and three-year-old Sophie Martyn have been named among the dead.
@@ -16,7 +16,7 @@
 16. [Shooting 'a truly shocking event' say police](https://www.bbc.co.uk/news/uk-58198081) - Devon and Cornwall Police Chief Constable Shaun Sawyer explains how reports of the shootings came in.
 17. [Plymouth shooting: Inside the dark world of 'incels'](https://www.bbc.co.uk/news/blogs-trending-44053828) - Who are the angry young men who describe themselves as "involuntarily celibate"?
 18. [Plymouth MP: Community 'trying to make sense' of shooting](https://www.bbc.co.uk/news/uk-58198078) - MP Luke Pollard says the community is pulling together in the face of the "deeply grim" news.
-19. [Four injured in suspected shooting in Camden](https://www.bbc.co.uk/news/uk-england-london-58220601) - Police are called to the Clarence Gardens area on Saturday night following reports of gunshots.
+19. [Covid: 16 and 17-year-olds in England to be offered jab by 23 August](https://www.bbc.co.uk/news/uk-58216017) - Those in England will be offered a jab or the chance to book one by 23 August, the government says.
 20. [Anita Neil: Exhibition on first black British Olympian extended](https://www.bbc.co.uk/news/uk-england-northamptonshire-58185838) - Former sprinter Anita Neil says she is "very proud and honoured" to be the focus of the exhibition.
 21. [Cornwall Royal Marines death prompts sea depths checks](https://www.bbc.co.uk/news/uk-england-cornwall-58205696) - A 20-year-old recruit died after disembarking into deep water at Tregantle in Cornwall.
 22. [Drone spots suspected burglars on Mansfield bank roof](https://www.bbc.co.uk/news/uk-england-nottinghamshire-58213759) - Police found no sign of any intruders until they deployed a thermal imaging drone.
@@ -39,4 +39,3 @@
 39. ['If we are wrong, prove it' - Guardiola defends Man City spending](https://www.bbc.co.uk/sport/football/58216727) - Manager Pep Guardiola challenges Manchester City's critics to come up with the evidence if they believe the club are breaking spending rules.
 40. [England v India: Joe Root makes masterful century at Lord's](https://www.bbc.co.uk/sport/cricket/58214028) - England captain Joe Root makes his second masterful century in a week, but the second Test is deliciously poised after India rally late on day three.
 41. [Manchester United 5-1 Leeds United: Bruno Fernandes hat-trick earns hosts thumping win](https://www.bbc.co.uk/sport/football/58124893) - Bruno Fernandes scores a hat-trick as Manchester United overpower old rivals Leeds to make the perfect start to the new Premier League season.
-42. [Chelsea 3-0 Crystal Palace: Premier League title contenders cruise against Patrick Vieira's side](https://www.bbc.co.uk/sport/football/58124898) - Chelsea underline their Premier League title credentials with a thoroughly comfortable win over Patrick Vieira's Crystal Palace.
