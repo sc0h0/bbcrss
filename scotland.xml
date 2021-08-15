@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 15 Aug 2021 16:43:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Aug 2021 17:04:19 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -65,6 +65,13 @@
             <pubDate>Sat, 14 Aug 2021 12:04:50 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Raft of Glasgow Orange walks to see 7,500 march in one day]]></title>
+            <description><![CDATA[The Grand Orange Lodge of Scotland has proposed 34 marches in Glasgow on 18 September.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58203584</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58203584</guid>
+            <pubDate>Fri, 13 Aug 2021 17:06:06 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Nicola Sturgeon's sister Gillian arrested over Ayrshire incident]]></title>
             <description><![CDATA[Gillian Sturgeon was arrested along with a man over an alleged domestic incident in North Ayrshire.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-58213744</link>
@@ -77,13 +84,6 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-58220524</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58220524</guid>
             <pubDate>Sun, 15 Aug 2021 08:35:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Raft of Glasgow Orange walks to see 7,500 march in one day]]></title>
-            <description><![CDATA[The Grand Orange Lodge of Scotland has proposed 34 marches in Glasgow on 18 September.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58203584</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58203584</guid>
-            <pubDate>Fri, 13 Aug 2021 17:06:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid in Scotland: How have the rules changed?]]></title>
@@ -258,7 +258,7 @@
             <description><![CDATA[Kyle Magennis makes it four goals in five games as Hibernian beat Kilmarnock at Easter Road to reach the last eight of the Scottish League Cup.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58137997</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58137997</guid>
-            <pubDate>Sun, 15 Aug 2021 15:04:30 GMT</pubDate>
+            <pubDate>Sun, 15 Aug 2021 16:52:29 GMT</pubDate>
         </item>
     </channel>
 </rss>

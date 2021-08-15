@@ -1,4 +1,4 @@
-1. [Afghanistan on the brink of Taliban takeover](https://www.bbc.co.uk/news/world-asia-58222066) - President Ashraf Ghani is reported to have fled the country as the insurgents reach the capital Kabul.
+1. [Afghanistan conflict: Taliban push into Kabul as Ghani flees](https://www.bbc.co.uk/news/world-asia-58223231) - The militants are on the brink of taking total control now that US-led forces have all but withdrawn.
 2. [Taliban spokesman tells BBC they are 'awaiting a peaceful transfer of power'](https://www.bbc.co.uk/news/world-asia-58220305) - The BBC's Yalda Hakim was contacted by a spokesperson for the Taliban, Suhail Shaheen, live on air.
 3. [Haiti earthquake: Rescuers search for survivors as death toll climbs to 700](https://www.bbc.co.uk/news/world-latin-america-58222888) - More than 700 people are known to have died after a powerful earthquake hit the nation on Saturday.
 4. [Independence Day: Key takeaways from PM Modi's speech](https://www.bbc.co.uk/news/world-asia-india-58196795) - India is celebrating 75 years of independence as it continues to battle coronavirus.
