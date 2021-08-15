@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 15 Aug 2021 20:37:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Aug 2021 20:47:00 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -21,6 +21,13 @@
             <link>https://www.bbc.co.uk/news/world-europe-58218750</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58218750</guid>
             <pubDate>Sat, 14 Aug 2021 22:12:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Roger Federer will be out 'for many months' as he prepares for further knee surgery]]></title>
+            <description><![CDATA[Tennis great Roger Federer says he will be sidelined for "many months" as he prepares to have further knee surgery.]]></description>
+            <link>https://www.bbc.co.uk/sport/tennis/58223042</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/tennis/58223042</guid>
+            <pubDate>Sun, 15 Aug 2021 19:07:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Turkey floods: Death toll near Black Sea rises to at least 40]]></title>
@@ -44,6 +51,13 @@
             <pubDate>Sat, 14 Aug 2021 11:17:34 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Germany football legend Muller dies aged 75]]></title>
+            <description><![CDATA[Bayern Munich and Germany legend Gerd Muller dies at the age of 75.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58222495</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58222495</guid>
+            <pubDate>Sun, 15 Aug 2021 13:41:04 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Channel migrant crossings reach record high as man dies]]></title>
             <description><![CDATA[The UK deals with 592 people crossing the Channel on the day a migrant makes a fatal leap into the sea.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-kent-58213583</link>
@@ -56,13 +70,6 @@
             <link>https://www.bbc.co.uk/news/58148881</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/58148881</guid>
             <pubDate>Fri, 13 Aug 2021 23:45:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Germany football legend Muller dies aged 75]]></title>
-            <description><![CDATA[Bayern Munich and Germany legend Gerd Muller dies at the age of 75.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58222495</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58222495</guid>
-            <pubDate>Sun, 15 Aug 2021 13:41:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No Messi, no Ramos - how is La Liga shaping up?]]></title>
@@ -133,13 +140,6 @@
             <link>https://www.bbc.co.uk/news/world-middle-east-58108697</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-58108697</guid>
             <pubDate>Thu, 05 Aug 2021 23:01:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tankus the Henge: Touring in France post-Brexit 'a puzzle']]></title>
-            <description><![CDATA[Band Tankus the Henge negotiates touring in France, their first trip there since Brexit rules were imposed.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-58063110</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-58063110</guid>
-            <pubDate>Thu, 05 Aug 2021 23:02:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
