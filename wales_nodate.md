@@ -22,6 +22,6 @@
 22. [Brighton & Hove Albion: Aileen Whelan, Kayleigh Green & Megan Connolly sign new deals](https://www.bbc.co.uk/sport/football/58222056) - Brighton trio Aileen Whelan, Kayleigh Green and Megan Connolly sign new one-year deals with the WSL club.
 23. [Charli Britton, drymiwr Edward H. Dafis, wedi marw](https://www.bbc.co.uk/newyddion/58209274) - Teyrngedau i ddrymiwr y band Edward H. Dafis, Charli Britton, sydd wedi marw'n 68 oed.
 24. [Arestio saith o Gymru yn dilyn ymosodiad yn Lerpwl](https://www.bbc.co.uk/newyddion/58225608) - Dywedodd yr heddlu bod dyn 24 oed o Ogledd Iwerddon yn yr ysbyty mewn cyflwr difrifol ond sefydlog.
-25. ['Ymosodiad difrifol' ar ddyn ifanc yn Wrecsam](https://www.bbc.co.uk/newyddion/58224591) - Cafodd dyn 18 oed ei gludo i'r ysbyty wedi ymosodiad ger archfarchnad Morrisons y dref.
+25. [Huw Edwards: 'Dwi'n dal mor egnïol a phositif'](https://www.bbc.co.uk/newyddion/58209276) - Ond ni fydd y darlledwr yn parhau i gyflwyno prif raglen newyddion y BBC "am gyfnod hir i ddod", oherwydd oriau'r swydd.
 26. [Oriel: Golygfeydd o Eryri sydd ddim ar y cardiau post](https://www.bbc.co.uk/newyddion/58089792) - Delweddau'r ffotograffydd Richard Outram o gymunedau byw Eryri.
 27. [Y Bencampwriaeth: Abertawe 0-0 Sheffield United](https://www.bbc.co.uk/newyddion/58209273) - Gêm ddi-sgôr oedd hi rhwng Abertawe a Sheffield United nos Sadwrn yn ne Cymru.
