@@ -1,4 +1,4 @@
-1. [Taliban control all key Afghan cities except Kabul](https://www.bbc.co.uk/news/world-asia-58219169) - The Taliban now control all major Afghan cities except the capital, as the group takes Jalalabad.
+1. [Afghan conflict: Taliban control all key cities except Kabul](https://www.bbc.co.uk/news/world-asia-58219169) - The militant group takes the eastern city of Jalalabad without a fight as it closes in on the capital.
 2. [Afghanistan: Journalist Anisa Shaheed refuses to give in to Taliban](https://www.bbc.co.uk/news/world-asia-58175088) - Anisa Shaheed fears women's freedoms will be curbed again if the Taliban come to power.
 3. [Afghan conflict: Taliban take Mazar-i-Sharif, government's last northern stronghold](https://www.bbc.co.uk/news/world-asia-58213848) - The militants head for the Afghan capital after capturing the key city of Mazar-i-Sharif.
 4. [Japan rain: Nearly two million residents told to seek shelter](https://www.bbc.co.uk/news/world-asia-58212803) - Some provinces are under evacuation alerts as experts warn of "unprecedented" rainfall.
