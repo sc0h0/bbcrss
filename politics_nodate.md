@@ -1,4 +1,4 @@
-1. [No one wants Afghanistan to become 'breeding ground for terror' - PM](https://www.bbc.co.uk/news/uk-58224383) - No one wants Afghanistan to become a "breeding ground for terror", Prime Minister Boris Johnson says.
+1. [No one wants Afghanistan to become breeding ground for terror - PM](https://www.bbc.co.uk/news/uk-58224383) - Boris Johnson calls for the West's response to Taliban be an "international effort".
 2. [Afghanistan: UK has abandoned Afghan people, says senior MP](https://www.bbc.co.uk/news/uk-58220730) - Tory MP Tom Tugendhat says the troop withdrawal is the biggest foreign policy disaster since Suez.
 3. [Plymouth shooting: Starmer asks why gunman had licence](https://www.bbc.co.uk/news/uk-england-devon-58209726) - The police watchdog is investigating the decision to give back Jake Davison's shotgun and certificate.
 4. [Afghanistan: Boris Johnson defends UK's role amid evacuation](https://www.bbc.co.uk/news/uk-58204857) - Boris Johnson says there is "no military solution" to the situation as the Taliban advances.
