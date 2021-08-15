@@ -4,7 +4,7 @@
 4. [Hidden cameras spot New Forest pine marten](https://www.bbc.co.uk/news/uk-england-hampshire-58191770) - A new study aims to discover more about how the rare creatures have bred in the New Forest.
 5. [Four injured in suspected shooting in Camden](https://www.bbc.co.uk/news/uk-england-london-58220601) - Police are called to the Clarence Gardens area on Saturday night following reports of gunshots.
 6. [Jomaa Jerrare: Police get more time to question suspects over lay-by body](https://www.bbc.co.uk/news/uk-england-stoke-staffordshire-58221105) - Police say they believe Jomaa Jerrare was killed and driven to a lay-by where she was set alight.
-7. [Anita Neil: Exhibition on first black British Olympian extended](https://www.bbc.co.uk/news/uk-england-northamptonshire-58185838) - Former sprinter Anita Neil says she is "very proud and honoured" to be the focus of the exhibition.
+7. [Covid-19: Boardmasters festival-goers urged to 'grab a jab'](https://www.bbc.co.uk/news/uk-england-cornwall-58220286) - A pop-up vaccination clinic says it is hoping to see as many "glittered-up faces as possible".
 8. [Who were the victims?](https://www.bbc.co.uk/news/uk-58202760) - The gunman's mother, Maxine Davison, and three-year-old Sophie Martyn have been named among the dead.
 9. [A visual guide to what happened](https://www.bbc.co.uk/news/uk-england-devon-58200336) - A gunman shot and killed five people in Plymouth before turning the gun on himself. Here's what we know about how events unfolded.
 10. [Plymouth shooting: Starmer asks why gunman had licence](https://www.bbc.co.uk/news/uk-england-devon-58209726) - The police watchdog is investigating the decision to give back Jake Davison's shotgun and certificate.
@@ -16,7 +16,7 @@
 16. [Shooting 'a truly shocking event' say police](https://www.bbc.co.uk/news/uk-58198081) - Devon and Cornwall Police Chief Constable Shaun Sawyer explains how reports of the shootings came in.
 17. [Plymouth shooting: Inside the dark world of 'incels'](https://www.bbc.co.uk/news/blogs-trending-44053828) - Who are the angry young men who describe themselves as "involuntarily celibate"?
 18. [Plymouth MP: Community 'trying to make sense' of shooting](https://www.bbc.co.uk/news/uk-58198078) - MP Luke Pollard says the community is pulling together in the face of the "deeply grim" news.
-19. [Covid-19: Boardmasters festival-goers urged to 'grab a jab'](https://www.bbc.co.uk/news/uk-england-cornwall-58220286) - A pop-up vaccination clinic says it is hoping to see as many "glittered-up faces as possible".
+19. [Anita Neil: Exhibition on first black British Olympian extended](https://www.bbc.co.uk/news/uk-england-northamptonshire-58185838) - Former sprinter Anita Neil says she is "very proud and honoured" to be the focus of the exhibition.
 20. [Cornwall Royal Marines death prompts sea depths checks](https://www.bbc.co.uk/news/uk-england-cornwall-58205696) - A 20-year-old recruit died after disembarking into deep water at Tregantle in Cornwall.
 21. [Drone spots suspected burglars on Mansfield bank roof](https://www.bbc.co.uk/news/uk-england-nottinghamshire-58213759) - Police found no sign of any intruders until they deployed a thermal imaging drone.
 22. [Manchester United v Leeds: Six arrests made](https://www.bbc.co.uk/news/uk-england-manchester-58213906) - Social media footage showed chairs and a bin thrown in a fight in Manchester city centre.
