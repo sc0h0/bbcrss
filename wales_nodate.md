@@ -3,12 +3,12 @@
 3. [Covid: Safety fears as face-mask rules 'ignored on Welsh trains'](https://www.bbc.co.uk/news/uk-wales-58144669) - Some passengers say they feel unsafe, crammed on trains face-to-face with people not wearing masks.
 4. [Logan Mwangi: Community remembers boy, 5, found dead in river](https://www.bbc.co.uk/news/uk-wales-58213255) - Neighbours and friends gather to remember the "happy-go-lucky" child who died in Bridgend.
 5. [Cheers Drive: Name plea for Cardiff bus station road](https://www.bbc.co.uk/news/uk-wales-58216521) - Could the well-known south Wales phrase become a real road in praise of Cardiff's bus drivers?
-6. [Boy takes on 150-mile walk from Rugby to visit grandparents](https://www.bbc.co.uk/news/uk-england-coventry-warwickshire-58200813) - Fundraising Arthur Mortimer says he is looking forward to his nan's cakes after lockdown kept them apart.
-7. [Bridgend: Tribute to boy, 2, as woman arrested for murder](https://www.bbc.co.uk/news/uk-wales-58194706) - Reid Steele died in hospital after being found in a critical condition at a house in Bridgend.
-8. [Humpback whale spotted off Pembrokeshire coast](https://www.bbc.co.uk/news/uk-wales-58214562) - Tour guide Ffion Rees says it is the first time she had seen the species in UK waters in 27 years.
-9. [Two boys arrested after Cardiff football field attack](https://www.bbc.co.uk/news/uk-wales-58213258) - The 15-year-old victim suffered a puncture wound to his leg in the assault, police say.
-10. [Covid study: How to avoid catching virus in a shared car](https://www.bbc.co.uk/news/uk-wales-58202468) - Opening four windows at lower speeds and only two on the motorway is best, researchers say.
-11. [Anglesey: Rescued woman 'very fortunate' to be alive](https://www.bbc.co.uk/news/uk-wales-58214566) - Wendy Goddard got into trouble after drifting out to sea on an inflatable on Friday.
+6. [Edward H Dafis: Tributes paid to drummer Charli Britton](https://www.bbc.co.uk/news/uk-wales-58223168) - Britton's contribution to Welsh music was immeasurable, said Edward H Dafis bandmates.
+7. [Boy takes on 150-mile walk from Rugby to visit grandparents](https://www.bbc.co.uk/news/uk-england-coventry-warwickshire-58200813) - Fundraising Arthur Mortimer says he is looking forward to his nan's cakes after lockdown kept them apart.
+8. [Bridgend: Tribute to boy, 2, as woman arrested for murder](https://www.bbc.co.uk/news/uk-wales-58194706) - Reid Steele died in hospital after being found in a critical condition at a house in Bridgend.
+9. [Humpback whale spotted off Pembrokeshire coast](https://www.bbc.co.uk/news/uk-wales-58214562) - Tour guide Ffion Rees says it is the first time she had seen the species in UK waters in 27 years.
+10. [Two boys arrested after Cardiff football field attack](https://www.bbc.co.uk/news/uk-wales-58213258) - The 15-year-old victim suffered a puncture wound to his leg in the assault, police say.
+11. [Covid study: How to avoid catching virus in a shared car](https://www.bbc.co.uk/news/uk-wales-58202468) - Opening four windows at lower speeds and only two on the motorway is best, researchers say.
 12. [Covid in Wales: Rail staff face abuse enforcing mask rules](https://www.bbc.co.uk/news/uk-wales-58205655) - Passengers on trains in Wales must still wear a mask, unlike in England where it is only advised.
 13. [Covid-19: How many windows to keep open to cut virus build-up](https://www.bbc.co.uk/news/uk-wales-58204733) - Opening four windows at lower speeds and only two on the motorway is best, researchers say.
 14. [Reading: Teacher gets stories published after 46 years](https://www.bbc.co.uk/news/uk-wales-58189969) - Keith Godwin used to make up stories for his pupils in the 1970s, now they have been published.
