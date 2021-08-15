@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 15 Aug 2021 07:10:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Aug 2021 07:22:09 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -28,6 +28,13 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-53511877</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-53511877</guid>
             <pubDate>Sat, 14 Aug 2021 13:37:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: Is Scotland lagging behind on vaccine certificates?]]></title>
+            <description><![CDATA[A digital vaccine "passport" has been rolled out across the EU - so why does Scotland use a paper system?]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-57519070</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-57519070</guid>
+            <pubDate>Sun, 15 Aug 2021 07:09:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Nicola Sturgeon's sister Gillian arrested over Ayrshire incident]]></title>
@@ -56,13 +63,6 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58203584</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58203584</guid>
             <pubDate>Fri, 13 Aug 2021 17:06:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: Four health boards pause non-emergency surgery]]></title>
-            <description><![CDATA[NHS Ayrshire and Arran, Borders, Lothian and Highland have put elective operations on hold amid rising pressure on services.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-58204236</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58204236</guid>
-            <pubDate>Fri, 13 Aug 2021 16:34:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['Stress and frustration' over Scotland's paper vaccine pass]]></title>
@@ -105,13 +105,6 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-58071989</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58071989</guid>
             <pubDate>Tue, 03 Aug 2021 15:55:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: Is Scotland lagging behind on vaccine certificates?]]></title>
-            <description><![CDATA[A digital vaccine "passport" has been rolled out across the EU - so why does Scotland use a paper system?]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-57519070</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-57519070</guid>
-            <pubDate>Sun, 15 Aug 2021 07:09:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid in Scotland: Are young people slowing the vaccine drive?]]></title>

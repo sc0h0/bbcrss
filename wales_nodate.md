@@ -20,6 +20,6 @@
 20. [Joe Cordina defeats Henrandez to extend unbeaten record](https://www.bbc.co.uk/sport/boxing/58218723) - Welsh boxer Joe Cordina secures a stunning victory over American Joshuah Hernandez via a first-round knockout
 21. [Mansfield Town 2-1 Newport County](https://www.bbc.co.uk/sport/football/58124809) - Mansfield Town continue their promising start to the season with a narrow 2-1 win against Newport County.
 22. [Gwersyllfaoedd dros dro yn niweidio cymunedau gwledig](https://www.bbc.co.uk/newyddion/58200366) - Trigolion mannau prydferth yn gorfod dygymod â thraffig peryglus a thyllau tân yn llosgi drwy'r nos.
-23. [Gwasanaeth coffa i fachgen gafodd ei ganfod mewn afon](https://www.bbc.co.uk/newyddion/58213535) - Cafwyd hyd i Logan Mwangi, 5, yn Afon Ogwr ger Pen-y-bont ar 31 Gorffennaf.
-24. [Rheol mygydau ar drenau yn cael ei 'anwybyddu'](https://www.bbc.co.uk/newyddion/58172186) - Rhai yn pryderu dros eu diogelwch wrth i bobl wrthod cadw at y rheolau tra'n teithio.
+23. ['Fi wedi bod mewn lockdown ers 20 mlynedd'](https://www.bbc.co.uk/newyddion/58194119) - Mae Rhys Bowler yn galw am gyllid iechyd personol er mwyn rhoi mwy o ryddid i bobl fel fe sy'n byw ag anabledd.
+24. [Gwasanaeth coffa i fachgen gafodd ei ganfod mewn afon](https://www.bbc.co.uk/newyddion/58213535) - Cafwyd hyd i Logan Mwangi, 5, yn Afon Ogwr ger Pen-y-bont ar 31 Gorffennaf.
 25. [Y Bencampwriaeth: Blackpool 0-2 Caerdydd](https://www.bbc.co.uk/newyddion/58213541) - Goliau Leandro Bacuna a Kieffer Moore yn sicrhau buddugoliaeth gyntaf y tymor yn y gynghrair i Gaerdydd.
