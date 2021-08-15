@@ -10,17 +10,9 @@
 10. [Photographer, farmer and plasterer job ads rise](https://www.bbc.co.uk/news/business-58180312) - The last three weeks have seen the highest numbers of new job postings since mid-May, research shows.
 11. [The $8bn EV company you’ve probably never heard of](https://www.bbc.co.uk/news/business-58174043) - Electric vehicle firm Arrival is worth $8bn (£5.7bn) - and is only making vans, buses and taxis.
 12. [UK inhaler firm Vectura backs £1bn bid by Marlboro-maker](https://www.bbc.co.uk/news/business-58193391) - The bid by the maker of Marlboro cigarettes trumps a rival offer by US private equity firm Carlyle.
-13. [KFC warns menu items missing due to supply issues](https://www.bbc.co.uk/news/business-58180308) - The fast food chain has warned customers menus will be missing items as a result of the supply problems.
-14. [Can Americans pull the plug on petrol-powered cars?](https://www.bbc.co.uk/news/business-58123729) - Joe Biden wants half of all cars sold in the US to be zero emission by 2030 - but getting there won't be easy.
-15. [Pret a Manger makes staff pay cuts permanent](https://www.bbc.co.uk/news/business-58186299) - The firm had said unpaid breaks would be temporary but trade remains "significantly below" pre-Covid levels.
-16. [Tui boss: UK falling behind European travel recovery](https://www.bbc.co.uk/news/business-58184088) - UK bookings lag the rest of Europe amid shifting Covid travel restrictions, the travel giant says.
-17. [UK economy rebounds as Covid restrictions ease](https://www.bbc.co.uk/news/uk-58183519) - Retail, restaurants and hotels show strong growth between April and June but data misses forecasts.
-18. [Boohoo boss: 'We're not a throwaway fashion brand'](https://www.bbc.co.uk/news/business-58160237) - The boss of fast fashion retailer Boohoo tells the BBC it is committed to being more sustainable.
-19. [Cryptocurrency heist hacker returns $260m in funds](https://www.bbc.co.uk/news/business-58180692) - The hacker behind the $600m Poly Network cryptocurrency heist has posted a Q&A on the blockchain.
-20. [Quarantine hotel rules face legal challenge](https://www.bbc.co.uk/news/business-58180307) - Travellers affected by the UK's quarantine hotel policy want a judicial review of the rules.
-21. [How we can all get more high-quality sleep](https://www.bbc.co.uk/news/business-58148044) - The pandemic has led to a sharp increase in insomnia, but some firms are now helping their staff.
-22. [CEO Secrets: Foot Locker boss shares his advice](https://www.bbc.co.uk/news/business-58101254) - Richard Johnson, CEO of Foot Locker, reflects on the lessons of the pandemic for business leaders.
-23. [Sharing apps are booming but will the kindness continue?](https://www.bbc.co.uk/news/business-57981598) - The pandemic sparked a surge in activity for sharing apps like Olio but has the trend run its course?
-24. [Can technology help authors write a book?](https://www.bbc.co.uk/news/business-58098481) - Writing a novel is notoriously difficult, but technology may give the writer a helping hand.
-25. [The activist entrepreneurs running zero-waste shops](https://www.bbc.co.uk/news/business-57920754) - Environmentally conscious entrepreneurs explain the movement towards zero-waste lifestyles.
-26. [Why artificial intelligence is being used to write adverts](https://www.bbc.co.uk/news/business-57781557) - Advertisers are increasingly using artificial intelligence to come up with their winning slogans.
+13. [How we can all get more high-quality sleep](https://www.bbc.co.uk/news/business-58148044) - The pandemic has led to a sharp increase in insomnia, but some firms are now helping their staff.
+14. [CEO Secrets: Foot Locker boss shares his advice](https://www.bbc.co.uk/news/business-58101254) - Richard Johnson, CEO of Foot Locker, reflects on the lessons of the pandemic for business leaders.
+15. [Sharing apps are booming but will the kindness continue?](https://www.bbc.co.uk/news/business-57981598) - The pandemic sparked a surge in activity for sharing apps like Olio but has the trend run its course?
+16. [Can technology help authors write a book?](https://www.bbc.co.uk/news/business-58098481) - Writing a novel is notoriously difficult, but technology may give the writer a helping hand.
+17. [The activist entrepreneurs running zero-waste shops](https://www.bbc.co.uk/news/business-57920754) - Environmentally conscious entrepreneurs explain the movement towards zero-waste lifestyles.
+18. [Why artificial intelligence is being used to write adverts](https://www.bbc.co.uk/news/business-57781557) - Advertisers are increasingly using artificial intelligence to come up with their winning slogans.
