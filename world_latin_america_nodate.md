@@ -1,4 +1,4 @@
-1. [Haiti earthquake: Rescuers search for survivors as death toll climbs to 700](https://www.bbc.co.uk/news/world-latin-america-58222888) - More than 700 people are known to have died after a powerful earthquake hit the nation on Saturday.
+1. [Haiti earthquake: Rescuers search for survivors as death toll climbs to 1,297](https://www.bbc.co.uk/news/world-latin-america-58222888) - More than 1,200 people are known to have died after a powerful earthquake hit the nation on Saturday.
 2. [Nicaragua: Police raid offices of La Prensa newspaper](https://www.bbc.co.uk/news/world-latin-america-58212024) - It comes a day after La Prensa said authorities were withholding its supplies of paper and ink.
 3. [Brazil Congress expels lawmaker over murder charges](https://www.bbc.co.uk/news/world-latin-america-58171370) - Gospel singer turned lawmaker Flordelis de Souza is accused of ordering the murder of her husband.
 4. [Brazil's Bolsonaro defeated over printed ballot proposal](https://www.bbc.co.uk/news/world-latin-america-58171369) - A plan by President Bolsonaro to switch to printed ballots fails to get enough support in Congress.

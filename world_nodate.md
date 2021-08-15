@@ -2,7 +2,7 @@
 2. [Taliban spokesman tells BBC they are 'awaiting a peaceful transfer of power'](https://www.bbc.co.uk/news/world-asia-58220305) - The BBC's Yalda Hakim was contacted by a spokesperson for the Taliban, Suhail Shaheen, live on air.
 3. [Canada election: Trudeau calls snap summer campaign](https://www.bbc.co.uk/news/world-us-canada-58209031) - As Prime Minister Justin Trudeau goes to the polls two years early, here's what you need to know.
 4. [Roger Federer will be out 'for many months' as he prepares for further knee surgery](https://www.bbc.co.uk/sport/tennis/58223042) - Tennis great Roger Federer says he will be sidelined for "many months" as he prepares to have further knee surgery.
-5. [Haiti earthquake: Rescuers search for survivors as death toll climbs to 700](https://www.bbc.co.uk/news/world-latin-america-58222888) - More than 700 people are known to have died after a powerful earthquake hit the nation on Saturday.
+5. [Haiti earthquake: Rescuers search for survivors as death toll climbs to 1,297](https://www.bbc.co.uk/news/world-latin-america-58222888) - More than 1,200 people are known to have died after a powerful earthquake hit the nation on Saturday.
 6. [Germany football legend Muller dies aged 75](https://www.bbc.co.uk/sport/football/58222495) - Bayern Munich and Germany legend Gerd Muller dies at the age of 75.
 7. [Japan rain: Nearly two million residents told to seek shelter](https://www.bbc.co.uk/news/world-asia-58212803) - Some provinces are under evacuation alerts as experts warn of "unprecedented" rainfall.
 8. [Zambia election: President claims vote was not free and fair](https://www.bbc.co.uk/news/world-africa-58215507) - Early results show Edgar Lungu, who is seeking a second term, trailing rival Hakainde Hichilema.
@@ -18,7 +18,7 @@
 18. [Myanmar: The woman who jumped to her death while fleeing police](https://www.bbc.co.uk/news/world-asia-58196465) - Wai Wai Myint was among five people who jumped out of a building while fleeing a police raid in Myanmar.
 19. [Afghans living under Taliban lament loss of freedoms](https://www.bbc.co.uk/news/world-asia-58191440) - Afghans in Taliban-controlled provinces describe life under its fundamentalist Islamist rule.
 20. [Afghanistan: People flee Kabul as Taliban overrun cities](https://www.bbc.co.uk/news/world-middle-east-58225187) - Roads out of the Afghan capital have been choked with traffic as people try to escape a Taliban takeover.
-21. [Haiti struck by deadly 7.2-magnitude earthquake](https://www.bbc.co.uk/news/world-latin-america-58216614) - A powerful earthquake has struck the Caribbean nation of Haiti, killing at least 304 people.
-22. [ICYMI: Little Amal the walking refugee puppet and Perseid meteor shower](https://www.bbc.co.uk/news/world-58207989) - We also travel back to the Ice Age and to Sao Paulo's tallest building in this week's round-up.
-23. [Afghanistan: Journalist Anisa Shaheed refuses to give in to Taliban](https://www.bbc.co.uk/news/world-asia-58175088) - Anisa Shaheed fears women's freedoms will be curbed again if the Taliban come to power.
-24. [Afghanistan in serious danger - President Ghani](https://www.bbc.co.uk/news/world-asia-58213300) - Ashraf Ghani addresses the nation as the Taliban reportedly close in on the Afghan capital, Kabul.
+21. [India's dancing cop becomes internet star](https://www.bbc.co.uk/news/world-asia-india-58184026) - An Indian police officer has become a social media sensation because of his viral dance videos.
+22. [The zero-power sewage plant inspired by cows](https://www.bbc.co.uk/news/science-environment-58017501) - Fifty sustainable sewage treatment plants have been built that work in similar way to a cow's stomach.
+23. [Why is Israel demolishing homes in East Jerusalem?](https://www.bbc.co.uk/news/world-middle-east-58201218) - Israel says the homes were built without planning permission and it is to try to keep East Jerusalem in order.
+24. [Haiti struck by deadly 7.2-magnitude earthquake](https://www.bbc.co.uk/news/world-latin-america-58216614) - A powerful earthquake has struck the Caribbean nation of Haiti, killing at least 304 people.

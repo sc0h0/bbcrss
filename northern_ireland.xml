@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 15 Aug 2021 22:53:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Aug 2021 23:16:12 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -21,6 +21,13 @@
             <link>https://www.bbc.co.uk/sport/gaelic-games/58225160</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/gaelic-games/58225160</guid>
             <pubDate>Sun, 15 Aug 2021 18:28:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19: NI hospital patients and visitors urged to wear masks]]></title>
+            <description><![CDATA[Doctors report an increased number of people refusing to wear face coverings in healthcare settings.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58222366</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58222366</guid>
+            <pubDate>Sun, 15 Aug 2021 15:52:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Liverpool: Seven arrested after NI man attacked]]></title>
@@ -93,13 +100,6 @@
             <pubDate>Thu, 12 Aug 2021 14:40:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Antiques Roadshow looking for hidden NI treasures]]></title>
-            <description><![CDATA[The BBC show is asking people to contact them if they have something of interest for their experts.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58161934</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58161934</guid>
-            <pubDate>Sat, 14 Aug 2021 05:45:24 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Covid-19: Three more deaths and 1,294 new cases]]></title>
             <description><![CDATA[Covid-19 linked deaths are reported by counting patients who die within 28 days of testing positive.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58221967</link>
@@ -133,6 +133,13 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58199977</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58199977</guid>
             <pubDate>Fri, 13 Aug 2021 10:46:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Antiques Roadshow looking for hidden NI treasures]]></title>
+            <description><![CDATA[The BBC show is asking people to contact them if they have something of interest for their experts.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58161934</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58161934</guid>
+            <pubDate>Sat, 14 Aug 2021 05:45:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Latest Northern Ireland weather forecast]]></title>
