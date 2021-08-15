@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 15 Aug 2021 15:48:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Aug 2021 16:04:19 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -219,6 +219,20 @@
             <pubDate>Thu, 12 Aug 2021 11:49:57 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Celtic 3-1 Hearts: Hosts through to quarter-finals]]></title>
+            <description><![CDATA[Celtic gain revenge on Hearts to sweep into the Scottish League Cup quarter-finals.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58137990</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58137990</guid>
+            <pubDate>Sun, 15 Aug 2021 15:54:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Arbroath 2-2 St Johnstone (St Johnstone win 3-2 on pens): League Cup holders pushed all the way]]></title>
+            <description><![CDATA[Holders St Johnstone require penalties to see off Arbroath and squeeze into the Scottish League Cup quarter-finals at Gayfield.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58137983</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58137983</guid>
+            <pubDate>Sun, 15 Aug 2021 16:00:25 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Raith Rovers 2-1 Aberdeen: Championship hosts knock Dons out of Scottish League Cup]]></title>
             <description><![CDATA[Aberdeen crash out of the League Cup as Raith Rovers fight back from behind to knock the Premiership side out at Stark's Park.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58137976</link>
@@ -238,20 +252,6 @@
             <link>https://www.bbc.co.uk/sport/football/58220000</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58220000</guid>
             <pubDate>Sun, 15 Aug 2021 09:29:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Scottish Gossip: Celtic, Rangers, Hibernian, Couto, Katic, Edouard, Doidge]]></title>
-            <description><![CDATA[Brazilian right-back pleads for Celtic move, Rangers defender told to find new club and more from the back pages...]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58220419</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58220419</guid>
-            <pubDate>Sun, 15 Aug 2021 07:37:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kash Farooq claims WBC international bantamweight title]]></title>
-            <description><![CDATA[Scotland's Kash Farooq defeated Luis Gerardo Castillo on a unanimous points decision to claim the WBC international bantamweight title.]]></description>
-            <link>https://www.bbc.co.uk/sport/boxing/58218631</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/boxing/58218631</guid>
-            <pubDate>Sat, 14 Aug 2021 21:18:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
