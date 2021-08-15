@@ -11,16 +11,16 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 15 Aug 2021 12:15:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Aug 2021 12:51:53 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
-            <title><![CDATA[Afghan conflict: Taliban control all key cities except Kabul]]></title>
-            <description><![CDATA[The militant group takes the eastern city of Jalalabad without a fight as it closes in on the capital.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58219169</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58219169</guid>
-            <pubDate>Sun, 15 Aug 2021 09:45:44 GMT</pubDate>
+            <title><![CDATA[Afghan conflict: Taliban enter outskirts of the capital Kabul]]></title>
+            <description><![CDATA[Negotiations are reportedly taking place for a peaceful transition of power as people flee the city.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58222066</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58222066</guid>
+            <pubDate>Sun, 15 Aug 2021 12:50:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Haiti struck by deadly 7.2-magnitude earthquake]]></title>
@@ -52,10 +52,10 @@
         </item>
         <item>
             <title><![CDATA[Germany football legend Muller dies aged 75]]></title>
-            <description><![CDATA[Bayern Munich and Germany legend Gerd Muller has died at the age of 75.]]></description>
+            <description><![CDATA[Bayern Munich and Germany legend Gerd Muller dies at the age of 75.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58222495</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58222495</guid>
-            <pubDate>Sun, 15 Aug 2021 12:11:59 GMT</pubDate>
+            <pubDate>Sun, 15 Aug 2021 12:49:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Zambia election: President claims vote was not free and fair]]></title>
@@ -156,6 +156,13 @@
             <pubDate>Fri, 13 Aug 2021 23:45:10 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Taliban spokesman tells BBC they are 'awaiting a peaceful transfer of power']]></title>
+            <description><![CDATA[The BBC's Yalda Hakim was contacted by a spokesperson for the Taliban, Suhail Shaheen, live on air.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58220305</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58220305</guid>
+            <pubDate>Sun, 15 Aug 2021 12:45:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Haiti struck by deadly 7.2-magnitude earthquake]]></title>
             <description><![CDATA[A powerful earthquake has struck the Caribbean nation of Haiti, killing at least 304 people.]]></description>
             <link>https://www.bbc.co.uk/news/world-latin-america-58216614</link>
@@ -182,13 +189,6 @@
             <link>https://www.bbc.co.uk/news/world-asia-58191043</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58191043</guid>
             <pubDate>Thu, 12 Aug 2021 23:10:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Japan floods: Residents rescued as torrential rain threatens homes]]></title>
-            <description><![CDATA[Nearly two million people have been urged to evacuate their homes amid heavy rainfall.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58216613</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58216613</guid>
-            <pubDate>Sat, 14 Aug 2021 15:14:47 GMT</pubDate>
         </item>
     </channel>
 </rss>

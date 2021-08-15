@@ -1,9 +1,9 @@
-1. [Afghan conflict: Taliban control all key cities except Kabul](https://www.bbc.co.uk/news/world-asia-58219169) - The militant group takes the eastern city of Jalalabad without a fight as it closes in on the capital.
+1. [Afghan conflict: Taliban enter outskirts of the capital Kabul](https://www.bbc.co.uk/news/world-asia-58222066) - Negotiations are reportedly taking place for a peaceful transition of power as people flee the city.
 2. [Haiti struck by deadly 7.2-magnitude earthquake](https://www.bbc.co.uk/news/world-latin-america-58215631) - At least 304 people are killed and more than 1800 injured by the powerful earthquake.
 3. [Independence Day: Key takeaways from PM Modi's speech](https://www.bbc.co.uk/news/world-asia-india-58196795) - India is celebrating 75 years of independence as it continues to battle coronavirus.
 4. [Polish law on property stolen by Nazis angers Israel](https://www.bbc.co.uk/news/world-europe-58218750) - A new law will make it harder for people to recover property lost in World War Two.
 5. [Japan rain: Nearly two million residents told to seek shelter](https://www.bbc.co.uk/news/world-asia-58212803) - Some provinces are under evacuation alerts as experts warn of "unprecedented" rainfall.
-6. [Germany football legend Muller dies aged 75](https://www.bbc.co.uk/sport/football/58222495) - Bayern Munich and Germany legend Gerd Muller has died at the age of 75.
+6. [Germany football legend Muller dies aged 75](https://www.bbc.co.uk/sport/football/58222495) - Bayern Munich and Germany legend Gerd Muller dies at the age of 75.
 7. [Zambia election: President claims vote was not free and fair](https://www.bbc.co.uk/news/world-africa-58215507) - Early results show Edgar Lungu, who is seeking a second term, trailing rival Hakainde Hichilema.
 8. [Sri Lankan teenager builds solar-powered tuk-tuk from scraps](https://www.bbc.co.uk/news/world-asia-58192468) - Piranawan, 15, from Sri Lanka spent eight months of his Covid lockdown making his eco-friendly vehicle.
 9. [Australia: New South Wales 'in worst ever Covid situation'](https://www.bbc.co.uk/news/world-australia-58170440) - While case numbers are relatively low, the Australian state's premier has warned of a Covid surge.
@@ -18,8 +18,8 @@
 18. [Myanmar: The woman who jumped to her death while fleeing police](https://www.bbc.co.uk/news/world-asia-58196465) - Wai Wai Myint was among five people who jumped out of a building while fleeing a police raid in Myanmar.
 19. [Afghans living under Taliban lament loss of freedoms](https://www.bbc.co.uk/news/world-asia-58191440) - Afghans in Taliban-controlled provinces describe life under its fundamentalist Islamist rule.
 20. [Climate change: Does Germany produce double the UK's carbon emissions?](https://www.bbc.co.uk/news/58148881) - MP John Redwood claims that, on carbon emissions, Germany "puts out twice as much as we do". Is he right?
-21. [Haiti struck by deadly 7.2-magnitude earthquake](https://www.bbc.co.uk/news/world-latin-america-58216614) - A powerful earthquake has struck the Caribbean nation of Haiti, killing at least 304 people.
-22. [Afghanistan: Journalist Anisa Shaheed refuses to give in to Taliban](https://www.bbc.co.uk/news/world-asia-58175088) - Anisa Shaheed fears women's freedoms will be curbed again if the Taliban come to power.
-23. [Afghanistan in serious danger - President Ghani](https://www.bbc.co.uk/news/world-asia-58213300) - Ashraf Ghani addresses the nation as the Taliban reportedly close in on the Afghan capital, Kabul.
-24. [Afghanistan: Desperation as thousands flee the Taliban](https://www.bbc.co.uk/news/world-asia-58191043) - Yogita Limaye reports from a camp in Kabul where thousands who have been displaced by violence seek refuge.
-25. [Japan floods: Residents rescued as torrential rain threatens homes](https://www.bbc.co.uk/news/world-asia-58216613) - Nearly two million people have been urged to evacuate their homes amid heavy rainfall.
+21. [Taliban spokesman tells BBC they are 'awaiting a peaceful transfer of power'](https://www.bbc.co.uk/news/world-asia-58220305) - The BBC's Yalda Hakim was contacted by a spokesperson for the Taliban, Suhail Shaheen, live on air.
+22. [Haiti struck by deadly 7.2-magnitude earthquake](https://www.bbc.co.uk/news/world-latin-america-58216614) - A powerful earthquake has struck the Caribbean nation of Haiti, killing at least 304 people.
+23. [Afghanistan: Journalist Anisa Shaheed refuses to give in to Taliban](https://www.bbc.co.uk/news/world-asia-58175088) - Anisa Shaheed fears women's freedoms will be curbed again if the Taliban come to power.
+24. [Afghanistan in serious danger - President Ghani](https://www.bbc.co.uk/news/world-asia-58213300) - Ashraf Ghani addresses the nation as the Taliban reportedly close in on the Afghan capital, Kabul.
+25. [Afghanistan: Desperation as thousands flee the Taliban](https://www.bbc.co.uk/news/world-asia-58191043) - Yogita Limaye reports from a camp in Kabul where thousands who have been displaced by violence seek refuge.
