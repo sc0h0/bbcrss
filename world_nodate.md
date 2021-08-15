@@ -18,8 +18,8 @@
 18. [Myanmar: The woman who jumped to her death while fleeing police](https://www.bbc.co.uk/news/world-asia-58196465) - Wai Wai Myint was among five people who jumped out of a building while fleeing a police raid in Myanmar.
 19. [Afghans living under Taliban lament loss of freedoms](https://www.bbc.co.uk/news/world-asia-58191440) - Afghans in Taliban-controlled provinces describe life under its fundamentalist Islamist rule.
 20. [Climate change: Does Germany produce double the UK's carbon emissions?](https://www.bbc.co.uk/news/58148881) - MP John Redwood claims that, on carbon emissions, Germany "puts out twice as much as we do". Is he right?
-21. [Afghanistan: Journalist Anisa Shaheed refuses to give in to Taliban](https://www.bbc.co.uk/news/world-asia-58175088) - Anisa Shaheed fears women's freedoms will be curbed again if the Taliban come to power.
-22. [Afghanistan in serious danger - President Ghani](https://www.bbc.co.uk/news/world-asia-58213300) - Ashraf Ghani addresses the nation as the Taliban reportedly close in on the Afghan capital, Kabul.
-23. [Afghanistan: Desperation as thousands flee the Taliban](https://www.bbc.co.uk/news/world-asia-58191043) - Yogita Limaye reports from a camp in Kabul where thousands who have been displaced by violence seek refuge.
-24. [Japan floods: Residents rescued as torrential rain threatens homes](https://www.bbc.co.uk/news/world-asia-58216613) - Nearly two million people have been urged to evacuate their homes amid heavy rainfall.
-25. [Virtual reality: 'There's no max, there's no limit!'](https://www.bbc.co.uk/news/entertainment-arts-58177685) - "There's no max, there's no limit" to virtual reality, so is it the future of live music?
+21. [Haiti struck by deadly 7.2-magnitude earthquake](https://www.bbc.co.uk/news/world-latin-america-58216614) - A powerful earthquake has struck the Caribbean nation of Haiti, killing at least 304 people.
+22. [Afghanistan: Journalist Anisa Shaheed refuses to give in to Taliban](https://www.bbc.co.uk/news/world-asia-58175088) - Anisa Shaheed fears women's freedoms will be curbed again if the Taliban come to power.
+23. [Afghanistan in serious danger - President Ghani](https://www.bbc.co.uk/news/world-asia-58213300) - Ashraf Ghani addresses the nation as the Taliban reportedly close in on the Afghan capital, Kabul.
+24. [Afghanistan: Desperation as thousands flee the Taliban](https://www.bbc.co.uk/news/world-asia-58191043) - Yogita Limaye reports from a camp in Kabul where thousands who have been displaced by violence seek refuge.
+25. [Japan floods: Residents rescued as torrential rain threatens homes](https://www.bbc.co.uk/news/world-asia-58216613) - Nearly two million people have been urged to evacuate their homes amid heavy rainfall.
