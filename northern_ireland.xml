@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 15 Aug 2021 13:18:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Aug 2021 13:32:45 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -51,6 +51,13 @@
             <pubDate>Sun, 15 Aug 2021 05:51:49 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid-19: Three more deaths and 1,294 new cases]]></title>
+            <description><![CDATA[Covid-19 linked deaths are reported by counting patients who die within 28 days of testing positive.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58221967</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58221967</guid>
+            <pubDate>Sun, 15 Aug 2021 13:27:46 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Six cars burnt out in Lisburn arson attack]]></title>
             <description><![CDATA[It happened at a business premises on Barnfield Road in the early hours of Saturday.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58216995</link>
@@ -84,13 +91,6 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58175159</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58175159</guid>
             <pubDate>Thu, 12 Aug 2021 14:40:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Irish Paralympian's wheelchair broken on plane]]></title>
-            <description><![CDATA[Irish Para-swimmer Patrick Flanagan's wheelchair is left "completely broken" following a flight to Heathrow en route to the Tokyo Games.]]></description>
-            <link>https://www.bbc.co.uk/sport/disability-sport/58214675</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/disability-sport/58214675</guid>
-            <pubDate>Sat, 14 Aug 2021 11:50:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Antiques Roadshow looking for hidden NI treasures]]></title>
@@ -231,6 +231,13 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58173472</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58173472</guid>
             <pubDate>Wed, 11 Aug 2021 12:04:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Irish Paralympian's wheelchair broken on plane]]></title>
+            <description><![CDATA[Irish Para-swimmer Patrick Flanagan's wheelchair is left "completely broken" following a flight to Heathrow en route to the Tokyo Games.]]></description>
+            <link>https://www.bbc.co.uk/sport/disability-sport/58214675</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/disability-sport/58214675</guid>
+            <pubDate>Sat, 14 Aug 2021 11:50:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Limerick: Pair held on suspicion of boy's murder freed]]></title>
