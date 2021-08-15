@@ -1,4 +1,4 @@
-1. [Haiti struck by deadly 7.2-magnitude earthquake](https://www.bbc.co.uk/news/world-latin-america-58215631) - At least 304 people are killed, and many more injured, by the powerful earthquake.
+1. [Haiti struck by deadly 7.2-magnitude earthquake](https://www.bbc.co.uk/news/world-latin-america-58215631) - At least 304 people are killed and more than 1800 injured by the powerful earthquake.
 2. [Afghan conflict: Taliban take Mazar-i-Sharif, government's last northern stronghold](https://www.bbc.co.uk/news/world-asia-58213848) - The militants head for the Afghan capital after capturing the key city of Mazar-i-Sharif.
 3. [Afghan war: Kabul's young women plead for help as Taliban advance](https://www.bbc.co.uk/news/world-asia-58205062) - They feel abandoned by the democratic world they thought they were part of, writes Yalda Hakim.
 4. [Polish law on property stolen by Nazis angers Israel](https://www.bbc.co.uk/news/world-europe-58218750) - A new law will make it harder for people to recover property lost in World War Two.
