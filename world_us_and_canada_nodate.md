@@ -1,6 +1,6 @@
-1. [Afghanistan: Diplomats hasten exit as Taliban near Kabul](https://www.bbc.co.uk/news/world-asia-58206400) - US troops arrive to help with evacuation efforts as militants seize a city an hour's drive from Kabul.
-2. [Nanci Griffith: Folk and country singer-songwriter dies aged 68](https://www.bbc.co.uk/news/entertainment-arts-58212802) - The Grammy-winning artist was best known for her influential career in folk and country music.
-3. [Who is TikTok’s masked vigilante?](https://www.bbc.co.uk/news/blogs-trending-58195065) - Think you’re safe being an anonymous TikTok troll or cyber bully? Meet your worst nightmare.
+1. ['This was a race and we lost': How US doctors really feel about Covid surge](https://www.bbc.co.uk/news/world-us-canada-58208721) - Healthcare workers react to the growing rise of Covid patients in US hospitals despite vaccines.
+2. [Who is TikTok’s masked vigilante?](https://www.bbc.co.uk/news/blogs-trending-58195065) - Think you’re safe being an anonymous TikTok troll or cyber bully? Meet your worst nightmare.
+3. [Nanci Griffith: Folk and country singer-songwriter dies aged 68](https://www.bbc.co.uk/news/entertainment-arts-58212802) - The Grammy-winning artist was best known for her influential career in folk and country music.
 4. [Climate change: July world's hottest month ever recorded - US agency](https://www.bbc.co.uk/news/world-us-canada-58208792) - US scientists say July's land and ocean temperature was 0.93C (1.68F) above the 20th Century average.
 5. [Three Florida teachers die of Covid, says union](https://www.bbc.co.uk/news/world-us-canada-58204206) - They are said to have died from Covid-19 related complications - days before the school year begins.
 6. [Nicki Minaj and husband Kenneth Petty sued by sex assault victim](https://www.bbc.co.uk/news/world-us-canada-58209403) - The woman claims the couple harassed her to try to make her recant accusations against Kenneth Petty.
