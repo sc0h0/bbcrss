@@ -12,7 +12,7 @@
 12. [Will Taliban take country back to past, asks John Simpson](https://www.bbc.co.uk/news/world-58224559) - What sort of nation will Afghanistan be after 2021, asks the BBC's world affairs editor John Simpson.
 13. ['How I found out my dad was a best-selling sex writer'](https://www.bbc.co.uk/news/stories-58171940) - Sara Faith Alterman was always close to her father. Then she learned he was concealing a secret.
 14. [Who is TikTok’s masked vigilante?](https://www.bbc.co.uk/news/blogs-trending-58195065) - Think you’re safe being an anonymous TikTok troll or cyber bully? Meet your worst nightmare.
-15. ['My night in notorious Nazi collaborator Quisling's cabin'](https://www.bbc.co.uk/news/stories-58208551) - When Ben McPherson realised he could rent Vidkun Quisling's cabin, it struck him as weird. His Norwegian wife disagreed.
+15. ['My night in Quisling's cabin'](https://www.bbc.co.uk/news/stories-58208551) - When Ben McPherson realised he could rent Vidkun Quisling's cabin, it struck him as weird. His Norwegian wife disagreed.
 16. ['This was a race and we lost': How US doctors really feel about Covid surge](https://www.bbc.co.uk/news/world-us-canada-58208721) - Healthcare workers react to the growing rise of Covid patients in US hospitals despite vaccines.
 17. [Ethiopia: What do we know about aid going into Tigray?](https://www.bbc.co.uk/news/58189049) - Who's preventing desperately needed aid supplies reaching Ethiopia's Tigray region?
 18. [Myanmar: The woman who jumped to her death while fleeing police](https://www.bbc.co.uk/news/world-asia-58196465) - Wai Wai Myint was among five people who jumped out of a building while fleeing a police raid in Myanmar.
