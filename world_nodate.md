@@ -3,7 +3,7 @@
 3. [Independence Day: Key takeaways from PM Modi's speech](https://www.bbc.co.uk/news/world-asia-india-58196795) - India is celebrating 75 years of independence as it continues to battle coronavirus.
 4. [Polish law on property stolen by Nazis angers Israel](https://www.bbc.co.uk/news/world-europe-58218750) - A new law will make it harder for people to recover property lost in World War Two.
 5. [Japan rain: Nearly two million residents told to seek shelter](https://www.bbc.co.uk/news/world-asia-58212803) - Some provinces are under evacuation alerts as experts warn of "unprecedented" rainfall.
-6. [Turkey floods: Death toll near Black Sea rises to at least 40](https://www.bbc.co.uk/news/world-europe-58200296) - Flash floods in northern Turkey are the country's second natural disaster this month.
+6. [Germany football legend Muller dies aged 75](https://www.bbc.co.uk/sport/football/58222495) - Bayern Munich and Germany legend Gerd Muller has died at the age of 75.
 7. [Zambia election: President claims vote was not free and fair](https://www.bbc.co.uk/news/world-africa-58215507) - Early results show Edgar Lungu, who is seeking a second term, trailing rival Hakainde Hichilema.
 8. [Sri Lankan teenager builds solar-powered tuk-tuk from scraps](https://www.bbc.co.uk/news/world-asia-58192468) - Piranawan, 15, from Sri Lanka spent eight months of his Covid lockdown making his eco-friendly vehicle.
 9. [Australia: New South Wales 'in worst ever Covid situation'](https://www.bbc.co.uk/news/world-australia-58170440) - While case numbers are relatively low, the Australian state's premier has warned of a Covid surge.

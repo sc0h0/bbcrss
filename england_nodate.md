@@ -1,7 +1,7 @@
 1. [Plymouth shooting: Prayers to remember victims](https://www.bbc.co.uk/news/uk-58219415) - Father David Way says it is a time of "shock, sadness and horror" following the shootings.
 2. [Dead police officer and child in Kidderminster were father and son](https://www.bbc.co.uk/news/uk-england-hereford-worcester-58220317) - Colleagues from the West Mercia force name the pair as David Louden, 39, and Harrison, three.
 3. [Esther Dingley: Hiker's partner thanks 'hero' searchers](https://www.bbc.co.uk/news/uk-england-tyne-58221135) - Daniel Colegate pays tribute to French and Spanish teams who looked for his partner Esther Dingley.
-4. [Ravine rescue: Cat's meows alert rescuers to stricken owner](https://www.bbc.co.uk/news/uk-england-cornwall-58217476) - A cat leads rescuers to its 83-year-old owner, who had fallen down a 70ft (21m) ravine.
+4. [Cornwall rescue: Cat's meows alert rescuers to stricken owner](https://www.bbc.co.uk/news/uk-england-cornwall-58217476) - Piran the cat leads rescuers to its 83-year-old owner, who had fallen down a 70ft (21m) ravine.
 5. [Hidden cameras spot New Forest pine marten](https://www.bbc.co.uk/news/uk-england-hampshire-58191770) - A new study aims to discover more about how the rare creatures have bred in the New Forest.
 6. [Four injured in suspected shooting in Camden](https://www.bbc.co.uk/news/uk-england-london-58220601) - Police are called to the Clarence Gardens area on Saturday night following reports of gunshots.
 7. [Jomaa Jerrare: Police get more time to question suspects over lay-by body](https://www.bbc.co.uk/news/uk-england-stoke-staffordshire-58221105) - Police say they believe Jomaa Jerrare was killed and driven to a lay-by where she was set alight.
