@@ -24,4 +24,4 @@
 24. [Dyfodol gwell i sioeau amaethyddol yn sgil llacio](https://www.bbc.co.uk/newyddion/58193752) - Mon, 16 Aug 2021 05:47:58 GMT - Er yn bryderus pwyllgorau sioeau Môn, Tregaron a Phenfro ymhlith y rhai sy'n cynnal digwyddiad yn 2021.
 25. [Cwtogi gŵyl Jazz Aberhonddu yn 'ergyd' i fusnesau](https://www.bbc.co.uk/newyddion/58224589) - Mon, 16 Aug 2021 05:56:35 GMT - Ond mae trefnwyr yn pwysleisio bod angen parhau i fod yn ofalus, tra bo'r pandemig yn parhau.
 26. [Ateb y Galw: Y cerddor Lewys Wyn](https://www.bbc.co.uk/newyddion/58199558) - Mon, 16 Aug 2021 08:29:32 GMT - Y cerddor Lewys Wyn sy'n cael ei holi yr wythnos yma
-27. [Y Bencampwriaeth: Abertawe 0-0 Sheffield United](https://www.bbc.co.uk/newyddion/58209273) - Sun, 15 Aug 2021 08:39:48 GMT - Gêm ddi-sgôr oedd hi rhwng Abertawe a Sheffield United nos Sadwrn yn ne Cymru.
+27. ['Ailstrwythuro sylweddol' i bêl-droed merched yng Nghymru](https://www.bbc.co.uk/newyddion/58209277) - Mon, 16 Aug 2021 10:11:09 GMT - Cymru yw'r wlad gyntaf ym Mhrydain i ddileu'r gair "merched" o enw cynghrair bêl-droed i fenywod.

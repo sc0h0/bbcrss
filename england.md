@@ -1,4 +1,4 @@
-1. [Minute's silence for Plymouth shooting victims](https://www.bbc.co.uk/news/uk-england-devon-58228401) - Mon, 16 Aug 2021 10:03:32 GMT - Five people were killed in the shooting on Thursday before Jake Davison took his own life.
+1. [Minute's silence for Plymouth shooting victims](https://www.bbc.co.uk/news/uk-england-devon-58228401) - Mon, 16 Aug 2021 10:23:08 GMT - Five people were killed in the shooting on Thursday before Jake Davison took his own life.
 2. [Plymouth shootings: Police asked to review gun licence process](https://www.bbc.co.uk/news/uk-58226072) - Mon, 16 Aug 2021 10:03:59 GMT - Police in England and Wales are to assess the legitimacy of existing gun licences.
 3. [Covid: Self-isolation ends for double-jabbed and under-18s](https://www.bbc.co.uk/news/uk-58226678) - Mon, 16 Aug 2021 03:01:19 GMT - Rules change in England and Northern Ireland for contacts of people who test positive for Covid.
 4. [Men hurt in homophobic attack at Birmingham's Gay Village](https://www.bbc.co.uk/news/uk-england-birmingham-58228598) - Mon, 16 Aug 2021 07:59:41 GMT - One of them is knocked unconscious in the assault which began with abuse from a car, police say.
