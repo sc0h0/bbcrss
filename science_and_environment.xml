@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 16 Aug 2021 06:57:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Aug 2021 07:18:28 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -72,20 +72,6 @@
             <pubDate>Wed, 11 Aug 2021 07:21:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How are wildfires linked to climate change?]]></title>
-            <description><![CDATA[A series of major wildfires across the world has hit the headlines - how do they compare to previous years?]]></description>
-            <link>https://www.bbc.co.uk/news/58159451</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/58159451</guid>
-            <pubDate>Wed, 11 Aug 2021 15:38:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Climate change: At-risk nations fear extinction after IPCC report]]></title>
-            <description><![CDATA[The most vulnerable developing countries plead for action after a stark warning from a UN panel.]]></description>
-            <link>https://www.bbc.co.uk/news/world-58064485</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-58064485</guid>
-            <pubDate>Mon, 09 Aug 2021 17:11:45 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Chameleon-like camouflage made for soft robot]]></title>
             <description><![CDATA[Researchers develop a robot that changes colour in response to its background.]]></description>
             <link>https://www.bbc.co.uk/news/technology-58159730</link>
@@ -93,25 +79,11 @@
             <pubDate>Tue, 10 Aug 2021 17:55:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Climate change: IPCC report is 'code red for humanity']]></title>
-            <description><![CDATA[Heating from humans has caused irreparable damage to the Earth that may get worse in coming decades.]]></description>
-            <link>https://www.bbc.co.uk/news/science-environment-58130705</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-58130705</guid>
-            <pubDate>Mon, 09 Aug 2021 10:22:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Climate change: Five things we have learned from the IPCC report]]></title>
-            <description><![CDATA[What are the key takeaways from the IPCC new study on the science of climate change?]]></description>
-            <link>https://www.bbc.co.uk/news/science-environment-58138714</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-58138714</guid>
-            <pubDate>Mon, 09 Aug 2021 12:41:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Artificial Intelligence may diagnose dementia in a day]]></title>
-            <description><![CDATA[The system being tested should spot the disease long before symptoms or obvious brain signs develop.]]></description>
-            <link>https://www.bbc.co.uk/news/health-57934589</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-57934589</guid>
-            <pubDate>Tue, 10 Aug 2021 04:28:59 GMT</pubDate>
+            <title><![CDATA[Climate Check: Why a warmer world will also be wetter]]></title>
+            <description><![CDATA[Human activity is causing unprecedented changes in our climate - that's the main message in the latest report from the IPCC. In this month's Climate Check, Ben Rich explains why a warmer world will also be a wetter one.]]></description>
+            <link>https://www.bbc.co.uk/weather/features/58178774</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/weather/features/58178774</guid>
+            <pubDate>Wed, 11 Aug 2021 16:07:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Extreme weather: How is it connected to climate change?]]></title>
@@ -121,53 +93,32 @@
             <pubDate>Mon, 09 Aug 2021 14:34:30 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Climate change: Five things we have learned from the IPCC report]]></title>
+            <description><![CDATA[What are the key takeaways from the IPCC new study on the science of climate change?]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-58138714</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-58138714</guid>
+            <pubDate>Mon, 09 Aug 2021 12:41:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Climate change: IPCC report is 'code red for humanity']]></title>
+            <description><![CDATA[Heating from humans has caused irreparable damage to the Earth that may get worse in coming decades.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-58130705</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-58130705</guid>
+            <pubDate>Mon, 09 Aug 2021 10:22:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Climate change: At-risk nations fear extinction after IPCC report]]></title>
+            <description><![CDATA[The most vulnerable developing countries plead for action after a stark warning from a UN panel.]]></description>
+            <link>https://www.bbc.co.uk/news/world-58064485</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-58064485</guid>
+            <pubDate>Mon, 09 Aug 2021 17:11:45 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Climate change: Make coal history says PM after climate warning]]></title>
             <description><![CDATA[Boris Johnson calls for a shift towards clean energy sources after "sobering" report on climate change.]]></description>
             <link>https://www.bbc.co.uk/news/uk-58144779</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58144779</guid>
             <pubDate>Mon, 09 Aug 2021 15:32:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Earth Photo 2021 winners announced]]></title>
-            <description><![CDATA[A project on family education wins the 2021 Earth Photo competition.]]></description>
-            <link>https://www.bbc.co.uk/news/in-pictures-58103283</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/in-pictures-58103283</guid>
-            <pubDate>Tue, 10 Aug 2021 00:09:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Climate change: Time running out to stop catastrophe - Alok Sharma]]></title>
-            <description><![CDATA[Despite his warning, the Tory climate chief does not rule out future fossil fuel projects in the UK.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58132939</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58132939</guid>
-            <pubDate>Sun, 08 Aug 2021 13:19:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Greece wildfires: Evia island residents forced to evacuate]]></title>
-            <description><![CDATA[Hundreds on the island of Evia flee to safety by sea as a record heatwave sparks devastating fires.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58141336</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58141336</guid>
-            <pubDate>Mon, 09 Aug 2021 15:14:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Climate change: Low-income countries 'can't keep up' with impacts]]></title>
-            <description><![CDATA[Officials warn that the severity of natural disasters is outpacing efforts to prevent their damage.]]></description>
-            <link>https://www.bbc.co.uk/news/world-58080083</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-58080083</guid>
-            <pubDate>Sat, 07 Aug 2021 23:04:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why China's climate policy matters to us all]]></title>
-            <description><![CDATA[The global battle against climate change is likely to be won or lost in China.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-china-57483492</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-57483492</guid>
-            <pubDate>Sun, 08 Aug 2021 23:01:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[COP26: Minister says summit must be a turning point]]></title>
-            <description><![CDATA[Zac Goldsmith says COP26 must be a "turning point", despite warnings that costs of tackling climate change will hit poor families.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-58144227</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-58144227</guid>
-            <pubDate>Mon, 09 Aug 2021 10:32:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[UK military opens first space command centre]]></title>
@@ -203,6 +154,13 @@
             <link>https://www.bbc.co.uk/news/world-africa-58119653</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-58119653</guid>
             <pubDate>Tue, 10 Aug 2021 23:02:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How are wildfires linked to climate change?]]></title>
+            <description><![CDATA[A series of major wildfires across the world has hit the headlines - how do they compare to previous years?]]></description>
+            <link>https://www.bbc.co.uk/news/58159451</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/58159451</guid>
+            <pubDate>Wed, 11 Aug 2021 15:38:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Climate change: How to be more eco-friendly in everyday life]]></title>

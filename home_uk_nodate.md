@@ -4,11 +4,11 @@
 4. [Social media fraud: The influencers promoting criminal scams](https://www.bbc.co.uk/news/uk-58223499) - BBC Panorama investigates a new generation of fraudster that openly uses social media to promote crime.
 5. [Covid: Self-isolation changes and Scotland goes back to school](https://www.bbc.co.uk/news/uk-58225087) - Five things you need to know about the coronavirus pandemic this Monday morning.
 6. [Plymouth shootings: Police asked to review gun licence process](https://www.bbc.co.uk/news/uk-58226072) - Police in England and Wales are to assess the legitimacy of existing gun licences.
-7. [Tokyo 2020: Team GB given star-studded homecoming](https://www.bbc.co.uk/news/uk-58226232) - Athletes attended a concert at London's SSE Arena, Wembley, to mark their return from Tokyo.
-8. [Haiti earthquake: Rescuers search for survivors as death toll climbs to 1,297](https://www.bbc.co.uk/news/world-latin-america-58222888) - More than 1,200 people are known to have died after a powerful earthquake hit the nation on Saturday.
-9. [Japan's economy bounced back ahead of the Olympics, data shows](https://www.bbc.co.uk/news/business-58227096) - Analysts have warned recovery will be modest this quarter after a state of emergency was re-imposed.
-10. [Canada election: Trudeau calls snap summer campaign](https://www.bbc.co.uk/news/world-us-canada-58209031) - As Prime Minister Justin Trudeau goes to the polls two years early, here's what you need to know.
-11. [Woman seriously injured by her dog in attack](https://www.bbc.co.uk/news/uk-england-nottinghamshire-58224546) - She was injured when her American bulldog turned on a child then attacked her as she intervened.
+7. [Minute's silence for Plymouth shooting victims](https://www.bbc.co.uk/news/uk-england-devon-58228401) - Five people were killed in the shooting on Thursday before Jake Davison took his own life.
+8. [Tokyo 2020: Team GB given star-studded homecoming](https://www.bbc.co.uk/news/uk-58226232) - Athletes attended a concert at London's SSE Arena, Wembley, to mark their return from Tokyo.
+9. [Haiti earthquake: Rescuers search for survivors as death toll climbs to 1,297](https://www.bbc.co.uk/news/world-latin-america-58222888) - More than 1,200 people are known to have died after a powerful earthquake hit the nation on Saturday.
+10. [Japan's economy bounced back ahead of the Olympics, data shows](https://www.bbc.co.uk/news/business-58227096) - Analysts have warned recovery will be modest this quarter after a state of emergency was re-imposed.
+11. [Canada election: Trudeau calls snap summer campaign](https://www.bbc.co.uk/news/world-us-canada-58209031) - As Prime Minister Justin Trudeau goes to the polls two years early, here's what you need to know.
 12. [India's dancing cop becomes internet star](https://www.bbc.co.uk/news/world-asia-india-58184026) - An Indian police officer has become a social media sensation because of his viral dance videos.
 13. [Chaotic scenes at Kabul airport](https://www.bbc.co.uk/news/world-asia-58226712) - Footage from social media show people crowding onto a plane as the Taliban entered the city.
 14. [Will Taliban take country back to past, asks John Simpson](https://www.bbc.co.uk/news/world-58224559) - What sort of nation will Afghanistan be after 2021, asks the BBC's world affairs editor John Simpson.
