@@ -11,16 +11,16 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 16 Aug 2021 16:33:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Aug 2021 17:01:21 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
             <title><![CDATA[Hundreds more Britons and Afghans to arrive in UK]]></title>
-            <description><![CDATA[The foreign secretary also says the UK will "have to deal with the new reality" in Afghanistan.]]></description>
+            <description><![CDATA[Nearly 2,000 Afghans who worked with UK troops have already been evacuated on UK flights.]]></description>
             <link>https://www.bbc.co.uk/news/uk-58235707</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58235707</guid>
-            <pubDate>Mon, 16 Aug 2021 16:28:16 GMT</pubDate>
+            <pubDate>Mon, 16 Aug 2021 16:55:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Malala: 'Futures of Afghan child refugees aren't lost']]></title>
@@ -268,6 +268,13 @@
             <pubDate>Mon, 16 Aug 2021 14:59:26 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Hakainde Hichilema: The Zambian 'cattle boy' who became president]]></title>
+            <description><![CDATA[After six attempts, Hakainde Hichilema has finally become president of Zambia.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-58229710</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-58229710</guid>
+            <pubDate>Mon, 16 Aug 2021 16:29:39 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Social media fraud: The influencers promoting criminal scams]]></title>
             <description><![CDATA[BBC Panorama investigates a new generation of fraudster that openly uses social media to promote crime.]]></description>
             <link>https://www.bbc.co.uk/news/uk-58223499</link>
@@ -366,6 +373,13 @@
             <pubDate>Mon, 16 Aug 2021 12:53:42 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[England v India: Mohammed Siraj dismisses Moeen Ali and Sam Curran in two balls]]></title>
+            <description><![CDATA[Watch as India's Mohammed Siraj removes England's Moeen Ali for 13 and Sam Curran for a golden duck in back-to-back deliveries on the final day of the second Test at Lord's.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/cricket/58236895</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/cricket/58236895</guid>
+            <pubDate>Mon, 16 Aug 2021 16:37:50 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[England v India: Jasprit Bumrah removes Joe Root with Virat Kohli catch for 33]]></title>
             <description><![CDATA[England skipper Joe Root edges Jasprit Bumrah's delivery to Virat Kohli in the slips to give India a potentially pivotal wicket on the final day at Lord's.]]></description>
             <link>https://www.bbc.co.uk/sport/av/cricket/58235121</link>
@@ -373,18 +387,11 @@
             <pubDate>Mon, 16 Aug 2021 15:21:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[England v India: Ishant Sharma removes Jonny Bairstow for two after lbw review]]></title>
-            <description><![CDATA[Watch as India's Ishant Sharma removes Jonny Bairstow lbw for two after a successful review to increase the pressure on England during the final day of the second Test at Lord's.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/cricket/58235118</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/cricket/58235118</guid>
-            <pubDate>Mon, 16 Aug 2021 15:01:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Paralympics: Spectators will not be allowed at the Games]]></title>
-            <description><![CDATA[Spectators will not be allowed at Paralympic Games events in Tokyo, organisers confirm.]]></description>
-            <link>https://www.bbc.co.uk/sport/disability-sport/58228049</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/disability-sport/58228049</guid>
-            <pubDate>Mon, 16 Aug 2021 11:37:13 GMT</pubDate>
+            <title><![CDATA[Barcelona president Laporta says Spanish club is £1.15bn in debt]]></title>
+            <description><![CDATA[Barcelona president Joan Laporta has revealed the Spanish club is 1.35bn euros (£1.15bn) in debt, describing the situation as "very worrying".]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58235195</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58235195</guid>
+            <pubDate>Mon, 16 Aug 2021 15:41:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Erling Braut Haaland the star for Borussia Dortmund in win against Frankfurt]]></title>

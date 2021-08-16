@@ -25,4 +25,4 @@
 25. [Prisiau tai: Cymru'n gweld y cynnydd uchaf yn y DU](https://www.bbc.co.uk/newyddion/58217949) - Yn ôl un gwefan gwerthu tai mae prisiau wedi cynyddu 10.9% eleni, a 2.3% yn y mis diwethaf yn unig.
 26. [Porth Neigwl: 'Hoffwn weld mwy o arwyddion disgrifiadol'](https://www.bbc.co.uk/newyddion/58235397) - Bryn Dando, llygad-dyst i ymdrechion i achub dyn fu farw ar draeth yn Llŷn, yn galw am fwy o arwyddion diogelwch.
 27. [Liam o Love Island yn rhoi Merthyr ar y map](https://www.bbc.co.uk/newyddion/58202005) - Mae gan Liam Reardon siawns dda o ennill y gyfres ITV yn ôl yr actor Pobol y Cwm, Jacob Oakley.
-28. ['Ailstrwythuro sylweddol' i bêl-droed merched yng Nghymru](https://www.bbc.co.uk/newyddion/58209277) - Cymru yw'r wlad gyntaf ym Mhrydain i ddileu'r gair "merched" o enw cynghrair bêl-droed i fenywod.
+28. [Morgannwg drwodd i ffeinal y Cwpan Undydd ar ôl trechu Essex](https://www.bbc.co.uk/newyddion/58233591) - Joe Cooke yn serennu gyda'r bat a'r bêl er mwyn llywio Morgannwg i rownd derfynol y Cwpan Undydd.

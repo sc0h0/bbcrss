@@ -13,7 +13,7 @@
 13. [Will Taliban take country back to past, asks John Simpson](https://www.bbc.co.uk/news/world-58224559) - What sort of nation will Afghanistan be after 2021, asks the BBC's world affairs editor John Simpson.
 14. [There and back again: The epic adventures of China's wandering elephants](https://www.bbc.co.uk/news/world-asia-china-58196663) - After a mammoth journey across the country the pack of pachyderms are finally heading home.
 15. [Would you let a robot lawyer defend you?](https://www.bbc.co.uk/news/business-58158820) - Why artificial intelligence is increasingly being used by the legal profession.
-16. [Afghanistan conflict: As Kabul falls, Biden backlash grows](https://www.bbc.co.uk/news/world-us-canada-58224399) - Soldiers, statesmen and Afghan-Americans criticise the president - but how will the public react?
+16. [Hakainde Hichilema: The Zambian 'cattle boy' who became president](https://www.bbc.co.uk/news/world-africa-58229710) - After six attempts, Hakainde Hichilema has finally become president of Zambia.
 17. [Nigeria's Kano state moves to ban mannequin heads on Islamic grounds](https://www.bbc.co.uk/news/world-africa-58175709) - The Islamic police in Kano, Nigeria, say shop dummies with heads symbolise "idolatry" and are banned.
 18. ['How I found out my dad was a best-selling sex writer'](https://www.bbc.co.uk/news/stories-58171940) - Sara Faith Alterman was always close to her father. Then she learned he was concealing a secret.
 19. [Afghanistan: Chaotic scenes at Kabul airport](https://www.bbc.co.uk/news/world-asia-58226712) - Video shows hundreds of Afghans attempting to escape, as the Taliban took over the capital.
