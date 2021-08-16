@@ -23,6 +23,6 @@
 23. [WRC: Thierry Neuville beats Craig Breen and Elfyn Evans in Ypres](https://www.bbc.co.uk/sport/motorsport/58221373) - Ireland's Craig Breen finished second behind Belgian home favourite Thierrry Neuville in the WRC Ypres Rally, with Welshman Elfyn Evans fourth.
 24. [Prisiau tai: Cymru'n gweld y cynnydd uchaf yn y DU](https://www.bbc.co.uk/newyddion/58217949) - Yn ôl un gwefan gwerthu tai mae prisiau wedi cynyddu 10.9% eleni, a 2.3% yn y mis diwethaf yn unig.
 25. [Dyfodol gwell i sioeau amaethyddol yn sgil llacio](https://www.bbc.co.uk/newyddion/58193752) - Er yn bryderus pwyllgorau sioeau Môn, Tregaron a Phenfro ymhlith y rhai sy'n cynnal digwyddiad yn 2021.
-26. [Charli Britton, drymiwr Edward H. Dafis, wedi marw](https://www.bbc.co.uk/newyddion/58209274) - Teyrngedau i ddrymiwr y band Edward H. Dafis, Charli Britton, sydd wedi marw'n 68 oed.
+26. [Cwtogi gŵyl Jazz Aberhonddu yn 'ergyd' i fusnesau](https://www.bbc.co.uk/newyddion/58224589) - Ond mae trefnwyr yn pwysleisio bod angen parhau i fod yn ofalus, tra bo'r pandemig yn parhau.
 27. [Oriel: Golygfeydd o Eryri sydd ddim ar y cardiau post](https://www.bbc.co.uk/newyddion/58089792) - Delweddau'r ffotograffydd Richard Outram o gymunedau byw Eryri.
 28. [Y Bencampwriaeth: Abertawe 0-0 Sheffield United](https://www.bbc.co.uk/newyddion/58209273) - Gêm ddi-sgôr oedd hi rhwng Abertawe a Sheffield United nos Sadwrn yn ne Cymru.

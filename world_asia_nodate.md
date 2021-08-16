@@ -1,4 +1,4 @@
-1. [Afghanistan conflict: Kabul falls to Taliban as president flees](https://www.bbc.co.uk/news/world-asia-58223231) - The Islamist group has claimed victory in Afghanistan, as residents and diplomats try to escape.
+1. [Afghanistan: US takes control of Kabul airport to evacuate staff from country](https://www.bbc.co.uk/news/world-asia-58227029) - Hundreds of locals rush to flee from the Taliban as US forces secure the airport to evacuate staff.
 2. [There and back again: The epic adventures of China's wandering elephants](https://www.bbc.co.uk/news/world-asia-china-58196663) - After a mammoth journey across the country the pack of pachyderms are finally heading home.
 3. [India's dancing cop becomes internet star](https://www.bbc.co.uk/news/world-asia-india-58184026) - An Indian police officer has become a social media sensation because of his viral dance videos.
 4. [Japan's economy bounced back ahead of the Olympics, data shows](https://www.bbc.co.uk/news/business-58227096) - Analysts have warned recovery will be modest this quarter after a state of emergency was re-imposed.
