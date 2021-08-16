@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 16 Aug 2021 23:19:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Aug 2021 23:38:02 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Afghanistan: Will it become haven for terror with the Taliban in power?]]></title>
+            <description><![CDATA[The Taliban are back, 20 years after being ousted for supporting terror groups. Will they do the same?]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58232041</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58232041</guid>
+            <pubDate>Mon, 16 Aug 2021 23:18:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Afghanistan: US takes control of Kabul airport to evacuate staff]]></title>
             <description><![CDATA[Hundreds of locals fleeing from the Taliban rush on to runways forcing a halt to evacuation flights.]]></description>
@@ -42,13 +49,6 @@
             <link>https://www.bbc.co.uk/news/world-asia-india-58220021</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-58220021</guid>
             <pubDate>Mon, 16 Aug 2021 07:47:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[There and back again: The epic adventures of China's wandering elephants]]></title>
-            <description><![CDATA[After a mammoth journey across the country the pack of pachyderms are finally heading home.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-china-58196663</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-58196663</guid>
-            <pubDate>Sun, 15 Aug 2021 23:41:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Afghanistan conflict: The Air India flight out on a fateful Sunday]]></title>
@@ -79,11 +79,11 @@
             <pubDate>Fri, 13 Aug 2021 23:06:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Japan rain: Nearly two million residents told to seek shelter]]></title>
-            <description><![CDATA[Some provinces are under evacuation alerts as experts warn of "unprecedented" rainfall.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58212803</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58212803</guid>
-            <pubDate>Sun, 15 Aug 2021 00:12:32 GMT</pubDate>
+            <title><![CDATA[There and back again: The epic adventures of China's wandering elephants]]></title>
+            <description><![CDATA[After a mammoth journey across the country the pack of pachyderms are finally heading home.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-china-58196663</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-58196663</guid>
+            <pubDate>Sun, 15 Aug 2021 23:41:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sri Lankan teenager builds solar-powered tuk-tuk from scraps]]></title>
