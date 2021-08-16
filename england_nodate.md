@@ -1,8 +1,8 @@
 1. [Bottles used as men injured in homophobic attack](https://www.bbc.co.uk/news/uk-england-birmingham-58228598) - One man was knocked unconscious in an attack which began with abuse being shouted from inside a car.
-2. [Leeds murder police in hunt for victim's husband](https://www.bbc.co.uk/news/uk-england-leeds-58229255) - Eileen Barrott died at the scene in Whinmoor on Sunday evening and police wish to trace her husband.
-3. ['Rogue wave' sweeps man to death in Cornwall](https://www.bbc.co.uk/news/uk-england-cornwall-58232665) - An inquest concludes that Tyler Westlake, who was swept off rocks while fishing, died accidentally.
+2. [Ardingly: Six children and one parent hit by car at school](https://www.bbc.co.uk/news/uk-england-sussex-58234999) - A child is flown to hospital after several children and a parent are hit by a car at a school.
+3. [Leeds murder police in hunt for victim's husband](https://www.bbc.co.uk/news/uk-england-leeds-58229255) - Eileen Barrott died at the scene in Whinmoor on Sunday evening and police wish to trace her husband.
 4. [Moped rider to tour UK's rude place names](https://www.bbc.co.uk/news/uk-england-58229967) - Paul Taylor will visit towns such as Shitterton and Cockpole Green on the 1,800-mile charity tour.
-5. [Ardingly: Six children and one parent hit by car at school](https://www.bbc.co.uk/news/uk-england-sussex-58234999) - A child is flown to hospital after several children and a parent are hit by a car at a school.
+5. ['Rogue wave' sweeps man to death in Cornwall](https://www.bbc.co.uk/news/uk-england-cornwall-58232665) - An inquest concludes that Tyler Westlake, who was swept off rocks while fishing, died accidentally.
 6. [Mark Chilman jailed for murdering ex's new partner and setting body on fire](https://www.bbc.co.uk/news/uk-england-hereford-worcester-58233001) - Mark Chilman set his victim's car on fire in a bid to make it look like suicide, the court hears.
 7. [Otter cub found in stream 'crying for mother' rescued by RSPCA](https://www.bbc.co.uk/news/uk-england-cumbria-58236045) - A member of the public spotted the young mammal alone and distressed near Windermere.
 8. [Who were the victims?](https://www.bbc.co.uk/news/uk-58202760) - The gunman's mother, Maxine Davison, and three-year-old Sophie Martyn have been named among the dead.
