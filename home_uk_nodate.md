@@ -7,7 +7,7 @@
 7. [Haiti earthquake: Rescuers search for survivors as death toll climbs to 1,297](https://www.bbc.co.uk/news/world-latin-america-58222888) - More than 1,200 people are known to have died after a powerful earthquake hit the nation on Saturday.
 8. [UK defence giant Ultra agrees to £2.6bn Cobham takeover](https://www.bbc.co.uk/news/business-58228657) - The deal to buy the major supplier to the Royal Navy is being monitored by the UK government.
 9. [Pingdemic: 'We got close to complete shutdown'](https://www.bbc.co.uk/news/business-58228466) - Businesses say self-isolation rule changes will have a "massive impact" on reducing staff shortages.
-10. [Japan's economy bounced back ahead of the Olympics, data shows](https://www.bbc.co.uk/news/business-58227096) - Analysts have warned recovery will be modest this quarter after a state of emergency was re-imposed.
+10. [Tokyo Paralympics: Spectators will not be allowed at the Games](https://www.bbc.co.uk/sport/disability-sport/58228049) - Spectators will not be allowed at Paralympic Games events in Tokyo, organisers confirm.
 11. [India's dancing cop becomes internet star](https://www.bbc.co.uk/news/world-asia-india-58184026) - An Indian police officer has become a social media sensation because of his viral dance videos.
 12. [Chaos at Kabul airport as thousands of Afghans try to flee Taliban](https://www.bbc.co.uk/news/world-asia-58226712) - Video shows crowds of Afghans attempting to flee, as the Taliban take over the capital.
 13. [Will Taliban take country back to past, asks John Simpson](https://www.bbc.co.uk/news/world-58224559) - What sort of nation will Afghanistan be after 2021, asks the BBC's world affairs editor John Simpson.
