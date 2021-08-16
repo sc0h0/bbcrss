@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 16 Aug 2021 15:57:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Aug 2021 16:34:15 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -37,18 +37,18 @@
             <pubDate>Mon, 16 Aug 2021 14:10:03 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Murder accused 'took body to park in wheelie bin']]></title>
+            <description><![CDATA[A man has appeared in court charged with killing a man then buying bleach and lighter fluid to destroy evidence.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58234921</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58234921</guid>
+            <pubDate>Mon, 16 Aug 2021 16:22:04 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[COP26: Pope Francis will not celebrate Mass during visit to Glasgow]]></title>
             <description><![CDATA[The Catholic leader will not have time for a public celebration during his visit to the summit in Glasgow in November.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58230893</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58230893</guid>
             <pubDate>Mon, 16 Aug 2021 15:30:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Leeds murder police in hunt for victim's husband]]></title>
-            <description><![CDATA[Eileen Barrott died at the scene in Whinmoor on Sunday evening and police wish to trace her husband.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-leeds-58229255</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-leeds-58229255</guid>
-            <pubDate>Mon, 16 Aug 2021 12:51:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['Sexist' email was slap in the face, says former police officers]]></title>
@@ -62,7 +62,14 @@
             <description><![CDATA[A trade body warns of a "perfect storm" as a shortage of drivers and warehouse staff hits beer distribution.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-scotland-business-58194011</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-scotland-business-58194011</guid>
-            <pubDate>Mon, 16 Aug 2021 15:40:18 GMT</pubDate>
+            <pubDate>Mon, 16 Aug 2021 16:26:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Leeds murder police in hunt for victim's husband]]></title>
+            <description><![CDATA[Eileen Barrott died at the scene in Whinmoor on Sunday evening and police wish to trace her husband.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-leeds-58229255</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-leeds-58229255</guid>
+            <pubDate>Mon, 16 Aug 2021 12:51:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[First Orkney golden eagle chicks in almost 40 years perish]]></title>
@@ -247,6 +254,13 @@
             <pubDate>Mon, 16 Aug 2021 07:58:18 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Livingston: Marvin Bartley misses two more games after club's Scottish FA rule breach]]></title>
+            <description><![CDATA[Player-assistant Marvin Bartley will miss two more Livingston games after the club breaches a Scottish FA disciplinary rule.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58232597</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58232597</guid>
+            <pubDate>Mon, 16 Aug 2021 16:11:31 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Scottish League Cup: Holders St Johnstone face Dundee in quarter-finals]]></title>
             <description><![CDATA[Holders St Johnstone will face Dundee in the quarter-finals of this season's Scottish League Cup.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58224773</link>
@@ -266,13 +280,6 @@
             <link>https://www.bbc.co.uk/sport/football/58232805</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58232805</guid>
             <pubDate>Mon, 16 Aug 2021 12:34:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cazoo Classic: Scotland's Calum Hill seals maiden European Tour title]]></title>
-            <description><![CDATA[Scotland's Calum Hill secures his first European Tour title with a one-shot win at the Cazoo Classic in Kent.]]></description>
-            <link>https://www.bbc.co.uk/sport/golf/58223013</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/golf/58223013</guid>
-            <pubDate>Sun, 15 Aug 2021 18:06:53 GMT</pubDate>
         </item>
     </channel>
 </rss>

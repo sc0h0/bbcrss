@@ -1,4 +1,4 @@
-1. [Afghanistan: US takes control of Kabul airport to evacuate staff](https://www.bbc.co.uk/news/world-asia-58227029) - Hundreds of locals rush to flee from the Taliban as US forces secure the airport to evacuate staff.
+1. [Afghanistan: US takes control of Kabul airport to evacuate staff](https://www.bbc.co.uk/news/world-asia-58227029) - Hundreds of locals fleeing from the Taliban rush on to runways forcing a halt to evacuation flights.
 2. [Afghanistan: Life in Kabul after the Taliban victory](https://www.bbc.co.uk/news/world-asia-58232815) - BBC video journalist Malik Mudassir speaks about life in the city after its capture by the Taliban.
 3. [Toutai Kefu: Rugby star and family attacked in their Brisbane home](https://www.bbc.co.uk/news/world-australia-58227126) - Toutai Kefu and three family members suffer "significant injuries" in a suspected botched burglary.
 4. [Meghalaya minister quits amid unrest over former rebel leader's death](https://www.bbc.co.uk/news/world-asia-india-58220021) - A curfew was imposed in the state's capital, Shillong, after protests turned violent on Sunday.

@@ -1,8 +1,8 @@
 1. [Afghanistan: Soldier's mum hopes his death was not in vain](https://www.bbc.co.uk/news/uk-wales-58230075) - Sarah Adams, whose son James Prosser was killed in Afghanistan in 2009, says she is "heartbroken".
 2. [Milad Rouf: Medical student pleads guilty to Brighton acid attack](https://www.bbc.co.uk/news/uk-england-sussex-58232397) - Milad Rouf, from Cardiff, threw sulphuric acid over a young doctor in Brighton in May.
-3. [Wrexham: Attempted murder arrest over 'serious assault'](https://www.bbc.co.uk/news/uk-wales-58227940) - Police said two men were arrested over the attack on Sunday morning.
+3. [Wrexham: Attempted murder arrest over 'serious assault'](https://www.bbc.co.uk/news/uk-wales-58227940) - Police say two men have been arrested over the attack near a supermarket on Sunday morning.
 4. [Hollywood-style sign in Wrexham is a whodunnit](https://www.bbc.co.uk/news/uk-wales-58230790) - The sign was erected on the slag heap at Bersham Bank colliery tip over the weekend.
-5. [Porth Neigwl: More safety measures needed at site of beach death, says witness](https://www.bbc.co.uk/news/uk-wales-58235357) - A man who witnessed an unsuccessful attempt to save a man's life says more warnings are needed.
+5. [Porth Neigwl: More safety measures needed at site of beach death, says witness](https://www.bbc.co.uk/news/uk-wales-58235357) - A man who witnessed an unsuccessful attempt to save a man says more warnings are needed.
 6. [Cardiff man, 19, admits raping woman in Bute park](https://www.bbc.co.uk/news/uk-wales-58227945) - Tyler Higgins is remanded in custody and is due to be sentenced next month.
 7. [House prices in Wales rising highest, says Rightmove](https://www.bbc.co.uk/news/uk-wales-58203740) - A property website says there has been a 10.9% increase in prices this year.
 8. [Towyn: Sikh education call after man handcuffed over dagger](https://www.bbc.co.uk/news/uk-wales-58099624) - His friend says he was humiliated when police were called due to their kirpans.
@@ -23,6 +23,6 @@
 23. [Nathan Broadhead: Everton striker moves to Sunderland on loan](https://www.bbc.co.uk/sport/football/58232246) - Sunderland sign Everton striker Nathan Broadhead on loan for the remainder of the season.
 24. ['Rhy hwyr i wneud dim' am sefyllfa Afghanistan](https://www.bbc.co.uk/newyddion/58228562) - Llywodraethau'r gorllewin wedi bod yn "hanner cysgu" medd cyn aelod o bwyllgor materion tramor San Steffan.
 25. [Prisiau tai: Cymru'n gweld y cynnydd uchaf yn y DU](https://www.bbc.co.uk/newyddion/58217949) - Yn ôl un gwefan gwerthu tai mae prisiau wedi cynyddu 10.9% eleni, a 2.3% yn y mis diwethaf yn unig.
-26. [Dyn yn pledio'n euog i dreisio menyw ym Mharc Bute Caerdydd](https://www.bbc.co.uk/newyddion/58231857) - Bydd Tyler Higgins o ardal Cathays yn cael ei gadw yn y ddalfa nes iddo gael ei ddedfrydu ar 2 Medi.
+26. [Porth Neigwl: 'Hoffwn weld mwy o arwyddion disgrifiadol'](https://www.bbc.co.uk/newyddion/58235397) - Bryn Dando, llygad-dyst i ymdrechion i achub dyn fu farw ar draeth yn Llŷn, yn galw am fwy o arwyddion diogelwch.
 27. [Liam o Love Island yn rhoi Merthyr ar y map](https://www.bbc.co.uk/newyddion/58202005) - Mae gan Liam Reardon siawns dda o ennill y gyfres ITV yn ôl yr actor Pobol y Cwm, Jacob Oakley.
 28. ['Ailstrwythuro sylweddol' i bêl-droed merched yng Nghymru](https://www.bbc.co.uk/newyddion/58209277) - Cymru yw'r wlad gyntaf ym Mhrydain i ddileu'r gair "merched" o enw cynghrair bêl-droed i fenywod.

@@ -17,7 +17,7 @@
 17. [Pegasus: Who are the alleged victims of spyware targeting?](https://www.bbc.co.uk/news/world-57891506) - Jamal Khashoggi's wife and the editor of the Financial Times are among those said to be targeted.
 18. [The referee making Olympic history](https://www.bbc.co.uk/sport/africa/57899407) - The first Arab and African woman to referee 3x3 basketball at the Olympics shares how her Muslim faith has guided her career.
 19. [Why is Israel demolishing homes in East Jerusalem?](https://www.bbc.co.uk/news/world-middle-east-58201218) - Israel says the homes were built without planning permission and it is to try to keep East Jerusalem in order.
-20. [Beirut blast: ‘The day our city exploded’](https://www.bbc.co.uk/news/world-middle-east-58076999) - One year on from the blast that rocked Beirut, no one has yet been made accountable.
-21. [Lebanon blast: ‘Path towards reform irreversible’](https://www.bbc.co.uk/news/world-middle-east-58091119) - We owe it to our people to tackle issues which led to the blast, the ambassador to the UK says.
-22. [The separated refugees brought back together by judo](https://www.bbc.co.uk/news/world-58020945) - Sanda Aldass and Muna Dahouk have trained together since childhood but the war in Syria separated them.
-23. [Lebanon’s descent into darkness](https://www.bbc.co.uk/news/world-middle-east-57988693) - The country's economic crisis has forced some families to move into refugee camps to survive.
+20. [UK military commander: 'We've betrayed' Afghans who helped British troops'](https://www.bbc.co.uk/news/uk-58231760) - Major General Charlie Herbert, a military commander from the UK’s campaign in Afghanistan, has accused the government of betraying Afghans who supported British troops.
+21. [Beirut blast: ‘The day our city exploded’](https://www.bbc.co.uk/news/world-middle-east-58076999) - One year on from the blast that rocked Beirut, no one has yet been made accountable.
+22. [Lebanon blast: ‘Path towards reform irreversible’](https://www.bbc.co.uk/news/world-middle-east-58091119) - We owe it to our people to tackle issues which led to the blast, the ambassador to the UK says.
+23. [The separated refugees brought back together by judo](https://www.bbc.co.uk/news/world-58020945) - Sanda Aldass and Muna Dahouk have trained together since childhood but the war in Syria separated them.
