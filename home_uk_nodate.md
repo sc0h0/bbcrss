@@ -1,5 +1,5 @@
 1. [Afghanistan: US takes control of Kabul airport to evacuate staff from country](https://www.bbc.co.uk/news/world-asia-58227029) - Hundreds of locals rush to flee from the Taliban as US forces secure the airport to evacuate staff.
-2. [UK confident it can get Britons out of Afghanistan, Ben Wallace says](https://www.bbc.co.uk/news/uk-58228190) - There are plans to evacuate hundreds of eligible individuals in the coming days, the defence secretary says.
+2. [UK confident it can get Britons out of Afghanistan, Ben Wallace says](https://www.bbc.co.uk/news/uk-58228190) - There are plans to evacuate hundreds more eligible individuals in the coming days, the defence secretary says.
 3. [Covid: Self-isolation ends for double-jabbed and under-18s](https://www.bbc.co.uk/news/uk-58226678) - Rules change in England and Northern Ireland for contacts of people who test positive for Covid.
 4. [Social media fraud: The influencers promoting criminal scams](https://www.bbc.co.uk/news/uk-58223499) - BBC Panorama investigates a new generation of fraudster that openly uses social media to promote crime.
 5. [Covid: Self-isolation changes and Scotland goes back to school](https://www.bbc.co.uk/news/uk-58225087) - Five things you need to know about the coronavirus pandemic this Monday morning.
@@ -10,7 +10,7 @@
 10. [Japan's economy bounced back ahead of the Olympics, data shows](https://www.bbc.co.uk/news/business-58227096) - Analysts have warned recovery will be modest this quarter after a state of emergency was re-imposed.
 11. [Canada election: Trudeau calls snap summer campaign](https://www.bbc.co.uk/news/world-us-canada-58209031) - As Prime Minister Justin Trudeau goes to the polls two years early, here's what you need to know.
 12. [India's dancing cop becomes internet star](https://www.bbc.co.uk/news/world-asia-india-58184026) - An Indian police officer has become a social media sensation because of his viral dance videos.
-13. [Chaotic scenes at Kabul airport](https://www.bbc.co.uk/news/world-asia-58226712) - Footage from social media show people crowding onto a plane as the Taliban entered the city.
+13. [Chaotic scenes at Kabul airport as Afghans flee Taliban](https://www.bbc.co.uk/news/world-asia-58226712) - Footage from social media shows people crowding on to a plane as the Taliban entered the city.
 14. [Will Taliban take country back to past, asks John Simpson](https://www.bbc.co.uk/news/world-58224559) - What sort of nation will Afghanistan be after 2021, asks the BBC's world affairs editor John Simpson.
 15. [Afghanistan conflict: As Kabul falls, Biden backlash grows](https://www.bbc.co.uk/news/world-us-canada-58224399) - Soldiers, statesmen and Afghan-Americans criticise the president - but how will the public react?
 16. [Afghanistan: People flee Kabul as Taliban overrun cities](https://www.bbc.co.uk/news/world-middle-east-58225187) - Roads out of the Afghan capital have been choked with traffic as people try to escape a Taliban takeover.

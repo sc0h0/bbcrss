@@ -4,7 +4,7 @@
 4. [Why is Israel demolishing homes in East Jerusalem?](https://www.bbc.co.uk/news/world-middle-east-58201218) - Israel says the homes were built without planning permission and it is to try to keep East Jerusalem in order.
 5. [Canada election: Trudeau calls snap summer campaign](https://www.bbc.co.uk/news/world-us-canada-58209031) - As Prime Minister Justin Trudeau goes to the polls two years early, here's what you need to know.
 6. [Japan's economy bounced back ahead of the Olympics, data shows](https://www.bbc.co.uk/news/business-58227096) - Analysts have warned recovery will be modest this quarter after a state of emergency was re-imposed.
-7. [Zambia election: Opposition candidate Hakainde Hichilema declared winner](https://www.bbc.co.uk/news/world-africa-58226695) - Hakainde Hichilema wins a landslide victory over incumbent President Edgar Lungu.
+7. [Zambia election: Hakainde Hichilema beats President Edgar Lungu](https://www.bbc.co.uk/news/world-africa-58226695) - Hakainde Hichilema wins a landslide victory over incumbent Edgar Lungu, in his sixth presidential run.
 8. [Germany football legend Muller dies aged 75](https://www.bbc.co.uk/sport/football/58222495) - Bayern Munich and Germany legend Gerd Muller dies at the age of 75.
 9. [India's dancing cop becomes internet star](https://www.bbc.co.uk/news/world-asia-india-58184026) - An Indian police officer has become a social media sensation because of his viral dance videos.
 10. [Japan rain: Nearly two million residents told to seek shelter](https://www.bbc.co.uk/news/world-asia-58212803) - Some provinces are under evacuation alerts as experts warn of "unprecedented" rainfall.
