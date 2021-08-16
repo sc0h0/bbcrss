@@ -1,4 +1,4 @@
-1. [Afghanistan conflict: Kabul falls to Taliban as president flees](https://www.bbc.co.uk/news/world-asia-58223231) - Afghanistan has effectively fallen to the Islamist group, as residents and diplomats try to escape.
+1. [Afghanistan conflict: Kabul falls to Taliban as president flees](https://www.bbc.co.uk/news/world-asia-58223231) - The Islamist group has taken over the presidential palace, as residents and diplomats try to escape.
 2. [No one wants Afghanistan to become breeding ground for terror - PM](https://www.bbc.co.uk/news/uk-58224383) - Boris Johnson calls on "like-minded" powers to not recognise any new government without agreement.
 3. [Haiti earthquake: Rescuers search for survivors as death toll climbs to 1,297](https://www.bbc.co.uk/news/world-latin-america-58222888) - More than 1,200 people are known to have died after a powerful earthquake hit the nation on Saturday.
 4. [Plymouth shootings: Police asked to review gun licence process](https://www.bbc.co.uk/news/uk-58226072) - Police in England and Wales to assess legitimacy of existing gun licences as a matter of urgency.
