@@ -11,10 +11,31 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 16 Aug 2021 22:45:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Aug 2021 23:09:51 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[No need to swap data for drinks, says privacy body]]></title>
+            <description><![CDATA[Some pub ordering apps ask too many questions, but you can refuse, says the information watchdog.]]></description>
+            <link>https://www.bbc.co.uk/news/business-58230932</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58230932</guid>
+            <pubDate>Mon, 16 Aug 2021 23:00:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid testing is rip-off, says former regulator]]></title>
+            <description><![CDATA[Lord Tyrie, ex-boss of the competition watchdog, says it was slow to react to complaints about providers.]]></description>
+            <link>https://www.bbc.co.uk/news/business-58200203</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58200203</guid>
+            <pubDate>Mon, 16 Aug 2021 23:00:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What next for Afghanistan's economy?]]></title>
+            <description><![CDATA[Now that the Taliban are back in control of the country, can its financial system function?]]></description>
+            <link>https://www.bbc.co.uk/news/business-58235185</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58235185</guid>
+            <pubDate>Mon, 16 Aug 2021 23:01:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bezos sues Nasa over its deal with Elon Musk's SpaceX]]></title>
             <description><![CDATA[Mr Bezos's Blue Origin says it was unfairly treated after being excluded from lunar landing contract.]]></description>
@@ -30,18 +51,11 @@
             <pubDate>Mon, 16 Aug 2021 14:49:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Parcel delivery texts now the most common con-trick]]></title>
-            <description><![CDATA[Text messages asking for a fee to deliver a package are responsible for most "smishing" fraud.]]></description>
-            <link>https://www.bbc.co.uk/news/business-58233743</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58233743</guid>
-            <pubDate>Mon, 16 Aug 2021 14:13:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[UK defence giant Ultra agrees to £2.6bn Cobham takeover]]></title>
-            <description><![CDATA[The deal to buy the major supplier to the Royal Navy is being monitored by the UK government.]]></description>
-            <link>https://www.bbc.co.uk/news/business-58228657</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58228657</guid>
-            <pubDate>Mon, 16 Aug 2021 11:20:37 GMT</pubDate>
+            <title><![CDATA[Afghanistan conflict: Airlines reroute flights out of Afghan airspace]]></title>
+            <description><![CDATA[Virgin Atlantic made its last journey over the region on Sunday while Emirates has suspended flights.]]></description>
+            <link>https://www.bbc.co.uk/news/business-58228470</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58228470</guid>
+            <pubDate>Mon, 16 Aug 2021 14:53:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Pingdemic: 'We got close to complete shutdown']]></title>
@@ -51,11 +65,18 @@
             <pubDate>Mon, 16 Aug 2021 14:07:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Afghanistan conflict: Airlines reroute flights out of Afghan airspace]]></title>
-            <description><![CDATA[Virgin Atlantic made its last journey over the region on Sunday while Emirates has suspended flights.]]></description>
-            <link>https://www.bbc.co.uk/news/business-58228470</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58228470</guid>
-            <pubDate>Mon, 16 Aug 2021 14:53:04 GMT</pubDate>
+            <title><![CDATA[UK defence giant Ultra agrees to £2.6bn Cobham takeover]]></title>
+            <description><![CDATA[The deal to buy the major supplier to the Royal Navy is being monitored by the UK government.]]></description>
+            <link>https://www.bbc.co.uk/news/business-58228657</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58228657</guid>
+            <pubDate>Mon, 16 Aug 2021 11:20:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Parcel delivery texts now the most common con-trick]]></title>
+            <description><![CDATA[Text messages asking for a fee to deliver a package are responsible for most "smishing" fraud.]]></description>
+            <link>https://www.bbc.co.uk/news/business-58233743</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58233743</guid>
+            <pubDate>Mon, 16 Aug 2021 14:13:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[New powers sought to stop illegal ticket resales]]></title>
@@ -84,27 +105,6 @@
             <link>https://www.bbc.co.uk/news/business-58227096</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58227096</guid>
             <pubDate>Mon, 16 Aug 2021 06:25:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Efforts to curb energy tariffs 'greenwashing']]></title>
-            <description><![CDATA[The government is reviewing whether all so-called green tariffs are really good for the environment.]]></description>
-            <link>https://www.bbc.co.uk/news/business-58222808</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58222808</guid>
-            <pubDate>Sun, 15 Aug 2021 22:25:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Streaming service DAZN seeks to shake up TV sport]]></title>
-            <description><![CDATA[Boss James Rushton has ambitious expansion plans for the service dubbed "the Netflix of sport".]]></description>
-            <link>https://www.bbc.co.uk/news/business-58219424</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58219424</guid>
-            <pubDate>Sun, 15 Aug 2021 23:01:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CCTV watchdog criticises Hikvision Uyghur response]]></title>
-            <description><![CDATA[UK surveillance camera commissioner criticises failure to answer "basic questions".]]></description>
-            <link>https://www.bbc.co.uk/news/technology-58188325</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-58188325</guid>
-            <pubDate>Sat, 14 Aug 2021 08:16:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Would you let a robot lawyer defend you?]]></title>
