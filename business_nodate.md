@@ -1,23 +1,24 @@
-1. [Parcel delivery texts now the most common con-trick](https://www.bbc.co.uk/news/business-58233743) - Text messages asking for a fee to deliver a package are responsible for most "smishing" fraud.
-2. [Afghanistan conflict: Airlines reroute flights out of Afghan airspace](https://www.bbc.co.uk/news/business-58228470) - Virgin Atlantic made its last journey over the region on Sunday while Emirates has suspended flights.
-3. [UK defence giant Ultra agrees to £2.6bn Cobham takeover](https://www.bbc.co.uk/news/business-58228657) - The deal to buy the major supplier to the Royal Navy is being monitored by the UK government.
-4. [Pingdemic: 'We got close to complete shutdown'](https://www.bbc.co.uk/news/business-58228466) - Businesses say self-isolation rule changes will have a "massive impact" on reducing staff shortages.
-5. [New powers sought to stop illegal ticket resales](https://www.bbc.co.uk/news/business-58225568) - The UK's competition watchdog is calling for stronger laws to act quickly against touts.
-6. [House prices fall for first time this year](https://www.bbc.co.uk/news/business-58206513) - Average prices dropped by 0.3% in August, says Rightmove, as demand for bigger houses shrinks.
-7. [How do couples handle awkward chats about money?](https://www.bbc.co.uk/news/business-58176219) - From squabbles and lies to what they'd do if they won the lottery, we pose the awkward questions.
-8. [Efforts to curb energy tariffs 'greenwashing'](https://www.bbc.co.uk/news/business-58222808) - The government is reviewing whether all so-called green tariffs are really good for the environment.
-9. [Streaming service DAZN seeks to shake up TV sport](https://www.bbc.co.uk/news/business-58219424) - Boss James Rushton has ambitious expansion plans for the service dubbed "the Netflix of sport".
-10. [Japan's economy bounced back ahead of the Olympics, data shows](https://www.bbc.co.uk/news/business-58227096) - Analysts have warned recovery will be modest this quarter after a state of emergency was re-imposed.
-11. [CCTV watchdog criticises Hikvision Uyghur response](https://www.bbc.co.uk/news/technology-58188325) - UK surveillance camera commissioner criticises failure to answer "basic questions".
-12. [Cost of NHS Covid tests for UK arrivals reduced](https://www.bbc.co.uk/news/business-58206517) - Sajid Javid reduces the cost of NHS travel tests ahead of a review into the pricing of all test providers.
-13. [Will I ever be able to fly without feeling guilty again?](https://www.bbc.co.uk/news/business-57917193) - More efficient planes and sustainable fuels could lower air travel's impact, but not for a while.
-14. [Lord of the Rings: Amazon moves show to UK from New Zealand](https://www.bbc.co.uk/news/business-58196473) - The multi-million dollar production is one of the most expensive shows in the history of television.
-15. [Firms want help to measure their carbon footprint](https://www.bbc.co.uk/news/business-58167618) - Many small businesses say they lack the resources needed to calculate their carbon footprint.
-16. [Gatwick in talks with lenders amid Covid losses](https://www.bbc.co.uk/news/business-58200001) - The airport says Covid restrictions and a collapse in customer demand pushed it to a loss.
-17. [How can new technology protect outdoor workers?](https://www.bbc.co.uk/news/business-58049625) - Working outdoors in extreme heat can be deadly, new tech and better protection for workers could help.
-18. [How we can all get more high-quality sleep](https://www.bbc.co.uk/news/business-58148044) - The pandemic has led to a sharp increase in insomnia, but some firms are now helping their staff.
-19. [CEO Secrets: Foot Locker boss shares his advice](https://www.bbc.co.uk/news/business-58101254) - Richard Johnson, CEO of Foot Locker, reflects on the lessons of the pandemic for business leaders.
-20. [Sharing apps are booming but will the kindness continue?](https://www.bbc.co.uk/news/business-57981598) - The pandemic sparked a surge in activity for sharing apps like Olio but has the trend run its course?
-21. [Can technology help authors write a book?](https://www.bbc.co.uk/news/business-58098481) - Writing a novel is notoriously difficult, but technology may give the writer a helping hand.
-22. [The activist entrepreneurs running zero-waste shops](https://www.bbc.co.uk/news/business-57920754) - Environmentally conscious entrepreneurs explain the movement towards zero-waste lifestyles.
-23. [Why artificial intelligence is being used to write adverts](https://www.bbc.co.uk/news/business-57781557) - Advertisers are increasingly using artificial intelligence to come up with their winning slogans.
+1. ['New York vaccine mandate could destroy my restaurant'](https://www.bbc.co.uk/news/business-58204471) - City residents need to be jabbed to use restaurants, gyms and theatres - and businesses are worried.
+2. [Parcel delivery texts now the most common con-trick](https://www.bbc.co.uk/news/business-58233743) - Text messages asking for a fee to deliver a package are responsible for most "smishing" fraud.
+3. [Afghanistan conflict: Airlines reroute flights out of Afghan airspace](https://www.bbc.co.uk/news/business-58228470) - Virgin Atlantic made its last journey over the region on Sunday while Emirates has suspended flights.
+4. [UK defence giant Ultra agrees to £2.6bn Cobham takeover](https://www.bbc.co.uk/news/business-58228657) - The deal to buy the major supplier to the Royal Navy is being monitored by the UK government.
+5. [Pingdemic: 'We got close to complete shutdown'](https://www.bbc.co.uk/news/business-58228466) - Businesses say self-isolation rule changes will have a "massive impact" on reducing staff shortages.
+6. [New powers sought to stop illegal ticket resales](https://www.bbc.co.uk/news/business-58225568) - The UK's competition watchdog is calling for stronger laws to act quickly against touts.
+7. [House prices fall for first time this year](https://www.bbc.co.uk/news/business-58206513) - Average prices dropped by 0.3% in August, says Rightmove, as demand for bigger houses shrinks.
+8. [How do couples handle awkward chats about money?](https://www.bbc.co.uk/news/business-58176219) - From squabbles and lies to what they'd do if they won the lottery, we pose the awkward questions.
+9. [Efforts to curb energy tariffs 'greenwashing'](https://www.bbc.co.uk/news/business-58222808) - The government is reviewing whether all so-called green tariffs are really good for the environment.
+10. [Streaming service DAZN seeks to shake up TV sport](https://www.bbc.co.uk/news/business-58219424) - Boss James Rushton has ambitious expansion plans for the service dubbed "the Netflix of sport".
+11. [Japan's economy bounced back ahead of the Olympics, data shows](https://www.bbc.co.uk/news/business-58227096) - Analysts have warned recovery will be modest this quarter after a state of emergency was re-imposed.
+12. [CCTV watchdog criticises Hikvision Uyghur response](https://www.bbc.co.uk/news/technology-58188325) - UK surveillance camera commissioner criticises failure to answer "basic questions".
+13. [Cost of NHS Covid tests for UK arrivals reduced](https://www.bbc.co.uk/news/business-58206517) - Sajid Javid reduces the cost of NHS travel tests ahead of a review into the pricing of all test providers.
+14. [Will I ever be able to fly without feeling guilty again?](https://www.bbc.co.uk/news/business-57917193) - More efficient planes and sustainable fuels could lower air travel's impact, but not for a while.
+15. [Lord of the Rings: Amazon moves show to UK from New Zealand](https://www.bbc.co.uk/news/business-58196473) - The multi-million dollar production is one of the most expensive shows in the history of television.
+16. [Firms want help to measure their carbon footprint](https://www.bbc.co.uk/news/business-58167618) - Many small businesses say they lack the resources needed to calculate their carbon footprint.
+17. [Gatwick in talks with lenders amid Covid losses](https://www.bbc.co.uk/news/business-58200001) - The airport says Covid restrictions and a collapse in customer demand pushed it to a loss.
+18. [How can new technology protect outdoor workers?](https://www.bbc.co.uk/news/business-58049625) - Working outdoors in extreme heat can be deadly, new tech and better protection for workers could help.
+19. [How we can all get more high-quality sleep](https://www.bbc.co.uk/news/business-58148044) - The pandemic has led to a sharp increase in insomnia, but some firms are now helping their staff.
+20. [CEO Secrets: Foot Locker boss shares his advice](https://www.bbc.co.uk/news/business-58101254) - Richard Johnson, CEO of Foot Locker, reflects on the lessons of the pandemic for business leaders.
+21. [Sharing apps are booming but will the kindness continue?](https://www.bbc.co.uk/news/business-57981598) - The pandemic sparked a surge in activity for sharing apps like Olio but has the trend run its course?
+22. [Can technology help authors write a book?](https://www.bbc.co.uk/news/business-58098481) - Writing a novel is notoriously difficult, but technology may give the writer a helping hand.
+23. [The activist entrepreneurs running zero-waste shops](https://www.bbc.co.uk/news/business-57920754) - Environmentally conscious entrepreneurs explain the movement towards zero-waste lifestyles.
+24. [Why artificial intelligence is being used to write adverts](https://www.bbc.co.uk/news/business-57781557) - Advertisers are increasingly using artificial intelligence to come up with their winning slogans.

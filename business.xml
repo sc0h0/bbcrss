@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 16 Aug 2021 14:59:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Aug 2021 15:26:03 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA['New York vaccine mandate could destroy my restaurant']]></title>
+            <description><![CDATA[City residents need to be jabbed to use restaurants, gyms and theatres - and businesses are worried.]]></description>
+            <link>https://www.bbc.co.uk/news/business-58204471</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58204471</guid>
+            <pubDate>Mon, 16 Aug 2021 14:49:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Parcel delivery texts now the most common con-trick]]></title>
             <description><![CDATA[Text messages asking for a fee to deliver a package are responsible for most "smishing" fraud.]]></description>
