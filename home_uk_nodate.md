@@ -6,7 +6,7 @@
 6. [Bezos sues Nasa over its deal with Elon Musk's SpaceX](https://www.bbc.co.uk/news/business-58235479) - Mr Bezos's Blue Origin says it was unfairly treated after being excluded from lunar landing contract.
 7. [Twitter's new design to get fix after headache complaints](https://www.bbc.co.uk/news/technology-58232131) - Unveiled last week, the redesign involved high-contrast colours and a custom-designed font, Chirp.
 8. [Man swept to his death by 'rogue wave' in Cornwall](https://www.bbc.co.uk/news/uk-england-cornwall-58232665) - An inquest concludes that Tyler Westlake, who was swept off rocks while fishing, died accidentally.
-9. [Haiti earthquake: Death toll climbs to 1,297 as storm nears](https://www.bbc.co.uk/news/world-latin-america-58222888) - Tropical Depression Grace is approaching Haiti just days after an earthquake left close to 1,300 dead.
+9. [Haiti earthquake: Death toll climbs as tropical storm nears](https://www.bbc.co.uk/news/world-latin-america-58222888) - Tropical Depression Grace is approaching Haiti just days after a tremor left at least 1,419 dead.
 10. [Polish law on property stolen by Nazis angers Israel](https://www.bbc.co.uk/news/world-europe-58218750) - A new law will make it harder for people to recover property lost in World War Two.
 11. ['Sexist' email was slap in the face, says former police officers](https://www.bbc.co.uk/news/uk-scotland-58235507) - A former Police Scotland firearms officer tells an employment tribunal she wants "accountability for went wrong".
 12. [Abject England lose to India in final hour](https://www.bbc.co.uk/sport/cricket/58235757) - England produce one of their worst home performances in recent memory to lose the second Test against India by 151 runs at Lord's.
