@@ -3,7 +3,7 @@
 3. [Men hurt in homophobic attack at Birmingham's Gay Village](https://www.bbc.co.uk/news/uk-england-birmingham-58228598) - One man was knocked unconscious in an attack which began with abuse being shouted from inside a car.
 4. [Mark Chilman jailed for murdering ex's new partner and setting body on fire](https://www.bbc.co.uk/news/uk-england-hereford-worcester-58233001) - Mark Chilman set his victim's car on fire in a bid to make it look like suicide, the court hears.
 5. [Moped rider tours UK's rude place names](https://www.bbc.co.uk/news/uk-england-58229967) - Paul Taylor will visit towns such as Shitterton and Cockpole Green on the 1,800-mile charity tour.
-6. [Jeff Bezos's space firm sues Nasa over SpaceX deal](https://www.bbc.co.uk/news/business-58235479) - Mr Bezos's Blue Origin says it was unfairly treated after being excluded from lunar landing contract.
+6. [Bezos sues Nasa over its deal with Elon Musk's SpaceX](https://www.bbc.co.uk/news/business-58235479) - Mr Bezos's Blue Origin says it was unfairly treated after being excluded from lunar landing contract.
 7. [Twitter's new design to get fix after headache complaints](https://www.bbc.co.uk/news/technology-58232131) - Unveiled last week, the redesign involved high-contrast colours and a custom-designed font, Chirp.
 8. [Man swept to his death by 'rogue wave' in Cornwall](https://www.bbc.co.uk/news/uk-england-cornwall-58232665) - An inquest concludes that Tyler Westlake, who was swept off rocks while fishing, died accidentally.
 9. [Haiti earthquake: Death toll climbs to 1,297 as storm nears](https://www.bbc.co.uk/news/world-latin-america-58222888) - Tropical Depression Grace is approaching Haiti just days after an earthquake left close to 1,300 dead.

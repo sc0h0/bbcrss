@@ -1,4 +1,4 @@
-1. [Jeff Bezos's space firm sues Nasa over SpaceX deal](https://www.bbc.co.uk/news/business-58235479) - Mr Bezos's Blue Origin says it was unfairly treated after being excluded from lunar landing contract.
+1. [Bezos sues Nasa over its deal with Elon Musk's SpaceX](https://www.bbc.co.uk/news/business-58235479) - Mr Bezos's Blue Origin says it was unfairly treated after being excluded from lunar landing contract.
 2. [Climate change: July world's hottest month ever recorded - US agency](https://www.bbc.co.uk/news/world-us-canada-58208792) - US scientists say July's land and ocean temperature was 0.93C (1.68F) above the 20th Century average.
 3. [There and back again: The epic adventures of China's wandering elephants](https://www.bbc.co.uk/news/world-asia-china-58196663) - After a mammoth journey across the country the pack of pachyderms are finally heading home.
 4. [The zero-power sewage plant inspired by cows](https://www.bbc.co.uk/news/science-environment-58017501) - Fifty sustainable sewage treatment plants have been built that work in similar way to a cow's stomach.
