@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 16 Aug 2021 13:56:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Aug 2021 14:26:22 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -20,14 +20,21 @@
             <description><![CDATA[DUP leader Sir Jeffrey Donaldson says NI has a duty to help civilians who supported the British Army.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58228231</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58228231</guid>
-            <pubDate>Mon, 16 Aug 2021 13:17:00 GMT</pubDate>
+            <pubDate>Mon, 16 Aug 2021 13:57:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: Relaxation of NI self-isolation comes in effect]]></title>
             <description><![CDATA[Fully-vaccinated close contacts of people who have Covid-19 do not need to self-isolate from Monday.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58205347</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58205347</guid>
-            <pubDate>Mon, 16 Aug 2021 05:16:27 GMT</pubDate>
+            <pubDate>Mon, 16 Aug 2021 14:01:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[West Belfast: Biggest ever Féile as NI welcomes back major crowds]]></title>
+            <description><![CDATA[Féile an Phobail director Kevin Gamble says this year's west Belfast festival was the largest ever.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58230108</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58230108</guid>
+            <pubDate>Mon, 16 Aug 2021 14:07:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Londonderry bonfire: Police investigate 'offensive material']]></title>
@@ -98,13 +105,6 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58225227</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58225227</guid>
             <pubDate>Mon, 16 Aug 2021 06:38:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Jack Woolley: Irish Olympian awaiting surgery after Dublin attack]]></title>
-            <description><![CDATA[Irish Olympian Jack Woolley is awaiting surgery after being violently attacked in Dublin on Friday night.]]></description>
-            <link>https://www.bbc.co.uk/sport/taekwondo/58216169</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/taekwondo/58216169</guid>
-            <pubDate>Sat, 14 Aug 2021 14:25:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What are Northern Ireland's Covid-19 rules now?]]></title>
@@ -245,6 +245,13 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58173471</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58173471</guid>
             <pubDate>Wed, 11 Aug 2021 12:40:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jack Woolley: Irish Olympian awaiting surgery after Dublin attack]]></title>
+            <description><![CDATA[Irish Olympian Jack Woolley is awaiting surgery after being violently attacked in Dublin on Friday night.]]></description>
+            <link>https://www.bbc.co.uk/sport/taekwondo/58216169</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/taekwondo/58216169</guid>
+            <pubDate>Sat, 14 Aug 2021 14:25:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Irish Paralympian's wheelchair broken on plane]]></title>

@@ -1,14 +1,14 @@
 1. [Afghanistan: Soldier's mum hopes his death was not in vain](https://www.bbc.co.uk/news/uk-wales-58230075) - Sarah Adams, whose son James Prosser was killed in Afghanistan in 2009, says she is "heart-broken".
 2. [House prices in Wales rising highest, says Rightmove](https://www.bbc.co.uk/news/uk-wales-58203740) - A property website says there has been a 10.9% increase in prices this year.
 3. [Hollywood-style sign in Wrexham is a whodunnit](https://www.bbc.co.uk/news/uk-wales-58230790) - The sign was erected on the slag heap at Bersham Bank colliery tip over the weekend.
-4. [Towyn: Sikh education call after man handcuffed over dagger](https://www.bbc.co.uk/news/uk-wales-58099624) - His friend says he was humiliated when police were called due to their kirpans.
-5. [Call for Covid vaccination focus on under-30s in Wales](https://www.bbc.co.uk/news/uk-wales-58224626) - Nearly 120,000 people under 30 have still not taken up their first vaccine dose.
-6. [Cardiff man, 19, admits raping woman in Bute park](https://www.bbc.co.uk/news/uk-wales-58227945) - Tyler Higgins is remanded in custody and is due to be sentenced next month.
-7. [Seven men from south Wales arrested after attack](https://www.bbc.co.uk/news/uk-northern-ireland-58221966) - A 24-year-old man from Northern Ireland is in a critical but stable condition, police say.
+4. [Milad Rouf: Medical student pleads guilty to Brighton acid attack](https://www.bbc.co.uk/news/uk-england-sussex-58232397) - Milad Rouf, from Cardiff, threw sulphuric acid over a young doctor in Brighton in May.
+5. [Towyn: Sikh education call after man handcuffed over dagger](https://www.bbc.co.uk/news/uk-wales-58099624) - His friend says he was humiliated when police were called due to their kirpans.
+6. [Call for Covid vaccination focus on under-30s in Wales](https://www.bbc.co.uk/news/uk-wales-58224626) - Nearly 120,000 people under 30 have still not taken up their first vaccine dose.
+7. [Cardiff man, 19, admits raping woman in Bute park](https://www.bbc.co.uk/news/uk-wales-58227945) - Tyler Higgins is remanded in custody and is due to be sentenced next month.
 8. [Revamped women's football league revealed](https://www.bbc.co.uk/sport/football/58221934) - The Football Association of Wales has announced the restructured women's football pyramid will be known as the Adran Leagues.
-9. [Huw Edwards considering his future at BBC News at Ten](https://www.bbc.co.uk/news/uk-wales-58224273) - The journalist finds nightly news "taxing" and says it's "fair" viewers see a change in presenters.
-10. [Covid-19: Brecon Jazz defends 'careful' reopening](https://www.bbc.co.uk/news/uk-wales-58224089) - Some businesses have criticised the scaled-back festival, despite an end to social distancing.
-11. [Wrexham: Teenager suffers 'serious injuries'](https://www.bbc.co.uk/news/uk-wales-58224091) - The 18-year-old was taken to hospital after being attacked near the Morrisons supermarket in the town.
+9. [Seven men from south Wales arrested after attack](https://www.bbc.co.uk/news/uk-northern-ireland-58221966) - A 24-year-old man from Northern Ireland is in a critical but stable condition, police say.
+10. [Huw Edwards considering his future at BBC News at Ten](https://www.bbc.co.uk/news/uk-wales-58224273) - The journalist finds nightly news "taxing" and says it's "fair" viewers see a change in presenters.
+11. [Covid-19: Brecon Jazz defends 'careful' reopening](https://www.bbc.co.uk/news/uk-wales-58224089) - Some businesses have criticised the scaled-back festival, despite an end to social distancing.
 12. [Covid in Wales: Rail staff face abuse enforcing mask rules](https://www.bbc.co.uk/news/uk-wales-58205655) - Passengers on trains in Wales must still wear a mask, unlike in England where it is only advised.
 13. [Covid-19: How many windows to keep open to cut virus build-up](https://www.bbc.co.uk/news/uk-wales-58204733) - Opening four windows at lower speeds and only two on the motorway is best, researchers say.
 14. [Reading: Teacher gets stories published after 46 years](https://www.bbc.co.uk/news/uk-wales-58189969) - Keith Godwin used to make up stories for his pupils in the 1970s, now they have been published.
