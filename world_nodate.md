@@ -1,4 +1,4 @@
-1. [Afghanistan: US takes control of Kabul airport to evacuate staff from country](https://www.bbc.co.uk/news/world-asia-58227029) - Hundreds of locals rush to flee from the Taliban as US forces secure the airport to evacuate staff.
+1. [Afghanistan: Life in Kabul after the Taliban victory](https://www.bbc.co.uk/news/world-asia-58232815) - BBC video journalist Malik Mudassir speaks about life in the city after its capture by the Taliban.
 2. [Haiti earthquake: Death toll climbs to 1,297 as storm nears](https://www.bbc.co.uk/news/world-latin-america-58222888) - Tropical Depression Grace is approaching Haiti just days after an earthquake left close to 1,300 dead.
 3. [Lebanon deadly petrol tank blast sparks protest at PM-designate's home](https://www.bbc.co.uk/news/world-middle-east-58229183) - Protesters attack the PM-designate's home after 27 people are killed while queueing for fuel.
 4. [Why is Israel demolishing homes in East Jerusalem?](https://www.bbc.co.uk/news/world-middle-east-58201218) - Israel says the homes were built without planning permission and it is to try to keep East Jerusalem in order.

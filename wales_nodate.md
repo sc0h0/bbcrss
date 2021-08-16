@@ -1,13 +1,13 @@
 1. [Afghanistan: Soldier's mum hopes his death was not in vain](https://www.bbc.co.uk/news/uk-wales-58230075) - Sarah Adams, whose son James Prosser was killed in Afghanistan in 2009, says she is "heart-broken".
 2. [House prices in Wales rising highest, says Rightmove](https://www.bbc.co.uk/news/uk-wales-58203740) - A property website says there has been a 10.9% increase in prices this year.
-3. [Towyn: Sikh education call after man handcuffed over dagger](https://www.bbc.co.uk/news/uk-wales-58099624) - His friend says he was humiliated when police were called due to their kirpans.
-4. [Call for Covid vaccination focus on under-30s in Wales](https://www.bbc.co.uk/news/uk-wales-58224626) - Nearly 120,000 people under 30 have still not taken up their first vaccine dose.
-5. [Cardiff man, 19, admits raping woman in Bute park](https://www.bbc.co.uk/news/uk-wales-58227945) - Tyler Higgins is remanded in custody and is due to be sentenced next month.
-6. [Revamped women's football league revealed](https://www.bbc.co.uk/sport/football/58221934) - The Football Association of Wales has announced the restructured women's football pyramid will be known as the Adran Leagues.
+3. [Hollywood-style sign in Wrexham is a whodunnit](https://www.bbc.co.uk/news/uk-wales-58230790) - The sign was erected on the slag heap at Bersham Bank colliery tip over the weekend.
+4. [Towyn: Sikh education call after man handcuffed over dagger](https://www.bbc.co.uk/news/uk-wales-58099624) - His friend says he was humiliated when police were called due to their kirpans.
+5. [Call for Covid vaccination focus on under-30s in Wales](https://www.bbc.co.uk/news/uk-wales-58224626) - Nearly 120,000 people under 30 have still not taken up their first vaccine dose.
+6. [Cardiff man, 19, admits raping woman in Bute park](https://www.bbc.co.uk/news/uk-wales-58227945) - Tyler Higgins is remanded in custody and is due to be sentenced next month.
 7. [Seven men from south Wales arrested after attack](https://www.bbc.co.uk/news/uk-northern-ireland-58221966) - A 24-year-old man from Northern Ireland is in a critical but stable condition, police say.
-8. [Huw Edwards considering his future at BBC News at Ten](https://www.bbc.co.uk/news/uk-wales-58224273) - The journalist finds nightly news "taxing" and says it's "fair" viewers see a change in presenters.
-9. [Covid-19: Brecon Jazz defends 'careful' reopening](https://www.bbc.co.uk/news/uk-wales-58224089) - Some businesses have criticised the scaled-back festival, despite an end to social distancing.
-10. [Covid: Pop-up campsite rules 'harming communities'](https://www.bbc.co.uk/news/uk-wales-58009261) - Some living near beauty spots say they are dealing with dangerous traffic and fire pits burning all night.
+8. [Revamped women's football league revealed](https://www.bbc.co.uk/sport/football/58221934) - The Football Association of Wales has announced the restructured women's football pyramid will be known as the Adran Leagues.
+9. [Huw Edwards considering his future at BBC News at Ten](https://www.bbc.co.uk/news/uk-wales-58224273) - The journalist finds nightly news "taxing" and says it's "fair" viewers see a change in presenters.
+10. [Covid-19: Brecon Jazz defends 'careful' reopening](https://www.bbc.co.uk/news/uk-wales-58224089) - Some businesses have criticised the scaled-back festival, despite an end to social distancing.
 11. [Wrexham: Teenager suffers 'serious injuries'](https://www.bbc.co.uk/news/uk-wales-58224091) - The 18-year-old was taken to hospital after being attacked near the Morrisons supermarket in the town.
 12. [Covid in Wales: Rail staff face abuse enforcing mask rules](https://www.bbc.co.uk/news/uk-wales-58205655) - Passengers on trains in Wales must still wear a mask, unlike in England where it is only advised.
 13. [Covid-19: How many windows to keep open to cut virus build-up](https://www.bbc.co.uk/news/uk-wales-58204733) - Opening four windows at lower speeds and only two on the motorway is best, researchers say.
@@ -19,9 +19,9 @@
 19. [Ethan Laird: Swansea City sign Manchester United defender on season-long loan](https://www.bbc.co.uk/sport/football/58148502) - Swansea City sign Manchester United defender Ethan Laird on a season-long loan.
 20. [Tokyo Paralympics: Spectators will not be allowed at the Games](https://www.bbc.co.uk/sport/disability-sport/58228049) - Spectators will not be allowed at Paralympic Games events in Tokyo, organisers confirm.
 21. [Flynn Downes: Facing Swansea boss Russell Martin's style 'like playing Barcelona'](https://www.bbc.co.uk/sport/football/58221376) - Flynn Downes believes opponents will not relish playing Russell Martin's Swansea because facing his MK Dons side was "like playing at Camp Nou".
-22. [Olympics and Paralympics: GB athletes to get more government funds in run-up to Paris Games in 2024](https://www.bbc.co.uk/sport/58222726) - The government will increase its funding of Great Britain's Olympians and Paralympians by £23.4m annually to £77.4m a year to aid preparation for the Paris Games in 2024.
+22. [Nathan Broadhead: Everton striker moves to Sunderland on loan](https://www.bbc.co.uk/sport/football/58232246) - Sunderland sign Everton striker Nathan Broadhead on loan for the remainder of the season.
 23. ['Rhy hwyr i wneud dim' am sefyllfa Afghanistan](https://www.bbc.co.uk/newyddion/58228562) - Llywodraethau'r gorllewin wedi bod yn "hanner cysgu" medd cyn aelod o bwyllgor materion tramor San Steffan.
 24. [Prisiau tai: Cymru'n gweld y cynnydd uchaf yn y DU](https://www.bbc.co.uk/newyddion/58217949) - Yn ôl un gwefan gwerthu tai mae prisiau wedi cynyddu 10.9% eleni, a 2.3% yn y mis diwethaf yn unig.
 25. [Dyn yn pledio'n euog i dreisio menyw ym Mharc Bute Caerdydd](https://www.bbc.co.uk/newyddion/58231857) - Bydd Tyler Higgins o ardal Cathays yn cael ei gadw yn y ddalfa nes iddo gael ei ddedfrydu ar 2 Medi.
-26. [Ateb y Galw: Y cerddor Lewys Wyn](https://www.bbc.co.uk/newyddion/58199558) - Y cerddor Lewys Wyn sy'n cael ei holi yr wythnos yma
+26. [Liam o Love Island yn rhoi Merthyr ar y map](https://www.bbc.co.uk/newyddion/58202005) - Mae gan Liam Reardon siawns dda o ennill y gyfres ITV yn ôl yr actor Pobol y Cwm, Jacob Oakley.
 27. ['Ailstrwythuro sylweddol' i bêl-droed merched yng Nghymru](https://www.bbc.co.uk/newyddion/58209277) - Cymru yw'r wlad gyntaf ym Mhrydain i ddileu'r gair "merched" o enw cynghrair bêl-droed i fenywod.
