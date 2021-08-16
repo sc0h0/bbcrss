@@ -1,8 +1,8 @@
 1. [Afghanistan conflict: Kabul falls to Taliban as president flees](https://www.bbc.co.uk/news/world-asia-58223231) - The Islamist group has claimed victory in Afghanistan, as residents and diplomats try to escape.
 2. [No one wants Afghanistan to become breeding ground for terror - PM](https://www.bbc.co.uk/news/uk-58224383) - Boris Johnson calls on "like-minded" powers to not recognise any new government without agreement.
-3. [Plymouth shootings: Police asked to review gun licence process](https://www.bbc.co.uk/news/uk-58226072) - Police in England and Wales to assess legitimacy of existing gun licences as a matter of urgency.
-4. [Social media fraud: The influencers promoting criminal scams](https://www.bbc.co.uk/news/uk-58223499) - BBC Panorama investigates a new generation of fraudster that openly uses social media to promote crime.
-5. [Covid: Self-isolation ends for double-jabbed and under-18s](https://www.bbc.co.uk/news/uk-58226678) - Rules change in England and Northern Ireland for contacts of people who test positive for Covid.
+3. [Covid: Self-isolation ends for double-jabbed and under-18s](https://www.bbc.co.uk/news/uk-58226678) - Rules change in England and Northern Ireland for contacts of people who test positive for Covid.
+4. [Plymouth shootings: Police asked to review gun licence process](https://www.bbc.co.uk/news/uk-58226072) - Police in England and Wales to assess legitimacy of existing gun licences as a matter of urgency.
+5. [Social media fraud: The influencers promoting criminal scams](https://www.bbc.co.uk/news/uk-58223499) - BBC Panorama investigates a new generation of fraudster that openly uses social media to promote crime.
 6. [Tokyo 2020: Team GB given star-studded homecoming](https://www.bbc.co.uk/news/uk-58226232) - Athletes attended a concert at London's SSE Arena, Wembley, to mark their return from Tokyo.
 7. [Haiti earthquake: Rescuers search for survivors as death toll climbs to 1,297](https://www.bbc.co.uk/news/world-latin-america-58222888) - More than 1,200 people are known to have died after a powerful earthquake hit the nation on Saturday.
 8. [Esther Dingley: Hiker's partner thanks 'hero' searchers](https://www.bbc.co.uk/news/uk-england-tyne-58221135) - Daniel Colegate pays tribute to French and Spanish teams who looked for his partner Esther Dingley.

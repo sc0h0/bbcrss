@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 16 Aug 2021 03:38:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Aug 2021 03:50:50 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -30,6 +30,13 @@
             <pubDate>Sun, 15 Aug 2021 18:27:09 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid: Self-isolation ends for double-jabbed and under-18s]]></title>
+            <description><![CDATA[Rules change in England and Northern Ireland for contacts of people who test positive for Covid.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-58226678</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58226678</guid>
+            <pubDate>Mon, 16 Aug 2021 03:01:19 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Plymouth shootings: Police asked to review gun licence process]]></title>
             <description><![CDATA[Police in England and Wales to assess legitimacy of existing gun licences as a matter of urgency.]]></description>
             <link>https://www.bbc.co.uk/news/uk-58226072</link>
@@ -42,13 +49,6 @@
             <link>https://www.bbc.co.uk/news/uk-58223499</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58223499</guid>
             <pubDate>Mon, 16 Aug 2021 00:16:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: Self-isolation ends for double-jabbed and under-18s]]></title>
-            <description><![CDATA[Rules change in England and Northern Ireland for contacts of people who test positive for Covid.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58226678</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58226678</guid>
-            <pubDate>Mon, 16 Aug 2021 03:01:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo 2020: Team GB given star-studded homecoming]]></title>
