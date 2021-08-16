@@ -1,4 +1,4 @@
-1. [Airlines reroute flights from Afghan airspace](https://www.bbc.co.uk/news/business-58228470) - United Airlines and British Airways have stopped using airspace after the Taliban swept into Kabul.
+1. [Airlines reroute flights out of Afghan airspace](https://www.bbc.co.uk/news/business-58228470) - Virgin Atlantic made its last journey over the region on Sunday while Emirates has suspended flights.
 2. [UK defence giant Ultra agrees to £2.6bn Cobham takeover](https://www.bbc.co.uk/news/business-58228657) - The deal to buy the major supplier to the Royal Navy is being monitored by the UK government.
 3. [Pingdemic: 'We got close to complete shutdown'](https://www.bbc.co.uk/news/business-58228466) - Businesses say self-isolation rule changes will have a "massive impact" on reducing staff shortages.
 4. [New powers sought to stop illegal ticket resales](https://www.bbc.co.uk/news/business-58225568) - The UK's competition watchdog is calling for stronger laws to act quickly against touts.
