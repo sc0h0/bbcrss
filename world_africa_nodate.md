@@ -1,4 +1,4 @@
-1. [Zambia election: Hakainde Hichilema beats President Edgar Lungu](https://www.bbc.co.uk/news/world-africa-58226695) - Hakainde Hichilema wins a presidential election at his sixth attempt, while the incumbent cries foul.
+1. [Zambia election: Hakainde Hichilema beats President Edgar Lungu](https://www.bbc.co.uk/news/world-africa-58226695) - Hakainde Hichilema wins a landslide at his sixth attempt, as President Edgar Lungu accepts defeat.
 2. [Nigeria's Kano state moves to ban mannequin heads on Islamic grounds](https://www.bbc.co.uk/news/world-africa-58175709) - The Islamic police in Kano, Nigeria, say shop dummies with heads symbolise "idolatry" and are banned.
 3. [Norwich 0-3 Liverpool: Mohamed Salah scores and assists two](https://www.bbc.co.uk/sport/football/58124894) - Mohamed Salah scores one and provides two assists as Liverpool get their Premier League title bid off to a winning start with victory at newly promoted Norwich City.
 4. [Ethiopia: What do we know about aid going into Tigray?](https://www.bbc.co.uk/news/58189049) - Who's preventing desperately needed aid supplies reaching Ethiopia's Tigray region?

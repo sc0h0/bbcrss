@@ -1,4 +1,4 @@
-1. [Haiti earthquake: Rescuers search for survivors as death toll climbs to 1,297](https://www.bbc.co.uk/news/world-latin-america-58222888) - More than 1,200 people are known to have died after a powerful earthquake hit the nation on Saturday.
+1. [Haiti earthquake: Death toll climbs to 1,297 as storm nears](https://www.bbc.co.uk/news/world-latin-america-58222888) - Tropical Depression Grace is approaching Haiti just days after an earthquake left close to 1,300 dead.
 2. [Venezuela opposition politician Guevara freed after talks](https://www.bbc.co.uk/news/world-latin-america-58229925) - Freddy Guevara is freed after two days of talks between opposition and government representatives.
 3. [Nicaragua: Police raid offices of La Prensa newspaper](https://www.bbc.co.uk/news/world-latin-america-58212024) - It comes a day after La Prensa said authorities were withholding its supplies of paper and ink.
 4. [US-Mexico border migrant detention levels reach 21-year high](https://www.bbc.co.uk/news/world-us-canada-58207124) - Migrant numbers usually dip during the hot summer months, but July has continued an upward trend.

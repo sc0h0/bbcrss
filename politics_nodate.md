@@ -1,4 +1,4 @@
-1. [UK confident it can get Britons out of Afghanistan, Ben Wallace says](https://www.bbc.co.uk/news/uk-58228190) - There are plans to evacuate hundreds more eligible individuals in the coming days, the defence secretary says.
+1. [UK confident it can get Britons out of Afghanistan, Ben Wallace says](https://www.bbc.co.uk/news/uk-58228190) - The defence secretary says there are plans for hundreds more people to be evacuated - but some will be left behind.
 2. [Don't abandon Afghans who helped UK, Labour warns government](https://www.bbc.co.uk/news/uk-politics-58229112) - The party calls for safe asylum routes for interpreters and others who worked with British forces.
 3. [Afghanistan: Why is the UK Parliament being recalled?](https://www.bbc.co.uk/news/uk-politics-58228715) - MPs and members of the House of Lords will return from their summer break to debate the crisis in Afghanistan. What can we expect?
 4. [No one wants Afghanistan to become breeding ground for terror - PM](https://www.bbc.co.uk/news/uk-58224383) - Boris Johnson calls on "like-minded" powers to not recognise any new government without agreement.
