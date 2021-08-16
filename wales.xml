@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 16 Aug 2021 17:01:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Aug 2021 17:26:51 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -23,13 +23,6 @@
             <pubDate>Mon, 16 Aug 2021 15:55:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Milad Rouf: Medical student pleads guilty to Brighton acid attack]]></title>
-            <description><![CDATA[Milad Rouf, from Cardiff, threw sulphuric acid over a young doctor in Brighton in May.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-sussex-58232397</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-sussex-58232397</guid>
-            <pubDate>Mon, 16 Aug 2021 13:32:58 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Wrexham: Attempted murder arrest over 'serious assault']]></title>
             <description><![CDATA[Police say two men have been arrested over the attack near a supermarket on Sunday morning.]]></description>
             <link>https://www.bbc.co.uk/news/uk-wales-58227940</link>
@@ -37,11 +30,11 @@
             <pubDate>Mon, 16 Aug 2021 15:38:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Hollywood-style sign in Wrexham is a whodunnit]]></title>
-            <description><![CDATA[The sign was erected on the slag heap at Bersham Bank colliery tip over the weekend.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-58230790</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58230790</guid>
-            <pubDate>Mon, 16 Aug 2021 15:51:29 GMT</pubDate>
+            <title><![CDATA[Cardiff council says garden waste collection to be cut due to lack of drivers]]></title>
+            <description><![CDATA[Almost a quarter of the drivers needed are currently unavailable for work, a council says.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-58235359</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58235359</guid>
+            <pubDate>Mon, 16 Aug 2021 17:13:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Porth Neigwl: More safety measures needed at site of beach death, says witness]]></title>
@@ -49,6 +42,20 @@
             <link>https://www.bbc.co.uk/news/uk-wales-58235357</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58235357</guid>
             <pubDate>Mon, 16 Aug 2021 15:45:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Milad Rouf: Medical student pleads guilty to Brighton acid attack]]></title>
+            <description><![CDATA[Milad Rouf, from Cardiff, threw sulphuric acid over a young doctor in Brighton in May.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-sussex-58232397</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-sussex-58232397</guid>
+            <pubDate>Mon, 16 Aug 2021 13:32:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hollywood-style sign in Wrexham is a whodunnit]]></title>
+            <description><![CDATA[The sign was erected on the slag heap at Bersham Bank colliery tip over the weekend.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-58230790</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58230790</guid>
+            <pubDate>Mon, 16 Aug 2021 15:51:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Cardiff man, 19, admits raping woman in Bute park]]></title>
@@ -84,13 +91,6 @@
             <link>https://www.bbc.co.uk/sport/football/58221934</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58221934</guid>
             <pubDate>Mon, 16 Aug 2021 08:57:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Huw Edwards considering his future at BBC News at Ten]]></title>
-            <description><![CDATA[The journalist finds nightly news "taxing" and says it's "fair" viewers see a change in presenters.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-58224273</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58224273</guid>
-            <pubDate>Sun, 15 Aug 2021 19:49:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: Brecon Jazz defends 'careful' reopening]]></title>
@@ -142,6 +142,13 @@
             <pubDate>Thu, 12 Aug 2021 14:49:05 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[One-Day Cup: Joe Cooke stars as Glamorgan beat Essex to reach final]]></title>
+            <description><![CDATA[Joe Cooke stars with bat and ball as Glamorgan beat Essex by five wickets to reach the final of the One-Day Cup.]]></description>
+            <link>https://www.bbc.co.uk/sport/cricket/58230489</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/58230489</guid>
+            <pubDate>Mon, 16 Aug 2021 17:03:46 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Rob Page: Wales manager given free rein to add new assistant]]></title>
             <description><![CDATA[Wales manager Rob Page will add an assistant coach of his own choosing for World Cup qualifiers says FAW President Steve Williams.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58230499</link>
@@ -168,13 +175,6 @@
             <link>https://www.bbc.co.uk/sport/football/58221376</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58221376</guid>
             <pubDate>Sun, 15 Aug 2021 21:00:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nathan Broadhead: Everton striker moves to Sunderland on loan]]></title>
-            <description><![CDATA[Sunderland sign Everton striker Nathan Broadhead on loan for the remainder of the season.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58232246</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58232246</guid>
-            <pubDate>Mon, 16 Aug 2021 13:17:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['Rhy hwyr i wneud dim' am sefyllfa Afghanistan]]></title>
