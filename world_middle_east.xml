@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 16 Aug 2021 09:11:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Aug 2021 09:24:39 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Four Palestinians killed in clashes during Israeli raid]]></title>
+            <description><![CDATA[A firefight broke out during an undercover police operation in the occupied West Bank.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-58228621</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-58228621</guid>
+            <pubDate>Mon, 16 Aug 2021 09:20:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Polish law on property stolen by Nazis angers Israel]]></title>
             <description><![CDATA[A new law will make it harder for people to recover property lost in World War Two.]]></description>
@@ -63,20 +70,6 @@
             <link>https://www.bbc.co.uk/news/world-africa-58097200</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-58097200</guid>
             <pubDate>Mon, 09 Aug 2021 08:39:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Saudi Arabia to allow in vaccinated Umrah pilgrims]]></title>
-            <description><![CDATA[The Islamic holy city of Mecca will allow vaccinated pilgrims to enter, the Saudi authorities say.]]></description>
-            <link>https://www.bbc.co.uk/news/world-middle-east-58135756</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-58135756</guid>
-            <pubDate>Sun, 08 Aug 2021 13:08:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Saudi oil giant Aramco sees profits soar by almost 300%]]></title>
-            <description><![CDATA[The results were boosted by a rise in oil prices as demand recovers after the pandemic.]]></description>
-            <link>https://www.bbc.co.uk/news/business-58141607</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58141607</guid>
-            <pubDate>Mon, 09 Aug 2021 13:28:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The murderous crime wave sweeping Israel's Arabs]]></title>
