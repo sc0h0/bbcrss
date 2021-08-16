@@ -1,6 +1,6 @@
 1. [Covid: Self-isolation ends for double-jabbed and under-18s](https://www.bbc.co.uk/news/uk-58226678) - Rules change in England and Northern Ireland for contacts of people who test positive for Covid.
 2. [Covid: 16 and 17-year-olds in England to be offered jab by 23 August](https://www.bbc.co.uk/news/uk-58216017) - Those in England will be offered a jab or the chance to book one by 23 August, the government says.
-3. [Covid-19: Daughter of Oxfordshire man urges caution](https://www.bbc.co.uk/news/uk-england-oxfordshire-58206368) - David Allum, 58, died after complications from Covid-19 despite receiving both vaccine doses.
+3. [Covid: Daughter of Oxfordshire man urges caution](https://www.bbc.co.uk/news/uk-england-oxfordshire-58206368) - David Allum, 58, died after complications from Covid-19 despite receiving both vaccine doses.
 4. [Covid vaccine: Parents upset at jabs wait for high-risk children](https://www.bbc.co.uk/news/health-58179302) - Some families are struggling to get vaccines for vulnerable teens, nearly a month after they became eligible.
 5. [Don't ignore cancer signs, says new NHS England boss](https://www.bbc.co.uk/news/health-58199169) - About 10% fewer people with cancer than normal have been seen over the past year, figures show.
 6. [Covid: Carrie Johnson urges pregnant women to get vaccinated](https://www.bbc.co.uk/news/uk-58215440) - The PM's wife, who is expecting a baby, says she is "feeling great" after having her second vaccine.
