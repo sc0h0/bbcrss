@@ -36,3 +36,4 @@
 36. [Livingston: Marvin Bartley misses two more games after club's Scottish FA rule breach](https://www.bbc.co.uk/sport/football/58232597) - Player-assistant Marvin Bartley will miss two more Livingston games after the club breaches a Scottish FA disciplinary rule.
 37. [Celtic 3-1 Hearts: Furuhashi can 'handle' rough stuff, says Postecoglou](https://www.bbc.co.uk/sport/football/58137990) - Kyogo Furuhashi showed he can "handle" the the rigours of the Scottish game in Celtic'swin over Hearts, says Ange Postecoglou.
 38. [Scottish League Cup: Holders St Johnstone face Dundee in quarter-finals](https://www.bbc.co.uk/sport/football/58224773) - Holders St Johnstone will face Dundee in the quarter-finals of this season's Scottish League Cup.
+39. [Scottish Gossip: Celtic, Hagi, Jullien, Hibs, Doidge, Rangers, Cahill, Katic](https://www.bbc.co.uk/sport/football/58228391) - Transfer incomings targeted at Celtic and Hibs as Rangers defender brushes off speculation.
