@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 16 Aug 2021 19:51:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Aug 2021 20:04:03 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -261,6 +261,13 @@
             <pubDate>Mon, 16 Aug 2021 18:20:30 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Celtic: Ange Postecoglou wants further proof of better 'football and tempo' against AZ Alkmaar]]></title>
+            <description><![CDATA[Ange Postecoglou wants further signs of improvement under his charge as Celtic host AZ Alkmaar in the Europa League play-off round.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58232604</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58232604</guid>
+            <pubDate>Mon, 16 Aug 2021 20:02:05 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Livingston: Marvin Bartley misses two more games after club's Scottish FA rule breach]]></title>
             <description><![CDATA[Player-assistant Marvin Bartley will miss two more Livingston games after the club breaches a Scottish FA disciplinary rule.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58232597</link>
@@ -280,13 +287,6 @@
             <link>https://www.bbc.co.uk/sport/football/58224773</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58224773</guid>
             <pubDate>Sun, 15 Aug 2021 16:26:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Scottish Gossip: Celtic, Hagi, Jullien, Hibs, Doidge, Rangers, Cahill, Katic]]></title>
-            <description><![CDATA[Transfer incomings targeted at Celtic and Hibs as Rangers defender brushes off speculation.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58228391</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58228391</guid>
-            <pubDate>Mon, 16 Aug 2021 06:47:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
