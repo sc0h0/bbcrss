@@ -4,7 +4,7 @@
 4. [Moped rider to tour UK's rude place names](https://www.bbc.co.uk/news/uk-england-58229967) - Paul Taylor will visit towns such as Shitterton and Cockpole Green on the 1,800-mile charity tour.
 5. [Mark Chilman jailed for murdering ex's new partner and setting body on fire](https://www.bbc.co.uk/news/uk-england-hereford-worcester-58233001) - Mark Chilman set his victim's car on fire in a bid to make it look like suicide, the court hears.
 6. [Men hurt in homophobic attack at Birmingham's Gay Village](https://www.bbc.co.uk/news/uk-england-birmingham-58228598) - One of them is knocked unconscious in the assault which began with abuse from a car, police say.
-7. [Gorleston Banksy: Covered artwork done with 'best intentions'](https://www.bbc.co.uk/news/uk-england-norfolk-58229021) - A council paints over a new mural due to "sensitivities" around Ava-May Littleboy's death in 2018.
+7. [Sebastian Kalinowski: Mother charged with teen's murder](https://www.bbc.co.uk/news/uk-england-humber-58233212) - Sebastian Kalinowski, 15, died after being found unconscious in Huddersfield on Friday.
 8. [Who were the victims?](https://www.bbc.co.uk/news/uk-58202760) - The gunman's mother, Maxine Davison, and three-year-old Sophie Martyn have been named among the dead.
 9. ['Your memories will never leave us' - notes to the victims](https://www.bbc.co.uk/news/uk-england-devon-58229935) - Flowers and heartfelt messages are placed in Keyham in memory of the five people killed.
 10. [Plymouth shooting: Who can own a firearm or shotgun in the UK?](https://www.bbc.co.uk/news/uk-58198857) - A shooting in Plymouth which left six people dead has put the focus on who can own a gun in the UK.
@@ -18,11 +18,11 @@
 18. [A visual guide to what happened](https://www.bbc.co.uk/news/uk-england-devon-58200336) - A gunman shot and killed five people in Plymouth before turning the gun on himself. Here's what we know about how events unfolded.
 19. [Shooting 'a truly shocking event' say police](https://www.bbc.co.uk/news/uk-58198081) - Devon and Cornwall Police Chief Constable Shaun Sawyer explains how reports of the shootings came in.
 20. [Plymouth MP: Community 'trying to make sense' of shooting](https://www.bbc.co.uk/news/uk-58198078) - MP Luke Pollard says the community is pulling together in the face of the "deeply grim" news.
-21. [Darlington girl, 11, shot twice 'with pellet gun'](https://www.bbc.co.uk/news/uk-england-tees-58232706) - The youngster is treated in hospital after being struck in the back and leg.
-22. [Crumbling NHS hospital assessed corporate manslaughter risk](https://www.bbc.co.uk/news/uk-england-cambridgeshire-57941926) - NHS hospitals have been supporting deteriorating concrete roofs with poles and other measures.
+21. [Man swept to his death by 'rogue wave' at Tubby's Head](https://www.bbc.co.uk/news/uk-england-cornwall-58232665) - An inquest concludes that Tyler Westlake, who was swept off rocks while fishing, died accidentally.
+22. [Suffolk hospital assessed legal risk of fatal roof collapse](https://www.bbc.co.uk/news/uk-england-cambridgeshire-57941926) - NHS hospitals have been supporting deteriorating concrete roofs with poles and other measures.
 23. [Nearly every London school in high air pollution area, report says](https://www.bbc.co.uk/news/uk-england-london-58230278) - Some 98% of London schools are in areas with high air pollution, City Hall analysis suggests.
 24. [The Beatles: Aphrodite statue from historic gig being auctioned](https://www.bbc.co.uk/news/uk-england-merseyside-58228053) - The Aphrodite statue was used in The Beatles set in the first live satellite broadcast in 1967.
-25. [Tributes after death of bravery-award police dog Bacca](https://www.bbc.co.uk/news/uk-england-hereford-worcester-58228604) - Bacca was given the award after suffering slash wounds while bringing an armed man to the ground.
+25. [Gorleston Banksy: Covered artwork done with 'best intentions'](https://www.bbc.co.uk/news/uk-england-norfolk-58229021) - A council paints over a new mural due to "sensitivities" around Ava-May Littleboy's death in 2018.
 26. [Weymouth rescue after deer spotted swimming in the sea](https://www.bbc.co.uk/news/uk-england-dorset-58232477) - A fishing boat spotted the foal in the water near Weymouth harbour and it was brought back to shore.
 27. [John O'Groats to Land's End paramotor flight for dementia research](https://www.bbc.co.uk/news/uk-england-norfolk-58220591) - Daniel Jones says he wants to get younger people talking about dementia.
 28. [Car in near-miss with train on Cumbria level crossing](https://www.bbc.co.uk/news/uk-england-cumbria-58202029) - CCTV footage shows the car driving across the barrierless crossing in front of the Northern train.

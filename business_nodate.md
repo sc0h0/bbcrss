@@ -1,5 +1,5 @@
-1. [Afghanistan conflict: Airlines reroute flights out of Afghan airspace](https://www.bbc.co.uk/news/business-58228470) - Virgin Atlantic made its last journey over the region on Sunday while Emirates has suspended flights.
-2. [Parcel delivery texts now the most common con-trick](https://www.bbc.co.uk/news/business-58233743) - Text messages asking for a fee to deliver a package are responsible for most "smishing" fraud.
+1. [Parcel delivery texts now the most common con-trick](https://www.bbc.co.uk/news/business-58233743) - Text messages asking for a fee to deliver a package are responsible for most "smishing" fraud.
+2. [Afghanistan conflict: Airlines reroute flights out of Afghan airspace](https://www.bbc.co.uk/news/business-58228470) - Virgin Atlantic made its last journey over the region on Sunday while Emirates has suspended flights.
 3. [UK defence giant Ultra agrees to £2.6bn Cobham takeover](https://www.bbc.co.uk/news/business-58228657) - The deal to buy the major supplier to the Royal Navy is being monitored by the UK government.
 4. [Pingdemic: 'We got close to complete shutdown'](https://www.bbc.co.uk/news/business-58228466) - Businesses say self-isolation rule changes will have a "massive impact" on reducing staff shortages.
 5. [New powers sought to stop illegal ticket resales](https://www.bbc.co.uk/news/business-58225568) - The UK's competition watchdog is calling for stronger laws to act quickly against touts.

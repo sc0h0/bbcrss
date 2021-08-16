@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 16 Aug 2021 14:30:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Aug 2021 14:45:26 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -65,6 +65,13 @@
             <pubDate>Mon, 16 Aug 2021 12:21:18 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Parcel delivery texts now the most common con-trick]]></title>
+            <description><![CDATA[Text messages asking for a fee to deliver a package are responsible for most "smishing" fraud.]]></description>
+            <link>https://www.bbc.co.uk/news/business-58233743</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58233743</guid>
+            <pubDate>Mon, 16 Aug 2021 14:13:19 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[UK defence giant Ultra agrees to £2.6bn Cobham takeover]]></title>
             <description><![CDATA[The deal to buy the major supplier to the Royal Navy is being monitored by the UK government.]]></description>
             <link>https://www.bbc.co.uk/news/business-58228657</link>
@@ -86,13 +93,6 @@
             <pubDate>Mon, 16 Aug 2021 12:51:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tom Daley on his Olympic knitting obsession]]></title>
-            <description><![CDATA[The diver also opens up about what he's learnt as a parent and inspiring LGBT young people.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58230071</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58230071</guid>
-            <pubDate>Mon, 16 Aug 2021 13:39:37 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Afghanistan: Life in Kabul after the Taliban victory]]></title>
             <description><![CDATA[BBC video journalist Malik Mudassir speaks about life in the city after its capture by the Taliban.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-58232815</link>
@@ -112,6 +112,13 @@
             <link>https://www.bbc.co.uk/news/world-asia-58226712</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58226712</guid>
             <pubDate>Mon, 16 Aug 2021 08:44:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Afghanistan: Why is the UK Parliament being recalled?]]></title>
+            <description><![CDATA[MPs and members of the House of Lords will return from their summer break to debate the crisis in Afghanistan. What can we expect?]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-58228715</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-58228715</guid>
+            <pubDate>Mon, 16 Aug 2021 11:54:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Will Taliban take country back to past, asks John Simpson]]></title>
@@ -182,6 +189,13 @@
             <link>https://www.bbc.co.uk/news/uk-wales-58230790</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58230790</guid>
             <pubDate>Mon, 16 Aug 2021 13:50:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tom Daley on his Olympic knitting obsession]]></title>
+            <description><![CDATA[The diver also opens up about what he's learnt as a parent and inspiring LGBT young people.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-58230071</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58230071</guid>
+            <pubDate>Mon, 16 Aug 2021 13:39:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The zero-power sewage plant inspired by cows]]></title>
@@ -275,13 +289,6 @@
             <pubDate>Mon, 16 Aug 2021 05:12:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Afghanistan: Why is the UK Parliament being recalled?]]></title>
-            <description><![CDATA[MPs and members of the House of Lords will return from their summer break to debate the crisis in Afghanistan. What can we expect?]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-58228715</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-58228715</guid>
-            <pubDate>Mon, 16 Aug 2021 11:54:36 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Nigeria's Kano state moves to ban mannequin heads on Islamic grounds]]></title>
             <description><![CDATA[The Islamic police in Kano, Nigeria, say shop dummies with heads symbolise "idolatry" and are banned.]]></description>
             <link>https://www.bbc.co.uk/news/world-africa-58175709</link>
@@ -352,15 +359,15 @@
             <pubDate>Mon, 16 Aug 2021 12:53:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[England v India: Ishant Sharma traps Haseeb Hameed lbw for 9]]></title>
-            <description><![CDATA[Watch as India's Ishant Sharma takes his first wicket of the afternoon session, trapping England's Haseeb Hameed lbw, on the fifth day of the second Test against India.]]></description>
+            <title><![CDATA[England v India: Ishant Sharma traps Haseeb Hameed lbw for nine]]></title>
+            <description><![CDATA[Watch India's Ishant Sharma take his first wicket of the second Test's fifth afternoon, trapping England's Haseeb Hameed lbw.]]></description>
             <link>https://www.bbc.co.uk/sport/av/cricket/58235115</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/cricket/58235115</guid>
             <pubDate>Mon, 16 Aug 2021 14:23:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[England v India: Dom Sibley edges Mohammed Shami for a duck]]></title>
-            <description><![CDATA[Watch as Dom Sibley edges India's Mohammed Shami to wicketkeeper Rishabh Pant for England's second duck in the space of an over on the final day of the second Test at Lord's.]]></description>
+            <description><![CDATA[Watch Dom Sibley edge India's Mohammed Shami to wicketkeeper Rishabh Pant for England's second duck in the space of an over on the final day of the second Test at Lord's.]]></description>
             <link>https://www.bbc.co.uk/sport/av/cricket/58232896</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/cricket/58232896</guid>
             <pubDate>Mon, 16 Aug 2021 13:36:44 GMT</pubDate>
