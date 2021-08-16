@@ -1,5 +1,5 @@
-1. [House prices fall for first time this year](https://www.bbc.co.uk/news/business-58206513) - House prices have fallen for the first time this year as demand for bigger houses shrinks.
-2. [Watchdog urges tighter rules for ticket firms](https://www.bbc.co.uk/news/business-58225568) - The Competition and Markets Authority calls for stronger laws to tackle illegal ticket resales.
+1. [New powers sought to stop illegal ticket resales](https://www.bbc.co.uk/news/business-58225568) - The UK's competition watchdog is calling for stronger laws to act quickly against touts.
+2. [House prices fall for first time this year](https://www.bbc.co.uk/news/business-58206513) - Average prices dropped by 0.3% in August, says Rightmove, as demand for bigger houses shrinks.
 3. [Efforts to curb energy tariffs 'greenwashing'](https://www.bbc.co.uk/news/business-58222808) - The government is reviewing whether all so-called green tariffs are really good for the environment.
 4. [Japan's economy bounced back ahead of the Olympics, data shows](https://www.bbc.co.uk/news/business-58227096) - Analysts have warned recovery will be modest this quarter after a state of emergency was re-imposed.
 5. [Streaming service DAZN seeks to shake up TV sport](https://www.bbc.co.uk/news/business-58219424) - Boss James Rushton has ambitious expansion plans for the service dubbed "the Netflix of sport".
