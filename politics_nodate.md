@@ -1,4 +1,4 @@
-1. [Hundreds more Britons and Afghans to arrive in UK](https://www.bbc.co.uk/news/uk-58235707) - A further 300 UK troops will join around 600 on the ground in the Afghanistan capital Kabul.
+1. [Another 200 UK troops sent to Kabul evacuation](https://www.bbc.co.uk/news/uk-58235707) - Around 700 troops were already in the Afghan capital to help UK citizens and others leave.
 2. [Government under pressure to reveal Afghan refugee plan](https://www.bbc.co.uk/news/uk-politics-58229112) - Thousands are in fear of their lives amid concerns over a "humanitarian catastrophe".
 3. [Afghanistan: Why is the UK Parliament being recalled?](https://www.bbc.co.uk/news/uk-politics-58228715) - MPs and members of the House of Lords will return from their summer break to debate the crisis in Afghanistan. What can we expect?
 4. [No one wants Afghanistan to become breeding ground for terror - PM](https://www.bbc.co.uk/news/uk-58224383) - Boris Johnson calls on "like-minded" powers to not recognise any new government without agreement.
