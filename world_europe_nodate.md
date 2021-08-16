@@ -3,7 +3,7 @@
 3. [Roger Federer will be out 'for many months' as he prepares for further knee surgery](https://www.bbc.co.uk/sport/tennis/58223042) - Tennis great Roger Federer says he will be sidelined for "many months" as he prepares to have further knee surgery.
 4. ['My night in Quisling's cabin'](https://www.bbc.co.uk/news/stories-58208551) - When Ben McPherson realised he could rent Vidkun Quisling's cabin, it struck him as weird. His Norwegian wife disagreed.
 5. [Ebrar Karakurt: Supporters rally around Turkish volleyballer after abuse](https://www.bbc.co.uk/news/world-europe-58229818) - Ebrar Karakurt was abused online after posting a photo with her girlfriend on Instagram.
-6. [Channel migrant crossings reach record high as man dies](https://www.bbc.co.uk/news/uk-england-kent-58213583) - The UK deals with 592 people crossing the Channel on the day a migrant makes a fatal leap into the sea.
+6. [Channel migrants: Manslaughter charge over man's death](https://www.bbc.co.uk/news/uk-england-kent-58234995) - An Eritrean man died after a dinghy began to sink on the journey from France to England.
 7. [Germany football legend Muller dies aged 75](https://www.bbc.co.uk/sport/football/58222495) - Bayern Munich and Germany legend Gerd Muller dies at the age of 75.
 8. [Climate change: Does Germany produce double the UK's carbon emissions?](https://www.bbc.co.uk/news/58148881) - MP John Redwood claims that, on carbon emissions, Germany "puts out twice as much as we do". Is he right?
 9. [No Messi, no Ramos - how is La Liga shaping up?](https://www.bbc.co.uk/sport/football/58092275) - No Lionel Messi, no Sergio Ramos, no Zinedine Zidane - how are Spain's 'big three' looking - or could there be a new title winner?
