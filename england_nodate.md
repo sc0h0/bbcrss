@@ -1,4 +1,4 @@
-1. [Plymouth shootings: Police asked to review gun licence process](https://www.bbc.co.uk/news/uk-58226072) - Police in England and Wales to assess legitimacy of existing gun licences as a matter of urgency.
+1. [Plymouth shootings: Police asked to review gun licence process](https://www.bbc.co.uk/news/uk-58226072) - Police in England and Wales are to assess the legitimacy of existing gun licences.
 2. [Woman seriously injured by her dog in attack](https://www.bbc.co.uk/news/uk-england-nottinghamshire-58224546) - She was injured when her American bulldog turned on a child then attacked her as she intervened.
 3. [Great Yarmouth council removes Banksy mural over trampoline death](https://www.bbc.co.uk/news/uk-england-norfolk-58221044) - A council "covers over" the work amid "sensitivities" to events the artist "would not have known".
 4. [John O'Groats to Land's End paramotor flight for dementia research](https://www.bbc.co.uk/news/uk-england-norfolk-58220591) - Daniel Jones says he wants to get younger people talking about dementia.
