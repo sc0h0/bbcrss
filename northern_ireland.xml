@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 16 Aug 2021 05:09:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Aug 2021 05:21:21 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Covid-19: Relaxation of NI self-isolation comes in effect]]></title>
+            <description><![CDATA[Fully-vaccinated close contacts of people who have Covid-19 do not need to self-isolate from Monday.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58205347</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58205347</guid>
+            <pubDate>Mon, 16 Aug 2021 05:16:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Tyrone v Kerry All-Ireland semi moved to 28 August]]></title>
             <description><![CDATA[The GAA has moved the second All-Ireland semi-final between Tyrone and Kerry to 28 August, giving the Covid-hit Red Hands an extra week to recover.]]></description>
