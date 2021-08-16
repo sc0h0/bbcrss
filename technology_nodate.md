@@ -10,10 +10,10 @@
 10. [Competition watchdog says Facebook could have to sell Giphy](https://www.bbc.co.uk/news/technology-58188322) - Facebook’s merger with Giphy will harm competition between social-media platforms, the CMA says.
 11. [Activision Blizzard: Diablo 4 director and two others leave company](https://www.bbc.co.uk/news/technology-58187612) - Three more high-profile leaders leave the gaming giant, including key staff on its latest Diablo game.
 12. [Green aviation: Electric powered plane trialled over Orkney](https://www.bbc.co.uk/news/uk-scotland-58180367) - A hybrid-electric plane is being trialled in Orkney as part of a study into ways of reducing aviation emissions.
-13. [The $8bn EV company you’ve probably never heard of](https://www.bbc.co.uk/news/business-58174043) - Electric vehicle firm Arrival is worth $8bn (£5.7bn) - and is only making vans, buses and taxis.
-14. [Virtual reality: 'There's no max, there's no limit!'](https://www.bbc.co.uk/news/entertainment-arts-58177685) - "There's no max, there's no limit" to virtual reality, so is it the future of live music?
-15. [Classic Bentleys and Rolls-Royce adapted to fully electric](https://www.bbc.co.uk/news/technology-57901893) - The vintage petrol-powered cars are re-engineered by a company based at the home of UK motorsport.
-16. [Ariana Grande sings in Fortnite's metaverse](https://www.bbc.co.uk/news/technology-58146042) - The pop star is the latest musician to perform a series of concerts inside the hit video game.
+13. [The zero-power sewage plant inspired by cows](https://www.bbc.co.uk/news/science-environment-58017501) - Fifty sustainable sewage treatment plants have been built that work in similar way to a cow's stomach.
+14. [The $8bn EV company you’ve probably never heard of](https://www.bbc.co.uk/news/business-58174043) - Electric vehicle firm Arrival is worth $8bn (£5.7bn) - and is only making vans, buses and taxis.
+15. [Virtual reality: 'There's no max, there's no limit!'](https://www.bbc.co.uk/news/entertainment-arts-58177685) - "There's no max, there's no limit" to virtual reality, so is it the future of live music?
+16. [Classic Bentleys and Rolls-Royce adapted to fully electric](https://www.bbc.co.uk/news/technology-57901893) - The vintage petrol-powered cars are re-engineered by a company based at the home of UK motorsport.
 17. [Would you let a robot lawyer defend you?](https://www.bbc.co.uk/news/business-58158820) - Why artificial intelligence is increasingly being used by the legal profession.
 18. [How can new technology protect outdoor workers?](https://www.bbc.co.uk/news/business-58049625) - Working outdoors in extreme heat can be deadly, new tech and better protection for workers could help.
 19. [Sharing apps are booming but will the kindness continue?](https://www.bbc.co.uk/news/business-57981598) - The pandemic sparked a surge in activity for sharing apps like Olio but has the trend run its course?

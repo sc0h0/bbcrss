@@ -1,6 +1,6 @@
 1. [Polish law on property stolen by Nazis angers Israel](https://www.bbc.co.uk/news/world-europe-58218750) - A new law will make it harder for people to recover property lost in World War Two.
 2. [Roger Federer will be out 'for many months' as he prepares for further knee surgery](https://www.bbc.co.uk/sport/tennis/58223042) - Tennis great Roger Federer says he will be sidelined for "many months" as he prepares to have further knee surgery.
-3. [Turkey floods: Death toll near Black Sea rises to at least 40](https://www.bbc.co.uk/news/world-europe-58200296) - Flash floods in northern Turkey are the country's second natural disaster this month.
+3. [Turkey floods: Death toll near Black Sea rises to at least 70](https://www.bbc.co.uk/news/world-europe-58200296) - Flash floods in northern Turkey are the country's second natural disaster this month.
 4. ['My night in Quisling's cabin'](https://www.bbc.co.uk/news/stories-58208551) - When Ben McPherson realised he could rent Vidkun Quisling's cabin, it struck him as weird. His Norwegian wife disagreed.
 5. [Sarah Rainsford on Russia: 'I've been told I can't come back - ever'](https://www.bbc.co.uk/news/world-europe-58213845) - The BBC's Sarah Rainsford, devastated after being told she could not return to Russia, ever.
 6. [Germany football legend Muller dies aged 75](https://www.bbc.co.uk/sport/football/58222495) - Bayern Munich and Germany legend Gerd Muller dies at the age of 75.
