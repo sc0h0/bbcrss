@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 16 Aug 2021 11:51:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Aug 2021 12:11:22 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -58,6 +58,13 @@
             <pubDate>Mon, 16 Aug 2021 05:31:28 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Fermanagh man faces nine indecent assault charges]]></title>
+            <description><![CDATA[Gerard Quaile, 56, is the second person to be charged following a newspaper investigation.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58229670</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58229670</guid>
+            <pubDate>Mon, 16 Aug 2021 11:55:17 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Liverpool: Seven arrested after NI man attacked]]></title>
             <description><![CDATA[A 24-year-old man from Northern Ireland is in a critical but stable condition, police say.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58221966</link>
@@ -91,20 +98,6 @@
             <link>https://www.bbc.co.uk/sport/taekwondo/58216169</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/taekwondo/58216169</guid>
             <pubDate>Sat, 14 Aug 2021 14:25:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['My sister's legacy is the Sibling Grief Club']]></title>
-            <description><![CDATA[Sisters from County Tyrone started The Sibling Grief Club after their youngest sister died suddenly.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58175239</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58175239</guid>
-            <pubDate>Sat, 14 Aug 2021 23:00:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Six cars burnt out in Lisburn arson attack]]></title>
-            <description><![CDATA[It happened at a business premises on Barnfield Road in the early hours of Saturday.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58216995</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58216995</guid>
-            <pubDate>Sat, 14 Aug 2021 17:27:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What are Northern Ireland's Covid-19 rules now?]]></title>
@@ -147,6 +140,13 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58199977</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58199977</guid>
             <pubDate>Fri, 13 Aug 2021 10:46:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['My sister's legacy is the Sibling Grief Club']]></title>
+            <description><![CDATA[Sisters from County Tyrone started The Sibling Grief Club after their youngest sister died suddenly.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58175239</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58175239</guid>
+            <pubDate>Sat, 14 Aug 2021 23:00:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The day firebombs devastated Ballymena]]></title>
