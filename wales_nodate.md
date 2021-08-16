@@ -2,12 +2,12 @@
 2. [Milad Rouf: Medical student pleads guilty to Brighton acid attack](https://www.bbc.co.uk/news/uk-england-sussex-58232397) - Milad Rouf, from Cardiff, threw sulphuric acid over a young doctor in Brighton in May.
 3. [Wrexham: Attempted murder arrest over 'serious assault'](https://www.bbc.co.uk/news/uk-wales-58227940) - Police said two men were arrested over the attack on Sunday morning.
 4. [Hollywood-style sign in Wrexham is a whodunnit](https://www.bbc.co.uk/news/uk-wales-58230790) - The sign was erected on the slag heap at Bersham Bank colliery tip over the weekend.
-5. [House prices in Wales rising highest, says Rightmove](https://www.bbc.co.uk/news/uk-wales-58203740) - A property website says there has been a 10.9% increase in prices this year.
-6. [Towyn: Sikh education call after man handcuffed over dagger](https://www.bbc.co.uk/news/uk-wales-58099624) - His friend says he was humiliated when police were called due to their kirpans.
-7. [Cardiff man, 19, admits raping woman in Bute park](https://www.bbc.co.uk/news/uk-wales-58227945) - Tyler Higgins is remanded in custody and is due to be sentenced next month.
-8. [Call for Covid vaccination focus on under-30s in Wales](https://www.bbc.co.uk/news/uk-wales-58224626) - Nearly 120,000 people under 30 have still not taken up their first vaccine dose.
-9. [Revamped women's football league revealed](https://www.bbc.co.uk/sport/football/58221934) - The Football Association of Wales has announced the restructured women's football pyramid will be known as the Adran Leagues.
-10. [Seven men from south Wales arrested after attack](https://www.bbc.co.uk/news/uk-northern-ireland-58221966) - A 24-year-old man from Northern Ireland is in a critical but stable condition, police say.
+5. [Porth Neigwl: More safety measures needed at site of beach death, says witness](https://www.bbc.co.uk/news/uk-wales-58235357) - A man who witnessed an unsuccessful attempt to save a man's life says more warnings are needed.
+6. [Cardiff man, 19, admits raping woman in Bute park](https://www.bbc.co.uk/news/uk-wales-58227945) - Tyler Higgins is remanded in custody and is due to be sentenced next month.
+7. [House prices in Wales rising highest, says Rightmove](https://www.bbc.co.uk/news/uk-wales-58203740) - A property website says there has been a 10.9% increase in prices this year.
+8. [Towyn: Sikh education call after man handcuffed over dagger](https://www.bbc.co.uk/news/uk-wales-58099624) - His friend says he was humiliated when police were called due to their kirpans.
+9. [Call for Covid vaccination focus on under-30s in Wales](https://www.bbc.co.uk/news/uk-wales-58224626) - Nearly 120,000 people under 30 have still not taken up their first vaccine dose.
+10. [Revamped women's football league revealed](https://www.bbc.co.uk/sport/football/58221934) - The Football Association of Wales has announced the restructured women's football pyramid will be known as the Adran Leagues.
 11. [Huw Edwards considering his future at BBC News at Ten](https://www.bbc.co.uk/news/uk-wales-58224273) - The journalist finds nightly news "taxing" and says it's "fair" viewers see a change in presenters.
 12. [Covid-19: Brecon Jazz defends 'careful' reopening](https://www.bbc.co.uk/news/uk-wales-58224089) - Some businesses have criticised the scaled-back festival, despite an end to social distancing.
 13. [Covid in Wales: Rail staff face abuse enforcing mask rules](https://www.bbc.co.uk/news/uk-wales-58205655) - Passengers on trains in Wales must still wear a mask, unlike in England where it is only advised.
