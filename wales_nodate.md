@@ -3,11 +3,11 @@
 3. [Call for Covid vaccination focus on under-30s in Wales](https://www.bbc.co.uk/news/uk-wales-58224626) - Nearly 120,000 people under 30 have still not taken up their first vaccine dose.
 4. [Seven men from south Wales arrested after attack](https://www.bbc.co.uk/news/uk-northern-ireland-58221966) - A 24-year-old man from Northern Ireland is in a critical but stable condition, police say.
 5. [Huw Edwards considering his future at BBC News at Ten](https://www.bbc.co.uk/news/uk-wales-58224273) - The journalist finds nightly news "taxing" and says it's "fair" viewers see a change in presenters.
-6. [Covid: Pop-up campsite rules 'harming communities'](https://www.bbc.co.uk/news/uk-wales-58009261) - Some living near beauty spots say they are dealing with dangerous traffic and fire pits burning all night.
-7. [Wrexham: Teenager suffers 'serious injuries'](https://www.bbc.co.uk/news/uk-wales-58224091) - The 18-year-old was taken to hospital after being attacked near the Morrisons supermarket in the town.
-8. [Family fight to stop Vale's Model Farm becoming business park](https://www.bbc.co.uk/news/uk-wales-58217398) - The Jenkins family have been told to go by next July as a financial services firm wants to build there.
-9. [Covid: Safety fears as face-mask rules 'ignored on Welsh trains'](https://www.bbc.co.uk/news/uk-wales-58144669) - Some passengers say they feel unsafe, crammed on trains face-to-face with people not wearing masks.
-10. [Logan Mwangi: Community remembers boy, 5, found dead in river](https://www.bbc.co.uk/news/uk-wales-58213255) - Neighbours and friends gather to remember the "happy-go-lucky" child who died in Bridgend.
+6. [Covid-19: Brecon Jazz defends 'careful' reopening](https://www.bbc.co.uk/news/uk-wales-58224089) - Some businesses have criticised the scaled-back festival, despite an end to social distancing.
+7. [Covid: Pop-up campsite rules 'harming communities'](https://www.bbc.co.uk/news/uk-wales-58009261) - Some living near beauty spots say they are dealing with dangerous traffic and fire pits burning all night.
+8. [Wrexham: Teenager suffers 'serious injuries'](https://www.bbc.co.uk/news/uk-wales-58224091) - The 18-year-old was taken to hospital after being attacked near the Morrisons supermarket in the town.
+9. [Family fight to stop Vale's Model Farm becoming business park](https://www.bbc.co.uk/news/uk-wales-58217398) - The Jenkins family have been told to go by next July as a financial services firm wants to build there.
+10. [Covid: Safety fears as face-mask rules 'ignored on Welsh trains'](https://www.bbc.co.uk/news/uk-wales-58144669) - Some passengers say they feel unsafe, crammed on trains face-to-face with people not wearing masks.
 11. [Edward H Dafis: Tributes paid to drummer Charli Britton](https://www.bbc.co.uk/news/uk-wales-58223168) - Britton's contribution to Welsh music was immeasurable, said Edward H Dafis bandmates.
 12. [Covid in Wales: Rail staff face abuse enforcing mask rules](https://www.bbc.co.uk/news/uk-wales-58205655) - Passengers on trains in Wales must still wear a mask, unlike in England where it is only advised.
 13. [Covid-19: How many windows to keep open to cut virus build-up](https://www.bbc.co.uk/news/uk-wales-58204733) - Opening four windows at lower speeds and only two on the motorway is best, researchers say.
@@ -23,5 +23,5 @@
 23. [Prisiau tai: Cymru'n gweld y cynnydd uchaf yn y DU](https://www.bbc.co.uk/newyddion/58217949) - Yn ôl un gwefan gwerthu tai mae prisiau wedi cynyddu 10.9% eleni, a 2.3% yn y mis diwethaf yn unig.
 24. [Dyfodol gwell i sioeau amaethyddol yn sgil llacio](https://www.bbc.co.uk/newyddion/58193752) - Er yn bryderus pwyllgorau sioeau Môn, Tregaron a Phenfro ymhlith y rhai sy'n cynnal digwyddiad yn 2021.
 25. [Cwtogi gŵyl Jazz Aberhonddu yn 'ergyd' i fusnesau](https://www.bbc.co.uk/newyddion/58224589) - Ond mae trefnwyr yn pwysleisio bod angen parhau i fod yn ofalus, tra bo'r pandemig yn parhau.
-26. [Oriel: Golygfeydd o Eryri sydd ddim ar y cardiau post](https://www.bbc.co.uk/newyddion/58089792) - Delweddau'r ffotograffydd Richard Outram o gymunedau byw Eryri.
+26. [Ateb y Galw: Y cerddor Lewys Wyn](https://www.bbc.co.uk/newyddion/58199558) - Y cerddor Lewys Wyn sy'n cael ei holi yr wythnos yma
 27. [Y Bencampwriaeth: Abertawe 0-0 Sheffield United](https://www.bbc.co.uk/newyddion/58209273) - Gêm ddi-sgôr oedd hi rhwng Abertawe a Sheffield United nos Sadwrn yn ne Cymru.

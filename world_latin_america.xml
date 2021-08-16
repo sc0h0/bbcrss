@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 16 Aug 2021 08:27:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Aug 2021 08:42:11 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -30,11 +30,25 @@
             <pubDate>Sat, 14 Aug 2021 04:38:09 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[US-Mexico border migrant detention levels reach 21-year high]]></title>
+            <description><![CDATA[Migrant numbers usually dip during the hot summer months, but July has continued an upward trend.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-58207124</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-58207124</guid>
+            <pubDate>Fri, 13 Aug 2021 18:35:46 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Brazil Congress expels lawmaker over murder charges]]></title>
             <description><![CDATA[Gospel singer turned lawmaker Flordelis de Souza is accused of ordering the murder of her husband.]]></description>
             <link>https://www.bbc.co.uk/news/world-latin-america-58171370</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-latin-america-58171370</guid>
             <pubDate>Thu, 12 Aug 2021 11:49:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[UK deportation flight to Jamaica leaves with dozens reprieved]]></title>
+            <description><![CDATA[A plane to Jamaica chartered by the Home Office was carrying just seven passengers, lawyers say.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-58177487</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58177487</guid>
+            <pubDate>Wed, 11 Aug 2021 22:23:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Brazil's Bolsonaro defeated over printed ballot proposal]]></title>
@@ -51,18 +65,11 @@
             <pubDate>Wed, 11 Aug 2021 07:21:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Lionel Messi dreams of Champions League win at Paris St-Germain]]></title>
-            <description><![CDATA[Lionel Messi says he dreams of winning the Champions League once more after joining Paris St-Germain, adding: "I think we have the team to do it here."]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58159748</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58159748</guid>
-            <pubDate>Wed, 11 Aug 2021 10:23:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mexican drug cartel threatens to kill TV reporter]]></title>
-            <description><![CDATA[In a video featuring heavily armed men the prominent female journalist is accused of unfair coverage.]]></description>
-            <link>https://www.bbc.co.uk/news/world-latin-america-58153732</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-latin-america-58153732</guid>
-            <pubDate>Tue, 10 Aug 2021 15:16:33 GMT</pubDate>
+            <title><![CDATA[Postcard from Chile arrives in Dorset after 30 years]]></title>
+            <description><![CDATA[The recipient says he was 'slightly confused' when it landed on his doormat three decades late.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-hampshire-58179661</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-hampshire-58179661</guid>
+            <pubDate>Thu, 12 Aug 2021 13:26:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The labels encouraging Chileans to buy healthier food]]></title>
@@ -100,6 +107,13 @@
             <pubDate>Sun, 08 Aug 2021 23:02:07 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Haiti struck by deadly 7.2-magnitude earthquake]]></title>
+            <description><![CDATA[A powerful earthquake has struck the Caribbean nation of Haiti, killing at least 304 people.]]></description>
+            <link>https://www.bbc.co.uk/news/world-latin-america-58216614</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-latin-america-58216614</guid>
+            <pubDate>Sat, 14 Aug 2021 18:24:25 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Lionel Messi: Barcelona star in tears as he receives ovation news conference]]></title>
             <description><![CDATA[Lionel Messi is distraught as he receives a standing ovation from team-mates, journalists, officials and his family at a news conference confirming his departure from Barcelona.]]></description>
             <link>https://www.bbc.co.uk/sport/av/football/58137848</link>
@@ -133,13 +147,6 @@
             <link>https://www.bbc.co.uk/news/world-latin-america-57927943</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-latin-america-57927943</guid>
             <pubDate>Thu, 22 Jul 2021 09:18:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Floridians rally in support of Cuban protesters]]></title>
-            <description><![CDATA[Across Florida, Cuban-Americans have been rallying to show their support for protests in Cuba.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-57869119</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-57869119</guid>
-            <pubDate>Fri, 16 Jul 2021 16:32:10 GMT</pubDate>
         </item>
     </channel>
 </rss>

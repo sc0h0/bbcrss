@@ -1,8 +1,8 @@
 1. [Minute's silence for Plymouth shooting victims](https://www.bbc.co.uk/news/uk-england-devon-58228401) - Five people were killed in the shooting on Thursday before Jake Davison took his own life.
 2. [Plymouth shootings: Police asked to review gun licence process](https://www.bbc.co.uk/news/uk-58226072) - Police in England and Wales are to assess the legitimacy of existing gun licences.
 3. [Covid: Self-isolation ends for double-jabbed and under-18s](https://www.bbc.co.uk/news/uk-58226678) - Rules change in England and Northern Ireland for contacts of people who test positive for Covid.
-4. [Great Yarmouth council removes Banksy mural over trampoline death](https://www.bbc.co.uk/news/uk-england-norfolk-58221044) - A council "covers over" the work amid "sensitivities" to events the artist "would not have known".
-5. [Crumbling NHS hospital assessed corporate manslaughter risk](https://www.bbc.co.uk/news/uk-england-cambridgeshire-57941926) - NHS hospitals have been supporting deteriorating concrete roofs with poles and other measures.
+4. [Men hurt in homophobic attack at Birmingham's Gay Village](https://www.bbc.co.uk/news/uk-england-birmingham-58228598) - One of them is knocked unconscious in the assault which began with abuse from a car, police say.
+5. [Great Yarmouth council removes Banksy mural over trampoline death](https://www.bbc.co.uk/news/uk-england-norfolk-58221044) - A council "covers over" the work amid "sensitivities" to events the artist "would not have known".
 6. [John O'Groats to Land's End paramotor flight for dementia research](https://www.bbc.co.uk/news/uk-england-norfolk-58220591) - Daniel Jones says he wants to get younger people talking about dementia.
 7. [Who were the victims?](https://www.bbc.co.uk/news/uk-58202760) - The gunman's mother, Maxine Davison, and three-year-old Sophie Martyn have been named among the dead.
 8. [A visual guide to what happened](https://www.bbc.co.uk/news/uk-england-devon-58200336) - A gunman shot and killed five people in Plymouth before turning the gun on himself. Here's what we know about how events unfolded.
@@ -16,10 +16,10 @@
 16. [Shooting 'a truly shocking event' say police](https://www.bbc.co.uk/news/uk-58198081) - Devon and Cornwall Police Chief Constable Shaun Sawyer explains how reports of the shootings came in.
 17. [Plymouth shooting: Inside the dark world of 'incels'](https://www.bbc.co.uk/news/blogs-trending-44053828) - Who are the angry young men who describe themselves as "involuntarily celibate"?
 18. [Plymouth MP: Community 'trying to make sense' of shooting](https://www.bbc.co.uk/news/uk-58198078) - MP Luke Pollard says the community is pulling together in the face of the "deeply grim" news.
-19. [Woman seriously injured by her dog in attack](https://www.bbc.co.uk/news/uk-england-nottinghamshire-58224546) - She was injured when her American bulldog turned on a child then attacked her as she intervened.
-20. [Dead police officer and child in Kidderminster were father and son](https://www.bbc.co.uk/news/uk-england-hereford-worcester-58220317) - Colleagues from the West Mercia force name the pair as David Louden, 39, and Harrison, three.
-21. [Climber rescued after falling seven metres from Portland cliffs](https://www.bbc.co.uk/news/uk-england-dorset-58215200) - A coastguard rescue helicopter takes the casualty to hospital following his seven-metre plummet.
-22. [Notting Hill: Murder arrest over woman's stab death at home](https://www.bbc.co.uk/news/uk-england-london-58215541) - The victim - thought to be in her 70s - is fatally wounded at property in Notting Hill, west London.
+19. [Crumbling NHS hospital assessed corporate manslaughter risk](https://www.bbc.co.uk/news/uk-england-cambridgeshire-57941926) - NHS hospitals have been supporting deteriorating concrete roofs with poles and other measures.
+20. [Woman seriously injured by her dog in attack](https://www.bbc.co.uk/news/uk-england-nottinghamshire-58224546) - She was injured when her American bulldog turned on a child then attacked her as she intervened.
+21. [Dead police officer and child in Kidderminster were father and son](https://www.bbc.co.uk/news/uk-england-hereford-worcester-58220317) - Colleagues from the West Mercia force name the pair as David Louden, 39, and Harrison, three.
+22. [The Beatles: Aphrodite statue from historic gig being auctioned](https://www.bbc.co.uk/news/uk-england-merseyside-58228053) - The Aphrodite statue was used in The Beatles set in the first live satellite broadcast in 1967.
 23. [Cornwall rescue: Cat's meows alert rescuers to stricken owner](https://www.bbc.co.uk/news/uk-england-cornwall-58217476) - Piran the cat leads rescuers to its 83-year-old owner, who had fallen down a 70ft (21m) ravine.
 24. [Car in near-miss with train on Cumbria level crossing](https://www.bbc.co.uk/news/uk-england-cumbria-58202029) - CCTV footage shows the car driving across the barrierless crossing in front of the Northern train.
 25. [Bolton woman inspired to create Muslim hiking group](https://www.bbc.co.uk/news/uk-england-manchester-58192877) - Amira Patel says more women should be encouraged to become confident walking in the wild.
