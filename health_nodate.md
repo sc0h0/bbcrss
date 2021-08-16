@@ -1,11 +1,11 @@
-1. [Covid: 16 and 17-year-olds in England to be offered jab by 23 August](https://www.bbc.co.uk/news/uk-58216017) - Those in England will be offered a jab or the chance to book one by 23 August, the government says.
-2. [Covid vaccine: Parents upset at jabs wait for high-risk children](https://www.bbc.co.uk/news/health-58179302) - Some families are struggling to get vaccines for vulnerable teens, nearly a month after they became eligible.
-3. [Don't ignore cancer signs, says new NHS England boss](https://www.bbc.co.uk/news/health-58199169) - About 10% fewer people with cancer than normal have been seen over the past year, figures show.
-4. [Covid: Carrie Johnson urges pregnant women to get vaccinated](https://www.bbc.co.uk/news/uk-58215440) - The PM's wife, who is expecting a baby, says she is "feeling great" after having her second vaccine.
-5. [Cost of NHS Covid tests for UK arrivals reduced](https://www.bbc.co.uk/news/business-58206517) - Sajid Javid reduces the cost of NHS travel tests ahead of a review into the pricing of all test providers.
-6. [Metabolism peaks at age one and tanks after 60, study finds](https://www.bbc.co.uk/news/health-58186710) - Middle-aged spread cannot be blamed on a waning metabolism, according to researchers.
-7. [Huge gulf in hospitals' ability to contain Covid](https://www.bbc.co.uk/news/health-58186709) - Hospital-acquired Covid ranged from 1% to 25% of cases in different hospitals.
-8. [Covid: Record your cough to help improve detection, says government](https://www.bbc.co.uk/news/uk-politics-58199049) - The government wants people to send in samples of themselves breathing, coughing and reading aloud.
+1. [Covid: Self-isolation ends for double-jabbed and under-18s](https://www.bbc.co.uk/news/uk-58226678) - Rules change in England and Northern Ireland for contacts of people who test positive for Covid.
+2. [Covid: 16 and 17-year-olds in England to be offered jab by 23 August](https://www.bbc.co.uk/news/uk-58216017) - Those in England will be offered a jab or the chance to book one by 23 August, the government says.
+3. [Covid-19: Daughter of Oxfordshire man urges caution](https://www.bbc.co.uk/news/uk-england-oxfordshire-58206368) - David Allum, 58, died after complications from Covid-19 despite receiving both vaccine doses.
+4. [Covid vaccine: Parents upset at jabs wait for high-risk children](https://www.bbc.co.uk/news/health-58179302) - Some families are struggling to get vaccines for vulnerable teens, nearly a month after they became eligible.
+5. [Don't ignore cancer signs, says new NHS England boss](https://www.bbc.co.uk/news/health-58199169) - About 10% fewer people with cancer than normal have been seen over the past year, figures show.
+6. [Covid: Carrie Johnson urges pregnant women to get vaccinated](https://www.bbc.co.uk/news/uk-58215440) - The PM's wife, who is expecting a baby, says she is "feeling great" after having her second vaccine.
+7. [Cost of NHS Covid tests for UK arrivals reduced](https://www.bbc.co.uk/news/business-58206517) - Sajid Javid reduces the cost of NHS travel tests ahead of a review into the pricing of all test providers.
+8. [Metabolism peaks at age one and tanks after 60, study finds](https://www.bbc.co.uk/news/health-58186710) - Middle-aged spread cannot be blamed on a waning metabolism, according to researchers.
 9. [NHS waiting list in England hits record 5.45 million](https://www.bbc.co.uk/news/health-58186708) - Hospitals are working through the backlog - but some patients are waiting more than two years.
 10. [Teenage jab rollout moving cautiously - expert](https://www.bbc.co.uk/news/uk-58170048) - Children aged 16 and 17 began to be invited for their jabs a week ago, after a change in advice.
 11. [Covid vaccine: Fertility and miscarriage claims fact-checked](https://www.bbc.co.uk/news/health-57552527) - Posts claiming Covid vaccines cause miscarriages are not supported by scientific evidence.

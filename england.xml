@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 16 Aug 2021 07:16:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Aug 2021 07:37:22 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -149,13 +149,6 @@
             <pubDate>Sun, 15 Aug 2021 15:55:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Climber rescued after falling seven metres from Portland cliffs]]></title>
-            <description><![CDATA[A coastguard rescue helicopter takes the casualty to hospital following his seven-metre plummet.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-dorset-58215200</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-dorset-58215200</guid>
-            <pubDate>Sun, 15 Aug 2021 11:33:20 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Dead police officer and child in Kidderminster were father and son]]></title>
             <description><![CDATA[Colleagues from the West Mercia force name the pair as David Louden, 39, and Harrison, three.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-hereford-worcester-58220317</link>
@@ -163,18 +156,25 @@
             <pubDate>Sun, 15 Aug 2021 08:09:25 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Climber rescued after falling seven metres from Portland cliffs]]></title>
+            <description><![CDATA[A coastguard rescue helicopter takes the casualty to hospital following his seven-metre plummet.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-dorset-58215200</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-dorset-58215200</guid>
+            <pubDate>Sun, 15 Aug 2021 11:33:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Notting Hill: Murder arrest over woman's stab death at home]]></title>
+            <description><![CDATA[The victim - thought to be in her 70s - is fatally wounded at property in Notting Hill, west London.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-58215541</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-58215541</guid>
+            <pubDate>Sun, 15 Aug 2021 14:45:06 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Cornwall rescue: Cat's meows alert rescuers to stricken owner]]></title>
             <description><![CDATA[Piran the cat leads rescuers to its 83-year-old owner, who had fallen down a 70ft (21m) ravine.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-cornwall-58217476</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-cornwall-58217476</guid>
             <pubDate>Sun, 15 Aug 2021 11:53:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid-19: Boardmasters festival-goers urged to 'grab a jab']]></title>
-            <description><![CDATA[A pop-up vaccination clinic says it is hoping to see as many "glittered-up faces as possible".]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-cornwall-58220286</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-cornwall-58220286</guid>
-            <pubDate>Sun, 15 Aug 2021 07:45:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Car in near-miss with train on Cumbria level crossing]]></title>
