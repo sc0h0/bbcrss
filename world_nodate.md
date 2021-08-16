@@ -3,7 +3,7 @@
 3. [Tesla Autopilot: US opens official investigation into self-driving tech](https://www.bbc.co.uk/news/technology-58232137) - The investigation covers all Tesla cars since 2014, focusing on crashes with emergency vehicles.
 4. [Uganda anti-pornography law dropped after backlash](https://www.bbc.co.uk/news/world-africa-58235637) - Legislation branded the "anti-miniskirt" law is annulled by Uganda's Constitutional Court.
 5. [Bezos sues Nasa over its deal with Elon Musk's SpaceX](https://www.bbc.co.uk/news/business-58235479) - Mr Bezos's Blue Origin says it was unfairly treated after being excluded from lunar landing contract.
-6. [Tokyo Paralympics: Spectators will not be allowed at the Games](https://www.bbc.co.uk/sport/disability-sport/58228049) - Spectators will not be allowed at Paralympic Games events in Tokyo, organisers confirm.
+6. [Why is the Taliban's Kabul victory being compared to the fall of Saigon?](https://www.bbc.co.uk/news/world-asia-58234884) - Many have drawn parallels with America's withdrawal from Vietnam in 1975 - but is this fair?
 7. [US increases food stamp aid for poorer Americans](https://www.bbc.co.uk/news/world-us-canada-58235165) - The increase of about $36 (£26) per person, per month, is the largest in the programme's history.
 8. [Lebanon deadly petrol tank blast sparks protest at PM-designate's home](https://www.bbc.co.uk/news/world-middle-east-58229183) - Protesters attack the PM-designate's home after 27 people are killed while queueing for fuel.
 9. [Polish law on property stolen by Nazis angers Israel](https://www.bbc.co.uk/news/world-europe-58218750) - A new law will make it harder for people to recover property lost in World War Two.
@@ -20,11 +20,11 @@
 20. [Afghanistan: People flee Kabul as Taliban overrun cities](https://www.bbc.co.uk/news/world-middle-east-58225187) - Roads out of the Afghan capital have been choked with traffic as people try to escape a Taliban takeover.
 21. [India's dancing cop becomes internet star](https://www.bbc.co.uk/news/world-asia-india-58184026) - An Indian police officer has become a social media sensation because of his viral dance videos.
 22. [The zero-power sewage plant inspired by cows](https://www.bbc.co.uk/news/science-environment-58017501) - Fifty sustainable sewage treatment plants have been built that work in similar way to a cow's stomach.
-23. [Malala: 'Futures of Afghan child refugees aren't lost'](https://www.bbc.co.uk/news/world-asia-58236327) - Nobel peace laureate, Malala Yousafzai was shot in the head by the Taliban in 2012.
-24. [Afghanistan conflict: As Kabul falls, Biden backlash grows](https://www.bbc.co.uk/news/world-us-canada-58224399) - Soldiers, statesmen and Afghan-Americans criticise the president - but how will the public react?
-25. [Afghanistan: Taliban spokesman Suhail Shaheen calls the BBC - interview in full](https://www.bbc.co.uk/news/world-asia-58223530) - A spokesman for the Taliban, Suhail Shaheen, called the BBC's Yalda Hakim, live on air.
-26. [Afghanistan: Why is there a war?](https://www.bbc.co.uk/news/world-asia-49192495) - As foreign forces pull out after 20 years of war, what did it achieve and what happens next?
-27. [Afghans living under Taliban lament loss of freedoms](https://www.bbc.co.uk/news/world-asia-58191440) - Afghans in Taliban-controlled provinces describe life under its fundamentalist Islamist rule.
+23. [Afghanistan conflict: As Kabul falls, Biden backlash grows](https://www.bbc.co.uk/news/world-us-canada-58224399) - Soldiers, statesmen and Afghan-Americans criticise the president - but how will the public react?
+24. [Afghanistan: Taliban spokesman Suhail Shaheen calls the BBC - interview in full](https://www.bbc.co.uk/news/world-asia-58223530) - A spokesman for the Taliban, Suhail Shaheen, called the BBC's Yalda Hakim, live on air.
+25. [Afghanistan: Why is there a war?](https://www.bbc.co.uk/news/world-asia-49192495) - As foreign forces pull out after 20 years of war, what did it achieve and what happens next?
+26. [Afghans living under Taliban lament loss of freedoms](https://www.bbc.co.uk/news/world-asia-58191440) - Afghans in Taliban-controlled provinces describe life under its fundamentalist Islamist rule.
+27. [Afghanistan: UK has abandoned Afghan people, says senior MP](https://www.bbc.co.uk/news/uk-58220730) - Tory MP Tom Tugendhat says the troop withdrawal is the biggest foreign policy disaster since Suez.
 28. [How the Taliban stormed across Afghanistan in ten days](https://www.bbc.co.uk/news/world-58232525) - The Taliban took their first city on 6 Aug and arrived in Kabul just over a week later.
 29. [Afghanistan: In pictures: Kabul - a day after Taliban takeover](https://www.bbc.co.uk/news/in-pictures-58225117) - Kabul - the Afghan capital - is quiet in some parts, but chaotic at the airport where thousands are trying to flee.
 30. [Kabul centre quiet and subdued after Taliban takeover](https://www.bbc.co.uk/news/world-asia-58232815) - BBC video journalist Malik Mudassir speaks about life in the city after its capture by the Taliban.
