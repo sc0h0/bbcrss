@@ -1,10 +1,10 @@
 1. [Minute's silence for Plymouth shooting victims](https://www.bbc.co.uk/news/uk-england-devon-58228401) - Five people were killed in the shooting on Thursday before Jake Davison took his own life.
 2. [Plymouth shootings: Police asked to review gun licence process](https://www.bbc.co.uk/news/uk-58226072) - Police in England and Wales are to assess the legitimacy of existing gun licences.
-3. [Murder police in hunt for victim's husband](https://www.bbc.co.uk/news/uk-england-leeds-58229255) - Eileen Barrott died at the scene in Whinmoor on Sunday evening and police wish to trace her husband.
+3. [Leeds murder investigation in Whinmoor in hunt for victim's husband](https://www.bbc.co.uk/news/uk-england-leeds-58229255) - Eileen Barrott died at the scene in Whinmoor on Sunday evening and police wish to trace her husband.
 4. [Moped rider to tour UK's rude place names](https://www.bbc.co.uk/news/uk-england-58229967) - Paul Taylor will visit towns such as Shitterton and Cockpole Green on the 1,800-mile charity tour.
 5. [Mark Chilman jailed for murdering ex's new partner and setting body on fire](https://www.bbc.co.uk/news/uk-england-hereford-worcester-58233001) - Mark Chilman set his victim's car on fire in a bid to make it look like suicide, the court hears.
 6. [Men hurt in homophobic attack at Birmingham's Gay Village](https://www.bbc.co.uk/news/uk-england-birmingham-58228598) - One of them is knocked unconscious in the assault which began with abuse from a car, police say.
-7. [Sebastian Kalinowski: Mother charged with teen's murder](https://www.bbc.co.uk/news/uk-england-humber-58233212) - Sebastian Kalinowski, 15, died after being found unconscious in Huddersfield on Friday.
+7. [Hallam FC physio helps save football official who collapsed](https://www.bbc.co.uk/news/uk-england-south-yorkshire-58228519) - Shannon Brooks is praised for helping save a match official who suffered a suspected heart attack.
 8. [Who were the victims?](https://www.bbc.co.uk/news/uk-58202760) - The gunman's mother, Maxine Davison, and three-year-old Sophie Martyn have been named among the dead.
 9. ['Your memories will never leave us' - notes to the victims](https://www.bbc.co.uk/news/uk-england-devon-58229935) - Flowers and heartfelt messages are placed in Keyham in memory of the five people killed.
 10. [Plymouth shooting: Who can own a firearm or shotgun in the UK?](https://www.bbc.co.uk/news/uk-58198857) - A shooting in Plymouth which left six people dead has put the focus on who can own a gun in the UK.
@@ -20,7 +20,7 @@
 20. [Plymouth MP: Community 'trying to make sense' of shooting](https://www.bbc.co.uk/news/uk-58198078) - MP Luke Pollard says the community is pulling together in the face of the "deeply grim" news.
 21. [Man swept to his death by 'rogue wave' at Tubby's Head](https://www.bbc.co.uk/news/uk-england-cornwall-58232665) - An inquest concludes that Tyler Westlake, who was swept off rocks while fishing, died accidentally.
 22. [Suffolk hospital assessed legal risk of fatal roof collapse](https://www.bbc.co.uk/news/uk-england-cambridgeshire-57941926) - NHS hospitals have been supporting deteriorating concrete roofs with poles and other measures.
-23. [Nearly every London school in high air pollution area, report says](https://www.bbc.co.uk/news/uk-england-london-58230278) - Some 98% of London schools are in areas with high air pollution, City Hall analysis suggests.
+23. [Sebastian Kalinowski: Mother charged with teen's murder](https://www.bbc.co.uk/news/uk-england-humber-58233212) - Sebastian Kalinowski, 15, died after being found unconscious in Huddersfield on Friday.
 24. [The Beatles: Aphrodite statue from historic gig being auctioned](https://www.bbc.co.uk/news/uk-england-merseyside-58228053) - The Aphrodite statue was used in The Beatles set in the first live satellite broadcast in 1967.
 25. [Gorleston Banksy: Covered artwork done with 'best intentions'](https://www.bbc.co.uk/news/uk-england-norfolk-58229021) - A council paints over a new mural due to "sensitivities" around Ava-May Littleboy's death in 2018.
 26. [Weymouth rescue after deer spotted swimming in the sea](https://www.bbc.co.uk/news/uk-england-dorset-58232477) - A fishing boat spotted the foal in the water near Weymouth harbour and it was brought back to shore.
@@ -29,4 +29,3 @@
 29. [Bolton woman inspired to create Muslim hiking group](https://www.bbc.co.uk/news/uk-england-manchester-58192877) - Amira Patel says more women should be encouraged to become confident walking in the wild.
 30. [Bomb threat arrest at Northampton police station caught on film](https://www.bbc.co.uk/news/uk-england-northamptonshire-58187469) - A man is seen being tackled to the ground by officers after claiming he had a bomb in a bag.
 31. [Tom Daley: Olympic diving champion on winning gold, his late father, his son, and his love of knitting](https://www.bbc.co.uk/sport/diving/58218136) - In a wide-ranging interview, Tom Daley speaks exclusively to BBC Breakfast about winning Olympic gold, his family, and his love of knitting.
-32. [Tommy Makinson: St Helens winger handed three-game ban for high tackle against Castleford](https://www.bbc.co.uk/sport/rugby-league/58217571) - St Helens winger Tommy Makinson is banned for three games for a high tackle against Castleford and misses Friday's derby at Wigan.

@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 16 Aug 2021 14:45:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Aug 2021 15:04:06 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -380,13 +380,6 @@
             <pubDate>Mon, 16 Aug 2021 11:37:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Garth Crooks' team of the week: Alisson, Chalobah, Son, Salah, Fernandes]]></title>
-            <description><![CDATA[Which player showed why Tottenham should take the money and sell Harry Kane? Who was practically unplayable? Find out in Garth Crooks' team of the week.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58224395</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58224395</guid>
-            <pubDate>Sun, 15 Aug 2021 19:46:37 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Australian World Cup-winner Kefu suffers 'significant injuries' in attack at his home]]></title>
             <description><![CDATA[Toutai Kefu and three family members suffer "significant injuries" in a suspected botched burglary.]]></description>
             <link>https://www.bbc.co.uk/news/world-australia-58227126</link>
@@ -422,13 +415,6 @@
             <pubDate>Wed, 11 Aug 2021 11:59:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid-19 in the UK: How many coronavirus cases are there in my area?]]></title>
-            <description><![CDATA[Explore the data on coronavirus in the UK and find out how many cases there are in your area.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-51768274</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-51768274</guid>
-            <pubDate>Sun, 15 Aug 2021 16:27:15 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Covid: What do under-30s need to know about the vaccine?]]></title>
             <description><![CDATA[The government has announced that 16 and 17-year-olds will receive the Covid vaccine.]]></description>
             <link>https://www.bbc.co.uk/news/health-57273875</link>
@@ -441,6 +427,13 @@
             <link>https://www.bbc.co.uk/news/explainers-55718553</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-55718553</guid>
             <pubDate>Mon, 16 Aug 2021 09:05:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19 in the UK: How many coronavirus cases are there in my area?]]></title>
+            <description><![CDATA[Explore the data on coronavirus in the UK and find out how many cases there are in your area.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-51768274</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-51768274</guid>
+            <pubDate>Sun, 15 Aug 2021 16:27:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What are the travel rules for Spain, Portugal, Malta and other holiday hotspots?]]></title>

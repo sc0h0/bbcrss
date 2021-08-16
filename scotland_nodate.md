@@ -33,6 +33,6 @@
 33. ['Poorer communities need help to go green'](https://www.bbc.co.uk/news/uk-scotland-58191576) - People in areas associated with high deprivation are set to feel the impact of climate change more sharply.
 34. [Celtic 3-1 Hearts: Furuhashi can 'handle' rough stuff, says Postecoglou](https://www.bbc.co.uk/sport/football/58137990) - Kyogo Furuhashi showed he can "handle" the the rigours of the Scottish game in Celtic'swin over Hearts, says Ange Postecoglou.
 35. [Scottish League Cup: Holders St Johnstone face Dundee in quarter-finals](https://www.bbc.co.uk/sport/football/58224773) - Holders St Johnstone will face Dundee in the quarter-finals of this season's Scottish League Cup.
-36. [Scottish Gossip: Celtic, Jullien, Hibs, Doidge, Rangers, Cahill, Katic](https://www.bbc.co.uk/sport/football/58228391) - Transfer incomings targeted at Celtic and Hibs as Rangers defender brushes off speculation.
+36. [Scottish Gossip: Celtic, Hagi, Jullien, Hibs, Doidge, Rangers, Cahill, Katic](https://www.bbc.co.uk/sport/football/58228391) - Transfer incomings targeted at Celtic and Hibs as Rangers defender brushes off speculation.
 37. [Jake Hastie: Partick Thistle sign Rangers winger on loan](https://www.bbc.co.uk/sport/football/58232805) - Partick Thistle sign winger Jake Hastie on loan from Rangers, initially until January.
 38. [Cazoo Classic: Scotland's Calum Hill seals maiden European Tour title](https://www.bbc.co.uk/sport/golf/58223013) - Scotland's Calum Hill secures his first European Tour title with a one-shot win at the Cazoo Classic in Kent.
