@@ -22,7 +22,7 @@
 22. [Christian Doidge: Injured Hibs striker out until at least December](https://www.bbc.co.uk/sport/football/58223008) - Hibernian striker Christian Doidge has been ruled out until December at the earliest with an Achilles injury.
 23. [WRC: Thierry Neuville beats Craig Breen and Elfyn Evans in Ypres](https://www.bbc.co.uk/sport/motorsport/58221373) - Ireland's Craig Breen finished second behind Belgian home favourite Thierrry Neuville in the WRC Ypres Rally, with Welshman Elfyn Evans fourth.
 24. [Prisiau tai: Cymru'n gweld y cynnydd uchaf yn y DU](https://www.bbc.co.uk/newyddion/58217949) - Yn ôl un gwefan gwerthu tai mae prisiau wedi cynyddu 10.9% eleni, a 2.3% yn y mis diwethaf yn unig.
-25. [Charli Britton, drymiwr Edward H. Dafis, wedi marw](https://www.bbc.co.uk/newyddion/58209274) - Teyrngedau i ddrymiwr y band Edward H. Dafis, Charli Britton, sydd wedi marw'n 68 oed.
-26. [Arestio saith o Gymru yn dilyn ymosodiad yn Lerpwl](https://www.bbc.co.uk/newyddion/58225608) - Dywedodd yr heddlu bod dyn 24 oed o Ogledd Iwerddon yn yr ysbyty mewn cyflwr difrifol ond sefydlog.
+25. [Dyfodol gwell i sioeau amaethyddol yn sgil llacio](https://www.bbc.co.uk/newyddion/58193752) - Er yn bryderus pwyllgorau sioeau Môn, Tregaron a Phenfro ymhlith y rhai sy'n cynnal digwyddiad yn 2021.
+26. [Charli Britton, drymiwr Edward H. Dafis, wedi marw](https://www.bbc.co.uk/newyddion/58209274) - Teyrngedau i ddrymiwr y band Edward H. Dafis, Charli Britton, sydd wedi marw'n 68 oed.
 27. [Oriel: Golygfeydd o Eryri sydd ddim ar y cardiau post](https://www.bbc.co.uk/newyddion/58089792) - Delweddau'r ffotograffydd Richard Outram o gymunedau byw Eryri.
 28. [Y Bencampwriaeth: Abertawe 0-0 Sheffield United](https://www.bbc.co.uk/newyddion/58209273) - Gêm ddi-sgôr oedd hi rhwng Abertawe a Sheffield United nos Sadwrn yn ne Cymru.
