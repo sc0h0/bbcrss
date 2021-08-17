@@ -2,7 +2,7 @@
 2. [Afghanistan refugees scheme to be detailed by UK government](https://www.bbc.co.uk/news/uk-58238490) - The new scheme will be aimed at helping those most in need, including women and girls, No 10 says.
 3. [Covid testing is rip-off, says former regulator](https://www.bbc.co.uk/news/business-58200203) - Lord Tyrie, ex-boss of the competition watchdog, says it was slow to react to complaints about providers.
 4. [No need to swap data for drinks, says privacy body](https://www.bbc.co.uk/news/business-58230932) - Some pub ordering apps ask too many questions, but you can refuse, says the information watchdog.
-5. [Bob Dylan accused of sexually abusing girl in 1965](https://www.bbc.co.uk/news/entertainment-arts-58239195) - A woman says the US singer-songwriter abused her when she was 12 - a claim he denies.
+5. [Bob Dylan denies sexually abusing girl in 1965](https://www.bbc.co.uk/news/entertainment-arts-58239195) - A woman says the US singer-songwriter abused her when she was 12 - a claim he denies.
 6. [Snooker star Allen defeats former partner Evans](https://www.bbc.co.uk/sport/snooker/58236543) - Mark Allen defeats former partner Reanne Evans 3-2 after surviving a major scare in the British Open.
 7. [UK blood supplies to be used to make life-saving drug](https://www.bbc.co.uk/news/health-58229083) - Plasma from donors in England can now be used for the medicine, after a previous ban on UK supplies.
 8. [Men hurt in homophobic attack at Birmingham's Gay Village](https://www.bbc.co.uk/news/uk-england-birmingham-58228598) - One man was knocked unconscious in an attack which began with abuse being shouted from inside a car.
@@ -21,9 +21,9 @@
 21. [Afghanistan: Chaotic scenes at Kabul airport](https://www.bbc.co.uk/news/world-asia-58226712) - Video shows hundreds of Afghans attempting to escape, as the Taliban took over the capital.
 22. [UK military commander: 'We've betrayed' Afghans who helped British troops'](https://www.bbc.co.uk/news/uk-58231760) - Major General Charlie Herbert, a military commander from the UK’s campaign in Afghanistan, has accused the government of betraying Afghans who supported British troops.
 23. [The Papers: Race to escape Kabul 'carnage' and 'no way out'](https://www.bbc.co.uk/news/blogs-the-papers-58238617) - The turmoil in Afghanistan continues to dominate the papers after the Taliban seized control of the country.
-24. [Covid: Summer schools help students make up for lost time](https://www.bbc.co.uk/news/education-58231727) - Most of the government's summer school funding in England is being used to help Year 6s make the move to Year 7.
-25. [Images show decline of California's 'life source'](https://www.bbc.co.uk/news/world-us-canada-58232044) - Justin Sullivan has been following California's second-largest reservoir's falling water levels.
-26. [Afghanistan: UK and US must protect Afghan activists - Malala](https://www.bbc.co.uk/news/uk-58237871) - The Nobel Peace Prize winner, who was shot by the Taliban, calls for countries to take in refugees.
+24. [Afghanistan: UK and US must protect Afghan activists - Malala](https://www.bbc.co.uk/news/uk-58237871) - The Nobel Peace Prize winner, who was shot by the Taliban, calls for countries to take in refugees.
+25. [Covid: Summer schools help students make up for lost time](https://www.bbc.co.uk/news/education-58231727) - Most of the government's summer school funding in England is being used to help Year 6s make the move to Year 7.
+26. [Images show decline of California's 'life source'](https://www.bbc.co.uk/news/world-us-canada-58232044) - Justin Sullivan has been following California's second-largest reservoir's falling water levels.
 27. [Banksy: A guide to his 'Great British Spraycation'](https://www.bbc.co.uk/news/uk-england-norfolk-58145220) - New murals that have appeared on England's east coast are confirmed as the work of the elusive artist.
 28. [Otter cub found in stream 'crying for mother' rescued by RSPCA](https://www.bbc.co.uk/news/uk-england-cumbria-58236045) - A member of the public spotted the young mammal alone and distressed near Windermere.
 29. [Suez Canal: T. rex stuck on Ever Given arrives at golf course](https://www.bbc.co.uk/news/uk-england-cambridgeshire-58232355) - The dinosaur model is finally installed at golf course after months on board the Ever Given.
