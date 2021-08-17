@@ -5,10 +5,10 @@
 5. [Lily Cole: Model apologises for posing in a burka on Instagram](https://www.bbc.co.uk/news/entertainment-arts-58245304) - The model and activist posted a picture of herself in a burka as a way to "embrace diversity".
 6. [UK job vacancies at record high as wages pick up](https://www.bbc.co.uk/news/business-58241006) - Job vacancies hit 953,000 amid signs the country's labour market is rebounding "robustly".
 7. [Ex-marine: I'm not leaving Kabul without my animal rescue staff](https://www.bbc.co.uk/news/uk-58240838) - Founder of an animal sanctuary Pen Farthing urges ministers to get 71 people to safety in the UK.
-8. [Covid: Queen remains at Balmoral as staff member tests positive](https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-58245334) - The Queen, who is 95 and vaccinated, will remain at her private retreat in Scotland as planned.
-9. [Haiti earthquake: Tropical Storm Grace hampers rescue](https://www.bbc.co.uk/news/world-latin-america-58222888) - Tropical Storm Grace has dumped heavy rain on Haiti just days after a tremor left at least 1,419 dead.
-10. [Eileen Barrott murder: NHS tribute to nurse as manhunt continues](https://www.bbc.co.uk/news/uk-england-leeds-58243279) - Hospital bosses pay tribute to Eileen Barrott as police continue to search for her husband.
-11. [Mastercard to end magnetic strip on cards](https://www.bbc.co.uk/news/technology-58206591) - The company sets an expiry date of 2033 for the decades-old technology.
+8. [Mastercard to end magnetic strip on cards](https://www.bbc.co.uk/news/technology-58206591) - The company sets an expiry date of 2033 for the decades-old technology.
+9. [Covid: Queen remains at Balmoral as staff member tests positive](https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-58245334) - The Queen, who is 95 and vaccinated, will remain at her private retreat in Scotland as planned.
+10. [Haiti earthquake: Tropical Storm Grace hampers rescue](https://www.bbc.co.uk/news/world-latin-america-58222888) - Tropical Storm Grace has dumped heavy rain on Haiti just days after a tremor left at least 1,419 dead.
+11. [Eileen Barrott murder: NHS tribute to nurse as manhunt continues](https://www.bbc.co.uk/news/uk-england-leeds-58243279) - Hospital bosses pay tribute to Eileen Barrott as police continue to search for her husband.
 12. [Sudoku: Maki Kaji, puzzle enthusiast, dies aged 69](https://www.bbc.co.uk/news/world-asia-58243126) - The Japanese puzzle enthusiast helped popularise the number game, leading to its global success.
 13. [Afghanistan: Female presenters back on Tolo News after Taliban takeover](https://www.bbc.co.uk/news/world-asia-58241000) - Women had been noticeably absent from major news outlets after the Taliban took control of Afghanistan.
 14. [Biden's speech on Afghanistan fact-checked](https://www.bbc.co.uk/news/58243158) - How consistent was President Biden's speech with his previous statements on Afghanistan?

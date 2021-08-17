@@ -2,14 +2,14 @@
 2. [Child, 2, dies after Deeside incident, prompting investigation](https://www.bbc.co.uk/news/uk-wales-58246055) - The child died in hospital on Monday following an incident at a property on Saturday.
 3. [Covid-19: Deaths rise in Wales to 22](https://www.bbc.co.uk/news/uk-wales-58244250) - Covid deaths increased in Wales but are still well below levels in the second wave, figures show.
 4. [Staff shortages remain despite more out of work in Wales](https://www.bbc.co.uk/news/uk-wales-58241503) - The number of people out of work fell in the past three months but is still higher than last year.
-5. [Wrexham: Teenager charged over serious assault](https://www.bbc.co.uk/news/uk-wales-58241025) - Christopher Keenan has been charged with grievous bodily harm with intent following the attack.
-6. [Farmer calls for A494 speed limit changes following crashes](https://www.bbc.co.uk/news/uk-wales-58235362) - Kevin Peacock says several cars have crashed onto his property and wants the speed limit lowered.
-7. [Cardiff Airport announces Ryanair flights to Dublin](https://www.bbc.co.uk/news/uk-wales-58246062) - Ryanair will operate four weekly flights between the capital cities from 31 October.
-8. [Cardiff council says garden waste collection to be cut due to lack of drivers](https://www.bbc.co.uk/news/uk-wales-58235359) - Almost a quarter of the drivers needed are currently unavailable for work, a council says.
-9. [Porth Neigwl: More safety measures needed at site of beach death, says witness](https://www.bbc.co.uk/news/uk-wales-58235357) - A man who witnessed an unsuccessful attempt to save a man says more warnings are needed.
-10. [Afghanistan: Soldier's mum hopes his death was not in vain](https://www.bbc.co.uk/news/uk-wales-58230075) - Sarah Adams, whose son James Prosser was killed in Afghanistan in 2009, says she is "heartbroken".
-11. [Hollywood-style sign in Wrexham is a whodunnit](https://www.bbc.co.uk/news/uk-wales-58230790) - The sign was erected on the slag heap at Bersham Bank colliery tip over the weekend.
-12. [Milad Rouf: Medical student pleads guilty to Brighton acid attack](https://www.bbc.co.uk/news/uk-england-sussex-58232397) - Milad Rouf, from Cardiff, threw sulphuric acid over a young doctor in Brighton in May.
+5. [NHS worker Alan Macalalad unlikely to have caught Covid at work](https://www.bbc.co.uk/news/uk-wales-58241511) - A coroner says Alan Macalalad's suffered health issues before his death from natural causes.
+6. [Wrexham: Teenager charged over serious assault](https://www.bbc.co.uk/news/uk-wales-58241025) - Christopher Keenan has been charged with grievous bodily harm with intent following the attack.
+7. [Farmer calls for A494 speed limit changes following crashes](https://www.bbc.co.uk/news/uk-wales-58235362) - Kevin Peacock says several cars have crashed onto his property and wants the speed limit lowered.
+8. [Cardiff Airport announces Ryanair flights to Dublin](https://www.bbc.co.uk/news/uk-wales-58246062) - Ryanair will operate four weekly flights between the capital cities from 31 October.
+9. [Cardiff council says garden waste collection to be cut due to lack of drivers](https://www.bbc.co.uk/news/uk-wales-58235359) - Almost a quarter of the drivers needed are currently unavailable for work, a council says.
+10. [Porth Neigwl: More safety measures needed at site of beach death, says witness](https://www.bbc.co.uk/news/uk-wales-58235357) - A man who witnessed an unsuccessful attempt to save a man says more warnings are needed.
+11. [Afghanistan: Soldier's mum hopes his death was not in vain](https://www.bbc.co.uk/news/uk-wales-58230075) - Sarah Adams, whose son James Prosser was killed in Afghanistan in 2009, says she is "heartbroken".
+12. [Hollywood-style sign in Wrexham is a whodunnit](https://www.bbc.co.uk/news/uk-wales-58230790) - The sign was erected on the slag heap at Bersham Bank colliery tip over the weekend.
 13. [CCTV catches moment car crashes off A494 on to farmer's land](https://www.bbc.co.uk/news/uk-wales-58243619) - A farmer's CCTV captures the moment a car crashes on the A494 onto his property.
 14. [Afghanistan: Three views from Wales as the Taliban take control of Kabul](https://www.bbc.co.uk/news/uk-wales-58238554) - As the Taliban take control of Afghanistan, people affected question whether it was worth it.
 15. [Covid in Wales: Rail staff face abuse enforcing mask rules](https://www.bbc.co.uk/news/uk-wales-58205655) - Passengers on trains in Wales must still wear a mask, unlike in England where it is only advised.
@@ -24,5 +24,5 @@
 24. [Rheolaeth drwy orfodaeth: Dynion yn diodde' hefyd](https://www.bbc.co.uk/newyddion/58236852) - Yn ôl un cynllun sy'n gweithio gyda dioddefwyr gwrywaidd, dyw llawer o ddynion ddim yn cael eu credu.
 25. [Cynghorau i gynnig cartrefi i ffoaduriaid Afghanistan](https://www.bbc.co.uk/newyddion/58236934) - Mae 10 allan o 22 awdurdod lleol yng Nghymru barod wedi cytuno i ddarparu lloches i bobl sy'n ffoi o'r wlad.
 26. [Wrecsam: Cyhuddo dyn o ymosodiad difrifol](https://www.bbc.co.uk/newyddion/58246195) - Bydd dyn 19 oed yn mynd gerbron ynadon yn ddiweddarach wedi'i gyhuddo o anafu yn fwriadol.
-27. [Dysgu Cymraeg: Tips i siaradwyr newydd](https://www.bbc.co.uk/newyddion/58214043) - Y tiwtor iaith Marian Brosschot sy'n rhannu cyngor ar sut i ymarfer dy Gymraeg dros y gwyliau.
+27. [Byw bywyd i'r eithaf ar ôl cael trawiad ar y galon](https://www.bbc.co.uk/newyddion/58246235) - Stori Dilwyn Rowlands o Fangor sydd wedi cyflawni her feicio ar ôl cael trawiad ym mis Ebrill 2021.
 28. [Morgannwg drwodd i ffeinal y Cwpan Undydd ar ôl trechu Essex](https://www.bbc.co.uk/newyddion/58233591) - Joe Cooke yn serennu gyda'r bat a'r bêl er mwyn llywio Morgannwg i rownd derfynol y Cwpan Undydd.

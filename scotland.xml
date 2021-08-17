@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 17 Aug 2021 13:55:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Aug 2021 14:09:16 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -30,11 +30,11 @@
             <pubDate>Tue, 17 Aug 2021 13:48:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid: Queen remains at Balmoral as staff member tests positive]]></title>
-            <description><![CDATA[The Queen, who is 95 and vaccinated, will remain at her private retreat in Scotland as planned.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-58245334</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-58245334</guid>
-            <pubDate>Tue, 17 Aug 2021 10:49:58 GMT</pubDate>
+            <title><![CDATA[Man charged over blaze that gutted St Simon's church in Partick]]></title>
+            <description><![CDATA[The 24-year-old is accused of wilful fire-raising following the blaze in the Partick area of Glasgow.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58246158</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58246158</guid>
+            <pubDate>Tue, 17 Aug 2021 14:02:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Five things we know from Scotland's alcohol death figures]]></title>
@@ -44,18 +44,18 @@
             <pubDate>Tue, 17 Aug 2021 12:15:20 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid: Queen remains at Balmoral as staff member tests positive]]></title>
+            <description><![CDATA[The Queen, who is 95 and vaccinated, will remain at her private retreat in Scotland as planned.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-58245334</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-58245334</guid>
+            <pubDate>Tue, 17 Aug 2021 10:49:58 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Could Scots be guaranteed a minimum income?]]></title>
             <description><![CDATA[The government is to start work on plans for an income guarantee scheme aimed at wiping out poverty in Scotland.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-scotland-politics-58230375</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-scotland-politics-58230375</guid>
             <pubDate>Tue, 17 Aug 2021 05:24:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Decrease in Scotland's suicide rate during 2020]]></title>
-            <description><![CDATA[The number of deaths fell from 833 in 2019 to 805 last year but suicide rates were above average in late summer.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-58242836</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58242836</guid>
-            <pubDate>Tue, 17 Aug 2021 11:38:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Five dolphins die in 'highly unusual stranding event']]></title>
@@ -65,6 +65,13 @@
             <pubDate>Tue, 17 Aug 2021 11:13:26 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Decrease in Scotland's suicide rate during 2020]]></title>
+            <description><![CDATA[The number of deaths fell from 833 in 2019 to 805 last year but suicide rates were above average in late summer.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-58242836</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58242836</guid>
+            <pubDate>Tue, 17 Aug 2021 11:38:14 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[A&E waiting times worst for at least six years]]></title>
             <description><![CDATA[Almost a quarter of people attending emergency departments wait for at least four hours to be dealt with.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-58244986</link>
@@ -72,18 +79,18 @@
             <pubDate>Tue, 17 Aug 2021 11:46:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Scottish payroll numbers climb by 17,000]]></title>
-            <description><![CDATA[The official total of 2.4 million is still 28,000 lower than in February 2020, before the Covid pandemic struck.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-58241453</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58241453</guid>
-            <pubDate>Tue, 17 Aug 2021 11:51:34 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Covid in Scotland: Victims' families hold public inquiry talks]]></title>
             <description><![CDATA[The Covid-19 Bereaved Families for Justice group has been lobbying for an urgent independent investigation.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-58234070</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58234070</guid>
             <pubDate>Tue, 17 Aug 2021 13:40:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Scottish payroll numbers climb by 17,000]]></title>
+            <description><![CDATA[The official total of 2.4 million is still 28,000 lower than in February 2020, before the Covid pandemic struck.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-58241453</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58241453</guid>
+            <pubDate>Tue, 17 Aug 2021 11:51:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['Sexist' email was slap in the face, says former police officer]]></title>
