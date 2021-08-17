@@ -1,5 +1,5 @@
-1. [UK looking at bespoke Afghan refugee scheme - Dominic Raab](https://www.bbc.co.uk/news/uk-58238490) - The foreign secretary says the UK is a "big-hearted nation" and full details will be set out soon.
-2. [Ardingly: Six children and one parent hit by Tesla at school](https://www.bbc.co.uk/news/uk-england-sussex-58234999) - A child is flown to hospital after several children and a parent are hit by a Tesla at a school.
+1. [Ardingly College: Six children and parent hit by Tesla](https://www.bbc.co.uk/news/uk-england-sussex-58234999) - An eight-year-old boy is flown to hospital after several children are hit by a Tesla at a school.
+2. [UK looking at bespoke Afghan refugee scheme - Dominic Raab](https://www.bbc.co.uk/news/uk-58238490) - The foreign secretary says the UK is a "big-hearted nation" and full details will be set out soon.
 3. [UK blood supplies to be used to make life-saving drug](https://www.bbc.co.uk/news/health-58229083) - Plasma from donors in England can now be used for the medicine, after a previous ban on UK supplies.
 4. [Banksy-painted building in Lowestoft taken off the market](https://www.bbc.co.uk/news/uk-england-suffolk-58231399) - He is "looking at his options", believing the mural could be worth more than the property itself.
 5. [Suffolk herb factory fire: Camstar in Eye burnt out](https://www.bbc.co.uk/news/uk-england-suffolk-58240704) - Dozens of firefighters spend the night tackling the blaze that started on Monday evening.

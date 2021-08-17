@@ -1,13 +1,13 @@
 1. [UK looking at bespoke Afghan refugee scheme - Dominic Raab](https://www.bbc.co.uk/news/uk-58238490) - The foreign secretary says the UK is a "big-hearted nation" and full details will be set out soon.
 2. ['How many more American lives is it worth?'](https://www.bbc.co.uk/news/world-us-canada-58238497) - "How many more American lives is it worth?" says the president, amid growing criticism over the move.
 3. [UK job vacancies at record high as wages tick up](https://www.bbc.co.uk/news/business-58241006) - Job vacancies hit 953,000 amid signs the country's labour market is rebounding "robustly".
-4. [Snooker star Allen defeats former partner Evans](https://www.bbc.co.uk/sport/snooker/58236543) - Mark Allen defeats former partner Reanne Evans 3-2 after surviving a major scare in the British Open.
-5. [Covid: PCR tests 'rip-off' and world of work 'bouncing back'](https://www.bbc.co.uk/news/uk-58236002) - Five things you need to know about the coronavirus pandemic this Tuesday morning.
-6. [No need to swap data for drinks, says privacy body](https://www.bbc.co.uk/news/business-58230932) - Some pub ordering apps ask too many questions, but you can refuse, says the information watchdog.
-7. [Covid testing is rip-off, says former regulator](https://www.bbc.co.uk/news/business-58200203) - Lord Tyrie, ex-boss of the competition watchdog, says it was slow to react to complaints about providers.
-8. [Bob Dylan denies sexually abusing girl in 1965](https://www.bbc.co.uk/news/entertainment-arts-58239195) - A woman says the US singer-songwriter abused her when she was 12 - a claim he says is untrue.
-9. [New Zealand enters nationwide lockdown over one Covid case](https://www.bbc.co.uk/news/world-asia-58241619) - Authorities say they are still running tests, but are assuming it is a case of the Delta variant.
-10. [Ardingly: Six children and one parent hit by Tesla at school](https://www.bbc.co.uk/news/uk-england-sussex-58234999) - A child is flown to hospital after several children and a parent are hit by a Tesla at a school.
+4. [New Zealand enters nationwide lockdown over one Covid case](https://www.bbc.co.uk/news/world-asia-58241619) - Authorities say they are still running tests, but are assuming it is a case of the Delta variant.
+5. [Snooker star Allen defeats former partner Evans](https://www.bbc.co.uk/sport/snooker/58236543) - Mark Allen defeats former partner Reanne Evans 3-2 after surviving a major scare in the British Open.
+6. [Covid: PCR tests 'rip-off' and world of work 'bouncing back'](https://www.bbc.co.uk/news/uk-58236002) - Five things you need to know about the coronavirus pandemic this Tuesday morning.
+7. [No need to swap data for drinks, says privacy body](https://www.bbc.co.uk/news/business-58230932) - Some pub ordering apps ask too many questions, but you can refuse, says the information watchdog.
+8. [Covid testing is rip-off, says former regulator](https://www.bbc.co.uk/news/business-58200203) - Lord Tyrie, ex-boss of the competition watchdog, says it was slow to react to complaints about providers.
+9. [Bob Dylan denies sexually abusing girl in 1965](https://www.bbc.co.uk/news/entertainment-arts-58239195) - A woman says the US singer-songwriter abused her when she was 12 - a claim he says is untrue.
+10. [Ardingly College: Six children and parent hit by Tesla](https://www.bbc.co.uk/news/uk-england-sussex-58234999) - An eight-year-old boy is flown to hospital after several children are hit by a Tesla at a school.
 11. [Haiti earthquake: Death toll climbs as Tropical Depression Grace hits](https://www.bbc.co.uk/news/world-latin-america-58222888) - Tropical Depression Grace hits Haiti just days after a tremor left at least 1,419 dead.
 12. [Geronimo the alpaca gets temporary reprieve ahead of review](https://www.bbc.co.uk/news/uk-england-gloucestershire-58241387) - An application for a temporary injunction to halt his death will be considered at the High Court.
 13. [How the Taliban seized Afghanistan again](https://www.bbc.co.uk/news/world-asia-58238023) - Taliban fighters have swept across Afghanistan taking control of towns and cities.

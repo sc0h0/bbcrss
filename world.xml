@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 17 Aug 2021 09:16:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Aug 2021 09:37:51 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -28,6 +28,13 @@
             <link>https://www.bbc.co.uk/news/world-latin-america-58222888</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-latin-america-58222888</guid>
             <pubDate>Tue, 17 Aug 2021 02:40:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[New Zealand enters nationwide lockdown over one Covid case]]></title>
+            <description><![CDATA[Authorities say they are still running tests, but are assuming it is a case of the Delta variant.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58241619</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58241619</guid>
+            <pubDate>Tue, 17 Aug 2021 08:08:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bob Dylan denies sexually abusing girl in 1965]]></title>
@@ -91,13 +98,6 @@
             <link>https://www.bbc.co.uk/news/technology-58232131</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-58232131</guid>
             <pubDate>Mon, 16 Aug 2021 12:51:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ebrar Karakurt: Supporters rally around Turkish volleyballer after abuse]]></title>
-            <description><![CDATA[Ebrar Karakurt was abused online after posting a photo with her girlfriend on Instagram.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58229818</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58229818</guid>
-            <pubDate>Mon, 16 Aug 2021 14:08:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Peter Karlsson: The painful verdict on Swedish ice hockey player's 1995 killing]]></title>
@@ -191,7 +191,7 @@
             <pubDate>Mon, 16 Aug 2021 10:07:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Does the world face a new terror threat?]]></title>
+            <title><![CDATA[Does the world now face a new terror threat?]]></title>
             <description><![CDATA[The Taliban are back, 20 years after being ousted for supporting terror groups. Will they do the same?]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-58232041</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58232041</guid>
