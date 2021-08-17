@@ -1,4 +1,4 @@
-1. [Afghanistan: Call for refugees help from all UK councils](https://www.bbc.co.uk/news/uk-wales-58246941) - Welsh councils have so far agreed to house at least 21 families fleeing Afghanistan.
+1. [Afghanistan: Refugees should be housed 'in all parts' of UK](https://www.bbc.co.uk/news/uk-wales-58246941) - Welsh councils have so far agreed to house at least 24 families fleeing Afghanistan.
 2. [Child, 2, dies after Deeside incident, prompting investigation](https://www.bbc.co.uk/news/uk-wales-58246055) - The child died in hospital on Monday following an incident at a property on Saturday.
 3. [Covid-19: Deaths rise in Wales to 22](https://www.bbc.co.uk/news/uk-wales-58244250) - Covid deaths increased in Wales but are still well below levels in the second wave, figures show.
 4. [Coercive control: Male victims say they aren't believed](https://www.bbc.co.uk/news/uk-wales-58233300) - Craig says he was criticised and controlled, leaving him with post-traumatic stress disorder.
@@ -20,7 +20,7 @@
 20. [David Jones: Wrexham sign experienced midfielder as player-coach](https://www.bbc.co.uk/sport/football/58249390) - Midfielder David Jones returns to his Wrexham roots to join the National League club as player-coach on a one-year deal.
 21. [One-Day Cup: Joe Cooke stars as Glamorgan beat Essex to reach final](https://www.bbc.co.uk/sport/cricket/58230489) - Joe Cooke stars with bat and ball as Glamorgan beat Essex by five wickets to reach the final of the One-Day Cup.
 22. [Champions League: Swansea City aim to shock CSKA Moscow](https://www.bbc.co.uk/sport/football/58236559) - Swansea City Ladies will fly the Welsh flag in the Champions League when they face CSKA Moscow in Limassol on Wednesday night.
-23. [Rob Page: Wales manager given free rein to add new assistant](https://www.bbc.co.uk/sport/football/58230499) - Wales manager Rob Page will add an assistant coach of his own choosing for World Cup qualifiers says FAW President Steve Williams.
+23. [Scottish Open to be played in Wales after 'contractual issue' forces late venue change](https://www.bbc.co.uk/sport/snooker/58250195) - This season's Scottish Open will be staged in Wales after "a contractual issue" forces a change of venue a day before tickets were due to go on sale.
 24. [Afghanistan: 'Cymru'n gweithio'n galed i fod yn genedl noddfa'](https://www.bbc.co.uk/newyddion/58236934) - 17 allan o 22 awdurdod lleol Cymru eisoes wedi cytuno i ddarparu lloches i bobl sy'n ffoi o Afghanistan.
 25. [Heddlu'n ymchwilio ar ôl marwolaeth plentyn](https://www.bbc.co.uk/newyddion/58236939) - Mae marwolaeth y plentyn dwy flwydd oed yn cael ei thrin fel un heb esboniad.
 26. [Rheolaeth drwy orfodaeth: Dynion yn diodde' hefyd](https://www.bbc.co.uk/newyddion/58236852) - Yn ôl un cynllun sy'n gweithio gyda dioddefwyr gwrywaidd, dyw llawer o ddynion ddim yn cael eu credu.

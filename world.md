@@ -1,4 +1,4 @@
-1. [Afghanistan: Striking image captures Kabul exodus](https://www.bbc.co.uk/news/world-asia-58242733) - Tue, 17 Aug 2021 14:21:55 GMT - A photo appears to show hundreds of Afghans packed on a US military plane as they flee the Taliban.
+1. [Afghanistan: Striking image captures Kabul exodus](https://www.bbc.co.uk/news/world-asia-58242733) - Tue, 17 Aug 2021 17:04:26 GMT - A photo appears to show hundreds of Afghans packed on a US military plane as they flee the Taliban.
 2. [Uncertain times ahead for Afghan women](https://www.bbc.co.uk/news/world-asia-58244017) - Tue, 17 Aug 2021 14:01:44 GMT - After the Taliban takeover, it is not yet clear how women will fare with the militants in power.
 3. [France wildfire: Thousands evacuated as blaze rages near Riviera](https://www.bbc.co.uk/news/world-europe-58243066) - Tue, 17 Aug 2021 16:26:27 GMT - Firefighters clear campsites in the Var region as some 5,000 hectares are destroyed by fire.
 4. [Sudoku: Maki Kaji, puzzle enthusiast, dies aged 69](https://www.bbc.co.uk/news/world-asia-58243126) - Tue, 17 Aug 2021 11:23:19 GMT - The Japanese puzzle enthusiast helped popularise the number game, leading to its global success.

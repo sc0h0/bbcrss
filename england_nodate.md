@@ -31,5 +31,6 @@
 31. [Lincolnshire beauty queen hopes her story will inspire others](https://www.bbc.co.uk/news/uk-england-lincolnshire-58236375) - Chloe Ashford-Smith - a Miss GB contender -says her hair loss led to her being bullied as a child.
 32. [Lancashire couple's narrowboat life fascinates YouTube users](https://www.bbc.co.uk/news/uk-england-lancashire-58171880) - Paul, Anthony and dog Dexter's life on board a narrowboat is viewed from around the world.
 33. [Tammy Abraham: Roma sign striker from Chelsea for £34m on five-year deal](https://www.bbc.co.uk/sport/football/58242137) - Striker Tammy Abraham completes a £34m move to Italian side Roma from Chelsea.
-34. [Jones magic sends Phoenix into eliminator](https://www.bbc.co.uk/sport/cricket/58244643) - Eve Jones stars as Birmingham Phoenix all-but secure a place in the women's Hundred eliminator with a win over Northern Superchargers.
-35. [Edmund out of US Open with injury](https://www.bbc.co.uk/sport/tennis/58247268) - British number three Kyle Edmund pulls out of the US Open with a knee injury.
+34. [Durham beat Surrey in One-Day Cup to set up Glamorgan final](https://www.bbc.co.uk/sport/cricket/58230491) - Durham beat Surrey by five wickets at the Riverside and will meet Glamorgan in Thursday's One-Day Cup final.
+35. [Jones magic sends Phoenix into eliminator](https://www.bbc.co.uk/sport/cricket/58244643) - Eve Jones stars as Birmingham Phoenix all-but secure a place in the women's Hundred eliminator with a win over Northern Superchargers.
+36. [Edmund out of US Open with injury](https://www.bbc.co.uk/sport/tennis/58247268) - British number three Kyle Edmund pulls out of the US Open with a knee injury.
