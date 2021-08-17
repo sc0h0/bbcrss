@@ -2,14 +2,14 @@
 2. [Child, 2, dies after Deeside incident, prompting investigation](https://www.bbc.co.uk/news/uk-wales-58246055) - The child died in hospital on Monday following an incident at a property on Saturday.
 3. [Staff shortages remain despite more out of work in Wales](https://www.bbc.co.uk/news/uk-wales-58241503) - The number of people out of work fell in the past three months but is still higher than last year.
 4. [Wrexham: Teenager charged over serious assault](https://www.bbc.co.uk/news/uk-wales-58241025) - Christopher Keenan has been charged with grievous bodily harm with intent following the attack.
-5. [Afghanistan: Cardiff artist's sadness at Taliban takeover](https://www.bbc.co.uk/news/uk-wales-58233157) - Dan Peterson spent a month on the front line, drawing images of British soldiers and Afghan people.
-6. [Cardiff council says garden waste collection to be cut due to lack of drivers](https://www.bbc.co.uk/news/uk-wales-58235359) - Almost a quarter of the drivers needed are currently unavailable for work, a council says.
-7. [Porth Neigwl: More safety measures needed at site of beach death, says witness](https://www.bbc.co.uk/news/uk-wales-58235357) - A man who witnessed an unsuccessful attempt to save a man says more warnings are needed.
-8. [Afghanistan: Soldier's mum hopes his death was not in vain](https://www.bbc.co.uk/news/uk-wales-58230075) - Sarah Adams, whose son James Prosser was killed in Afghanistan in 2009, says she is "heartbroken".
-9. [Hollywood-style sign in Wrexham is a whodunnit](https://www.bbc.co.uk/news/uk-wales-58230790) - The sign was erected on the slag heap at Bersham Bank colliery tip over the weekend.
-10. [Milad Rouf: Medical student pleads guilty to Brighton acid attack](https://www.bbc.co.uk/news/uk-england-sussex-58232397) - Milad Rouf, from Cardiff, threw sulphuric acid over a young doctor in Brighton in May.
-11. [Cardiff man, 19, admits raping woman in Bute park](https://www.bbc.co.uk/news/uk-wales-58227945) - Tyler Higgins is remanded in custody and is due to be sentenced next month.
-12. [House prices in Wales rising highest, says Rightmove](https://www.bbc.co.uk/news/uk-wales-58203740) - A property website says there has been a 10.9% increase in prices this year.
+5. [Farmer calls for A494 speed limit changes following crashes](https://www.bbc.co.uk/news/uk-wales-58235362) - Kevin Peacock says several cars have crashed onto his property and wants the speed limit lowered.
+6. [Afghanistan: Cardiff artist's sadness at Taliban takeover](https://www.bbc.co.uk/news/uk-wales-58233157) - Dan Peterson spent a month on the front line, drawing images of British soldiers and Afghan people.
+7. [Cardiff council says garden waste collection to be cut due to lack of drivers](https://www.bbc.co.uk/news/uk-wales-58235359) - Almost a quarter of the drivers needed are currently unavailable for work, a council says.
+8. [Porth Neigwl: More safety measures needed at site of beach death, says witness](https://www.bbc.co.uk/news/uk-wales-58235357) - A man who witnessed an unsuccessful attempt to save a man says more warnings are needed.
+9. [Afghanistan: Soldier's mum hopes his death was not in vain](https://www.bbc.co.uk/news/uk-wales-58230075) - Sarah Adams, whose son James Prosser was killed in Afghanistan in 2009, says she is "heartbroken".
+10. [Hollywood-style sign in Wrexham is a whodunnit](https://www.bbc.co.uk/news/uk-wales-58230790) - The sign was erected on the slag heap at Bersham Bank colliery tip over the weekend.
+11. [Milad Rouf: Medical student pleads guilty to Brighton acid attack](https://www.bbc.co.uk/news/uk-england-sussex-58232397) - Milad Rouf, from Cardiff, threw sulphuric acid over a young doctor in Brighton in May.
+12. [Cardiff man, 19, admits raping woman in Bute park](https://www.bbc.co.uk/news/uk-wales-58227945) - Tyler Higgins is remanded in custody and is due to be sentenced next month.
 13. [CCTV catches moment car crashes off A494 on to farmer's land](https://www.bbc.co.uk/news/uk-wales-58243619) - A farmer's CCTV captures the moment a car crashes on the A494 onto his property.
 14. [Afghanistan: Three views from Wales as the Taliban take control of Kabul](https://www.bbc.co.uk/news/uk-wales-58238554) - As the Taliban take control of Afghanistan, people affected question whether it was worth it.
 15. [Covid in Wales: Rail staff face abuse enforcing mask rules](https://www.bbc.co.uk/news/uk-wales-58205655) - Passengers on trains in Wales must still wear a mask, unlike in England where it is only advised.
@@ -23,6 +23,6 @@
 23. [Ethan Laird: Swansea City sign Manchester United defender on season-long loan](https://www.bbc.co.uk/sport/football/58148502) - Swansea City sign Manchester United defender Ethan Laird on a season-long loan.
 24. [Rheolaeth drwy orfodaeth: Dynion yn diodde' hefyd](https://www.bbc.co.uk/newyddion/58236852) - Yn ôl un cynllun sy'n gweithio gyda dioddefwyr gwrywaidd, dyw llawer o ddynion ddim yn cael eu credu.
 25. [Cynghorau i gynnig cartrefi i ffoaduriaid Afghanistan](https://www.bbc.co.uk/newyddion/58236934) - Mae 10 allan o 22 awdurdod lleol yng Nghymru barod wedi cytuno i ddarparu lloches i bobl sy'n ffoi o'r wlad.
-26. [Lefel diweithdra yn gostwng ychydig yng Nghymru](https://www.bbc.co.uk/newyddion/58241675) - Nifer y bobl ddi-waith yng Nghymru wedi gostwng o 6,000 yn y tri mis rhwng Ebrill a Mehefin.
+26. [Wrecsam: Cyhuddo dyn o ymosodiad difrifol](https://www.bbc.co.uk/newyddion/58246195) - Bydd dyn 19 oed yn mynd gerbron ynadon yn ddiweddarach wedi'i gyhuddo o achosi niwed corfforol difrifol.
 27. [Dysgu Cymraeg: Tips i siaradwyr newydd](https://www.bbc.co.uk/newyddion/58214043) - Y tiwtor iaith Marian Brosschot sy'n rhannu cyngor ar sut i ymarfer dy Gymraeg dros y gwyliau.
 28. [Morgannwg drwodd i ffeinal y Cwpan Undydd ar ôl trechu Essex](https://www.bbc.co.uk/newyddion/58233591) - Joe Cooke yn serennu gyda'r bat a'r bêl er mwyn llywio Morgannwg i rownd derfynol y Cwpan Undydd.

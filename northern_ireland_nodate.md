@@ -1,5 +1,5 @@
 1. [Wrightbus to boost Ballymena workforce by 300](https://www.bbc.co.uk/news/uk-northern-ireland-58232029) - As orders for zero-emission buses rise, the firms says 120 temporary jobs will also be made permanent.
-2. [Northern Ireland Taxi firms 'slaughtered with work' amid driver shortage](https://www.bbc.co.uk/news/uk-northern-ireland-58244497) - The number of registered taxi drivers in Northern Ireland fell by 809 in the past year.
+2. [Taxi firms in NI 'slaughtered with work' amid driver shortage](https://www.bbc.co.uk/news/uk-northern-ireland-58244497) - The number of registered taxi drivers in Northern Ireland fell by 809 in the past year.
 3. [Employment: Number on NI payrolls hits record high](https://www.bbc.co.uk/news/uk-northern-ireland-58241354) - For the second month in a row, employee numbers surpassed pre-Covid levels of March 2020.
 4. [Texas firm to create 153 jobs in Northern Ireland over four years](https://www.bbc.co.uk/news/uk-northern-ireland-58232023) - Economy Minister Gordon Lyons says the jobs will contribute £6.8m in wages to the local economy.
 5. [Afghanistan: 'You fear for your family and friends at home'](https://www.bbc.co.uk/news/uk-northern-ireland-58241343) - Four people with links to the island of Ireland speak of their fears for relatives amid the chaos.
