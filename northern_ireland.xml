@@ -11,23 +11,30 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 17 Aug 2021 05:25:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Aug 2021 05:39:05 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Wrightbus to boost Ballymena workforce by 300]]></title>
+            <description><![CDATA[As orders for zero admission buses rise, the firms says 120 temporary jobs will also be made permanent.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58232029</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58232029</guid>
+            <pubDate>Tue, 17 Aug 2021 05:23:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[PSNI to alert 60 County Down schools of domestic abuse incidents]]></title>
+            <description><![CDATA[In a pilot scheme in County Down, police will tell schools if pupils are affected by violence at home.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58232024</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58232024</guid>
+            <pubDate>Tue, 17 Aug 2021 05:29:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Afghanistan: NI soldier Capt Mark Hale died in vain, says wife]]></title>
             <description><![CDATA[The wife of Capt Mark Hale says Western governments have left Afghan people "in the mouth of hell".]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58228231</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58228231</guid>
             <pubDate>Mon, 16 Aug 2021 20:14:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Wrightbus to boost Ballymena workforce by 300]]></title>
-            <description><![CDATA[As orders for zero admission buses rise, the firms says 120 temporary jobs will be made permanent.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58232029</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58232029</guid>
-            <pubDate>Tue, 17 Aug 2021 05:23:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: Relaxation of NI self-isolation comes in effect]]></title>
@@ -49,20 +56,6 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58238010</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58238010</guid>
             <pubDate>Mon, 16 Aug 2021 22:43:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Londonderry bonfire: Police investigate 'offensive material']]></title>
-            <description><![CDATA[Police say a bonfire had banners making threats towards police officers and a member of the public.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58228130</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58228130</guid>
-            <pubDate>Mon, 16 Aug 2021 11:34:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid-19: Three more deaths and 1,306 new cases]]></title>
-            <description><![CDATA[There are currently 334 patients with Covid in Northern Ireland's hospitals with 47 in intensive care.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58232155</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58232155</guid>
-            <pubDate>Mon, 16 Aug 2021 17:22:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Mark Allen defeats former partner Reanne Evans at British Open]]></title>
@@ -105,6 +98,13 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58226642</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58226642</guid>
             <pubDate>Mon, 16 Aug 2021 05:31:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19: Three more deaths and 1,306 new cases]]></title>
+            <description><![CDATA[There are currently 334 patients with Covid in Northern Ireland's hospitals with 47 in intensive care.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58232155</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58232155</guid>
+            <pubDate>Mon, 16 Aug 2021 17:22:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: NI hospital patients and visitors urged to wear masks]]></title>
@@ -217,6 +217,13 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58188908</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58188908</guid>
             <pubDate>Thu, 12 Aug 2021 16:33:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Londonderry bonfire: Police investigate 'offensive material']]></title>
+            <description><![CDATA[Police say a bonfire had banners making threats towards police officers and a member of the public.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58228130</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58228130</guid>
+            <pubDate>Mon, 16 Aug 2021 11:34:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Londonderry: Teen taken to hospital after two assaults]]></title>
