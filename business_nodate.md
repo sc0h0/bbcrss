@@ -22,11 +22,12 @@
 22. [How do couples handle awkward chats about money?](https://www.bbc.co.uk/news/business-58176219) - From squabbles and lies to what they'd do if they won the lottery, we pose the awkward questions.
 23. [Afghanistan: Facebook continues ban of Taliban-related content](https://www.bbc.co.uk/news/business-58239786) - Technology firms face challenges on how to handle content created by the group and its supporters.
 24. [Japan's economy bounced back ahead of the Olympics, data shows](https://www.bbc.co.uk/news/business-58227096) - Analysts have warned recovery will be modest this quarter after a state of emergency was re-imposed.
-25. [Would you let a robot lawyer defend you?](https://www.bbc.co.uk/news/business-58158820) - Why artificial intelligence is increasingly being used by the legal profession.
-26. [How can new technology protect outdoor workers?](https://www.bbc.co.uk/news/business-58049625) - Working outdoors in extreme heat can be deadly, new tech and better protection for workers could help.
-27. [How we can all get more high-quality sleep](https://www.bbc.co.uk/news/business-58148044) - The pandemic has led to a sharp increase in insomnia, but some firms are now helping their staff.
-28. [CEO Secrets: Foot Locker boss shares his advice](https://www.bbc.co.uk/news/business-58101254) - Richard Johnson, CEO of Foot Locker, reflects on the lessons of the pandemic for business leaders.
-29. [Sharing apps are booming but will the kindness continue?](https://www.bbc.co.uk/news/business-57981598) - The pandemic sparked a surge in activity for sharing apps like Olio but has the trend run its course?
-30. [Can technology help authors write a book?](https://www.bbc.co.uk/news/business-58098481) - Writing a novel is notoriously difficult, but technology may give the writer a helping hand.
-31. [The activist entrepreneurs running zero-waste shops](https://www.bbc.co.uk/news/business-57920754) - Environmentally conscious entrepreneurs explain the movement towards zero-waste lifestyles.
-32. [Why artificial intelligence is being used to write adverts](https://www.bbc.co.uk/news/business-57781557) - Advertisers are increasingly using artificial intelligence to come up with their winning slogans.
+25. [Just how hard is it to recycle a jumbo jet?](https://www.bbc.co.uk/news/business-57983174) - Thousands of aircraft were left on the tarmac due to Covid, and many will now be broken up for parts.
+26. [Would you let a robot lawyer defend you?](https://www.bbc.co.uk/news/business-58158820) - Why artificial intelligence is increasingly being used by the legal profession.
+27. [How can new technology protect outdoor workers?](https://www.bbc.co.uk/news/business-58049625) - Working outdoors in extreme heat can be deadly, new tech and better protection for workers could help.
+28. [How we can all get more high-quality sleep](https://www.bbc.co.uk/news/business-58148044) - The pandemic has led to a sharp increase in insomnia, but some firms are now helping their staff.
+29. [CEO Secrets: Foot Locker boss shares his advice](https://www.bbc.co.uk/news/business-58101254) - Richard Johnson, CEO of Foot Locker, reflects on the lessons of the pandemic for business leaders.
+30. [Sharing apps are booming but will the kindness continue?](https://www.bbc.co.uk/news/business-57981598) - The pandemic sparked a surge in activity for sharing apps like Olio but has the trend run its course?
+31. [Can technology help authors write a book?](https://www.bbc.co.uk/news/business-58098481) - Writing a novel is notoriously difficult, but technology may give the writer a helping hand.
+32. [The activist entrepreneurs running zero-waste shops](https://www.bbc.co.uk/news/business-57920754) - Environmentally conscious entrepreneurs explain the movement towards zero-waste lifestyles.
+33. [Why artificial intelligence is being used to write adverts](https://www.bbc.co.uk/news/business-57781557) - Advertisers are increasingly using artificial intelligence to come up with their winning slogans.

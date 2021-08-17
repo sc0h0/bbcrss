@@ -9,12 +9,12 @@
 9. [Uganda anti-pornography law dropped after backlash](https://www.bbc.co.uk/news/world-africa-58235637) - Legislation branded the "anti-miniskirt" law is annulled by Uganda's Constitutional Court.
 10. [Afghanistan: Facebook continues ban of Taliban-related content](https://www.bbc.co.uk/news/business-58239786) - Technology firms face challenges on how to handle content created by the group and its supporters.
 11. [Bob Dylan denies sexually abusing girl in 1965](https://www.bbc.co.uk/news/entertainment-arts-58239195) - A woman says the US singer-songwriter abused her when she was 12 - a claim he says is untrue.
-12. [Biden's speech on Afghanistan fact-checked](https://www.bbc.co.uk/news/58243158) - How consistent was President Biden's speech with his previous statements on Afghanistan?
-13. [Peter Karlsson: The painful verdict on Swedish ice hockey player's 1995 killing](https://www.bbc.co.uk/sport/ice-hockey/58101549) - Peter Karlsson was stabbed to death in the street. His killer said he was protecting himself - via the so-called 'gay panic' defence.
-14. [Just how hard is it to recycle a jumbo jet?](https://www.bbc.co.uk/news/business-57983174) - Thousands of aircraft were left on the tarmac due to Covid, and many will now be broken up for parts.
-15. [Hakainde Hichilema: The Zambian 'cattle boy' who became president](https://www.bbc.co.uk/news/world-africa-58229710) - After six attempts, Hakainde Hichilema has finally become president of Zambia.
-16. [There and back again: The epic adventures of China's wandering elephants](https://www.bbc.co.uk/news/world-asia-china-58196663) - After a mammoth journey across the country the pack of pachyderms are finally heading home.
-17. [Would you let a robot lawyer defend you?](https://www.bbc.co.uk/news/business-58158820) - Why artificial intelligence is increasingly being used by the legal profession.
+12. [The little-known human stories behind emoji designs](https://www.bbc.co.uk/news/technology-58180556) - The surprising story of how some tiny characters ended up on billions of smartphone keyboards.
+13. [How latte art in South Africa led to a job from hell in Oman](https://www.bbc.co.uk/news/world-africa-57990393) - A South African barista was offered a dream opportunity in Oman but unknowingly signed away his freedoms.
+14. [Taliban victory will test India, and peace in South Asia](https://www.bbc.co.uk/news/world-asia-india-58240301) - How India engages with the Taliban after their rout of Afghanistan could determine the region's fate.
+15. [Biden's speech on Afghanistan fact-checked](https://www.bbc.co.uk/news/58243158) - How consistent was President Biden's speech with his previous statements on Afghanistan?
+16. [Just how hard is it to recycle a jumbo jet?](https://www.bbc.co.uk/news/business-57983174) - Thousands of aircraft were left on the tarmac due to Covid, and many will now be broken up for parts.
+17. [Hakainde Hichilema: The Zambian 'cattle boy' who became president](https://www.bbc.co.uk/news/world-africa-58229710) - After six attempts, Hakainde Hichilema has finally become president of Zambia.
 18. [How technology in the air battles fires on the ground](https://www.bbc.co.uk/news/world-us-canada-58248261) - Planes equipped with infrared scanners are helping authorities take on historic wildfires in the US.
 19. [Taliban: 'We will not allow the soil of Afghanistan to be used against anyone'](https://www.bbc.co.uk/news/world-asia-58249178) - The Taliban have held their first news conference since taking control of Afghanistan.
 20. [How the Taliban seized Afghanistan again](https://www.bbc.co.uk/news/world-asia-58238023) - Taliban fighters have swept across Afghanistan taking control of towns and cities.
@@ -24,9 +24,5 @@
 24. [Afghanistan: Mysterious Taliban spokesman finally shows his face](https://www.bbc.co.uk/news/world-asia-58250607) - The spokesman has appeared in public for the first time. But is there more than one Zabihullah Mujahid?
 25. [Afghanistan: Female Kabul resident fears for future under Taliban](https://www.bbc.co.uk/news/world-asia-58252014) - A woman shares her story of the day the Taliban arrived - and why she has lost all hope.
 26. [Afghanistan: What's the impact of Taliban's return on international order?](https://www.bbc.co.uk/news/world-us-canada-58248864) - What is the diplomatic fallout and how allies and rivals are looking at the US following the Taliban takeover?
-27. [How the Taliban stormed across Afghanistan in ten days](https://www.bbc.co.uk/news/world-58232525) - The Taliban took their first city on 6 Aug and arrived in Kabul just over a week later.
-28. [Afghanistan: In pictures: Kabul - a day after Taliban takeover](https://www.bbc.co.uk/news/in-pictures-58225117) - Kabul - the Afghan capital - is quiet in some parts, but chaotic at the airport where thousands are trying to flee.
-29. [Kabul centre quiet and subdued after Taliban takeover](https://www.bbc.co.uk/news/world-asia-58232815) - BBC video journalist Malik Mudassir speaks about life in the city after its capture by the Taliban.
-30. [Afghanistan: Chaotic scenes at Kabul airport](https://www.bbc.co.uk/news/world-asia-58226712) - Video shows hundreds of Afghans attempting to escape, as the Taliban took over the capital.
-31. [Afghanistan: 'Women won't be silenced by the Taliban'](https://www.bbc.co.uk/news/world-asia-58230070) - Teacher and human rights activist Pashtana Durrani questions what the Taliban are saying on women's rights.
-32. [Afghanistan conflict: The Air India flight out on a fateful Sunday](https://www.bbc.co.uk/news/world-asia-india-58228280) - Air India's only flight to Kabul on Sunday circled for 90 minutes over the Afghan capital before landing.
+27. [Afghanistan: Striking image captures Kabul exodus](https://www.bbc.co.uk/news/world-asia-58242733) - A photo appears to show hundreds of Afghans packed on a US military plane as they flee the Taliban.
+28. [Khaled Hosseini: ‘A sliver of hope’ for Afghanistan](https://www.bbc.co.uk/news/world-asia-58245606) - This is a different country to the one the Taliban left, I hope they adapt to it, the author says.

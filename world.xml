@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 17 Aug 2021 23:15:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Aug 2021 23:20:28 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -93,18 +93,32 @@
             <pubDate>Tue, 17 Aug 2021 15:13:29 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The little-known human stories behind emoji designs]]></title>
+            <description><![CDATA[The surprising story of how some tiny characters ended up on billions of smartphone keyboards.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-58180556</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-58180556</guid>
+            <pubDate>Tue, 17 Aug 2021 23:05:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How latte art in South Africa led to a job from hell in Oman]]></title>
+            <description><![CDATA[A South African barista was offered a dream opportunity in Oman but unknowingly signed away his freedoms.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-57990393</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-57990393</guid>
+            <pubDate>Tue, 17 Aug 2021 23:07:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Taliban victory will test India, and peace in South Asia]]></title>
+            <description><![CDATA[How India engages with the Taliban after their rout of Afghanistan could determine the region's fate.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-india-58240301</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-58240301</guid>
+            <pubDate>Tue, 17 Aug 2021 23:00:31 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Biden's speech on Afghanistan fact-checked]]></title>
             <description><![CDATA[How consistent was President Biden's speech with his previous statements on Afghanistan?]]></description>
             <link>https://www.bbc.co.uk/news/58243158</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/58243158</guid>
             <pubDate>Tue, 17 Aug 2021 11:41:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Peter Karlsson: The painful verdict on Swedish ice hockey player's 1995 killing]]></title>
-            <description><![CDATA[Peter Karlsson was stabbed to death in the street. His killer said he was protecting himself - via the so-called 'gay panic' defence.]]></description>
-            <link>https://www.bbc.co.uk/sport/ice-hockey/58101549</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/ice-hockey/58101549</guid>
-            <pubDate>Mon, 16 Aug 2021 23:01:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Just how hard is it to recycle a jumbo jet?]]></title>
@@ -119,20 +133,6 @@
             <link>https://www.bbc.co.uk/news/world-africa-58229710</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-58229710</guid>
             <pubDate>Mon, 16 Aug 2021 16:29:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[There and back again: The epic adventures of China's wandering elephants]]></title>
-            <description><![CDATA[After a mammoth journey across the country the pack of pachyderms are finally heading home.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-china-58196663</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-58196663</guid>
-            <pubDate>Sun, 15 Aug 2021 23:41:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Would you let a robot lawyer defend you?]]></title>
-            <description><![CDATA[Why artificial intelligence is increasingly being used by the legal profession.]]></description>
-            <link>https://www.bbc.co.uk/news/business-58158820</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58158820</guid>
-            <pubDate>Sun, 15 Aug 2021 22:58:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How technology in the air battles fires on the ground]]></title>
@@ -198,46 +198,18 @@
             <pubDate>Tue, 17 Aug 2021 20:44:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How the Taliban stormed across Afghanistan in ten days]]></title>
-            <description><![CDATA[The Taliban took their first city on 6 Aug and arrived in Kabul just over a week later.]]></description>
-            <link>https://www.bbc.co.uk/news/world-58232525</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-58232525</guid>
-            <pubDate>Mon, 16 Aug 2021 13:33:30 GMT</pubDate>
+            <title><![CDATA[Afghanistan: Striking image captures Kabul exodus]]></title>
+            <description><![CDATA[A photo appears to show hundreds of Afghans packed on a US military plane as they flee the Taliban.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58242733</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58242733</guid>
+            <pubDate>Tue, 17 Aug 2021 17:04:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Afghanistan: In pictures: Kabul - a day after Taliban takeover]]></title>
-            <description><![CDATA[Kabul - the Afghan capital - is quiet in some parts, but chaotic at the airport where thousands are trying to flee.]]></description>
-            <link>https://www.bbc.co.uk/news/in-pictures-58225117</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/in-pictures-58225117</guid>
-            <pubDate>Mon, 16 Aug 2021 17:05:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kabul centre quiet and subdued after Taliban takeover]]></title>
-            <description><![CDATA[BBC video journalist Malik Mudassir speaks about life in the city after its capture by the Taliban.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58232815</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58232815</guid>
-            <pubDate>Mon, 16 Aug 2021 13:11:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Afghanistan: Chaotic scenes at Kabul airport]]></title>
-            <description><![CDATA[Video shows hundreds of Afghans attempting to escape, as the Taliban took over the capital.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58226712</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58226712</guid>
-            <pubDate>Mon, 16 Aug 2021 08:44:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Afghanistan: 'Women won't be silenced by the Taliban']]></title>
-            <description><![CDATA[Teacher and human rights activist Pashtana Durrani questions what the Taliban are saying on women's rights.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58230070</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58230070</guid>
-            <pubDate>Mon, 16 Aug 2021 11:37:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Afghanistan conflict: The Air India flight out on a fateful Sunday]]></title>
-            <description><![CDATA[Air India's only flight to Kabul on Sunday circled for 90 minutes over the Afghan capital before landing.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-india-58228280</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-58228280</guid>
-            <pubDate>Mon, 16 Aug 2021 07:17:21 GMT</pubDate>
+            <title><![CDATA[Khaled Hosseini: ‘A sliver of hope’ for Afghanistan]]></title>
+            <description><![CDATA[This is a different country to the one the Taliban left, I hope they adapt to it, the author says.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58245606</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58245606</guid>
+            <pubDate>Tue, 17 Aug 2021 15:34:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
