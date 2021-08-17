@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 17 Aug 2021 16:23:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Aug 2021 16:55:33 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -51,7 +51,7 @@
             <pubDate>Tue, 17 Aug 2021 13:41:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid: Second jab approved for 12 to 17s and summer schools make up for lost time]]></title>
+            <title><![CDATA[Covid: Moderna jab approved for 12 to 17s and summer schools make up for lost time]]></title>
             <description><![CDATA[Five things you need to know about the coronavirus pandemic this Tuesday evening.]]></description>
             <link>https://www.bbc.co.uk/news/uk-58248706</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58248706</guid>
@@ -62,7 +62,14 @@
             <description><![CDATA[Firefighters clear campsites in the Var region as some 5,000 hectares are destroyed by fire.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-58243066</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58243066</guid>
-            <pubDate>Tue, 17 Aug 2021 14:49:32 GMT</pubDate>
+            <pubDate>Tue, 17 Aug 2021 16:26:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Greater Manchester Police chief scraps 'tosh' Citizens' Contract]]></title>
+            <description><![CDATA[Stephen Watson says a scheme defending squeezed police resources was "patronising nonsense".]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-manchester-58246694</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-manchester-58246694</guid>
+            <pubDate>Tue, 17 Aug 2021 16:29:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[UK job vacancies at record high as wages pick up]]></title>
@@ -72,25 +79,18 @@
             <pubDate>Tue, 17 Aug 2021 13:09:53 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Milton Keynes: Callum Aylett guilty of neighbour feud murder]]></title>
+            <description><![CDATA[Jay Fathers was not involved in the bad feeling between two households, but was stabbed to death.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-58248995</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-58248995</guid>
+            <pubDate>Tue, 17 Aug 2021 16:14:46 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Ex-marine: I'm not leaving Kabul without my animal rescue staff]]></title>
             <description><![CDATA[Founder of an animal sanctuary Pen Farthing urges ministers to get 71 people to safety in the UK.]]></description>
             <link>https://www.bbc.co.uk/news/uk-58240838</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58240838</guid>
             <pubDate>Tue, 17 Aug 2021 15:04:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[New Zealand enters nationwide lockdown over one Covid case]]></title>
-            <description><![CDATA[Authorities say they are still running tests, but are assuming it is a case of the Delta variant.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58241619</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58241619</guid>
-            <pubDate>Tue, 17 Aug 2021 08:08:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: Queen remains at Balmoral as staff member tests positive]]></title>
-            <description><![CDATA[The Queen, who is 95 and vaccinated, will remain at her private retreat in Scotland as planned.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-58245334</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-58245334</guid>
-            <pubDate>Tue, 17 Aug 2021 10:49:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Eileen Barrott murder: NHS tribute to nurse as manhunt continues]]></title>
@@ -100,14 +100,21 @@
             <pubDate>Tue, 17 Aug 2021 12:03:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Sudoku: Maki Kaji, puzzle enthusiast, dies aged 69]]></title>
-            <description><![CDATA[The Japanese puzzle enthusiast helped popularise the number game, leading to its global success.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58243126</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58243126</guid>
-            <pubDate>Tue, 17 Aug 2021 11:23:19 GMT</pubDate>
+            <title><![CDATA[New Zealand enters nationwide lockdown over one Covid case]]></title>
+            <description><![CDATA[Authorities say they are still running tests, but are assuming it is a case of the Delta variant.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58241619</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58241619</guid>
+            <pubDate>Tue, 17 Aug 2021 08:08:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Afghanistan: 'All female staff have left my Kabul hotel']]></title>
+            <title><![CDATA[Taliban: 'We will not allow the soil of Afghanistan to be used against anyone']]></title>
+            <description><![CDATA[The Taliban have held their first news conference since taking control of Afghanistan.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58249178</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58249178</guid>
+            <pubDate>Tue, 17 Aug 2021 16:20:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Inside a Kabul hotel - Taliban guards, no women]]></title>
             <description><![CDATA[The BBC's Malik Mudassir says Taliban fighters are now providing security at his hotel in central Kabul.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-58243134</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58243134</guid>
@@ -331,6 +338,13 @@
             <pubDate>Tue, 17 Aug 2021 10:55:28 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA['All the dreams have just gone' - former Afghanistan captain's fears for homeland]]></title>
+            <description><![CDATA[Ex-Afghanistan captain Khalida Popal told BBC Sport her former colleagues in the country are fearing for their lives.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58243348</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58243348</guid>
+            <pubDate>Tue, 17 Aug 2021 16:14:48 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Murray and Watson progress at Cincinnati Masters but Evans goes out]]></title>
             <description><![CDATA[Andy Murray wins his first singles match since pulling out of the individual event at the Olympics as he beats Richard Gasquet in Cincinnati.]]></description>
             <link>https://www.bbc.co.uk/sport/tennis/58241193</link>
@@ -345,11 +359,11 @@
             <pubDate>Tue, 17 Aug 2021 10:37:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Hundred: Eve Jones' six is caught in the Birmingham Phoenix dug-out]]></title>
-            <description><![CDATA[Birmingham Phoenix's Eve Jones hits Northern Superchargers' Hollie Armitage for six and team-mate Amy Jones casually catches the ball in the dug-out.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/cricket/58248347</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/cricket/58248347</guid>
-            <pubDate>Tue, 17 Aug 2021 15:32:42 GMT</pubDate>
+            <title><![CDATA[The Hundred: Eve Jones takes stunning catch to dismiss Lauren Winfield-Hill]]></title>
+            <description><![CDATA[Birmingham Phoenix's Eve Jones takes a stunning catch to dismiss Northern Superchargers' Lauren Winfield-Hill on 64 at Headingley in The Hundred.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/cricket/58249590</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/cricket/58249590</guid>
+            <pubDate>Tue, 17 Aug 2021 16:33:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[England v India: India win thrilling second Test in final hour]]></title>
@@ -359,11 +373,11 @@
             <pubDate>Mon, 16 Aug 2021 18:41:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[England v India: Michael Vaughan says reliance on Joe Root is embarrassing]]></title>
-            <description><![CDATA[Former England captain Michael Vaughan says the team's reliance on Joe Root is embarrassing after India took the lead in the Test series with victory at Lord's.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/cricket/58238210</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/cricket/58238210</guid>
-            <pubDate>Mon, 16 Aug 2021 19:14:21 GMT</pubDate>
+            <title><![CDATA[Covid-19 in the UK: How many coronavirus cases are there in my area?]]></title>
+            <description><![CDATA[Explore the data on coronavirus in the UK and find out how many cases there are in your area.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-51768274</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-51768274</guid>
+            <pubDate>Tue, 17 Aug 2021 16:43:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid rules: What are the restrictions in your area?]]></title>
@@ -371,13 +385,6 @@
             <link>https://www.bbc.co.uk/news/uk-54373904</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-54373904</guid>
             <pubDate>Fri, 13 Aug 2021 15:34:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid-19 in the UK: How many coronavirus cases are there in my area?]]></title>
-            <description><![CDATA[Explore the data on coronavirus in the UK and find out how many cases there are in your area.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-51768274</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-51768274</guid>
-            <pubDate>Mon, 16 Aug 2021 16:05:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid passport: How to prove your vaccine status with the NHS Covid Pass]]></title>
