@@ -1,11 +1,11 @@
-1. [New police CCTV use rules criticised as bare bones](https://www.bbc.co.uk/news/technology-58206586) - However, the guidelines empowered police and maintained public trust, the Home Office says.
-2. [Hydrogen power offers jobs boost, says government](https://www.bbc.co.uk/news/science-environment-58238367) - Kick-starting a hydrogen industry could attract billions in investment, the UK government says.
-3. [Tesla Autopilot: US opens official investigation into self-driving tech](https://www.bbc.co.uk/news/technology-58232137) - The investigation covers all Tesla cars since 2014, focusing on crashes with emergency vehicles.
-4. [No need to swap data for drinks, says privacy body](https://www.bbc.co.uk/news/business-58230932) - Some pub ordering apps ask too many questions, but you can refuse, says the information watchdog.
-5. [Internet revamp for the humble landline](https://www.bbc.co.uk/news/technology-58233420) - The UK plans to make all landlines into internet-based connections over the next few years.
-6. [Twitter's new design to get fix after headache complaints](https://www.bbc.co.uk/news/technology-58232131) - Unveiled last week, the redesign involved high-contrast colours and a custom-designed font, Chirp.
-7. [Parcel delivery texts now the most common con-trick](https://www.bbc.co.uk/news/business-58233743) - Text messages asking for a fee to deliver a package are responsible for most "smishing" fraud.
-8. [Social media fraud: The influencers promoting criminal scams](https://www.bbc.co.uk/news/uk-58223499) - BBC Panorama investigates a new generation of fraudster that openly uses social media to promote crime.
+1. [Mastercard to end magnetic strip on cards](https://www.bbc.co.uk/news/technology-58206591) - The company sets an expiry date of 2033 for the decades-old technology.
+2. [New police CCTV use rules criticised as bare bones](https://www.bbc.co.uk/news/technology-58206586) - However, the guidelines empowered police and maintained public trust, the Home Office says.
+3. [Hydrogen power offers jobs boost, says government](https://www.bbc.co.uk/news/science-environment-58238367) - Kick-starting a hydrogen industry could attract billions in investment, the UK government says.
+4. [Tesla Autopilot: US opens official investigation into self-driving tech](https://www.bbc.co.uk/news/technology-58232137) - The investigation covers all Tesla cars since 2014, focusing on crashes with emergency vehicles.
+5. [No need to swap data for drinks, says privacy body](https://www.bbc.co.uk/news/business-58230932) - Some pub ordering apps ask too many questions, but you can refuse, says the information watchdog.
+6. [Internet revamp for the humble landline](https://www.bbc.co.uk/news/technology-58233420) - The UK plans to make all landlines into internet-based connections over the next few years.
+7. [Twitter's new design to get fix after headache complaints](https://www.bbc.co.uk/news/technology-58232131) - Unveiled last week, the redesign involved high-contrast colours and a custom-designed font, Chirp.
+8. [Parcel delivery texts now the most common con-trick](https://www.bbc.co.uk/news/business-58233743) - Text messages asking for a fee to deliver a package are responsible for most "smishing" fraud.
 9. [Streaming service DAZN seeks to shake up TV sport](https://www.bbc.co.uk/news/business-58219424) - Boss James Rushton has ambitious expansion plans for the service dubbed "the Netflix of sport".
 10. [CCTV watchdog criticises Hikvision Uyghur response](https://www.bbc.co.uk/news/technology-58188325) - UK surveillance camera commissioner criticises failure to answer "basic questions".
 11. [Apple regrets confusion over 'iPhone scanning'](https://www.bbc.co.uk/news/technology-58206543) - The iPhone-maker will introduce tools that can detect child sex abuse images uploaded to iCloud.
