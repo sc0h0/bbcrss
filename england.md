@@ -29,4 +29,3 @@
 29. [Tammy Abraham: Roma sign striker from Chelsea for £34m on five-year deal](https://www.bbc.co.uk/sport/football/58242137) - Tue, 17 Aug 2021 10:55:28 GMT - Striker Tammy Abraham completes a £34m move to Italian side Roma from Chelsea.
 30. [Durham beat Surrey in One-Day Cup to set up Glamorgan final](https://www.bbc.co.uk/sport/cricket/58230491) - Tue, 17 Aug 2021 17:11:02 GMT - Durham beat Surrey by five wickets at the Riverside and will meet Glamorgan in Thursday's One-Day Cup final.
 31. [Jones magic sends Phoenix into eliminator](https://www.bbc.co.uk/sport/cricket/58244643) - Tue, 17 Aug 2021 17:38:06 GMT - Eve Jones stars as Birmingham Phoenix all-but secure a place in the women's Hundred eliminator with a win over Northern Superchargers.
-32. [Edmund out of US Open with injury](https://www.bbc.co.uk/sport/tennis/58247268) - Tue, 17 Aug 2021 15:24:55 GMT - British number three Kyle Edmund pulls out of the US Open with a knee injury.
