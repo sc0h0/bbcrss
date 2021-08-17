@@ -1,4 +1,4 @@
-1. [Coercive control: Male victims 'not taken seriously'](https://www.bbc.co.uk/news/uk-wales-58233300) - Craig says he was criticised and controlled, leaving him with post-traumatic stress disorder.
+1. [Coercive control: Male victims say they aren't believed](https://www.bbc.co.uk/news/uk-wales-58233300) - Craig says he was criticised and controlled, leaving him with post-traumatic stress disorder.
 2. [Wales' unemployment rate falls to 4.1%](https://www.bbc.co.uk/news/uk-wales-58241503) - However, the number out of work is up by 21,000 when compared the same April to June period in 2020.
 3. [Afghanistan: Cardiff artist's sadness at Taliban takeover](https://www.bbc.co.uk/news/uk-wales-58233157) - Dan Peterson spent a month on the front line, drawing images of British soldiers and Afghan people.
 4. [Cardiff council says garden waste collection to be cut due to lack of drivers](https://www.bbc.co.uk/news/uk-wales-58235359) - Almost a quarter of the drivers needed are currently unavailable for work, a council says.

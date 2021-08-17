@@ -16,7 +16,7 @@
 16. [Tokyo 2020: Egypt's Sherif to 'play with heart' in historic medal bid](https://www.bbc.co.uk/sport/africa/57844534) - Mayar Sherif will play 'with her heart' as she becomes the first Egyptian woman to play Olympic tennis for her country.
 17. [Pegasus: Who are the alleged victims of spyware targeting?](https://www.bbc.co.uk/news/world-57891506) - Jamal Khashoggi's wife and the editor of the Financial Times are among those said to be targeted.
 18. [The referee making Olympic history](https://www.bbc.co.uk/sport/africa/57899407) - The first Arab and African woman to referee 3x3 basketball at the Olympics shares how her Muslim faith has guided her career.
-19. [How the Taliban retook Afghanistan](https://www.bbc.co.uk/news/world-asia-58238023) - Taliban fighters have swept across Afghanistan taking control of towns and cities.
+19. [How the Taliban seized Afghanistan again](https://www.bbc.co.uk/news/world-asia-58238023) - Taliban fighters have swept across Afghanistan taking control of towns and cities.
 20. [Why is Israel demolishing homes in East Jerusalem?](https://www.bbc.co.uk/news/world-middle-east-58201218) - Israel says the homes were built without planning permission and it is to try to keep East Jerusalem in order.
 21. [UK military commander: 'We've betrayed' Afghans who helped British troops'](https://www.bbc.co.uk/news/uk-58231760) - Major General Charlie Herbert, a military commander from the UK’s campaign in Afghanistan, has accused the government of betraying Afghans who supported British troops.
 22. [Beirut blast: ‘The day our city exploded’](https://www.bbc.co.uk/news/world-middle-east-58076999) - One year on from the blast that rocked Beirut, no one has yet been made accountable.

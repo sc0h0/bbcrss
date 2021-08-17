@@ -1,6 +1,6 @@
 1. [Biden defends 'messy' US pullout from Afghanistan](https://www.bbc.co.uk/news/world-us-canada-58238497) - "How many more American lives is it worth?" says the president, amid growing criticism over the move.
 2. [Why is the Taliban's Kabul victory being compared to the fall of Saigon?](https://www.bbc.co.uk/news/world-asia-58234884) - Many have drawn parallels with America's withdrawal from Vietnam in 1975 - but is this fair?
-3. [Bob Dylan denies sexually abusing girl in 1965](https://www.bbc.co.uk/news/entertainment-arts-58239195) - A woman says the US singer-songwriter abused her when she was 12 - a claim he denies.
+3. [Bob Dylan denies sexually abusing girl in 1965](https://www.bbc.co.uk/news/entertainment-arts-58239195) - A woman says the US singer-songwriter abused her when she was 12 - a claim he says is untrue.
 4. [Images show decline of California's 'life source'](https://www.bbc.co.uk/news/world-us-canada-58232044) - Justin Sullivan has been following California's second-largest reservoir's falling water levels.
 5. [US increases food stamp aid for poorer Americans](https://www.bbc.co.uk/news/world-us-canada-58235165) - The increase of about $36 (£26) per person, per month, is the largest in the programme's history.
 6. ['New York vaccine mandate could destroy my restaurant'](https://www.bbc.co.uk/news/business-58204471) - City residents need to be jabbed to use restaurants, gyms and theatres - and businesses are worried.

@@ -1,4 +1,4 @@
-1. [UK job vacancies at record high as wages tick up](https://www.bbc.co.uk/news/business-58241006) - Tue, 17 Aug 2021 07:06:36 GMT - Job vacancies hit 953,000 while average pay rises 7.4%, official figures show.
+1. [UK job vacancies at record high as wages tick up](https://www.bbc.co.uk/news/business-58241006) - Tue, 17 Aug 2021 08:11:23 GMT - Job vacancies hit 953,000 while average pay rises 7.4%, official figures show.
 2. [No need to swap data for drinks, says privacy body](https://www.bbc.co.uk/news/business-58230932) - Mon, 16 Aug 2021 23:00:06 GMT - Some pub ordering apps ask too many questions, but you can refuse, says the information watchdog.
 3. [Afghanistan: Facebook confirms ban of Taliban-related content](https://www.bbc.co.uk/news/business-58239786) - Tue, 17 Aug 2021 04:58:39 GMT - Technology firms face challenges on how to handle content created by the group and its supporters.
 4. [Covid testing is rip-off, says former regulator](https://www.bbc.co.uk/news/business-58200203) - Mon, 16 Aug 2021 23:00:44 GMT - Lord Tyrie, ex-boss of the competition watchdog, says it was slow to react to complaints about providers.
