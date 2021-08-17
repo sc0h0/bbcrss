@@ -1,9 +1,9 @@
 1. [US left too quickly, says Afghan bank governor](https://www.bbc.co.uk/news/business-58252065) - The Afghan central bank governor, Ajmal Ahmady, tells the BBC he thinks country's economic situation will deteriorate.
-2. [UK job vacancies at record high as wages pick up](https://www.bbc.co.uk/news/business-58241006) - Job vacancies hit 953,000 amid signs the country's labour market is rebounding "robustly".
-3. [Trendy shoffices and pizza ovens raised lockdown fire risks](https://www.bbc.co.uk/news/business-58245846) - Insurer Zurich says residential outbuilding fires rose by 16% last year compared with 2019.
+2. [Trendy shoffices and pizza ovens raised lockdown fire risks](https://www.bbc.co.uk/news/business-58245846) - Insurer Zurich says residential outbuilding fires rose by 16% last year compared with 2019.
+3. [Nando's shuts restaurants as it runs short of supplies](https://www.bbc.co.uk/news/business-58249337) - The chain says it will lend some of its own staff to its suppliers, to help tackle delays to deliveries.
 4. [Trials of shared banking hubs to be extended](https://www.bbc.co.uk/news/business-58245844) - The two trial projects allow different banks to operate from the same premises after branches closed.
-5. [Nando's shuts restaurants as it runs short of supplies](https://www.bbc.co.uk/news/business-58249337) - The chain says it will lend some of its own staff to its suppliers, to help tackle delays to deliveries.
-6. [Home Depot 'discriminated against BLM supporter'](https://www.bbc.co.uk/news/business-58251211) - The US DIY chain tried to stop a worker from raising issues of racial harassment with managers, a watchdog claims.
+5. [Home Depot 'discriminated against BLM supporter'](https://www.bbc.co.uk/news/business-58251211) - The US DIY chain tried to stop a worker from raising issues of racial harassment with managers, a watchdog claims.
+6. [UK job vacancies at record high as wages pick up](https://www.bbc.co.uk/news/business-58241006) - Job vacancies hit 953,000 amid signs the country's labour market is rebounding "robustly".
 7. [Mastercard to end magnetic strip on cards](https://www.bbc.co.uk/news/technology-58206591) - The company sets an expiry date of 2033 for the decades-old technology.
 8. [BHP: Mining giant to leave London's FTSE 100 for Sydney](https://www.bbc.co.uk/news/business-58241008) - The company, which has been part of the blue chip index for 20 years, is scrapping its dual listing.
 9. [Afghan bank governor flees saying country left in chaos](https://www.bbc.co.uk/news/business-58230941) - Afghanistan's central banker Ajmal Ahmady says he tried to maintain calm before fleeing crowds and gunshots.
