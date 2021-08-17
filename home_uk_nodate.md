@@ -12,7 +12,7 @@
 12. [Sudoku: Maki Kaji, puzzle enthusiast, dies aged 69](https://www.bbc.co.uk/news/world-asia-58243126) - The Japanese puzzle enthusiast helped popularise the number game, leading to its global success.
 13. [Afghanistan: Female presenters back on Tolo News after Taliban takeover](https://www.bbc.co.uk/news/world-asia-58241000) - Women had been noticeably absent from major news outlets after the Taliban took control of Afghanistan.
 14. [Biden's speech on Afghanistan fact-checked](https://www.bbc.co.uk/news/58243158) - How consistent was President Biden's speech with his previous statements on Afghanistan?
-15. [Afghanistan crisis: How America watched as Taliban 'won' the war](https://www.bbc.co.uk/news/world-us-canada-58245056) - US military veterans and Afghan Americans reflect on a dramatic day - and the two-decade conflict.
+15. [Afghanistan crisis: How America watched as Taliban won the war](https://www.bbc.co.uk/news/world-us-canada-58245056) - US military veterans and Afghan Americans reflect on a dramatic day - and the two-decade conflict.
 16. [Does the world now face a new terror threat?](https://www.bbc.co.uk/news/world-asia-58232041) - The Taliban are back, 20 years after being ousted for supporting terror groups. Will they do the same?
 17. [Why is the Taliban's Kabul victory being compared to the fall of Saigon?](https://www.bbc.co.uk/news/world-asia-58234884) - Many have drawn parallels with America's withdrawal from Vietnam in 1975 - but is this fair?
 18. [How the Taliban seized Afghanistan again](https://www.bbc.co.uk/news/world-asia-58238023) - Taliban fighters have swept across Afghanistan taking control of towns and cities.

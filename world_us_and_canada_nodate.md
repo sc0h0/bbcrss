@@ -1,6 +1,6 @@
 1. [Biden defends 'messy' US pullout from Afghanistan](https://www.bbc.co.uk/news/world-us-canada-58238497) - "How many more American lives is it worth?" says the president, amid growing criticism over the move.
 2. [Biden's speech on Afghanistan fact-checked](https://www.bbc.co.uk/news/58243158) - How consistent was President Biden's speech with his previous statements on Afghanistan?
-3. [Afghanistan crisis: How America watched as Taliban 'won' the war](https://www.bbc.co.uk/news/world-us-canada-58245056) - US military veterans and Afghan Americans reflect on a dramatic day - and the two-decade conflict.
+3. [Afghanistan crisis: How America watched as Taliban won the war](https://www.bbc.co.uk/news/world-us-canada-58245056) - US military veterans and Afghan Americans reflect on a dramatic day - and the two-decade conflict.
 4. [Why is the Taliban's Kabul victory being compared to the fall of Saigon?](https://www.bbc.co.uk/news/world-asia-58234884) - Many have drawn parallels with America's withdrawal from Vietnam in 1975 - but is this fair?
 5. [Bob Dylan denies sexually abusing girl in 1965](https://www.bbc.co.uk/news/entertainment-arts-58239195) - A woman says the US singer-songwriter abused her when she was 12 - a claim he says is untrue.
 6. [Images show decline of California's 'life source'](https://www.bbc.co.uk/news/world-us-canada-58232044) - Justin Sullivan has been following California's second-largest reservoir's falling water levels.
