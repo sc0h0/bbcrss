@@ -2,8 +2,8 @@
 2. [No need to swap data for drinks, says privacy body](https://www.bbc.co.uk/news/business-58230932) - Some pub ordering apps ask too many questions, but you can refuse, says the information watchdog.
 3. [Afghanistan: Facebook confirms ban of Taliban-related content](https://www.bbc.co.uk/news/business-58239786) - Technology firms face challenges on how to handle content created by the group and its supporters.
 4. [Covid testing is rip-off, says former regulator](https://www.bbc.co.uk/news/business-58200203) - Lord Tyrie, ex-boss of the competition watchdog, says it was slow to react to complaints about providers.
-5. [What next for Afghanistan's economy?](https://www.bbc.co.uk/news/business-58235185) - Now that the Taliban are back in control of the country, can its financial system function?
-6. [Love and money: 'I borrowed from a friend, it went wrong'](https://www.bbc.co.uk/news/business-57824096) - After sleeping on the night bus with her daughter, Jo was forced to borrow money.
+5. [Love and money: 'I borrowed from a friend, it went wrong'](https://www.bbc.co.uk/news/business-57824096) - After sleeping on the night bus with her daughter, Jo was forced to borrow money.
+6. [What next for Afghanistan's economy?](https://www.bbc.co.uk/news/business-58235185) - Now that the Taliban are back in control of the country, can its financial system function?
 7. [Bezos sues Nasa over its deal with Elon Musk's SpaceX](https://www.bbc.co.uk/news/business-58235479) - Mr Bezos's Blue Origin says it was unfairly treated after being excluded from lunar landing contract.
 8. [Afghanistan conflict: Airlines reroute flights out of Afghan airspace](https://www.bbc.co.uk/news/business-58228470) - Virgin Atlantic made its last journey over the region on Sunday while Emirates has suspended flights.
 9. ['New York vaccine mandate could destroy my restaurant'](https://www.bbc.co.uk/news/business-58204471) - City residents need to be jabbed to use restaurants, gyms and theatres - and businesses are worried.

@@ -1,7 +1,7 @@
 1. [Alcohol deaths at highest level for a decade](https://www.bbc.co.uk/news/uk-scotland-58243168) - Statistics show there were 1,190 alcohol-specific deaths registered in Scotland, 170 more than the previous year.
 2. [Decrease in Scotland's suicide rate during 2020](https://www.bbc.co.uk/news/uk-scotland-58242836) - The number of deaths fell from 833 in 2019 to 805 last year but suicide rates were above average in late summer.
 3. [Could Scots be guaranteed a minimum income?](https://www.bbc.co.uk/news/uk-scotland-scotland-politics-58230375) - The government is to start work on plans for an income guarantee scheme aimed at wiping out poverty in Scotland.
-4. [Unemployment rate drops slightly in Scotland](https://www.bbc.co.uk/news/uk-scotland-58241453) - Official figures for April to June show the jobless figure stands at 4.3%, down 0.1% on the previous three months.
+4. [Scottish payroll numbers climb by 17,000](https://www.bbc.co.uk/news/uk-scotland-58241453) - The official total of 2.4 million is still 28,000 lower than in February 2020, before the pandemic struck.
 5. [Scotland's papers: Biden defends US withdrawal from Afghanistan](https://www.bbc.co.uk/news/uk-scotland-58239029) - Many of Scotland's front page continue to focus on Afghanistan as Kabul descends into "chaos".
 6. [Covid in Scotland: Victims' families hold public inquiry talks](https://www.bbc.co.uk/news/uk-scotland-58234070) - The Covid-19 Bereaved Families for Justice group has been lobbying for an urgent independent investigation.
 7. [Is a new oil field climate change hypocrisy?](https://www.bbc.co.uk/news/uk-scotland-57762927) - As Glasgow prepares to host the COP26 climate summit, a new oil field west of Shetland could get the green light.
