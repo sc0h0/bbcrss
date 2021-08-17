@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 17 Aug 2021 06:36:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Aug 2021 06:50:50 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -163,6 +163,13 @@
             <pubDate>Mon, 16 Aug 2021 23:13:17 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Joe Biden on Afghanistan: 'I stand squarely behind my decision']]></title>
+            <description><![CDATA[The US president says the quick collapse of the Afghan government shows why America had to withdraw.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-58238557</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-58238557</guid>
+            <pubDate>Mon, 16 Aug 2021 20:31:36 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Malala: 'Futures of Afghan child refugees aren't lost']]></title>
             <description><![CDATA[Nobel peace laureate, Malala Yousafzai was shot in the head by the Taliban in 2012.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-58236327</link>
@@ -182,13 +189,6 @@
             <link>https://www.bbc.co.uk/news/world-asia-58230068</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58230068</guid>
             <pubDate>Mon, 16 Aug 2021 10:07:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Afghanistan: People flee Kabul as Taliban overrun cities]]></title>
-            <description><![CDATA[Roads out of the Afghan capital have been choked with traffic as people try to escape a Taliban takeover.]]></description>
-            <link>https://www.bbc.co.uk/news/world-middle-east-58225187</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-58225187</guid>
-            <pubDate>Sun, 15 Aug 2021 17:14:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Afghanistan: Will it become haven for terror with the Taliban in power?]]></title>
