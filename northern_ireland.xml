@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 17 Aug 2021 13:34:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Aug 2021 13:43:05 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -44,6 +44,13 @@
             <pubDate>Tue, 17 Aug 2021 05:45:07 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid-19: Seven more deaths and 1,564 new cases]]></title>
+            <description><![CDATA[There are currently 392 patients with Covid in Northern Ireland's hospitals with 47 in intensive care.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58244499</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58244499</guid>
+            <pubDate>Tue, 17 Aug 2021 13:41:04 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Afghanistan: 'You fear for your family and friends at home']]></title>
             <description><![CDATA[Four people with links to the island of Ireland speak of their fears for relatives amid the chaos.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58241343</link>
@@ -51,18 +58,18 @@
             <pubDate>Tue, 17 Aug 2021 08:47:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[PSNI to alert 60 County Down schools of domestic abuse incidents]]></title>
-            <description><![CDATA[In a pilot scheme in County Down, police will tell schools if pupils are affected by violence at home.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58232024</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58232024</guid>
-            <pubDate>Tue, 17 Aug 2021 10:41:54 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Bangor: Flagship Centre sold in multi-million pound deal]]></title>
             <description><![CDATA[The once popular shopping site on Bangor's Main Street has been vacant since February 2019.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58241352</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58241352</guid>
             <pubDate>Tue, 17 Aug 2021 12:10:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[PSNI to alert 60 County Down schools of domestic abuse incidents]]></title>
+            <description><![CDATA[In a pilot scheme in County Down, police will tell schools if pupils are affected by violence at home.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58232024</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58232024</guid>
+            <pubDate>Tue, 17 Aug 2021 10:41:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: Last chance for first jabs at NI's mass vaccination centres]]></title>
@@ -98,13 +105,6 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58230108</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58230108</guid>
             <pubDate>Mon, 16 Aug 2021 14:07:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Liverpool: NI man 'improving' in hospital after attack, police say]]></title>
-            <description><![CDATA[Seven men arrested following the attack on the 24-year-old on Saturday have been released.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58238010</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58238010</guid>
-            <pubDate>Mon, 16 Aug 2021 22:43:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: Relaxation of NI self-isolation comes in effect]]></title>

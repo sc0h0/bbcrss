@@ -1,4 +1,4 @@
-1. [Tributes to nurse as manhunt continues for husband](https://www.bbc.co.uk/news/uk-england-leeds-58243279) - Hospital bosses pay tribute to Eileen Barrott as police continue to search for her husband.
+1. [Eileen Barrott murder: NHS tribute to nurse as manhunt continues](https://www.bbc.co.uk/news/uk-england-leeds-58243279) - Hospital bosses pay tribute to Eileen Barrott as police continue to search for her husband.
 2. [UK student who travelled to Afghanistan for holiday evacuated](https://www.bbc.co.uk/news/uk-england-birmingham-58244518) - Miles Routledge, from Birmingham, claims he visited Kabul because he enjoys "extreme tourism".
 3. [Speeding MP who asked for ban ordered off roads](https://www.bbc.co.uk/news/uk-england-cambridgeshire-58243901) - Conservative Paul Bristow wrote that he wanted to avoid "hypocrisy" after speeding on the A1.
 4. [Banksy-painted building in Lowestoft taken off the market](https://www.bbc.co.uk/news/uk-england-suffolk-58231399) - He is "looking at his options", believing the mural could be worth more than the property itself.
