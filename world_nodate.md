@@ -3,9 +3,9 @@
 3. [France wildfire: Thousands evacuated as blaze rages near Riviera](https://www.bbc.co.uk/news/world-europe-58243066) - Firefighters clear campsites in the Var region as some 5,000 hectares are destroyed by fire.
 4. [Sudoku: Maki Kaji, puzzle enthusiast, dies aged 69](https://www.bbc.co.uk/news/world-asia-58243126) - The Japanese puzzle enthusiast helped popularise the number game, leading to its global success.
 5. [Astronomers see galaxies in ultra-high definition](https://www.bbc.co.uk/news/science-environment-57998940) - Researchers capture some of the most detailed images ever seen of galaxies in deep space.
-6. [Israel battles huge wildfire near Jerusalem](https://www.bbc.co.uk/news/world-middle-east-58243631) - The blaze has destroyed some 2,000 hectares (5,000 acres) of forest over the past three days.
+6. [California man sues after being startled by dumpster-diving bear](https://www.bbc.co.uk/news/world-us-canada-58250366) - A dumpster-diving bear allegedly "startled" the man and caused him to fall and hurt himself.
 7. [Haiti earthquake: Tropical Storm Grace hampers rescue](https://www.bbc.co.uk/news/world-latin-america-58222888) - Tropical Storm Grace has dumped heavy rain on Haiti just days after a tremor left at least 1,419 dead.
-8. [Images show decline of California's 'life source'](https://www.bbc.co.uk/news/world-us-canada-58232044) - Justin Sullivan has been following California's second-largest reservoir's falling water levels.
+8. [Israel battles huge wildfire near Jerusalem](https://www.bbc.co.uk/news/world-middle-east-58243631) - The blaze has destroyed some 2,000 hectares (5,000 acres) of forest over the past three days.
 9. [Uganda anti-pornography law dropped after backlash](https://www.bbc.co.uk/news/world-africa-58235637) - Legislation branded the "anti-miniskirt" law is annulled by Uganda's Constitutional Court.
 10. [Afghanistan: Facebook continues ban of Taliban-related content](https://www.bbc.co.uk/news/business-58239786) - Technology firms face challenges on how to handle content created by the group and its supporters.
 11. [Bob Dylan denies sexually abusing girl in 1965](https://www.bbc.co.uk/news/entertainment-arts-58239195) - A woman says the US singer-songwriter abused her when she was 12 - a claim he says is untrue.
@@ -19,12 +19,12 @@
 19. [How the Taliban seized Afghanistan again](https://www.bbc.co.uk/news/world-asia-58238023) - Taliban fighters have swept across Afghanistan taking control of towns and cities.
 20. [Afghan reporter asks Nato Secretary for help](https://www.bbc.co.uk/news/world-asia-58250062) - Lailuma Sadid, a journalist with Brussels Morning Newspaper, became emotional when asking the Nato Secretary-General about the Taliban in Afghanistan.
 21. [Afghanistan: Female presenters back on Tolo News after Taliban takeover](https://www.bbc.co.uk/news/world-asia-58241000) - Women had been noticeably absent from major news outlets after the Taliban took control of Afghanistan.
-22. [Joe Biden on Afghanistan: 'I stand squarely behind my decision'](https://www.bbc.co.uk/news/world-us-canada-58238557) - The US president says the quick collapse of the Afghan government shows why America had to withdraw.
+22. [Images show decline of California's 'life source'](https://www.bbc.co.uk/news/world-us-canada-58232044) - Justin Sullivan has been following California's second-largest reservoir's falling water levels.
 23. [Afghanistan: 'All female staff have left my Kabul hotel'](https://www.bbc.co.uk/news/world-asia-58243134) - The BBC's Malik Mudassir says Taliban fighters are now providing security at his hotel in central Kabul.
-24. [Afghanistan: Striking image captures Kabul exodus](https://www.bbc.co.uk/news/world-asia-58242733) - A photo appears to show hundreds of Afghans packed on a US military plane as they flee the Taliban.
-25. [Afghanistan: 'Was my role in Afghan War worth it?'](https://www.bbc.co.uk/news/world-us-canada-58247092) - US military veterans say the Taliban takeover of Afghanistan was "tragic" but "inevitable".
-26. [Does the world now face a new terror threat?](https://www.bbc.co.uk/news/world-asia-58232041) - The Taliban are back, 20 years after being ousted for supporting terror groups. Will they do the same?
-27. [Khaled Hosseini: ‘A sliver of hope’ for Afghanistan](https://www.bbc.co.uk/news/world-asia-58245606) - This is a different country to the one the Taliban left, I hope they adapt to it, the author says.
+24. [Afghanistan: Female Kabul resident fears for future under Taliban](https://www.bbc.co.uk/news/world-asia-58252014) - A woman shares her story of the day the Taliban arrived - and why she has lost all hope.
+25. [Afghanistan: Striking image captures Kabul exodus](https://www.bbc.co.uk/news/world-asia-58242733) - A photo appears to show hundreds of Afghans packed on a US military plane as they flee the Taliban.
+26. [Afghanistan: 'Was my role in Afghan War worth it?'](https://www.bbc.co.uk/news/world-us-canada-58247092) - US military veterans say the Taliban takeover of Afghanistan was "tragic" but "inevitable".
+27. [Does the world now face a new terror threat?](https://www.bbc.co.uk/news/world-asia-58232041) - The Taliban are back, 20 years after being ousted for supporting terror groups. Will they do the same?
 28. [How the Taliban stormed across Afghanistan in ten days](https://www.bbc.co.uk/news/world-58232525) - The Taliban took their first city on 6 Aug and arrived in Kabul just over a week later.
 29. [Afghanistan: In pictures: Kabul - a day after Taliban takeover](https://www.bbc.co.uk/news/in-pictures-58225117) - Kabul - the Afghan capital - is quiet in some parts, but chaotic at the airport where thousands are trying to flee.
 30. [Kabul centre quiet and subdued after Taliban takeover](https://www.bbc.co.uk/news/world-asia-58232815) - BBC video journalist Malik Mudassir speaks about life in the city after its capture by the Taliban.
