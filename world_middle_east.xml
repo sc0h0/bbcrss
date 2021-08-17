@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 17 Aug 2021 10:26:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Aug 2021 10:40:56 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Israel battles huge wildfire near Jerusalem]]></title>
+            <description><![CDATA[The blaze has destroyed some 2,000 hectares (5,000 acres) of forest over the past three days.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-58243631</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-58243631</guid>
+            <pubDate>Tue, 17 Aug 2021 10:29:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Four Palestinians killed in clashes during Israeli raid]]></title>
             <description><![CDATA[A firefight broke out during an undercover police operation in the occupied West Bank.]]></description>
@@ -63,20 +70,6 @@
             <link>https://www.bbc.co.uk/news/world-middle-east-58156419</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-58156419</guid>
             <pubDate>Tue, 10 Aug 2021 12:25:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sweden tries Hamid Nouri over 1988 Iran prison massacre]]></title>
-            <description><![CDATA[Hamid Nouri faces trial over the mass execution of detainees during the Iran-Iraq war.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58165166</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58165166</guid>
-            <pubDate>Tue, 10 Aug 2021 18:04:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nigerian Igbo Jewish leader arrested with Israeli visitors freed]]></title>
-            <description><![CDATA[Lizben Agha was held for weeks without charge after becoming caught up with the three men's arrest.]]></description>
-            <link>https://www.bbc.co.uk/news/world-africa-58097200</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-58097200</guid>
-            <pubDate>Mon, 09 Aug 2021 08:39:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The murderous crime wave sweeping Israel's Arabs]]></title>
