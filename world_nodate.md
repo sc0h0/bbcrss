@@ -1,12 +1,12 @@
 1. [Biden defends 'messy' US pullout from Afghanistan](https://www.bbc.co.uk/news/world-us-canada-58238497) - "How many more American lives is it worth?" says the president, amid growing criticism over the move.
 2. [New Zealand enters nationwide lockdown over one Covid case](https://www.bbc.co.uk/news/world-asia-58241619) - Authorities say they are still running tests, but are assuming it is a case of the Delta variant.
 3. [France wildfire: Thousands evacuated as blaze rages near Riviera](https://www.bbc.co.uk/news/world-europe-58243066) - Firefighters clear campsites in the Var region as some 5,000 hectares are destroyed by fire.
-4. [Haiti earthquake: Tropical Storm Grace hampers rescue](https://www.bbc.co.uk/news/world-latin-america-58222888) - Tropical Storm Grace has dumped heavy rain on Haiti just days after a tremor left at least 1,419 dead.
+4. [Sudoku: Maki Kaji, puzzle enthusiast, dies aged 69](https://www.bbc.co.uk/news/world-asia-58243126) - The Japanese puzzle enthusiast helped popularise the number game, leading to its global success.
 5. [Bob Dylan denies sexually abusing girl in 1965](https://www.bbc.co.uk/news/entertainment-arts-58239195) - A woman says the US singer-songwriter abused her when she was 12 - a claim he says is untrue.
 6. [Israel battles huge wildfire near Jerusalem](https://www.bbc.co.uk/news/world-middle-east-58243631) - The blaze has destroyed some 2,000 hectares (5,000 acres) of forest over the past three days.
-7. [Images show decline of California's 'life source'](https://www.bbc.co.uk/news/world-us-canada-58232044) - Justin Sullivan has been following California's second-largest reservoir's falling water levels.
-8. [Uganda anti-pornography law dropped after backlash](https://www.bbc.co.uk/news/world-africa-58235637) - Legislation branded the "anti-miniskirt" law is annulled by Uganda's Constitutional Court.
-9. [Tesla Autopilot: US opens official investigation into self-driving tech](https://www.bbc.co.uk/news/technology-58232137) - The investigation covers all Tesla cars since 2014, focusing on crashes with emergency vehicles.
+7. [Haiti earthquake: Tropical Storm Grace hampers rescue](https://www.bbc.co.uk/news/world-latin-america-58222888) - Tropical Storm Grace has dumped heavy rain on Haiti just days after a tremor left at least 1,419 dead.
+8. [Images show decline of California's 'life source'](https://www.bbc.co.uk/news/world-us-canada-58232044) - Justin Sullivan has been following California's second-largest reservoir's falling water levels.
+9. [Uganda anti-pornography law dropped after backlash](https://www.bbc.co.uk/news/world-africa-58235637) - Legislation branded the "anti-miniskirt" law is annulled by Uganda's Constitutional Court.
 10. [Bezos sues Nasa over its deal with Elon Musk's SpaceX](https://www.bbc.co.uk/news/business-58235479) - Mr Bezos's Blue Origin says it was unfairly treated after being excluded from lunar landing contract.
 11. [US increases food stamp aid for poorer Americans](https://www.bbc.co.uk/news/world-us-canada-58235165) - The increase of about $36 (£26) per person, per month, is the largest in the programme's history.
 12. [Biden's speech on Afghanistan fact-checked](https://www.bbc.co.uk/news/58243158) - How consistent was President Biden's speech with his previous statements on Afghanistan?
