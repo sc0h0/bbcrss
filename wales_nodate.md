@@ -4,7 +4,7 @@
 4. [Cardiff council says garden waste collection to be cut due to lack of drivers](https://www.bbc.co.uk/news/uk-wales-58235359) - Almost a quarter of the drivers needed are currently unavailable for work, a council says.
 5. [Porth Neigwl: More safety measures needed at site of beach death, says witness](https://www.bbc.co.uk/news/uk-wales-58235357) - A man who witnessed an unsuccessful attempt to save a man says more warnings are needed.
 6. [Afghanistan: Soldier's mum hopes his death was not in vain](https://www.bbc.co.uk/news/uk-wales-58230075) - Sarah Adams, whose son James Prosser was killed in Afghanistan in 2009, says she is "heartbroken".
-7. [Wrexham: Attempted murder arrest over 'serious assault'](https://www.bbc.co.uk/news/uk-wales-58227940) - Police say two men have been arrested over the attack near a supermarket on Sunday morning.
+7. [Wrexham: Attempted murder arrest over serious assault](https://www.bbc.co.uk/news/uk-wales-58227940) - Police say two men have been arrested over the attack near a supermarket on Sunday morning.
 8. [Hollywood-style sign in Wrexham is a whodunnit](https://www.bbc.co.uk/news/uk-wales-58230790) - The sign was erected on the slag heap at Bersham Bank colliery tip over the weekend.
 9. [Milad Rouf: Medical student pleads guilty to Brighton acid attack](https://www.bbc.co.uk/news/uk-england-sussex-58232397) - Milad Rouf, from Cardiff, threw sulphuric acid over a young doctor in Brighton in May.
 10. [Cardiff man, 19, admits raping woman in Bute park](https://www.bbc.co.uk/news/uk-wales-58227945) - Tyler Higgins is remanded in custody and is due to be sentenced next month.

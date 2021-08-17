@@ -2,7 +2,7 @@
 2. [Afghanistan: Why is the UK Parliament being recalled?](https://www.bbc.co.uk/news/uk-politics-58228715) - MPs and members of the House of Lords will return from their summer break to debate the crisis in Afghanistan. What can we expect?
 3. [New police CCTV use rules criticised as bare bones](https://www.bbc.co.uk/news/technology-58206586) - However, the guidelines empowered police and maintained public trust, the Home Office says.
 4. [Hydrogen power offers jobs boost, says government](https://www.bbc.co.uk/news/science-environment-58238367) - Kick-starting a hydrogen industry could attract billions in investment, the UK government says.
-5. [UK job vacancies at record high as wages tick up](https://www.bbc.co.uk/news/business-58241006) - Job vacancies hit 953,000 while average pay rises 7.4%, official figures show.
+5. [UK job vacancies at record high as wages tick up](https://www.bbc.co.uk/news/business-58241006) - Job vacancies hit 953,000 amid signs the country's labour market is rebounding "robustly".
 6. [Afghanistan: Another 200 UK troops sent to Kabul evacuation](https://www.bbc.co.uk/news/uk-58235707) - Around 700 troops were already in the Afghan capital to help UK citizens and others leave.
 7. [UK minister 'eager' for Cambo oil field talks](https://www.bbc.co.uk/news/uk-scotland-scotland-politics-58221743) - The UK's Scotland Office minister David Duguid says he wants to learn more about development of the site off Shetland.
 8. [UK scholarships for Afghan students paused](https://www.bbc.co.uk/news/uk-58219114) - The government says the situation in Afghanistan means the British Embassy in Kabul cannot finalise plans.

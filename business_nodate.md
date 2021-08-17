@@ -1,4 +1,4 @@
-1. [UK job vacancies at record high as wages tick up](https://www.bbc.co.uk/news/business-58241006) - Job vacancies hit 953,000 while average pay rises 7.4%, official figures show.
+1. [UK job vacancies at record high as wages tick up](https://www.bbc.co.uk/news/business-58241006) - Job vacancies hit 953,000 amid signs the country's labour market is rebounding "robustly".
 2. [No need to swap data for drinks, says privacy body](https://www.bbc.co.uk/news/business-58230932) - Some pub ordering apps ask too many questions, but you can refuse, says the information watchdog.
 3. [Afghanistan: Facebook confirms ban of Taliban-related content](https://www.bbc.co.uk/news/business-58239786) - Technology firms face challenges on how to handle content created by the group and its supporters.
 4. [Covid testing is rip-off, says former regulator](https://www.bbc.co.uk/news/business-58200203) - Lord Tyrie, ex-boss of the competition watchdog, says it was slow to react to complaints about providers.
