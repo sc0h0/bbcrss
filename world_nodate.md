@@ -22,9 +22,9 @@
 22. [Joe Biden on Afghanistan: 'I stand squarely behind my decision'](https://www.bbc.co.uk/news/world-us-canada-58238557) - The US president says the quick collapse of the Afghan government shows why America had to withdraw.
 23. [Afghanistan: 'All female staff have left my Kabul hotel'](https://www.bbc.co.uk/news/world-asia-58243134) - The BBC's Malik Mudassir says Taliban fighters are now providing security at his hotel in central Kabul.
 24. [Afghanistan: Striking image captures Kabul exodus](https://www.bbc.co.uk/news/world-asia-58242733) - A photo appears to show hundreds of Afghans packed on a US military plane as they flee the Taliban.
-25. [Does the world now face a new terror threat?](https://www.bbc.co.uk/news/world-asia-58232041) - The Taliban are back, 20 years after being ousted for supporting terror groups. Will they do the same?
-26. [Khaled Hosseini: ‘A sliver of hope’ for Afghanistan](https://www.bbc.co.uk/news/world-asia-58245606) - This is a different country to the one the Taliban left, I hope they adapt to it, the author says.
-27. [Why is the Taliban's Kabul victory being compared to the fall of Saigon?](https://www.bbc.co.uk/news/world-asia-58234884) - Many have drawn parallels with America's withdrawal from Vietnam in 1975 - but is this fair?
+25. [Afghanistan: 'Was my role in Afghan War worth it?'](https://www.bbc.co.uk/news/world-us-canada-58247092) - US military veterans say the Taliban takeover of Afghanistan was "tragic" but "inevitable".
+26. [Does the world now face a new terror threat?](https://www.bbc.co.uk/news/world-asia-58232041) - The Taliban are back, 20 years after being ousted for supporting terror groups. Will they do the same?
+27. [Khaled Hosseini: ‘A sliver of hope’ for Afghanistan](https://www.bbc.co.uk/news/world-asia-58245606) - This is a different country to the one the Taliban left, I hope they adapt to it, the author says.
 28. [How the Taliban stormed across Afghanistan in ten days](https://www.bbc.co.uk/news/world-58232525) - The Taliban took their first city on 6 Aug and arrived in Kabul just over a week later.
 29. [Afghanistan: In pictures: Kabul - a day after Taliban takeover](https://www.bbc.co.uk/news/in-pictures-58225117) - Kabul - the Afghan capital - is quiet in some parts, but chaotic at the airport where thousands are trying to flee.
 30. [Kabul centre quiet and subdued after Taliban takeover](https://www.bbc.co.uk/news/world-asia-58232815) - BBC video journalist Malik Mudassir speaks about life in the city after its capture by the Taliban.
