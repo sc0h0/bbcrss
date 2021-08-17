@@ -1,8 +1,8 @@
 1. [UK looking at bespoke Afghan refugee scheme - Dominic Raab](https://www.bbc.co.uk/news/uk-58238490) - The foreign secretary says the UK is a "big-hearted nation" and full details will be set out soon.
-2. ['How many more American lives is it worth?'](https://www.bbc.co.uk/news/world-us-canada-58238497) - "How many more American lives is it worth?" says the president, amid growing criticism over the move.
-3. [UK job vacancies at record high as wages tick up](https://www.bbc.co.uk/news/business-58241006) - Job vacancies hit 953,000 amid signs the country's labour market is rebounding "robustly".
-4. [New Zealand enters nationwide lockdown over one Covid case](https://www.bbc.co.uk/news/world-asia-58241619) - Authorities say they are still running tests, but are assuming it is a case of the Delta variant.
-5. [Haiti earthquake: Tropical Storm Grace hampers rescue](https://www.bbc.co.uk/news/world-latin-america-58222888) - Tropical Storm Grace has dumped heavy rain on Haiti just days after a tremor left at least 1,419 dead.
+2. [UK job vacancies at record high as wages tick up](https://www.bbc.co.uk/news/business-58241006) - Job vacancies hit 953,000 amid signs the country's labour market is rebounding "robustly".
+3. [New Zealand enters nationwide lockdown over one Covid case](https://www.bbc.co.uk/news/world-asia-58241619) - Authorities say they are still running tests, but are assuming it is a case of the Delta variant.
+4. [Haiti earthquake: Tropical Storm Grace hampers rescue](https://www.bbc.co.uk/news/world-latin-america-58222888) - Tropical Storm Grace has dumped heavy rain on Haiti just days after a tremor left at least 1,419 dead.
+5. [Covid: Queen remains at Balmoral as staff member tests positive](https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-58245334) - The Queen, who is 95 and vaccinated, will remain at her private retreat in Scotland as planned.
 6. [Urgent call for Covid-safe ventilation in schools](https://www.bbc.co.uk/news/education-58243238) - Education unions make an urgent call for school-ventilation measures to limit Covid and "long Covid".
 7. [Bob Dylan denies sexually abusing girl in 1965](https://www.bbc.co.uk/news/entertainment-arts-58239195) - A woman says the US singer-songwriter abused her when she was 12 - a claim he says is untrue.
 8. [No need to swap data for drinks, says privacy body](https://www.bbc.co.uk/news/business-58230932) - Some pub ordering apps ask too many questions, but you can refuse, says the information watchdog.

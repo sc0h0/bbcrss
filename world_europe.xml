@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 17 Aug 2021 10:50:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Aug 2021 11:04:29 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[France wildfire: Thousands evacuated as blaze rages near Riviera]]></title>
+            <description><![CDATA[Firefighters clear campsites in the Var region as some 5,000 hectares are destroyed by fire.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58243066</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58243066</guid>
+            <pubDate>Tue, 17 Aug 2021 10:56:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[UK looking at bespoke Afghan refugee scheme - Dominic Raab]]></title>
             <description><![CDATA[The foreign secretary says the UK is a "big-hearted nation" and full details will be set out soon.]]></description>
@@ -49,13 +56,6 @@
             <link>https://www.bbc.co.uk/news/entertainment-arts-58228430</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-58228430</guid>
             <pubDate>Mon, 16 Aug 2021 16:22:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Turkey floods: Death toll near Black Sea rises to at least 70]]></title>
-            <description><![CDATA[Flash floods in northern Turkey are the country's second natural disaster this month.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58200296</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58200296</guid>
-            <pubDate>Mon, 16 Aug 2021 08:47:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['My night in Quisling's cabin']]></title>
