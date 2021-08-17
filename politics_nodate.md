@@ -1,4 +1,4 @@
-1. [UK looking at bespoke Afghan refugee scheme - Dominic Raab](https://www.bbc.co.uk/news/uk-58238490) - The foreign secretary says the UK is a "big-hearted nation" and full details will be set out soon.
+1. [UK to welcome 20,000 Afghans amid Taliban takeover](https://www.bbc.co.uk/news/uk-58250211) - Some 5,000 refugees will be eligible under a new scheme in the first year, on top of 5,000 Afghan staff.
 2. [Afghanistan: UK's Kabul evacuation operating at full pace - commander](https://www.bbc.co.uk/news/uk-58244927) - The changing political situation means "we can't afford to pause and wait", Vice Adm Sir Ben Key says.
 3. [Afghanistan: Why is the UK Parliament being recalled?](https://www.bbc.co.uk/news/uk-politics-58228715) - MPs and members of the House of Lords will return from their summer break to debate the crisis in Afghanistan. What can we expect?
 4. [Hydrogen power offers jobs boost, says government](https://www.bbc.co.uk/news/science-environment-58238367) - Kick-starting a hydrogen industry could attract billions in investment, the UK government says.

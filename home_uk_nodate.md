@@ -1,5 +1,5 @@
-1. [Afghan women to have rights within Islamic law, Taliban say](https://www.bbc.co.uk/news/world-asia-58249952) - The militant group, which has taken control of Afghanistan, is pressed on fears over women's freedoms.
-2. [Afghanistan: UK's Kabul evacuation operating at full pace - commander](https://www.bbc.co.uk/news/uk-58244927) - The changing political situation means "we can't afford to pause and wait", Vice Adm Sir Ben Key says.
+1. [UK to welcome 20,000 Afghans amid Taliban takeover](https://www.bbc.co.uk/news/uk-58250211) - Some 5,000 refugees will be eligible under a new scheme in the first year, on top of 5,000 Afghan staff.
+2. [Afghan women to have rights within Islamic law, Taliban say](https://www.bbc.co.uk/news/world-asia-58249952) - The militant group, which has taken control of Afghanistan, is pressed on fears over women's freedoms.
 3. [Covid-vaccine scientists begin plague-jab trial](https://www.bbc.co.uk/news/health-58241858) - The first volunteers have received a dose of the vaccine, made using the same technology as the Covid jab.
 4. [Plymouth gunman had lockdown mental health help](https://www.bbc.co.uk/news/uk-england-devon-58248391) - Jake Davison, who killed five people in Plymouth, used a mental health helpline, the NHS says.
 5. [Nando's shuts restaurants as it runs short of supplies](https://www.bbc.co.uk/news/business-58249337) - The chain says it will lend some of its own staff to its suppliers, to help tackle delays to deliveries.
