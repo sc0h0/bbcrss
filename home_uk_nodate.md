@@ -1,5 +1,5 @@
 1. ['How many more American lives is it worth?'](https://www.bbc.co.uk/news/world-us-canada-58238497) - "How many more American lives is it worth?" says the president at the White House.
-2. [Afghanistan: Another 200 UK troops sent to Kabul evacuation](https://www.bbc.co.uk/news/uk-58235707) - Around 700 troops were already in the Afghan capital to help UK citizens and others leave.
+2. [Afghanistan refugees scheme to be detailed by UK government](https://www.bbc.co.uk/news/uk-58238490) - The new scheme will be aimed at helping those most in need, including women and girls, No 10 says.
 3. [Covid testing is rip-off, says former regulator](https://www.bbc.co.uk/news/business-58200203) - Lord Tyrie, ex-boss of the competition watchdog, says it was slow to react to complaints about providers.
 4. [No need to swap data for drinks, says privacy body](https://www.bbc.co.uk/news/business-58230932) - Some pub ordering apps ask too many questions, but you can refuse, says the information watchdog.
 5. [UK blood supplies to be used to make life-saving drug](https://www.bbc.co.uk/news/health-58229083) - Plasma from donors in England can now be used for the medicine, after a previous ban on UK supplies.
