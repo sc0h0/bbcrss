@@ -1,6 +1,6 @@
 1. [Afghanistan: Will it become haven for terror with the Taliban in power?](https://www.bbc.co.uk/news/world-asia-58232041) - The Taliban are back, 20 years after being ousted for supporting terror groups. Will they do the same?
 2. [New Zealand enters nationwide lockdown over one Covid case](https://www.bbc.co.uk/news/world-asia-58241619) - Authorities say they are still running tests, but are assuming it is a case of the Delta variant.
-3. [Afghanistan: Facebook confirms ban of Taliban-related content](https://www.bbc.co.uk/news/business-58239786) - Technology firms face challenges on how to handle content created by the group and its supporters.
+3. [Afghanistan: Facebook continues ban of Taliban-related content](https://www.bbc.co.uk/news/business-58239786) - Technology firms face challenges on how to handle content created by the group and its supporters.
 4. [Afghanistan: India to evacuate diplomats as security worsens](https://www.bbc.co.uk/news/world-asia-india-58240296) - The country joins several other nations who have evacuated their diplomats from Afghanistan.
 5. [Indian scientists discover 'mermaid' plant species](https://www.bbc.co.uk/news/world-asia-india-58240416) - Scientists say they found this new species of algae in the Andamans archipelago.
 6. [Afghanistan: US takes control of Kabul airport to evacuate staff](https://www.bbc.co.uk/news/world-asia-58227029) - Crowds of fleeing locals thronged the runway, where foreign military planes are now landing again.
