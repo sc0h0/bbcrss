@@ -2,7 +2,7 @@
 2. [Afghanistan: Why is the UK Parliament being recalled?](https://www.bbc.co.uk/news/uk-politics-58228715) - MPs and members of the House of Lords will return from their summer break to debate the crisis in Afghanistan. What can we expect?
 3. [New police CCTV use rules criticised as bare bones](https://www.bbc.co.uk/news/technology-58206586) - However, the guidelines empowered police and maintained public trust, the Home Office says.
 4. [Hydrogen power offers jobs boost, says government](https://www.bbc.co.uk/news/science-environment-58238367) - Kick-starting a hydrogen industry could attract billions in investment, the UK government says.
-5. [UK job vacancies at record high as pick up](https://www.bbc.co.uk/news/business-58241006) - Job vacancies hit 953,000 amid signs the country's labour market is rebounding "robustly".
+5. [UK job vacancies at record high as wages pick up](https://www.bbc.co.uk/news/business-58241006) - Job vacancies hit 953,000 amid signs the country's labour market is rebounding "robustly".
 6. [Peterborough: Speeding MP off roads after asking for a ban](https://www.bbc.co.uk/news/uk-england-cambridgeshire-58243901) - Conservative Paul Bristow wrote that he wanted to avoid "hypocrisy" after speeding on the A1.
 7. [Geronimo the alpaca gets temporary reprieve ahead of review](https://www.bbc.co.uk/news/uk-england-gloucestershire-58241387) - An application for a temporary injunction to halt his death will be considered at the High Court.
 8. [Afghanistan: Another 200 UK troops sent to Kabul evacuation](https://www.bbc.co.uk/news/uk-58235707) - Around 700 troops were already in the Afghan capital to help UK citizens and others leave.

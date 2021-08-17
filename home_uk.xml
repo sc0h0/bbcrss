@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 17 Aug 2021 11:52:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Aug 2021 12:22:00 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Striking image captures Afghan exodus]]></title>
+            <description><![CDATA[A photo appears to show hundreds of Afghans packed on a US military plane as they flee the Taliban.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58242733</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58242733</guid>
+            <pubDate>Tue, 17 Aug 2021 11:48:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[UK looking at bespoke Afghan refugee scheme - Dominic Raab]]></title>
             <description><![CDATA[The foreign secretary says the UK is a "big-hearted nation" and full details will be set out soon.]]></description>
@@ -23,7 +30,7 @@
             <pubDate>Tue, 17 Aug 2021 10:16:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[UK job vacancies at record high as pick up]]></title>
+            <title><![CDATA[UK job vacancies at record high as wages pick up]]></title>
             <description><![CDATA[Job vacancies hit 953,000 amid signs the country's labour market is rebounding "robustly".]]></description>
             <link>https://www.bbc.co.uk/news/business-58241006</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58241006</guid>
@@ -65,20 +72,6 @@
             <pubDate>Tue, 17 Aug 2021 07:54:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[No need to swap data for drinks, says privacy body]]></title>
-            <description><![CDATA[Some pub ordering apps ask too many questions, but you can refuse, says the information watchdog.]]></description>
-            <link>https://www.bbc.co.uk/news/business-58230932</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58230932</guid>
-            <pubDate>Mon, 16 Aug 2021 23:00:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid testing is rip-off, says former regulator]]></title>
-            <description><![CDATA[Lord Tyrie, ex-boss of the competition watchdog, says it was slow to react to complaints about providers.]]></description>
-            <link>https://www.bbc.co.uk/news/business-58200203</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58200203</guid>
-            <pubDate>Mon, 16 Aug 2021 23:00:44 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[James Markham killing: Boy, 14, in court on Chingford murder charge]]></title>
             <description><![CDATA[A 14-year-old boy appears at the Old Bailey over the alleged murder of James Markham.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-london-58243289</link>
@@ -100,18 +93,25 @@
             <pubDate>Tue, 17 Aug 2021 07:41:55 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Sudoku: Maki Kaji, puzzle enthusiast, dies aged 69]]></title>
+            <description><![CDATA[The Japanese puzzle enthusiast helped popularise the number game, leading to its global success.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58243126</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58243126</guid>
+            <pubDate>Tue, 17 Aug 2021 11:23:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Afghanistan: Female presenters back on Tolo News after Taliban takeover]]></title>
+            <description><![CDATA[Women had been noticeably absent from major news outlets after the Taliban took control of Afghanistan.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58241000</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58241000</guid>
+            <pubDate>Tue, 17 Aug 2021 11:40:40 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Biden's speech on Afghanistan fact-checked]]></title>
             <description><![CDATA[How consistent was President Biden's speech with his previous statements on Afghanistan?]]></description>
             <link>https://www.bbc.co.uk/news/58243158</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/58243158</guid>
             <pubDate>Tue, 17 Aug 2021 11:41:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How the Taliban seized Afghanistan again]]></title>
-            <description><![CDATA[Taliban fighters have swept across Afghanistan taking control of towns and cities.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58238023</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58238023</guid>
-            <pubDate>Mon, 16 Aug 2021 23:13:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Does the world now face a new terror threat?]]></title>
@@ -126,6 +126,13 @@
             <link>https://www.bbc.co.uk/news/world-asia-58234884</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58234884</guid>
             <pubDate>Mon, 16 Aug 2021 22:15:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How the Taliban seized Afghanistan again]]></title>
+            <description><![CDATA[Taliban fighters have swept across Afghanistan taking control of towns and cities.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58238023</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58238023</guid>
+            <pubDate>Mon, 16 Aug 2021 23:13:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How the Taliban stormed across Afghanistan in ten days]]></title>
@@ -329,13 +336,6 @@
             <link>https://www.bbc.co.uk/sport/av/cricket/58238210</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/cricket/58238210</guid>
             <pubDate>Mon, 16 Aug 2021 19:14:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Hundred - Southern Brave v Oval Invincibles: Plays of the day]]></title>
-            <description><![CDATA[Watch the best of Sunday's action in The Hundred as Southern Brave took on Oval Invincibles.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/cricket/58238660</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/cricket/58238660</guid>
-            <pubDate>Mon, 16 Aug 2021 21:32:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid rules: What are the restrictions in your area?]]></title>
