@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 17 Aug 2021 10:56:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Aug 2021 11:11:30 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Boy, 14, in court charged with murder of father]]></title>
+            <description><![CDATA[A 14-year-old boy appears at the Old Bailey over the alleged murder of James Markham.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-58243289</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-58243289</guid>
+            <pubDate>Tue, 17 Aug 2021 10:18:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Ardingly College: Six children and parent hit by Tesla]]></title>
             <description><![CDATA[An eight-year-old boy is flown to hospital after several children are hit by a Tesla at a school.]]></description>
@@ -49,13 +56,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-northamptonshire-58242524</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-northamptonshire-58242524</guid>
             <pubDate>Tue, 17 Aug 2021 09:58:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Geronimo the alpaca gets temporary reprieve ahead of review]]></title>
-            <description><![CDATA[An application for a temporary injunction to halt his death will be considered at the High Court.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-gloucestershire-58241387</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-gloucestershire-58241387</guid>
-            <pubDate>Tue, 17 Aug 2021 07:41:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[From a Manchester council estate to ballet dancing in Swan Lake]]></title>
@@ -182,6 +182,13 @@
             <link>https://www.bbc.co.uk/news/uk-england-coventry-warwickshire-58242598</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-coventry-warwickshire-58242598</guid>
             <pubDate>Tue, 17 Aug 2021 10:26:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Geronimo the alpaca gets temporary reprieve ahead of review]]></title>
+            <description><![CDATA[An application for a temporary injunction to halt his death will be considered at the High Court.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-gloucestershire-58241387</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-gloucestershire-58241387</guid>
+            <pubDate>Tue, 17 Aug 2021 07:41:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Moped rider to tour UK's rude place names]]></title>

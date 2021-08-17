@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 17 Aug 2021 11:04:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Aug 2021 11:18:59 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -51,6 +51,13 @@
             <pubDate>Tue, 17 Aug 2021 09:40:16 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Five dolphins die in 'highly unusual stranding event']]></title>
+            <description><![CDATA[The dolphins were part of a group of more than 50 that got into difficulty in the Cromarty Firth.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-highlands-islands-58245454</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-highlands-islands-58245454</guid>
+            <pubDate>Tue, 17 Aug 2021 11:13:26 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Is a new oil field climate change hypocrisy?]]></title>
             <description><![CDATA[As Glasgow prepares to host the COP26 climate summit, a new oil field west of Shetland could get the green light.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-57762927</link>
@@ -86,13 +93,6 @@
             <pubDate>Mon, 16 Aug 2021 15:30:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Education secretary promises masks in school will go 'as soon as possible']]></title>
-            <description><![CDATA[As most schools return, the education secretary promises the requirement for face coverings is temporary.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-58228512</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58228512</guid>
-            <pubDate>Mon, 16 Aug 2021 13:21:27 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Scotland's papers: Biden defends US withdrawal from Afghanistan]]></title>
             <description><![CDATA[Many of Scotland's front page continue to focus on Afghanistan as Kabul descends into "chaos".]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-58239029</link>
@@ -100,25 +100,11 @@
             <pubDate>Tue, 17 Aug 2021 07:26:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Former Nato chief says UK must bolster terror defences after Afghan failure]]></title>
-            <description><![CDATA[Former Nato chief George Robertson predicts the longer term implications "are going to be very worrying indeed".]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-scotland-politics-58230368</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-scotland-politics-58230368</guid>
-            <pubDate>Mon, 16 Aug 2021 14:10:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Scottish pubs 'running out of beer' amid supply problems]]></title>
-            <description><![CDATA[A trade body warns of a "perfect storm" as a shortage of drivers and warehouse staff hits beer distribution.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-scotland-business-58194011</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-scotland-business-58194011</guid>
-            <pubDate>Mon, 16 Aug 2021 16:26:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Man charged with murder after Newtongrange garden disturbance]]></title>
-            <description><![CDATA[The 48-year-old was arrested following the death of Roddy Georgeson in Newtongrange on Saturday.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-58237541</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-58237541</guid>
-            <pubDate>Mon, 16 Aug 2021 17:32:51 GMT</pubDate>
+            <title><![CDATA[Education secretary promises masks in school will go 'as soon as possible']]></title>
+            <description><![CDATA[As most schools return, the education secretary promises the requirement for face coverings is temporary.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-58228512</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58228512</guid>
+            <pubDate>Mon, 16 Aug 2021 13:21:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid in Scotland: Where are the latest cases?]]></title>
