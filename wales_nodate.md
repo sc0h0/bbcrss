@@ -1,4 +1,4 @@
-1. [Coercive control: Male victims 'not taken seriously'](https://www.bbc.co.uk/news/uk-wales-58233300) - Craig says he was criticised and controlled, leaving him with post traumatic stress disorder.
+1. [Coercive control: Male victims 'not taken seriously'](https://www.bbc.co.uk/news/uk-wales-58233300) - Craig says he was criticised and controlled, leaving him with post-traumatic stress disorder.
 2. [Afghanistan: Cardiff artist's sadness at Taliban takeover](https://www.bbc.co.uk/news/uk-wales-58233157) - Dan Peterson spent a month on the front line, drawing images of British soldiers and Afghan people.
 3. [Cardiff council says garden waste collection to be cut due to lack of drivers](https://www.bbc.co.uk/news/uk-wales-58235359) - Almost a quarter of the drivers needed are currently unavailable for work, a council says.
 4. [Porth Neigwl: More safety measures needed at site of beach death, says witness](https://www.bbc.co.uk/news/uk-wales-58235357) - A man who witnessed an unsuccessful attempt to save a man says more warnings are needed.
