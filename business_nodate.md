@@ -1,22 +1,23 @@
-1. [No need to swap data for drinks, says privacy body](https://www.bbc.co.uk/news/business-58230932) - Some pub ordering apps ask too many questions, but you can refuse, says the information watchdog.
-2. [Afghanistan: Facebook confirms ban of Taliban-related content](https://www.bbc.co.uk/news/business-58239786) - Technology firms face challenges on how to handle content created by the group and its supporters.
-3. [Covid testing is rip-off, says former regulator](https://www.bbc.co.uk/news/business-58200203) - Lord Tyrie, ex-boss of the competition watchdog, says it was slow to react to complaints about providers.
-4. [What next for Afghanistan's economy?](https://www.bbc.co.uk/news/business-58235185) - Now that the Taliban are back in control of the country, can its financial system function?
-5. [Love and money: 'I borrowed from a friend, it went wrong'](https://www.bbc.co.uk/news/business-57824096) - After sleeping on the night bus with her daughter, Jo was forced to borrow money.
-6. [Bezos sues Nasa over its deal with Elon Musk's SpaceX](https://www.bbc.co.uk/news/business-58235479) - Mr Bezos's Blue Origin says it was unfairly treated after being excluded from lunar landing contract.
-7. [Afghanistan conflict: Airlines reroute flights out of Afghan airspace](https://www.bbc.co.uk/news/business-58228470) - Virgin Atlantic made its last journey over the region on Sunday while Emirates has suspended flights.
-8. ['New York vaccine mandate could destroy my restaurant'](https://www.bbc.co.uk/news/business-58204471) - City residents need to be jabbed to use restaurants, gyms and theatres - and businesses are worried.
-9. [Pingdemic: 'We got close to complete shutdown'](https://www.bbc.co.uk/news/business-58228466) - Businesses say self-isolation rule changes will have a "massive impact" on reducing staff shortages.
-10. [UK defence giant Ultra agrees to £2.6bn Cobham takeover](https://www.bbc.co.uk/news/business-58228657) - The deal to buy the major supplier to the Royal Navy is being monitored by the UK government.
-11. [Parcel delivery texts now the most common con-trick](https://www.bbc.co.uk/news/business-58233743) - Text messages asking for a fee to deliver a package are responsible for most "smishing" fraud.
-12. [New powers sought to stop illegal ticket resales](https://www.bbc.co.uk/news/business-58225568) - The UK's competition watchdog is calling for stronger laws to act quickly against touts.
-13. [How do couples handle awkward chats about money?](https://www.bbc.co.uk/news/business-58176219) - From squabbles and lies to what they'd do if they won the lottery, we pose the awkward questions.
-14. [Japan's economy bounced back ahead of the Olympics, data shows](https://www.bbc.co.uk/news/business-58227096) - Analysts have warned recovery will be modest this quarter after a state of emergency was re-imposed.
-15. [Would you let a robot lawyer defend you?](https://www.bbc.co.uk/news/business-58158820) - Why artificial intelligence is increasingly being used by the legal profession.
-16. [How can new technology protect outdoor workers?](https://www.bbc.co.uk/news/business-58049625) - Working outdoors in extreme heat can be deadly, new tech and better protection for workers could help.
-17. [How we can all get more high-quality sleep](https://www.bbc.co.uk/news/business-58148044) - The pandemic has led to a sharp increase in insomnia, but some firms are now helping their staff.
-18. [CEO Secrets: Foot Locker boss shares his advice](https://www.bbc.co.uk/news/business-58101254) - Richard Johnson, CEO of Foot Locker, reflects on the lessons of the pandemic for business leaders.
-19. [Sharing apps are booming but will the kindness continue?](https://www.bbc.co.uk/news/business-57981598) - The pandemic sparked a surge in activity for sharing apps like Olio but has the trend run its course?
-20. [Can technology help authors write a book?](https://www.bbc.co.uk/news/business-58098481) - Writing a novel is notoriously difficult, but technology may give the writer a helping hand.
-21. [The activist entrepreneurs running zero-waste shops](https://www.bbc.co.uk/news/business-57920754) - Environmentally conscious entrepreneurs explain the movement towards zero-waste lifestyles.
-22. [Why artificial intelligence is being used to write adverts](https://www.bbc.co.uk/news/business-57781557) - Advertisers are increasingly using artificial intelligence to come up with their winning slogans.
+1. [UK job vacancies at record high as wages tick up](https://www.bbc.co.uk/news/business-58241006) - Job vacancies hit 953,000 while average pay rises 7.4%, official figures show.
+2. [No need to swap data for drinks, says privacy body](https://www.bbc.co.uk/news/business-58230932) - Some pub ordering apps ask too many questions, but you can refuse, says the information watchdog.
+3. [Afghanistan: Facebook confirms ban of Taliban-related content](https://www.bbc.co.uk/news/business-58239786) - Technology firms face challenges on how to handle content created by the group and its supporters.
+4. [Covid testing is rip-off, says former regulator](https://www.bbc.co.uk/news/business-58200203) - Lord Tyrie, ex-boss of the competition watchdog, says it was slow to react to complaints about providers.
+5. [What next for Afghanistan's economy?](https://www.bbc.co.uk/news/business-58235185) - Now that the Taliban are back in control of the country, can its financial system function?
+6. [Love and money: 'I borrowed from a friend, it went wrong'](https://www.bbc.co.uk/news/business-57824096) - After sleeping on the night bus with her daughter, Jo was forced to borrow money.
+7. [Bezos sues Nasa over its deal with Elon Musk's SpaceX](https://www.bbc.co.uk/news/business-58235479) - Mr Bezos's Blue Origin says it was unfairly treated after being excluded from lunar landing contract.
+8. [Afghanistan conflict: Airlines reroute flights out of Afghan airspace](https://www.bbc.co.uk/news/business-58228470) - Virgin Atlantic made its last journey over the region on Sunday while Emirates has suspended flights.
+9. ['New York vaccine mandate could destroy my restaurant'](https://www.bbc.co.uk/news/business-58204471) - City residents need to be jabbed to use restaurants, gyms and theatres - and businesses are worried.
+10. [Pingdemic: 'We got close to complete shutdown'](https://www.bbc.co.uk/news/business-58228466) - Businesses say self-isolation rule changes will have a "massive impact" on reducing staff shortages.
+11. [UK defence giant Ultra agrees to £2.6bn Cobham takeover](https://www.bbc.co.uk/news/business-58228657) - The deal to buy the major supplier to the Royal Navy is being monitored by the UK government.
+12. [Parcel delivery texts now the most common con-trick](https://www.bbc.co.uk/news/business-58233743) - Text messages asking for a fee to deliver a package are responsible for most "smishing" fraud.
+13. [New powers sought to stop illegal ticket resales](https://www.bbc.co.uk/news/business-58225568) - The UK's competition watchdog is calling for stronger laws to act quickly against touts.
+14. [How do couples handle awkward chats about money?](https://www.bbc.co.uk/news/business-58176219) - From squabbles and lies to what they'd do if they won the lottery, we pose the awkward questions.
+15. [Japan's economy bounced back ahead of the Olympics, data shows](https://www.bbc.co.uk/news/business-58227096) - Analysts have warned recovery will be modest this quarter after a state of emergency was re-imposed.
+16. [Would you let a robot lawyer defend you?](https://www.bbc.co.uk/news/business-58158820) - Why artificial intelligence is increasingly being used by the legal profession.
+17. [How can new technology protect outdoor workers?](https://www.bbc.co.uk/news/business-58049625) - Working outdoors in extreme heat can be deadly, new tech and better protection for workers could help.
+18. [How we can all get more high-quality sleep](https://www.bbc.co.uk/news/business-58148044) - The pandemic has led to a sharp increase in insomnia, but some firms are now helping their staff.
+19. [CEO Secrets: Foot Locker boss shares his advice](https://www.bbc.co.uk/news/business-58101254) - Richard Johnson, CEO of Foot Locker, reflects on the lessons of the pandemic for business leaders.
+20. [Sharing apps are booming but will the kindness continue?](https://www.bbc.co.uk/news/business-57981598) - The pandemic sparked a surge in activity for sharing apps like Olio but has the trend run its course?
+21. [Can technology help authors write a book?](https://www.bbc.co.uk/news/business-58098481) - Writing a novel is notoriously difficult, but technology may give the writer a helping hand.
+22. [The activist entrepreneurs running zero-waste shops](https://www.bbc.co.uk/news/business-57920754) - Environmentally conscious entrepreneurs explain the movement towards zero-waste lifestyles.
+23. [Why artificial intelligence is being used to write adverts](https://www.bbc.co.uk/news/business-57781557) - Advertisers are increasingly using artificial intelligence to come up with their winning slogans.

@@ -1,5 +1,5 @@
-1. [New police CCTV use rules criticised as bare bones](https://www.bbc.co.uk/news/technology-58206586) - However, the guidelines empowered police and maintained public trust, the Home Office says.
-2. [Afghanistan: Facebook confirms ban of Taliban-related content](https://www.bbc.co.uk/news/business-58239786) - Technology firms face challenges on how to handle content created by the group and its supporters.
+1. [Afghanistan: Facebook confirms ban of Taliban-related content](https://www.bbc.co.uk/news/business-58239786) - Technology firms face challenges on how to handle content created by the group and its supporters.
+2. [New police CCTV use rules criticised as bare bones](https://www.bbc.co.uk/news/technology-58206586) - However, the guidelines empowered police and maintained public trust, the Home Office says.
 3. [Tesla Autopilot: US opens official investigation into self-driving tech](https://www.bbc.co.uk/news/technology-58232137) - The investigation covers all Tesla cars since 2014, focusing on crashes with emergency vehicles.
 4. [No need to swap data for drinks, says privacy body](https://www.bbc.co.uk/news/business-58230932) - Some pub ordering apps ask too many questions, but you can refuse, says the information watchdog.
 5. [Internet revamp for the humble landline](https://www.bbc.co.uk/news/technology-58233420) - The UK plans to make all landlines into internet-based connections over the next few years.

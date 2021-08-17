@@ -23,6 +23,6 @@
 23. [Ethan Laird: Swansea City sign Manchester United defender on season-long loan](https://www.bbc.co.uk/sport/football/58148502) - Swansea City sign Manchester United defender Ethan Laird on a season-long loan.
 24. [Rheolaeth drwy orfodaeth: Dynion yn diodde' hefyd](https://www.bbc.co.uk/newyddion/58236852) - Yn ôl un cynllun sy'n gweithio gyda dioddefwyr gwrywaidd, dyw llawer o ddynion ddim yn cael eu credu.
 25. [Darlunydd yn disgrifio trasiedi rhyfel Afghanistan](https://www.bbc.co.uk/newyddion/58236933) - Treuliodd Dan Peterson o Gaerdydd fis yn y wlad yn tynnu lluniau o frwydrau gyda'r Taliban.
-26. ['Rhy hwyr i wneud dim' am sefyllfa Afghanistan](https://www.bbc.co.uk/newyddion/58228562) - Llywodraethau'r gorllewin wedi bod yn "hanner cysgu" medd cyn aelod o bwyllgor materion tramor San Steffan.
+26. [Cynlluniau atal llifogydd Traeth Coch ger Benllech](https://www.bbc.co.uk/newyddion/58234857) - Cafodd cartrefi a busnesau eu taro gan lifogydd difrifol yn yr ardal, sy'n boblogaidd gydag ymwelwyr.
 27. [Liam o Love Island yn rhoi Merthyr ar y map](https://www.bbc.co.uk/newyddion/58202005) - Mae gan Liam Reardon siawns dda o ennill y gyfres ITV yn ôl yr actor Pobol y Cwm, Jacob Oakley.
 28. [Morgannwg drwodd i ffeinal y Cwpan Undydd ar ôl trechu Essex](https://www.bbc.co.uk/newyddion/58233591) - Joe Cooke yn serennu gyda'r bat a'r bêl er mwyn llywio Morgannwg i rownd derfynol y Cwpan Undydd.
