@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 17 Aug 2021 09:01:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Aug 2021 09:19:25 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -24,17 +24,10 @@
         </item>
         <item>
             <title><![CDATA[Decrease in Scotland's suicide rate during 2020]]></title>
-            <description><![CDATA[The number of deaths fell from 833 in 2019 to 805 last year but there were above average suicide rates between June and September.]]></description>
+            <description><![CDATA[The number of deaths fell from 833 in 2019 to 805 last year but suicide rates were above average in late summer.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-58242836</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58242836</guid>
-            <pubDate>Tue, 17 Aug 2021 08:57:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Unemployment rate drops slightly in Scotland]]></title>
-            <description><![CDATA[Official figures for April to June show the jobless figure stands at 4.3%, down 0.1% on the previous three months.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-58241453</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58241453</guid>
-            <pubDate>Tue, 17 Aug 2021 06:58:23 GMT</pubDate>
+            <pubDate>Tue, 17 Aug 2021 09:14:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Could Scots be guaranteed a minimum income?]]></title>
@@ -42,6 +35,13 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-scotland-politics-58230375</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-scotland-politics-58230375</guid>
             <pubDate>Tue, 17 Aug 2021 05:24:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Unemployment rate drops slightly in Scotland]]></title>
+            <description><![CDATA[Official figures for April to June show the jobless figure stands at 4.3%, down 0.1% on the previous three months.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-58241453</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58241453</guid>
+            <pubDate>Tue, 17 Aug 2021 06:58:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Scotland's papers: Biden defends US withdrawal from Afghanistan]]></title>

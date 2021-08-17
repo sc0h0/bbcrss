@@ -1,4 +1,4 @@
-1. [UK looking at bespoke Afghan refugee scheme - Dominic Raab](https://www.bbc.co.uk/news/uk-58238490) - Full details of a new resettlement scheme will be set out shortly, the foreign secretary says.
+1. [UK looking at bespoke Afghan refugee scheme - Dominic Raab](https://www.bbc.co.uk/news/uk-58238490) - The foreign secretary says the UK is a "big-hearted nation" and full details will be set out soon.
 2. [Afghanistan: Why is the UK Parliament being recalled?](https://www.bbc.co.uk/news/uk-politics-58228715) - MPs and members of the House of Lords will return from their summer break to debate the crisis in Afghanistan. What can we expect?
 3. [New police CCTV use rules criticised as bare bones](https://www.bbc.co.uk/news/technology-58206586) - However, the guidelines empowered police and maintained public trust, the Home Office says.
 4. [Hydrogen power offers jobs boost, says government](https://www.bbc.co.uk/news/science-environment-58238367) - Kick-starting a hydrogen industry could attract billions in investment, the UK government says.

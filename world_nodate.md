@@ -23,7 +23,7 @@
 23. [Malala: 'Futures of Afghan child refugees aren't lost'](https://www.bbc.co.uk/news/world-asia-58236327) - Nobel peace laureate, Malala Yousafzai was shot in the head by the Taliban in 2012.
 24. [UK military commander: 'We've betrayed' Afghans who helped British troops'](https://www.bbc.co.uk/news/uk-58231760) - Major General Charlie Herbert, a military commander from the UK’s campaign in Afghanistan, has accused the government of betraying Afghans who supported British troops.
 25. [Afghans arrive in Delhi after Taliban take over Kabul](https://www.bbc.co.uk/news/world-asia-58230068) - Afghans arrive at Delhi airport in India after the Taliban take control of the country.
-26. [Afghanistan: Will it become haven for terror with the Taliban in power?](https://www.bbc.co.uk/news/world-asia-58232041) - The Taliban are back, 20 years after being ousted for supporting terror groups. Will they do the same?
+26. [Does the world face a new terror threat?](https://www.bbc.co.uk/news/world-asia-58232041) - The Taliban are back, 20 years after being ousted for supporting terror groups. Will they do the same?
 27. [Why is the Taliban's Kabul victory being compared to the fall of Saigon?](https://www.bbc.co.uk/news/world-asia-58234884) - Many have drawn parallels with America's withdrawal from Vietnam in 1975 - but is this fair?
 28. [Afghanistan: Taliban spokesman Suhail Shaheen calls the BBC - interview in full](https://www.bbc.co.uk/news/world-asia-58223530) - A spokesman for the Taliban, Suhail Shaheen, called the BBC's Yalda Hakim, live on air.
 29. [Afghanistan: Why is there a war?](https://www.bbc.co.uk/news/world-asia-49192495) - As foreign forces pull out after 20 years of war, what did it achieve and what happens next?
