@@ -2,7 +2,7 @@
 2. [Child, 2, dies after Deeside incident, prompting investigation](https://www.bbc.co.uk/news/uk-wales-58246055) - The child died in hospital on Monday following an incident at a property on Saturday.
 3. [Covid-19: Deaths rise in Wales to 22](https://www.bbc.co.uk/news/uk-wales-58244250) - Covid deaths increased in Wales but are still well below levels in the second wave, figures show.
 4. [Staff shortages remain despite more out of work in Wales](https://www.bbc.co.uk/news/uk-wales-58241503) - The number of people out of work fell in the past three months but is still higher than last year.
-5. [NHS worker Alan Macalalad unlikely to have caught Covid at work](https://www.bbc.co.uk/news/uk-wales-58241511) - A coroner says Alan Macalalad's suffered health issues before his death from natural causes.
+5. [Covid: NHS worker unlikely to have caugh virus at work](https://www.bbc.co.uk/news/uk-wales-58241511) - A coroner says Alan Macalalad's suffered health issues before his death from natural causes.
 6. [Pembrokeshire woman injured after being bitten by dog](https://www.bbc.co.uk/news/uk-wales-58248554) - The dog has been put down and police have launched an investigation.
 7. [Wrexham: Teenager charged over serious assault](https://www.bbc.co.uk/news/uk-wales-58241025) - Christopher Keenan has been charged with grievous bodily harm with intent following the attack.
 8. [Farmer calls for A494 speed limit changes following crashes](https://www.bbc.co.uk/news/uk-wales-58235362) - Kevin Peacock says several cars have crashed onto his property and wants the speed limit lowered.
@@ -20,7 +20,7 @@
 20. [Champions League: Swansea City aim to shock CSKA Moscow](https://www.bbc.co.uk/sport/football/58236559) - Swansea City Ladies will fly the Welsh flag in the Champions League when they face CSKA Moscow in Limassol on Wednesday night.
 21. [Rob Page: Wales manager given free rein to add new assistant](https://www.bbc.co.uk/sport/football/58230499) - Wales manager Rob Page will add an assistant coach of his own choosing for World Cup qualifiers says FAW President Steve Williams.
 22. [Adran Leagues: FAW announces new identity for women's football in Wales](https://www.bbc.co.uk/sport/football/58221934) - The Football Association of Wales has announced the restructured women's football pyramid will be known as the Adran Leagues.
-23. [Ethan Laird: Swansea City sign Manchester United defender on season-long loan](https://www.bbc.co.uk/sport/football/58148502) - Swansea City sign Manchester United defender Ethan Laird on a season-long loan.
+23. [Swansea City v Stoke City](https://www.bbc.co.uk/sport/football/58154317) - Live coverage of Tuesday's Championship game between Swansea City and Stoke City.
 24. [Rheolaeth drwy orfodaeth: Dynion yn diodde' hefyd](https://www.bbc.co.uk/newyddion/58236852) - Yn ôl un cynllun sy'n gweithio gyda dioddefwyr gwrywaidd, dyw llawer o ddynion ddim yn cael eu credu.
 25. [Heddlu'n ymchwilio ar ôl marwolaeth plentyn](https://www.bbc.co.uk/newyddion/58236939) - Mae marwolaeth y plentyn dwy flwydd oed yn cael ei thrin fel un heb esboniad.
 26. [Cynghorau i gynnig cartrefi i ffoaduriaid Afghanistan](https://www.bbc.co.uk/newyddion/58236934) - Mae 14 allan o 22 awdurdod lleol yng Nghymru barod wedi cytuno i ddarparu lloches i bobl sy'n ffoi o'r wlad.

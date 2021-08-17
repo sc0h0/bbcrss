@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 17 Aug 2021 15:00:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Aug 2021 15:25:42 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -70,6 +70,13 @@
             <link>https://www.bbc.co.uk/news/uk-58202760</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58202760</guid>
             <pubDate>Sat, 14 Aug 2021 17:28:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fireworks competition dedicated to Plymouth shooting victims]]></title>
+            <description><![CDATA[Bosses say they "thought long and hard" about holding the British Firework Championships.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-devon-58240787</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-devon-58240787</guid>
+            <pubDate>Tue, 17 Aug 2021 14:43:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Minute's silence is held for shooting victims]]></title>
@@ -170,11 +177,11 @@
             <pubDate>Tue, 17 Aug 2021 11:38:36 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Geronimo the alpaca gets temporary reprieve ahead of review]]></title>
-            <description><![CDATA[An application for a temporary injunction to halt his death will be considered at the High Court.]]></description>
+            <title><![CDATA[Geronimo the alpaca gets temporary reprieve as hearing is adjourned]]></title>
+            <description><![CDATA[A High Court hearing for a temporary injunction to halt his death is adjourned for 24 hours.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-gloucestershire-58241387</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-gloucestershire-58241387</guid>
-            <pubDate>Tue, 17 Aug 2021 07:41:55 GMT</pubDate>
+            <pubDate>Tue, 17 Aug 2021 15:09:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Derby County announces death of 'oldest football fan']]></title>
@@ -240,11 +247,11 @@
             <pubDate>Tue, 17 Aug 2021 10:55:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[US Open: Kyle Edmund pulls out of the US Open with knee injury]]></title>
+            <title><![CDATA[Edmund out of US Open with injury]]></title>
             <description><![CDATA[British number three Kyle Edmund pulls out of the US Open with a knee injury.]]></description>
             <link>https://www.bbc.co.uk/sport/tennis/58247268</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/tennis/58247268</guid>
-            <pubDate>Tue, 17 Aug 2021 14:58:39 GMT</pubDate>
+            <pubDate>Tue, 17 Aug 2021 15:24:55 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -1,10 +1,10 @@
 1. [Afghanistan: Striking image captures Kabul exodus](https://www.bbc.co.uk/news/world-asia-58242733) - A photo appears to show hundreds of Afghans packed on a US military plane as they flee the Taliban.
 2. [Afghanistan: UK's Kabul evacuation operating at full pace - commander](https://www.bbc.co.uk/news/uk-58244927) - The changing political situation means "we can't afford to pause and wait", Vice Adm Sir Ben Key says.
-3. [New Zealand enters nationwide lockdown over one Covid case](https://www.bbc.co.uk/news/world-asia-58241619) - Authorities say they are still running tests, but are assuming it is a case of the Delta variant.
+3. [Lily Cole: Model apologises for posing in a burka on Instagram](https://www.bbc.co.uk/news/entertainment-arts-58245304) - The model and activist posted a picture of herself in a burka as a way to "embrace diversity".
 4. [UK student who travelled to Afghanistan for holiday evacuated](https://www.bbc.co.uk/news/uk-england-birmingham-58244518) - Miles Routledge, from Birmingham, claims he visited Kabul because he enjoys "extreme tourism".
-5. [Lily Cole: Model apologises for posing in a burka on Instagram](https://www.bbc.co.uk/news/entertainment-arts-58245304) - The model and activist posted a picture of herself in a burka as a way to "embrace diversity".
+5. [Ex-marine: I'm not leaving Kabul without my animal rescue staff](https://www.bbc.co.uk/news/uk-58240838) - Founder of an animal sanctuary Pen Farthing urges ministers to get 71 people to safety in the UK.
 6. [UK job vacancies at record high as wages pick up](https://www.bbc.co.uk/news/business-58241006) - Job vacancies hit 953,000 amid signs the country's labour market is rebounding "robustly".
-7. [Ex-marine: I'm not leaving Kabul without my animal rescue staff](https://www.bbc.co.uk/news/uk-58240838) - Founder of an animal sanctuary Pen Farthing urges ministers to get 71 people to safety in the UK.
+7. [New Zealand enters nationwide lockdown over one Covid case](https://www.bbc.co.uk/news/world-asia-58241619) - Authorities say they are still running tests, but are assuming it is a case of the Delta variant.
 8. [Mastercard to end magnetic strip on cards](https://www.bbc.co.uk/news/technology-58206591) - The company sets an expiry date of 2033 for the decades-old technology.
 9. [Covid: Queen remains at Balmoral as staff member tests positive](https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-58245334) - The Queen, who is 95 and vaccinated, will remain at her private retreat in Scotland as planned.
 10. [Haiti earthquake: Tropical Storm Grace hampers rescue](https://www.bbc.co.uk/news/world-latin-america-58222888) - Tropical Storm Grace has dumped heavy rain on Haiti just days after a tremor left at least 1,419 dead.
@@ -20,7 +20,7 @@
 20. [What next for Afghanistan's economy?](https://www.bbc.co.uk/news/business-58235185) - Now that the Taliban are back in control of the country, can its financial system function?
 21. [Ice cream van firm banned from Lowestoft street over noise complaint](https://www.bbc.co.uk/news/uk-england-suffolk-58243851) - Lamarti's vans are forbidden from entering one street after complaints about noise.
 22. [From a Manchester council estate to ballet dancing in Swan Lake](https://www.bbc.co.uk/news/uk-england-manchester-58206917) - Isaac Bowry is from a Manchester council estate and wants to show that "dancing is for everyone".
-23. [Geronimo the alpaca gets temporary reprieve ahead of review](https://www.bbc.co.uk/news/uk-england-gloucestershire-58241387) - An application for a temporary injunction to halt his death will be considered at the High Court.
+23. [Geronimo the alpaca gets temporary reprieve as hearing is adjourned](https://www.bbc.co.uk/news/uk-england-gloucestershire-58241387) - A High Court hearing for a temporary injunction to halt his death is adjourned for 24 hours.
 24. [Afghanistan: UK and US must protect Afghan activists - Malala](https://www.bbc.co.uk/news/uk-58237871) - The Nobel Peace Prize winner, who was shot by the Taliban, calls for countries to take in refugees.
 25. [Seaside entertainment skills taught to trainees](https://www.bbc.co.uk/news/uk-58108636) - A group of young adults are being trained in seaside entertainment skills, as part of an Arts Council initiative.
 26. [Covid: Summer schools help students make up for lost time](https://www.bbc.co.uk/news/education-58231727) - Most of the government's summer school funding in England is being used to help Year 6s make the move to Year 7.

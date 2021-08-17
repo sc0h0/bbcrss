@@ -6,7 +6,7 @@
 6. [Urgent call for Covid-safe ventilation in schools](https://www.bbc.co.uk/news/education-58243238) - Education unions make an urgent call for school-ventilation measures to limit Covid and "long Covid".
 7. [Peterborough: Speeding MP off roads after asking for a ban](https://www.bbc.co.uk/news/uk-england-cambridgeshire-58243901) - Conservative Paul Bristow wrote that he wanted to avoid "hypocrisy" after speeding on the A1.
 8. [UK job vacancies at record high as wages pick up](https://www.bbc.co.uk/news/business-58241006) - Job vacancies hit 953,000 amid signs the country's labour market is rebounding "robustly".
-9. [Geronimo the alpaca gets temporary reprieve ahead of review](https://www.bbc.co.uk/news/uk-england-gloucestershire-58241387) - An application for a temporary injunction to halt his death will be considered at the High Court.
+9. [Geronimo the alpaca gets temporary reprieve as hearing is adjourned](https://www.bbc.co.uk/news/uk-england-gloucestershire-58241387) - A High Court hearing for a temporary injunction to halt his death is adjourned for 24 hours.
 10. [Afghanistan: Another 200 UK troops sent to Kabul evacuation](https://www.bbc.co.uk/news/uk-58235707) - Around 700 troops were already in the Afghan capital to help UK citizens and others leave.
 11. [UK minister 'eager' for Cambo oil field talks](https://www.bbc.co.uk/news/uk-scotland-scotland-politics-58221743) - The UK's Scotland Office minister David Duguid says he wants to learn more about development of the site off Shetland.
 12. [UK scholarships for Afghan students paused](https://www.bbc.co.uk/news/uk-58219114) - The government says the situation in Afghanistan means the British Embassy in Kabul cannot finalise plans.

@@ -1,4 +1,4 @@
-1. [Biden defends 'messy' US pullout from Afghanistan](https://www.bbc.co.uk/news/world-us-canada-58238497) - "How many more American lives is it worth?" says the president, amid growing criticism over the move.
+1. [Biden defends 'messy' US pull-out from Afghanistan](https://www.bbc.co.uk/news/world-us-canada-58238497) - "How many more American lives is it worth?" asks the president, amid growing criticism over the move.
 2. [Biden's speech on Afghanistan fact-checked](https://www.bbc.co.uk/news/58243158) - How consistent was President Biden's speech with his previous statements on Afghanistan?
 3. [Afghanistan crisis: How America watched as Taliban won the war](https://www.bbc.co.uk/news/world-us-canada-58245056) - US military veterans and Afghan Americans reflect on a dramatic day - and the two-decade conflict.
 4. [Why is the Taliban's Kabul victory being compared to the fall of Saigon?](https://www.bbc.co.uk/news/world-asia-58234884) - Many have drawn parallels with America's withdrawal from Vietnam in 1975 - but is this fair?
