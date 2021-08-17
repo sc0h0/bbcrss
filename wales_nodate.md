@@ -4,7 +4,7 @@
 4. [Coercive control: Male victims say they aren't believed](https://www.bbc.co.uk/news/uk-wales-58233300) - Craig says he was criticised and controlled, leaving him with post-traumatic stress disorder.
 5. [Staff shortages remain despite more out of work in Wales](https://www.bbc.co.uk/news/uk-wales-58241503) - The number of people out of work fell in the past three months but is still higher than last year.
 6. [Covid: NHS worker unlikely to have caugh virus at work](https://www.bbc.co.uk/news/uk-wales-58241511) - A coroner says Alan Macalalad's suffered health issues before his death from natural causes.
-7. [Pembrokeshire woman injured after being bitten by dog](https://www.bbc.co.uk/news/uk-wales-58248554) - The dog has been put down and police have launched an investigation.
+7. [Pembrokeshire woman injured in American bulldog attack](https://www.bbc.co.uk/news/uk-wales-58248554) - The dog has been put down and police have launched an investigation.
 8. [Wrexham: Teenager charged over serious assault](https://www.bbc.co.uk/news/uk-wales-58241025) - Christopher Keenan has been charged with grievous bodily harm with intent following the attack.
 9. [Farmer calls for A494 speed limit changes following crashes](https://www.bbc.co.uk/news/uk-wales-58235362) - Kevin Peacock says several cars have crashed onto his property and wants the speed limit lowered.
 10. [Man dies after getting into trouble at Glynneath waterfall](https://www.bbc.co.uk/news/uk-wales-58241512) - Emergency services tried to save the 28-year-old man who was from Hampshire.
@@ -16,11 +16,11 @@
 16. [Covid in Wales: Rail staff face abuse enforcing mask rules](https://www.bbc.co.uk/news/uk-wales-58205655) - Passengers on trains in Wales must still wear a mask, unlike in England where it is only advised.
 17. [Covid-19: How many windows to keep open to cut virus build-up](https://www.bbc.co.uk/news/uk-wales-58204733) - Opening four windows at lower speeds and only two on the motorway is best, researchers say.
 18. [Reading: Teacher gets stories published after 46 years](https://www.bbc.co.uk/news/uk-wales-58189969) - Keith Godwin used to make up stories for his pupils in the 1970s, now they have been published.
-19. [One-Day Cup: Joe Cooke stars as Glamorgan beat Essex to reach final](https://www.bbc.co.uk/sport/cricket/58230489) - Joe Cooke stars with bat and ball as Glamorgan beat Essex by five wickets to reach the final of the One-Day Cup.
-20. [Champions League: Swansea City aim to shock CSKA Moscow](https://www.bbc.co.uk/sport/football/58236559) - Swansea City Ladies will fly the Welsh flag in the Champions League when they face CSKA Moscow in Limassol on Wednesday night.
-21. [Rob Page: Wales manager given free rein to add new assistant](https://www.bbc.co.uk/sport/football/58230499) - Wales manager Rob Page will add an assistant coach of his own choosing for World Cup qualifiers says FAW President Steve Williams.
-22. [Adran Leagues: FAW announces new identity for women's football in Wales](https://www.bbc.co.uk/sport/football/58221934) - The Football Association of Wales has announced the restructured women's football pyramid will be known as the Adran Leagues.
-23. [Swansea City v Stoke City](https://www.bbc.co.uk/sport/football/58154317) - Live coverage of Tuesday's Championship game between Swansea City and Stoke City.
+19. [Afghanistan: Welsh Fire support Qais Ahmad after Taliban seize control of country](https://www.bbc.co.uk/sport/cricket/58249387) - Welsh Fire support Afghanistan cricketer Qais Ahmad after the Taliban seize control of the country.
+20. [One-Day Cup: Joe Cooke stars as Glamorgan beat Essex to reach final](https://www.bbc.co.uk/sport/cricket/58230489) - Joe Cooke stars with bat and ball as Glamorgan beat Essex by five wickets to reach the final of the One-Day Cup.
+21. [Champions League: Swansea City aim to shock CSKA Moscow](https://www.bbc.co.uk/sport/football/58236559) - Swansea City Ladies will fly the Welsh flag in the Champions League when they face CSKA Moscow in Limassol on Wednesday night.
+22. [Rob Page: Wales manager given free rein to add new assistant](https://www.bbc.co.uk/sport/football/58230499) - Wales manager Rob Page will add an assistant coach of his own choosing for World Cup qualifiers says FAW President Steve Williams.
+23. [Adran Leagues: FAW announces new identity for women's football in Wales](https://www.bbc.co.uk/sport/football/58221934) - The Football Association of Wales has announced the restructured women's football pyramid will be known as the Adran Leagues.
 24. [Rheolaeth drwy orfodaeth: Dynion yn diodde' hefyd](https://www.bbc.co.uk/newyddion/58236852) - Yn ôl un cynllun sy'n gweithio gyda dioddefwyr gwrywaidd, dyw llawer o ddynion ddim yn cael eu credu.
 25. [Heddlu'n ymchwilio ar ôl marwolaeth plentyn](https://www.bbc.co.uk/newyddion/58236939) - Mae marwolaeth y plentyn dwy flwydd oed yn cael ei thrin fel un heb esboniad.
 26. [Cynghorau i gynnig cartrefi i ffoaduriaid Afghanistan](https://www.bbc.co.uk/newyddion/58236934) - Mae 14 allan o 22 awdurdod lleol yng Nghymru barod wedi cytuno i ddarparu lloches i bobl sy'n ffoi o'r wlad.
