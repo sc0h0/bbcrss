@@ -1,4 +1,4 @@
-1. [Bob Dylan denies sexually abusing girl in 1965](https://www.bbc.co.uk/news/entertainment-arts-58239195) - A woman says the US singer-songwriter abused her when she was 12 - a claim he denies.
+1. [Bob Dylan denies sexually abusing girl in 1965](https://www.bbc.co.uk/news/entertainment-arts-58239195) - A woman says the US singer-songwriter abused her when she was 12 - a claim he says is untrue.
 2. [Line of Duty stars to go head-to-head at National Television Awards](https://www.bbc.co.uk/news/entertainment-arts-58233280) - Vicky McClure, Adrian Dunbar and Martin Compston are nominated for the National Television Awards.
 3. [Eurovision singer James Newman wins copyright case over Rudimental hit](https://www.bbc.co.uk/news/entertainment-arts-58228430) - James Newman was sued over a hit song he wrote before coming last at this year's song contest.
 4. [Banksy: A guide to his 'Great British Spraycation'](https://www.bbc.co.uk/news/uk-england-norfolk-58145220) - New murals that have appeared on England's east coast are confirmed as the work of the elusive artist.
