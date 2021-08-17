@@ -30,4 +30,4 @@
 30. [Lancashire couple's narrowboat life fascinates YouTube users](https://www.bbc.co.uk/news/uk-england-lancashire-58171880) - Paul, Anthony and dog Dexter's life on board a narrowboat is viewed from around the world.
 31. [Weymouth rescue after deer spotted swimming in the sea](https://www.bbc.co.uk/news/uk-england-dorset-58232477) - A fishing boat spotted the foal in the water near Weymouth harbour and it was brought back to shore.
 32. [Tammy Abraham: Roma sign striker from Chelsea for £34m on five-year deal](https://www.bbc.co.uk/sport/football/58242137) - Striker Tammy Abraham completes a £34m move to Italian side Roma from Chelsea.
-33. [England women face New Zealand twice plus USA and Canada in autumn home Test series](https://www.bbc.co.uk/sport/rugby-union/58241201) - England's women will meet World Cup holders New Zealand in back-to-back matches as the Red Roses contest four home Tests this autumn.
+33. [US Open: Kyle Edmund pulls out of the US Open with knee injury](https://www.bbc.co.uk/sport/tennis/58247268) - British number three Kyle Edmund pulls out of the US Open with a knee injury.

@@ -1,7 +1,7 @@
 1. [Taliban takeover: Uganda to take in 2,000 Afghan refugees](https://www.bbc.co.uk/news/world-africa-58236663) - Two-thousand Afghans will be taken in following a request from the US, the refugee minister says.
 2. [Uganda anti-pornography law dropped after backlash](https://www.bbc.co.uk/news/world-africa-58235637) - Legislation branded the "anti-miniskirt" law is annulled by Uganda's Constitutional Court.
-3. [Nigeria's Kano state moves to ban mannequin heads on Islamic grounds](https://www.bbc.co.uk/news/world-africa-58175709) - The Islamic police in Kano, Nigeria, say shop dummies with heads symbolise "idolatry" and are banned.
-4. [Zambia election: Hakainde Hichilema beats President Edgar Lungu](https://www.bbc.co.uk/news/world-africa-58226695) - Hakainde Hichilema wins a landslide at his sixth attempt, as President Edgar Lungu accepts defeat.
+3. [Zambia election: Hakainde Hichilema beats President Edgar Lungu](https://www.bbc.co.uk/news/world-africa-58226695) - Hakainde Hichilema wins a landslide at his sixth attempt, as President Edgar Lungu accepts defeat.
+4. [Nigeria's Kano state moves to ban mannequin heads on Islamic grounds](https://www.bbc.co.uk/news/world-africa-58175709) - The Islamic police in Kano, Nigeria, say shop dummies with heads symbolise "idolatry" and are banned.
 5. [Ethiopia: What do we know about aid going into Tigray?](https://www.bbc.co.uk/news/58189049) - Who's preventing desperately needed aid supplies reaching Ethiopia's Tigray region?
 6. [Viewpoint: Why Twitter got it wrong in Nigeria](https://www.bbc.co.uk/news/world-africa-58175708) - Complex issues have been raised about policing speech and censoring unpopular voices.
 7. [Dutch medallist - no regrets about quitting Ethiopia](https://www.bbc.co.uk/sport/africa/58159734) - Dutch triple Olympic medallist Sifan Hassan has no regrets over leaving Ethiopia and calls for peace to stop more athletes following suit.
