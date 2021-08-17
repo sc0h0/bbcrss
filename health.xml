@@ -11,10 +11,24 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 17 Aug 2021 22:55:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Aug 2021 23:14:13 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Outrage at chronic fatigue syndrome advice update pause]]></title>
+            <description><![CDATA[NICE decided to pause the final update to its advice just hours before planned publication.]]></description>
+            <link>https://www.bbc.co.uk/news/health-58241864</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-58241864</guid>
+            <pubDate>Tue, 17 Aug 2021 23:06:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Aspirin may help treat aggressive breast cancer]]></title>
+            <description><![CDATA[Doctors hope it could boost the anti-cancer power of other drugs to fight hard-to-treat tumours.]]></description>
+            <link>https://www.bbc.co.uk/news/health-58229082</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-58229082</guid>
+            <pubDate>Tue, 17 Aug 2021 23:08:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Covid-vaccine scientists begin plague-jab trial]]></title>
             <description><![CDATA[The first volunteers have received a dose of the vaccine, made using the same technology as the Covid jab.]]></description>
@@ -275,6 +289,20 @@
             <pubDate>Sat, 14 Mar 2020 01:04:25 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid: 'I'm pregnant, should I have the vaccine?']]></title>
+            <description><![CDATA[Many pregnant women have declined the Covid jab, but what's best for the baby?]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-58089039</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-58089039</guid>
+            <pubDate>Tue, 17 Aug 2021 23:12:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['I make art out of discarded face masks']]></title>
+            <description><![CDATA[Thomas Yates posts artwork he's created out of used face masks on social media.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-nottinghamshire-58187835</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-nottinghamshire-58187835</guid>
+            <pubDate>Tue, 17 Aug 2021 23:12:12 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Sajid Javid says NHS waiting lists will rise]]></title>
             <description><![CDATA[The health secretary urges people to come forward and "know that the NHS is there for them".]]></description>
             <link>https://www.bbc.co.uk/news/uk-politics-58188899</link>
@@ -294,20 +322,6 @@
             <link>https://www.bbc.co.uk/news/uk-58146198</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58146198</guid>
             <pubDate>Mon, 09 Aug 2021 10:23:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['Walking to space was the best day of my life']]></title>
-            <description><![CDATA[Tim, aged nine, walked 62 miles - the distance between Earth's atmosphere and the boundary of space.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-nottinghamshire-58071075</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-nottinghamshire-58071075</guid>
-            <pubDate>Sat, 07 Aug 2021 23:01:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: Man, 23, 'thought body could brush off virus']]></title>
-            <description><![CDATA[Patients at the Royal Liverpool Hospital tell BBC North West Tonight about being ill with Covid.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-merseyside-58121193</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-merseyside-58121193</guid>
-            <pubDate>Fri, 06 Aug 2021 18:16:51 GMT</pubDate>
         </item>
     </channel>
 </rss>

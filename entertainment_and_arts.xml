@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 17 Aug 2021 22:54:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Aug 2021 23:16:41 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -135,6 +135,13 @@
             <pubDate>Thu, 12 Aug 2021 01:28:46 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA['I make art out of discarded face masks']]></title>
+            <description><![CDATA[Thomas Yates posts artwork he's created out of used face masks on social media.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-nottinghamshire-58187835</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-nottinghamshire-58187835</guid>
+            <pubDate>Tue, 17 Aug 2021 23:12:12 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Afghanistan: Female presenters back on Tolo News after Taliban takeover]]></title>
             <description><![CDATA[Women had been noticeably absent from major news outlets after the Taliban took control of Afghanistan.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-58241000</link>
@@ -168,13 +175,6 @@
             <link>https://www.bbc.co.uk/news/world-asia-58196411</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58196411</guid>
             <pubDate>Fri, 13 Aug 2021 00:30:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Virtual reality: 'There's no max, there's no limit!']]></title>
-            <description><![CDATA["There's no max, there's no limit" to virtual reality, so is it the future of live music?]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-58177685</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-58177685</guid>
-            <pubDate>Thu, 12 Aug 2021 23:11:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
