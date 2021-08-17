@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 17 Aug 2021 15:45:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Aug 2021 15:55:11 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -42,6 +42,13 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58246158</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58246158</guid>
             <pubDate>Tue, 17 Aug 2021 14:28:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Proposal to make some Scots Covid powers permanent]]></title>
+            <description><![CDATA[Scottish ministers say some changes made during the pandemic had a "demonstrable benefit" to the public.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-scotland-politics-58244323</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-scotland-politics-58244323</guid>
+            <pubDate>Tue, 17 Aug 2021 15:45:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Five things we know from Scotland's alcohol death figures]]></title>
@@ -261,6 +268,13 @@
             <pubDate>Fri, 13 Aug 2021 09:17:32 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Celtic v AZ Alkmaar]]></title>
+            <description><![CDATA[Celtic are "very close to a few deals" for new players with manager Ange Postecoglou "very confident" signings will be made before the deadline.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58215272</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58215272</guid>
+            <pubDate>Tue, 17 Aug 2021 15:51:28 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Martin Boyle: Hibs turn down Aberdeen's £500,000 bid for winger]]></title>
             <description><![CDATA[Hibernian turn down a bid of £500,000 from Aberdeen for winger Martin Boyle.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58241478</link>
@@ -287,13 +301,6 @@
             <link>https://www.bbc.co.uk/sport/football/58234321</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58234321</guid>
             <pubDate>Tue, 17 Aug 2021 07:20:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[John Higgins: 'Proud moment' to surpass Stephen Hendry with 12th career 147]]></title>
-            <description><![CDATA[John Higgins says it is "a great feeling" to have surpassed compatriot Stephen Hendry's career total with a 12th maximum break at the British Open.]]></description>
-            <link>https://www.bbc.co.uk/sport/snooker/58232601</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/snooker/58232601</guid>
-            <pubDate>Mon, 16 Aug 2021 18:20:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
