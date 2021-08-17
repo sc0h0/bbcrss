@@ -11,7 +11,7 @@
 11. [Haiti earthquake: Death toll climbs as Tropical Depression Grace hits](https://www.bbc.co.uk/news/world-latin-america-58222888) - Tropical Depression Grace hits Haiti just days after a tremor left at least 1,419 dead.
 12. [Geronimo the alpaca gets temporary reprieve ahead of review](https://www.bbc.co.uk/news/uk-england-gloucestershire-58241387) - An application for a temporary injunction to halt his death will be considered at the High Court.
 13. [How the Taliban seized Afghanistan again](https://www.bbc.co.uk/news/world-asia-58238023) - Taliban fighters have swept across Afghanistan taking control of towns and cities.
-14. [Afghanistan: Will it become haven for terror with the Taliban in power?](https://www.bbc.co.uk/news/world-asia-58232041) - The Taliban are back, 20 years after being ousted for supporting terror groups. Will they do the same?
+14. [Does the world now face a new terror threat?](https://www.bbc.co.uk/news/world-asia-58232041) - The Taliban are back, 20 years after being ousted for supporting terror groups. Will they do the same?
 15. [Why is the Taliban's Kabul victory being compared to the fall of Saigon?](https://www.bbc.co.uk/news/world-asia-58234884) - Many have drawn parallels with America's withdrawal from Vietnam in 1975 - but is this fair?
 16. [What next for Afghanistan's economy?](https://www.bbc.co.uk/news/business-58235185) - Now that the Taliban are back in control of the country, can its financial system function?
 17. [How the Taliban stormed across Afghanistan in ten days](https://www.bbc.co.uk/news/world-58232525) - The Taliban took their first city on 6 Aug and arrived in Kabul just over a week later.
