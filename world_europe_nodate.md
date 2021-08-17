@@ -10,8 +10,8 @@
 10. [No Messi, no Ramos - how is La Liga shaping up?](https://www.bbc.co.uk/sport/football/58092275) - No Lionel Messi, no Sergio Ramos, no Zinedine Zidane - how are Spain's 'big three' looking - or could there be a new title winner?
 11. [Kiwi Chow: The film-maker who took Hong Kong's protests to Cannes](https://www.bbc.co.uk/news/world-asia-58196411) - Kiwi Chow's documentary was a surprise at the film festival - and it has a controversial title.
 12. [Bardsey: Lure of the island with no electricity or wi-fi](https://www.bbc.co.uk/news/uk-wales-58180169) - There is no hot water or showers on the island, and it is thought that is why people are attracted.
-13. [The shopkeeper saving his island from wildfires](https://www.bbc.co.uk/news/world-europe-58177493) - Spyros isn't a firefighter, but when his home was threatened with wildfires, he decided to take action.
-14. [Greece fires: Hundreds rescued by coastguard](https://www.bbc.co.uk/news/world-europe-58128033) - The coastguard moved 650 people from Limni, in the north of the island of Evia.
-15. [Lukashenko: 'You can choke on your sanctions in the UK'](https://www.bbc.co.uk/news/world-europe-58150328) - The UK and US are tightening sanctions on Belarus, hitting economic sectors.
-16. ['They call me the Irish hulk of basketball'](https://www.bbc.co.uk/news/world-europe-58017676) - Aidan Igiehon is part of a group of elite Irish athletes playing college basketball in America.
-17. [Will Turkey's bees return after the wildfires?](https://www.bbc.co.uk/news/world-middle-east-58108697) - Residents of Marmaris, Turkey, are mourning their bees and honey, lost to fires.
+13. [BBC presenter flees French fires](https://www.bbc.co.uk/news/world-europe-58250658) - "It was very, very, very frightening," says Geeta Guru-Murthy.
+14. [The shopkeeper saving his island from wildfires](https://www.bbc.co.uk/news/world-europe-58177493) - Spyros isn't a firefighter, but when his home was threatened with wildfires, he decided to take action.
+15. [Greece fires: Hundreds rescued by coastguard](https://www.bbc.co.uk/news/world-europe-58128033) - The coastguard moved 650 people from Limni, in the north of the island of Evia.
+16. [Lukashenko: 'You can choke on your sanctions in the UK'](https://www.bbc.co.uk/news/world-europe-58150328) - The UK and US are tightening sanctions on Belarus, hitting economic sectors.
+17. ['They call me the Irish hulk of basketball'](https://www.bbc.co.uk/news/world-europe-58017676) - Aidan Igiehon is part of a group of elite Irish athletes playing college basketball in America.

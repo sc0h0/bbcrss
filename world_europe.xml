@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 17 Aug 2021 17:36:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Aug 2021 17:47:42 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -100,6 +100,13 @@
             <pubDate>Thu, 12 Aug 2021 12:42:38 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[BBC presenter flees French fires]]></title>
+            <description><![CDATA["It was very, very, very frightening," says Geeta Guru-Murthy.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58250658</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58250658</guid>
+            <pubDate>Tue, 17 Aug 2021 17:38:37 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The shopkeeper saving his island from wildfires]]></title>
             <description><![CDATA[Spyros isn't a firefighter, but when his home was threatened with wildfires, he decided to take action.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-58177493</link>
@@ -126,13 +133,6 @@
             <link>https://www.bbc.co.uk/news/world-europe-58017676</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58017676</guid>
             <pubDate>Fri, 06 Aug 2021 23:07:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Will Turkey's bees return after the wildfires?]]></title>
-            <description><![CDATA[Residents of Marmaris, Turkey, are mourning their bees and honey, lost to fires.]]></description>
-            <link>https://www.bbc.co.uk/news/world-middle-east-58108697</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-58108697</guid>
-            <pubDate>Thu, 05 Aug 2021 23:01:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
