@@ -24,5 +24,5 @@
 24. [Rheolaeth drwy orfodaeth: Dynion yn diodde' hefyd](https://www.bbc.co.uk/newyddion/58236852) - Yn ôl un cynllun sy'n gweithio gyda dioddefwyr gwrywaidd, dyw llawer o ddynion ddim yn cael eu credu.
 25. [Darlunydd yn disgrifio trasiedi rhyfel Afghanistan](https://www.bbc.co.uk/newyddion/58236933) - Treuliodd Dan Peterson o Gaerdydd fis yn y wlad yn tynnu lluniau o frwydrau gyda'r Taliban.
 26. [Lefel diweithdra yn gostwng ychydig yng Nghymru](https://www.bbc.co.uk/newyddion/58241675) - Nifer y bobl ddi-waith yng Nghymru wedi gostwng o 6,000 yn y tri mis rhwng Ebrill a Mehefin.
-27. [Liam o Love Island yn rhoi Merthyr ar y map](https://www.bbc.co.uk/newyddion/58202005) - Mae gan Liam Reardon siawns dda o ennill y gyfres ITV yn ôl yr actor Pobol y Cwm, Jacob Oakley.
+27. [Dysgu Cymraeg: Tips i siaradwyr newydd](https://www.bbc.co.uk/newyddion/58214043) - Y tiwtor iaith Marian Brosschot sy'n rhannu cyngor ar sut i ymarfer dy Gymraeg dros y gwyliau.
 28. [Morgannwg drwodd i ffeinal y Cwpan Undydd ar ôl trechu Essex](https://www.bbc.co.uk/newyddion/58233591) - Joe Cooke yn serennu gyda'r bat a'r bêl er mwyn llywio Morgannwg i rownd derfynol y Cwpan Undydd.
