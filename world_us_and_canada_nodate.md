@@ -1,4 +1,4 @@
-1. [Biden defends US withdrawal from Afghanistan](https://www.bbc.co.uk/news/world-us-canada-58238497) - "How many more American lives is it worth?" says the president at the White House.
+1. [Biden defends 'messy' US pullout from Afghanistan](https://www.bbc.co.uk/news/world-us-canada-58238497) - "How many more American lives is it worth?" says the president, amid growing criticism over the move.
 2. [Why is the Taliban's Kabul victory being compared to the fall of Saigon?](https://www.bbc.co.uk/news/world-asia-58234884) - Many have drawn parallels with America's withdrawal from Vietnam in 1975 - but is this fair?
 3. [Afghanistan conflict: As Kabul falls, Biden backlash grows](https://www.bbc.co.uk/news/world-us-canada-58224399) - Soldiers, statesmen and Afghan-Americans criticise the president - but how will the public react?
 4. [Afghanistan: Protesters gather outside White House as pressure on Biden builds](https://www.bbc.co.uk/news/world-us-canada-58231386) - President Biden is under pressure as the Taliban take control of the country after the troops moved out.

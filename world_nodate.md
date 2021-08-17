@@ -1,4 +1,4 @@
-1. [Biden defends US withdrawal from Afghanistan](https://www.bbc.co.uk/news/world-us-canada-58238497) - "How many more American lives is it worth?" says the president at the White House.
+1. [Biden defends 'messy' US pullout from Afghanistan](https://www.bbc.co.uk/news/world-us-canada-58238497) - "How many more American lives is it worth?" says the president, amid growing criticism over the move.
 2. [Haiti earthquake: Death toll climbs as tropical storm nears](https://www.bbc.co.uk/news/world-latin-america-58222888) - Tropical Depression Grace is approaching Haiti just days after a tremor left at least 1,419 dead.
 3. [Tesla Autopilot: US opens official investigation into self-driving tech](https://www.bbc.co.uk/news/technology-58232137) - The investigation covers all Tesla cars since 2014, focusing on crashes with emergency vehicles.
 4. [Images show decline of California's 'life source'](https://www.bbc.co.uk/news/world-us-canada-58232044) - Justin Sullivan has been following California's second-largest reservoir's falling water levels.
@@ -25,8 +25,8 @@
 25. [Afghanistan: Will it become haven for terror with the Taliban in power?](https://www.bbc.co.uk/news/world-asia-58232041) - The Taliban are back, 20 years after being ousted for supporting terror groups. Will they do the same?
 26. [Why is the Taliban's Kabul victory being compared to the fall of Saigon?](https://www.bbc.co.uk/news/world-asia-58234884) - Many have drawn parallels with America's withdrawal from Vietnam in 1975 - but is this fair?
 27. [Malala: 'Futures of Afghan child refugees aren't lost'](https://www.bbc.co.uk/news/world-asia-58236327) - Nobel peace laureate, Malala Yousafzai was shot in the head by the Taliban in 2012.
-28. [Afghanistan conflict: As Kabul falls, Biden backlash grows](https://www.bbc.co.uk/news/world-us-canada-58224399) - Soldiers, statesmen and Afghan-Americans criticise the president - but how will the public react?
-29. [Afghanistan: Taliban spokesman Suhail Shaheen calls the BBC - interview in full](https://www.bbc.co.uk/news/world-asia-58223530) - A spokesman for the Taliban, Suhail Shaheen, called the BBC's Yalda Hakim, live on air.
+28. [Afghanistan: Taliban spokesman Suhail Shaheen calls the BBC - interview in full](https://www.bbc.co.uk/news/world-asia-58223530) - A spokesman for the Taliban, Suhail Shaheen, called the BBC's Yalda Hakim, live on air.
+29. [Afghanistan: Why is there a war?](https://www.bbc.co.uk/news/world-asia-49192495) - As foreign forces pull out after 20 years of war, what did it achieve and what happens next?
 30. [How the Taliban stormed across Afghanistan in ten days](https://www.bbc.co.uk/news/world-58232525) - The Taliban took their first city on 6 Aug and arrived in Kabul just over a week later.
 31. [Afghanistan: In pictures: Kabul - a day after Taliban takeover](https://www.bbc.co.uk/news/in-pictures-58225117) - Kabul - the Afghan capital - is quiet in some parts, but chaotic at the airport where thousands are trying to flee.
 32. [Kabul centre quiet and subdued after Taliban takeover](https://www.bbc.co.uk/news/world-asia-58232815) - BBC video journalist Malik Mudassir speaks about life in the city after its capture by the Taliban.
