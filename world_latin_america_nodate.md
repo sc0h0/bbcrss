@@ -1,4 +1,4 @@
-1. [Haiti earthquake: Death toll climbs as tropical storm nears](https://www.bbc.co.uk/news/world-latin-america-58222888) - Tropical Depression Grace is approaching Haiti just days after a tremor left at least 1,419 dead.
+1. [Haiti earthquake: Death toll climbs as Tropical Depression Grace hits](https://www.bbc.co.uk/news/world-latin-america-58222888) - Tropical Depression Grace drenches Haiti just days after a tremor left at least 1,419 dead.
 2. [Venezuela opposition politician Guevara freed after talks](https://www.bbc.co.uk/news/world-latin-america-58229925) - Freddy Guevara is freed after two days of talks between opposition and government representatives.
 3. [Nicaragua: Police raid offices of La Prensa newspaper](https://www.bbc.co.uk/news/world-latin-america-58212024) - It comes a day after La Prensa said authorities were withholding its supplies of paper and ink.
 4. [US-Mexico border migrant detention levels reach 21-year high](https://www.bbc.co.uk/news/world-us-canada-58207124) - Migrant numbers usually dip during the hot summer months, but July has continued an upward trend.
