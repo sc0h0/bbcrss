@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 17 Aug 2021 08:45:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Aug 2021 08:56:29 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -128,6 +128,13 @@
             <pubDate>Wed, 11 Aug 2021 00:01:01 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[From a Manchester council estate to ballet dancing in Swan Lake]]></title>
+            <description><![CDATA[Isaac Bowry is from a Manchester council estate and wants to show that "dancing is for everyone".]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-manchester-58206917</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-manchester-58206917</guid>
+            <pubDate>Tue, 17 Aug 2021 05:28:54 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Adam Peaty: I'm going to be very uncomfortable on Strictly]]></title>
             <description><![CDATA[The Olympic champion is the latest to be announced for the show.]]></description>
             <link>https://www.bbc.co.uk/news/newsbeat-58203082</link>
@@ -161,13 +168,6 @@
             <link>https://www.bbc.co.uk/news/world-asia-58147426</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58147426</guid>
             <pubDate>Mon, 09 Aug 2021 23:03:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Peter Kay charity shows: Cancer patient 'honoured']]></title>
-            <description><![CDATA[Sometimes laughter is all you've got, says Laura Nuttall, who is receiving treatment for brain cancer.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58144223</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58144223</guid>
-            <pubDate>Mon, 09 Aug 2021 14:20:08 GMT</pubDate>
         </item>
     </channel>
 </rss>

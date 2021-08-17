@@ -11,10 +11,24 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 17 Aug 2021 08:47:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Aug 2021 09:01:02 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Alcohol deaths at highest level for a decade]]></title>
+            <description><![CDATA[Statistics show there were 1,190 alcohol-specific deaths registered in Scotland, 170 more than the previous year.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-58243168</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58243168</guid>
+            <pubDate>Tue, 17 Aug 2021 08:51:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Decrease in Scotland's suicide rate during 2020]]></title>
+            <description><![CDATA[The number of deaths fell from 833 in 2019 to 805 last year but there were above average suicide rates between June and September.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-58242836</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58242836</guid>
+            <pubDate>Tue, 17 Aug 2021 08:57:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Unemployment rate drops slightly in Scotland]]></title>
             <description><![CDATA[Official figures for April to June show the jobless figure stands at 4.3%, down 0.1% on the previous three months.]]></description>
@@ -44,13 +58,6 @@
             <pubDate>Tue, 17 Aug 2021 05:22:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Murder accused 'took body to park in wheelie bin']]></title>
-            <description><![CDATA[A man has appeared in court charged with killing a man then buying bleach and lighter fluid to destroy evidence.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58234921</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58234921</guid>
-            <pubDate>Mon, 16 Aug 2021 16:22:04 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Is a new oil field climate change hypocrisy?]]></title>
             <description><![CDATA[As Glasgow prepares to host the COP26 climate summit, a new oil field west of Shetland could get the green light.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-57762927</link>
@@ -63,6 +70,13 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-58235507</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58235507</guid>
             <pubDate>Mon, 16 Aug 2021 15:54:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Murder accused 'took body to park in wheelie bin']]></title>
+            <description><![CDATA[A man has appeared in court charged with killing a man then buying bleach and lighter fluid to destroy evidence.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58234921</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58234921</guid>
+            <pubDate>Mon, 16 Aug 2021 16:22:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[COP26: Pope Francis will not celebrate Mass during visit to Glasgow]]></title>
