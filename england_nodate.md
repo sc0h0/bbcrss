@@ -1,10 +1,10 @@
-1. [Eileen Barrott murder: NHS tribute to nurse as manhunt continues](https://www.bbc.co.uk/news/uk-england-leeds-58243279) - Hospital bosses pay tribute to Eileen Barrott as police continue to search for her husband.
-2. [UK student who travelled to Afghanistan for holiday evacuated](https://www.bbc.co.uk/news/uk-england-birmingham-58244518) - Miles Routledge, from Birmingham, claims he visited Kabul because he enjoys "extreme tourism".
-3. [Greater Manchester Police chief scraps 'tosh' Citizens' Contract](https://www.bbc.co.uk/news/uk-england-manchester-58246694) - Stephen Watson says a scheme defending squeezed police resources was "patronising nonsense".
-4. [Ice cream van firm banned from Lowestoft street over noise complaint](https://www.bbc.co.uk/news/uk-england-suffolk-58243851) - Lamarti's vans are forbidden from entering one street after complaints about noise.
+1. [Plymouth shooting: Gunman had mental health support in lockdown](https://www.bbc.co.uk/news/uk-england-devon-58248391) - Jake Davison, who killed five people in Plymouth, used a mental health helpline, the NHS says.
+2. [Eileen Barrott murder: NHS tribute to nurse as manhunt continues](https://www.bbc.co.uk/news/uk-england-leeds-58243279) - Hospital bosses pay tribute to Eileen Barrott as police continue to search for her husband.
+3. [UK student who travelled to Afghanistan for holiday evacuated](https://www.bbc.co.uk/news/uk-england-birmingham-58244518) - Miles Routledge, from Birmingham, claims he visited Kabul because he enjoys "extreme tourism".
+4. [Greater Manchester Police chief scraps 'tosh' Citizens' Contract](https://www.bbc.co.uk/news/uk-england-manchester-58246694) - Stephen Watson says a scheme defending squeezed police resources was "patronising nonsense".
 5. [Speeding MP who asked for ban ordered off roads](https://www.bbc.co.uk/news/uk-england-cambridgeshire-58243901) - Conservative Paul Bristow wrote that he wanted to avoid "hypocrisy" after speeding on the A1.
-6. [Boy in court after dad stabbed to death outside home](https://www.bbc.co.uk/news/uk-england-london-58243289) - James Markham, 45, was killed after confronting youths shouting at his daughter.
-7. [Banksy-painted building in Lowestoft taken off the market](https://www.bbc.co.uk/news/uk-england-suffolk-58231399) - He is "looking at his options", believing the mural could be worth more than the property itself.
+6. [Banksy-painted building in Lowestoft taken off the market](https://www.bbc.co.uk/news/uk-england-suffolk-58231399) - He is "looking at his options", believing the mural could be worth more than the property itself.
+7. [Ice cream van firm banned from Lowestoft street over noise complaint](https://www.bbc.co.uk/news/uk-england-suffolk-58243851) - Lamarti's vans are forbidden from entering one street after complaints about noise.
 8. [Who were the victims?](https://www.bbc.co.uk/news/uk-58202760) - The gunman's mother, Maxine Davison, and three-year-old Sophie Martyn have been named among the dead.
 9. [Fireworks competition dedicated to Plymouth shooting victims](https://www.bbc.co.uk/news/uk-england-devon-58240787) - Bosses say they "thought long and hard" about holding the British Firework Championships.
 10. [Minute's silence is held for shooting victims](https://www.bbc.co.uk/news/uk-england-devon-58228401) - Five people were killed in the shooting on Thursday before Jake Davison took his own life.
@@ -21,7 +21,7 @@
 21. [Shooting 'a truly shocking event' say police](https://www.bbc.co.uk/news/uk-58198081) - Devon and Cornwall Police Chief Constable Shaun Sawyer explains how reports of the shootings came in.
 22. [Plymouth MP: Community 'trying to make sense' of shooting](https://www.bbc.co.uk/news/uk-58198078) - MP Luke Pollard says the community is pulling together in the face of the "deeply grim" news.
 23. [Dawn Butler: Man sentenced for sending MP offensive message](https://www.bbc.co.uk/news/uk-england-merseyside-58202457) - The 70-year-old man admitted sending the message to Labour MP Dawn Butler in June.
-24. [Ardingly College: Six children and parent hit by Tesla](https://www.bbc.co.uk/news/uk-england-sussex-58234999) - An eight-year-old boy is flown to hospital after several children are hit by a Tesla at a school.
+24. [Boy in court after dad stabbed to death outside home](https://www.bbc.co.uk/news/uk-england-london-58243289) - James Markham, 45, was killed after confronting youths shouting at his daughter.
 25. [Afghanistan: Call for more UK councils to welcome refugees](https://www.bbc.co.uk/news/uk-england-kent-58248271) - The UK has a "moral imperative" to support those fleeing the Taliban, Ashford's council leader says.
 26. [Barnsley FC fan banned over 'sickening' Nazi gesture](https://www.bbc.co.uk/news/uk-england-south-yorkshire-58242955) - The "vile act" occurred after Barnsley's Sky Bet Championship fixture on Saturday, the club say.
 27. [Geronimo the alpaca gets temporary reprieve as hearing is adjourned](https://www.bbc.co.uk/news/uk-england-gloucestershire-58241387) - A High Court hearing for a temporary injunction to halt his death is adjourned for 24 hours.
