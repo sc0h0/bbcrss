@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 17 Aug 2021 07:08:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Aug 2021 07:24:02 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -30,13 +30,6 @@
             <pubDate>Tue, 17 Aug 2021 06:09:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid testing is rip-off, says former regulator]]></title>
-            <description><![CDATA[Lord Tyrie, ex-boss of the competition watchdog, says it was slow to react to complaints about providers.]]></description>
-            <link>https://www.bbc.co.uk/news/business-58200203</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58200203</guid>
-            <pubDate>Mon, 16 Aug 2021 23:00:44 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[UK job vacancies at record high as wages tick up]]></title>
             <description><![CDATA[Job vacancies hit 953,000 while average pay rises 7.4%, official figures show.]]></description>
             <link>https://www.bbc.co.uk/news/business-58241006</link>
@@ -51,11 +44,25 @@
             <pubDate>Mon, 16 Aug 2021 23:00:06 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid: PCR tests 'rip-off' and world of work 'bouncing back']]></title>
+            <description><![CDATA[Five things you need to know about the coronavirus pandemic this Tuesday morning.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-58236002</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58236002</guid>
+            <pubDate>Tue, 17 Aug 2021 07:09:13 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Snooker star Allen defeats former partner Evans]]></title>
             <description><![CDATA[Mark Allen defeats former partner Reanne Evans 3-2 after surviving a major scare in the British Open.]]></description>
             <link>https://www.bbc.co.uk/sport/snooker/58236543</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/snooker/58236543</guid>
             <pubDate>Tue, 17 Aug 2021 06:14:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid testing is rip-off, says former regulator]]></title>
+            <description><![CDATA[Lord Tyrie, ex-boss of the competition watchdog, says it was slow to react to complaints about providers.]]></description>
+            <link>https://www.bbc.co.uk/news/business-58200203</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58200203</guid>
+            <pubDate>Mon, 16 Aug 2021 23:00:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bob Dylan denies sexually abusing girl in 1965]]></title>
@@ -70,13 +77,6 @@
             <link>https://www.bbc.co.uk/news/health-58229083</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/health-58229083</guid>
             <pubDate>Mon, 16 Aug 2021 23:35:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Men hurt in homophobic attack at Birmingham's Gay Village]]></title>
-            <description><![CDATA[One man was knocked unconscious in an attack which began with abuse being shouted from inside a car.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-birmingham-58228598</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-birmingham-58228598</guid>
-            <pubDate>Mon, 16 Aug 2021 17:10:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[New police CCTV use rules criticised as bare bones]]></title>
@@ -107,7 +107,7 @@
             <pubDate>Tue, 17 Aug 2021 01:08:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Taliban storm across Afghanistan]]></title>
+            <title><![CDATA[How the Taliban retook Afghanistan]]></title>
             <description><![CDATA[Taliban fighters have swept across Afghanistan taking control of towns and cities.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-58238023</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58238023</guid>
@@ -289,11 +289,11 @@
             <pubDate>Sun, 15 Aug 2021 23:41:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Osaka in tears during first news conference since French Open]]></title>
-            <description><![CDATA[Naomi Osaka broke down in tears before resuming her first news conference since the controversy over refusing to speak to media at the French Open.]]></description>
-            <link>https://www.bbc.co.uk/sport/tennis/58237884</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/tennis/58237884</guid>
-            <pubDate>Mon, 16 Aug 2021 21:30:14 GMT</pubDate>
+            <title><![CDATA[Murray and Watson progress at Cincinnati Masters but Evans goes out]]></title>
+            <description><![CDATA[Andy Murray wins his first singles match since pulling out of the individual event at the Olympics as he beats Richard Gasquet in Cincinnati.]]></description>
+            <link>https://www.bbc.co.uk/sport/tennis/58241193</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/tennis/58241193</guid>
+            <pubDate>Tue, 17 Aug 2021 07:05:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[England v India: India win thrilling second Test in final hour]]></title>

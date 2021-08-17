@@ -18,7 +18,7 @@
 18. [Will Taliban take country back to past, asks John Simpson](https://www.bbc.co.uk/news/world-58224559) - What sort of nation will Afghanistan be after 2021, asks the BBC's world affairs editor John Simpson.
 19. [Nigeria's Kano state moves to ban mannequin heads on Islamic grounds](https://www.bbc.co.uk/news/world-africa-58175709) - The Islamic police in Kano, Nigeria, say shop dummies with heads symbolise "idolatry" and are banned.
 20. ['How I found out my dad was a best-selling sex writer'](https://www.bbc.co.uk/news/stories-58171940) - Sara Faith Alterman was always close to her father. Then she learned he was concealing a secret.
-21. [The Taliban storm across Afghanistan](https://www.bbc.co.uk/news/world-asia-58238023) - Taliban fighters have swept across Afghanistan taking control of towns and cities.
+21. [How the Taliban retook Afghanistan](https://www.bbc.co.uk/news/world-asia-58238023) - Taliban fighters have swept across Afghanistan taking control of towns and cities.
 22. [Joe Biden on Afghanistan: 'I stand squarely behind my decision'](https://www.bbc.co.uk/news/world-us-canada-58238557) - The US president says the quick collapse of the Afghan government shows why America had to withdraw.
 23. [Malala: 'Futures of Afghan child refugees aren't lost'](https://www.bbc.co.uk/news/world-asia-58236327) - Nobel peace laureate, Malala Yousafzai was shot in the head by the Taliban in 2012.
 24. [UK military commander: 'We've betrayed' Afghans who helped British troops'](https://www.bbc.co.uk/news/uk-58231760) - Major General Charlie Herbert, a military commander from the UK’s campaign in Afghanistan, has accused the government of betraying Afghans who supported British troops.
