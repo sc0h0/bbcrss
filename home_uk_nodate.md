@@ -1,5 +1,5 @@
 1. [UK looking at bespoke Afghan refugee scheme - Dominic Raab](https://www.bbc.co.uk/news/uk-58238490) - The foreign secretary says the UK is a "big-hearted nation" and full details will be set out soon.
-2. [UK job vacancies at record high as wages tick up](https://www.bbc.co.uk/news/business-58241006) - Job vacancies hit 953,000 amid signs the country's labour market is rebounding "robustly".
+2. [UK job vacancies at record high as pick up](https://www.bbc.co.uk/news/business-58241006) - Job vacancies hit 953,000 amid signs the country's labour market is rebounding "robustly".
 3. [New Zealand enters nationwide lockdown over one Covid case](https://www.bbc.co.uk/news/world-asia-58241619) - Authorities say they are still running tests, but are assuming it is a case of the Delta variant.
 4. [Haiti earthquake: Tropical Storm Grace hampers rescue](https://www.bbc.co.uk/news/world-latin-america-58222888) - Tropical Storm Grace has dumped heavy rain on Haiti just days after a tremor left at least 1,419 dead.
 5. [Covid: Queen remains at Balmoral as staff member tests positive](https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-58245334) - The Queen, who is 95 and vaccinated, will remain at her private retreat in Scotland as planned.
@@ -52,6 +52,7 @@
 52. [Covid rules: What's changing in Wales, Scotland, England and Northern Ireland?](https://www.bbc.co.uk/news/explainers-52530518) - Lockdown rules are changing across the UK, but some restrictions remain in place.
 53. [Covid: Do I have to self-isolate if I'm fully vaccinated?](https://www.bbc.co.uk/news/explainers-54239922) - Self-isolation rules have now been relaxed across the UK.
 54. [UK holidays: What are the rules?](https://www.bbc.co.uk/news/explainers-52646738) - Going abroad is not straightforward, so many people are opting to stay in the UK for their holidays.
-55. [Wildfires: How Portuguese club Tondela drove through the flames](https://www.bbc.co.uk/sport/football/58101546) - In Tondela, the bond between club and fans was at its strongest during the night in October 2017 when nobody slept.
-56. [Malta: The teenagers pulled from the sea and accused of terrorism](https://www.bbc.co.uk/news/world-57988934) - How three teenagers rescued from the Mediterranean Sea ended up in Malta accused of terrorism.
-57. [‘If only I’d found out earlier I had pelvic congestion syndrome’](https://www.bbc.co.uk/news/stories-58030699) - Sophie Robehmed suffered from back and stomach pains for years before being diagnosed with PCS.
+55. ['How I found out my dad was a best-selling sex writer'](https://www.bbc.co.uk/news/stories-58171940) - Sara Faith Alterman was always close to her father. Then she learned he was concealing a secret.
+56. [Plymouth shooting: Inside the dark world of 'incels'](https://www.bbc.co.uk/news/blogs-trending-44053828) - Who are the angry young men who describe themselves as "involuntarily celibate"?
+57. [Wildfires: How Portuguese club Tondela drove through the flames](https://www.bbc.co.uk/sport/football/58101546) - In Tondela, the bond between club and fans was at its strongest during the night in October 2017 when nobody slept.
+58. [Malta: The teenagers pulled from the sea and accused of terrorism](https://www.bbc.co.uk/news/world-57988934) - How three teenagers rescued from the Mediterranean Sea ended up in Malta accused of terrorism.

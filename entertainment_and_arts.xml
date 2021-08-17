@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 17 Aug 2021 11:28:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Aug 2021 11:42:24 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Selma Blair: Actress says she's in remission from multiple sclerosis]]></title>
+            <description><![CDATA[The Cruel Intentions star says her multiple sclerosis has improved thanks to a stem cell transplant.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-58240917</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-58240917</guid>
+            <pubDate>Tue, 17 Aug 2021 11:28:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bob Dylan denies sexually abusing girl in 1965]]></title>
             <description><![CDATA[A woman says the US singer-songwriter abused her when she was 12 - a claim he says is untrue.]]></description>
@@ -128,6 +135,13 @@
             <pubDate>Wed, 11 Aug 2021 00:01:01 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Afghanistan: Female presenters back on Tolo News after Taliban takeover]]></title>
+            <description><![CDATA[Women had been noticeably absent from major news outlets after the Taliban took control of Afghanistan.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58241000</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58241000</guid>
+            <pubDate>Tue, 17 Aug 2021 11:40:40 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[From a Manchester council estate to ballet dancing in Swan Lake]]></title>
             <description><![CDATA[Isaac Bowry is from a Manchester council estate and wants to show that "dancing is for everyone".]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-manchester-58206917</link>
@@ -161,13 +175,6 @@
             <link>https://www.bbc.co.uk/news/entertainment-arts-58177685</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-58177685</guid>
             <pubDate>Thu, 12 Aug 2021 23:11:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fashion photographer: 'The world doesn't see this part of Afghanistan']]></title>
-            <description><![CDATA[Fatimah Hossaini is a fashion photographer in Afghanistan and wants to use her work to help women be seen.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58147426</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58147426</guid>
-            <pubDate>Mon, 09 Aug 2021 23:03:40 GMT</pubDate>
         </item>
     </channel>
 </rss>

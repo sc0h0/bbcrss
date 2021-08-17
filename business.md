@@ -1,4 +1,4 @@
-1. [UK job vacancies at record high as wages tick up](https://www.bbc.co.uk/news/business-58241006) - Tue, 17 Aug 2021 10:45:08 GMT - Job vacancies hit 953,000 amid signs the country's labour market is rebounding "robustly".
+1. [UK job vacancies at record high as pick up](https://www.bbc.co.uk/news/business-58241006) - Tue, 17 Aug 2021 10:45:08 GMT - Job vacancies hit 953,000 amid signs the country's labour market is rebounding "robustly".
 2. [Former ITV boss Adam Crozier appointed new chairman of BT](https://www.bbc.co.uk/news/business-58241747) - Tue, 17 Aug 2021 10:03:50 GMT - Adam Crozier, who has previously headed the TV company and the FA, will join the telecoms giant this year.
 3. [No need to swap data for drinks, says privacy body](https://www.bbc.co.uk/news/business-58230932) - Mon, 16 Aug 2021 23:00:06 GMT - Some pub ordering apps ask too many questions, but you can refuse, says the information watchdog.
 4. [Love and money: 'I borrowed from a friend, it went wrong'](https://www.bbc.co.uk/news/business-57824096) - Mon, 16 Aug 2021 23:10:49 GMT - After sleeping on the night bus with her daughter, Jo was forced to borrow money.
