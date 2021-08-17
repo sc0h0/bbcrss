@@ -8,7 +8,7 @@
 8. [New police CCTV use rules criticised as bare bones](https://www.bbc.co.uk/news/technology-58206586) - However, the guidelines empowered police and maintained public trust, the Home Office says.
 9. [Line of Duty stars to go head-to-head at National Television Awards](https://www.bbc.co.uk/news/entertainment-arts-58233280) - Vicky McClure, Adrian Dunbar and Martin Compston are nominated for the National Television Awards.
 10. [Haiti earthquake: Death toll climbs as tropical storm nears](https://www.bbc.co.uk/news/world-latin-america-58222888) - Tropical Depression Grace is approaching Haiti just days after a tremor left at least 1,419 dead.
-11. [Mark Chilman jailed for murdering ex's new partner and setting body on fire](https://www.bbc.co.uk/news/uk-england-hereford-worcester-58233001) - Mark Chilman set his victim's car on fire in a bid to make it look like suicide, the court hears.
+11. [Hydrogen power offers jobs boost, says government](https://www.bbc.co.uk/news/science-environment-58238367) - Kick-starting a hydrogen industry could attract billions in investment, the UK government says.
 12. [Bezos sues Nasa over its deal with Elon Musk's SpaceX](https://www.bbc.co.uk/news/business-58235479) - Mr Bezos's Blue Origin says it was unfairly treated after being excluded from lunar landing contract.
 13. [Covid in Scotland: Victims' families hold public inquiry talks](https://www.bbc.co.uk/news/uk-scotland-58234070) - The Covid-19 Bereaved Families for Justice group has been lobbying for an urgent independent investigation.
 14. [The Taliban storm across Afghanistan.](https://www.bbc.co.uk/news/world-asia-58238023) - Taliban fighters have swept across Afghanistan taking control of towns and cities.

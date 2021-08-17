@@ -1,6 +1,6 @@
 1. [Afghanistan: Will it become haven for terror with the Taliban in power?](https://www.bbc.co.uk/news/world-asia-58232041) - The Taliban are back, 20 years after being ousted for supporting terror groups. Will they do the same?
 2. [There and back again: The epic adventures of China's wandering elephants](https://www.bbc.co.uk/news/world-asia-china-58196663) - After a mammoth journey across the country the pack of pachyderms are finally heading home.
-3. [Afghanistan: US takes control of Kabul airport to evacuate staff](https://www.bbc.co.uk/news/world-asia-58227029) - Hundreds of locals fleeing from the Taliban rush on to runways forcing a halt to evacuation flights.
+3. [Afghanistan: US takes control of Kabul airport to evacuate staff](https://www.bbc.co.uk/news/world-asia-58227029) - Crowds of fleeing locals thronged the runway, where foreign military planes are now landing again.
 4. [Afghanistan: Life in Kabul after the Taliban victory](https://www.bbc.co.uk/news/world-asia-58232815) - BBC video journalist Malik Mudassir speaks about life in the city after its capture by the Taliban.
 5. [Toutai Kefu: Rugby star and family attacked in their Brisbane home](https://www.bbc.co.uk/news/world-australia-58227126) - Toutai Kefu and three family members suffer "significant injuries" in a suspected botched burglary.
 6. [Meghalaya minister quits amid unrest over former rebel leader's death](https://www.bbc.co.uk/news/world-asia-india-58220021) - A curfew was imposed in the state's capital, Shillong, after protests turned violent on Sunday.
