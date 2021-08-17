@@ -11,10 +11,24 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 17 Aug 2021 12:05:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Aug 2021 12:38:25 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Tributes to nurse as manhunt continues for husband]]></title>
+            <description><![CDATA[Hospital bosses pay tribute to Eileen Barrott as police continue to search for her husband.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-leeds-58243279</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-leeds-58243279</guid>
+            <pubDate>Tue, 17 Aug 2021 12:03:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Speeding MP who asked for ban ordered off roads]]></title>
+            <description><![CDATA[Conservative Paul Bristow wrote that he wanted to avoid "hypocrisy" after speeding on the A1.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-cambridgeshire-58243901</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-cambridgeshire-58243901</guid>
+            <pubDate>Tue, 17 Aug 2021 10:41:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Boy in court after dad stabbed to death outside home]]></title>
             <description><![CDATA[A 14-year-old boy appears at the Old Bailey over the alleged murder of James Markham.]]></description>
@@ -23,32 +37,18 @@
             <pubDate>Tue, 17 Aug 2021 10:18:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Ardingly College: Six children and parent hit by Tesla]]></title>
-            <description><![CDATA[An eight-year-old boy is flown to hospital after several children are hit by a Tesla at a school.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-sussex-58234999</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-sussex-58234999</guid>
-            <pubDate>Tue, 17 Aug 2021 08:49:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Suffolk herb factory fire: Camstar in Eye burnt out]]></title>
-            <description><![CDATA[Dozens of firefighters spend the night tackling the blaze that started on Monday evening.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-suffolk-58240704</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-suffolk-58240704</guid>
-            <pubDate>Tue, 17 Aug 2021 07:25:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hospital staff in shock after murder of nurse]]></title>
-            <description><![CDATA[Hospital bosses pay tribute to Eileen Barrott as police continue to search for her husband.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-leeds-58243279</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-leeds-58243279</guid>
-            <pubDate>Tue, 17 Aug 2021 12:03:47 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Banksy-painted building in Lowestoft taken off the market]]></title>
             <description><![CDATA[He is "looking at his options", believing the mural could be worth more than the property itself.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-suffolk-58231399</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-suffolk-58231399</guid>
             <pubDate>Tue, 17 Aug 2021 05:15:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ardingly College: Six children and parent hit by Tesla]]></title>
+            <description><![CDATA[An eight-year-old boy is flown to hospital after several children are hit by a Tesla at a school.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-sussex-58234999</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-sussex-58234999</guid>
+            <pubDate>Tue, 17 Aug 2021 08:49:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Northamptonshire Weetabix workers strike over pay]]></title>
@@ -198,39 +198,11 @@
             <pubDate>Tue, 17 Aug 2021 07:41:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Moped rider to tour UK's rude place names]]></title>
-            <description><![CDATA[Paul Taylor will visit towns such as Shitterton and Cockpole Green on the 1,800-mile charity tour.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-58229967</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-58229967</guid>
-            <pubDate>Mon, 16 Aug 2021 12:16:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['Rogue wave' sweeps man to death in Cornwall]]></title>
-            <description><![CDATA[An inquest concludes that Tyler Westlake, who was swept off rocks while fishing, died accidentally.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-cornwall-58232665</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-cornwall-58232665</guid>
-            <pubDate>Mon, 16 Aug 2021 14:08:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Otter cub found in stream 'crying for mother' rescued by RSPCA]]></title>
-            <description><![CDATA[A member of the public spotted the young mammal alone and distressed near Windermere.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-cumbria-58236045</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-cumbria-58236045</guid>
-            <pubDate>Mon, 16 Aug 2021 16:13:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cambridgeshire sinkhole: Locals crack up at The Butts' hole]]></title>
-            <description><![CDATA[A hole in a road called The Butts causes amusement on social media after police issue a warning.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-cambridgeshire-58172334</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-cambridgeshire-58172334</guid>
-            <pubDate>Mon, 16 Aug 2021 17:09:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Physio uses CPR and defibrillator on match official]]></title>
-            <description><![CDATA[Shannon Brooks is praised for helping save a match official who suffered a suspected heart attack.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-south-yorkshire-58228519</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-south-yorkshire-58228519</guid>
-            <pubDate>Mon, 16 Aug 2021 13:17:00 GMT</pubDate>
+            <title><![CDATA[Suffolk herb factory fire: Camstar in Eye burnt out]]></title>
+            <description><![CDATA[Dozens of firefighters spend the night tackling the blaze that started on Monday evening.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-suffolk-58240704</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-suffolk-58240704</guid>
+            <pubDate>Tue, 17 Aug 2021 07:25:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Men hurt in homophobic attack at Birmingham's Gay Village]]></title>

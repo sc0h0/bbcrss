@@ -9,7 +9,7 @@
 9. [Meghalaya minister quits amid unrest over former rebel leader's death](https://www.bbc.co.uk/news/world-asia-india-58220021) - A curfew was imposed in the state's capital, Shillong, after protests turned violent on Sunday.
 10. [Afghanistan: Chaotic scenes at Kabul airport](https://www.bbc.co.uk/news/world-asia-58226712) - Video shows hundreds of Afghans attempting to escape, as the Taliban took over the capital.
 11. [Afghanistan conflict: The Air India flight out on a fateful Sunday](https://www.bbc.co.uk/news/world-asia-india-58228280) - Air India's only flight to Kabul on Sunday circled for 90 minutes over the Afghan capital before landing.
-12. [Striking image captures Afghan exodus](https://www.bbc.co.uk/news/world-asia-58242733) - A photo appears to show hundreds of Afghans packed on a US military plane as they flee the Taliban.
+12. [Afghanistan: Striking image captures Kabul exodus](https://www.bbc.co.uk/news/world-asia-58242733) - A photo appears to show hundreds of Afghans packed on a US military plane as they flee the Taliban.
 13. [There and back again: The epic adventures of China's wandering elephants](https://www.bbc.co.uk/news/world-asia-china-58196663) - After a mammoth journey across the country the pack of pachyderms are finally heading home.
 14. [Afghanistan: Journalist Anisa Shaheed refuses to give in to Taliban](https://www.bbc.co.uk/news/world-asia-58175088) - Anisa Shaheed fears women's freedoms will be curbed again if the Taliban come to power.
 15. [Sri Lankan teenager builds solar-powered tuk-tuk from scraps](https://www.bbc.co.uk/news/world-asia-58192468) - Piranawan, 15, from Sri Lanka spent eight months of his Covid lockdown making his eco-friendly vehicle.

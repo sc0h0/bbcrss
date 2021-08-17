@@ -1,4 +1,4 @@
-1. [Hakainde Hichilema: The Zambian 'cattle boy' who became president](https://www.bbc.co.uk/news/world-africa-58229710) - After six attempts, Hakainde Hichilema has finally become president of Zambia.
+1. [Taliban takeover: Uganda to take in 2,000 Afghan refugees](https://www.bbc.co.uk/news/world-africa-58236663) - Two-thousand Afghans will be taken in following a request from the US, the refugee minister says.
 2. [Uganda anti-pornography law dropped after backlash](https://www.bbc.co.uk/news/world-africa-58235637) - Legislation branded the "anti-miniskirt" law is annulled by Uganda's Constitutional Court.
 3. [Nigeria's Kano state moves to ban mannequin heads on Islamic grounds](https://www.bbc.co.uk/news/world-africa-58175709) - The Islamic police in Kano, Nigeria, say shop dummies with heads symbolise "idolatry" and are banned.
 4. [Zambia election: Hakainde Hichilema beats President Edgar Lungu](https://www.bbc.co.uk/news/world-africa-58226695) - Hakainde Hichilema wins a landslide at his sixth attempt, as President Edgar Lungu accepts defeat.

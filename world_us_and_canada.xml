@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 17 Aug 2021 12:04:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Aug 2021 12:48:44 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -28,6 +28,13 @@
             <link>https://www.bbc.co.uk/news/58243158</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/58243158</guid>
             <pubDate>Tue, 17 Aug 2021 11:41:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Afghanistan crisis: How America watched as Taliban 'won' the war]]></title>
+            <description><![CDATA[US military veterans and Afghan Americans reflect on a dramatic day - and the two-decade conflict.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-58245056</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-58245056</guid>
+            <pubDate>Tue, 17 Aug 2021 12:40:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why is the Taliban's Kabul victory being compared to the fall of Saigon?]]></title>
@@ -51,13 +58,6 @@
             <pubDate>Mon, 16 Aug 2021 23:13:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[US increases food stamp aid for poorer Americans]]></title>
-            <description><![CDATA[The increase of about $36 (£26) per person, per month, is the largest in the programme's history.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-58235165</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-58235165</guid>
-            <pubDate>Mon, 16 Aug 2021 16:01:05 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA['New York vaccine mandate could destroy my restaurant']]></title>
             <description><![CDATA[City residents need to be jabbed to use restaurants, gyms and theatres - and businesses are worried.]]></description>
             <link>https://www.bbc.co.uk/news/business-58204471</link>
@@ -65,11 +65,11 @@
             <pubDate>Mon, 16 Aug 2021 14:49:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Canada election: Trudeau calls snap summer campaign]]></title>
-            <description><![CDATA[As Prime Minister Justin Trudeau goes to the polls two years early, here's what you need to know.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-58209031</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-58209031</guid>
-            <pubDate>Sun, 15 Aug 2021 16:58:40 GMT</pubDate>
+            <title><![CDATA[US increases food stamp aid for poorer Americans]]></title>
+            <description><![CDATA[The increase of about $36 (£26) per person, per month, is the largest in the programme's history.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-58235165</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-58235165</guid>
+            <pubDate>Mon, 16 Aug 2021 16:01:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Afghanistan: Will it become haven for terror with the Taliban in power?]]></title>
@@ -77,6 +77,13 @@
             <link>https://www.bbc.co.uk/news/world-asia-58232041</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58232041</guid>
             <pubDate>Mon, 16 Aug 2021 23:18:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What you need to know about Canada's snap election]]></title>
+            <description><![CDATA[As Prime Minister Justin Trudeau goes to the polls two years early, here's what you need to know.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-58209031</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-58209031</guid>
+            <pubDate>Sun, 15 Aug 2021 16:58:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['How I found out my dad was a best-selling sex writer']]></title>
