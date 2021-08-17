@@ -1,4 +1,4 @@
-1. [Afghan women to have rights within Islamic law, Taliban says](https://www.bbc.co.uk/news/world-asia-58249952) - The militant group, which has taken control of Afghanistan, is pressed on fears over women's freedoms.
+1. [Afghan women to have rights within Islamic law, Taliban say](https://www.bbc.co.uk/news/world-asia-58249952) - The militant group, which has taken control of Afghanistan, is pressed on fears over women's freedoms.
 2. [Uncertain times ahead for Afghan women](https://www.bbc.co.uk/news/world-asia-58244017) - After the Taliban takeover, it is not yet clear how women will fare with the militants in power.
 3. [Afghanistan: Will it become haven for terror with the Taliban in power?](https://www.bbc.co.uk/news/world-asia-58232041) - The Taliban are back, 20 years after being ousted for supporting terror groups. Will they do the same?
 4. [Afghanistan: Striking image captures Kabul exodus](https://www.bbc.co.uk/news/world-asia-58242733) - A photo appears to show hundreds of Afghans packed on a US military plane as they flee the Taliban.

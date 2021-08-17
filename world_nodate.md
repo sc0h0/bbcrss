@@ -1,4 +1,4 @@
-1. [Afghan women to have rights within Islamic law, Taliban says](https://www.bbc.co.uk/news/world-asia-58249952) - The militant group, which has taken control of Afghanistan, is pressed on fears over women's freedoms.
+1. [Afghan women to have rights within Islamic law, Taliban say](https://www.bbc.co.uk/news/world-asia-58249952) - The militant group, which has taken control of Afghanistan, is pressed on fears over women's freedoms.
 2. [Uncertain times ahead for Afghan women](https://www.bbc.co.uk/news/world-asia-58244017) - After the Taliban takeover, it is not yet clear how women will fare with the militants in power.
 3. [France wildfire: Thousands evacuated as blaze rages near Riviera](https://www.bbc.co.uk/news/world-europe-58243066) - Firefighters clear campsites in the Var region as some 5,000 hectares are destroyed by fire.
 4. [Sudoku: Maki Kaji, puzzle enthusiast, dies aged 69](https://www.bbc.co.uk/news/world-asia-58243126) - The Japanese puzzle enthusiast helped popularise the number game, leading to its global success.
