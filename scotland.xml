@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 17 Aug 2021 07:32:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Aug 2021 07:42:33 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -275,18 +275,25 @@
             <pubDate>Fri, 13 Aug 2021 09:43:02 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Martin Boyle: Hibs turn down Aberdeen's £500,000 bid for winger]]></title>
+            <description><![CDATA[Hibernian have turned down a bid of £500,000 from Aberdeen for winger Martin Boyle.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58241478</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58241478</guid>
+            <pubDate>Tue, 17 Aug 2021 07:33:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Scottish Gossip: Kamara, Rangers, Juranovic, Celtic, Hibs, Aberdeen, Ross County]]></title>
+            <description><![CDATA[Spartak Moscow reignite interest in Rangers midfielder as Celtic pursue right-back.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58238315</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58238315</guid>
+            <pubDate>Tue, 17 Aug 2021 06:31:14 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Cincinnati Masters: Andy Murray and Heather Watson progress but Dan Evans out]]></title>
             <description><![CDATA[Andy Murray wins his first singles match since pulling out of the individual event at the Olympics as he beats Richard Gasquet in Cincinnati.]]></description>
             <link>https://www.bbc.co.uk/sport/tennis/58241193</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/tennis/58241193</guid>
             <pubDate>Tue, 17 Aug 2021 07:05:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Scottish Gossip: Boyle, Hibs, Aberdeen, Kamara, Rangers, Juranovic, Celtic]]></title>
-            <description><![CDATA[Hibs turn down approach from Aberdeen for Martin Boyle as Celtic pursue right-back.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58238315</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58238315</guid>
-            <pubDate>Tue, 17 Aug 2021 06:31:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Glasgow City aim to maintain Euro 'reputation', says Grant Scott]]></title>
@@ -301,13 +308,6 @@
             <link>https://www.bbc.co.uk/sport/snooker/58232601</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/snooker/58232601</guid>
             <pubDate>Mon, 16 Aug 2021 18:20:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Celtic: Ange Postecoglou wants further proof of better 'football and tempo' against AZ Alkmaar]]></title>
-            <description><![CDATA[Ange Postecoglou wants further signs of improvement under his charge as Celtic host AZ Alkmaar in the Europa League play-off round.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58232604</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58232604</guid>
-            <pubDate>Mon, 16 Aug 2021 20:02:05 GMT</pubDate>
         </item>
     </channel>
 </rss>

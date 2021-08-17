@@ -4,7 +4,7 @@
 4. [Banksy-painted building in Lowestoft taken off the market](https://www.bbc.co.uk/news/uk-england-suffolk-58231399) - He is "looking at his options", believing the mural could be worth more than the property itself.
 5. [Suffolk herb factory fire: Camstar in Eye burnt out](https://www.bbc.co.uk/news/uk-england-suffolk-58240704) - Dozens of firefighters spend the night tackling the blaze that started on Monday evening.
 6. [Leeds murder police in hunt for victim's husband](https://www.bbc.co.uk/news/uk-england-leeds-58229255) - Eileen Barrott died at the scene in Whinmoor on Sunday evening and police wish to trace her husband.
-7. [From a Manchester council estate to ballet dancing in Swan Lake](https://www.bbc.co.uk/news/uk-england-manchester-58206917) - Isaac Bowry grew up on a Manchester council estate and wants to show that "dancing is for everyone".
+7. [From a Manchester council estate to ballet dancing in Swan Lake](https://www.bbc.co.uk/news/uk-england-manchester-58206917) - Isaac Bowry is from a Manchester council estate and wants to show that "dancing is for everyone".
 8. [Who were the victims?](https://www.bbc.co.uk/news/uk-58202760) - The gunman's mother, Maxine Davison, and three-year-old Sophie Martyn have been named among the dead.
 9. [Minute's silence is held for shooting victims](https://www.bbc.co.uk/news/uk-england-devon-58228401) - Five people were killed in the shooting on Thursday before Jake Davison took his own life.
 10. ['Your memories will never leave us' - notes to the victims](https://www.bbc.co.uk/news/uk-england-devon-58229935) - Flowers and heartfelt messages are placed in Keyham in memory of the five people killed.
