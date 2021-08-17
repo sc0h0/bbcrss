@@ -17,7 +17,7 @@
 17. [Would you let a robot lawyer defend you?](https://www.bbc.co.uk/news/business-58158820) - Why artificial intelligence is increasingly being used by the legal profession.
 18. [Taliban: 'We will not allow the soil of Afghanistan to be used against anyone'](https://www.bbc.co.uk/news/world-asia-58249178) - The Taliban have held their first news conference since taking control of Afghanistan.
 19. [How the Taliban seized Afghanistan again](https://www.bbc.co.uk/news/world-asia-58238023) - Taliban fighters have swept across Afghanistan taking control of towns and cities.
-20. [Afghan reporter asks Nato Secretary for help](https://www.bbc.co.uk/news/world-asia-58250062) - Lailuma Sadid, a journalist with Brussels Morning Newspaper, became emotional when asking the Nato Secretary-General about the Taliban in Afghanistan.
+20. [Afghan reporter asks Nato secretary general for help](https://www.bbc.co.uk/news/world-asia-58250062) - Lailuma Sadid, a journalist with Brussels Morning Newspaper, became emotional when asking the Nato secretary general about the Taliban in Afghanistan.
 21. [Afghanistan: Female presenters back on Tolo News after Taliban takeover](https://www.bbc.co.uk/news/world-asia-58241000) - Women had been noticeably absent from major news outlets after the Taliban took control of Afghanistan.
 22. [Images show decline of California's 'life source'](https://www.bbc.co.uk/news/world-us-canada-58232044) - Justin Sullivan has been following California's second-largest reservoir's falling water levels.
 23. [Afghanistan: 'All female staff have left my Kabul hotel'](https://www.bbc.co.uk/news/world-asia-58243134) - The BBC's Malik Mudassir says Taliban fighters are now providing security at his hotel in central Kabul.

@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 17 Aug 2021 20:57:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Aug 2021 21:16:54 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -142,6 +142,13 @@
             <pubDate>Fri, 13 Aug 2021 06:44:18 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Bristol missing mother 'may be in hiding with son, aged 10']]></title>
+            <description><![CDATA[The Bristol woman has gone missing with her 10-year-old son after care proceedings were launched.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-bristol-58249601</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-bristol-58249601</guid>
+            <pubDate>Tue, 17 Aug 2021 20:53:15 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Banksy-painted building in Lowestoft taken off the market]]></title>
             <description><![CDATA[He is "looking at his options", believing the mural could be worth more than the property itself.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-suffolk-58231399</link>
@@ -238,6 +245,13 @@
             <link>https://www.bbc.co.uk/sport/cricket/58230491</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/58230491</guid>
             <pubDate>Tue, 17 Aug 2021 17:11:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jones magic sends Phoenix into eliminator]]></title>
+            <description><![CDATA[Eve Jones stars as Birmingham Phoenix all-but secure a place in the women's Hundred eliminator with a win over Northern Superchargers.]]></description>
+            <link>https://www.bbc.co.uk/sport/cricket/58244643</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/58244643</guid>
+            <pubDate>Tue, 17 Aug 2021 17:38:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
