@@ -1,4 +1,4 @@
-1. [Afghanistan crisis: Chaos as Europeans scramble to evacuate Kabul](https://www.bbc.co.uk/news/world-europe-58256696) - Several countries rush to fly people out, as the Dutch government is criticised for reacting slowly.
+1. [Afghanistan crisis: Chaos at Kabul airport amid scramble to evacuate](https://www.bbc.co.uk/news/world-europe-58256696) - Western countries are racing to evacuate their citizens and Afghans following the Taliban takeover.
 2. [Lithuania says Belarus officers illegally pushed migrants over border](https://www.bbc.co.uk/news/world-europe-58255448) - Video shows 12 Belarusian officers in riot gear as migrants scramble towards Lithuanian territory.
 3. [I don't believe Taliban pledge on women's rights, Priti Patel says](https://www.bbc.co.uk/news/uk-58250211) - The bulk of Afghans resettled in the UK will be persecuted minorities, the home secretary says.
 4. [Teenage pilot Zara Rutherford begins solo round-world record bid](https://www.bbc.co.uk/news/uk-england-hampshire-58256386) - Zara Rutherford completes the first leg of her journey from Belgium to England.

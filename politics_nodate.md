@@ -4,7 +4,7 @@
 4. [Covid: Most Conservative MPs ditch masks as Commons returns](https://www.bbc.co.uk/news/uk-politics-58259604) - Mask wearing appears to divide along party lines, during a packed debate on Afghanistan.
 5. [I don't believe Taliban pledge on women's rights, Priti Patel says](https://www.bbc.co.uk/news/uk-58250211) - The bulk of Afghans resettled in the UK will be persecuted minorities, the home secretary says.
 6. [Some Scots Covid powers 'could be made permanent'](https://www.bbc.co.uk/news/uk-scotland-scotland-politics-58244323) - Scottish ministers say some changes made during the pandemic had a "demonstrable benefit" to the public.
-7. [Afghanistan crisis: Chaos as Europeans scramble to evacuate Kabul](https://www.bbc.co.uk/news/world-europe-58256696) - Several countries rush to fly people out, as the Dutch government is criticised for reacting slowly.
+7. [Afghanistan crisis: Chaos at Kabul airport amid scramble to evacuate](https://www.bbc.co.uk/news/world-europe-58256696) - Western countries are racing to evacuate their citizens and Afghans following the Taliban takeover.
 8. [Scottish public spending deficit doubles to £36bn](https://www.bbc.co.uk/news/uk-scotland-58256028) - Spending on public services rose to almost £100bn as revenue fell due to the Covid pandemic.
 9. [Gurkha back at Downing Street hunger strike after being taken ill](https://www.bbc.co.uk/news/uk-england-hampshire-58254634) - Former Gurkha soldier Dhan Gurung returns to a protest over pensions after a health scare.
 10. [Plaid Cymru: Ex-leader no longer friends with successor](https://www.bbc.co.uk/news/uk-wales-politics-58159654) - Leanne Wood says Adam Price made "a bad judgement call" in the timing of his leadership challenge.

@@ -1,4 +1,4 @@
-1. [Afghanistan crisis: Chaos as Europeans scramble to evacuate Kabul](https://www.bbc.co.uk/news/world-europe-58256696) - Several countries rush to fly people out, as the Dutch government is criticised for reacting slowly.
+1. [Afghanistan crisis: Chaos at Kabul airport amid scramble to evacuate](https://www.bbc.co.uk/news/world-europe-58256696) - Western countries are racing to evacuate their citizens and Afghans following the Taliban takeover.
 2. [Afghanistan President Ashraf Ghani in UAE, officials say](https://www.bbc.co.uk/news/world-asia-58260902) - The UAE says it has welcomed the president and his family on humanitarian grounds.
 3. [Israel extends Covid restrictions to three-year-olds as cases surge](https://www.bbc.co.uk/news/world-middle-east-58245285) - Young children must show proof of a negative test to enter many indoor spaces, as infections surge.
 4. [Lithuania says Belarus officers illegally pushed migrants over border](https://www.bbc.co.uk/news/world-europe-58255448) - Video shows 12 Belarusian officers in riot gear as migrants scramble towards Lithuanian territory.
