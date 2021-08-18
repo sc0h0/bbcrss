@@ -11,16 +11,23 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 18 Aug 2021 10:47:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Aug 2021 11:06:10 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Lithuania says Belarus officers illegally pushed migrants over border]]></title>
+            <description><![CDATA[Video shows 12 Belarusian officers in riot gear as migrants scramble towards Lithuanian territory.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58255448</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58255448</guid>
+            <pubDate>Wed, 18 Aug 2021 10:52:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[I don't believe Taliban pledge on women's rights, Priti Patel says]]></title>
             <description><![CDATA[The bulk of Afghans resettled in the UK will be persecuted minorities, the home secretary says.]]></description>
             <link>https://www.bbc.co.uk/news/uk-58250211</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58250211</guid>
-            <pubDate>Wed, 18 Aug 2021 10:16:53 GMT</pubDate>
+            <pubDate>Wed, 18 Aug 2021 10:51:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Afghan reporter asks Nato secretary general for help]]></title>
@@ -28,6 +35,13 @@
             <link>https://www.bbc.co.uk/news/world-asia-58250062</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58250062</guid>
             <pubDate>Tue, 17 Aug 2021 16:10:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Teenage pilot Zara Rutherford begins solo round-world record bid]]></title>
+            <description><![CDATA[Zara Rutherford completes the first leg of her journey from Belgium to England.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-hampshire-58256386</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-hampshire-58256386</guid>
+            <pubDate>Wed, 18 Aug 2021 10:45:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[France wildfire: Thousands evacuated as blaze rages near Riviera]]></title>
@@ -49,20 +63,6 @@
             <link>https://www.bbc.co.uk/sport/football/58252684</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58252684</guid>
             <pubDate>Tue, 17 Aug 2021 22:37:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Afghanistan: Former football captain fears for players left behind]]></title>
-            <description><![CDATA[Ex-Afghanistan captain Khalida Popal told BBC Sport her former colleagues in the country are fearing for their lives.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58243348</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58243348</guid>
-            <pubDate>Tue, 17 Aug 2021 16:14:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Plea for military to attend funeral of Shropshire veteran]]></title>
-            <description><![CDATA[Wilfred Dawson, 99, served as a wireless operator with RAF Bomber Command.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-shropshire-58242816</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-shropshire-58242816</guid>
-            <pubDate>Wed, 18 Aug 2021 05:06:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Peter Karlsson: The painful verdict on Swedish ice hockey player's 1995 killing]]></title>
