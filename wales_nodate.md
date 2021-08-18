@@ -21,8 +21,8 @@
 21. [One-Day Cup: Unchanged Glamorgan bid for first final glory](https://www.bbc.co.uk/sport/cricket/58260614) - Glamorgan will choose from an unchanged squad as they bid for their first ever limited-overs final win in Thursday's One-Day Cup climax against Durham.
 22. [Jake Bidwell: Middlesbrough target Swansea defender](https://www.bbc.co.uk/sport/football/58254196) - Middlesbrough enquire about a move for Swansea City defender Jake Bidwell.
 23. [Elfyn Evans: Welshman faces 'uphill struggle' in WRC title bid](https://www.bbc.co.uk/sport/motorsport/58259800) - Elfyn Evans says it is unlikely he will win the 2021 World Rally Championship after finishing fourth in Belgium's Rally Ypres.
-24. [Cyhuddo dynes o lofruddio ei mab ym Mhen-y-bont](https://www.bbc.co.uk/newyddion/58255910) - Bu farw Reid Steele yn dilyn digwyddiad yn ardal Broadlands y dref ar 11 Awst.
-25. [Afghanistan: 'Angen gweithredu nawr' ar ailgartrefu pobl](https://www.bbc.co.uk/newyddion/58246445) - Galw ar Lywodraeth y DU i weithredu'n gyflym i roi lloches i bobl sy'n ffoi o Afghanistan.
-26. [Leanne Wood ac Adam Price 'ddim yn ffrindiau ers blynyddoedd'](https://www.bbc.co.uk/newyddion/58234858) - Dywed cyn-arweinydd Plaid Cymru fod yr amseru i'w herio am yr arweinyddiaeth yn "wael" ar ran ei holynydd.
+24. [Aelod blaenllaw'n galw am newid arweinydd Plaid Cymru](https://www.bbc.co.uk/newyddion/58260766) - Cyn-Gomisiynydd Heddlu a Throsedd Plaid Cymru'n dweud ei bod yn "amser newid arweinydd" y blaid.
+25. [Cyhuddo dynes o lofruddio ei mab ym Mhen-y-bont](https://www.bbc.co.uk/newyddion/58255910) - Bu farw Reid Steele yn dilyn digwyddiad yn ardal Broadlands y dref ar 11 Awst.
+26. [Afghanistan: 'Angen gweithredu nawr' ar ailgartrefu pobl](https://www.bbc.co.uk/newyddion/58246445) - Galw ar Lywodraeth y DU i weithredu'n gyflym i roi lloches i bobl sy'n ffoi o Afghanistan.
 27. [Uchafbwyntiau cwarantîn Gwenno Rees](https://www.bbc.co.uk/newyddion/58261015) - Bu'n rhaid i Gwenno hunan-ynysu mewn gwesty yn Llundain ar ôl teithio adref o Tanzania.
 28. [Sut y daeth sêr Hollywood yn berchnogion Wrecsam](https://www.bbc.co.uk/newyddion/58186778) - Yr hanes y tu ôl i Ryan Reynolds a Rob McElhenney yn prynu clwb pêl-droed hynaf Cymru.
