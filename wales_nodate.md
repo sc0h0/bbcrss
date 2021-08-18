@@ -3,11 +3,11 @@
 3. [Plaid Cymru: Ex-leader no longer friends with successor](https://www.bbc.co.uk/news/uk-wales-politics-58159654) - Leanne Wood says Adam Price made "a bad judgement call" in the timing of his leadership challenge.
 4. [Man who died after Glynneath waterfall difficulties named](https://www.bbc.co.uk/news/uk-wales-58258786) - Hemanta Kumar Rai, 28, had been at the fall with friends and died at the scene.
 5. [Porthcawl dementia patient missing for 30 hours found in ditch](https://www.bbc.co.uk/news/uk-wales-58254835) - Joseph Hughes was found by an off-duty officer named Amy after going missing from his care home.
-6. [Post Office scandal: Cleared sub-postmaster's compensation imminent, lawyer says](https://www.bbc.co.uk/news/uk-wales-58233304) - Noel Thomas is one of dozens to have their false accounting convictions quashed.
+6. [Afghanistan: Taliban must not be treated as pariahs, says Lord Hain](https://www.bbc.co.uk/news/uk-wales-politics-58260263) - Countries must incentivise the new rulers not to return to "bad old ways", says Lord Hain.
 7. [Plea to respect Stonehenge research sites in Pembrokeshire](https://www.bbc.co.uk/news/uk-wales-58247235) - A BBC documentary has attracted more visitors to the ancient monuments, a national park says.
-8. [Mental health: Better support needed in Wales, charity says](https://www.bbc.co.uk/news/uk-wales-58247704) - Melissa Rose, 22, says she has felt "cut off", with calls and emails not returned.
-9. [Pembrokeshire County Show: Animals and members only on return](https://www.bbc.co.uk/news/uk-wales-58246688) - In a normal year 100,000 people would attend - but this time only members and animals can come.
-10. [Afghanistan: Refugees should be housed 'in all parts' of UK](https://www.bbc.co.uk/news/uk-wales-58246941) - Welsh councils have so far agreed to house at least 24 families fleeing Afghanistan.
+8. [Post Office scandal: Cleared sub-postmaster's compensation imminent, lawyer says](https://www.bbc.co.uk/news/uk-wales-58233304) - Noel Thomas is one of dozens to have their false accounting convictions quashed.
+9. [Mental health: Better support needed in Wales, charity says](https://www.bbc.co.uk/news/uk-wales-58247704) - Melissa Rose, 22, says she has felt "cut off", with calls and emails not returned.
+10. [Pembrokeshire County Show: Animals and members only on return](https://www.bbc.co.uk/news/uk-wales-58246688) - In a normal year 100,000 people would attend - but this time only members and animals can come.
 11. [Art: Paintings by Sir Kyffin Williams sell for £42,900](https://www.bbc.co.uk/news/uk-wales-58243611) - The artworks, by one of Wales' most renowned artists, are described as "a truly wonderful find".
 12. [Pembrokeshire woman injured in American bulldog attack](https://www.bbc.co.uk/news/uk-wales-58248554) - The dog has been put down and police have launched an investigation.
 13. [Afghanistan: Man who fled Taliban fears for family](https://www.bbc.co.uk/news/uk-wales-58248562) - Mohammed has not been able to contact his relatives since the Taliban seized control of Afghanistan.
@@ -24,5 +24,5 @@
 24. [Cyhuddo dynes o lofruddio bachgen ym Mhen-y-bont](https://www.bbc.co.uk/newyddion/58255910) - Bu farw Reid Steele yn dilyn digwyddiad yn ardal Broadlands y dref ar 11 Awst.
 25. [Afghanistan: 'Angen gweithredu nawr' ar ailgartrefu pobl](https://www.bbc.co.uk/newyddion/58246445) - Galw ar Lywodraeth y DU i weithredu'n gyflym i roi lloches i bobl sy'n ffoi o Afghanistan.
 26. [Leanne Wood ac Adam Price 'ddim yn ffrindiau ers blynyddoedd'](https://www.bbc.co.uk/newyddion/58234858) - Dywed cyn-arweinydd Plaid Cymru fod yr amseru i'w herio am yr arweinyddiaeth yn "wael" ar ran ei holynydd.
-27. [Dyddiadur hunan-ynysu Gwenno Rees](https://www.bbc.co.uk/newyddion/58261015) - Bu'n rhaid i Gwenno hunan-ynysu mewn gwesty yn Llundain ar ôl teithio adref o Tanzania.
+27. [Uchafbwyntiau cwarantîn Gwenno Rees](https://www.bbc.co.uk/newyddion/58261015) - Bu'n rhaid i Gwenno hunan-ynysu mewn gwesty yn Llundain ar ôl teithio adref o Tanzania.
 28. [Sut y daeth sêr Hollywood yn berchnogion Wrecsam](https://www.bbc.co.uk/newyddion/58186778) - Yr hanes y tu ôl i Ryan Reynolds a Rob McElhenney yn prynu clwb pêl-droed hynaf Cymru.

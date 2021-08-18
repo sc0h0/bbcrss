@@ -1,4 +1,4 @@
-1. [R Kelly sexual abuse trial underway in New York](https://www.bbc.co.uk/news/entertainment-arts-58254151) - The singer is accused of sexual abuse, racketeering and bribery; charges which he has denied.
+1. [R Kelly sexual abuse trial under way in New York](https://www.bbc.co.uk/news/entertainment-arts-58254151) - The singer is accused of sexual abuse, racketeering and bribery; charges which he has denied.
 2. [Colorado River: First-ever shortage declared amid record US drought](https://www.bbc.co.uk/news/world-us-canada-58248634) - Historic droughts have led to water supply cuts on a river millions in the US and Mexico rely on.
 3. [California man sues after being startled by dumpster-diving bear](https://www.bbc.co.uk/news/world-us-canada-58250366) - A dumpster-diving bear allegedly "startled" the man and caused him to fall and hurt himself.
 4. [US lab stands on threshold of key nuclear fusion goal](https://www.bbc.co.uk/news/science-environment-58252784) - A US science institute is on the verge of achieving a longstanding goal in nuclear fusion research.
