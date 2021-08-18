@@ -1,7 +1,7 @@
 1. [Plymouth shooting: Review of Devon and Cornwall Police firearms procedure](https://www.bbc.co.uk/news/uk-england-devon-58257497) - The inquiry into Devon and Cornwall Police follows a mass shooting in Plymouth.
 2. [Woodmancote shootings: Twin's gun law anger after family deaths](https://www.bbc.co.uk/news/uk-england-birmingham-58245137) - Rob Needham is thought to have killed partner Kelly Fitzgibbons and their daughters, then himself.
 3. [Silverdale quarry smell: High Court legal challenge over noxious gas](https://www.bbc.co.uk/news/uk-england-stoke-staffordshire-58245841) - The family of a boy with breathing difficulties who live near the landfill has brought the case.
-4. [Austin Mitchell: Former Great Grimsby MP dies aged 86](https://www.bbc.co.uk/news/uk-england-humber-58257189) - Labour leader Sir Keir Starmer leads tributes, saying Mr Mitchell served "with remarkable commitment".
+4. [Austin Mitchell: Former Great Grimsby MP dies aged 86](https://www.bbc.co.uk/news/uk-england-humber-58257189) - Labour leader Keir Starmer leads tributes, saying Mr Mitchell served "with remarkable commitment".
 5. [Amazon Alexa: Woman used smart speaker to tell ex's lover to go](https://www.bbc.co.uk/news/uk-england-lincolnshire-58243709) - Phillipa Copleston-Warren accessed her ex-partner's Alexa app and posted a naked photo of him.
 6. [Stratford death: Woman falls from building after man arrested](https://www.bbc.co.uk/news/uk-england-london-58254392) - The Met informed the police watchdog as an arrest was made one hour earlier in the same building.
 7. [Teenage pilot Zara Rutherford begins solo round-world record bid](https://www.bbc.co.uk/news/uk-england-hampshire-58256386) - Zara Rutherford completes the first leg of her journey from Belgium to England.
@@ -20,7 +20,7 @@
 20. [Eileen Barrott murder: Husband traced to Elgin](https://www.bbc.co.uk/news/uk-england-leeds-58254147) - Mark Barrott is wanted by police in connection with his wife's death in Leeds at the weekend.
 21. [Southend rescue: Boy among seven people saved by coastguard](https://www.bbc.co.uk/news/uk-england-essex-58255010) - The coastguard was called to reports a group of people, including a 10-year-old boy, were stranded.
 22. [Gurkha back at Downing Street hunger strike after being taken ill](https://www.bbc.co.uk/news/uk-england-hampshire-58254634) - Former Gurkha soldier Dhan Gurung returns to a protest over pensions after a health scare.
-23. [York Minster unveils Queen's jubilee statue design](https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-58254141) - The statue will feature the sovereign wearing her Garter robes along with the orb and sceptre, the Minster says.
+23. [Bradford mother jailed after 'home alone' son killed by car](https://www.bbc.co.uk/news/uk-england-leeds-58257183) - Wendy Hall left her seven-year-old son at their home in Bradford while she visited her partner.
 24. [Dog stolen from kennels six months ago found during police raid](https://www.bbc.co.uk/news/uk-england-derbyshire-58257485) - Rummy, one of eight dogs stolen from a kennels in Derbyshire, is found in Leicestershire.
 25. [Pub car park 'rifle' arrest caught on film](https://www.bbc.co.uk/news/uk-england-norfolk-58258077) - Bodycam footage shows the response of armed police to reports of a man making threats with a rifle.
 26. [Tokyo 2020: West Midlands boxers reflect on Olympic Games](https://www.bbc.co.uk/news/uk-england-birmingham-58259342) - The three boxers from the West Midlands have fond memories of their time in Tokyo and medal wins.

@@ -1,6 +1,6 @@
 1. [The White Lotus: HBO comedy-drama attracts rave reviews from critics](https://www.bbc.co.uk/news/entertainment-arts-58254855) - The HBO comedy-drama, which began in the UK on Monday, has received several five-star reviews.
 2. [Sean Lock: Comedian and 8 Out of 10 Cats captain dies aged 58](https://www.bbc.co.uk/news/entertainment-arts-58254859) - The comedy panel show favourite was best known as a team captain on the series 8 Out of 10 Cats.
-3. [R Kelly trial set to begin in New York](https://www.bbc.co.uk/news/entertainment-arts-58254151) - The singer is accused of racketeering, sexual abuse and bribery; charges which he has denied.
+3. [R Kelly sexual abuse trial underway in New York](https://www.bbc.co.uk/news/entertainment-arts-58254151) - The singer is accused of sexual abuse, racketeering and bribery; charges which he has denied.
 4. [Lady Leshurr: Rapper used lockdown to focus on mental health](https://www.bbc.co.uk/news/uk-england-birmingham-58256836) - The 32-year-old says life sometimes feels like a running machine at the gym with no stop button.
 5. [Nubya Garcia: The British sax star who is jazzing up the BBC Proms](https://www.bbc.co.uk/news/entertainment-arts-58112962) - Saxophonist Nubya Garcia on playing Royal Albert Hall, the Mercury Prize and "natural vibrations".
 6. [Lily Cole: Model apologises for posing in a burka on Instagram](https://www.bbc.co.uk/news/entertainment-arts-58245304) - The model and activist posted a picture of herself in a burka as a way to "embrace diversity".
