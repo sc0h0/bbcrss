@@ -1,6 +1,6 @@
 1. [Afghan women to have rights within Islamic law, Taliban say](https://www.bbc.co.uk/news/world-asia-58249952) - The militant group, which has taken control of Afghanistan, is pressed on fears over women's freedoms.
 2. [Afghanistan: Mysterious Taliban spokesman finally shows his face](https://www.bbc.co.uk/news/world-asia-58250607) - The spokesman has appeared in public for the first time. But is there more than one Zabihullah Mujahid?
-3. [The Taliban's victory will test India, and peace in South Asia](https://www.bbc.co.uk/news/world-asia-india-58240301) - How India engages with the Taliban after their rout of Afghanistan could determine the region's fate.
+3. [Afghanistan: The Taliban's victory will test India, and peace in South Asia](https://www.bbc.co.uk/news/world-asia-india-58240301) - How India engages with the Taliban after their rout of Afghanistan could determine the region's fate.
 4. [Afghanistan: What's the impact of Taliban's return on international order?](https://www.bbc.co.uk/news/world-us-canada-58248864) - What is the diplomatic fallout and how allies and rivals are looking at the US following the Taliban takeover?
 5. [Sudoku: Maki Kaji, puzzle enthusiast, dies aged 69](https://www.bbc.co.uk/news/world-asia-58243126) - The Japanese puzzle enthusiast helped popularise the number game, leading to its global success.
 6. [Afghan bank governor flees saying country left in chaos](https://www.bbc.co.uk/news/business-58230941) - Afghanistan's central banker Ajmal Ahmady says he tried to maintain calm before fleeing crowds and gunshots.
