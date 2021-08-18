@@ -1,5 +1,5 @@
 1. [Afghanistan crisis: Chaos at Kabul airport amid scramble to evacuate](https://www.bbc.co.uk/news/world-europe-58256696) - Western countries are racing to evacuate their citizens and Afghans following the Taliban takeover.
-2. [Afghanistan President Ashraf Ghani in UAE, officials say](https://www.bbc.co.uk/news/world-asia-58260902) - The UAE says it has welcomed the president and his family on humanitarian grounds.
+2. [Ashraf Ghani: Afghanistan's exiled president lands in UAE](https://www.bbc.co.uk/news/world-asia-58260902) - The UAE says it has welcomed the president and his family on humanitarian grounds.
 3. [Israel extends Covid restrictions to three-year-olds as cases surge](https://www.bbc.co.uk/news/world-middle-east-58245285) - Young children must show proof of a negative test to enter many indoor spaces, as infections surge.
 4. [Lithuania says Belarus officers illegally pushed migrants over border](https://www.bbc.co.uk/news/world-europe-58255448) - Video shows 12 Belarusian officers in riot gear as migrants scramble towards Lithuanian territory.
 5. [Haiti earthquake: Death toll reaches nearly 2,000](https://www.bbc.co.uk/news/world-latin-america-58187979) - A few dozen survivors have been pulled alive from under the rubble but many are still feared trapped.
@@ -23,6 +23,6 @@
 23. [Taliban: 'We will not allow the soil of Afghanistan to be used against anyone'](https://www.bbc.co.uk/news/world-asia-58249178) - The Taliban have held their first news conference since taking control of Afghanistan.
 24. ['It was very emotional on the plane out of Afghanistan'](https://www.bbc.co.uk/news/uk-58256816) - Afghan businesswoman Hassina Syed speaks of her relief at getting out on a British military plane.
 25. [Afghanistan: 'All female staff have left my Kabul hotel'](https://www.bbc.co.uk/news/world-asia-58243134) - The BBC's Malik Mudassir says Taliban fighters are now providing security at his hotel in central Kabul.
-26. [Afghanistan: Hard lessons to be learned for Nato, says Stoltenberg](https://www.bbc.co.uk/news/world-asia-58255406) - It was a tragedy Afghan security forces collapsed so fast, secretary general Jens Stoltenberg says.
-27. [Afghanistan: Mysterious Taliban spokesman finally shows his face](https://www.bbc.co.uk/news/world-asia-58250607) - The spokesman has appeared in public for the first time. But is there more than one Zabihullah Mujahid?
-28. [Afghanistan: Female Kabul resident fears for future under Taliban](https://www.bbc.co.uk/news/world-asia-58252014) - A woman shares her story of the day the Taliban arrived - and why she has lost all hope.
+26. [Afghanistan: 'I feel lucky to leave but we must not forget those left behind'](https://www.bbc.co.uk/news/uk-58259520) - The UK government says 306 UK nationals and 2,052 Afghans have been flown out of the country so far.
+27. [Afghanistan: Hard lessons to be learned for Nato, says Stoltenberg](https://www.bbc.co.uk/news/world-asia-58255406) - It was a tragedy Afghan security forces collapsed so fast, secretary general Jens Stoltenberg says.
+28. [Afghanistan: Mysterious Taliban spokesman finally shows his face](https://www.bbc.co.uk/news/world-asia-58250607) - The spokesman has appeared in public for the first time. But is there more than one Zabihullah Mujahid?

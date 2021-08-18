@@ -1,5 +1,5 @@
 1. [Israel extends Covid restrictions to three-year-olds as cases surge](https://www.bbc.co.uk/news/world-middle-east-58245285) - Young children must show proof of a negative test to enter many indoor spaces, as infections surge.
-2. [Afghanistan President Ashraf Ghani in UAE, officials say](https://www.bbc.co.uk/news/world-asia-58260902) - The UAE says it has welcomed the president and his family on humanitarian grounds.
+2. [Ashraf Ghani: Afghanistan's exiled president lands in UAE](https://www.bbc.co.uk/news/world-asia-58260902) - The UAE says it has welcomed the president and his family on humanitarian grounds.
 3. [Israel battles huge wildfire near Jerusalem](https://www.bbc.co.uk/news/world-middle-east-58243631) - The blaze has destroyed some 2,000 hectares (5,000 acres) of forest over the past three days.
 4. [Four Palestinians killed in clashes during Israeli raid](https://www.bbc.co.uk/news/world-middle-east-58228621) - A firefight broke out during an undercover police operation in the occupied West Bank.
 5. [Lebanon deadly petrol tank blast sparks protest at PM-designate's home](https://www.bbc.co.uk/news/world-middle-east-58229183) - Protesters attack the PM-designate's home after 27 people are killed while queueing for fuel.

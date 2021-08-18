@@ -1,4 +1,4 @@
-1. [Afghanistan President Ashraf Ghani in UAE, officials say](https://www.bbc.co.uk/news/world-asia-58260902) - Wed, 18 Aug 2021 17:52:36 GMT - The UAE says it has welcomed the president and his family on humanitarian grounds.
+1. [Ashraf Ghani: Afghanistan's exiled president lands in UAE](https://www.bbc.co.uk/news/world-asia-58260902) - Wed, 18 Aug 2021 20:21:01 GMT - The UAE says it has welcomed the president and his family on humanitarian grounds.
 2. ['It was very emotional on the plane out of Afghanistan'](https://www.bbc.co.uk/news/uk-58256816) - Wed, 18 Aug 2021 09:49:01 GMT - Afghan businesswoman Hassina Syed speaks of her relief at getting out on a British military plane.
 3. [Apple censors engraving service, report claims](https://www.bbc.co.uk/news/technology-58258385) - Wed, 18 Aug 2021 17:17:25 GMT - Apple restricts the engraving of political phrases in China, Hong Kong and Taiwan, a report alleges.
 4. [Afghan women to have rights within Islamic law, Taliban say](https://www.bbc.co.uk/news/world-asia-58249952) - Tue, 17 Aug 2021 20:32:47 GMT - The militant group, which has taken control of Afghanistan, is pressed on fears over women's freedoms.

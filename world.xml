@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 18 Aug 2021 19:47:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Aug 2021 20:21:39 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -23,11 +23,11 @@
             <pubDate>Wed, 18 Aug 2021 19:32:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Afghanistan President Ashraf Ghani in UAE, officials say]]></title>
+            <title><![CDATA[Ashraf Ghani: Afghanistan's exiled president lands in UAE]]></title>
             <description><![CDATA[The UAE says it has welcomed the president and his family on humanitarian grounds.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-58260902</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58260902</guid>
-            <pubDate>Wed, 18 Aug 2021 17:52:36 GMT</pubDate>
+            <pubDate>Wed, 18 Aug 2021 20:21:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Israel extends Covid restrictions to three-year-olds as cases surge]]></title>
@@ -191,6 +191,13 @@
             <pubDate>Tue, 17 Aug 2021 16:08:54 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Afghanistan: 'I feel lucky to leave but we must not forget those left behind']]></title>
+            <description><![CDATA[The UK government says 306 UK nationals and 2,052 Afghans have been flown out of the country so far.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-58259520</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58259520</guid>
+            <pubDate>Wed, 18 Aug 2021 19:55:48 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Afghanistan: Hard lessons to be learned for Nato, says Stoltenberg]]></title>
             <description><![CDATA[It was a tragedy Afghan security forces collapsed so fast, secretary general Jens Stoltenberg says.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-58255406</link>
@@ -203,13 +210,6 @@
             <link>https://www.bbc.co.uk/news/world-asia-58250607</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58250607</guid>
             <pubDate>Tue, 17 Aug 2021 21:27:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Afghanistan: Female Kabul resident fears for future under Taliban]]></title>
-            <description><![CDATA[A woman shares her story of the day the Taliban arrived - and why she has lost all hope.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58252014</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58252014</guid>
-            <pubDate>Tue, 17 Aug 2021 19:57:39 GMT</pubDate>
         </item>
     </channel>
 </rss>

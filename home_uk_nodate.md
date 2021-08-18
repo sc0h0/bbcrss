@@ -1,5 +1,5 @@
 1. [MPs on all sides accuse Boris Johnson of Afghanistan failures](https://www.bbc.co.uk/news/uk-politics-58254794) - The PM says the UK achieved its goals - but MPs accuse him of failing Afghans and British veterans.
-2. [Afghanistan President Ashraf Ghani in UAE, officials say](https://www.bbc.co.uk/news/world-asia-58260902) - The UAE says it has welcomed the president and his family on humanitarian grounds.
+2. [Ashraf Ghani: Afghanistan's exiled president lands in UAE](https://www.bbc.co.uk/news/world-asia-58260902) - The UAE says it has welcomed the president and his family on humanitarian grounds.
 3. [Afghanistan crisis: Chaos at Kabul airport amid scramble to evacuate](https://www.bbc.co.uk/news/world-europe-58256696) - Western countries are racing to evacuate their citizens and Afghans following the Taliban takeover.
 4. [R. Kelly called a 'predator' as sex abuse trial begins](https://www.bbc.co.uk/news/entertainment-arts-58254151) - The singer is accused of sexual abuse, racketeering and bribery; charges which he has denied.
 5. [Afghanistan: 'I feel lucky to leave but we must not forget those left behind'](https://www.bbc.co.uk/news/uk-58259520) - The UK government says 306 UK nationals and 2,052 Afghans have been flown out of the country so far.
