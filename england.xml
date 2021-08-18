@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 18 Aug 2021 12:10:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Aug 2021 12:42:07 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -23,11 +23,32 @@
             <pubDate>Wed, 18 Aug 2021 10:37:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Plymouth shooting: Church service for victims]]></title>
-            <description><![CDATA[The service remembers five people killed in a mass shooting in the Keyham area of the city.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-devon-58254573</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-devon-58254573</guid>
-            <pubDate>Wed, 18 Aug 2021 11:26:47 GMT</pubDate>
+            <title><![CDATA[Woodmancote shootings: Twin's gun law anger after family deaths]]></title>
+            <description><![CDATA[Rob Needham is thought to have killed partner Kelly Fitzgibbons and their daughters, then himself.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-birmingham-58245137</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-birmingham-58245137</guid>
+            <pubDate>Wed, 18 Aug 2021 12:05:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Plymouth shooting: Review of Devon and Cornwall Police firearms procedure]]></title>
+            <description><![CDATA[The inquiry into Devon and Cornwall Police follows a mass shooting in Plymouth.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-devon-58257497</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-devon-58257497</guid>
+            <pubDate>Wed, 18 Aug 2021 12:23:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Austin Mitchell: Former Great Grimsby MP dies aged 86]]></title>
+            <description><![CDATA[Labour leader Sir Keir Starmer leads tributes, saying Mr Mitchell served "with remarkable commitment".]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-humber-58257189</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-humber-58257189</guid>
+            <pubDate>Wed, 18 Aug 2021 12:29:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Southend rescue: Boy among seven people saved by coastguard]]></title>
+            <description><![CDATA[The coastguard was called to reports a group of people, including a 10-year-old boy, were stranded.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-essex-58255010</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-essex-58255010</guid>
+            <pubDate>Wed, 18 Aug 2021 12:23:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Pub car park 'rifle' arrest caught on film]]></title>
@@ -35,27 +56,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-norfolk-58258077</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-norfolk-58258077</guid>
             <pubDate>Wed, 18 Aug 2021 11:10:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Afghanistan: Refugees who settled in North West tell of fears]]></title>
-            <description><![CDATA[Four Afghans who settled in the North West tell of their fears for loved ones in their homeland.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-manchester-58246286</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-manchester-58246286</guid>
-            <pubDate>Wed, 18 Aug 2021 10:28:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Southend rescue: Boy among seven people saved by coastguard]]></title>
-            <description><![CDATA[The coastguard was called to reports a group of people, including a 10-year-old boy, were stranded.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-essex-58255010</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-essex-58255010</guid>
-            <pubDate>Wed, 18 Aug 2021 09:09:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Banksy: Great Yarmouth model could be replaced by replica]]></title>
-            <description><![CDATA[The owner of a tourist attraction says he has a security dilemma after being gifted the artwork.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-norfolk-58247873</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-norfolk-58247873</guid>
-            <pubDate>Wed, 18 Aug 2021 05:31:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Teenage pilot Zara Rutherford begins solo round-world record bid]]></title>
@@ -70,6 +70,13 @@
             <link>https://www.bbc.co.uk/news/uk-58202760</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58202760</guid>
             <pubDate>Sat, 14 Aug 2021 17:28:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Plymouth shooting: Church service for victims]]></title>
+            <description><![CDATA[The service remembers five people killed in a mass shooting in the Keyham area of the city.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-devon-58254573</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-devon-58254573</guid>
+            <pubDate>Wed, 18 Aug 2021 12:23:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Fireworks competition dedicated to Plymouth shooting victims]]></title>
@@ -163,18 +170,25 @@
             <pubDate>Wed, 18 Aug 2021 00:05:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Lake District fells project more needed than ever, officials say]]></title>
-            <description><![CDATA[The organisation, now celebrating its 20th anniversary, protects the landscape and wildlife.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-cumbria-58248361</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-cumbria-58248361</guid>
-            <pubDate>Wed, 18 Aug 2021 05:22:38 GMT</pubDate>
+            <title><![CDATA[Banksy: Great Yarmouth model could be replaced by replica]]></title>
+            <description><![CDATA[The owner of a tourist attraction says he has a security dilemma after being gifted the artwork.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-norfolk-58247873</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-norfolk-58247873</guid>
+            <pubDate>Wed, 18 Aug 2021 05:31:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Plea for military to attend funeral of Shropshire veteran]]></title>
-            <description><![CDATA[Wilfred Dawson, 99, served as a wireless operator with RAF Bomber Command.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-shropshire-58242816</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-shropshire-58242816</guid>
-            <pubDate>Wed, 18 Aug 2021 05:06:44 GMT</pubDate>
+            <title><![CDATA[Afghanistan: Refugees who settled in North West tell of fears]]></title>
+            <description><![CDATA[Four Afghans who settled in the North West tell of their fears for loved ones in their homeland.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-manchester-58246286</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-manchester-58246286</guid>
+            <pubDate>Wed, 18 Aug 2021 10:28:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo 2020: West Midlands boxers reflect on Olympic Games]]></title>
+            <description><![CDATA[The three boxers from the West Midlands have fond memories of their time in Tokyo and medal wins.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-birmingham-58259342</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-birmingham-58259342</guid>
+            <pubDate>Wed, 18 Aug 2021 12:36:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: 'I'm pregnant, should I have the vaccine?']]></title>
@@ -205,18 +219,11 @@
             <pubDate>Tue, 17 Aug 2021 23:12:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[From a Manchester council estate to ballet dancing in Swan Lake]]></title>
-            <description><![CDATA[Isaac Bowry is from a Manchester council estate and wants to show that "dancing is for everyone".]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-manchester-58206917</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-manchester-58206917</guid>
-            <pubDate>Tue, 17 Aug 2021 05:28:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hayley Raso: 'I want to earn my spot' at Manchester City]]></title>
-            <description><![CDATA[Hayley Raso says she is "a fighter" and wants to earn her spot in the Manchester City side.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58246316</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58246316</guid>
-            <pubDate>Wed, 18 Aug 2021 09:30:18 GMT</pubDate>
+            <title><![CDATA[Women's Champions League: Arsenal comfortably beat Okzhetpes in qualifier]]></title>
+            <description><![CDATA[Arsenal win their first competitive match under new boss Jonas Eidevall, comfortably beating Okzhetpes in their Women's Champions League qualifier.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58258487</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58258487</guid>
+            <pubDate>Wed, 18 Aug 2021 12:28:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Azhar Ali: Somerset sign former Pakistan captain for a third time]]></title>
@@ -224,6 +231,13 @@
             <link>https://www.bbc.co.uk/sport/cricket/58258577</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/58258577</guid>
             <pubDate>Wed, 18 Aug 2021 12:06:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hayley Raso: 'I want to earn my spot' at Manchester City]]></title>
+            <description><![CDATA[Hayley Raso says she is "a fighter" and wants to earn her spot in the Manchester City side.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58246316</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58246316</guid>
+            <pubDate>Wed, 18 Aug 2021 09:30:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Yui Hasegawa: West Ham sign Japan midfielder]]></title>
