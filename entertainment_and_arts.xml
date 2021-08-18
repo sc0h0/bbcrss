@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 18 Aug 2021 19:50:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Aug 2021 20:07:06 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -107,6 +107,13 @@
             <pubDate>Wed, 18 Aug 2021 16:21:13 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Bill Murray: Golf-loving Ghostbusters star given hand-forged putter]]></title>
+            <description><![CDATA[When the comedy star needed a new putter, who was he gonna call? A County Antrim blacksmith of course.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58263907</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58263907</guid>
+            <pubDate>Wed, 18 Aug 2021 19:40:55 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA['I make art out of discarded face masks']]></title>
             <description><![CDATA[Thomas Yates posts artwork he's created out of used face masks on social media.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-nottinghamshire-58187835</link>
@@ -133,13 +140,6 @@
             <link>https://www.bbc.co.uk/news/newsbeat-58203082</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-58203082</guid>
             <pubDate>Fri, 13 Aug 2021 12:17:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Reading: Teacher gets stories published after 46 years]]></title>
-            <description><![CDATA[Keith Godwin used to make up stories for his pupils in the 1970s, now they have been published.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-58189969</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58189969</guid>
-            <pubDate>Fri, 13 Aug 2021 09:39:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
