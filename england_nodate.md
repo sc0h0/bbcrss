@@ -2,7 +2,7 @@
 2. [Woodmancote shootings: Twin's gun law anger after family deaths](https://www.bbc.co.uk/news/uk-england-birmingham-58245137) - Rob Needham is thought to have killed partner Kelly Fitzgibbons and their daughters, then himself.
 3. [Geronimo the alpaca: High Court bid to save animal refused](https://www.bbc.co.uk/news/uk-england-bristol-58187004) - A last-ditch attempt to halt the animal's destruction is refused at the High Court in London.
 4. [West Mercia Police officer guilty of Worcestershire crash death](https://www.bbc.co.uk/news/uk-england-hereford-worcester-58259930) - Jamie Holloway was driving at speeds of up to 110mph before he hit David Shaw's car, the trial heard.
-5. [Young boy dies after falling from Sheffield hotel window](https://www.bbc.co.uk/news/uk-england-south-yorkshire-58262259) - The boy, aged under 10, fell from the OYO Sheffield Metropolitan Hotel, police say.
+5. [Boy dies falling from Sheffield hotel window](https://www.bbc.co.uk/news/uk-england-south-yorkshire-58262259) - The boy, aged under 10, fell from the OYO Sheffield Metropolitan Hotel, police say.
 6. [Bradford mother jailed after 'home alone' son killed by car](https://www.bbc.co.uk/news/uk-england-leeds-58257183) - Wendy Hall left her seven-year-old son at their home in Bradford while she visited her partner.
 7. [Council hires security to guard Banksy-style Harwich mural](https://www.bbc.co.uk/news/uk-england-essex-58260433) - A council which was criticised for painting over a Banksy artwork has been quick to protect a new mural.
 8. [Who were the victims?](https://www.bbc.co.uk/news/uk-58202760) - The gunman's mother, Maxine Davison, and three-year-old Sophie Martyn have been named among the dead.
