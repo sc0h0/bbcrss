@@ -1,15 +1,15 @@
 1. [The little-known human stories behind emoji designs](https://www.bbc.co.uk/news/technology-58180556) - The surprising story of how some tiny characters ended up on billions of smartphone keyboards.
-2. [Mastercard to end magnetic strip on cards](https://www.bbc.co.uk/news/technology-58206591) - The company sets an expiry date of 2033 for the decades-old technology.
-3. [New police CCTV use rules criticised as bare bones](https://www.bbc.co.uk/news/technology-58206586) - However, the guidelines empowered police and maintained public trust, the Home Office says.
-4. [Hydrogen power offers jobs boost, says government](https://www.bbc.co.uk/news/science-environment-58238367) - Kick-starting a hydrogen industry could attract billions in investment, the UK government says.
-5. [Tesla Autopilot: US opens official investigation into self-driving tech](https://www.bbc.co.uk/news/technology-58232137) - The investigation covers all Tesla cars since 2014, focusing on crashes with emergency vehicles.
-6. [No need to swap data for drinks, says privacy body](https://www.bbc.co.uk/news/business-58230932) - Some pub ordering apps ask too many questions, but you can refuse, says the information watchdog.
-7. [Internet revamp for the humble landline](https://www.bbc.co.uk/news/technology-58233420) - The UK plans to make all landlines into internet-based connections over the next few years.
-8. [Twitter's new design to get fix after headache complaints](https://www.bbc.co.uk/news/technology-58232131) - Unveiled last week, the redesign involved high-contrast colours and a custom-designed font, Chirp.
-9. [Parcel delivery texts now the most common con-trick](https://www.bbc.co.uk/news/business-58233743) - Text messages asking for a fee to deliver a package are responsible for most "smishing" fraud.
-10. [Streaming service DAZN seeks to shake up TV sport](https://www.bbc.co.uk/news/business-58219424) - Boss James Rushton has ambitious expansion plans for the service dubbed "the Netflix of sport".
-11. [CCTV watchdog criticises Hikvision Uyghur response](https://www.bbc.co.uk/news/technology-58188325) - UK surveillance camera commissioner criticises failure to answer "basic questions".
-12. [Apple regrets confusion over 'iPhone scanning'](https://www.bbc.co.uk/news/technology-58206543) - The iPhone-maker will introduce tools that can detect child sex abuse images uploaded to iCloud.
+2. [Cuba tightens control of internet after protests](https://www.bbc.co.uk/news/world-latin-america-58255554) - Critics say the new rules are aimed at stifling dissent following mass anti-government demonstrations.
+3. [Mastercard to end magnetic strip on cards](https://www.bbc.co.uk/news/technology-58206591) - The company sets an expiry date of 2033 for the decades-old technology.
+4. [New police CCTV use rules criticised as bare bones](https://www.bbc.co.uk/news/technology-58206586) - However, the guidelines empowered police and maintained public trust, the Home Office says.
+5. [Hydrogen power offers jobs boost, says government](https://www.bbc.co.uk/news/science-environment-58238367) - Kick-starting a hydrogen industry could attract billions in investment, the UK government says.
+6. [Tesla Autopilot: US opens official investigation into self-driving tech](https://www.bbc.co.uk/news/technology-58232137) - The investigation covers all Tesla cars since 2014, focusing on crashes with emergency vehicles.
+7. [No need to swap data for drinks, says privacy body](https://www.bbc.co.uk/news/business-58230932) - Some pub ordering apps ask too many questions, but you can refuse, says the information watchdog.
+8. [Internet revamp for the humble landline](https://www.bbc.co.uk/news/technology-58233420) - The UK plans to make all landlines into internet-based connections over the next few years.
+9. [Twitter's new design to get fix after headache complaints](https://www.bbc.co.uk/news/technology-58232131) - Unveiled last week, the redesign involved high-contrast colours and a custom-designed font, Chirp.
+10. [Parcel delivery texts now the most common con-trick](https://www.bbc.co.uk/news/business-58233743) - Text messages asking for a fee to deliver a package are responsible for most "smishing" fraud.
+11. [Streaming service DAZN seeks to shake up TV sport](https://www.bbc.co.uk/news/business-58219424) - Boss James Rushton has ambitious expansion plans for the service dubbed "the Netflix of sport".
+12. [CCTV watchdog criticises Hikvision Uyghur response](https://www.bbc.co.uk/news/technology-58188325) - UK surveillance camera commissioner criticises failure to answer "basic questions".
 13. [Green aviation: Electric powered plane trialled over Orkney](https://www.bbc.co.uk/news/uk-scotland-58180367) - A hybrid-electric plane is being trialled in Orkney as part of a study into ways of reducing aviation emissions.
 14. [The zero-power sewage plant inspired by cows](https://www.bbc.co.uk/news/science-environment-58017501) - Fifty sustainable sewage treatment plants have been built that work in similar way to a cow's stomach.
 15. [The $8bn EV company you’ve probably never heard of](https://www.bbc.co.uk/news/business-58174043) - Electric vehicle firm Arrival is worth $8bn (£5.7bn) - and is only making vans, buses and taxis.

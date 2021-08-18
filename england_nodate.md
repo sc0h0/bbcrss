@@ -1,6 +1,6 @@
 1. [Silverdale quarry smell: High Court legal challenge to begin](https://www.bbc.co.uk/news/uk-england-stoke-staffordshire-58245841) - The family of a boy with breathing difficulties who live near the landfill are bringing the case.
 2. [Plymouth shooting: Church service for victims](https://www.bbc.co.uk/news/uk-england-devon-58254573) - The service is remembering five people killed in a mass shooting in the Keyham area of the city.
-3. [Gurkha taken to hospital during Downing Street hunger strike](https://www.bbc.co.uk/news/uk-england-hampshire-58254634) - Former Gurkha soldier Dhan Gurung has refused food for 11 days in a protest over unequal pensions.
+3. [Gurkha back at Downing Street hunger strike after being taken ill](https://www.bbc.co.uk/news/uk-england-hampshire-58254634) - Former Gurkha soldier Dhan Gurung returns to a protest over pensions after a health scare.
 4. [Southend rescue: Boy among seven people saved by coastguard](https://www.bbc.co.uk/news/uk-england-essex-58255010) - The coastguard was called to reports a group of people, including a 10-year-old boy, were stranded.
 5. [Banksy: Great Yarmouth model could be replaced by replica](https://www.bbc.co.uk/news/uk-england-norfolk-58247873) - The owner of a tourist attraction says he has a security dilemma after being gifted the artwork.
 6. [Plea for military to attend funeral of Shropshire veteran](https://www.bbc.co.uk/news/uk-england-shropshire-58242816) - Wilfred Dawson, 99, served as a wireless operator with RAF Bomber Command.
