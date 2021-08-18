@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 18 Aug 2021 09:01:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Aug 2021 09:22:49 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -20,14 +20,21 @@
             <description><![CDATA[The prime minister tells MPs terror has been reduced and human rights improved over the past 20 years.]]></description>
             <link>https://www.bbc.co.uk/news/uk-politics-58254794</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-58254794</guid>
-            <pubDate>Wed, 18 Aug 2021 08:59:51 GMT</pubDate>
+            <pubDate>Wed, 18 Aug 2021 09:14:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Resettling Afghans in UK will take time, Priti Patel says]]></title>
-            <description><![CDATA[The UK will work with other countries to help up to 20,000 refugees move the UK, the home secretary says.]]></description>
+            <description><![CDATA[The UK will work with other countries to help up to 20,000 refugees move to the UK, the home secretary says.]]></description>
             <link>https://www.bbc.co.uk/news/uk-58250211</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58250211</guid>
-            <pubDate>Wed, 18 Aug 2021 08:40:11 GMT</pubDate>
+            <pubDate>Wed, 18 Aug 2021 09:05:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gurkha taken to hospital during Downing Street hunger strike]]></title>
+            <description><![CDATA[Former Gurkha soldier Dhan Gurung has refused food for 11 days in a protest over unequal pensions.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-hampshire-58254634</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-hampshire-58254634</guid>
+            <pubDate>Wed, 18 Aug 2021 08:17:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Price rises cool amid clothes and shoe discounting]]></title>
@@ -65,18 +72,11 @@
             <pubDate>Tue, 17 Aug 2021 21:29:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Afghanistan: Call for more UK councils to welcome refugees]]></title>
-            <description><![CDATA[The UK has a "moral imperative" to support those fleeing the Taliban, Ashford's council leader says.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-kent-58248271</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-kent-58248271</guid>
-            <pubDate>Tue, 17 Aug 2021 17:45:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hydrogen power offers jobs boost, says government]]></title>
-            <description><![CDATA[Kick-starting a hydrogen industry could attract billions in investment, the UK government says.]]></description>
-            <link>https://www.bbc.co.uk/news/science-environment-58238367</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-58238367</guid>
-            <pubDate>Tue, 17 Aug 2021 01:08:35 GMT</pubDate>
+            <title><![CDATA[Peterborough: Speeding MP off roads after asking for a ban]]></title>
+            <description><![CDATA[Conservative Paul Bristow wrote that he wanted to avoid "hypocrisy" after speeding on the A1.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-cambridgeshire-58243901</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-cambridgeshire-58243901</guid>
+            <pubDate>Tue, 17 Aug 2021 10:41:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Dawn Butler: Man sentenced for sending MP offensive message]]></title>
@@ -86,11 +86,11 @@
             <pubDate>Tue, 17 Aug 2021 15:44:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Peterborough: Speeding MP off roads after asking for a ban]]></title>
-            <description><![CDATA[Conservative Paul Bristow wrote that he wanted to avoid "hypocrisy" after speeding on the A1.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-cambridgeshire-58243901</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-cambridgeshire-58243901</guid>
-            <pubDate>Tue, 17 Aug 2021 10:41:56 GMT</pubDate>
+            <title><![CDATA[Hydrogen power offers jobs boost, says government]]></title>
+            <description><![CDATA[Kick-starting a hydrogen industry could attract billions in investment, the UK government says.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-58238367</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-58238367</guid>
+            <pubDate>Tue, 17 Aug 2021 01:08:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[New police CCTV use rules criticised as bare bones]]></title>
@@ -310,11 +310,11 @@
             <pubDate>Tue, 17 Aug 2021 11:41:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[What has the UK government done for Afghan asylum seekers?]]></title>
-            <description><![CDATA[A scheme to resettle people fleeing Afghanistan is expected to be announced shortly.]]></description>
+            <title><![CDATA[Afghanistan: How many asylum seekers has the UK taken in?]]></title>
+            <description><![CDATA[The UK government says it will resettle up to 20,000 Afghan refugees, but warns it will "take time".]]></description>
             <link>https://www.bbc.co.uk/news/uk-58245684</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58245684</guid>
-            <pubDate>Wed, 18 Aug 2021 00:27:24 GMT</pubDate>
+            <pubDate>Wed, 18 Aug 2021 09:08:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Could Scots be guaranteed a minimum income?]]></title>
