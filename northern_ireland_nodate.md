@@ -1,5 +1,5 @@
 1. [Afghanistan: NI to offer a 'safe place' for refugees](https://www.bbc.co.uk/news/uk-northern-ireland-58250446) - Officials are working on a plan to support those most in need from Afghanistan coming to Northern Ireland.
-2. [Troubles prosecutions: Military veterans to meet Brandon Lewis](https://www.bbc.co.uk/news/uk-northern-ireland-58253891) - Plans to end Troubles' era prosecutions are opposed by NI political parties and victims' groups.
+2. [Troubles' prosecutions: Military veterans to meet Brandon Lewis](https://www.bbc.co.uk/news/uk-northern-ireland-58253891) - Plans to end Troubles' era prosecutions are opposed by NI political parties and victims' groups.
 3. [Covid-19: Mental health referrals in NI down 29% during pandemic](https://www.bbc.co.uk/news/uk-northern-ireland-58232021) - Health department says fall indicates people were not seeking help, rather than not needing it.
 4. [Wrightbus to boost Ballymena workforce by 300](https://www.bbc.co.uk/news/uk-northern-ireland-58232029) - As orders for zero-emission buses rise, the firms says 120 temporary jobs will also be made permanent.
 5. [Black Lives Matter: PSNI asks that protest fines be refunded](https://www.bbc.co.uk/news/uk-northern-ireland-58251021) - Police say they will make the request over more than 70 fines issued in Belfast and Derry last year.

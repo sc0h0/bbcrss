@@ -3,8 +3,8 @@
 3. [Plymouth shooting: Gunman had mental health support in lockdown](https://www.bbc.co.uk/news/uk-england-devon-58248391) - Jake Davison, who killed five people in Plymouth, used a mental health helpline, the NHS says.
 4. ['I make art out of discarded face masks'](https://www.bbc.co.uk/news/uk-england-nottinghamshire-58187835) - Thomas Yates posts artwork he's created out of used face masks on social media.
 5. [Eileen Barrott murder: NHS tribute to nurse as manhunt continues](https://www.bbc.co.uk/news/uk-england-leeds-58243279) - Hospital bosses pay tribute to Eileen Barrott as police continue to search for her husband.
-6. [Covid: 'I'm pregnant, should I have the vaccine?'](https://www.bbc.co.uk/news/uk-england-london-58089039) - Many pregnant women have declined the Covid jab, but what's best for the baby?
-7. [Lake District fells project more needed than ever, officials say](https://www.bbc.co.uk/news/uk-england-cumbria-58248361) - The organisation, now celebrating its 20th anniversary, protects the landscape and wildlife.
+6. [Plea for military to attend funeral of Shropshire veteran](https://www.bbc.co.uk/news/uk-england-shropshire-58242816) - Wilfred Dawson, 99, served as a wireless operator with RAF Bomber Command.
+7. [Covid: 'I'm pregnant, should I have the vaccine?'](https://www.bbc.co.uk/news/uk-england-london-58089039) - Many pregnant women have declined the Covid jab, but what's best for the baby?
 8. [Who were the victims?](https://www.bbc.co.uk/news/uk-58202760) - The gunman's mother, Maxine Davison, and three-year-old Sophie Martyn have been named among the dead.
 9. [Fireworks competition dedicated to Plymouth shooting victims](https://www.bbc.co.uk/news/uk-england-devon-58240787) - Bosses say they "thought long and hard" about holding the British Firework Championships.
 10. [Plymouth shooting: Who can own a firearm or shotgun in the UK?](https://www.bbc.co.uk/news/uk-58198857) - A shooting in Plymouth which left six people dead has put the focus on who can own a gun in the UK.
@@ -16,8 +16,8 @@
 16. [Plymouth Shootings: Home Secretary says many questions to be asked](https://www.bbc.co.uk/news/uk-58200691) - Home Secretary Priti Patel says she'll be looking for answers about the shootings that left six dead.
 17. [A visual guide to what happened](https://www.bbc.co.uk/news/uk-england-devon-58200336) - A gunman shot and killed five people in Plymouth before turning the gun on himself. Here's what we know about how events unfolded.
 18. [Plymouth MP: Community 'trying to make sense' of shooting](https://www.bbc.co.uk/news/uk-58198078) - MP Luke Pollard says the community is pulling together in the face of the "deeply grim" news.
-19. [Plea for military to attend funeral of Shropshire veteran](https://www.bbc.co.uk/news/uk-england-shropshire-58242816) - Wilfred Dawson, 99, served as a wireless operator with RAF Bomber Command.
-20. [Bristol missing mother 'may be in hiding with son, aged 10'](https://www.bbc.co.uk/news/uk-england-bristol-58249601) - The Bristol woman has gone missing with her 10-year-old son after care proceedings were launched.
+19. ['NHS abandoned me after I tried to kill myself'](https://www.bbc.co.uk/news/uk-58085428) - Mental health referrals across the UK have hit their highest point for two years.
+20. [Lake District fells project more needed than ever, officials say](https://www.bbc.co.uk/news/uk-england-cumbria-58248361) - The organisation, now celebrating its 20th anniversary, protects the landscape and wildlife.
 21. [Covid-19: Droitwich card shop owners guilty of flouting lockdown rules](https://www.bbc.co.uk/news/uk-england-hereford-worcester-58247209) - The owners argued their shop qualified for exemption because they sold sweets and soft drinks.
 22. [UK student who travelled to Afghanistan for holiday evacuated](https://www.bbc.co.uk/news/uk-england-birmingham-58244518) - Miles Routledge, from Birmingham, claims he visited Kabul because he enjoys "extreme tourism".
 23. [Ice cream van firm banned from Lowestoft street over noise complaint](https://www.bbc.co.uk/news/uk-england-suffolk-58243851) - Lamarti's vans are forbidden from entering one street after complaints about noise.
