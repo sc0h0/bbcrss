@@ -5,7 +5,7 @@
 5. [Pembrokeshire woman injured in American bulldog attack](https://www.bbc.co.uk/news/uk-wales-58248554) - The dog has been put down and police have launched an investigation.
 6. [Art: Paintings by Sir Kyffin Williams sell for £39,000](https://www.bbc.co.uk/news/uk-wales-58243611) - The artworks, by one of Wales' most renowned artists, are described as "a truly wonderful find".
 7. [Covid-19: Deaths rise in Wales to 22](https://www.bbc.co.uk/news/uk-wales-58244250) - Covid deaths increased in Wales but are still well below levels in the second wave, figures show.
-8. [Covid: NHS worker unlikely to have caugh virus at work](https://www.bbc.co.uk/news/uk-wales-58241511) - A coroner says Alan Macalalad's suffered health issues before his death from natural causes.
+8. [Covid: NHS worker unlikely to have caught virus at work](https://www.bbc.co.uk/news/uk-wales-58241511) - A coroner says Alan Macalalad's suffered health issues before his death from natural causes.
 9. [Staff shortages remain despite more out of work in Wales](https://www.bbc.co.uk/news/uk-wales-58241503) - The number of people out of work fell in the past three months but is still higher than last year.
 10. [Coercive control: Male victims say they aren't believed](https://www.bbc.co.uk/news/uk-wales-58233300) - Craig says he was criticised and controlled, leaving him with post-traumatic stress disorder.
 11. [Wrexham: Teenager charged over serious assault](https://www.bbc.co.uk/news/uk-wales-58241025) - Christopher Keenan has been charged with grievous bodily harm with intent following the attack.
