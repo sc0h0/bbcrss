@@ -1,7 +1,7 @@
 1. [Price rises cool amid clothes and shoe discounting](https://www.bbc.co.uk/news/uk-58254000) - The UK inflation rate fell by more than expected to 2% in July, down from 2.5% the previous month.
-2. [US left too quickly, says Afghanistan bank governor](https://www.bbc.co.uk/news/business-58252065) - Afghanistan central bank governor, Ajmal Ahmady, tells the BBC he thinks country's economic situation will deteriorate.
-3. [Covid: Australia's Qantas says all staff must be vaccinated](https://www.bbc.co.uk/news/business-58239790) - The announcement came as New South Wales reported its biggest daily rise in coronavirus infections.
-4. [Trendy shoffices and pizza ovens raised lockdown fire risks](https://www.bbc.co.uk/news/business-58245846) - Insurer Zurich says residential outbuilding fires rose by 16% last year compared with 2019.
+2. [Trendy shoffices and pizza ovens raised lockdown fire risks](https://www.bbc.co.uk/news/business-58245846) - Insurer Zurich says residential outbuilding fires rose by 16% last year compared with 2019.
+3. [US left too quickly, says Afghanistan bank governor](https://www.bbc.co.uk/news/business-58252065) - Afghanistan central bank governor, Ajmal Ahmady, tells the BBC he thinks country's economic situation will deteriorate.
+4. [Covid: Australia's Qantas says all staff must be vaccinated](https://www.bbc.co.uk/news/business-58239790) - The announcement came as New South Wales reported its biggest daily rise in coronavirus infections.
 5. [Nando's shuts restaurants as it runs short of supplies](https://www.bbc.co.uk/news/business-58249337) - The chain says it will lend some of its own staff to its suppliers, to help tackle delays to deliveries.
 6. [Trials of shared banking hubs to be extended](https://www.bbc.co.uk/news/business-58245844) - The two trial projects allow different banks to operate from the same premises after branches closed.
 7. [Home Depot 'discriminated against BLM supporter'](https://www.bbc.co.uk/news/business-58251211) - The US DIY chain tried to stop a worker from raising issues of racial harassment with managers, a watchdog claims.

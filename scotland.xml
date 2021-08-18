@@ -11,16 +11,23 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 18 Aug 2021 09:22:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Aug 2021 09:33:06 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Covid in Scotland: Exams planned to go ahead as normal next year]]></title>
+            <description><![CDATA[The Scottish government confirms that if it is safe to do so exams will go ahead in spring 2022.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-58254324</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58254324</guid>
+            <pubDate>Wed, 18 Aug 2021 09:28:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Scottish public spending deficit doubles to £36bn]]></title>
             <description><![CDATA[Spending on public services rose to almost £100bn as revenue fell due to the Covid pandemic.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-58256028</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58256028</guid>
-            <pubDate>Wed, 18 Aug 2021 09:04:11 GMT</pubDate>
+            <pubDate>Wed, 18 Aug 2021 09:18:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What is Gers and how is it calculated?]]></title>
@@ -44,13 +51,6 @@
             <pubDate>Tue, 17 Aug 2021 15:45:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Scotland's papers: Drink deaths soar and Afghan refugees]]></title>
-            <description><![CDATA[Alcohol deaths reaching a 12-year high and the UK's pledge to admit 20,000 Afghans make Scotland's front pages.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-58252487</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58252487</guid>
-            <pubDate>Wed, 18 Aug 2021 06:54:05 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Pedestrian badly injured during Aberdeen police pursuit]]></title>
             <description><![CDATA[A car being followed by police struck a 48-year-old man in Aberdeen on Monday.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-58245341</link>
@@ -63,6 +63,13 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-58254322</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-58254322</guid>
             <pubDate>Wed, 18 Aug 2021 08:36:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Scotland's papers: Drink deaths soar and Afghan refugees]]></title>
+            <description><![CDATA[Alcohol deaths reaching a 12-year high and the UK's pledge to admit 20,000 Afghans make Scotland's front pages.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-58252487</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58252487</guid>
+            <pubDate>Wed, 18 Aug 2021 06:54:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Firefighters tackle Glasgow city centre blaze]]></title>

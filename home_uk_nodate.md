@@ -1,4 +1,4 @@
-1. [Afghan core mission has been a success, says Boris Johnson](https://www.bbc.co.uk/news/uk-politics-58254794) - The prime minister tells MPs terror has been reduced and human rights improved over the past 20 years.
+1. [Afghan core mission has been a success, says Boris Johnson](https://www.bbc.co.uk/news/uk-politics-58254794) - The PM says terror has been cut and human rights helped, but Labour accuses him of "staggering complacency".
 2. [Resettling Afghans in UK will take time, Priti Patel says](https://www.bbc.co.uk/news/uk-58250211) - The UK will work with other countries to help up to 20,000 refugees move to the UK, the home secretary says.
 3. [Afghan women to have rights within Islamic law, Taliban say](https://www.bbc.co.uk/news/world-asia-58249952) - The militant group, which has taken control of Afghanistan, is pressed on fears over women's freedoms.
 4. [Price rises cool amid clothes and shoe discounting](https://www.bbc.co.uk/news/uk-58254000) - The UK inflation rate fell by more than expected to 2% in July, down from 2.5% the previous month.
