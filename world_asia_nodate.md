@@ -9,7 +9,7 @@
 9. [New Zealand enters nationwide lockdown over one Covid case](https://www.bbc.co.uk/news/world-asia-58241619) - Authorities say they are still running tests, but are assuming it is a case of the Delta variant.
 10. [Afghanistan: Former football captain fears for players left behind](https://www.bbc.co.uk/sport/football/58243348) - Ex-Afghanistan captain Khalida Popal told BBC Sport her former colleagues in the country are fearing for their lives.
 11. [Afghanistan: Facebook continues ban of Taliban-related content](https://www.bbc.co.uk/news/business-58239786) - Technology firms face challenges on how to handle content created by the group and its supporters.
-12. [Afghanistan: India to evacuate diplomats as security worsens](https://www.bbc.co.uk/news/world-asia-india-58240296) - The country joins several other nations who have evacuated their diplomats from Afghanistan.
+12. [Afghanistan: India evacuates diplomats amid security concerns](https://www.bbc.co.uk/news/world-asia-india-58240296) - The country joins several nations who have evacuated their diplomats from Afghanistan.
 13. [Indian scientists discover 'mermaid' plant species](https://www.bbc.co.uk/news/world-asia-india-58240416) - Scientists say they found this new species of algae in the Andamans archipelago.
 14. [Toutai Kefu: Rugby star and family attacked in their Brisbane home](https://www.bbc.co.uk/news/world-australia-58227126) - Toutai Kefu and three family members suffer "significant injuries" in a suspected botched burglary.
 15. [Uncertain times ahead for Afghan women](https://www.bbc.co.uk/news/world-asia-58244017) - After the Taliban takeover, it is not yet clear how women will fare with the militants in power.
