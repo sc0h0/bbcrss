@@ -1,4 +1,4 @@
-1. [Afghan crisis: Chaos as Europeans scramble to evacuate Kabul](https://www.bbc.co.uk/news/world-europe-58256696) - Several countries rush to fly people out, as the Dutch government is criticised for reacting slowly.
+1. [Afghanistan crisis: Chaos as Europeans scramble to evacuate Kabul](https://www.bbc.co.uk/news/world-europe-58256696) - Several countries rush to fly people out, as the Dutch government is criticised for reacting slowly.
 2. [Lithuania says Belarus officers illegally pushed migrants over border](https://www.bbc.co.uk/news/world-europe-58255448) - Video shows 12 Belarusian officers in riot gear as migrants scramble towards Lithuanian territory.
 3. [Haiti earthquake: Death toll reaches nearly 2,000](https://www.bbc.co.uk/news/world-latin-america-58187979) - A few dozen survivors have been pulled alive from under the rubble but many are still feared trapped.
 4. [Covishield: WHO flags fake jabs in India, Africa](https://www.bbc.co.uk/news/world-asia-india-58253488) - The health body says it has found counterfeit versions of the Indian-made Covishield vaccine.

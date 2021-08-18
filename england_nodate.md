@@ -3,7 +3,7 @@
 3. [Silverdale quarry smell: High Court legal challenge over noxious gas](https://www.bbc.co.uk/news/uk-england-stoke-staffordshire-58245841) - The family of a boy with breathing difficulties who live near the landfill are bringing the case.
 4. [Austin Mitchell: Former Great Grimsby MP dies aged 86](https://www.bbc.co.uk/news/uk-england-humber-58257189) - Labour leader Sir Keir Starmer leads tributes, saying Mr Mitchell served "with remarkable commitment".
 5. [Amazon Alexa: Woman used smart speaker to tell ex's lover to go](https://www.bbc.co.uk/news/uk-england-lincolnshire-58243709) - Phillipa Copleston-Warren accessed her ex-partner's Alexa app and posted a naked photo of him.
-6. [Southend rescue: Boy among seven people saved by coastguard](https://www.bbc.co.uk/news/uk-england-essex-58255010) - The coastguard was called to reports a group of people, including a 10-year-old boy, were stranded.
+6. [Stratford death: Woman falls from building after man arrested](https://www.bbc.co.uk/news/uk-england-london-58254392) - The Met informed the police watchdog as an arrest was made one hour earlier in the same building.
 7. [Teenage pilot Zara Rutherford begins solo round-world record bid](https://www.bbc.co.uk/news/uk-england-hampshire-58256386) - Zara Rutherford completes the first leg of her journey from Belgium to England.
 8. [Who were the victims?](https://www.bbc.co.uk/news/uk-58202760) - The gunman's mother, Maxine Davison, and three-year-old Sophie Martyn have been named among the dead.
 9. [Plymouth shooting: Church service for victims](https://www.bbc.co.uk/news/uk-england-devon-58254573) - The service remembers five people killed in a mass shooting in the Keyham area of the city.
@@ -18,7 +18,7 @@
 18. [A visual guide to what happened](https://www.bbc.co.uk/news/uk-england-devon-58200336) - A gunman shot and killed five people in Plymouth before turning the gun on himself. Here's what we know about how events unfolded.
 19. [Plymouth MP: Community 'trying to make sense' of shooting](https://www.bbc.co.uk/news/uk-58198078) - MP Luke Pollard says the community is pulling together in the face of the "deeply grim" news.
 20. [Eileen Barrott murder: Husband traced to Elgin](https://www.bbc.co.uk/news/uk-england-leeds-58254147) - Mark Barrott is wanted by police in connection with his wife's death in Leeds at the weekend.
-21. [Stratford death: Woman falls from building after man arrested](https://www.bbc.co.uk/news/uk-england-london-58254392) - The Met informed the police watchdog as an arrest was made one hour earlier in the same building.
+21. [Southend rescue: Boy among seven people saved by coastguard](https://www.bbc.co.uk/news/uk-england-essex-58255010) - The coastguard was called to reports a group of people, including a 10-year-old boy, were stranded.
 22. [Gurkha back at Downing Street hunger strike after being taken ill](https://www.bbc.co.uk/news/uk-england-hampshire-58254634) - Former Gurkha soldier Dhan Gurung returns to a protest over pensions after a health scare.
 23. [York Minster unveils Queen's jubilee statue design](https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-58254141) - The statue will feature the sovereign wearing her Garter robes along with the orb and sceptre, the Minster says.
 24. [Dog stolen from kennels six months ago found during police raid](https://www.bbc.co.uk/news/uk-england-derbyshire-58257485) - Rummy, one of eight dogs stolen from a kennels in Derbyshire, is found in Leicestershire.
@@ -31,4 +31,3 @@
 31. [Azhar Ali: Somerset sign former Pakistan captain for a third time](https://www.bbc.co.uk/sport/cricket/58258577) - Somerset re-sign former Pakistan captain Azhar Ali for a third time.
 32. [Hayley Raso: 'I want to earn my spot' at Manchester City](https://www.bbc.co.uk/sport/football/58246316) - Hayley Raso says she is "a fighter" and wants to earn her spot in the Manchester City side.
 33. [Yui Hasegawa: West Ham sign Japan midfielder](https://www.bbc.co.uk/sport/football/58258707) - Women's Super League side West Ham United sign Japan international Yui Hasegawa on a two-year deal.
-34. [The Hundred: Liam Livingstone powers Birmingham Phoenix into men's Hundred final](https://www.bbc.co.uk/sport/cricket/58250735) - Liam Livingstone's devastating hitting powers Birmingham Phoenix straight into the men's Hundred final with a crushing eight-wicket win over Northern Superchargers.
