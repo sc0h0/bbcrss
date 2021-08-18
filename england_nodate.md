@@ -28,6 +28,6 @@
 28. [Portrait artist captures Southampton's homeless community](https://www.bbc.co.uk/news/uk-england-hampshire-58246412) - Artist James Earley uses his work to raise awareness of homelessness and money for charity.
 29. [Cramlington red squirrel rope bridge helps cut road deaths](https://www.bbc.co.uk/news/uk-england-tyne-58245296) - A bridge is helping protect red squirrels as they make a dangerous journey over a road for hazelnuts.
 30. [Women's Champions League: Arsenal comfortably beat Okzhetpes in qualifier](https://www.bbc.co.uk/sport/football/58258487) - Arsenal win their first competitive match under new boss Jonas Eidevall, comfortably beating Okzhetpes in their Women's Champions League qualifier.
-31. [Azhar Ali: Somerset sign former Pakistan captain for a third time](https://www.bbc.co.uk/sport/cricket/58258577) - Somerset re-sign former Pakistan captain Azhar Ali for a third time.
+31. [Mark Stoneman: England opener joins Middlesex from Surrey](https://www.bbc.co.uk/sport/cricket/58258046) - Middlesex sign opening batsman Mark Stoneman after he rejected a new contract with Surrey.
 32. [Hayley Raso: 'I want to earn my spot' at Manchester City](https://www.bbc.co.uk/sport/football/58246316) - Hayley Raso says she is "a fighter" and wants to earn her spot in the Manchester City side.
-33. [Yui Hasegawa: West Ham sign Japan midfielder](https://www.bbc.co.uk/sport/football/58258707) - Women's Super League side West Ham United sign Japan international Yui Hasegawa on a two-year deal.
+33. [Azhar Ali: Somerset sign former Pakistan captain for a third time](https://www.bbc.co.uk/sport/cricket/58258577) - Somerset re-sign former Pakistan captain Azhar Ali for a third time.

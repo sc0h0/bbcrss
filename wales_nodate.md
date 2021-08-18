@@ -1,4 +1,4 @@
-1. [Bridgend: Woman charged with murder of toddler, 2](https://www.bbc.co.uk/news/uk-wales-58250140) - Reid Steele died in hospital after being found in a critical condition at a house in Bridgend.
+1. [Bridgend: Mother charged with murder of son, 2](https://www.bbc.co.uk/news/uk-wales-58250140) - Reid Steele died in hospital after being found in a critical condition at a house in Bridgend.
 2. [Covid: All 16 and 17-year-olds in Wales to get jab offer](https://www.bbc.co.uk/news/uk-wales-58256533) - Anyone who has not yet taken up the offer of a vaccine is encouraged to do so.
 3. [Plaid Cymru: Ex-leader no longer friends with successor](https://www.bbc.co.uk/news/uk-wales-politics-58159654) - Leanne Wood says Adam Price made "a bad judgement call" in the timing of his leadership challenge.
 4. [Porthcawl dementia patient missing for 30 hours found in ditch](https://www.bbc.co.uk/news/uk-wales-58254835) - Joseph Hughes was found by an off-duty officer named Amy after going missing from his care home.
@@ -21,8 +21,8 @@
 21. [Elfyn Evans: Welshman faces 'uphill struggle' in WRC title bid](https://www.bbc.co.uk/sport/motorsport/58259800) - Elfyn Evans says it is unlikely he will win the 2021 World Rally Championship after finishing fourth in Belgium's Rally Ypres.
 22. [Beijing 2022: Bruce Tasker appointed bobsleigh team leader for Winter Olympics](https://www.bbc.co.uk/sport/winter-sports/58257643) - Winter Olympic bronze medallist Bruce Tasker is named team leader for the British Bobsleigh programme for the 2022 Games in China.
 23. [Women's British Open: 'Dream come true' for Wales' Chloe Williams](https://www.bbc.co.uk/sport/wales/58237712) - Welsh golfer Chloe Williams says making her first major appearance at this week's Women's British Open will be a "dream come true".
-24. [Afghanistan: 'Angen gweithredu nawr' ar ailgartrefu pobl](https://www.bbc.co.uk/newyddion/58246445) - Galw ar Lywodraeth y DU i weithredu'n gyflym i roi lloches i bobl sy'n ffoi o Afghanistan.
-25. [Cyhuddo dynes o lofruddio bachgen ym Mhen-y-bont](https://www.bbc.co.uk/newyddion/58255910) - Bu farw Reid Steele yn dilyn digwyddiad yn ardal Broadlands y dref ar 11 Awst.
+24. [Cyhuddo mam o lofruddio bachgen ym Mhen-y-bont](https://www.bbc.co.uk/newyddion/58255910) - Bu farw Reid Steele yn dilyn digwyddiad yn ardal Broadlands y dref ar 11 Awst.
+25. [Afghanistan: 'Angen gweithredu nawr' ar ailgartrefu pobl](https://www.bbc.co.uk/newyddion/58246445) - Galw ar Lywodraeth y DU i weithredu'n gyflym i roi lloches i bobl sy'n ffoi o Afghanistan.
 26. [Leanne Wood ac Adam Price 'ddim yn ffrindiau ers blynyddoedd'](https://www.bbc.co.uk/newyddion/58234858) - Dywed cyn-arweinydd Plaid Cymru fod yr amseru i'w herio am yr arweinyddiaeth yn "wael" ar ran ei holynydd.
 27. [Charli Britton: Hanner canrif o ddrymio a dylunio](https://www.bbc.co.uk/newyddion/58230800) - Cipolwg ar gyfraniad Charli Britton i gerddoriaeth Gymraeg.
 28. [Sut y daeth sêr Hollywood yn berchnogion Wrecsam](https://www.bbc.co.uk/newyddion/58186778) - Yr hanes y tu ôl i Ryan Reynolds a Rob McElhenney yn prynu clwb pêl-droed hynaf Cymru.
