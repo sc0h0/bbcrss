@@ -1,8 +1,8 @@
 1. [Walleys Quarry: Parents of ill boy take quarry owners to High Court](https://www.bbc.co.uk/news/uk-england-stoke-staffordshire-58245841) - A doctor says continued exposure to the air around the quarry will reduce the boy's life expectancy.
 2. [Plymouth shooting: Church service to remember victims](https://www.bbc.co.uk/news/uk-england-devon-58254573) - The service will remember five people killed in a mass shooting in the Keyham area of the city.
-3. [Banksy: Great Yarmouth model could be replaced by replica](https://www.bbc.co.uk/news/uk-england-norfolk-58247873) - The owner of a tourist attraction says he has a security dilemma after being gifted the artwork.
+3. [Gurkha taken to hospital during Downing Street hunger strike](https://www.bbc.co.uk/news/uk-england-hampshire-58254634) - Former Gurkha soldier Dhan Gurung has refused food for 11 days in a protest over unequal pensions.
 4. ['I make art out of discarded face masks'](https://www.bbc.co.uk/news/uk-england-nottinghamshire-58187835) - Thomas Yates posts artwork he's created out of used face masks on social media.
-5. [Eileen Barrott murder: NHS tribute to nurse as manhunt continues](https://www.bbc.co.uk/news/uk-england-leeds-58243279) - Hospital bosses pay tribute to Eileen Barrott as police continue to search for her husband.
+5. [Banksy: Great Yarmouth model could be replaced by replica](https://www.bbc.co.uk/news/uk-england-norfolk-58247873) - The owner of a tourist attraction says he has a security dilemma after being gifted the artwork.
 6. [Plea for military to attend funeral of Shropshire veteran](https://www.bbc.co.uk/news/uk-england-shropshire-58242816) - Wilfred Dawson, 99, served as a wireless operator with RAF Bomber Command.
 7. [Covid: 'I'm pregnant, should I have the vaccine?'](https://www.bbc.co.uk/news/uk-england-london-58089039) - Many pregnant women have declined the Covid jab, but what's best for the baby?
 8. [Who were the victims?](https://www.bbc.co.uk/news/uk-58202760) - The gunman's mother, Maxine Davison, and three-year-old Sophie Martyn have been named among the dead.

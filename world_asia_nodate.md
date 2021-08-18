@@ -3,7 +3,7 @@
 3. [Afghanistan: The Taliban's victory will test India, and peace in South Asia](https://www.bbc.co.uk/news/world-asia-india-58240301) - How India engages with the Taliban after their rout of Afghanistan could determine the region's fate.
 4. [Afghanistan: What's the impact of Taliban's return on international order?](https://www.bbc.co.uk/news/world-us-canada-58248864) - What is the diplomatic fallout and how allies and rivals are looking at the US following the Taliban takeover?
 5. [Afghanistan: India evacuates diplomats amid security concerns](https://www.bbc.co.uk/news/world-asia-india-58240296) - The country joins several nations who have evacuated their diplomats from Afghanistan.
-6. [Covishield: WHO flags fake jabs in India, Africa](https://www.bbc.co.uk/news/world-asia-india-58253488) - The healthy body said it has found counterfeit versions of the Indian-made Covishield vaccine.
+6. [Covishield: WHO flags fake jabs in India, Africa](https://www.bbc.co.uk/news/world-asia-india-58253488) - The health body says it has found counterfeit versions of the Indian-made Covishield vaccine.
 7. [Covid: Australia's Qantas says all staff must be vaccinated](https://www.bbc.co.uk/news/business-58239790) - The announcement came as New South Wales reported its biggest daily rise in coronavirus infections.
 8. [Sunanda Pushkar case: Shashi Tharoor cleared of wife's murder](https://www.bbc.co.uk/news/world-asia-india-58253494) - Police had charged Shashi Tharoor of aiding his wife Sunanda Pushkar's suicide in 2014.
 9. [Snake slithers out of spice shelves at Sydney supermarket](https://www.bbc.co.uk/news/world-australia-58253378) - The python greeted the woman at the spice shelves - luckily, she happened to be a snake rescuer.
