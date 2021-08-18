@@ -3,7 +3,7 @@
 3. [Israel extends Covid restrictions to three-year-olds as cases surge](https://www.bbc.co.uk/news/world-middle-east-58245285) - Young children must show proof of a negative test to enter many indoor spaces, as infections surge.
 4. [Lithuania says Belarus officers illegally pushed migrants over border](https://www.bbc.co.uk/news/world-europe-58255448) - Video shows 12 Belarusian officers in riot gear as migrants scramble towards Lithuanian territory.
 5. [Haiti earthquake: Death toll reaches nearly 2,000](https://www.bbc.co.uk/news/world-latin-america-58187979) - A few dozen survivors have been pulled alive from under the rubble but many are still feared trapped.
-6. [R Kelly sexual abuse trial under way in New York](https://www.bbc.co.uk/news/entertainment-arts-58254151) - The singer is accused of sexual abuse, racketeering and bribery; charges which he has denied.
+6. [R. Kelly sexual abuse trial under way in New York](https://www.bbc.co.uk/news/entertainment-arts-58254151) - The singer is accused of sexual abuse, racketeering and bribery; charges which he has denied.
 7. [Cuba tightens control of internet after protests](https://www.bbc.co.uk/news/world-latin-america-58255554) - Critics say the new rules are aimed at stifling dissent following mass anti-government demonstrations.
 8. [US lab stands on threshold of key nuclear fusion goal](https://www.bbc.co.uk/news/science-environment-58252784) - A US science institute is on the verge of achieving a longstanding goal in nuclear fusion research.
 9. [How technology in the air battles fires on the ground](https://www.bbc.co.uk/news/world-us-canada-58248261) - Planes equipped with infrared scanners are helping authorities take on historic wildfires in the US.

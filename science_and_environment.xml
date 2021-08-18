@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 18 Aug 2021 16:18:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Aug 2021 16:50:05 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[CFC ban halted climate catastrophe, scientists say]]></title>
+            <description><![CDATA[A global treaty banning ozone-depleting chemicals in 1987 may have averted a climate catastrophe today.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-58248725</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-58248725</guid>
+            <pubDate>Wed, 18 Aug 2021 16:30:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[US lab stands on threshold of key nuclear fusion goal]]></title>
             <description><![CDATA[A US science institute is on the verge of achieving a longstanding goal in nuclear fusion research.]]></description>
@@ -98,13 +105,6 @@
             <link>https://www.bbc.co.uk/news/uk-politics-58170865</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-58170865</guid>
             <pubDate>Thu, 12 Aug 2021 00:22:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Climate change: Curbing methane emissions will 'buy us time']]></title>
-            <description><![CDATA[Scientists say that rapid cuts in methane could be a key tactic in the battle against climate change.]]></description>
-            <link>https://www.bbc.co.uk/news/science-environment-58174111</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-58174111</guid>
-            <pubDate>Wed, 11 Aug 2021 13:59:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Climate Check: Why a warmer world will also be wetter]]></title>
