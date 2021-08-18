@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 18 Aug 2021 22:52:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Aug 2021 23:11:31 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -107,6 +107,13 @@
             <pubDate>Thu, 12 Aug 2021 12:42:38 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Wildfires rage across Europe]]></title>
+            <description><![CDATA[A look at some of the fires spreading across Europe - and the rest of the globe.]]></description>
+            <link>https://www.bbc.co.uk/news/world-58257998</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-58257998</guid>
+            <pubDate>Wed, 18 Aug 2021 23:06:33 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Afghan reporter asks Nato secretary general for help]]></title>
             <description><![CDATA[Lailuma Sadid, a journalist with Brussels Morning Newspaper, became emotional when asking the Nato secretary general about the Taliban in Afghanistan.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-58250062</link>
@@ -133,13 +140,6 @@
             <link>https://www.bbc.co.uk/news/world-europe-58150328</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58150328</guid>
             <pubDate>Mon, 09 Aug 2021 16:52:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['They call me the Irish hulk of basketball']]></title>
-            <description><![CDATA[Aidan Igiehon is part of a group of elite Irish athletes playing college basketball in America.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58017676</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58017676</guid>
-            <pubDate>Fri, 06 Aug 2021 23:07:21 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 18 Aug 2021 22:47:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Aug 2021 23:11:18 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Covid vaccines still effective against Delta variant]]></title>
+            <description><![CDATA[But the jabs were more effective against the Alpha variant, the largest study of its kind suggests.]]></description>
+            <link>https://www.bbc.co.uk/news/health-58257863</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-58257863</guid>
+            <pubDate>Wed, 18 Aug 2021 23:05:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Covid vaccine: US plans to offer booster Covid jabs in September]]></title>
             <description><![CDATA[A third booster Covid vaccine will be offered to anyone who was fully vaccinated eight months ago.]]></description>
