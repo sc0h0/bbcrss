@@ -1,4 +1,4 @@
-1. [CFC ban halted climate catastrophe, scientists say](https://www.bbc.co.uk/news/science-environment-58248725) - A global treaty banning ozone-depleting chemicals in 1987 may have averted a climate catastrophe today.
+1. [CFC ban bought time to fight climate change - scientists](https://www.bbc.co.uk/news/science-environment-58248725) - A global treaty banning ozone-depleting chemicals in 1987 may have averted a climate catastrophe today.
 2. [US lab stands on threshold of key nuclear fusion goal](https://www.bbc.co.uk/news/science-environment-58252784) - A US science institute is on the verge of achieving a longstanding goal in nuclear fusion research.
 3. [Astronomers see galaxies in ultra-high definition](https://www.bbc.co.uk/news/science-environment-57998940) - Researchers capture some of the most detailed images ever seen of galaxies in deep space.
 4. [Hydrogen power offers jobs boost, says government](https://www.bbc.co.uk/news/science-environment-58238367) - Kick-starting a hydrogen industry could attract billions in investment, the UK government says.
