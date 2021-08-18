@@ -9,7 +9,7 @@
 9. [Haiti earthquake: Death toll reaches nearly 2,000](https://www.bbc.co.uk/news/world-latin-america-58187979) - Many people are still feared trapped under the rubble as heavy rains have hampered rescue efforts.
 10. [Outrage at chronic fatigue syndrome advice update pause](https://www.bbc.co.uk/news/health-58241864) - NICE decided to pause the final update to its advice just hours before planned publication.
 11. [Colleges need extra £570m due to rise in students - think tank](https://www.bbc.co.uk/news/education-58233240) - The IFS says England's colleges and sixth forms need extra funds to keep pace with student numbers.
-12. [Greater Manchester Police chief scraps 'tosh' Citizens' Contract](https://www.bbc.co.uk/news/uk-england-manchester-58246694) - Stephen Watson says a scheme defending squeezed police resources was "patronising nonsense".
+12. [Snake slithers out of spice shelves at Sydney supermarket](https://www.bbc.co.uk/news/world-australia-58253378) - The python greeted the woman at the spice shelves - luckily, she happened to be a snake rescuer.
 13. [Ex-marine: I'm not leaving Kabul without my animal rescue staff](https://www.bbc.co.uk/news/uk-58240838) - Founder of an animal sanctuary Pen Farthing urges ministers to get 71 people to safety in the UK.
 14. [Afghanistan: What's the impact of Taliban's return on international order?](https://www.bbc.co.uk/news/world-us-canada-58248864) - What is the diplomatic fallout and how allies and rivals are looking at the US following the Taliban takeover?
 15. [Afghanistan: Mysterious Taliban spokesman finally shows his face](https://www.bbc.co.uk/news/world-asia-58250607) - The spokesman has appeared in public for the first time. But is there more than one Zabihullah Mujahid?
