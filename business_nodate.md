@@ -1,4 +1,4 @@
-1. [US left too quickly, says Afghan bank governor](https://www.bbc.co.uk/news/business-58252065) - The Afghan central bank governor, Ajmal Ahmady, tells the BBC he thinks country's economic situation will deteriorate.
+1. [US left too quickly, says Afghanistan bank governor](https://www.bbc.co.uk/news/business-58252065) - Afghanistan central bank governor, Ajmal Ahmady, tells the BBC he thinks country's economic situation will deteriorate.
 2. [Covid: Australia's Qantas says all staff must be vaccinated](https://www.bbc.co.uk/news/business-58239790) - The announcement came as New South Wales reported its biggest daily rise in coronavirus infections.
 3. [Trendy shoffices and pizza ovens raised lockdown fire risks](https://www.bbc.co.uk/news/business-58245846) - Insurer Zurich says residential outbuilding fires rose by 16% last year compared with 2019.
 4. [Nando's shuts restaurants as it runs short of supplies](https://www.bbc.co.uk/news/business-58249337) - The chain says it will lend some of its own staff to its suppliers, to help tackle delays to deliveries.

@@ -11,17 +11,10 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 18 Aug 2021 05:21:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Aug 2021 05:30:30 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
-        <item>
-            <title><![CDATA[France wildfire: Thousands evacuated as blaze rages near Riviera]]></title>
-            <description><![CDATA[Firefighters clear campsites in the Var region as some 5,000 hectares are destroyed by fire.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58243066</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58243066</guid>
-            <pubDate>Tue, 17 Aug 2021 17:36:07 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[UK to welcome 20,000 Afghans amid Taliban takeover]]></title>
             <description><![CDATA[Some 5,000 refugees will be eligible under a new scheme in the first year, on top of 5,000 Afghan staff.]]></description>
@@ -37,6 +30,27 @@
             <pubDate>Tue, 17 Aug 2021 16:10:52 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[France wildfire: Thousands evacuated as blaze rages near Riviera]]></title>
+            <description><![CDATA[Firefighters clear campsites in the Var region as some 5,000 hectares are destroyed by fire.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58243066</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58243066</guid>
+            <pubDate>Tue, 17 Aug 2021 17:36:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[BBC presenter flees French fires]]></title>
+            <description><![CDATA["It was very, very, very frightening," says Geeta Guru-Murthy.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58250658</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58250658</guid>
+            <pubDate>Tue, 17 Aug 2021 17:38:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bayern Munich beat Borussia Dortmund to retain German Super Cup title]]></title>
+            <description><![CDATA[Bayern Munich striker Robert Lewandowski scores twice to help his side retain the German Super Cup with a 3-1 win over Borussia Dortmund.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58252684</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58252684</guid>
+            <pubDate>Tue, 17 Aug 2021 22:37:13 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Afghanistan: Former football captain fears for players left behind]]></title>
             <description><![CDATA[Ex-Afghanistan captain Khalida Popal told BBC Sport her former colleagues in the country are fearing for their lives.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58243348</link>
@@ -49,13 +63,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-london-58244622</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-58244622</guid>
             <pubDate>Tue, 17 Aug 2021 11:28:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Eurovision singer James Newman wins copyright case over Rudimental hit]]></title>
-            <description><![CDATA[James Newman was sued over a hit song he wrote before coming last at this year's song contest.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-58228430</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-58228430</guid>
-            <pubDate>Mon, 16 Aug 2021 16:22:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Peter Karlsson: The painful verdict on Swedish ice hockey player's 1995 killing]]></title>
@@ -100,13 +107,6 @@
             <pubDate>Thu, 12 Aug 2021 12:42:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[BBC presenter flees French fires]]></title>
-            <description><![CDATA["It was very, very, very frightening," says Geeta Guru-Murthy.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58250658</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58250658</guid>
-            <pubDate>Tue, 17 Aug 2021 17:38:37 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The shopkeeper saving his island from wildfires]]></title>
             <description><![CDATA[Spyros isn't a firefighter, but when his home was threatened with wildfires, he decided to take action.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-58177493</link>
@@ -133,6 +133,13 @@
             <link>https://www.bbc.co.uk/news/world-europe-58017676</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58017676</guid>
             <pubDate>Fri, 06 Aug 2021 23:07:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Will Turkey's bees return after the wildfires?]]></title>
+            <description><![CDATA[Residents of Marmaris, Turkey, are mourning their bees and honey, lost to fires.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-58108697</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-58108697</guid>
+            <pubDate>Thu, 05 Aug 2021 23:01:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
