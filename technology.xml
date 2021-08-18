@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 18 Aug 2021 17:11:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Aug 2021 17:31:00 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Apple censors engraving service, report claims]]></title>
+            <description><![CDATA[Apple restricts the engraving of political phrases in China, Hong Kong and Taiwan, a report alleges.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-58258385</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-58258385</guid>
+            <pubDate>Wed, 18 Aug 2021 17:17:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Twitter tests 'misleading' post report button for first time]]></title>
             <description><![CDATA[Many large social media firms have been accused of not doing enough to fight the spread of disinformation.]]></description>
@@ -91,13 +98,6 @@
             <link>https://www.bbc.co.uk/news/business-58233743</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58233743</guid>
             <pubDate>Mon, 16 Aug 2021 14:13:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Streaming service DAZN seeks to shake up TV sport]]></title>
-            <description><![CDATA[Boss James Rushton has ambitious expansion plans for the service dubbed "the Netflix of sport".]]></description>
-            <link>https://www.bbc.co.uk/news/business-58219424</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58219424</guid>
-            <pubDate>Sun, 15 Aug 2021 23:01:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Green aviation: Electric powered plane trialled over Orkney]]></title>

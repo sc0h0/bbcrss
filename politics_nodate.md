@@ -1,4 +1,4 @@
-1. [MPs on all sides accuse Boris Johnson of Afghanistan failures](https://www.bbc.co.uk/news/uk-politics-58254794) - The PM comes in for a barrage of criticism from opposition parties and Tory MPs who served in the Army.
+1. [MPs on all sides accuse Boris Johnson of Afghanistan failures](https://www.bbc.co.uk/news/uk-politics-58254794) - The PM says the UK achieved its goals - but MPs accuse him of failing Afghans and British veterans.
 2. [Tom Tugendhat on UK and Afghanistan: Anger, grief, rage](https://www.bbc.co.uk/news/uk-politics-58259509) - Tory MP Tom Tugendhat speaks of the anger, grief and rage of veterans at the "abandonment" of Afghanistan.
 3. [Austin Mitchell: Former Great Grimsby MP dies aged 86](https://www.bbc.co.uk/news/uk-england-humber-58257189) - Labour leader Keir Starmer leads tributes, saying Mr Mitchell served "with remarkable commitment".
 4. [Covid: Most Conservative MPs ditch masks as Commons returns](https://www.bbc.co.uk/news/uk-politics-58259604) - Mask wearing appears to divide along party lines, during a packed debate on Afghanistan.
