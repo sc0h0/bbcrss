@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 17 Aug 2021 23:49:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Aug 2021 00:25:39 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -20,7 +20,7 @@
             <description><![CDATA[Some 5,000 refugees will be eligible under a new scheme in the first year, on top of 5,000 Afghan staff.]]></description>
             <link>https://www.bbc.co.uk/news/uk-58250211</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58250211</guid>
-            <pubDate>Tue, 17 Aug 2021 21:29:09 GMT</pubDate>
+            <pubDate>Tue, 17 Aug 2021 23:56:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Afghan women to have rights within Islamic law, Taliban say]]></title>
@@ -35,6 +35,13 @@
             <link>https://www.bbc.co.uk/news/health-58241858</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/health-58241858</guid>
             <pubDate>Tue, 17 Aug 2021 17:18:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['NHS abandoned me after I tried to kill myself']]></title>
+            <description><![CDATA[Mental health referrals across the UK have hit their highest point for two years.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-58085428</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58085428</guid>
+            <pubDate>Wed, 18 Aug 2021 00:05:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Trendy shoffices and pizza ovens raised lockdown fire risks]]></title>
@@ -84,13 +91,6 @@
             <link>https://www.bbc.co.uk/news/business-58251211</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58251211</guid>
             <pubDate>Tue, 17 Aug 2021 18:56:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Plymouth gunman had lockdown mental health help]]></title>
-            <description><![CDATA[Jake Davison, who killed five people in Plymouth, used a mental health helpline, the NHS says.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-devon-58248391</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-devon-58248391</guid>
-            <pubDate>Tue, 17 Aug 2021 17:21:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Greater Manchester Police chief scraps 'tosh' Citizens' Contract]]></title>
@@ -156,6 +156,27 @@
             <pubDate>Tue, 17 Aug 2021 22:45:41 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid: 'I'm pregnant, should I have the vaccine?']]></title>
+            <description><![CDATA[Many pregnant women have declined the Covid jab, but what's best for the baby?]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-58089039</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-58089039</guid>
+            <pubDate>Tue, 17 Aug 2021 23:12:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['I make art out of discarded face masks']]></title>
+            <description><![CDATA[Thomas Yates posts artwork he's created out of used face masks on social media.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-nottinghamshire-58187835</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-nottinghamshire-58187835</guid>
+            <pubDate>Tue, 17 Aug 2021 23:12:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How technology in the air battles fires on the ground]]></title>
+            <description><![CDATA[Planes equipped with infrared scanners are helping authorities take on historic wildfires in the US.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-58248261</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-58248261</guid>
+            <pubDate>Tue, 17 Aug 2021 21:53:09 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Astronomers see galaxies in ultra-high definition]]></title>
             <description><![CDATA[Researchers capture some of the most detailed images ever seen of galaxies in deep space.]]></description>
             <link>https://www.bbc.co.uk/news/science-environment-57998940</link>
@@ -177,32 +198,32 @@
             <pubDate>Tue, 17 Aug 2021 20:05:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Israel battles huge wildfire near Jerusalem]]></title>
-            <description><![CDATA[The blaze has destroyed some 2,000 hectares (5,000 acres) of forest over the past three days.]]></description>
-            <link>https://www.bbc.co.uk/news/world-middle-east-58243631</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-58243631</guid>
-            <pubDate>Tue, 17 Aug 2021 10:29:19 GMT</pubDate>
+            <title><![CDATA[Afghanistan: The 'pure devastation and guilt' of British-Afghans]]></title>
+            <description><![CDATA[We chat to young people in the UK who have family in Afghanistan, as the Taliban take control.]]></description>
+            <link>https://www.bbc.co.uk/news/newsbeat-58242443</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-58242443</guid>
+            <pubDate>Tue, 17 Aug 2021 23:10:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Ice cream van firm banned from Lowestoft street over noise complaint]]></title>
-            <description><![CDATA[Lamarti's vans are forbidden from entering one street after complaints about noise.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-suffolk-58243851</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-suffolk-58243851</guid>
-            <pubDate>Tue, 17 Aug 2021 13:44:30 GMT</pubDate>
+            <title><![CDATA[The little-known human stories behind emoji designs]]></title>
+            <description><![CDATA[The surprising story of how some tiny characters ended up on billions of smartphone keyboards.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-58180556</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-58180556</guid>
+            <pubDate>Tue, 17 Aug 2021 23:05:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[From a Manchester council estate to ballet dancing in Swan Lake]]></title>
-            <description><![CDATA[Isaac Bowry is from a Manchester council estate and wants to show that "dancing is for everyone".]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-manchester-58206917</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-manchester-58206917</guid>
-            <pubDate>Tue, 17 Aug 2021 05:28:54 GMT</pubDate>
+            <title><![CDATA[Nubya Garcia: The British sax star who is jazzing up the BBC Proms]]></title>
+            <description><![CDATA[Saxophonist Nubya Garcia on playing Royal Albert Hall, the Mercury Prize and "natural vibrations".]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-58112962</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-58112962</guid>
+            <pubDate>Tue, 17 Aug 2021 23:51:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Geronimo the alpaca gets temporary reprieve as hearing is adjourned]]></title>
-            <description><![CDATA[A High Court hearing for a temporary injunction to halt his death is adjourned for 24 hours.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-gloucestershire-58241387</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-gloucestershire-58241387</guid>
-            <pubDate>Tue, 17 Aug 2021 15:31:19 GMT</pubDate>
+            <title><![CDATA[Never mind going electric, where will we park?]]></title>
+            <description><![CDATA[UK roads are already jam-packed and that looks set to get worse as more people snap up EVs.]]></description>
+            <link>https://www.bbc.co.uk/news/business-56748346</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-56748346</guid>
+            <pubDate>Tue, 17 Aug 2021 23:05:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Afghanistan: 'My family is stuck and there is nothing I can do']]></title>
@@ -231,20 +252,6 @@
             <link>https://www.bbc.co.uk/sport/ice-hockey/58101549</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/ice-hockey/58101549</guid>
             <pubDate>Mon, 16 Aug 2021 23:01:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Just how hard is it to recycle a jumbo jet?]]></title>
-            <description><![CDATA[Thousands of aircraft were left on the tarmac due to Covid, and many will now be broken up for parts.]]></description>
-            <link>https://www.bbc.co.uk/news/business-57983174</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57983174</guid>
-            <pubDate>Mon, 16 Aug 2021 22:59:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hakainde Hichilema: The Zambian 'cattle boy' who became president]]></title>
-            <description><![CDATA[After six attempts, Hakainde Hichilema has finally become president of Zambia.]]></description>
-            <link>https://www.bbc.co.uk/news/world-africa-58229710</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-58229710</guid>
-            <pubDate>Mon, 16 Aug 2021 16:29:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Livingstone powers Phoenix into men's Hundred final with brilliant 92 off 40 balls]]></title>
@@ -282,18 +289,18 @@
             <pubDate>Tue, 17 Aug 2021 21:37:26 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Hendry clinches first main-draw win since professional comeback]]></title>
+            <description><![CDATA[Stephen Hendry claims his first main-draw win since his return to the professional tour with a 3-2 victory over Chris Wakelin at the British Open.]]></description>
+            <link>https://www.bbc.co.uk/sport/snooker/58249638</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/snooker/58249638</guid>
+            <pubDate>Tue, 17 Aug 2021 23:30:55 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Clucas taunts Swansea fans as Stoke go second with win]]></title>
             <description><![CDATA[Stoke City's promising start to the season continues as they claim an impressive 3-1 victory at Swansea City.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58154317</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58154317</guid>
             <pubDate>Tue, 17 Aug 2021 20:38:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['All the dreams have just gone' - former Afghanistan captain's fears for homeland]]></title>
-            <description><![CDATA[Ex-Afghanistan captain Khalida Popal told BBC Sport her former colleagues in the country are fearing for their lives.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58243348</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58243348</guid>
-            <pubDate>Tue, 17 Aug 2021 16:14:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19 in the UK: How many coronavirus cases are there in my area?]]></title>
