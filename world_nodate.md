@@ -20,7 +20,3 @@
 20. [Afghan reporter asks Nato secretary general for help](https://www.bbc.co.uk/news/world-asia-58250062) - Lailuma Sadid, a journalist with Brussels Morning Newspaper, became emotional when asking the Nato secretary general about the Taliban in Afghanistan.
 21. [Afghanistan: Female presenters back on Tolo News after Taliban takeover](https://www.bbc.co.uk/news/world-asia-58241000) - Women had been noticeably absent from major news outlets after the Taliban took control of Afghanistan.
 22. [Images show decline of California's 'life source'](https://www.bbc.co.uk/news/world-us-canada-58232044) - Justin Sullivan has been following California's second-largest reservoir's falling water levels.
-23. [Khaled Hosseini: ‘A sliver of hope’ for Afghanistan](https://www.bbc.co.uk/news/world-asia-58245606) - This is a different country to the one the Taliban left, I hope they adapt to it, the author says.
-24. [How America watched as Taliban won the war](https://www.bbc.co.uk/news/world-us-canada-58245056) - US military veterans and Afghan Americans reflect on a dramatic day - and the two-decade conflict.
-25. [Malala: 'Futures of Afghan child refugees aren't lost'](https://www.bbc.co.uk/news/world-asia-58236327) - Nobel peace laureate, Malala Yousafzai was shot in the head by the Taliban in 2012.
-26. [How the Taliban stormed across Afghanistan in ten days](https://www.bbc.co.uk/news/world-58232525) - The Taliban took their first city on 6 Aug and arrived in Kabul just over a week later.
