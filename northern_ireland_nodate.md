@@ -3,7 +3,7 @@
 3. [Covid-19: Eleven more deaths and 1,345 new cases](https://www.bbc.co.uk/news/uk-northern-ireland-58260412) - There are currently 394 patients with Covid in Northern Ireland's hospitals, up from 392 on Tuesday.
 4. [Covid-19: Mental health referrals in NI down 29% during pandemic](https://www.bbc.co.uk/news/uk-northern-ireland-58232021) - Health department says fall indicates people were not seeking help, rather than not needing it.
 5. [Black Lives Matter protest fines: PSNI reputation 'damaged'](https://www.bbc.co.uk/news/uk-northern-ireland-58254492) - An organiser of a Black Lives Matter protest in Londonderry says refunding the fines was "inevitable".
-6. [Troubles' prosecutions: Military veterans to meet Brandon Lewis](https://www.bbc.co.uk/news/uk-northern-ireland-58253891) - Plans to end Troubles' era prosecutions are opposed by NI political parties and victims' groups.
+6. [Troubles' prosecutions: Military veterans meet Brandon Lewis](https://www.bbc.co.uk/news/uk-northern-ireland-58253891) - Plans to end Troubles' era prosecutions are opposed by NI political parties and victims' groups.
 7. [Taxi firms in NI 'slaughtered with work' amid driver shortage](https://www.bbc.co.uk/news/uk-northern-ireland-58244497) - The number of registered taxi drivers in Northern Ireland fell by 809 in the past year.
 8. [Six arrested after group fight in Buncrana Road, Derry](https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58249077) - It was reported a group of men were fighting in the forecourt of a filling station in Buncrana Road.
 9. [Wrightbus to boost Ballymena workforce by 300](https://www.bbc.co.uk/news/uk-northern-ireland-58232029) - As orders for zero-emission buses rise, the firms says 120 temporary jobs will also be made permanent.
