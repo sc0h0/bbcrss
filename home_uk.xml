@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 18 Aug 2021 05:50:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Aug 2021 06:20:33 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -28,6 +28,13 @@
             <link>https://www.bbc.co.uk/news/world-asia-58249952</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58249952</guid>
             <pubDate>Tue, 17 Aug 2021 20:32:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Inflation rate falls to Bank of England's target]]></title>
+            <description><![CDATA[The inflation rate hit 2% in July, falling to the Bank of England's target.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-58254000</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58254000</guid>
+            <pubDate>Wed, 18 Aug 2021 06:14:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-vaccine scientists begin plague-jab trial]]></title>
@@ -77,13 +84,6 @@
             <link>https://www.bbc.co.uk/news/world-latin-america-58187979</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-latin-america-58187979</guid>
             <pubDate>Wed, 18 Aug 2021 03:34:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Outrage at chronic fatigue syndrome advice update pause]]></title>
-            <description><![CDATA[NICE decided to pause the final update to its advice just hours before planned publication.]]></description>
-            <link>https://www.bbc.co.uk/news/health-58241864</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-58241864</guid>
-            <pubDate>Tue, 17 Aug 2021 23:06:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Colleges need extra £570m due to rise in students - think tank]]></title>
@@ -266,13 +266,6 @@
             <link>https://www.bbc.co.uk/sport/av/cricket/58249596</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/cricket/58249596</guid>
             <pubDate>Tue, 17 Aug 2021 20:27:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Konta knocked out in first round of Cincinnati Open]]></title>
-            <description><![CDATA[British number one Johanna Konta loses in the first round of the Cincinnati Open to Karolina Muchova.]]></description>
-            <link>https://www.bbc.co.uk/sport/tennis/58249520</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/tennis/58249520</guid>
-            <pubDate>Tue, 17 Aug 2021 20:14:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Venezia FC: The club built on water rising to the top of Italian football]]></title>
