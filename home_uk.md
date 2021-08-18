@@ -1,4 +1,4 @@
-1. [UK to welcome 20,000 Afghans amid Taliban takeover](https://www.bbc.co.uk/news/uk-58250211) - Tue, 17 Aug 2021 23:56:43 GMT - Some 5,000 refugees will be eligible under a new scheme in the first year, on top of 5,000 Afghan staff.
+1. [UK to welcome 20,000 Afghans amid Taliban takeover](https://www.bbc.co.uk/news/uk-58250211) - Wed, 18 Aug 2021 03:32:27 GMT - Some 5,000 refugees will be eligible under a new scheme in the first year, on top of 5,000 Afghan staff.
 2. [Afghan women to have rights within Islamic law, Taliban say](https://www.bbc.co.uk/news/world-asia-58249952) - Tue, 17 Aug 2021 20:32:47 GMT - The militant group, which has taken control of Afghanistan, is pressed on fears over women's freedoms.
 3. [Covid-vaccine scientists begin plague-jab trial](https://www.bbc.co.uk/news/health-58241858) - Tue, 17 Aug 2021 17:18:40 GMT - The first volunteers have received a dose of the vaccine, made using the same technology as the Covid jab.
 4. ['NHS abandoned me after I tried to kill myself'](https://www.bbc.co.uk/news/uk-58085428) - Wed, 18 Aug 2021 00:05:05 GMT - Mental health referrals across the UK have hit their highest point for two years.
