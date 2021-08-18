@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 18 Aug 2021 10:38:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Aug 2021 10:46:25 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -51,18 +51,18 @@
             <pubDate>Wed, 18 Aug 2021 05:31:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Plea for military to attend funeral of Shropshire veteran]]></title>
-            <description><![CDATA[Wilfred Dawson, 99, served as a wireless operator with RAF Bomber Command.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-shropshire-58242816</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-shropshire-58242816</guid>
-            <pubDate>Wed, 18 Aug 2021 05:06:44 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Teenage pilot Zara Rutherford begins solo round-world record bid]]></title>
-            <description><![CDATA[Zara Rutherford begins the first leg of her journey from Belgium to England.]]></description>
+            <description><![CDATA[Zara Rutherford completes the first leg of her journey from Belgium to England.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-hampshire-58256386</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-hampshire-58256386</guid>
-            <pubDate>Wed, 18 Aug 2021 09:45:32 GMT</pubDate>
+            <pubDate>Wed, 18 Aug 2021 10:45:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Portrait artist captures Southampton's homeless community]]></title>
+            <description><![CDATA[Artist James Earley uses his work to raise awareness of homelessness and money for charity.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-hampshire-58246412</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-hampshire-58246412</guid>
+            <pubDate>Wed, 18 Aug 2021 09:16:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Who were the victims?]]></title>
@@ -156,6 +156,13 @@
             <pubDate>Wed, 18 Aug 2021 05:22:38 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Plea for military to attend funeral of Shropshire veteran]]></title>
+            <description><![CDATA[Wilfred Dawson, 99, served as a wireless operator with RAF Bomber Command.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-shropshire-58242816</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-shropshire-58242816</guid>
+            <pubDate>Wed, 18 Aug 2021 05:06:44 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Plea to respect Stonehenge research sites in Pembrokeshire]]></title>
             <description><![CDATA[A BBC documentary has attracted more visitors to the ancient monuments, a national park says.]]></description>
             <link>https://www.bbc.co.uk/news/uk-wales-58247235</link>
@@ -168,13 +175,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-birmingham-58244518</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-birmingham-58244518</guid>
             <pubDate>Tue, 17 Aug 2021 12:48:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ice cream van firm banned from Lowestoft street over noise complaint]]></title>
-            <description><![CDATA[Lamarti's vans are forbidden from entering one street after complaints about noise.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-suffolk-58243851</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-suffolk-58243851</guid>
-            <pubDate>Tue, 17 Aug 2021 13:44:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: 'I'm pregnant, should I have the vaccine?']]></title>
@@ -212,18 +212,18 @@
             <pubDate>Tue, 17 Aug 2021 16:25:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Hundred: Liam Livingstone powers Birmingham Phoenix into men's Hundred final]]></title>
-            <description><![CDATA[Liam Livingstone's devastating hitting powers Birmingham Phoenix straight into the men's Hundred final with a crushing eight-wicket win over Northern Superchargers.]]></description>
-            <link>https://www.bbc.co.uk/sport/cricket/58250735</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/58250735</guid>
-            <pubDate>Tue, 17 Aug 2021 20:32:39 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Hayley Raso: 'I want to earn my spot' at Manchester City]]></title>
             <description><![CDATA[Hayley Raso says she is "a fighter" and wants to earn her spot in the Manchester City side.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58246316</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58246316</guid>
             <pubDate>Wed, 18 Aug 2021 09:30:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Hundred: Liam Livingstone powers Birmingham Phoenix into men's Hundred final]]></title>
+            <description><![CDATA[Liam Livingstone's devastating hitting powers Birmingham Phoenix straight into the men's Hundred final with a crushing eight-wicket win over Northern Superchargers.]]></description>
+            <link>https://www.bbc.co.uk/sport/cricket/58250735</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/58250735</guid>
+            <pubDate>Tue, 17 Aug 2021 20:32:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Millwall 1-2 Fulham: Goals from Aleksandar Mitrovic and Fabio Carvalho settle derby]]></title>
@@ -238,13 +238,6 @@
             <link>https://www.bbc.co.uk/sport/football/58242137</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58242137</guid>
             <pubDate>Tue, 17 Aug 2021 10:55:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bristol City end winless run with victory at Reading]]></title>
-            <description><![CDATA[Fit-again Andi Weimann nets twice as Bristol City claim their first Championship win since March at Reading.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58154322</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58154322</guid>
-            <pubDate>Tue, 17 Aug 2021 22:21:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
