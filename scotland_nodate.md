@@ -1,7 +1,7 @@
 1. [Covid in Scotland: Exams planned to go ahead as normal next year](https://www.bbc.co.uk/news/uk-scotland-58254324) - The Scottish government confirms exams will go ahead in spring 2022 as long as it is safe.
 2. [Scottish public spending deficit doubles to £36bn](https://www.bbc.co.uk/news/uk-scotland-58256028) - Spending on public services rose to almost £100bn as revenue fell due to the Covid pandemic.
 3. [What is Gers and how is it calculated?](https://www.bbc.co.uk/news/uk-scotland-45271076) - The annual constitutional battle over the official economic statistics is set to resume.
-4. [Pair sentenced for murder of gym owner Gary More](https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58256654) - The two men took part in the fatal shooting of Gary More outside his South Lanarkshire home in 2018.
+4. [Pair sentenced for murder of gym owner Gary More](https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58256654) - The two men took part in the fatal shooting of Gary More outside his North Lanarkshire home in 2018.
 5. [Police officer injured in Edinburgh Castle protest](https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-58254322) - A group of about 20 people entered the building on Tuesday without paying and refused to leave.
 6. [Kathleen Jamie announced as Scotland's new Makar](https://www.bbc.co.uk/news/uk-scotland-58256647) - Kathleen Jamie is the fourth person to hold the title and takes over from poet Jackie Kay.
 7. [VHS fan bids to save 20,000 tapes from being dumped](https://www.bbc.co.uk/news/uk-scotland-tayside-central-58249498) - A video shop owner and film buff is travelling from Liverpool to Dundee to pick up the haul from a collector.

@@ -5,8 +5,8 @@
 5. [US lab stands on threshold of key nuclear fusion goal](https://www.bbc.co.uk/news/science-environment-58252784) - A US science institute is on the verge of achieving a longstanding goal in nuclear fusion research.
 6. [Covid in Scotland: Exams planned to go ahead as normal next year](https://www.bbc.co.uk/news/uk-scotland-58254324) - The Scottish government confirms exams will go ahead in spring 2022 as long as it is safe.
 7. [Silverdale quarry smell: High Court legal challenge over noxious gas](https://www.bbc.co.uk/news/uk-england-stoke-staffordshire-58245841) - The family of a boy with breathing difficulties who live near the landfill are bringing the case.
-8. [Price rises cool amid clothes and shoe discounting](https://www.bbc.co.uk/news/uk-58254000) - The UK inflation rate fell by more than expected to 2% in July, down from 2.5% the previous month.
-9. [Northern English regions drive house price growth](https://www.bbc.co.uk/news/business-58256169) - Wales also records rapid rises as the UK sees property prices go up at the fastest rate for 17 years.
+8. [Northern English regions drive house price growth](https://www.bbc.co.uk/news/business-58256169) - Wales also records rapid rises as the UK sees property prices go up at the fastest rate for 17 years.
+9. [Price rises cool amid clothes and shoe discounting](https://www.bbc.co.uk/news/uk-58254000) - The UK inflation rate fell by more than expected to 2% in July, down from 2.5% the previous month.
 10. [Scottish public spending deficit doubles to £36bn](https://www.bbc.co.uk/news/uk-scotland-58256028) - Spending on public services rose to almost £100bn as revenue fell due to the Covid pandemic.
 11. [Nando's shuts restaurants as it runs short of supplies](https://www.bbc.co.uk/news/business-58249337) - The chain says it will lend some of its own staff to its suppliers, to help tackle delays to deliveries.
 12. [Covid: 'I'm pregnant, should I have the vaccine?'](https://www.bbc.co.uk/news/uk-england-london-58089039) - Many pregnant women have declined the Covid jab, but what's best for the baby?

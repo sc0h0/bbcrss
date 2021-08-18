@@ -1,6 +1,6 @@
 1. [Afghan women to have rights within Islamic law, Taliban say](https://www.bbc.co.uk/news/world-asia-58249952) - The militant group, which has taken control of Afghanistan, is pressed on fears over women's freedoms.
 2. [Lithuania says Belarus officers illegally pushed migrants over border](https://www.bbc.co.uk/news/world-europe-58255448) - Video shows 12 Belarusian officers in riot gear as migrants scramble towards Lithuanian territory.
-3. [Haiti earthquake: Death toll reaches nearly 2,000](https://www.bbc.co.uk/news/world-latin-america-58187979) - Many people are still feared trapped under the rubble as heavy rains have hampered rescue efforts.
+3. [Haiti earthquake: Death toll reaches nearly 2,000](https://www.bbc.co.uk/news/world-latin-america-58187979) - A few dozen survivors have been pulled alive from under the rubble but many are still feared trapped.
 4. [Covishield: WHO flags fake jabs in India, Africa](https://www.bbc.co.uk/news/world-asia-india-58253488) - The health body says it has found counterfeit versions of the Indian-made Covishield vaccine.
 5. [Snake slithers out of spice shelves at Sydney supermarket](https://www.bbc.co.uk/news/world-australia-58253378) - The python greeted the woman at the spice shelves - luckily, she happened to be a snake rescuer.
 6. [Cuba tightens control of internet after protests](https://www.bbc.co.uk/news/world-latin-america-58255554) - Critics say the new rules are aimed at stifling dissent following mass anti-government demonstrations.
