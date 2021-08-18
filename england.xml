@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 18 Aug 2021 11:27:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Aug 2021 11:41:01 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -149,6 +149,13 @@
             <pubDate>Wed, 18 Aug 2021 10:25:30 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[York Minster unveils Queen's jubilee statue design]]></title>
+            <description><![CDATA[The statue will feature the sovereign wearing her Garter robes along with the orb and sceptre, the Minster says.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-58254141</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-58254141</guid>
+            <pubDate>Wed, 18 Aug 2021 11:26:59 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA['NHS abandoned me after I tried to kill myself']]></title>
             <description><![CDATA[Mental health referrals across the UK have hit their highest point for two years.]]></description>
             <link>https://www.bbc.co.uk/news/uk-58085428</link>
@@ -168,13 +175,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-shropshire-58242816</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-shropshire-58242816</guid>
             <pubDate>Wed, 18 Aug 2021 05:06:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Plea to respect Stonehenge research sites in Pembrokeshire]]></title>
-            <description><![CDATA[A BBC documentary has attracted more visitors to the ancient monuments, a national park says.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-58247235</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58247235</guid>
-            <pubDate>Wed, 18 Aug 2021 05:06:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: 'I'm pregnant, should I have the vaccine?']]></title>
@@ -219,6 +219,13 @@
             <pubDate>Wed, 18 Aug 2021 09:30:18 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Yui Hasegawa: West Ham sign Japan midfielder]]></title>
+            <description><![CDATA[Women's Super League side West Ham United sign Japan international Yui Hasegawa on a two-year deal.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58258707</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58258707</guid>
+            <pubDate>Wed, 18 Aug 2021 11:36:25 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The Hundred: Liam Livingstone powers Birmingham Phoenix into men's Hundred final]]></title>
             <description><![CDATA[Liam Livingstone's devastating hitting powers Birmingham Phoenix straight into the men's Hundred final with a crushing eight-wicket win over Northern Superchargers.]]></description>
             <link>https://www.bbc.co.uk/sport/cricket/58250735</link>
@@ -231,13 +238,6 @@
             <link>https://www.bbc.co.uk/sport/football/58154318</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58154318</guid>
             <pubDate>Tue, 17 Aug 2021 21:31:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tammy Abraham: Roma sign striker from Chelsea for £34m on five-year deal]]></title>
-            <description><![CDATA[Striker Tammy Abraham completes a £34m move to Italian side Roma from Chelsea.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58242137</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58242137</guid>
-            <pubDate>Tue, 17 Aug 2021 10:55:28 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -1,5 +1,5 @@
-1. [Afghanistan: NI to offer a 'safe place' for refugees](https://www.bbc.co.uk/news/uk-northern-ireland-58250446) - MPs from Northern Ireland are among those at Westminster, as Parliament is recalled.
-2. [NI house prices 9% higher than same period last year](https://www.bbc.co.uk/news/uk-northern-ireland-58256311) - House prices in Northern Ireland from March to June were 9% higher than the same time last year.
+1. [NI house prices 9% higher than same period last year](https://www.bbc.co.uk/news/uk-northern-ireland-58256311) - House prices in Northern Ireland from March to June were 9% higher than the same time last year.
+2. [Afghanistan: NI to offer a 'safe place' for refugees](https://www.bbc.co.uk/news/uk-northern-ireland-58250446) - MPs from Northern Ireland are among those at Westminster, as Parliament is recalled.
 3. [Covid-19: Mental health referrals in NI down 29% during pandemic](https://www.bbc.co.uk/news/uk-northern-ireland-58232021) - Health department says fall indicates people were not seeking help, rather than not needing it.
 4. [Black Lives Matter protest fines: PSNI reputation 'damaged'](https://www.bbc.co.uk/news/uk-northern-ireland-58254492) - An organiser of a Black Lives Matter protest in Londonderry says refunding the fines was "inevitable".
 5. [Troubles' prosecutions: Military veterans to meet Brandon Lewis](https://www.bbc.co.uk/news/uk-northern-ireland-58253891) - Plans to end Troubles' era prosecutions are opposed by NI political parties and victims' groups.
