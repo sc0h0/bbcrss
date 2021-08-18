@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 18 Aug 2021 07:49:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Aug 2021 07:57:06 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -268,6 +268,13 @@
             <pubDate>Wed, 11 Aug 2021 17:57:29 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Afghanistan: UK's resettlement plans will be international effort]]></title>
+            <description><![CDATA[The home secretary says resettlement plans for Afghan refugees will be an international effort.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-58255116</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58255116</guid>
+            <pubDate>Wed, 18 Aug 2021 07:46:20 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Keir Starmer on UK help to get Brits and Afghans out of Kabul]]></title>
             <description><![CDATA[Britain owes an obligation to people who have worked for the UK, says the Labour leader over people trying to leave Afghanistan.]]></description>
             <link>https://www.bbc.co.uk/news/uk-politics-58247112</link>
@@ -296,13 +303,6 @@
             <pubDate>Mon, 16 Aug 2021 11:52:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Afghanistan: US and UK withdrawal a catastrophic miscalculation, says Nandy]]></title>
-            <description><![CDATA[The shadow foreign secretary calls on the UK government to act amid the unfolding crisis.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58220904</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58220904</guid>
-            <pubDate>Sun, 15 Aug 2021 11:00:50 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Biden's speech on Afghanistan fact-checked]]></title>
             <description><![CDATA[How consistent was President Biden's speech with his previous statements on Afghanistan?]]></description>
             <link>https://www.bbc.co.uk/news/58243158</link>
@@ -310,11 +310,11 @@
             <pubDate>Tue, 17 Aug 2021 11:41:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Afghanistan: What's the impact of Taliban's return on international order?]]></title>
-            <description><![CDATA[What is the diplomatic fallout and how allies and rivals are looking at the US following the Taliban takeover?]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-58248864</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-58248864</guid>
-            <pubDate>Tue, 17 Aug 2021 20:44:08 GMT</pubDate>
+            <title><![CDATA[What has the UK government done for Afghan asylum seekers?]]></title>
+            <description><![CDATA[A scheme to resettle people fleeing Afghanistan is expected to be announced shortly.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-58245684</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58245684</guid>
+            <pubDate>Wed, 18 Aug 2021 00:27:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Could Scots be guaranteed a minimum income?]]></title>
@@ -324,11 +324,25 @@
             <pubDate>Tue, 17 Aug 2021 05:24:30 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Afghanistan: What's the impact of Taliban's return on international order?]]></title>
+            <description><![CDATA[What is the diplomatic fallout and how allies and rivals are looking at the US following the Taliban takeover?]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-58248864</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-58248864</guid>
+            <pubDate>Tue, 17 Aug 2021 20:44:08 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[COP26: How serious is the government about climate conference?]]></title>
             <description><![CDATA[With less than 90 days to go to Glasgow climate summit, there is uncertainty surrounding the event.]]></description>
             <link>https://www.bbc.co.uk/news/uk-politics-58107010</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-58107010</guid>
             <pubDate>Thu, 05 Aug 2021 20:10:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ben Elliot: Conservative Party money man with A-list connections]]></title>
+            <description><![CDATA[Tory fundraiser and co-chairman Ben Elliot is at the centre of controversy over an elite donors club.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-58100884</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-58100884</guid>
+            <pubDate>Thu, 12 Aug 2021 08:39:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Berlin embassy arrest: A case of old-school spying?]]></title>
@@ -350,13 +364,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-london-58058031</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-58058031</guid>
             <pubDate>Fri, 06 Aug 2021 00:01:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ben Elliot: Conservative Party money man with A-list connections]]></title>
-            <description><![CDATA[Tory fundraiser and co-chairman Ben Elliot is at the centre of controversy over an elite donors club.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-58100884</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-58100884</guid>
-            <pubDate>Thu, 12 Aug 2021 08:39:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Indyref2: Why has the campaign for another vote gone quiet?]]></title>

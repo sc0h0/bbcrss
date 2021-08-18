@@ -1,13 +1,13 @@
 1. [Plaid Cymru: Ex-leader no longer friends with successor](https://www.bbc.co.uk/news/uk-wales-politics-58159654) - Leanne Wood says Adam Price made "a bad judgement call" in the timing of his leadership challenge.
 2. [Post Office scandal: Cleared sub-postmaster's compensation imminent, lawyer says](https://www.bbc.co.uk/news/uk-wales-58233304) - Noel Thomas is one of dozens to have their false accounting convictions quashed.
 3. [Plea to respect Stonehenge research sites in Pembrokeshire](https://www.bbc.co.uk/news/uk-wales-58247235) - A BBC documentary has attracted more visitors to the ancient monuments, a national park says.
-4. [Pembrokeshire County Show: Animals and members only on return](https://www.bbc.co.uk/news/uk-wales-58246688) - In a normal year 100,000 people would attend - but this time only members and animals can come.
-5. [Art: Paintings by Sir Kyffin Williams sell for £39,000](https://www.bbc.co.uk/news/uk-wales-58243611) - The artworks, by one of Wales' most renowned artists, are described as "a truly wonderful find".
-6. [Pembrokeshire woman injured in American bulldog attack](https://www.bbc.co.uk/news/uk-wales-58248554) - The dog has been put down and police have launched an investigation.
-7. [Child, 2, dies after Deeside incident, prompting investigation](https://www.bbc.co.uk/news/uk-wales-58246055) - The child died in hospital on Monday following an incident at a property on Saturday.
-8. [Covid: NHS worker unlikely to have caught virus at work](https://www.bbc.co.uk/news/uk-wales-58241511) - A coroner says Alan Macalalad's suffered health issues before his death from natural causes.
-9. [Covid-19: Deaths rise in Wales to 22](https://www.bbc.co.uk/news/uk-wales-58244250) - Covid deaths increased in Wales but are still well below levels in the second wave, figures show.
-10. [Staff shortages remain despite more out of work in Wales](https://www.bbc.co.uk/news/uk-wales-58241503) - The number of people out of work fell in the past three months but is still higher than last year.
+4. [Afghanistan: Refugees should be housed 'in all parts' of UK](https://www.bbc.co.uk/news/uk-wales-58246941) - Welsh councils have so far agreed to house at least 24 families fleeing Afghanistan.
+5. [Pembrokeshire County Show: Animals and members only on return](https://www.bbc.co.uk/news/uk-wales-58246688) - In a normal year 100,000 people would attend - but this time only members and animals can come.
+6. [Art: Paintings by Sir Kyffin Williams sell for £39,000](https://www.bbc.co.uk/news/uk-wales-58243611) - The artworks, by one of Wales' most renowned artists, are described as "a truly wonderful find".
+7. [Pembrokeshire woman injured in American bulldog attack](https://www.bbc.co.uk/news/uk-wales-58248554) - The dog has been put down and police have launched an investigation.
+8. [Child, 2, dies after Deeside incident, prompting investigation](https://www.bbc.co.uk/news/uk-wales-58246055) - The child died in hospital on Monday following an incident at a property on Saturday.
+9. [Covid: NHS worker unlikely to have caught virus at work](https://www.bbc.co.uk/news/uk-wales-58241511) - A coroner says Alan Macalalad's suffered health issues before his death from natural causes.
+10. [Covid-19: Deaths rise in Wales to 22](https://www.bbc.co.uk/news/uk-wales-58244250) - Covid deaths increased in Wales but are still well below levels in the second wave, figures show.
 11. [Farmer calls for A494 speed limit changes following crashes](https://www.bbc.co.uk/news/uk-wales-58235362) - Kevin Peacock says several cars have crashed onto his property and wants the speed limit lowered.
 12. [Afghanistan: Man who fled Taliban fears for family](https://www.bbc.co.uk/news/uk-wales-58248562) - Mohammed has not been able to contact his relatives since the Taliban seized control of Afghanistan.
 13. [Stonehenge: Welsh links 'damaged' by tourists](https://www.bbc.co.uk/news/uk-wales-58250138) - A recent BBC documentary attracted more visitors to the ancient monuments, a national park says.
