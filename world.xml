@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 18 Aug 2021 14:32:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Aug 2021 14:45:32 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -142,6 +142,13 @@
             <pubDate>Mon, 16 Aug 2021 16:29:39 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Afghanistan: Fatalities as shots fired at flag protest in Jalalabad]]></title>
+            <description><![CDATA[Protesters took to the streets of Jalalabad holding aloft the country's national flag.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58255118</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58255118</guid>
+            <pubDate>Wed, 18 Aug 2021 11:00:41 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Taliban have been looking for me, says ex-Afghanistan bank governor]]></title>
             <description><![CDATA[Militants have been knocking on the doors of places he used to live, Ajmal Ahmady says.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-58255402</link>
@@ -149,11 +156,11 @@
             <pubDate>Wed, 18 Aug 2021 12:38:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Afghanistan: Fatalities as shots fired at flag protest in Jalalabad]]></title>
-            <description><![CDATA[Protesters took to the streets of Jalalabad holding aloft the country's national flag.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58255118</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58255118</guid>
-            <pubDate>Wed, 18 Aug 2021 11:00:41 GMT</pubDate>
+            <title><![CDATA[Brandon Flowers on new Killers album Pressure Machine, inspired by Utah hometown]]></title>
+            <description><![CDATA[The Killers frontman speaks about their new album, Pressure Machine, inspired by his rural hometown.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-58257999</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-58257999</guid>
+            <pubDate>Wed, 18 Aug 2021 14:40:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How the Taliban seized Afghanistan again]]></title>
@@ -168,13 +175,6 @@
             <link>https://www.bbc.co.uk/news/world-asia-58249178</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58249178</guid>
             <pubDate>Tue, 17 Aug 2021 16:20:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Afghan reporter asks Nato secretary general for help]]></title>
-            <description><![CDATA[Lailuma Sadid, a journalist with Brussels Morning Newspaper, became emotional when asking the Nato secretary general about the Taliban in Afghanistan.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58250062</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58250062</guid>
-            <pubDate>Tue, 17 Aug 2021 16:10:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Afghanistan: 'All female staff have left my Kabul hotel']]></title>
@@ -205,11 +205,11 @@
             <pubDate>Tue, 17 Aug 2021 20:44:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Afghanistan: Striking image captures Kabul exodus]]></title>
-            <description><![CDATA[A photo appears to show hundreds of Afghans packed on a US military plane as they flee the Taliban.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58242733</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58242733</guid>
-            <pubDate>Tue, 17 Aug 2021 17:04:26 GMT</pubDate>
+            <title><![CDATA[Afghan reporter asks Nato secretary general for help]]></title>
+            <description><![CDATA[Lailuma Sadid, a journalist with Brussels Morning Newspaper, became emotional when asking the Nato secretary general about the Taliban in Afghanistan.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58250062</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58250062</guid>
+            <pubDate>Tue, 17 Aug 2021 16:10:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
