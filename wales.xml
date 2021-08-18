@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 18 Aug 2021 13:41:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Aug 2021 13:55:11 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Bridgend: Woman charged with murder of toddler, 2]]></title>
+            <description><![CDATA[Reid Steele died in hospital after being found in a critical condition at a house in Bridgend.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-58250140</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58250140</guid>
+            <pubDate>Wed, 18 Aug 2021 13:46:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Covid: All 16 and 17-year-olds in Wales to get jab offer]]></title>
             <description><![CDATA[Anyone who has not yet taken up the offer of a vaccine is encouraged to do so.]]></description>
@@ -91,13 +98,6 @@
             <link>https://www.bbc.co.uk/news/uk-wales-58246055</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58246055</guid>
             <pubDate>Tue, 17 Aug 2021 14:03:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid-19: Deaths rise in Wales to 22]]></title>
-            <description><![CDATA[Covid deaths increased in Wales but are still well below levels in the second wave, figures show.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-58244250</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58244250</guid>
-            <pubDate>Tue, 17 Aug 2021 13:34:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Afghanistan: Man who fled Taliban fears for family]]></title>
@@ -184,18 +184,18 @@
             <pubDate>Wed, 18 Aug 2021 13:23:36 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Cyhuddo dynes o lofruddio bachgen ym Mhen-y-bont]]></title>
+            <description><![CDATA[Bu farw Reid Steele yn dilyn digwyddiad yn ardal Broadlands y dref ar 11 Awst.]]></description>
+            <link>https://www.bbc.co.uk/newyddion/58255910</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/newyddion/58255910</guid>
+            <pubDate>Wed, 18 Aug 2021 13:43:26 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Leanne Wood ac Adam Price 'ddim yn ffrindiau ers blynyddoedd']]></title>
             <description><![CDATA[Dywed cyn-arweinydd Plaid Cymru fod yr amseru i'w herio am yr arweinyddiaeth yn "wael" ar ran ei holynydd.]]></description>
             <link>https://www.bbc.co.uk/newyddion/58234858</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/newyddion/58234858</guid>
             <pubDate>Wed, 18 Aug 2021 05:29:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sut y daeth sêr Hollywood yn berchnogion Wrecsam]]></title>
-            <description><![CDATA[Yr hanes y tu ôl i Ryan Reynolds a Rob McElhenney yn prynu clwb pêl-droed hynaf Cymru.]]></description>
-            <link>https://www.bbc.co.uk/newyddion/58186778</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/newyddion/58186778</guid>
-            <pubDate>Wed, 18 Aug 2021 05:36:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Charli Britton: Hanner canrif o ddrymio a dylunio]]></title>
@@ -205,11 +205,11 @@
             <pubDate>Wed, 18 Aug 2021 11:55:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Y Bencampwriaeth: Peterborough 2-2 Caerdydd]]></title>
-            <description><![CDATA[Yr Adar Gleision yn cipio pwynt dramatig yn yr eiliadau olaf ar ôl ildio dwy gôl mewn dau funud.]]></description>
-            <link>https://www.bbc.co.uk/newyddion/58249915</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/newyddion/58249915</guid>
-            <pubDate>Tue, 17 Aug 2021 20:59:40 GMT</pubDate>
+            <title><![CDATA[Sut y daeth sêr Hollywood yn berchnogion Wrecsam]]></title>
+            <description><![CDATA[Yr hanes y tu ôl i Ryan Reynolds a Rob McElhenney yn prynu clwb pêl-droed hynaf Cymru.]]></description>
+            <link>https://www.bbc.co.uk/newyddion/58186778</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/newyddion/58186778</guid>
+            <pubDate>Wed, 18 Aug 2021 05:36:32 GMT</pubDate>
         </item>
     </channel>
 </rss>

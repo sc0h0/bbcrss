@@ -17,7 +17,7 @@
 17. [Just how hard is it to recycle a jumbo jet?](https://www.bbc.co.uk/news/business-57983174) - Thousands of aircraft were left on the tarmac due to Covid, and many will now be broken up for parts.
 18. [Hakainde Hichilema: The Zambian 'cattle boy' who became president](https://www.bbc.co.uk/news/world-africa-58229710) - After six attempts, Hakainde Hichilema has finally become president of Zambia.
 19. [Taliban have been looking for me, says ex-Afghanistan bank governor](https://www.bbc.co.uk/news/world-asia-58255402) - Militants have been knocking on the doors of places he used to live, Ajmal Ahmady says.
-20. [Afghanistan: National flag protesters in Jalalabad appear to be disrupted by gunshots](https://www.bbc.co.uk/news/world-asia-58255118) - Video appears to show protesters waving the country's national flag before fleeing.
+20. [Afghanistan: Fatalities as shots fired at flag protest in Jalalabad](https://www.bbc.co.uk/news/world-asia-58255118) - Protesters took to the streets of Jalalabad holding aloft the country's national flag.
 21. [How the Taliban seized Afghanistan again](https://www.bbc.co.uk/news/world-asia-58238023) - Taliban fighters have swept across Afghanistan taking control of towns and cities.
 22. [Taliban: 'We will not allow the soil of Afghanistan to be used against anyone'](https://www.bbc.co.uk/news/world-asia-58249178) - The Taliban have held their first news conference since taking control of Afghanistan.
 23. [Afghan reporter asks Nato secretary general for help](https://www.bbc.co.uk/news/world-asia-58250062) - Lailuma Sadid, a journalist with Brussels Morning Newspaper, became emotional when asking the Nato secretary general about the Taliban in Afghanistan.

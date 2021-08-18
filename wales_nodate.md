@@ -1,15 +1,15 @@
-1. [Covid: All 16 and 17-year-olds in Wales to get jab offer](https://www.bbc.co.uk/news/uk-wales-58256533) - Anyone who has not yet taken up the offer of a vaccine is encouraged to do so.
-2. [Plaid Cymru: Ex-leader no longer friends with successor](https://www.bbc.co.uk/news/uk-wales-politics-58159654) - Leanne Wood says Adam Price made "a bad judgement call" in the timing of his leadership challenge.
-3. [Porthcawl dementia patient missing for 30 hours found in ditch](https://www.bbc.co.uk/news/uk-wales-58254835) - Joseph Hughes was found by an off-duty officer named Amy after going missing from his care home.
-4. [Post Office scandal: Cleared sub-postmaster's compensation imminent, lawyer says](https://www.bbc.co.uk/news/uk-wales-58233304) - Noel Thomas is one of dozens to have their false accounting convictions quashed.
-5. [Plea to respect Stonehenge research sites in Pembrokeshire](https://www.bbc.co.uk/news/uk-wales-58247235) - A BBC documentary has attracted more visitors to the ancient monuments, a national park says.
-6. [Mental health: Better support needed in Wales, charity says](https://www.bbc.co.uk/news/uk-wales-58247704) - Melissa Rose, 22, says she has felt "cut off", with calls and emails not returned.
-7. [Pembrokeshire County Show: Animals and members only on return](https://www.bbc.co.uk/news/uk-wales-58246688) - In a normal year 100,000 people would attend - but this time only members and animals can come.
-8. [Afghanistan: Refugees should be housed 'in all parts' of UK](https://www.bbc.co.uk/news/uk-wales-58246941) - Welsh councils have so far agreed to house at least 24 families fleeing Afghanistan.
-9. [Art: Paintings by Sir Kyffin Williams sell for £42,900](https://www.bbc.co.uk/news/uk-wales-58243611) - The artworks, by one of Wales' most renowned artists, are described as "a truly wonderful find".
-10. [Pembrokeshire woman injured in American bulldog attack](https://www.bbc.co.uk/news/uk-wales-58248554) - The dog has been put down and police have launched an investigation.
-11. [Child, 2, dies after Deeside incident, prompting investigation](https://www.bbc.co.uk/news/uk-wales-58246055) - The child died in hospital on Monday following an incident at a property on Saturday.
-12. [Covid-19: Deaths rise in Wales to 22](https://www.bbc.co.uk/news/uk-wales-58244250) - Covid deaths increased in Wales but are still well below levels in the second wave, figures show.
+1. [Bridgend: Woman charged with murder of toddler, 2](https://www.bbc.co.uk/news/uk-wales-58250140) - Reid Steele died in hospital after being found in a critical condition at a house in Bridgend.
+2. [Covid: All 16 and 17-year-olds in Wales to get jab offer](https://www.bbc.co.uk/news/uk-wales-58256533) - Anyone who has not yet taken up the offer of a vaccine is encouraged to do so.
+3. [Plaid Cymru: Ex-leader no longer friends with successor](https://www.bbc.co.uk/news/uk-wales-politics-58159654) - Leanne Wood says Adam Price made "a bad judgement call" in the timing of his leadership challenge.
+4. [Porthcawl dementia patient missing for 30 hours found in ditch](https://www.bbc.co.uk/news/uk-wales-58254835) - Joseph Hughes was found by an off-duty officer named Amy after going missing from his care home.
+5. [Post Office scandal: Cleared sub-postmaster's compensation imminent, lawyer says](https://www.bbc.co.uk/news/uk-wales-58233304) - Noel Thomas is one of dozens to have their false accounting convictions quashed.
+6. [Plea to respect Stonehenge research sites in Pembrokeshire](https://www.bbc.co.uk/news/uk-wales-58247235) - A BBC documentary has attracted more visitors to the ancient monuments, a national park says.
+7. [Mental health: Better support needed in Wales, charity says](https://www.bbc.co.uk/news/uk-wales-58247704) - Melissa Rose, 22, says she has felt "cut off", with calls and emails not returned.
+8. [Pembrokeshire County Show: Animals and members only on return](https://www.bbc.co.uk/news/uk-wales-58246688) - In a normal year 100,000 people would attend - but this time only members and animals can come.
+9. [Afghanistan: Refugees should be housed 'in all parts' of UK](https://www.bbc.co.uk/news/uk-wales-58246941) - Welsh councils have so far agreed to house at least 24 families fleeing Afghanistan.
+10. [Art: Paintings by Sir Kyffin Williams sell for £42,900](https://www.bbc.co.uk/news/uk-wales-58243611) - The artworks, by one of Wales' most renowned artists, are described as "a truly wonderful find".
+11. [Pembrokeshire woman injured in American bulldog attack](https://www.bbc.co.uk/news/uk-wales-58248554) - The dog has been put down and police have launched an investigation.
+12. [Child, 2, dies after Deeside incident, prompting investigation](https://www.bbc.co.uk/news/uk-wales-58246055) - The child died in hospital on Monday following an incident at a property on Saturday.
 13. [Afghanistan: Man who fled Taliban fears for family](https://www.bbc.co.uk/news/uk-wales-58248562) - Mohammed has not been able to contact his relatives since the Taliban seized control of Afghanistan.
 14. [Stonehenge: Welsh links 'damaged' by tourists](https://www.bbc.co.uk/news/uk-wales-58250138) - A recent BBC documentary attracted more visitors to the ancient monuments, a national park says.
 15. [Who erected Wrexham's new giant Hollywood-style sign?](https://www.bbc.co.uk/news/uk-wales-58248494) - A large Hollywood-style sign has appeared in Wrexham, and no one knows who put it there.
@@ -22,7 +22,7 @@
 22. [Women's British Open: 'Dream come true' for Wales' Chloe Williams](https://www.bbc.co.uk/sport/wales/58237712) - Welsh golfer Chloe Williams says making her first major appearance at this week's Women's British Open will be a "dream come true".
 23. [Russell Martin: Swansea City players not yet fit enough to play our style](https://www.bbc.co.uk/sport/football/58251985) - Boss Russell Martin says Swansea City's players are not fit enough to play his style and insists results will come as their conditioning improves.
 24. [Afghanistan: 'Angen gweithredu nawr' ar ailgartrefu pobl](https://www.bbc.co.uk/newyddion/58246445) - Galw ar Lywodraeth y DU i weithredu'n gyflym i roi lloches i bobl sy'n ffoi o Afghanistan.
-25. [Leanne Wood ac Adam Price 'ddim yn ffrindiau ers blynyddoedd'](https://www.bbc.co.uk/newyddion/58234858) - Dywed cyn-arweinydd Plaid Cymru fod yr amseru i'w herio am yr arweinyddiaeth yn "wael" ar ran ei holynydd.
-26. [Sut y daeth sêr Hollywood yn berchnogion Wrecsam](https://www.bbc.co.uk/newyddion/58186778) - Yr hanes y tu ôl i Ryan Reynolds a Rob McElhenney yn prynu clwb pêl-droed hynaf Cymru.
+25. [Cyhuddo dynes o lofruddio bachgen ym Mhen-y-bont](https://www.bbc.co.uk/newyddion/58255910) - Bu farw Reid Steele yn dilyn digwyddiad yn ardal Broadlands y dref ar 11 Awst.
+26. [Leanne Wood ac Adam Price 'ddim yn ffrindiau ers blynyddoedd'](https://www.bbc.co.uk/newyddion/58234858) - Dywed cyn-arweinydd Plaid Cymru fod yr amseru i'w herio am yr arweinyddiaeth yn "wael" ar ran ei holynydd.
 27. [Charli Britton: Hanner canrif o ddrymio a dylunio](https://www.bbc.co.uk/newyddion/58230800) - Cipolwg ar gyfraniad Charli Britton i gerddoriaeth Gymraeg.
-28. [Y Bencampwriaeth: Peterborough 2-2 Caerdydd](https://www.bbc.co.uk/newyddion/58249915) - Yr Adar Gleision yn cipio pwynt dramatig yn yr eiliadau olaf ar ôl ildio dwy gôl mewn dau funud.
+28. [Sut y daeth sêr Hollywood yn berchnogion Wrecsam](https://www.bbc.co.uk/newyddion/58186778) - Yr hanes y tu ôl i Ryan Reynolds a Rob McElhenney yn prynu clwb pêl-droed hynaf Cymru.

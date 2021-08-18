@@ -1,5 +1,5 @@
 1. [Northern English regions drive house price growth](https://www.bbc.co.uk/news/business-58256169) - Wales also records rapid rises as the UK sees property prices go up at the fastest rate for 17 years.
-2. [Nando's hopes to fully reopen from Saturday after supply shortage](https://www.bbc.co.uk/news/business-58256435) - The chain had to shut about 50 restaurants due to food shortages thought to include its signature peri-peri chicken.
+2. [Nando's hopes to reopen fully from Saturday after supply shortage](https://www.bbc.co.uk/news/business-58256435) - The chain had to shut about 50 restaurants due to food shortages thought to include its signature peri-peri chicken.
 3. [Price rises cool amid clothes and shoe discounting](https://www.bbc.co.uk/news/uk-58254000) - The UK inflation rate fell by more than expected to 2% in July, down from 2.5% the previous month.
 4. [Scottish public spending deficit doubles to £36bn](https://www.bbc.co.uk/news/uk-scotland-58256028) - Spending on public services rose to almost £100bn as revenue fell due to the Covid pandemic.
 5. [Franco Manca owner planning big UK and overseas expansion](https://www.bbc.co.uk/news/business-58257963) - Restaurant group Fulham Shore plans to open up to 150 new outlets amid continued strong trading.
