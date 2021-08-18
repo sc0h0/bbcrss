@@ -1,6 +1,6 @@
-1. [UK to work with others to resettle Afghans, Priti Patel says](https://www.bbc.co.uk/news/uk-58250211) - Up to 20,000 refugees will be eligible to come to the UK in the coming years, the home secretary says.
+1. [Resettling Afghans in UK will take time, Priti Patel says](https://www.bbc.co.uk/news/uk-58250211) - The UK will work with other countries to help up to 20,000 refugees move the UK, the home secretary says.
 2. [Afghanistan: Why is the UK Parliament being recalled?](https://www.bbc.co.uk/news/uk-politics-58228715) - MPs and members of the House of Lords will return from their summer break to debate the crisis in Afghanistan. What can we expect?
-3. [Price rises ease amid clothes and shoe discounting](https://www.bbc.co.uk/news/uk-58254000) - The inflation rate fell by more than expected to 2% in July, down from 2.5% the previous month.
+3. [Price rises cool amid clothes and shoe discounting](https://www.bbc.co.uk/news/uk-58254000) - The UK inflation rate fell by more than expected to 2% in July, down from 2.5% the previous month.
 4. [Some Scots Covid powers 'could be made permanent'](https://www.bbc.co.uk/news/uk-scotland-scotland-politics-58244323) - Scottish ministers say some changes made during the pandemic had a "demonstrable benefit" to the public.
 5. [Plaid Cymru: Ex-leader no longer friends with successor](https://www.bbc.co.uk/news/uk-wales-politics-58159654) - Leanne Wood says Adam Price made "a bad judgement call" in the timing of his leadership challenge.
 6. [Afghanistan: Call for more UK councils to welcome refugees](https://www.bbc.co.uk/news/uk-england-kent-58248271) - The UK has a "moral imperative" to support those fleeing the Taliban, Ashford's council leader says.

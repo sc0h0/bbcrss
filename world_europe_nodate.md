@@ -1,4 +1,4 @@
-1. [UK to work with others to resettle Afghans, Priti Patel says](https://www.bbc.co.uk/news/uk-58250211) - Up to 20,000 refugees will be eligible to come to the UK in the coming years, the home secretary says.
+1. [Resettling Afghans in UK will take time, Priti Patel says](https://www.bbc.co.uk/news/uk-58250211) - The UK will work with other countries to help up to 20,000 refugees move the UK, the home secretary says.
 2. [Afghan reporter asks Nato secretary general for help](https://www.bbc.co.uk/news/world-asia-58250062) - Lailuma Sadid, a journalist with Brussels Morning Newspaper, became emotional when asking the Nato secretary general about the Taliban in Afghanistan.
 3. [France wildfire: Thousands evacuated as blaze rages near Riviera](https://www.bbc.co.uk/news/world-europe-58243066) - Firefighters clear campsites in the Var region as some 5,000 hectares are destroyed by fire.
 4. [BBC presenter flees French fires](https://www.bbc.co.uk/news/world-europe-58250658) - "It was very, very, very frightening," says Geeta Guru-Murthy.

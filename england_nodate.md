@@ -1,6 +1,6 @@
 1. [Walleys Quarry: Parents of ill boy take quarry owners to High Court](https://www.bbc.co.uk/news/uk-england-stoke-staffordshire-58245841) - A doctor says continued exposure to the air around the quarry will reduce the boy's life expectancy.
-2. [Banksy: Great Yarmouth model could be replaced by replica](https://www.bbc.co.uk/news/uk-england-norfolk-58247873) - The owner of a tourist attraction says he has a security dilemma after being gifted the artwork.
-3. [Plymouth shooting: Gunman had mental health support in lockdown](https://www.bbc.co.uk/news/uk-england-devon-58248391) - Jake Davison, who killed five people in Plymouth, used a mental health helpline, the NHS says.
+2. [Plymouth shooting: Church service to remember victims](https://www.bbc.co.uk/news/uk-england-devon-58254573) - The service will remember five people killed in a mass shooting in the Keyham area of the city.
+3. [Banksy: Great Yarmouth model could be replaced by replica](https://www.bbc.co.uk/news/uk-england-norfolk-58247873) - The owner of a tourist attraction says he has a security dilemma after being gifted the artwork.
 4. ['I make art out of discarded face masks'](https://www.bbc.co.uk/news/uk-england-nottinghamshire-58187835) - Thomas Yates posts artwork he's created out of used face masks on social media.
 5. [Eileen Barrott murder: NHS tribute to nurse as manhunt continues](https://www.bbc.co.uk/news/uk-england-leeds-58243279) - Hospital bosses pay tribute to Eileen Barrott as police continue to search for her husband.
 6. [Plea for military to attend funeral of Shropshire veteran](https://www.bbc.co.uk/news/uk-england-shropshire-58242816) - Wilfred Dawson, 99, served as a wireless operator with RAF Bomber Command.
@@ -18,7 +18,7 @@
 18. [Plymouth MP: Community 'trying to make sense' of shooting](https://www.bbc.co.uk/news/uk-58198078) - MP Luke Pollard says the community is pulling together in the face of the "deeply grim" news.
 19. ['NHS abandoned me after I tried to kill myself'](https://www.bbc.co.uk/news/uk-58085428) - Mental health referrals across the UK have hit their highest point for two years.
 20. [Lake District fells project more needed than ever, officials say](https://www.bbc.co.uk/news/uk-england-cumbria-58248361) - The organisation, now celebrating its 20th anniversary, protects the landscape and wildlife.
-21. [Covid-19: Droitwich card shop owners guilty of flouting lockdown rules](https://www.bbc.co.uk/news/uk-england-hereford-worcester-58247209) - The owners argued their shop qualified for exemption because they sold sweets and soft drinks.
+21. [Plea to respect Stonehenge research sites in Pembrokeshire](https://www.bbc.co.uk/news/uk-wales-58247235) - A BBC documentary has attracted more visitors to the ancient monuments, a national park says.
 22. [UK student who travelled to Afghanistan for holiday evacuated](https://www.bbc.co.uk/news/uk-england-birmingham-58244518) - Miles Routledge, from Birmingham, claims he visited Kabul because he enjoys "extreme tourism".
 23. [Ice cream van firm banned from Lowestoft street over noise complaint](https://www.bbc.co.uk/news/uk-england-suffolk-58243851) - Lamarti's vans are forbidden from entering one street after complaints about noise.
 24. [Cramlington red squirrel rope bridge helps cut road deaths](https://www.bbc.co.uk/news/uk-england-tyne-58245296) - A bridge is helping protect red squirrels as they make a dangerous journey over a road for hazelnuts.

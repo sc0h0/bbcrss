@@ -1,6 +1,6 @@
 1. [How latte art in South Africa led to a job from hell in Oman](https://www.bbc.co.uk/news/world-africa-57990393) - A South African barista was offered a dream opportunity in Oman but unknowingly signed away his freedoms.
-2. [Africa Cup of Nations: Draw made for delayed 2021 event in Cameroon](https://www.bbc.co.uk/sport/africa/58241452) - Holders Algeria face former winners Ivory Coast in group stage of next year's Africa Cup of Nations in Cameroon after Tuesday's draw
-3. [Taliban takeover: Uganda to take in 2,000 Afghan refugees](https://www.bbc.co.uk/news/world-africa-58236663) - Some 2,000 Afghans will be taken in following a request from the US, the refugee minister says.
+2. [Taliban takeover: Uganda to take in 2,000 Afghan refugees](https://www.bbc.co.uk/news/world-africa-58236663) - Some 2,000 Afghans will be taken in following a request from the US, the refugee minister says.
+3. [Africa Cup of Nations: Draw made for delayed 2021 event in Cameroon](https://www.bbc.co.uk/sport/africa/58241452) - Holders Algeria face former winners Ivory Coast in group stage of next year's Africa Cup of Nations in Cameroon after Tuesday's draw
 4. [Nigeria's Kano state moves to ban mannequin heads on Islamic grounds](https://www.bbc.co.uk/news/world-africa-58175709) - The Islamic police in Kano, Nigeria, say shop dummies with heads symbolise "idolatry" and are banned.
 5. [Ethiopia: What do we know about aid going into Tigray?](https://www.bbc.co.uk/news/58189049) - Who's preventing desperately needed aid supplies reaching Ethiopia's Tigray region?
 6. [Viewpoint: Why Twitter got it wrong in Nigeria](https://www.bbc.co.uk/news/world-africa-58175708) - Complex issues have been raised about policing speech and censoring unpopular voices.
