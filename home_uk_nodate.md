@@ -5,9 +5,9 @@
 5. [Covid: Price rises slow down and AZ jab makers trial plague vaccine](https://www.bbc.co.uk/news/uk-58249469) - Five things you need to know about the coronavirus pandemic this Wednesday morning.
 6. ['NHS abandoned me after I tried to kill myself'](https://www.bbc.co.uk/news/uk-58085428) - Mental health referrals across the UK have hit their highest point for two years.
 7. [Aspirin may help treat aggressive breast cancer](https://www.bbc.co.uk/news/health-58229082) - Doctors hope it could boost the anti-cancer power of other drugs to fight hard-to-treat tumours.
-8. [Trendy shoffices and pizza ovens raised lockdown fire risks](https://www.bbc.co.uk/news/business-58245846) - Insurer Zurich says residential outbuilding fires rose by 16% last year compared with 2019.
-9. [Nando's shuts restaurants as it runs short of supplies](https://www.bbc.co.uk/news/business-58249337) - The chain says it will lend some of its own staff to its suppliers, to help tackle delays to deliveries.
-10. [Trials of shared banking hubs to be extended](https://www.bbc.co.uk/news/business-58245844) - The two trial projects allow different banks to operate from the same premises after branches closed.
+8. [Walleys Quarry: Parents of ill boy take quarry owners to High Court](https://www.bbc.co.uk/news/uk-england-stoke-staffordshire-58245841) - A doctor says continued exposure to the air around the quarry will reduce the boy's life expectancy.
+9. [Trendy shoffices and pizza ovens raised lockdown fire risks](https://www.bbc.co.uk/news/business-58245846) - Insurer Zurich says residential outbuilding fires rose by 16% last year compared with 2019.
+10. [Nando's shuts restaurants as it runs short of supplies](https://www.bbc.co.uk/news/business-58249337) - The chain says it will lend some of its own staff to its suppliers, to help tackle delays to deliveries.
 11. [Haiti earthquake: Death toll reaches nearly 2,000](https://www.bbc.co.uk/news/world-latin-america-58187979) - Many people are still feared trapped under the rubble as heavy rains have hampered rescue efforts.
 12. [Snake slithers out of spice shelves at Sydney supermarket](https://www.bbc.co.uk/news/world-australia-58253378) - The python greeted the woman at the spice shelves - luckily, she happened to be a snake rescuer.
 13. [Afghanistan: What's the impact of Taliban's return on international order?](https://www.bbc.co.uk/news/world-us-canada-58248864) - What is the diplomatic fallout and how allies and rivals are looking at the US following the Taliban takeover?

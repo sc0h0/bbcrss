@@ -1,6 +1,6 @@
 1. [Plaid Cymru: Ex-leader no longer friends with successor](https://www.bbc.co.uk/news/uk-wales-politics-58159654) - Leanne Wood says Adam Price made "a bad judgement call" in the timing of his leadership challenge.
-2. [Plea to respect Stonehenge research sites in Pembrokeshire](https://www.bbc.co.uk/news/uk-wales-58247235) - A BBC documentary has attracted more visitors to the ancient monuments, a national park says.
-3. [Afghanistan: Refugees should be housed 'in all parts' of UK](https://www.bbc.co.uk/news/uk-wales-58246941) - Welsh councils have so far agreed to house at least 24 families fleeing Afghanistan.
+2. [Post Office scandal: Cleared sub-postmaster's compensation 'imminent'](https://www.bbc.co.uk/news/uk-wales-58233304) - Noel Thomas is one of dozens to have their false accounting convictions quashed.
+3. [Plea to respect Stonehenge research sites in Pembrokeshire](https://www.bbc.co.uk/news/uk-wales-58247235) - A BBC documentary has attracted more visitors to the ancient monuments, a national park says.
 4. [Pembrokeshire County Show: Animals and members only on return](https://www.bbc.co.uk/news/uk-wales-58246688) - In a normal year 100,000 people would attend - but this time only members and animals can come.
 5. [Art: Paintings by Sir Kyffin Williams sell for £39,000](https://www.bbc.co.uk/news/uk-wales-58243611) - The artworks, by one of Wales' most renowned artists, are described as "a truly wonderful find".
 6. [Pembrokeshire woman injured in American bulldog attack](https://www.bbc.co.uk/news/uk-wales-58248554) - The dog has been put down and police have launched an investigation.
