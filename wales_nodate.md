@@ -1,15 +1,15 @@
 1. [Bridgend: Mother charged with murder of son, 2](https://www.bbc.co.uk/news/uk-wales-58250140) - Reid Steele died in hospital after being found in a critical condition at a house in Bridgend.
 2. [Covid: All 16 and 17-year-olds in Wales to get jab offer](https://www.bbc.co.uk/news/uk-wales-58256533) - Anyone who has not yet taken up the offer of a vaccine is encouraged to do so.
-3. [Plaid Cymru: Ex-leader no longer friends with successor](https://www.bbc.co.uk/news/uk-wales-politics-58159654) - Leanne Wood says Adam Price made "a bad judgement call" in the timing of his leadership challenge.
-4. [Man who died after Glynneath waterfall difficulties named](https://www.bbc.co.uk/news/uk-wales-58258786) - Hemanta Kumar Rai, 28, had been at the fall with friends and died at the scene.
-5. [Porthcawl dementia patient missing for 30 hours found in ditch](https://www.bbc.co.uk/news/uk-wales-58254835) - Joseph Hughes was found by an off-duty officer named Amy after going missing from his care home.
-6. [Afghanistan: Taliban must not be treated as pariahs, says Lord Hain](https://www.bbc.co.uk/news/uk-wales-politics-58260263) - Countries must incentivise the new rulers not to return to "bad old ways", says Lord Hain.
-7. [Plea to respect Stonehenge research sites in Pembrokeshire](https://www.bbc.co.uk/news/uk-wales-58247235) - A BBC documentary has attracted more visitors to the ancient monuments, a national park says.
-8. [Post Office scandal: Cleared sub-postmaster's compensation imminent, lawyer says](https://www.bbc.co.uk/news/uk-wales-58233304) - Noel Thomas is one of dozens to have their false accounting convictions quashed.
-9. [Mental health: Better support needed in Wales, charity says](https://www.bbc.co.uk/news/uk-wales-58247704) - Melissa Rose, 22, says she has felt "cut off", with calls and emails not returned.
-10. [Pembrokeshire County Show: Animals and members only on return](https://www.bbc.co.uk/news/uk-wales-58246688) - In a normal year 100,000 people would attend - but this time only members and animals can come.
-11. [Art: Paintings by Sir Kyffin Williams sell for £42,900](https://www.bbc.co.uk/news/uk-wales-58243611) - The artworks, by one of Wales' most renowned artists, are described as "a truly wonderful find".
-12. [Pembrokeshire woman injured in American bulldog attack](https://www.bbc.co.uk/news/uk-wales-58248554) - The dog has been put down and police have launched an investigation.
+3. [Porthcawl dementia patient missing for 30 hours found in ditch](https://www.bbc.co.uk/news/uk-wales-58254835) - Joseph Hughes was found by an off-duty officer named Amy after going missing from his care home.
+4. [Plaid Cymru: Ex-leader no longer friends with successor](https://www.bbc.co.uk/news/uk-wales-politics-58159654) - Leanne Wood says Adam Price made "a bad judgement call" in the timing of his leadership challenge.
+5. [Man in court over alleged racist and anti-Semitic podcasts](https://www.bbc.co.uk/news/uk-wales-58259556) - James Allchurch pleads not guilty to distributing recordings intending to stir up racial hated.
+6. [Man who died after Glynneath waterfall difficulties named](https://www.bbc.co.uk/news/uk-wales-58258786) - Hemanta Kumar Rai, 28, had been at the fall with friends and died at the scene.
+7. [Afghanistan: Taliban must not be treated as pariahs, says Lord Hain](https://www.bbc.co.uk/news/uk-wales-politics-58260263) - Countries must incentivise the new rulers not to return to "bad old ways", says Lord Hain.
+8. [Plea to respect Stonehenge research sites in Pembrokeshire](https://www.bbc.co.uk/news/uk-wales-58247235) - A BBC documentary has attracted more visitors to the ancient monuments, a national park says.
+9. [Post Office scandal: Cleared sub-postmaster's compensation imminent, lawyer says](https://www.bbc.co.uk/news/uk-wales-58233304) - Noel Thomas is one of dozens to have their false accounting convictions quashed.
+10. [Mental health: Better support needed in Wales, charity says](https://www.bbc.co.uk/news/uk-wales-58247704) - Melissa Rose, 22, says she has felt "cut off", with calls and emails not returned.
+11. [Pembrokeshire County Show: Animals and members only on return](https://www.bbc.co.uk/news/uk-wales-58246688) - In a normal year 100,000 people would attend - but this time only members and animals can come.
+12. [Art: Paintings by Sir Kyffin Williams sell for £42,900](https://www.bbc.co.uk/news/uk-wales-58243611) - The artworks, by one of Wales' most renowned artists, are described as "a truly wonderful find".
 13. [Afghanistan: Man who fled Taliban fears for family](https://www.bbc.co.uk/news/uk-wales-58248562) - Mohammed has not been able to contact his relatives since the Taliban seized control of Afghanistan.
 14. [Stonehenge: Welsh links 'damaged' by tourists](https://www.bbc.co.uk/news/uk-wales-58250138) - A recent BBC documentary attracted more visitors to the ancient monuments, a national park says.
 15. [Who erected Wrexham's new giant Hollywood-style sign?](https://www.bbc.co.uk/news/uk-wales-58248494) - A large Hollywood-style sign has appeared in Wrexham, and no one knows who put it there.
@@ -21,7 +21,7 @@
 21. [Jake Bidwell: Middlesbrough target Swansea defender](https://www.bbc.co.uk/sport/football/58254196) - Middlesbrough enquire about a move for Swansea City defender Jake Bidwell.
 22. [Elfyn Evans: Welshman faces 'uphill struggle' in WRC title bid](https://www.bbc.co.uk/sport/motorsport/58259800) - Elfyn Evans says it is unlikely he will win the 2021 World Rally Championship after finishing fourth in Belgium's Rally Ypres.
 23. [Beijing 2022: Bruce Tasker appointed bobsleigh team leader for Winter Olympics](https://www.bbc.co.uk/sport/winter-sports/58257643) - Winter Olympic bronze medallist Bruce Tasker is named team leader for the British Bobsleigh programme for the 2022 Games in China.
-24. [Cyhuddo dynes o lofruddio bachgen ym Mhen-y-bont](https://www.bbc.co.uk/newyddion/58255910) - Bu farw Reid Steele yn dilyn digwyddiad yn ardal Broadlands y dref ar 11 Awst.
+24. [Cyhuddo dynes o lofruddio ei mab ym Mhen-y-bont](https://www.bbc.co.uk/newyddion/58255910) - Bu farw Reid Steele yn dilyn digwyddiad yn ardal Broadlands y dref ar 11 Awst.
 25. [Afghanistan: 'Angen gweithredu nawr' ar ailgartrefu pobl](https://www.bbc.co.uk/newyddion/58246445) - Galw ar Lywodraeth y DU i weithredu'n gyflym i roi lloches i bobl sy'n ffoi o Afghanistan.
 26. [Leanne Wood ac Adam Price 'ddim yn ffrindiau ers blynyddoedd'](https://www.bbc.co.uk/newyddion/58234858) - Dywed cyn-arweinydd Plaid Cymru fod yr amseru i'w herio am yr arweinyddiaeth yn "wael" ar ran ei holynydd.
 27. [Uchafbwyntiau cwarantîn Gwenno Rees](https://www.bbc.co.uk/newyddion/58261015) - Bu'n rhaid i Gwenno hunan-ynysu mewn gwesty yn Llundain ar ôl teithio adref o Tanzania.
