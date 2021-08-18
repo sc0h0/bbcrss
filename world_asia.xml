@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 18 Aug 2021 03:45:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Aug 2021 03:56:31 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -42,6 +42,13 @@
             <link>https://www.bbc.co.uk/news/world-us-canada-58248864</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-58248864</guid>
             <pubDate>Tue, 17 Aug 2021 20:44:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Afghanistan: India evacuates diplomats amid security concerns]]></title>
+            <description><![CDATA[The country joins several nations who have evacuated their diplomats from Afghanistan.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-india-58240296</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-58240296</guid>
+            <pubDate>Wed, 18 Aug 2021 03:44:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: Australia's Qantas says all staff must be vaccinated]]></title>
@@ -91,13 +98,6 @@
             <link>https://www.bbc.co.uk/news/business-58239786</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58239786</guid>
             <pubDate>Tue, 17 Aug 2021 04:58:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Afghanistan: India evacuates diplomats amid security concerns]]></title>
-            <description><![CDATA[The country joins several nations who have evacuated their diplomats from Afghanistan.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-india-58240296</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-58240296</guid>
-            <pubDate>Wed, 18 Aug 2021 03:44:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Indian scientists discover 'mermaid' plant species]]></title>
