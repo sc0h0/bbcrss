@@ -1,5 +1,5 @@
-1. [NI house prices 9% higher than same period last year](https://www.bbc.co.uk/news/uk-northern-ireland-58256311) - House prices in Northern Ireland from March to June were 9% higher than the same time last year.
-2. [Afghanistan: NI to offer a 'safe place' for refugees](https://www.bbc.co.uk/news/uk-northern-ireland-58250446) - MPs from Northern Ireland are among those at Westminster discussing the situation in Afghanistan.
+1. [Afghanistan: Stormont leaders pledge to help refugees](https://www.bbc.co.uk/news/uk-northern-ireland-58250446) - The first minister says work will be done to offer sanctuary to refugees from Afghanistan.
+2. [NI house prices 9% higher than same period last year](https://www.bbc.co.uk/news/uk-northern-ireland-58256311) - House prices in Northern Ireland from March to June were 9% higher than the same time last year.
 3. [Covid-19: Eleven more deaths and 1,345 new cases](https://www.bbc.co.uk/news/uk-northern-ireland-58260412) - There are currently 394 patients with Covid in Northern Ireland's hospitals, up from 392 on Tuesday.
 4. [Covid-19: Mental health referrals in NI down 29% during pandemic](https://www.bbc.co.uk/news/uk-northern-ireland-58232021) - Health department says fall indicates people were not seeking help, rather than not needing it.
 5. [Black Lives Matter protest fines: PSNI reputation 'damaged'](https://www.bbc.co.uk/news/uk-northern-ireland-58254492) - An organiser of a Black Lives Matter protest in Londonderry says refunding the fines was "inevitable".

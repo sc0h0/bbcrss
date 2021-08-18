@@ -1,4 +1,4 @@
-1. [MPs accuse Boris Johnson of Afghanistan failures](https://www.bbc.co.uk/news/uk-politics-58254794) - The PM comes in for a barrage of criticism from opposition parties and Tory MPs who served in Afghanistan.
+1. [MPs accuse Boris Johnson of Afghanistan failures](https://www.bbc.co.uk/news/uk-politics-58254794) - The PM comes in for a barrage of criticism from opposition parties and Tory MPs who served in the army.
 2. [Afghanistan crisis: Chaos as Europeans scramble to evacuate Kabul](https://www.bbc.co.uk/news/world-europe-58256696) - Several countries rush to fly people out, as the Dutch government is criticised for reacting slowly.
 3. [Sean Lock: Comedian and 8 Out of 10 Cats captain dies aged 58](https://www.bbc.co.uk/news/entertainment-arts-58254859) - The comedy panel show favourite was best known as a team captain on the series 8 Out of 10 Cats.
 4. [Gurkha back at Downing Street hunger strike after being taken ill](https://www.bbc.co.uk/news/uk-england-hampshire-58254634) - Former Gurkha soldier Dhan Gurung returns to a protest over pensions after a health scare.

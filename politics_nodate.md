@@ -1,4 +1,4 @@
-1. [MPs accuse Boris Johnson of Afghanistan failures](https://www.bbc.co.uk/news/uk-politics-58254794) - The PM comes in for a barrage of criticism from opposition parties and Tory MPs who served in Afghanistan.
+1. [MPs accuse Boris Johnson of Afghanistan failures](https://www.bbc.co.uk/news/uk-politics-58254794) - The PM comes in for a barrage of criticism from opposition parties and Tory MPs who served in the army.
 2. [Tom Tugenhadt on UK and Afghanistan: Anger, grief, rage](https://www.bbc.co.uk/news/uk-politics-58259509) - Tory MP Tom Tugendhat speaks of the anger, grief and rage of veterans at the "abandonment" of Afghanistan.
 3. [Austin Mitchell: Former Great Grimsby MP dies aged 86](https://www.bbc.co.uk/news/uk-england-humber-58257189) - Labour leader Sir Keir Starmer leads tributes, saying Mr Mitchell served "with remarkable commitment".
 4. [I don't believe Taliban pledge on women's rights, Priti Patel says](https://www.bbc.co.uk/news/uk-58250211) - The bulk of Afghans resettled in the UK will be persecuted minorities, the home secretary says.
