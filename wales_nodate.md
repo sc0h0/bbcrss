@@ -1,15 +1,15 @@
-1. [Bridgend: Mother charged with murder of son, 2](https://www.bbc.co.uk/news/uk-wales-58250140) - Reid Steele died in hospital after being found in a critical condition at a house in Bridgend.
-2. [Hell's Mouth: Man drowned after saving friend's daughter](https://www.bbc.co.uk/news/uk-wales-58263956) - Stephen Hulsmeier was unresponsive when he was brought ashore, an inquest hears.
-3. [Porthcawl dementia patient missing for 30 hours found in ditch](https://www.bbc.co.uk/news/uk-wales-58254835) - Joseph Hughes was found by an off-duty officer named Amy after going missing from his care home.
-4. [Plaid Cymru: Ex-leader no longer friends with successor](https://www.bbc.co.uk/news/uk-wales-politics-58159654) - Leanne Wood says Adam Price made "a bad judgement call" in the timing of his leadership challenge.
-5. [Merthyr Tydfil: Valium leaves one dead and another in hospital](https://www.bbc.co.uk/news/uk-wales-58262827) - Another person required hospital treatment after taking the prescription drug.
-6. [Covid: All 16 and 17-year-olds in Wales to get jab offer](https://www.bbc.co.uk/news/uk-wales-58256533) - Anyone who has not yet taken up the offer of a vaccine is encouraged to do so.
-7. [Man in court over alleged racist and anti-Semitic podcasts](https://www.bbc.co.uk/news/uk-wales-58259556) - James Allchurch pleads not guilty to distributing recordings intending to stir up racial hated.
-8. [Man who died after Glynneath waterfall difficulties named](https://www.bbc.co.uk/news/uk-wales-58258786) - Hemanta Kumar Rai, 28, had been at the fall with friends and died at the scene.
-9. [Afghanistan: Taliban must not be treated as pariahs, says Lord Hain](https://www.bbc.co.uk/news/uk-wales-politics-58260263) - Countries must incentivise the new rulers not to return to "bad old ways", says Lord Hain.
-10. [Plea to respect Stonehenge research sites in Pembrokeshire](https://www.bbc.co.uk/news/uk-wales-58247235) - A BBC documentary has attracted more visitors to the ancient monuments, a national park says.
-11. [Post Office scandal: Cleared sub-postmaster's compensation imminent, lawyer says](https://www.bbc.co.uk/news/uk-wales-58233304) - Noel Thomas is one of dozens to have their false accounting convictions quashed.
-12. [Mental health: Better support needed in Wales, charity says](https://www.bbc.co.uk/news/uk-wales-58247704) - Melissa Rose, 22, says she has felt "cut off", with calls and emails not returned.
+1. [Covid: £551m extra funding for NHS and social care](https://www.bbc.co.uk/news/uk-wales-58259638) - The money is being allocated for ongoing costs and tackling waiting times.
+2. [Climate change: Families in Wales urged to plant more trees](https://www.bbc.co.uk/news/uk-wales-58259637) - Wales' deputy climate change minister admits "we're way behind" tree-planting targets.
+3. [Bridgend: Mother charged with murder of son, 2](https://www.bbc.co.uk/news/uk-wales-58250140) - Reid Steele died in hospital after being found in a critical condition at a house in Bridgend.
+4. [Hell's Mouth: Man drowned after saving friend's daughter](https://www.bbc.co.uk/news/uk-wales-58263956) - Stephen Hulsmeier was unresponsive when he was brought ashore, an inquest hears.
+5. [Porthcawl dementia patient missing for 30 hours found in ditch](https://www.bbc.co.uk/news/uk-wales-58254835) - Joseph Hughes was found by an off-duty officer named Amy after going missing from his care home.
+6. [Plaid Cymru: Ex-leader no longer friends with successor](https://www.bbc.co.uk/news/uk-wales-politics-58159654) - Leanne Wood says Adam Price made "a bad judgement call" in the timing of his leadership challenge.
+7. [Merthyr Tydfil: Valium leaves one dead and another in hospital](https://www.bbc.co.uk/news/uk-wales-58262827) - Another person required hospital treatment after taking the prescription drug.
+8. [Covid: All 16 and 17-year-olds in Wales to get jab offer](https://www.bbc.co.uk/news/uk-wales-58256533) - Anyone who has not yet taken up the offer of a vaccine is encouraged to do so.
+9. [Man in court over alleged racist and anti-Semitic podcasts](https://www.bbc.co.uk/news/uk-wales-58259556) - James Allchurch pleads not guilty to distributing recordings intending to stir up racial hated.
+10. [Man who died after Glynneath waterfall difficulties named](https://www.bbc.co.uk/news/uk-wales-58258786) - Hemanta Kumar Rai, 28, had been at the fall with friends and died at the scene.
+11. [Afghanistan: Taliban must not be treated as pariahs, says Lord Hain](https://www.bbc.co.uk/news/uk-wales-politics-58260263) - Countries must incentivise the new rulers not to return to "bad old ways", says Lord Hain.
+12. [Plea to respect Stonehenge research sites in Pembrokeshire](https://www.bbc.co.uk/news/uk-wales-58247235) - A BBC documentary has attracted more visitors to the ancient monuments, a national park says.
 13. [Porthcawl: Off-duty police officer found missing man in ditch](https://www.bbc.co.uk/news/uk-wales-58262831) - PC Amy Rowlands found the dementia patient 30 hours after he was reported missing.
 14. [Plaid's ex-leader has not been friends with successor for years](https://www.bbc.co.uk/news/uk-wales-politics-58259557) - Leanne Wood says she thinks Adam Price went about his Plaid leadership challenge the wrong way.
 15. [Afghanistan: Activists call for Wales to take more refugees](https://www.bbc.co.uk/news/uk-wales-58263960) - Campaigners take to the streets of Cardiff to welcome Afghan refugees to the Welsh capital.
@@ -20,7 +20,7 @@
 20. [Sorba Thomas: Wales boss Robert Page monitors Huddersfield winger](https://www.bbc.co.uk/sport/football/58258631) - Wales manager Rob Page is monitoring the form of Huddersfield Town winger Sorba Thomas after confirming his eligibility.
 21. [The Hundred: London Spirit beat Welsh Fire but miss out on top-three finish](https://www.bbc.co.uk/sport/cricket/58259477) - London Spirit beat Welsh Fire in the final group game of the women's Hundred in Cardiff, but miss out on reaching the latter stages of the competition.
 22. [One-Day Cup: Unchanged Glamorgan bid for first final glory](https://www.bbc.co.uk/sport/cricket/58260614) - Glamorgan will choose from an unchanged squad as they bid for their first ever limited-overs final win in Thursday's One-Day Cup climax against Durham.
-23. [Jake Bidwell: Middlesbrough target Swansea defender](https://www.bbc.co.uk/sport/football/58254196) - Middlesbrough enquire about a move for Swansea City defender Jake Bidwell.
+23. [Women's Champions League: Swansea City lose opener 4-1 to CSKA Moscow in extra time](https://www.bbc.co.uk/sport/football/58236559) - Swansea City Ladies lose a thrilling Champions League first-round game against CSKA Moscow 4-1 after extra time.
 24. [Aelod blaenllaw'n galw am newid arweinydd Plaid Cymru](https://www.bbc.co.uk/newyddion/58260766) - Cyn-Gomisiynydd Heddlu a Throsedd Plaid Cymru'n dweud ei bod yn "amser newid arweinydd" y blaid.
 25. [Cyhuddo dynes o lofruddio ei mab ym Mhen-y-bont](https://www.bbc.co.uk/newyddion/58255910) - Bu farw Reid Steele yn dilyn digwyddiad yn ardal Broadlands y dref ar 11 Awst.
 26. [Afghanistan: 'Angen gweithredu nawr' ar ailgartrefu pobl](https://www.bbc.co.uk/newyddion/58246445) - Galw ar Lywodraeth y DU i weithredu'n gyflym i roi lloches i bobl sy'n ffoi o Afghanistan.
