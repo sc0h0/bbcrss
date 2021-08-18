@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 18 Aug 2021 00:25:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Aug 2021 01:33:35 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -121,6 +121,13 @@
             <pubDate>Tue, 17 Aug 2021 21:27:39 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Afghanistan: 'Was my role in Afghan War worth it?']]></title>
+            <description><![CDATA[US military veterans say the Taliban takeover of Afghanistan was "tragic" but "inevitable".]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-58247092</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-58247092</guid>
+            <pubDate>Tue, 17 Aug 2021 15:27:22 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Afghanistan: Female Kabul resident fears for future under Taliban]]></title>
             <description><![CDATA[A woman shares her story of the day the Taliban arrived - and why she has lost all hope.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-58252014</link>
@@ -133,20 +140,6 @@
             <link>https://www.bbc.co.uk/news/world-asia-58243134</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58243134</guid>
             <pubDate>Tue, 17 Aug 2021 16:08:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Taliban: 'We will not allow the soil of Afghanistan to be used against anyone']]></title>
-            <description><![CDATA[The Taliban have held their first news conference since taking control of Afghanistan.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58249178</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58249178</guid>
-            <pubDate>Tue, 17 Aug 2021 16:20:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Afghanistan: Striking image captures Kabul exodus]]></title>
-            <description><![CDATA[A photo appears to show hundreds of Afghans packed on a US military plane as they flee the Taliban.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58242733</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58242733</guid>
-            <pubDate>Tue, 17 Aug 2021 17:04:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Papers: UK's refugee plan 'big-hearted', or 'not enough']]></title>
@@ -205,6 +198,13 @@
             <pubDate>Tue, 17 Aug 2021 23:10:18 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[What has the UK government done for Afghan asylum seekers?]]></title>
+            <description><![CDATA[A scheme to resettle people fleeing Afghanistan is expected to be announced shortly.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-58245684</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58245684</guid>
+            <pubDate>Wed, 18 Aug 2021 00:27:24 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The little-known human stories behind emoji designs]]></title>
             <description><![CDATA[The surprising story of how some tiny characters ended up on billions of smartphone keyboards.]]></description>
             <link>https://www.bbc.co.uk/news/technology-58180556</link>
@@ -238,20 +238,6 @@
             <link>https://www.bbc.co.uk/news/business-57824096</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57824096</guid>
             <pubDate>Mon, 16 Aug 2021 23:10:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Afghanistan: Cardiff artist's sadness at Taliban takeover]]></title>
-            <description><![CDATA[Dan Peterson spent a month on the front line, drawing images of British soldiers and Afghan people.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-58233157</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58233157</guid>
-            <pubDate>Tue, 17 Aug 2021 08:54:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Peter Karlsson: The painful verdict on Swedish ice hockey player's 1995 killing]]></title>
-            <description><![CDATA[Peter Karlsson was stabbed to death in the street. His killer said he was protecting himself - via the so-called 'gay panic' defence.]]></description>
-            <link>https://www.bbc.co.uk/sport/ice-hockey/58101549</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/ice-hockey/58101549</guid>
-            <pubDate>Mon, 16 Aug 2021 23:01:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Livingstone powers Phoenix into men's Hundred final with brilliant 92 off 40 balls]]></title>
@@ -303,6 +289,34 @@
             <pubDate>Tue, 17 Aug 2021 20:38:45 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid: What do under-30s need to know about the vaccine?]]></title>
+            <description><![CDATA[The government has announced that 16 and 17-year-olds will receive the Covid vaccine.]]></description>
+            <link>https://www.bbc.co.uk/news/health-57273875</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-57273875</guid>
+            <pubDate>Tue, 17 Aug 2021 10:40:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[UK holidays: What are the rules?]]></title>
+            <description><![CDATA[Going abroad is not straightforward, so many people are opting to stay in the UK for their holidays.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-52646738</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52646738</guid>
+            <pubDate>Tue, 17 Aug 2021 13:55:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: Do I have to self-isolate if I'm fully vaccinated?]]></title>
+            <description><![CDATA[Self-isolation rules have now been relaxed across the UK.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-54239922</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-54239922</guid>
+            <pubDate>Mon, 16 Aug 2021 15:44:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid vaccine: Fertility and miscarriage claims fact-checked]]></title>
+            <description><![CDATA[Posts claiming Covid vaccines cause miscarriages are not supported by scientific evidence.]]></description>
+            <link>https://www.bbc.co.uk/news/health-57552527</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-57552527</guid>
+            <pubDate>Wed, 11 Aug 2021 07:38:40 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Covid-19 in the UK: How many coronavirus cases are there in my area?]]></title>
             <description><![CDATA[Explore the data on coronavirus in the UK and find out how many cases there are in your area.]]></description>
             <link>https://www.bbc.co.uk/news/uk-51768274</link>
@@ -315,48 +329,6 @@
             <link>https://www.bbc.co.uk/news/uk-54373904</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-54373904</guid>
             <pubDate>Fri, 13 Aug 2021 15:34:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid passport: How to prove your vaccine status with the NHS Covid Pass]]></title>
-            <description><![CDATA[Fully vaccinated adults will be able to avoid self-isolation after contact with someone with Covid.]]></description>
-            <link>https://www.bbc.co.uk/news/explainers-55718553</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-55718553</guid>
-            <pubDate>Mon, 16 Aug 2021 09:05:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: What will school be like in the new term?]]></title>
-            <description><![CDATA[Pupils across the UK are preparing to return to school after the summer holidays.]]></description>
-            <link>https://www.bbc.co.uk/news/education-51643556</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/education-51643556</guid>
-            <pubDate>Tue, 17 Aug 2021 08:48:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: When will teenagers get the jab and do I need a booster?]]></title>
-            <description><![CDATA[More teenagers will be able to receive the Covid vaccine, and a third jab will soon be available for the most vulnerable.]]></description>
-            <link>https://www.bbc.co.uk/news/health-55045639</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-55045639</guid>
-            <pubDate>Tue, 17 Aug 2021 10:03:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid rules: What's changing in Wales, Scotland, England and Northern Ireland?]]></title>
-            <description><![CDATA[Lockdown rules are changing across the UK, but some restrictions remain in place.]]></description>
-            <link>https://www.bbc.co.uk/news/explainers-52530518</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52530518</guid>
-            <pubDate>Mon, 16 Aug 2021 08:59:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: Do I have to self-isolate if I'm fully vaccinated?]]></title>
-            <description><![CDATA[Self-isolation rules have now been relaxed across the UK.]]></description>
-            <link>https://www.bbc.co.uk/news/explainers-54239922</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-54239922</guid>
-            <pubDate>Mon, 16 Aug 2021 15:44:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[UK holidays: What are the rules?]]></title>
-            <description><![CDATA[Going abroad is not straightforward, so many people are opting to stay in the UK for their holidays.]]></description>
-            <link>https://www.bbc.co.uk/news/explainers-52646738</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52646738</guid>
-            <pubDate>Tue, 17 Aug 2021 13:55:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['How I found out my dad was a best-selling sex writer']]></title>
