@@ -1,6 +1,6 @@
 1. [Northern English regions drive house price growth](https://www.bbc.co.uk/news/business-58256169) - Wales also records rapid rises as the UK sees property prices go up at the fastest rate for 17 years.
 2. [Price rises cool amid clothes and shoe discounting](https://www.bbc.co.uk/news/uk-58254000) - The UK inflation rate fell by more than expected to 2% in July, down from 2.5% the previous month.
-3. [Franco Manca owner planning big UK and overseas expansion](https://www.bbc.co.uk/news/business-58257963) - Restaurant group Fulham Shore plans to open up to 150 new outlets globally in the next few years.
+3. [Franco Manca owner planning big UK and overseas expansion](https://www.bbc.co.uk/news/business-58257963) - Restaurant group Fulham Shore plans to open up to 150 new outlets amid continued strong trading.
 4. [Trendy shoffices and pizza ovens raised lockdown fire risks](https://www.bbc.co.uk/news/business-58245846) - Insurer Zurich says residential outbuilding fires rose by 16% last year compared with 2019.
 5. [US left too quickly, says Afghanistan bank governor](https://www.bbc.co.uk/news/business-58252065) - Afghanistan central bank governor, Ajmal Ahmady, tells the BBC he thinks country's economic situation will deteriorate.
 6. [Covid: Australia's Qantas says all staff must be vaccinated](https://www.bbc.co.uk/news/business-58239790) - The announcement came as New South Wales reported its biggest daily rise in coronavirus infections.

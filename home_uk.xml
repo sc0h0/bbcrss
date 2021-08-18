@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 18 Aug 2021 11:01:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Aug 2021 11:19:00 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -37,13 +37,6 @@
             <pubDate>Wed, 18 Aug 2021 10:24:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid in Scotland: Exams planned to go ahead as normal next year]]></title>
-            <description><![CDATA[The Scottish government confirms exams will go ahead in spring 2022 as long as it is safe.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-58254324</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58254324</guid>
-            <pubDate>Wed, 18 Aug 2021 10:22:16 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Gurkha back at Downing Street hunger strike after being taken ill]]></title>
             <description><![CDATA[Former Gurkha soldier Dhan Gurung returns to a protest over pensions after a health scare.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-hampshire-58254634</link>
@@ -51,7 +44,21 @@
             <pubDate>Wed, 18 Aug 2021 10:25:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Silverdale quarry smell: High Court legal challenge to begin]]></title>
+            <title><![CDATA[US lab stands on threshold of key nuclear fusion goal]]></title>
+            <description><![CDATA[A US science institute is on the verge of achieving a longstanding goal in nuclear fusion research.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-58252784</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-58252784</guid>
+            <pubDate>Tue, 17 Aug 2021 23:59:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid in Scotland: Exams planned to go ahead as normal next year]]></title>
+            <description><![CDATA[The Scottish government confirms exams will go ahead in spring 2022 as long as it is safe.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-58254324</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58254324</guid>
+            <pubDate>Wed, 18 Aug 2021 10:22:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Silverdale quarry smell: High Court legal challenge over noxious gas]]></title>
             <description><![CDATA[The family of a boy with breathing difficulties who live near the landfill are bringing the case.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-stoke-staffordshire-58245841</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-stoke-staffordshire-58245841</guid>
@@ -65,18 +72,11 @@
             <pubDate>Wed, 18 Aug 2021 08:45:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[US lab stands on threshold of key nuclear fusion goal]]></title>
-            <description><![CDATA[A US science institute is on the verge of achieving a longstanding goal in nuclear fusion research.]]></description>
-            <link>https://www.bbc.co.uk/news/science-environment-58252784</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-58252784</guid>
-            <pubDate>Tue, 17 Aug 2021 23:59:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['NHS abandoned me after I tried to kill myself']]></title>
-            <description><![CDATA[Mental health referrals across the UK have hit their highest point for two years.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58085428</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58085428</guid>
-            <pubDate>Wed, 18 Aug 2021 00:05:05 GMT</pubDate>
+            <title><![CDATA[Northern English regions drive house price growth]]></title>
+            <description><![CDATA[Wales also records rapid rises as the UK sees property prices go up at the fastest rate for 17 years.]]></description>
+            <link>https://www.bbc.co.uk/news/business-58256169</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58256169</guid>
+            <pubDate>Wed, 18 Aug 2021 10:17:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Scottish public spending deficit doubles to £36bn]]></title>
@@ -93,11 +93,11 @@
             <pubDate>Tue, 17 Aug 2021 17:20:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Papers: UK's refugee plan 'big-hearted', or 'not enough']]></title>
-            <description><![CDATA[Many of the papers focus on the UK's plan to resettle 20,000 Afghan refugees as part of a new scheme.]]></description>
-            <link>https://www.bbc.co.uk/news/blogs-the-papers-58252294</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/blogs-the-papers-58252294</guid>
-            <pubDate>Wed, 18 Aug 2021 03:20:30 GMT</pubDate>
+            <title><![CDATA[Covid: 'I'm pregnant, should I have the vaccine?']]></title>
+            <description><![CDATA[Many pregnant women have declined the Covid jab, but what's best for the baby?]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-58089039</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-58089039</guid>
+            <pubDate>Tue, 17 Aug 2021 23:12:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Snake slithers out of spice shelves at Sydney supermarket]]></title>
@@ -112,13 +112,6 @@
             <link>https://www.bbc.co.uk/news/business-58245846</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58245846</guid>
             <pubDate>Tue, 17 Aug 2021 23:00:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: 'I'm pregnant, should I have the vaccine?']]></title>
-            <description><![CDATA[Many pregnant women have declined the Covid jab, but what's best for the baby?]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-london-58089039</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-58089039</guid>
-            <pubDate>Tue, 17 Aug 2021 23:12:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['I make art out of discarded face masks']]></title>
@@ -140,6 +133,13 @@
             <link>https://www.bbc.co.uk/news/science-environment-57998940</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57998940</guid>
             <pubDate>Tue, 17 Aug 2021 17:26:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Papers: UK's refugee plan 'big-hearted', or 'not enough']]></title>
+            <description><![CDATA[Many of the papers focus on the UK's plan to resettle 20,000 Afghan refugees as part of a new scheme.]]></description>
+            <link>https://www.bbc.co.uk/news/blogs-the-papers-58252294</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/blogs-the-papers-58252294</guid>
+            <pubDate>Wed, 18 Aug 2021 03:20:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Art: Paintings by Sir Kyffin Williams sell for £42,900]]></title>
@@ -212,18 +212,18 @@
             <pubDate>Wed, 18 Aug 2021 08:33:54 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA['We have let you down' - British Gymnastics chair 'deeply sorry' for athlete abuse]]></title>
+            <description><![CDATA[British Gymnastics chairman Mike Darcey apologises to the gymnastics community for failing to act on allegations of mistreatment within the sport.]]></description>
+            <link>https://www.bbc.co.uk/sport/gymnastics/58243350</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/gymnastics/58243350</guid>
+            <pubDate>Wed, 18 Aug 2021 10:55:27 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Livingstone powers Phoenix into men's Hundred final with brilliant 92 off 40 balls]]></title>
             <description><![CDATA[Liam Livingstone's devastating hitting powers Birmingham Phoenix straight into the men's Hundred final with a crushing eight-wicket win over Northern Superchargers.]]></description>
             <link>https://www.bbc.co.uk/sport/cricket/58250735</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/58250735</guid>
             <pubDate>Tue, 17 Aug 2021 20:32:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Hundred: Fan takes brilliant falling catch off Liam Livingstone six]]></title>
-            <description><![CDATA[Watch as a fan at Headingley takes a brilliant falling catch from Liam Livingstone's six hit into the stands for Birmingham Phoenix in The Hundred.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/cricket/58249596</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/cricket/58249596</guid>
-            <pubDate>Tue, 17 Aug 2021 20:27:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Venezia FC: The club built on water rising to the top of Italian football]]></title>
@@ -233,11 +233,11 @@
             <pubDate>Wed, 18 Aug 2021 05:26:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Hendry clinches first main-draw win since professional comeback]]></title>
-            <description><![CDATA[Stephen Hendry claims his first main-draw win since his return to the professional tour with a 3-2 victory over Chris Wakelin at the British Open.]]></description>
-            <link>https://www.bbc.co.uk/sport/snooker/58249638</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/snooker/58249638</guid>
-            <pubDate>Tue, 17 Aug 2021 23:30:55 GMT</pubDate>
+            <title><![CDATA[The Hundred: Fan takes brilliant falling catch off Liam Livingstone six]]></title>
+            <description><![CDATA[Watch as a fan at Headingley takes a brilliant falling catch from Liam Livingstone's six hit into the stands for Birmingham Phoenix in The Hundred.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/cricket/58249596</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/cricket/58249596</guid>
+            <pubDate>Tue, 17 Aug 2021 20:27:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What is Sharia law? What does it mean for women in Afghanistan?]]></title>

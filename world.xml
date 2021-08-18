@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 18 Aug 2021 10:36:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Aug 2021 11:11:24 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -23,11 +23,11 @@
             <pubDate>Tue, 17 Aug 2021 20:32:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covishield: WHO flags fake jabs in India, Africa]]></title>
-            <description><![CDATA[The health body says it has found counterfeit versions of the Indian-made Covishield vaccine.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-india-58253488</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-58253488</guid>
-            <pubDate>Wed, 18 Aug 2021 05:26:51 GMT</pubDate>
+            <title><![CDATA[Lithuania says Belarus officers illegally pushed migrants over border]]></title>
+            <description><![CDATA[Video shows 12 Belarusian officers in riot gear as migrants scramble towards Lithuanian territory.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58255448</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58255448</guid>
+            <pubDate>Wed, 18 Aug 2021 10:52:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Haiti earthquake: Death toll reaches nearly 2,000]]></title>
@@ -35,6 +35,13 @@
             <link>https://www.bbc.co.uk/news/world-latin-america-58187979</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-latin-america-58187979</guid>
             <pubDate>Wed, 18 Aug 2021 03:34:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covishield: WHO flags fake jabs in India, Africa]]></title>
+            <description><![CDATA[The health body says it has found counterfeit versions of the Indian-made Covishield vaccine.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-india-58253488</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-58253488</guid>
+            <pubDate>Wed, 18 Aug 2021 05:26:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Snake slithers out of spice shelves at Sydney supermarket]]></title>
@@ -70,13 +77,6 @@
             <link>https://www.bbc.co.uk/news/world-us-canada-58248261</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-58248261</guid>
             <pubDate>Tue, 17 Aug 2021 21:53:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[US left too quickly, says Afghanistan bank governor]]></title>
-            <description><![CDATA[Afghanistan central bank governor, Ajmal Ahmady, tells the BBC he thinks country's economic situation will deteriorate.]]></description>
-            <link>https://www.bbc.co.uk/news/business-58252065</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58252065</guid>
-            <pubDate>Tue, 17 Aug 2021 21:29:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: Australia's Qantas says all staff must be vaccinated]]></title>
@@ -149,6 +149,13 @@
             <pubDate>Tue, 17 Aug 2021 16:20:50 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Afghanistan: National flag protesters in Jalalabad appear to be disrupted by gunshots]]></title>
+            <description><![CDATA[Video appears to show protesters waving the country's national flag before fleeing.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58255118</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58255118</guid>
+            <pubDate>Wed, 18 Aug 2021 11:00:41 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[How the Taliban seized Afghanistan again]]></title>
             <description><![CDATA[Taliban fighters have swept across Afghanistan taking control of towns and cities.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-58238023</link>
@@ -168,13 +175,6 @@
             <link>https://www.bbc.co.uk/news/world-asia-58241000</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58241000</guid>
             <pubDate>Tue, 17 Aug 2021 11:40:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Images show decline of California's 'life source']]></title>
-            <description><![CDATA[Justin Sullivan has been following California's second-largest reservoir's falling water levels.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-58232044</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-58232044</guid>
-            <pubDate>Mon, 16 Aug 2021 23:13:44 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -1,4 +1,4 @@
-1. [Silverdale quarry smell: High Court legal challenge to begin](https://www.bbc.co.uk/news/uk-england-stoke-staffordshire-58245841) - The family of a boy with breathing difficulties who live near the landfill are bringing the case.
+1. [Silverdale quarry smell: High Court legal challenge over noxious gas](https://www.bbc.co.uk/news/uk-england-stoke-staffordshire-58245841) - The family of a boy with breathing difficulties who live near the landfill are bringing the case.
 2. [Plymouth shooting: Church service for victims](https://www.bbc.co.uk/news/uk-england-devon-58254573) - The service remembers five people killed in a mass shooting in the Keyham area of the city.
 3. [Gurkha back at Downing Street hunger strike after being taken ill](https://www.bbc.co.uk/news/uk-england-hampshire-58254634) - Former Gurkha soldier Dhan Gurung returns to a protest over pensions after a health scare.
 4. [Southend rescue: Boy among seven people saved by coastguard](https://www.bbc.co.uk/news/uk-england-essex-58255010) - The coastguard was called to reports a group of people, including a 10-year-old boy, were stranded.
