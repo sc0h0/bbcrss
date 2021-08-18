@@ -1,4 +1,4 @@
-1. [Bridgend: Mother charged with murder of son, 2](https://www.bbc.co.uk/news/uk-wales-58250140) - Wed, 18 Aug 2021 14:14:11 GMT - Reid Steele died in hospital after being found in a critical condition at a house in Bridgend.
+1. [Bridgend: Mother charged with murder of son, 2](https://www.bbc.co.uk/news/uk-wales-58250140) - Wed, 18 Aug 2021 15:45:33 GMT - Reid Steele died in hospital after being found in a critical condition at a house in Bridgend.
 2. [Covid: All 16 and 17-year-olds in Wales to get jab offer](https://www.bbc.co.uk/news/uk-wales-58256533) - Wed, 18 Aug 2021 14:20:41 GMT - Anyone who has not yet taken up the offer of a vaccine is encouraged to do so.
 3. [Plaid Cymru: Ex-leader no longer friends with successor](https://www.bbc.co.uk/news/uk-wales-politics-58159654) - Wed, 18 Aug 2021 05:06:39 GMT - Leanne Wood says Adam Price made "a bad judgement call" in the timing of his leadership challenge.
 4. [Man who died after Glynneath waterfall difficulties named](https://www.bbc.co.uk/news/uk-wales-58258786) - Wed, 18 Aug 2021 14:42:34 GMT - Hemanta Kumar Rai, 28, had been at the fall with friends and died at the scene.
