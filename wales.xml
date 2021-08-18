@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 18 Aug 2021 20:45:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Aug 2021 21:01:01 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -42,6 +42,13 @@
             <link>https://www.bbc.co.uk/news/uk-wales-politics-58159654</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-politics-58159654</guid>
             <pubDate>Wed, 18 Aug 2021 05:06:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hell's Mouth: Man drowned after saving friend's daughter]]></title>
+            <description><![CDATA[Stephen Hulsmeier was unresponsive when he was brought ashore, an inquest hears.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-58263956</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58263956</guid>
+            <pubDate>Wed, 18 Aug 2021 20:52:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Man in court over alleged racist and anti-Semitic podcasts]]></title>
@@ -93,13 +100,6 @@
             <pubDate>Wed, 18 Aug 2021 09:22:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Pembrokeshire County Show: Animals and members only on return]]></title>
-            <description><![CDATA[In a normal year 100,000 people would attend - but this time only members and animals can come.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-58246688</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58246688</guid>
-            <pubDate>Wed, 18 Aug 2021 06:35:40 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Porthcawl: Off-duty police officer found missing man in ditch]]></title>
             <description><![CDATA[PC Amy Rowlands found the dementia patient 30 hours after he was reported missing.]]></description>
             <link>https://www.bbc.co.uk/news/uk-wales-58262831</link>
@@ -146,14 +146,7 @@
             <description><![CDATA[Welsh Fire end their men's Hundred campaign on a high by beating London Spirit in Cardiff in a gripping final game of the group stages.]]></description>
             <link>https://www.bbc.co.uk/sport/cricket/58259480</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/58259480</guid>
-            <pubDate>Wed, 18 Aug 2021 20:41:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Hundred: London Spirit beat Welsh Fire but miss out on top-three finish]]></title>
-            <description><![CDATA[London Spirit beat Welsh Fire in the final group game of the women's Hundred in Cardiff, but miss out on reaching the latter stages of the competition.]]></description>
-            <link>https://www.bbc.co.uk/sport/cricket/58259477</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/58259477</guid>
-            <pubDate>Wed, 18 Aug 2021 16:31:08 GMT</pubDate>
+            <pubDate>Wed, 18 Aug 2021 20:59:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sorba Thomas: Wales boss Robert Page monitors Huddersfield winger]]></title>
@@ -161,6 +154,13 @@
             <link>https://www.bbc.co.uk/sport/football/58258631</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58258631</guid>
             <pubDate>Wed, 18 Aug 2021 11:52:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Hundred: London Spirit beat Welsh Fire but miss out on top-three finish]]></title>
+            <description><![CDATA[London Spirit beat Welsh Fire in the final group game of the women's Hundred in Cardiff, but miss out on reaching the latter stages of the competition.]]></description>
+            <link>https://www.bbc.co.uk/sport/cricket/58259477</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/58259477</guid>
+            <pubDate>Wed, 18 Aug 2021 16:31:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[One-Day Cup: Unchanged Glamorgan bid for first final glory]]></title>
