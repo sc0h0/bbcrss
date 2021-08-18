@@ -11,16 +11,23 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 18 Aug 2021 11:50:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Aug 2021 12:18:36 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Afghan crisis: Chaos as Europeans scramble to evacuate Kabul]]></title>
+            <description><![CDATA[Several countries rush to fly people out, as the Dutch government is criticised for reacting slowly.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58256696</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58256696</guid>
+            <pubDate>Wed, 18 Aug 2021 11:58:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Lithuania says Belarus officers illegally pushed migrants over border]]></title>
             <description><![CDATA[Video shows 12 Belarusian officers in riot gear as migrants scramble towards Lithuanian territory.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-58255448</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58255448</guid>
-            <pubDate>Wed, 18 Aug 2021 10:52:10 GMT</pubDate>
+            <pubDate>Wed, 18 Aug 2021 12:06:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[I don't believe Taliban pledge on women's rights, Priti Patel says]]></title>
@@ -28,13 +35,6 @@
             <link>https://www.bbc.co.uk/news/uk-58250211</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58250211</guid>
             <pubDate>Wed, 18 Aug 2021 11:29:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Afghan reporter asks Nato secretary general for help]]></title>
-            <description><![CDATA[Lailuma Sadid, a journalist with Brussels Morning Newspaper, became emotional when asking the Nato secretary general about the Taliban in Afghanistan.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58250062</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58250062</guid>
-            <pubDate>Tue, 17 Aug 2021 16:10:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Teenage pilot Zara Rutherford begins solo round-world record bid]]></title>
@@ -107,6 +107,13 @@
             <pubDate>Thu, 12 Aug 2021 12:42:38 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Afghan reporter asks Nato secretary general for help]]></title>
+            <description><![CDATA[Lailuma Sadid, a journalist with Brussels Morning Newspaper, became emotional when asking the Nato secretary general about the Taliban in Afghanistan.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58250062</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58250062</guid>
+            <pubDate>Tue, 17 Aug 2021 16:10:52 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The shopkeeper saving his island from wildfires]]></title>
             <description><![CDATA[Spyros isn't a firefighter, but when his home was threatened with wildfires, he decided to take action.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-58177493</link>
@@ -133,13 +140,6 @@
             <link>https://www.bbc.co.uk/news/world-europe-58017676</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58017676</guid>
             <pubDate>Fri, 06 Aug 2021 23:07:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Will Turkey's bees return after the wildfires?]]></title>
-            <description><![CDATA[Residents of Marmaris, Turkey, are mourning their bees and honey, lost to fires.]]></description>
-            <link>https://www.bbc.co.uk/news/world-middle-east-58108697</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-58108697</guid>
-            <pubDate>Thu, 05 Aug 2021 23:01:28 GMT</pubDate>
         </item>
     </channel>
 </rss>

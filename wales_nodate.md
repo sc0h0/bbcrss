@@ -24,5 +24,5 @@
 24. [Afghanistan: 'Angen gweithredu nawr' ar ailgartrefu pobl](https://www.bbc.co.uk/newyddion/58246445) - Galw ar Lywodraeth y DU i weithredu'n gyflym i roi lloches i bobl sy'n ffoi o Afghanistan.
 25. [Leanne Wood ac Adam Price 'ddim yn ffrindiau ers blynyddoedd'](https://www.bbc.co.uk/newyddion/58234858) - Dywed cyn-arweinydd Plaid Cymru fod yr amseru i'w herio am yr arweinyddiaeth yn "wael" ar ran ei holynydd.
 26. [Sut y daeth sêr Hollywood yn berchnogion Wrecsam](https://www.bbc.co.uk/newyddion/58186778) - Yr hanes y tu ôl i Ryan Reynolds a Rob McElhenney yn prynu clwb pêl-droed hynaf Cymru.
-27. [Byw bywyd i'r eithaf ar ôl cael trawiad ar y galon](https://www.bbc.co.uk/newyddion/58246235) - Stori Dilwyn Rowlands o Fangor sydd wedi cyflawni her feicio ar ôl cael trawiad ym mis Ebrill 2021.
+27. [Charli Britton: Hanner canrif o ddrymio a dylunio](https://www.bbc.co.uk/newyddion/58230800) - Cipolwg ar gyfraniad Charli Britton i gerddoriaeth Gymraeg.
 28. [Y Bencampwriaeth: Peterborough 2-2 Caerdydd](https://www.bbc.co.uk/newyddion/58249915) - Yr Adar Gleision yn cipio pwynt dramatig yn yr eiliadau olaf ar ôl ildio dwy gôl mewn dau funud.
