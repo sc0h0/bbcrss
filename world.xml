@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 18 Aug 2021 05:31:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Aug 2021 05:42:17 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -30,6 +30,13 @@
             <pubDate>Tue, 17 Aug 2021 14:01:44 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covishield: WHO flags fake jabs in India, Africa]]></title>
+            <description><![CDATA[The healthy body said it has found counterfeit versions of the Indian-made Covishield vaccine.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-india-58253488</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-58253488</guid>
+            <pubDate>Wed, 18 Aug 2021 05:26:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Haiti earthquake: Death toll reaches nearly 2,000]]></title>
             <description><![CDATA[Many people are still feared trapped under the rubble as heavy rains have hampered rescue efforts.]]></description>
             <link>https://www.bbc.co.uk/news/world-latin-america-58187979</link>
@@ -44,13 +51,6 @@
             <pubDate>Tue, 17 Aug 2021 23:59:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Astronomers see galaxies in ultra-high definition]]></title>
-            <description><![CDATA[Researchers capture some of the most detailed images ever seen of galaxies in deep space.]]></description>
-            <link>https://www.bbc.co.uk/news/science-environment-57998940</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57998940</guid>
-            <pubDate>Tue, 17 Aug 2021 17:26:59 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Snake slithers out of spice shelves at Sydney supermarket]]></title>
             <description><![CDATA[The python greeted the woman at the spice shelves - luckily, she happened to be a snake rescuer.]]></description>
             <link>https://www.bbc.co.uk/news/world-australia-58253378</link>
@@ -58,11 +58,11 @@
             <pubDate>Wed, 18 Aug 2021 03:59:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[France wildfire: Thousands evacuated as blaze rages near Riviera]]></title>
-            <description><![CDATA[Firefighters clear campsites in the Var region as some 5,000 hectares are destroyed by fire.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58243066</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58243066</guid>
-            <pubDate>Tue, 17 Aug 2021 17:36:07 GMT</pubDate>
+            <title><![CDATA[Astronomers see galaxies in ultra-high definition]]></title>
+            <description><![CDATA[Researchers capture some of the most detailed images ever seen of galaxies in deep space.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-57998940</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-57998940</guid>
+            <pubDate>Tue, 17 Aug 2021 17:26:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How technology in the air battles fires on the ground]]></title>
@@ -83,7 +83,7 @@
             <description><![CDATA[The announcement came as New South Wales reported its biggest daily rise in coronavirus infections.]]></description>
             <link>https://www.bbc.co.uk/news/business-58239790</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58239790</guid>
-            <pubDate>Wed, 18 Aug 2021 05:16:05 GMT</pubDate>
+            <pubDate>Wed, 18 Aug 2021 05:40:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[California man sues after being startled by dumpster-diving bear]]></title>

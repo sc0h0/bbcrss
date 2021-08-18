@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 18 Aug 2021 05:33:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Aug 2021 05:40:38 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -24,7 +24,7 @@
         </item>
         <item>
             <title><![CDATA[Plea to respect Stonehenge research sites in Pembrokeshire]]></title>
-            <description><![CDATA[A recent BBC documentary has attracted more visitors to the ancient monuments, a national park says.]]></description>
+            <description><![CDATA[A BBC documentary has attracted more visitors to the ancient monuments, a national park says.]]></description>
             <link>https://www.bbc.co.uk/news/uk-wales-58247235</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58247235</guid>
             <pubDate>Wed, 18 Aug 2021 05:06:54 GMT</pubDate>
@@ -37,11 +37,11 @@
             <pubDate>Tue, 17 Aug 2021 17:07:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Child, 2, dies after Deeside incident, prompting investigation]]></title>
-            <description><![CDATA[The child died in hospital on Monday following an incident at a property on Saturday.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-58246055</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58246055</guid>
-            <pubDate>Tue, 17 Aug 2021 14:03:59 GMT</pubDate>
+            <title><![CDATA[Art: Paintings by Sir Kyffin Williams sell for £39,000]]></title>
+            <description><![CDATA[The artworks, by one of Wales' most renowned artists, are described as "a truly wonderful find".]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-58243611</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58243611</guid>
+            <pubDate>Tue, 17 Aug 2021 20:42:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Pembrokeshire woman injured in American bulldog attack]]></title>
@@ -51,11 +51,11 @@
             <pubDate>Tue, 17 Aug 2021 16:28:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Art: Paintings by Sir Kyffin Williams sell for £39,000]]></title>
-            <description><![CDATA[The artworks, by one of Wales' most renowned artists, are described as "a truly wonderful find".]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-58243611</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58243611</guid>
-            <pubDate>Tue, 17 Aug 2021 20:42:04 GMT</pubDate>
+            <title><![CDATA[Child, 2, dies after Deeside incident, prompting investigation]]></title>
+            <description><![CDATA[The child died in hospital on Monday following an incident at a property on Saturday.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-58246055</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58246055</guid>
+            <pubDate>Tue, 17 Aug 2021 14:03:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: Deaths rise in Wales to 22]]></title>
@@ -79,13 +79,6 @@
             <pubDate>Tue, 17 Aug 2021 12:40:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Coercive control: Male victims say they aren't believed]]></title>
-            <description><![CDATA[Craig says he was criticised and controlled, leaving him with post-traumatic stress disorder.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-58233300</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58233300</guid>
-            <pubDate>Tue, 17 Aug 2021 05:40:30 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Wrexham: Teenager charged over serious assault]]></title>
             <description><![CDATA[Christopher Keenan has been charged with grievous bodily harm with intent following the attack.]]></description>
             <link>https://www.bbc.co.uk/news/uk-wales-58241025</link>
@@ -98,6 +91,13 @@
             <link>https://www.bbc.co.uk/news/uk-wales-58235362</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58235362</guid>
             <pubDate>Tue, 17 Aug 2021 11:51:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coercive control: Male victims say they aren't believed]]></title>
+            <description><![CDATA[Craig says he was criticised and controlled, leaving him with post-traumatic stress disorder.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-58233300</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58233300</guid>
+            <pubDate>Tue, 17 Aug 2021 05:40:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Afghanistan: Man who fled Taliban fears for family]]></title>
@@ -191,11 +191,11 @@
             <pubDate>Tue, 17 Aug 2021 16:42:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Heddlu'n ymchwilio ar ôl marwolaeth plentyn]]></title>
-            <description><![CDATA[Mae marwolaeth y plentyn dwy flwydd oed yn cael ei thrin fel un heb esboniad.]]></description>
-            <link>https://www.bbc.co.uk/newyddion/58236939</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/newyddion/58236939</guid>
-            <pubDate>Tue, 17 Aug 2021 13:30:51 GMT</pubDate>
+            <title><![CDATA[Sut y daeth sêr Hollywood yn berchnogion Wrecsam]]></title>
+            <description><![CDATA[Yr hanes y tu ôl i Ryan Reynolds a Rob McElhenney yn prynu clwb pêl-droed hynaf Cymru.]]></description>
+            <link>https://www.bbc.co.uk/newyddion/58186778</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/newyddion/58186778</guid>
+            <pubDate>Wed, 18 Aug 2021 05:36:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Byw bywyd i'r eithaf ar ôl cael trawiad ar y galon]]></title>

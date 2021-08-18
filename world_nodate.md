@@ -1,10 +1,10 @@
 1. [Afghan women to have rights within Islamic law, Taliban say](https://www.bbc.co.uk/news/world-asia-58249952) - The militant group, which has taken control of Afghanistan, is pressed on fears over women's freedoms.
 2. [Uncertain times ahead for Afghan women](https://www.bbc.co.uk/news/world-asia-58244017) - After the Taliban takeover, it is not yet clear how women will fare with the militants in power.
-3. [Haiti earthquake: Death toll reaches nearly 2,000](https://www.bbc.co.uk/news/world-latin-america-58187979) - Many people are still feared trapped under the rubble as heavy rains have hampered rescue efforts.
-4. [US lab stands on threshold of key nuclear fusion goal](https://www.bbc.co.uk/news/science-environment-58252784) - A US science institute is on the verge of achieving a longstanding goal in nuclear fusion research.
-5. [Astronomers see galaxies in ultra-high definition](https://www.bbc.co.uk/news/science-environment-57998940) - Researchers capture some of the most detailed images ever seen of galaxies in deep space.
+3. [Covishield: WHO flags fake jabs in India, Africa](https://www.bbc.co.uk/news/world-asia-india-58253488) - The healthy body said it has found counterfeit versions of the Indian-made Covishield vaccine.
+4. [Haiti earthquake: Death toll reaches nearly 2,000](https://www.bbc.co.uk/news/world-latin-america-58187979) - Many people are still feared trapped under the rubble as heavy rains have hampered rescue efforts.
+5. [US lab stands on threshold of key nuclear fusion goal](https://www.bbc.co.uk/news/science-environment-58252784) - A US science institute is on the verge of achieving a longstanding goal in nuclear fusion research.
 6. [Snake slithers out of spice shelves at Sydney supermarket](https://www.bbc.co.uk/news/world-australia-58253378) - The python greeted the woman at the spice shelves - luckily, she happened to be a snake rescuer.
-7. [France wildfire: Thousands evacuated as blaze rages near Riviera](https://www.bbc.co.uk/news/world-europe-58243066) - Firefighters clear campsites in the Var region as some 5,000 hectares are destroyed by fire.
+7. [Astronomers see galaxies in ultra-high definition](https://www.bbc.co.uk/news/science-environment-57998940) - Researchers capture some of the most detailed images ever seen of galaxies in deep space.
 8. [How technology in the air battles fires on the ground](https://www.bbc.co.uk/news/world-us-canada-58248261) - Planes equipped with infrared scanners are helping authorities take on historic wildfires in the US.
 9. [US left too quickly, says Afghanistan bank governor](https://www.bbc.co.uk/news/business-58252065) - Afghanistan central bank governor, Ajmal Ahmady, tells the BBC he thinks country's economic situation will deteriorate.
 10. [Covid: Australia's Qantas says all staff must be vaccinated](https://www.bbc.co.uk/news/business-58239790) - The announcement came as New South Wales reported its biggest daily rise in coronavirus infections.

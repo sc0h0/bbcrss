@@ -1,15 +1,15 @@
 1. [Plaid Cymru: Ex-leader no longer friends with successor](https://www.bbc.co.uk/news/uk-wales-politics-58159654) - Leanne Wood says Adam Price made "a bad judgement call" in the timing of his leadership challenge.
-2. [Plea to respect Stonehenge research sites in Pembrokeshire](https://www.bbc.co.uk/news/uk-wales-58247235) - A recent BBC documentary has attracted more visitors to the ancient monuments, a national park says.
+2. [Plea to respect Stonehenge research sites in Pembrokeshire](https://www.bbc.co.uk/news/uk-wales-58247235) - A BBC documentary has attracted more visitors to the ancient monuments, a national park says.
 3. [Afghanistan: Refugees should be housed 'in all parts' of UK](https://www.bbc.co.uk/news/uk-wales-58246941) - Welsh councils have so far agreed to house at least 24 families fleeing Afghanistan.
-4. [Child, 2, dies after Deeside incident, prompting investigation](https://www.bbc.co.uk/news/uk-wales-58246055) - The child died in hospital on Monday following an incident at a property on Saturday.
+4. [Art: Paintings by Sir Kyffin Williams sell for £39,000](https://www.bbc.co.uk/news/uk-wales-58243611) - The artworks, by one of Wales' most renowned artists, are described as "a truly wonderful find".
 5. [Pembrokeshire woman injured in American bulldog attack](https://www.bbc.co.uk/news/uk-wales-58248554) - The dog has been put down and police have launched an investigation.
-6. [Art: Paintings by Sir Kyffin Williams sell for £39,000](https://www.bbc.co.uk/news/uk-wales-58243611) - The artworks, by one of Wales' most renowned artists, are described as "a truly wonderful find".
+6. [Child, 2, dies after Deeside incident, prompting investigation](https://www.bbc.co.uk/news/uk-wales-58246055) - The child died in hospital on Monday following an incident at a property on Saturday.
 7. [Covid-19: Deaths rise in Wales to 22](https://www.bbc.co.uk/news/uk-wales-58244250) - Covid deaths increased in Wales but are still well below levels in the second wave, figures show.
 8. [Covid: NHS worker unlikely to have caught virus at work](https://www.bbc.co.uk/news/uk-wales-58241511) - A coroner says Alan Macalalad's suffered health issues before his death from natural causes.
 9. [Staff shortages remain despite more out of work in Wales](https://www.bbc.co.uk/news/uk-wales-58241503) - The number of people out of work fell in the past three months but is still higher than last year.
-10. [Coercive control: Male victims say they aren't believed](https://www.bbc.co.uk/news/uk-wales-58233300) - Craig says he was criticised and controlled, leaving him with post-traumatic stress disorder.
-11. [Wrexham: Teenager charged over serious assault](https://www.bbc.co.uk/news/uk-wales-58241025) - Christopher Keenan has been charged with grievous bodily harm with intent following the attack.
-12. [Farmer calls for A494 speed limit changes following crashes](https://www.bbc.co.uk/news/uk-wales-58235362) - Kevin Peacock says several cars have crashed onto his property and wants the speed limit lowered.
+10. [Wrexham: Teenager charged over serious assault](https://www.bbc.co.uk/news/uk-wales-58241025) - Christopher Keenan has been charged with grievous bodily harm with intent following the attack.
+11. [Farmer calls for A494 speed limit changes following crashes](https://www.bbc.co.uk/news/uk-wales-58235362) - Kevin Peacock says several cars have crashed onto his property and wants the speed limit lowered.
+12. [Coercive control: Male victims say they aren't believed](https://www.bbc.co.uk/news/uk-wales-58233300) - Craig says he was criticised and controlled, leaving him with post-traumatic stress disorder.
 13. [Afghanistan: Man who fled Taliban fears for family](https://www.bbc.co.uk/news/uk-wales-58248562) - Mohammed has not been able to contact his relatives since the Taliban seized control of Afghanistan.
 14. [Stonehenge: Welsh links 'damaged' by tourists](https://www.bbc.co.uk/news/uk-wales-58250138) - A recent BBC documentary attracted more visitors to the ancient monuments, a national park says.
 15. [Who erected Wrexham's new giant Hollywood-style sign?](https://www.bbc.co.uk/news/uk-wales-58248494) - A large Hollywood-style sign has appeared in Wrexham, and no one knows who put it there.
@@ -23,6 +23,6 @@
 23. [Russell Martin: Swansea City players not yet fit enough to play our style](https://www.bbc.co.uk/sport/football/58251985) - Boss Russell Martin says Swansea City's players are not fit enough to play his style and insists results will come as their conditioning improves.
 24. [Leanne Wood ac Adam Price 'ddim yn ffrindiau ers blynyddoedd'](https://www.bbc.co.uk/newyddion/58234858) - Dywed cyn-arweinydd Plaid Cymru fod yr amseru i'w herio am yr arweinyddiaeth yn "wael" ar ran ei holynydd.
 25. [Afghanistan: 'Cymru'n gweithio'n galed i fod yn genedl noddfa'](https://www.bbc.co.uk/newyddion/58236934) - 17 allan o 22 awdurdod lleol Cymru eisoes wedi cytuno i ddarparu lloches i bobl sy'n ffoi o Afghanistan.
-26. [Heddlu'n ymchwilio ar ôl marwolaeth plentyn](https://www.bbc.co.uk/newyddion/58236939) - Mae marwolaeth y plentyn dwy flwydd oed yn cael ei thrin fel un heb esboniad.
+26. [Sut y daeth sêr Hollywood yn berchnogion Wrecsam](https://www.bbc.co.uk/newyddion/58186778) - Yr hanes y tu ôl i Ryan Reynolds a Rob McElhenney yn prynu clwb pêl-droed hynaf Cymru.
 27. [Byw bywyd i'r eithaf ar ôl cael trawiad ar y galon](https://www.bbc.co.uk/newyddion/58246235) - Stori Dilwyn Rowlands o Fangor sydd wedi cyflawni her feicio ar ôl cael trawiad ym mis Ebrill 2021.
 28. [Y Bencampwriaeth: Peterborough 2-2 Caerdydd](https://www.bbc.co.uk/newyddion/58249915) - Yr Adar Gleision yn cipio pwynt dramatig yn yr eiliadau olaf ar ôl ildio dwy gôl mewn dau funud.
