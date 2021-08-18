@@ -1,11 +1,11 @@
 1. [UK to welcome 20,000 Afghans amid Taliban takeover](https://www.bbc.co.uk/news/uk-58250211) - Some 5,000 refugees will be eligible under a new scheme in the first year, on top of 5,000 Afghan staff.
 2. [Afghan women to have rights within Islamic law, Taliban say](https://www.bbc.co.uk/news/world-asia-58249952) - The militant group, which has taken control of Afghanistan, is pressed on fears over women's freedoms.
-3. [Inflation rate falls to Bank of England's target](https://www.bbc.co.uk/news/uk-58254000) - The inflation rate hit 2% in July, falling to the Bank of England's target.
+3. [Price rises slow down driven by clothes discounts](https://www.bbc.co.uk/news/uk-58254000) - The inflation rate fell to 2% in July, down from 2.5% the previous month.
 4. [Covid-vaccine scientists begin plague-jab trial](https://www.bbc.co.uk/news/health-58241858) - The first volunteers have received a dose of the vaccine, made using the same technology as the Covid jab.
 5. ['NHS abandoned me after I tried to kill myself'](https://www.bbc.co.uk/news/uk-58085428) - Mental health referrals across the UK have hit their highest point for two years.
-6. [Trendy shoffices and pizza ovens raised lockdown fire risks](https://www.bbc.co.uk/news/business-58245846) - Insurer Zurich says residential outbuilding fires rose by 16% last year compared with 2019.
-7. [Nando's shuts restaurants as it runs short of supplies](https://www.bbc.co.uk/news/business-58249337) - The chain says it will lend some of its own staff to its suppliers, to help tackle delays to deliveries.
-8. [Aspirin may help treat aggressive breast cancer](https://www.bbc.co.uk/news/health-58229082) - Doctors hope it could boost the anti-cancer power of other drugs to fight hard-to-treat tumours.
+6. [Aspirin may help treat aggressive breast cancer](https://www.bbc.co.uk/news/health-58229082) - Doctors hope it could boost the anti-cancer power of other drugs to fight hard-to-treat tumours.
+7. [Trendy shoffices and pizza ovens raised lockdown fire risks](https://www.bbc.co.uk/news/business-58245846) - Insurer Zurich says residential outbuilding fires rose by 16% last year compared with 2019.
+8. [Nando's shuts restaurants as it runs short of supplies](https://www.bbc.co.uk/news/business-58249337) - The chain says it will lend some of its own staff to its suppliers, to help tackle delays to deliveries.
 9. [Trials of shared banking hubs to be extended](https://www.bbc.co.uk/news/business-58245844) - The two trial projects allow different banks to operate from the same premises after branches closed.
 10. [Haiti earthquake: Death toll reaches nearly 2,000](https://www.bbc.co.uk/news/world-latin-america-58187979) - Many people are still feared trapped under the rubble as heavy rains have hampered rescue efforts.
 11. [Colleges need extra £570m due to rise in students - think tank](https://www.bbc.co.uk/news/education-58233240) - The IFS says England's colleges and sixth forms need extra funds to keep pace with student numbers.

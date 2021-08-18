@@ -1,4 +1,4 @@
-1. [Inflation rate falls to Bank of England's target](https://www.bbc.co.uk/news/uk-58254000) - The inflation rate hit 2% in July, falling to the Bank of England's target.
+1. [Price rises slow down driven by clothes discounts](https://www.bbc.co.uk/news/uk-58254000) - The inflation rate fell to 2% in July, down from 2.5% the previous month.
 2. [US left too quickly, says Afghanistan bank governor](https://www.bbc.co.uk/news/business-58252065) - Afghanistan central bank governor, Ajmal Ahmady, tells the BBC he thinks country's economic situation will deteriorate.
 3. [Covid: Australia's Qantas says all staff must be vaccinated](https://www.bbc.co.uk/news/business-58239790) - The announcement came as New South Wales reported its biggest daily rise in coronavirus infections.
 4. [Trendy shoffices and pizza ovens raised lockdown fire risks](https://www.bbc.co.uk/news/business-58245846) - Insurer Zurich says residential outbuilding fires rose by 16% last year compared with 2019.
