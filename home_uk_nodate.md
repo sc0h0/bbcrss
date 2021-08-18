@@ -1,7 +1,7 @@
 1. [Resettling Afghans in UK will take time, Priti Patel says](https://www.bbc.co.uk/news/uk-58250211) - The UK will work with other countries to help up to 20,000 refugees move the UK, the home secretary says.
 2. [Afghan women to have rights within Islamic law, Taliban say](https://www.bbc.co.uk/news/world-asia-58249952) - The militant group, which has taken control of Afghanistan, is pressed on fears over women's freedoms.
 3. [Price rises cool amid clothes and shoe discounting](https://www.bbc.co.uk/news/uk-58254000) - The UK inflation rate fell by more than expected to 2% in July, down from 2.5% the previous month.
-4. [Walleys Quarry: Parents of ill boy take quarry owners to High Court](https://www.bbc.co.uk/news/uk-england-stoke-staffordshire-58245841) - A doctor says continued exposure to the air around the quarry will reduce the boy's life expectancy.
+4. [Silverdale quarry smell: High Court legal challenge to begin](https://www.bbc.co.uk/news/uk-england-stoke-staffordshire-58245841) - The family of a boy with breathing difficulties who live near the landfill are bringing the case.
 5. [Covid: Price rises slow down and AZ jab makers trial plague vaccine](https://www.bbc.co.uk/news/uk-58249469) - Five things you need to know about the coronavirus pandemic this Wednesday morning.
 6. [Covid-vaccine scientists begin plague-jab trial](https://www.bbc.co.uk/news/health-58241858) - The first volunteers have received a dose of the vaccine, made using the same technology as the Covid jab.
 7. ['NHS abandoned me after I tried to kill myself'](https://www.bbc.co.uk/news/uk-58085428) - Mental health referrals across the UK have hit their highest point for two years.

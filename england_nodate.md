@@ -1,4 +1,4 @@
-1. [Walleys Quarry: Parents of ill boy take quarry owners to High Court](https://www.bbc.co.uk/news/uk-england-stoke-staffordshire-58245841) - A doctor says continued exposure to the air around the quarry will reduce the boy's life expectancy.
+1. [Silverdale quarry smell: High Court legal challenge to begin](https://www.bbc.co.uk/news/uk-england-stoke-staffordshire-58245841) - The family of a boy with breathing difficulties who live near the landfill are bringing the case.
 2. [Plymouth shooting: Church service to remember victims](https://www.bbc.co.uk/news/uk-england-devon-58254573) - The service will remember five people killed in a mass shooting in the Keyham area of the city.
 3. [Gurkha taken to hospital during Downing Street hunger strike](https://www.bbc.co.uk/news/uk-england-hampshire-58254634) - Former Gurkha soldier Dhan Gurung has refused food for 11 days in a protest over unequal pensions.
 4. ['I make art out of discarded face masks'](https://www.bbc.co.uk/news/uk-england-nottinghamshire-58187835) - Thomas Yates posts artwork he's created out of used face masks on social media.
