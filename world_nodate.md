@@ -1,4 +1,4 @@
-1. [Afghanistan crisis: Biden says no American will be left behind](https://www.bbc.co.uk/news/world-asia-58264917) - The US president says the chaos in Afghanistan was unavoidable and refuses to acknowledge any mistakes.
+1. [Afghanistan crisis: Biden says US troops may stay past withdrawal deadline](https://www.bbc.co.uk/news/world-asia-58264917) - The US president says the chaos in Afghanistan was unavoidable and refuses to acknowledge any mistakes.
 2. [Afghanistan crisis: 'Many here will be deeply fearful for their future'](https://www.bbc.co.uk/news/world-asia-58262874) - The BBC's Secunder Kermani reports from the heart of Kabul during the unfolding crisis in Afghanistan.
 3. [Afghanistan: Pakistan fences off from Afghan refugees](https://www.bbc.co.uk/news/world-asia-58187983) - Islamabad says it cannot accept any more Afghans fleeing Taliban rule, despite UN pleas.
 4. [The villages cut off from help by Haiti earthquake](https://www.bbc.co.uk/news/world-latin-america-58245047) - The tremor razed their homes, but these survivors could still die for a lack of basic supplies.

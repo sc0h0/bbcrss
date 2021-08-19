@@ -1,4 +1,4 @@
-1. [Afghanistan crisis: Biden says no American will be left behind](https://www.bbc.co.uk/news/world-asia-58264917) - The US president says the chaos in Afghanistan was unavoidable and refuses to acknowledge any mistakes.
+1. [Afghanistan crisis: Biden says US troops may stay past withdrawal deadline](https://www.bbc.co.uk/news/world-asia-58264917) - The US president says the chaos in Afghanistan was unavoidable and refuses to acknowledge any mistakes.
 2. [R. Kelly trial: Singer 'knew I was underage', accuser tells court](https://www.bbc.co.uk/news/entertainment-arts-58254151) - The US R&B singer is accused of sexual abuse, racketeering and bribery; charges which he has denied.
 3. [Covid vaccine: US plans to offer booster Covid jabs in September](https://www.bbc.co.uk/news/health-58261590) - A third booster Covid vaccine will be offered to anyone who was fully vaccinated eight months ago.
 4. [40 million T-Mobile customers hit by US data breach](https://www.bbc.co.uk/news/business-58263521) - More than 40 million T-Mobile customers have been hit by a US data breach.

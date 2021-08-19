@@ -1,5 +1,5 @@
-1. [Afghanistan crisis: Biden says no American will be left behind](https://www.bbc.co.uk/news/world-asia-58264917) - The US president says the chaos in Afghanistan was unavoidable and refuses to acknowledge any mistakes.
-2. [Kabul evacuation: No planes leaving empty says UK defence secretary](https://www.bbc.co.uk/news/uk-58266555) - Ben Wallace rejected reports that flights from Kabul were not busy, and said "every hour counts".
+1. [Kabul evacuation: No planes leaving empty says UK defence secretary](https://www.bbc.co.uk/news/uk-58266555) - Defence Secretary Ben Wallace says "every hour counts", with up to 10 flights leaving every day.
+2. [Afghanistan crisis: Biden says US troops may stay past withdrawal deadline](https://www.bbc.co.uk/news/world-asia-58264917) - The US president says the chaos in Afghanistan was unavoidable and refuses to acknowledge any mistakes.
 3. [Afghanistan crisis: 'Many here will be deeply fearful for their future'](https://www.bbc.co.uk/news/world-asia-58262874) - The BBC's Secunder Kermani reports from the heart of Kabul during the unfolding crisis in Afghanistan.
 4. [Afghanistan: Dominic Raab's failure to make urgent call shameful - Labour](https://www.bbc.co.uk/news/uk-58265160) - The foreign secretary is accused of not phoning his Afghan counterpart for help to evacuate interpreters.
 5. [Covid: Vaccines effective against Delta variant and PCR test 'rip-off' warning](https://www.bbc.co.uk/news/uk-58262555) - Five things you need to know about the coronavirus pandemic this Thursday morning.
