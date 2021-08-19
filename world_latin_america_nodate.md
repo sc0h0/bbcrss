@@ -1,5 +1,5 @@
 1. [Haiti earthquake: The forgotten villages cut off from help](https://www.bbc.co.uk/news/world-latin-america-58245047) - The tremor razed their homes, but these survivors could still die for a lack of basic supplies.
-2. [Haiti earthquake: Death toll now more than 2,000](https://www.bbc.co.uk/news/world-latin-america-58187979) - A few dozen survivors have been pulled alive from under the rubble but many are still feared trapped.
+2. [Haiti earthquake: Devastation and more than 2,000 dead](https://www.bbc.co.uk/news/world-latin-america-58187979) - A few dozen survivors have been pulled alive from under the rubble but hundreds are still feared trapped.
 3. [Haiti earthquake: Search for survivors amid devastation](https://www.bbc.co.uk/news/in-pictures-58258287) - Almost 2,000 people are known to have died in Saturday's powerful earthquake.
 4. [Cuba tightens control of internet after protests](https://www.bbc.co.uk/news/world-latin-america-58255554) - Critics say the new rules are aimed at stifling dissent following mass anti-government demonstrations.
 5. [Venezuela opposition politician Guevara freed after talks](https://www.bbc.co.uk/news/world-latin-america-58229925) - Freddy Guevara is freed after two days of talks between opposition and government representatives.
