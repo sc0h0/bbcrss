@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 19 Aug 2021 11:20:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Aug 2021 11:30:47 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -51,18 +51,18 @@
             <pubDate>Thu, 19 Aug 2021 07:33:54 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Boy, five, was hotel window fall victim]]></title>
+            <description><![CDATA[The boy's death at a hotel in the city centre is not being treated as suspicious, police say.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-south-yorkshire-58269533</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-south-yorkshire-58269533</guid>
+            <pubDate>Thu, 19 Aug 2021 11:14:58 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Queen Cynethryth's 'lost' monastery found next to Cookham church]]></title>
             <description><![CDATA[Archaeologists from the University of Reading solve a mystery that has long puzzled historians.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-berkshire-58258647</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-berkshire-58258647</guid>
             <pubDate>Thu, 19 Aug 2021 05:36:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Banksy: What do we know about the anonymous artist?]]></title>
-            <description><![CDATA[The graffiti artist Banksy is world famous, but his true identity remains unknown.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-bristol-50249349</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-bristol-50249349</guid>
-            <pubDate>Thu, 19 Aug 2021 05:22:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Who were the victims?]]></title>
@@ -163,11 +163,11 @@
             <pubDate>Thu, 19 Aug 2021 11:11:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Council hires security to guard Banksy-style Harwich mural]]></title>
-            <description><![CDATA[A council which was criticised for painting over a Banksy artwork has been quick to protect a new mural.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-essex-58260433</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-essex-58260433</guid>
-            <pubDate>Wed, 18 Aug 2021 15:19:59 GMT</pubDate>
+            <title><![CDATA[Banksy: What do we know about the anonymous artist?]]></title>
+            <description><![CDATA[The graffiti artist Banksy is world famous, but his true identity remains unknown.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-bristol-50249349</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-bristol-50249349</guid>
+            <pubDate>Thu, 19 Aug 2021 05:22:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Plasma donor meets children helped by donations]]></title>
@@ -224,13 +224,6 @@
             <link>https://www.bbc.co.uk/sport/football/58168106</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58168106</guid>
             <pubDate>Wed, 18 Aug 2021 21:45:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rugby league 'dead' without a new concept, says Hull FC owner Adam Pearson]]></title>
-            <description><![CDATA[Hull FC owner Adam Pearson says rugby league will be "dead" if the game does not relaunch with a new concept.]]></description>
-            <link>https://www.bbc.co.uk/sport/rugby-league/58264373</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-league/58264373</guid>
-            <pubDate>Wed, 18 Aug 2021 22:45:22 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -3,8 +3,8 @@
 3. [New investigation into rapist paramedic](https://www.bbc.co.uk/news/uk-england-cambridgeshire-58206031) - Andrew Wheeler, who raped a patient in her own home, is serving a 21-year jail term for sex attacks.
 4. [Esther Dingley: Hiker's ashes to be spread in places she loved](https://www.bbc.co.uk/news/uk-england-tyne-58269737) - Esther Dingley's remains were found by her boyfriend nine months after she vanished in the Pyrenees.
 5. [Afghanistan: Mum of killed soldier defends troops' legacy](https://www.bbc.co.uk/news/uk-england-oxfordshire-58261080) - Lee Mackie says her son, who died in 2009, helped give respite to Afghans from the Taliban regime.
-6. [Queen Cynethryth's 'lost' monastery found next to Cookham church](https://www.bbc.co.uk/news/uk-england-berkshire-58258647) - Archaeologists from the University of Reading solve a mystery that has long puzzled historians.
-7. [Banksy: What do we know about the anonymous artist?](https://www.bbc.co.uk/news/uk-england-bristol-50249349) - The graffiti artist Banksy is world famous, but his true identity remains unknown.
+6. [Boy, five, was hotel window fall victim](https://www.bbc.co.uk/news/uk-england-south-yorkshire-58269533) - The boy's death at a hotel in the city centre is not being treated as suspicious, police say.
+7. [Queen Cynethryth's 'lost' monastery found next to Cookham church](https://www.bbc.co.uk/news/uk-england-berkshire-58258647) - Archaeologists from the University of Reading solve a mystery that has long puzzled historians.
 8. [Who were the victims?](https://www.bbc.co.uk/news/uk-58202760) - The gunman's mother, Maxine Davison, and three-year-old Sophie Martyn have been named among the dead.
 9. [Plymouth shooting: Review of Devon and Cornwall Police firearms procedure](https://www.bbc.co.uk/news/uk-england-devon-58257497) - The inquiry into Devon and Cornwall Police follows a mass shooting in Plymouth.
 10. [Plymouth shooting: Church service for victims](https://www.bbc.co.uk/news/uk-england-devon-58254573) - The service remembers five people killed in a mass shooting in the Keyham area of the city.
@@ -19,7 +19,7 @@
 19. [Voters head to the polls in Wiltshire PCC election](https://www.bbc.co.uk/news/uk-england-wiltshire-58257599) - Polls open in the re-run election for Wiltshire's Police and Crime Commissioner.
 20. [Cannabis farm worth £1m found in Bury town centre](https://www.bbc.co.uk/news/uk-england-manchester-58267564) - About 1,000 plants were discovered at a flooded property on Silver Street in Bury, police say.
 21. [Cambridgeshire: Train driver injured in level crossing collision](https://www.bbc.co.uk/news/uk-england-cambridgeshire-58269427) - The freight train's driver suffered minor injuries as it collided with a tractor, Network Rail says.
-22. [Council hires security to guard Banksy-style Harwich mural](https://www.bbc.co.uk/news/uk-england-essex-58260433) - A council which was criticised for painting over a Banksy artwork has been quick to protect a new mural.
+22. [Banksy: What do we know about the anonymous artist?](https://www.bbc.co.uk/news/uk-england-bristol-50249349) - The graffiti artist Banksy is world famous, but his true identity remains unknown.
 23. [Plasma donor meets children helped by donations](https://www.bbc.co.uk/news/uk-england-coventry-warwickshire-58261942) - A donor from Coventry meets a family from Nottingham whose children who were saved by plasma.
 24. [Pub car park 'rifle' arrest caught on film](https://www.bbc.co.uk/news/uk-england-norfolk-58258077) - Bodycam footage shows the response of armed police to reports of a man making threats with a rifle.
 25. [Tokyo 2020: West Midlands boxers reflect on Olympic Games](https://www.bbc.co.uk/news/uk-england-birmingham-58259342) - The three boxers from the West Midlands have fond memories of their time in Tokyo and medal wins.
@@ -28,4 +28,3 @@
 28. [Azeem Rafiq: Yorkshire admit ex-player was 'victim of inappropriate behaviour'](https://www.bbc.co.uk/sport/cricket/58269449) - Yorkshire admit former player Azeem Rafiq was "the victim of inappropriate behaviour" and offer him their "profound apologies".
 29. [West Brom thump Blades to go top of Championship](https://www.bbc.co.uk/sport/football/58168104) - West Bromwich Albion hammer Sheffield United at The Hawthorns to go top of the Championship.
 30. [Hull City 0-1 Derby County: Sam Baldock scores winner on Rams debut](https://www.bbc.co.uk/sport/football/58168106) - A second-half goal from debutant Sam Baldock helps Derby County win their first Championship game of the season at Hull City.
-31. [Rugby league 'dead' without a new concept, says Hull FC owner Adam Pearson](https://www.bbc.co.uk/sport/rugby-league/58264373) - Hull FC owner Adam Pearson says rugby league will be "dead" if the game does not relaunch with a new concept.
