@@ -1,4 +1,4 @@
-1. [Bridgend mother in court charged with murder of her two-year-old son](https://www.bbc.co.uk/news/uk-wales-58260646) - Thu, 19 Aug 2021 10:06:18 GMT - Natalie Steele has been charged with the murder of two-year-old Reid Steele.
+1. [Bridgend mother in court charged with murder of her two-year-old son](https://www.bbc.co.uk/news/uk-wales-58260646) - Thu, 19 Aug 2021 11:07:00 GMT - Natalie Steele has been charged with the murder of two-year-old Reid Steele.
 2. [Green Man: Tears and joy as festival returns against Covid odds](https://www.bbc.co.uk/news/uk-wales-58267969) - Thu, 19 Aug 2021 10:42:10 GMT - Tickets for the festival sold out in minutes back in May, despite Covid uncertainty.
 3. [NHS Wales: Waiting times hit record levels](https://www.bbc.co.uk/news/uk-wales-58267774) - Thu, 19 Aug 2021 09:47:36 GMT - Waiting lists have grown again to hit record levels while A&E units report their worst waiting times.
 4. [Covid: £551m extra funding for NHS and social care](https://www.bbc.co.uk/news/uk-wales-58259638) - Thu, 19 Aug 2021 10:20:17 GMT - The money is being allocated for ongoing costs and tackling waiting times.

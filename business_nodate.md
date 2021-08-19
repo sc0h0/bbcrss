@@ -1,4 +1,4 @@
-1. [Chip shortage: Toyota to cut global production by 40%](https://www.bbc.co.uk/news/business-58266794) - The world's biggest carmaker will cut output in September and VW warns it may have to make further cuts.
+1. [Chip shortage: Toyota to cut global production by 40%](https://www.bbc.co.uk/news/business-58266794) - The world's biggest carmaker will cut output in September, while VW warns it may have to make further cuts.
 2. [FTSE bosses earn 86 times more than average worker in 2020](https://www.bbc.co.uk/news/business-58262202) - The bosses of Britain's biggest public companies earned 86 times the average full-time wage last year.
 3. [Ultra Electronics deal unlikely to be rejected](https://www.bbc.co.uk/news/business-58266643) - The government is to investigate the takeover of Ultra Electronics, but its sale is unlikely to be stopped.
 4. [Rank Group racks up big losses after venues shut during lockdown](https://www.bbc.co.uk/news/business-58266244) - But Rank Group, which also owns casinos, says trading since reopening has exceeded expectations.
