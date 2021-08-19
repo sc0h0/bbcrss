@@ -11,44 +11,16 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 19 Aug 2021 20:16:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Aug 2021 20:27:43 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
-        <item>
-            <title><![CDATA[Plymouth shooting: Gunman argued with mum before attack]]></title>
-            <description><![CDATA[The five victims, including a father and daughter out walking their dog, were killed in Plymouth.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-devon-58260590</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-devon-58260590</guid>
-            <pubDate>Thu, 19 Aug 2021 13:00:44 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Sheffield hotel fall: Boy who died was Afghan refugee]]></title>
             <description><![CDATA[Five-year-old Mohammed Munib Majeedi and his family arrived in the UK two weeks ago.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-south-yorkshire-58269533</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-south-yorkshire-58269533</guid>
             <pubDate>Thu, 19 Aug 2021 19:27:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Prison guard demanded sexual favours from inmates]]></title>
-            <description><![CDATA[David Whitfield is jailed over the illicit activity with 12 women over five years.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-tyne-58268531</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-tyne-58268531</guid>
-            <pubDate>Thu, 19 Aug 2021 14:09:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Blue singer Lee Ryan tells court he cannot afford £1,500 fine]]></title>
-            <description><![CDATA[The 37-year-old singer was banned from driving for 12 months and given a fine.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-cambridgeshire-58274941</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-cambridgeshire-58274941</guid>
-            <pubDate>Thu, 19 Aug 2021 20:08:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ex-MP Jared O'Mara charged with seven counts of fraud]]></title>
-            <description><![CDATA[Jared O'Mara is charged in relation to alleged fraudulent expenses claims, the CPS say.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-south-yorkshire-58272878</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-south-yorkshire-58272878</guid>
-            <pubDate>Thu, 19 Aug 2021 16:33:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Stuart Lubbock: Suspect in murder case released without charge]]></title>
@@ -63,6 +35,34 @@
             <link>https://www.bbc.co.uk/news/uk-england-hampshire-58274264</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-hampshire-58274264</guid>
             <pubDate>Thu, 19 Aug 2021 17:08:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Blue singer Lee Ryan tells court he cannot afford £1,500 fine]]></title>
+            <description><![CDATA[The 37-year-old singer was banned from driving for 12 months and given a fine.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-cambridgeshire-58274941</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-cambridgeshire-58274941</guid>
+            <pubDate>Thu, 19 Aug 2021 20:08:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Plymouth shooting: Gunman argued with mum before attack]]></title>
+            <description><![CDATA[The five victims, including a father and daughter out walking their dog, were killed in Plymouth.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-devon-58260590</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-devon-58260590</guid>
+            <pubDate>Thu, 19 Aug 2021 13:00:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Prison guard demanded sexual favours from inmates]]></title>
+            <description><![CDATA[David Whitfield is jailed over the illicit activity with 12 women over five years.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-tyne-58268531</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-tyne-58268531</guid>
+            <pubDate>Thu, 19 Aug 2021 14:09:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ex-MP Jared O'Mara charged with seven counts of fraud]]></title>
+            <description><![CDATA[Jared O'Mara is charged in relation to alleged fraudulent expenses claims, the CPS say.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-south-yorkshire-58272878</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-south-yorkshire-58272878</guid>
+            <pubDate>Thu, 19 Aug 2021 16:33:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Two men charged over £1m Viking coins hoard]]></title>
@@ -184,6 +184,13 @@
             <pubDate>Thu, 19 Aug 2021 20:15:32 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Pacos de Ferreira 1-0 Tottenham Hotspur: Spurs lose Europa Conference League play-off first leg]]></title>
+            <description><![CDATA[A much-changed Tottenham Hotspur lose to Pacos de Ferreira in the Europa Conference League play-off first leg.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58257076</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58257076</guid>
+            <pubDate>Thu, 19 Aug 2021 20:23:01 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Azeem Rafiq accuses Yorkshire of downplaying racism by calling him the victim of 'inappropriate behaviour']]></title>
             <description><![CDATA[Former player Azeem Rafiq accuses Yorkshire of downplaying racism by calling him the victim of "inappropriate behaviour".]]></description>
             <link>https://www.bbc.co.uk/sport/cricket/58272607</link>
@@ -196,13 +203,6 @@
             <link>https://www.bbc.co.uk/sport/football/58250277</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58250277</guid>
             <pubDate>Thu, 19 Aug 2021 15:33:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[James Ward-Prowse: Southampton captain signs new five-year deal]]></title>
-            <description><![CDATA[Southampton captain James Ward-Prowse commits his long-term future to the club by signing a new five-year deal.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58274792</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58274792</guid>
-            <pubDate>Thu, 19 Aug 2021 18:10:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
