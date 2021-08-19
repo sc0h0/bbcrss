@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 19 Aug 2021 20:32:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Aug 2021 20:42:02 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -41,7 +41,7 @@
             <description><![CDATA[Five-year-old Mohammed Munib Majeedi and his family arrived in the UK two weeks ago.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-south-yorkshire-58269533</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-south-yorkshire-58269533</guid>
-            <pubDate>Thu, 19 Aug 2021 19:27:19 GMT</pubDate>
+            <pubDate>Thu, 19 Aug 2021 20:32:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: UK vaccine booster scheme likely to start in September - Sajid Javid]]></title>
@@ -49,6 +49,13 @@
             <link>https://www.bbc.co.uk/news/uk-58271911</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58271911</guid>
             <pubDate>Thu, 19 Aug 2021 17:15:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Morrisons backs US firm's improved takeover offer]]></title>
+            <description><![CDATA[The supermarket has agreed to a bid worth £7bn from a US private equity group, ditching a lower offer from another firm.]]></description>
+            <link>https://www.bbc.co.uk/news/business-58273916</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58273916</guid>
+            <pubDate>Thu, 19 Aug 2021 20:36:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Kabul evacuation: No planes leaving empty says UK defence secretary]]></title>
@@ -72,6 +79,13 @@
             <pubDate>Thu, 19 Aug 2021 12:54:06 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Blue singer Lee Ryan tells court he cannot afford £1,500 fine]]></title>
+            <description><![CDATA[The 37-year-old singer was banned from driving for 12 months and given a fine.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-cambridgeshire-58274941</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-cambridgeshire-58274941</guid>
+            <pubDate>Thu, 19 Aug 2021 20:08:57 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Stuart Lubbock: Suspect in murder case released without charge]]></title>
             <description><![CDATA[Stuart Lubbock was found unconscious at Michael Barrymore's house in 2001 and later died.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-essex-58273900</link>
@@ -79,25 +93,11 @@
             <pubDate>Thu, 19 Aug 2021 17:18:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Gurkha group ends Downing Street hunger strike after talks agreed]]></title>
-            <description><![CDATA[The group had refused food for 13 days to call for parity with other British Army veterans.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-hampshire-58274264</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-hampshire-58274264</guid>
-            <pubDate>Thu, 19 Aug 2021 17:08:45 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Ex-MP Jared O'Mara charged with seven counts of fraud]]></title>
             <description><![CDATA[Jared O'Mara is charged in relation to alleged fraudulent expenses claims, the CPS say.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-south-yorkshire-58272878</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-south-yorkshire-58272878</guid>
             <pubDate>Thu, 19 Aug 2021 16:33:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nature: Rattlesnakes' sound 'trick' fools human ears]]></title>
-            <description><![CDATA[Rattlesnakes have evolved a clever method of convincing humans that danger is closer than you think.]]></description>
-            <link>https://www.bbc.co.uk/news/science-environment-58270599</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-58270599</guid>
-            <pubDate>Thu, 19 Aug 2021 15:04:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Haiti earthquake: Rescue efforts continue in Les Cayes]]></title>
@@ -114,18 +114,18 @@
             <pubDate>Wed, 18 Aug 2021 23:06:33 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Nature: Rattlesnakes' sound 'trick' fools human ears]]></title>
+            <description><![CDATA[Rattlesnakes have evolved a clever method of convincing humans that danger is closer than you think.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-58270599</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-58270599</guid>
+            <pubDate>Thu, 19 Aug 2021 15:04:34 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Visa delays hit UK students heading to Spain to study]]></title>
             <description><![CDATA[Students due to spend a year in Spain as part of their degree are hit with post-Brexit visa delays.]]></description>
             <link>https://www.bbc.co.uk/news/education-58247963</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/education-58247963</guid>
             <pubDate>Thu, 19 Aug 2021 07:24:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Film buff rescues more than 20,000 VHS tapes set for dump]]></title>
-            <description><![CDATA[A video shop owner travelled from Liverpool to Dundee to pick up the massive haul from a collector.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-tayside-central-58261702</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-tayside-central-58261702</guid>
-            <pubDate>Wed, 18 Aug 2021 18:23:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Can the Paralympics bring lasting change?]]></title>
@@ -261,6 +261,20 @@
             <pubDate>Tue, 17 Aug 2021 23:07:47 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Much-changed Tottenham lose play-off first leg in Portugal]]></title>
+            <description><![CDATA[A much-changed Tottenham Hotspur lose to Pacos de Ferreira in the Europa Conference League play-off first leg.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58257076</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58257076</guid>
+            <pubDate>Thu, 19 Aug 2021 20:23:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Women's Open 2021: Louise Duncan & Georgia Hall impress as Nelly Korda shares lead at Carnoustie]]></title>
+            <description><![CDATA[Scottish amateur Louise Duncan and England's Georgia Hall are one shot off the lead after splendid opening rounds in scoreable conditions at Carnoustie.]]></description>
+            <link>https://www.bbc.co.uk/sport/golf/58274174</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/golf/58274174</guid>
+            <pubDate>Thu, 19 Aug 2021 17:08:19 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Rafiq accuses Yorkshire of downplaying racism ]]></title>
             <description><![CDATA[Former player Azeem Rafiq accuses Yorkshire of downplaying racism by calling him the victim of "inappropriate behaviour".]]></description>
             <link>https://www.bbc.co.uk/sport/cricket/58272607</link>
@@ -282,18 +296,11 @@
             <pubDate>Thu, 19 Aug 2021 20:15:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Women's Open 2021: Louise Duncan & Georgia Hall impress as Nelly Korda shares lead at Carnoustie]]></title>
-            <description><![CDATA[Scottish amateur Louise Duncan and England's Georgia Hall are one shot off the lead after splendid opening rounds in scoreable conditions at Carnoustie.]]></description>
-            <link>https://www.bbc.co.uk/sport/golf/58274174</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/golf/58274174</guid>
-            <pubDate>Thu, 19 Aug 2021 17:08:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Man Utd and Scotland great Law diagnosed with dementia]]></title>
-            <description><![CDATA[Scotland legend and former Manchester United forward Denis Law is diagnosed with dementia.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58268041</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58268041</guid>
-            <pubDate>Thu, 19 Aug 2021 11:16:17 GMT</pubDate>
+            <title><![CDATA[One-Day Cup: A member of the crowd stumbles over attempting a catch]]></title>
+            <description><![CDATA[A fan attempts to catch a shot hit by Kiran Carlson for six, but fails to do so stumbling over a row of chairs in the process, much to the humour of the Trent Bridge crowd.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/cricket/58272079</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/cricket/58272079</guid>
+            <pubDate>Thu, 19 Aug 2021 14:45:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Afghanistan: Danger lies on Kabul's airport road to freedom]]></title>
