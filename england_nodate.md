@@ -3,7 +3,7 @@
 3. [Boy dies falling from Sheffield hotel window](https://www.bbc.co.uk/news/uk-england-south-yorkshire-58262259) - The boy, aged under 10, fell from the OYO Sheffield Metropolitan Hotel, police say.
 4. [Banksy: What do we know about the anonymous artist?](https://www.bbc.co.uk/news/uk-england-bristol-50249349) - The graffiti artist Banksy is world famous, but his true identity remains unknown.
 5. [Geronimo the alpaca: High Court bid to save animal refused](https://www.bbc.co.uk/news/uk-england-bristol-58187004) - A last-ditch attempt to halt the animal's destruction is refused at the High Court in London.
-6. [West Mercia Police officer guilty of Worcestershire crash death](https://www.bbc.co.uk/news/uk-england-hereford-worcester-58259930) - Jamie Holloway was driving at speeds of up to 110mph before he hit David Shaw's car, the trial heard.
+6. [Harry Dunn: Family set to hear evidence from Anne Sacoolas](https://www.bbc.co.uk/news/uk-england-northamptonshire-58261573) - Charlotte Charles and Tim Dunn are due to hear evidence from the woman accused of killing their son.
 7. [Man, 80, walks on wings in memory of late wife in Barnstaple, Devon](https://www.bbc.co.uk/news/uk-england-devon-58235991) - John Stanley said it was the perfect way to celebrate his 80th birthday, raising money for charity.
 8. [Who were the victims?](https://www.bbc.co.uk/news/uk-58202760) - The gunman's mother, Maxine Davison, and three-year-old Sophie Martyn have been named among the dead.
 9. [Plymouth shooting: Review of Devon and Cornwall Police firearms procedure](https://www.bbc.co.uk/news/uk-england-devon-58257497) - The inquiry into Devon and Cornwall Police follows a mass shooting in Plymouth.
@@ -20,7 +20,7 @@
 20. [Plymouth MP: Community 'trying to make sense' of shooting](https://www.bbc.co.uk/news/uk-58198078) - MP Luke Pollard says the community is pulling together in the face of the "deeply grim" news.
 21. [Woodmancote shootings: Twin's gun law anger after family deaths](https://www.bbc.co.uk/news/uk-england-birmingham-58245137) - Rob Needham is thought to have killed partner Kelly Fitzgibbons and their daughters, then himself.
 22. [Council hires security to guard Banksy-style Harwich mural](https://www.bbc.co.uk/news/uk-england-essex-58260433) - A council which was criticised for painting over a Banksy artwork has been quick to protect a new mural.
-23. [Harry Dunn: Family set to hear evidence from Anne Sacoolas](https://www.bbc.co.uk/news/uk-england-northamptonshire-58261573) - Charlotte Charles and Tim Dunn are due to hear evidence from the woman accused of killing their son.
+23. [West Mercia Police officer guilty of Worcestershire crash death](https://www.bbc.co.uk/news/uk-england-hereford-worcester-58259930) - Jamie Holloway was driving at speeds of up to 110mph before he hit David Shaw's car, the trial heard.
 24. [Bradford mother jailed after 'home alone' son killed by car](https://www.bbc.co.uk/news/uk-england-leeds-58257183) - Wendy Hall left her seven-year-old son at their home in Bradford while she visited her partner.
 25. [Dog stolen from kennels six months ago found during police raid](https://www.bbc.co.uk/news/uk-england-derbyshire-58257485) - Rummy, one of eight dogs stolen from a kennels in Derbyshire, is found in Leicestershire.
 26. [Eileen Barrott murder: Husband traced to Elgin](https://www.bbc.co.uk/news/uk-england-leeds-58254147) - Mark Barrott is wanted by police in connection with his wife's death in Leeds at the weekend.
