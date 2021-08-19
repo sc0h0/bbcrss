@@ -22,6 +22,6 @@
 22. [Peterborough United and Cardiff City charged by FA after melee](https://www.bbc.co.uk/sport/football/58271009) - Peterborough United and Cardiff City are charged by the FA for a melee during their 2-2 Championship draw on Tuesday.
 23. [Nifer y bobl ar restrau aros ysbytai Cymru ar ei lefel uchaf](https://www.bbc.co.uk/newyddion/58268281) - Mwy o bobl yn aros am driniaeth ysbyty sydd ddim yn frys yng Nghymru nag erioed o'r blaen.
 24. [Mam o flaen Llys y Goron ar gyhuddiad o ladd ei mab](https://www.bbc.co.uk/newyddion/58269407) - Bu farw Reid Steele, 2, yn yr ysbyty yn dilyn digwyddiad mewn tŷ ym Mhen-y-bont ar Ogwr.
-25. ['Colli swyddi Fali am arwain at fwy o bobl i adael Môn'](https://www.bbc.co.uk/newyddion/58262456) - Pryder y bydd colli swyddi ar safle'r Awyrlu yn gorfodi mwy o bobl ifanc i adael Ynys Môn am waith.
+25. [Gwefan Comisiynydd 'nôl yn fyw wyth mis ar ôl hacio](https://www.bbc.co.uk/newyddion/58186504) - Cafodd staff eu cloi o'u systemau fis Rhagfyr wedi i hacwyr gymryd rheolaeth o'r wefan ac amgryptio data.
 26. [Oriel: Bywyd gwyllt ar stepen y drws](https://www.bbc.co.uk/newyddion/58264137) - Y ffotograffydd Bethan Vaughan Davies sy'n rhannu lluniau o fywyd gwyllt ei bro
 27. [Sut y daeth sêr Hollywood yn berchnogion Wrecsam](https://www.bbc.co.uk/newyddion/58186778) - Yr hanes y tu ôl i Ryan Reynolds a Rob McElhenney yn prynu clwb pêl-droed hynaf Cymru.

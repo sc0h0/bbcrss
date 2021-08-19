@@ -8,7 +8,7 @@
 8. [Colorado River: First-ever shortage declared amid record US drought](https://www.bbc.co.uk/news/world-us-canada-58248634) - Historic droughts have led to water supply cuts on a river millions in the US and Mexico rely on.
 9. [California man sues after being startled by dumpster-diving bear](https://www.bbc.co.uk/news/world-us-canada-58250366) - A dumpster-diving bear allegedly "startled" the man and caused him to fall and hurt himself.
 10. [US lab stands on threshold of key nuclear fusion goal](https://www.bbc.co.uk/news/science-environment-58252784) - A US science institute is on the verge of achieving a longstanding goal in nuclear fusion research.
-11. [Biden on Afghanistan fact-checked](https://www.bbc.co.uk/news/58243158) - How consistent is President Biden in his comments on Afghanistan?
+11. [Biden interview with ABC fact-checked](https://www.bbc.co.uk/news/58243158) - How consistent is President Biden in his comments on Afghanistan?
 12. [Afghanistan: 'Was my role in Afghan War worth it?'](https://www.bbc.co.uk/news/world-us-canada-58247092) - US military veterans say the Taliban takeover of Afghanistan was "tragic" but "inevitable".
 13. [Afghanistan crisis: How America watched as Taliban won the war](https://www.bbc.co.uk/news/world-us-canada-58245056) - US military veterans and Afghan Americans reflect on a dramatic day - and the two-decade conflict.
 14. [Why is the Taliban's Kabul victory being compared to the fall of Saigon?](https://www.bbc.co.uk/news/world-asia-58234884) - Many have drawn parallels with America's withdrawal from Vietnam in 1975 - but is this fair?
