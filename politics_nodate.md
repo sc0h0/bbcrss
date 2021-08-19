@@ -44,7 +44,7 @@
 44. [Climate: WWF warns UK spending is lagging behind targets](https://www.bbc.co.uk/news/uk-politics-58170865) - The conservation group WWF says the UK government must keep its promises on climate change.
 45. [UK deportation flight to Jamaica leaves with dozens reprieved](https://www.bbc.co.uk/news/uk-58177487) - A plane to Jamaica chartered by the Home Office was carrying just seven passengers, lawyers say.
 46. [David Cameron in row over promoting genetics firm Illumina](https://www.bbc.co.uk/news/business-58146567) - Mr Cameron encouraged Matt Hancock to speak at a conference co-hosted by Illumina before it won a government contract.
-47. [Harman: Women must be involved in Afghan discussions](https://www.bbc.co.uk/news/uk-politics-58272971) - A former Labour leader calls for women to be heard, rather than Foreign Secretary Dominic Raab.
+47. [Harman: Women must be involved in Afghan discussions](https://www.bbc.co.uk/news/uk-politics-58272971) - A former acting Labour leader calls for women to be heard, rather than Foreign Secretary Dominic Raab.
 48. [Are you going to resign, Mr Raab?](https://www.bbc.co.uk/news/uk-politics-58270377) - The foreign secretary gives a one-word answer when asked about his future.
 49. [Ben Wallace: 'Every hour counts' of Kabul evacuation](https://www.bbc.co.uk/news/uk-politics-58267754) - The UK defence secretary spoke to BBC Breakfast about the evacuation of people from Kabul airport.
 50. ['Where were we in their hour of need?': MPs debate the Afghanistan crisis](https://www.bbc.co.uk/news/uk-politics-58257781) - MPs, including Afghanistan veterans, were discussing the unfolding crisis in an emergency debate.
