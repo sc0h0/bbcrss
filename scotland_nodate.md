@@ -43,4 +43,3 @@
 43. [Celtic: Tom Rogic & Anthony Ralston have revived careers under Ange Postecoglou](https://www.bbc.co.uk/sport/football/58261406) - Anthony Ralston was "enormous" as Celtic beat AZ Alkmaar. And could Tom Rogic be "the highlight of the season"?
 44. [2020 Paralympics: Gordon Reid on emulating Rangers & the weight of expectation](https://www.bbc.co.uk/sport/disability-sport/58244959) - Paralympian Gordon Reid on emulating Rangers, the weight of expectation and the drive to better second place.
 45. [Pedro Martinez Losa hopes 'passion' inspires Scotland women](https://www.bbc.co.uk/sport/football/58271883) - Pedro Martinez Losa hopes his "passion" can inspire current and future generations of Scottish female footballers.
-46. [Scottish Gossip: Celtic, Giakoumakis, Rangers, Bacuna, Aberdeen, St Johnstone](https://www.bbc.co.uk/sport/football/58232814) - Celtic remain in for striker as Rangers seek to complete deal for midfielder.

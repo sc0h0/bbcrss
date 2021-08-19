@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 19 Aug 2021 16:42:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Aug 2021 17:07:42 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -27,14 +27,21 @@
             <description><![CDATA[The five-year-old boy and his family arrived in the UK just two weeks ago.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-south-yorkshire-58269533</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-south-yorkshire-58269533</guid>
-            <pubDate>Thu, 19 Aug 2021 15:25:28 GMT</pubDate>
+            <pubDate>Thu, 19 Aug 2021 16:49:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Gurkha group ends Downing Street hunger strike after talks agreed]]></title>
-            <description><![CDATA[The group had refused food for 13 days to call for parity with other British Army veterans.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-hampshire-58274264</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-hampshire-58274264</guid>
-            <pubDate>Thu, 19 Aug 2021 16:37:01 GMT</pubDate>
+            <title><![CDATA[Covid: UK vaccine booster scheme likely to start in September - Sajid Javid]]></title>
+            <description><![CDATA[The proposed rollout of third doses is likely to start in September, the health secretary says.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-58271911</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58271911</guid>
+            <pubDate>Thu, 19 Aug 2021 16:44:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Stuart Lubbock: Suspect in murder case released without charge]]></title>
+            <description><![CDATA[Stuart Lubbock was found unconscious at Michael Barrymore's house in 2001 and later died.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-essex-58273900</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-essex-58273900</guid>
+            <pubDate>Thu, 19 Aug 2021 16:51:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Nicole Kidman reportedly enters Hong Kong quarantine-free]]></title>
@@ -44,11 +51,18 @@
             <pubDate>Thu, 19 Aug 2021 12:54:06 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Gurkha group ends Downing Street hunger strike after talks agreed]]></title>
+            <description><![CDATA[The group had refused food for 13 days to call for parity with other British Army veterans.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-hampshire-58274264</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-hampshire-58274264</guid>
+            <pubDate>Thu, 19 Aug 2021 16:57:04 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Washington DC: Active bomb threat near US Capitol]]></title>
             <description><![CDATA[US Capitol Police are negotiating with the driver of a suspicious vehicle on Capitol Hill.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-58273778</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-58273778</guid>
-            <pubDate>Thu, 19 Aug 2021 16:14:37 GMT</pubDate>
+            <pubDate>Thu, 19 Aug 2021 16:57:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Plymouth shooting: Gunman argued with mum before attack]]></title>
@@ -56,20 +70,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-devon-58260590</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-devon-58260590</guid>
             <pubDate>Thu, 19 Aug 2021 13:00:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: UK vaccine booster scheme likely to start in September - Sajid Javid]]></title>
-            <description><![CDATA[The proposed rollout of third doses is likely to start in September, the health secretary says.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58271911</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58271911</guid>
-            <pubDate>Thu, 19 Aug 2021 16:33:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Stuart Lubbock: Suspect in murder case released without charge]]></title>
-            <description><![CDATA[Stuart Lubbock was found unconscious at Michael Barrymore's house in 2001 and later died.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-essex-58273900</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-essex-58273900</guid>
-            <pubDate>Thu, 19 Aug 2021 16:36:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ex-MP Jared O'Mara charged with seven counts of fraud]]></title>
@@ -91,6 +91,13 @@
             <link>https://www.bbc.co.uk/news/science-environment-58270599</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-58270599</guid>
             <pubDate>Thu, 19 Aug 2021 15:04:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Facebook reveals most-seen posts are inane questions, not politics]]></title>
+            <description><![CDATA["Does sugar go in spaghetti?" is among the US's top posts, as Facebook battles right-wing content claims.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-58270497</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-58270497</guid>
+            <pubDate>Thu, 19 Aug 2021 13:15:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No help for these Haiti residents five days after earthquake]]></title>
@@ -168,6 +175,13 @@
             <link>https://www.bbc.co.uk/news/58271943</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/58271943</guid>
             <pubDate>Thu, 19 Aug 2021 14:58:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Afghanistan: Calls to UK veterans mental health helpline double]]></title>
+            <description><![CDATA[Charity Combat Stress says calls to its helpline have doubled since the Taliban took control of Kabul.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-58271247</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-58271247</guid>
+            <pubDate>Thu, 19 Aug 2021 15:28:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[India's living dead: 'They stared at me like I was a ghost']]></title>
@@ -377,7 +391,7 @@
             <description><![CDATA[The progress made in vaccinating the country's adult population, as more than 47 million people have received at least one dose.]]></description>
             <link>https://www.bbc.co.uk/news/health-55274833</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/health-55274833</guid>
-            <pubDate>Mon, 16 Aug 2021 16:30:21 GMT</pubDate>
+            <pubDate>Thu, 19 Aug 2021 16:47:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid rules: What are the restrictions in your area?]]></title>
