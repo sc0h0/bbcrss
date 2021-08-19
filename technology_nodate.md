@@ -1,5 +1,5 @@
-1. [NHS Covid app 'pings' fall after changes](https://www.bbc.co.uk/news/technology-58165482) - The data covers the first full week since changes to the app were made to mean it notifies fewer contacts.
-2. [Facebook reveals most-seen posts are inane questions, not politics](https://www.bbc.co.uk/news/technology-58270497) - "Does sugar go in spaghetti?" is among the US's top posts, as Facebook battles right-wing content claims.
+1. [Facebook reveals most-seen posts are inane questions, not politics](https://www.bbc.co.uk/news/technology-58270497) - "Does sugar go in spaghetti?" is among the US's top posts, as Facebook battles right-wing content claims.
+2. [NHS Covid app 'pings' fall after changes](https://www.bbc.co.uk/news/technology-58165482) - The data covers the first full week since changes to the app were made to mean it notifies fewer contacts.
 3. [Chip shortage: Toyota to cut global production by 40%](https://www.bbc.co.uk/news/business-58266794) - The world's biggest carmaker will cut output in September, while VW warns it may have to make further cuts.
 4. [Lizzo: Facebook and Instagram remove abusive comments from singer's accounts](https://www.bbc.co.uk/news/entertainment-arts-58267704) - The US singer spoke earlier this week about receiving "hurtful" attacks on social media.
 5. [Former Netflix staffers charged for making $3m from insider trading](https://www.bbc.co.uk/news/business-58264767) - The Wall Street regulator says confidential subscriber growth data was used in the alleged scheme.
