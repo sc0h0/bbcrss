@@ -2,7 +2,7 @@
 2. [Eileen Barrott murder: Husband detained in Scotland](https://www.bbc.co.uk/news/uk-england-leeds-58266900) - Police have been searching for 54-year-old Mark Barrott since Mrs Barrott's death on Sunday.
 3. [New investigation into rapist paramedic](https://www.bbc.co.uk/news/uk-england-cambridgeshire-58206031) - Andrew Wheeler, who raped a patient in her own home, is serving a 21-year jail term for sex attacks.
 4. [Esther Dingley: Hiker's ashes to be spread in places she loved](https://www.bbc.co.uk/news/uk-england-tyne-58269737) - Esther Dingley's remains were found by her boyfriend nine months after she vanished in the Pyrenees.
-5. [Afghanistan: Mum of killed soldier defends troops' legacy](https://www.bbc.co.uk/news/uk-england-oxfordshire-58261080) - Lee Mackie says her son, who died in 2009, helped give respite to Afghans from the Taliban regime.
+5. [Prison guard demanded sexual favours from inmates](https://www.bbc.co.uk/news/uk-england-tyne-58268531) - David Whitfield is convicted of misconduct over the activity, which lasted five years.
 6. [Boy, five, was hotel window fall victim](https://www.bbc.co.uk/news/uk-england-south-yorkshire-58269533) - The boy's death at a hotel in the city centre is not being treated as suspicious, police say.
 7. [Queen Cynethryth's 'lost' monastery found next to Cookham church](https://www.bbc.co.uk/news/uk-england-berkshire-58258647) - Archaeologists from the University of Reading solve a mystery that has long puzzled historians.
 8. [Who were the victims?](https://www.bbc.co.uk/news/uk-58202760) - The gunman's mother, Maxine Davison, and three-year-old Sophie Martyn have been named among the dead.
@@ -16,7 +16,7 @@
 16. [Incels: A new terror threat to the UK?](https://www.bbc.co.uk/news/uk-58207064) - Is the incel belief system followed by Jake Davison, the Plymouth gunman, a terror threat to the UK?
 17. [A visual guide to what happened](https://www.bbc.co.uk/news/uk-england-devon-58200336) - A gunman shot and killed five people in Plymouth before turning the gun on himself. Here's what we know about how events unfolded.
 18. [Camden barbecue shooting: Three arrests made](https://www.bbc.co.uk/news/uk-england-london-58269628) - Two teenage boys and a 22-year-old man are arrested after a shooting at a crowded communal barbecue.
-19. [Farnworth death: Man charged with murdering baby girl in 2019](https://www.bbc.co.uk/news/uk-england-manchester-58270034) - Aiman Abbas Toor, who was 10 months old, was found "unresponsive" at a house by emergency crews.
+19. [Afghanistan: Mum of killed soldier defends troops' legacy](https://www.bbc.co.uk/news/uk-england-oxfordshire-58261080) - Lee Mackie says her son, who died in 2009, helped give respite to Afghans from the Taliban regime.
 20. [Cannabis farm worth £1m found in Bury town centre](https://www.bbc.co.uk/news/uk-england-manchester-58267564) - About 1,000 plants were discovered at a flooded property on Silver Street in Bury, police say.
 21. [Cambridgeshire: Train driver injured in level crossing collision](https://www.bbc.co.uk/news/uk-england-cambridgeshire-58269427) - The freight train's driver suffered minor injuries as it collided with a tractor, Network Rail says.
 22. [Banksy: What do we know about the anonymous artist?](https://www.bbc.co.uk/news/uk-england-bristol-50249349) - The graffiti artist Banksy is world famous, but his true identity remains unknown.
