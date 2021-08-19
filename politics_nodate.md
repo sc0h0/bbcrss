@@ -1,4 +1,4 @@
-1. [Boris Johnson urged to sack foreign secretary over Afghan interpreters](https://www.bbc.co.uk/news/uk-58265160) - The foreign secretary is under fire for not personally asking for help to evacuate interpreters.
+1. [Foreign secretary Dominic Raab rejects calls to quit over Afghan interpreters](https://www.bbc.co.uk/news/uk-58265160) - The foreign secretary is under fire for not personally asking for help to evacuate interpreters.
 2. [Kabul evacuation: No planes leaving empty says UK defence secretary](https://www.bbc.co.uk/news/uk-58266555) - Defence Secretary Ben Wallace says "every hour counts", with up to 10 flights leaving every day.
 3. [Afghan interpreter who worked for UK begs PM for help](https://www.bbc.co.uk/news/uk-58264397) - Ahmed, who fears Taliban reprisals, is desperate for him and his family to be evacuated from Kabul.
 4. [MPs on all sides accuse Boris Johnson of Afghanistan failures](https://www.bbc.co.uk/news/uk-politics-58254794) - The PM says the UK achieved its goals - but MPs accuse him of failing Afghans and British veterans.
