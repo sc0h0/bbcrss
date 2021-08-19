@@ -21,8 +21,8 @@
 21. [Afghanistan: Fatalities as shots fired at flag protest in Jalalabad](https://www.bbc.co.uk/news/world-asia-58255118) - Protesters took to the streets of Jalalabad holding aloft the country's national flag.
 22. [Taliban have been looking for me, says ex-Afghanistan bank governor](https://www.bbc.co.uk/news/world-asia-58255402) - Militants have been knocking on the doors of places he used to live, Ajmal Ahmady says.
 23. [Afghanistan: A woman's story of life under the Taliban in 1999](https://www.bbc.co.uk/news/world-asia-58250780) - Taliban rule in 1999 - an Afghan woman recalls the day her father disappeared.
-24. [Afghanistan evacuations: Woman on trip back to Kabul describes fleeing city](https://www.bbc.co.uk/news/uk-58266554) - A councillor who was visiting family in the country she had left aged three tells of her evacuation.
-25. [IMF suspends Afghanistan's access to funds](https://www.bbc.co.uk/news/business-58263525) - The move follows the Taliban's takeover, and lack of global agreement over who now governs Afghanistan.
-26. ['It was very emotional on the plane out of Afghanistan'](https://www.bbc.co.uk/news/uk-58256816) - Afghan businesswoman Hassina Syed speaks of her relief at getting out on a British military plane.
-27. [Veteran silences MPs with powerful Afghan speech](https://www.bbc.co.uk/news/uk-politics-58259509) - Tory MP Tom Tugendhat speaks of the anger, grief and rage of veterans at the "abandonment" of Afghanistan.
-28. [Ashraf Ghani: Afghanistan's exiled president lands in UAE](https://www.bbc.co.uk/news/world-asia-58260902) - The UAE says it has welcomed the president and his family on humanitarian grounds.
+24. [‘Don’t forget the 500,000 internally displaced Afghans’ - UNCHR](https://www.bbc.co.uk/news/world-asia-58268066) - Do not forget the 500,000 internally displaced people, the UNHCR representative to Afghanistan says.
+25. [Afghanistan evacuations: Woman on trip back to Kabul describes fleeing city](https://www.bbc.co.uk/news/uk-58266554) - A councillor who was visiting family in the country she had left aged three tells of her evacuation.
+26. [IMF suspends Afghanistan's access to funds](https://www.bbc.co.uk/news/business-58263525) - The move follows the Taliban's takeover, and lack of global agreement over who now governs Afghanistan.
+27. ['It was very emotional on the plane out of Afghanistan'](https://www.bbc.co.uk/news/uk-58256816) - Afghan businesswoman Hassina Syed speaks of her relief at getting out on a British military plane.
+28. [Veteran silences MPs with powerful Afghan speech](https://www.bbc.co.uk/news/uk-politics-58259509) - Tory MP Tom Tugendhat speaks of the anger, grief and rage of veterans at the "abandonment" of Afghanistan.

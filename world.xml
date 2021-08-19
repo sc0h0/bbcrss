@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 19 Aug 2021 15:34:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Aug 2021 15:52:02 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -177,6 +177,13 @@
             <pubDate>Thu, 19 Aug 2021 14:32:53 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[‘Don’t forget the 500,000 internally displaced Afghans’ - UNCHR]]></title>
+            <description><![CDATA[Do not forget the 500,000 internally displaced people, the UNHCR representative to Afghanistan says.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58268066</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58268066</guid>
+            <pubDate>Thu, 19 Aug 2021 15:37:13 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Afghanistan evacuations: Woman on trip back to Kabul describes fleeing city]]></title>
             <description><![CDATA[A councillor who was visiting family in the country she had left aged three tells of her evacuation.]]></description>
             <link>https://www.bbc.co.uk/news/uk-58266554</link>
@@ -203,13 +210,6 @@
             <link>https://www.bbc.co.uk/news/uk-politics-58259509</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-58259509</guid>
             <pubDate>Wed, 18 Aug 2021 13:40:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ashraf Ghani: Afghanistan's exiled president lands in UAE]]></title>
-            <description><![CDATA[The UAE says it has welcomed the president and his family on humanitarian grounds.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58260902</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58260902</guid>
-            <pubDate>Wed, 18 Aug 2021 20:21:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
