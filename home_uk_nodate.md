@@ -5,7 +5,7 @@
 5. [Covid vaccines still effective against Delta variant](https://www.bbc.co.uk/news/health-58257863) - But the jabs were more effective against the Alpha variant, the largest study of its kind suggests.
 6. [Wildfires rage across Europe](https://www.bbc.co.uk/news/world-58257998) - A look at some of the fires spreading across Europe - and the rest of the globe.
 7. [Afghanistan: Pakistan fences off from Afghan refugees](https://www.bbc.co.uk/news/world-asia-58187983) - Islamabad says it cannot accept any more Afghans fleeing Taliban rule, despite UN pleas.
-8. [PCR testing ‘rip off’: Watchdog warned government in April](https://www.bbc.co.uk/news/business-58263523) - The Competition and Markets Authority hits back at claims it was slow to react to consumers' concerns
+8. [PCR testing ‘rip-off’: Watchdog warned government in April](https://www.bbc.co.uk/news/business-58263523) - The Competition and Markets Authority hits back at claims it was slow to react to consumers' concerns.
 9. [No help for these Haiti residents five days after earthquake](https://www.bbc.co.uk/news/world-latin-america-58264717) - Five days after the earthquake that killed more than 2,000 people, many are still waiting for help.
 10. [WeThe15: 'Game-changer' plan for 1.2bn disabled people](https://www.bbc.co.uk/news/disability-58231022) - A global campaign is launched to improve the lives of more than 1.2bn disabled people.
 11. [Visa delays hit UK students heading to Spain to study](https://www.bbc.co.uk/news/education-58247963) - Students due to spend a year in Spain as part of their degree are hit with post-Brexit visa delays.
