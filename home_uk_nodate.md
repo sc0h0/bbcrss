@@ -15,7 +15,7 @@
 15. [Can the Paralympics bring lasting change?](https://www.bbc.co.uk/news/uk-58260253) - A campaign gets underway to try to improve the lives of the world's 1.2bn disabled people.
 16. [The Papers: MPs condemn US president, and Johnson 'humiliated'](https://www.bbc.co.uk/news/blogs-the-papers-58264267) - Most of Thursday's front pages lead on reaction from UK politicians to the crisis in Afghanistan.
 17. [Pride: The fear, regret and elation of coming out](https://www.bbc.co.uk/news/uk-wales-58255735) - People explain the anxiety, abuse and absolute joy of the moment they opened up about their sexuality.
-18. [You may go to the ball: Cinderella opens on the West End](https://www.bbc.co.uk/news/entertainment-arts-58260252) - Andrew Lloyd Webber and Emerald Fennel’s reimagining of the classic fairytale debuts in London.
+18. [You may go to the ball: Cinderella opens in the West End](https://www.bbc.co.uk/news/entertainment-arts-58260252) - Andrew Lloyd Webber and Emerald Fennel’s reimagining of the classic fairytale debuts in London.
 19. [The White Lotus: HBO comedy-drama attracts rave reviews from critics](https://www.bbc.co.uk/news/entertainment-arts-58254855) - The HBO comedy-drama, which began in the UK on Monday, has received several five-star reviews.
 20. [Covid: 'I'm pregnant, should I have the vaccine?'](https://www.bbc.co.uk/news/uk-england-london-58089039) - Many pregnant women have declined the Covid jab, but what's best for the baby?
 21. [Hunt for owner of engagement ring found at Tube station](https://www.bbc.co.uk/news/uk-england-london-58235968) - James Flude, 28, hopes the owner will get in touch after finding the ring at Vauxhall station.
