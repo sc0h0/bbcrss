@@ -31,7 +31,7 @@
 31. [Covid: What do under-30s need to know about the vaccine?](https://www.bbc.co.uk/news/health-57273875) - All over-16s in the UK can get the Covid vaccine, as well as some vulnerable younger teens.
 32. [What are the Delta, Gamma, Beta and Alpha Covid variants?](https://www.bbc.co.uk/news/health-55659820) - UK coronavirus cases are rising due to a variant first identified in India that spreads more easily.
 33. [Covid rules: What's changing in Wales, Scotland, England and Northern Ireland?](https://www.bbc.co.uk/news/explainers-52530518) - Lockdown rules are changing across the UK, but some restrictions remain in place.
-34. [Covid: When will teenagers get the jab and do I need a booster?](https://www.bbc.co.uk/news/health-55045639) - More teenagers will be able to receive the Covid vaccine, and a third jab will soon be available for the most vulnerable.
+34. [Covid: When will teenagers get the jab and do I need a booster?](https://www.bbc.co.uk/news/health-55045639) - All over-16s can get the Covid vaccine - but the idea of offering a third jab to the most vulnerable is still being considered.
 35. [How do we know Covid vaccines are safe?](https://www.bbc.co.uk/news/health-55056016) - Busting myths and explaining the facts around vaccines.
 36. [Coronavirus: What it does to the body](https://www.bbc.co.uk/news/health-51214864) - What is it like to have the coronavirus, how will it affect you and how is it treated?
 37. [Support bubbles: How do they work and who is in yours?](https://www.bbc.co.uk/news/health-52637354) - Some people across the UK have been able to form "support bubbles" or "extended households".
