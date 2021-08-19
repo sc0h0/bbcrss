@@ -1,4 +1,4 @@
-1. [Afghanistan crisis: Biden says US troops may stay past withdrawal deadline](https://www.bbc.co.uk/news/world-asia-58264917) - President Biden says he may keep forces there beyond August to help evacuate US citizens.
+1. [Zaki Anwari: Afghan footballer falls to death from US plane in Kabul](https://www.bbc.co.uk/news/world-asia-58272740) - Zaki Anwari, 19, had played for Afghanistan's national team before attempting to flee the country.
 2. [Afghanistan crisis: 'Many here will be deeply fearful for their future'](https://www.bbc.co.uk/news/world-asia-58262874) - The BBC's Secunder Kermani reports from the heart of Kabul during the unfolding crisis in Afghanistan.
 3. [Haiti earthquake: Rescue efforts continue in Les Cayes](https://www.bbc.co.uk/news/world-latin-america-58274326) - The death toll from the 7.2-magnitude quake is now over 2,000, with many still missing in towns like Les Cayes.
 4. [Washington DC: Active bomb threat near US Capitol](https://www.bbc.co.uk/news/world-us-canada-58273778) - US Capitol Police are negotiating with the driver of a suspicious vehicle on Capitol Hill.
@@ -21,9 +21,9 @@
 21. [Afghanistan: Joe Biden said chaos was 'inevitable'](https://www.bbc.co.uk/news/world-us-canada-58264718) - In an interview with ABC, Joe Biden said nobody could have anticipated the speed of the Taliban takeover.
 22. [Can the Paralympics bring lasting change?](https://www.bbc.co.uk/news/uk-58260253) - A campaign gets underway to try to improve the lives of the world's 1.2bn disabled people.
 23. [Afghanistan: Fatalities as shots fired at flag protest in Jalalabad](https://www.bbc.co.uk/news/world-asia-58255118) - Protesters took to the streets of Jalalabad holding aloft the country's national flag.
-24. [Afghanistan: A woman's story of life under the Taliban in 1999](https://www.bbc.co.uk/news/world-asia-58250780) - Taliban rule in 1999 - an Afghan woman recalls the day her father disappeared.
-25. [Biden on Afghanistan fact-checked](https://www.bbc.co.uk/news/58243158) - How consistent is President Biden in his comments on Afghanistan?
-26. [‘Don’t forget the 500,000 internally displaced Afghans’ - UNCHR](https://www.bbc.co.uk/news/world-asia-58268066) - Do not forget the 500,000 internally displaced people, the UNHCR representative to Afghanistan says.
-27. [Afghanistan evacuations: Woman on trip back to Kabul describes fleeing city](https://www.bbc.co.uk/news/uk-58266554) - A councillor who was visiting family in the country she had left aged three tells of her evacuation.
-28. [IMF suspends Afghanistan's access to funds](https://www.bbc.co.uk/news/business-58263525) - The move follows the Taliban's takeover, and lack of global agreement over who now governs Afghanistan.
-29. ['It was very emotional on the plane out of Afghanistan'](https://www.bbc.co.uk/news/uk-58256816) - Afghan businesswoman Hassina Syed speaks of her relief at getting out on a British military plane.
+24. [Afghanistan: Protesters wave national flag at Independence Day protests](https://www.bbc.co.uk/news/world-asia-58275284) - Afghan protesters mark Independence Day with the national flag, days after the Taliban takeover.
+25. [Afghanistan: A woman's story of life under the Taliban in 1999](https://www.bbc.co.uk/news/world-asia-58250780) - Taliban rule in 1999 - an Afghan woman recalls the day her father disappeared.
+26. [Biden on Afghanistan fact-checked](https://www.bbc.co.uk/news/58243158) - How consistent is President Biden in his comments on Afghanistan?
+27. [‘Don’t forget the 500,000 internally displaced Afghans’ - UNCHR](https://www.bbc.co.uk/news/world-asia-58268066) - Do not forget the 500,000 internally displaced people, the UNHCR representative to Afghanistan says.
+28. [Afghanistan evacuations: Woman on trip back to Kabul describes fleeing city](https://www.bbc.co.uk/news/uk-58266554) - A councillor who was visiting family in the country she had left aged three tells of her evacuation.
+29. [IMF suspends Afghanistan's access to funds](https://www.bbc.co.uk/news/business-58263525) - The move follows the Taliban's takeover, and lack of global agreement over who now governs Afghanistan.
