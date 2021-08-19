@@ -1,4 +1,4 @@
-1. [Morrisons backs US firm's improved takeover offer](https://www.bbc.co.uk/news/business-58273916) - The supermarket has agreed to a bid worth £7bn from a US private equity group, ditching a lower offer from another firm.
+1. [Morrisons backs US firm's improved takeover offer](https://www.bbc.co.uk/news/business-58273916) - The supermarket has agreed to a £7bn bid from a US private equity group, ditching a lower offer from another firm.
 2. [OnlyFans to ban sexually explicit content](https://www.bbc.co.uk/news/business-58273914) - The online subscription site will prevent users from posting content showing 'sexually explicit conduct'.
 3. [Chip shortage: Toyota to cut global production by 40%](https://www.bbc.co.uk/news/business-58266794) - The world's biggest carmaker will cut output in September, while VW warns it may have to make further cuts.
 4. [Amazon 'planning to open department stores in US'](https://www.bbc.co.uk/news/business-58274458) - According to reports, the e-commerce giant wants to branch further into High Street retail by opening several big stores.

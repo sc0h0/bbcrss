@@ -3,7 +3,7 @@
 3. [Sheffield hotel fall: Boy who died was Afghan refugee](https://www.bbc.co.uk/news/uk-england-south-yorkshire-58269533) - Five-year-old Mohammed Munib Majeedi and his family arrived in the UK two weeks ago.
 4. [Covid: UK vaccine booster scheme likely to start in September - Sajid Javid](https://www.bbc.co.uk/news/uk-58271911) - The proposed rollout of third doses is likely to start in September, the health secretary says.
 5. [Baby bats babble like humans](https://www.bbc.co.uk/news/science-environment-58271913) - Babbling in baby bats bears a striking resemblance to human infants learning to talk, researchers find.
-6. [Morrisons backs US firm's improved takeover offer](https://www.bbc.co.uk/news/business-58273916) - The supermarket has agreed to a bid worth £7bn from a US private equity group, ditching a lower offer from another firm.
+6. [Morrisons backs US firm's improved takeover offer](https://www.bbc.co.uk/news/business-58273916) - The supermarket has agreed to a £7bn bid from a US private equity group, ditching a lower offer from another firm.
 7. [Kabul evacuation: No planes leaving empty says UK defence secretary](https://www.bbc.co.uk/news/uk-58266555) - Defence Secretary Ben Wallace says "every hour counts", with up to 10 flights leaving every day.
 8. [OnlyFans to ban sexually explicit content](https://www.bbc.co.uk/news/business-58273914) - The online subscription site will prevent users from posting content showing 'sexually explicit conduct'.
 9. [Nicole Kidman reportedly enters Hong Kong quarantine-free](https://www.bbc.co.uk/news/world-asia-58270417) - Hong Kong media say the Australian star was seen out and about in the city two days after arriving.

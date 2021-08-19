@@ -1,4 +1,4 @@
-1. [Covid-19: Swann sets target of 90% of NI jabbed for Covid-19](https://www.bbc.co.uk/news/uk-northern-ireland-58269477) - Having 90% of people in NI vaccinated would take pressure off the health system, says Robin Swann.
+1. [Covid-19: Swann sets target of 90% of NI jabbed for Covid-19](https://www.bbc.co.uk/news/uk-northern-ireland-58269477) - Having 90% of people in NI vaccinated would take pressure off the health service, says Robin Swann.
 2. [Londonderry: 'Traveller feud' accused granted bail](https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58273879) - Four men and a teenager are granted bail after an incident at a filling station forecourt on Tuesday.
 3. [Belfast fraudster who conned elderly while on bail avoids jail](https://www.bbc.co.uk/news/uk-northern-ireland-58272044) - Belfast man George Henry Patrick Crossett defrauded victims of more than £100,000, a court hears.
 4. [Covid-19: Nine more deaths and 1,963 new cases](https://www.bbc.co.uk/news/uk-northern-ireland-58272003) - There are currently 379 patients with Covid in NI's hospitals, down from 394 on Wednesday.
