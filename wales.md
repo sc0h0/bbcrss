@@ -23,5 +23,5 @@
 23. [£551m o gyllid i adfer gwasanaethau iechyd wedi Covid](https://www.bbc.co.uk/newyddion/58260765) - Thu, 19 Aug 2021 05:10:40 GMT - Cyn cyhoeddi'r ffigyrau diweddaraf am restrau aros yng Nghymru, cyllid ychwanegol i ddelio â'r broblem.
 24. ['Colli swyddi Fali am arwain at fwy o bobl i adael Môn'](https://www.bbc.co.uk/newyddion/58262456) - Thu, 19 Aug 2021 05:11:59 GMT - Pryder y bydd colli swyddi ar safle'r Awyrlu yn gorfodi mwy o bobl ifanc i adael Ynys Môn am waith.
 25. [Gweithio hybrid yn hwb, ond rhybudd am orweithio](https://www.bbc.co.uk/newyddion/58262460) - Thu, 19 Aug 2021 05:15:54 GMT - Hyblygrwydd yn cynnig cyfleon i bobl anabl, ond pryder bod mwy yn gweithio tu hwnt i oriau gwaith.
-26. [Uchafbwyntiau cwarantîn Gwenno Rees](https://www.bbc.co.uk/newyddion/58261015) - Wed, 18 Aug 2021 14:44:48 GMT - Bu'n rhaid i Gwenno hunan-ynysu mewn gwesty yn Llundain ar ôl teithio adref o Tanzania.
+26. [Blwyddyn heb alcohol: 'Mam, ti'n yfed gormod'](https://www.bbc.co.uk/newyddion/58147057) - Thu, 19 Aug 2021 08:32:31 GMT - Mae Caren Brown wedi stopio yfed ar ôl i'w merch ddweud wrthi ei bod yn poeni amdani.
 27. [Sut y daeth sêr Hollywood yn berchnogion Wrecsam](https://www.bbc.co.uk/newyddion/58186778) - Wed, 18 Aug 2021 05:36:32 GMT - Yr hanes y tu ôl i Ryan Reynolds a Rob McElhenney yn prynu clwb pêl-droed hynaf Cymru.
