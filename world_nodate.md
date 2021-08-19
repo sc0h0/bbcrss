@@ -19,8 +19,8 @@
 19. [Afghanistan: Child handed over Kabul airport wall as chaos continues](https://www.bbc.co.uk/news/world-asia-58267756) - Afghans try to scale airport walls and shots are fired as crowds keep trying to flee the Taliban.
 20. [Afghanistan: Protesters wave national flag at Independence Day protests](https://www.bbc.co.uk/news/world-asia-58275284) - Afghan protesters mark Independence Day with the national flag, days after the Taliban takeover.
 21. [Afghan interpreter begs PM Boris Johnson for 'pathway to safety'](https://www.bbc.co.uk/news/world-58266707) - Ahmed (not his real name), who worked for the British Army, begs the UK to evacuate him and his family.
-22. [Afghanistan: Joe Biden said chaos was 'inevitable'](https://www.bbc.co.uk/news/world-us-canada-58264718) - In an interview with ABC, Joe Biden said nobody could have anticipated the speed of the Taliban takeover.
-23. [Can the Paralympics bring lasting change?](https://www.bbc.co.uk/news/uk-58260253) - A campaign gets underway to try to improve the lives of the world's 1.2bn disabled people.
+22. [Can the Paralympics bring lasting change?](https://www.bbc.co.uk/news/uk-58260253) - A campaign gets underway to try to improve the lives of the world's 1.2bn disabled people.
+23. [Afghanistan: Joe Biden said chaos was 'inevitable'](https://www.bbc.co.uk/news/world-us-canada-58264718) - In an interview with ABC, Joe Biden said nobody could have anticipated the speed of the Taliban takeover.
 24. [The treacherous road to Kabul's airport](https://www.bbc.co.uk/news/world-asia-58271517) - As thousands try to flee Afghanistan, the main route to the capital's airport has become treacherous.
 25. [Afghanistan: A woman's story of life under the Taliban in 1999](https://www.bbc.co.uk/news/world-asia-58250780) - Taliban rule in 1999 - an Afghan woman recalls the day her father disappeared.
 26. [Biden on Afghanistan fact-checked](https://www.bbc.co.uk/news/58243158) - How consistent is President Biden in his comments on Afghanistan?
