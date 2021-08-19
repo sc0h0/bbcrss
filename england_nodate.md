@@ -16,7 +16,7 @@
 16. [Incels: A new terror threat to the UK?](https://www.bbc.co.uk/news/uk-58207064) - Is the incel belief system followed by Jake Davison, the Plymouth gunman, a terror threat to the UK?
 17. [A visual guide to what happened](https://www.bbc.co.uk/news/uk-england-devon-58200336) - A gunman shot and killed five people in Plymouth before turning the gun on himself. Here's what we know about how events unfolded.
 18. [Camden barbecue shooting: Three arrests made](https://www.bbc.co.uk/news/uk-england-london-58269628) - Two teenage boys and a 22-year-old man are arrested after a shooting at a crowded communal barbecue.
-19. [Voters head to the polls in Wiltshire PCC election](https://www.bbc.co.uk/news/uk-england-wiltshire-58257599) - Polls open in the re-run election for Wiltshire's Police and Crime Commissioner.
+19. [Farnworth death: Man charged with murdering baby girl in 2019](https://www.bbc.co.uk/news/uk-england-manchester-58270034) - Aiman Abbas Toor, who was 10 months old, was found "unresponsive" at a house by emergency crews.
 20. [Cannabis farm worth £1m found in Bury town centre](https://www.bbc.co.uk/news/uk-england-manchester-58267564) - About 1,000 plants were discovered at a flooded property on Silver Street in Bury, police say.
 21. [Cambridgeshire: Train driver injured in level crossing collision](https://www.bbc.co.uk/news/uk-england-cambridgeshire-58269427) - The freight train's driver suffered minor injuries as it collided with a tractor, Network Rail says.
 22. [Banksy: What do we know about the anonymous artist?](https://www.bbc.co.uk/news/uk-england-bristol-50249349) - The graffiti artist Banksy is world famous, but his true identity remains unknown.
