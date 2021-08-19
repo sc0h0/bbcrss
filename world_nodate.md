@@ -1,7 +1,7 @@
 1. [Afghanistan crisis: Biden says no American will be left behind](https://www.bbc.co.uk/news/world-asia-58264917) - The US president says the chaos in Afghanistan was unavoidable and refuses to acknowledge any mistakes.
 2. [Afghanistan: Pakistan fences off from Afghan refugees](https://www.bbc.co.uk/news/world-asia-58187983) - Islamabad says it cannot accept any more Afghans fleeing Taliban rule, despite UN pleas.
 3. [IMF suspends Afghanistan's access to funds](https://www.bbc.co.uk/news/business-58263525) - The move follows the Taliban's takeover, and lack of global agreement over who now governs Afghanistan.
-4. [No help for these Haiti residents five days after earthquake](https://www.bbc.co.uk/news/world-latin-america-58264717) - Five days after the earthquake that killed more than 2,000 people, many are still waiting for help.
+4. [Haiti earthquake: The forgotten villages cut off from help](https://www.bbc.co.uk/news/world-latin-america-58245047) - The tremor razed their homes, but these survivors could still die for a lack of basic supplies.
 5. [R. Kelly trial: Singer 'knew I was underage', accuser tells court](https://www.bbc.co.uk/news/entertainment-arts-58254151) - The US R&B singer is accused of sexual abuse, racketeering and bribery; charges which he has denied.
 6. [Can the Paralympics bring lasting change?](https://www.bbc.co.uk/news/uk-58260253) - A campaign gets underway to try to improve the lives of the world's 1.2bn disabled people.
 7. [Lithuania says Belarus officers illegally pushed migrants over border](https://www.bbc.co.uk/news/world-europe-58255448) - Video shows 12 Belarusian officers in riot gear as migrants scramble towards Lithuanian territory.
@@ -26,9 +26,9 @@
 26. [Brandon Flowers on new Killers album Pressure Machine, inspired by Utah hometown](https://www.bbc.co.uk/news/entertainment-arts-58257999) - The Killers frontman speaks about their new album, Pressure Machine, inspired by his rural hometown.
 27. [How the Taliban seized Afghanistan again](https://www.bbc.co.uk/news/world-asia-58238023) - Taliban fighters have swept across Afghanistan taking control of towns and cities.
 28. [Taliban: 'We will not allow the soil of Afghanistan to be used against anyone'](https://www.bbc.co.uk/news/world-asia-58249178) - The Taliban have held their first news conference since taking control of Afghanistan.
-29. [Afghanistan: Joe Biden said chaos was 'inevitable'](https://www.bbc.co.uk/news/world-us-canada-58264718) - In an interview with ABC, Joe Biden said nobody could have anticipated the speed of the Taliban takeover.
-30. ['It was very emotional on the plane out of Afghanistan'](https://www.bbc.co.uk/news/uk-58256816) - Afghan businesswoman Hassina Syed speaks of her relief at getting out on a British military plane.
-31. [Veteran silences MPs with powerful Afghan speech](https://www.bbc.co.uk/news/uk-politics-58259509) - Tory MP Tom Tugendhat speaks of the anger, grief and rage of veterans at the "abandonment" of Afghanistan.
-32. [Ashraf Ghani: Afghanistan's exiled president lands in UAE](https://www.bbc.co.uk/news/world-asia-58260902) - The UAE says it has welcomed the president and his family on humanitarian grounds.
-33. [Afghanistan: What's the impact of Taliban's return on international order?](https://www.bbc.co.uk/news/world-us-canada-58248864) - What is the diplomatic fallout and how allies and rivals are looking at the US following the Taliban takeover?
+29. ['It was very emotional on the plane out of Afghanistan'](https://www.bbc.co.uk/news/uk-58256816) - Afghan businesswoman Hassina Syed speaks of her relief at getting out on a British military plane.
+30. [Veteran silences MPs with powerful Afghan speech](https://www.bbc.co.uk/news/uk-politics-58259509) - Tory MP Tom Tugendhat speaks of the anger, grief and rage of veterans at the "abandonment" of Afghanistan.
+31. [Ashraf Ghani: Afghanistan's exiled president lands in UAE](https://www.bbc.co.uk/news/world-asia-58260902) - The UAE says it has welcomed the president and his family on humanitarian grounds.
+32. [Afghanistan: What's the impact of Taliban's return on international order?](https://www.bbc.co.uk/news/world-us-canada-58248864) - What is the diplomatic fallout and how allies and rivals are looking at the US following the Taliban takeover?
+33. [Afghanistan: Joe Biden said chaos was 'inevitable'](https://www.bbc.co.uk/news/world-us-canada-58264718) - In an interview with ABC, Joe Biden said nobody could have anticipated the speed of the Taliban takeover.
 34. [Afghanistan: 'All female staff have left my Kabul hotel'](https://www.bbc.co.uk/news/world-asia-58243134) - The BBC's Malik Mudassir says Taliban fighters are now providing security at his hotel in central Kabul.

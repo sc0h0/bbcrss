@@ -11,23 +11,23 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 19 Aug 2021 04:15:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Aug 2021 04:40:23 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Haiti earthquake: The forgotten villages cut off from help]]></title>
+            <description><![CDATA[The tremor razed their homes, but these survivors could still die for a lack of basic supplies.]]></description>
+            <link>https://www.bbc.co.uk/news/world-latin-america-58245047</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-latin-america-58245047</guid>
+            <pubDate>Thu, 19 Aug 2021 04:27:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Haiti earthquake: Death toll now more than 2,000]]></title>
             <description><![CDATA[A few dozen survivors have been pulled alive from under the rubble but many are still feared trapped.]]></description>
             <link>https://www.bbc.co.uk/news/world-latin-america-58187979</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-latin-america-58187979</guid>
             <pubDate>Wed, 18 Aug 2021 11:47:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No help for these Haiti residents five days after earthquake]]></title>
-            <description><![CDATA[Five days after the earthquake that killed more than 2,000 people, many are still waiting for help.]]></description>
-            <link>https://www.bbc.co.uk/news/world-latin-america-58264717</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-latin-america-58264717</guid>
-            <pubDate>Thu, 19 Aug 2021 00:40:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Haiti earthquake: Search for survivors amid devastation]]></title>
@@ -79,13 +79,6 @@
             <pubDate>Thu, 12 Aug 2021 13:26:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The labels encouraging Chileans to buy healthier food]]></title>
-            <description><![CDATA[Chile's government introduced food labelling five years ago to drive down its high obesity rate.]]></description>
-            <link>https://www.bbc.co.uk/news/world-latin-america-57553315</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-latin-america-57553315</guid>
-            <pubDate>Tue, 10 Aug 2021 23:49:27 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Fenty Beauty: How make-up helped Rihanna become a billionaire]]></title>
             <description><![CDATA[Rihanna makes more money from her make-up than from her music and acting work.]]></description>
             <link>https://www.bbc.co.uk/news/newsbeat-58084543</link>
@@ -112,6 +105,13 @@
             <link>https://www.bbc.co.uk/news/world-latin-america-58076664</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-latin-america-58076664</guid>
             <pubDate>Sun, 08 Aug 2021 23:02:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No help for these Haiti residents five days after earthquake]]></title>
+            <description><![CDATA[Five days after the earthquake that killed more than 2,000 people, many are still waiting for help.]]></description>
+            <link>https://www.bbc.co.uk/news/world-latin-america-58264717</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-latin-america-58264717</guid>
+            <pubDate>Thu, 19 Aug 2021 00:40:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Haiti struck by deadly 7.2-magnitude earthquake]]></title>

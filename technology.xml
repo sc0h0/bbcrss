@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 19 Aug 2021 04:17:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Aug 2021 04:40:03 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Former Netflix staffers charged for making $3m from insider trading]]></title>
+            <description><![CDATA[The Wall Street regulator says confidential subscriber growth data was used in the alleged scheme.]]></description>
+            <link>https://www.bbc.co.uk/news/business-58264767</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58264767</guid>
+            <pubDate>Thu, 19 Aug 2021 04:24:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Apple censors engraving service, report claims]]></title>
             <description><![CDATA[Apple restricts the engraving of political phrases in China, Hong Kong and Taiwan, a report alleges.]]></description>
