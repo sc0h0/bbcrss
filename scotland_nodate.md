@@ -1,6 +1,6 @@
 1. [SNP-Green deal could be confirmed on Friday](https://www.bbc.co.uk/news/uk-scotland-scotland-politics-58272209) - An agreement would see Greens enter national government for the first time anywhere in the UK.
 2. [Police Scotland firearms officer 'didn't mean to discriminate'](https://www.bbc.co.uk/news/uk-scotland-58248645) - Insp Keith Warhurst said he had "an epiphany" when he realised his email about female officers had been construed as sexist.
-3. [Andy Murray describes East Kilbride tennis court as 'shambles'](https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58275264) - The Scots tennis champion said a council-run weed-strewn court in East Kilbride was a "shambles".
+3. [Andy Murray brands East Kilbride tennis court a 'shambles'](https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58275264) - The Scots tennis champion said a council-run weed-strewn court in East Kilbride was a "shambles".
 4. [Covid in Scotland: Where are the latest cases?](https://www.bbc.co.uk/news/uk-scotland-53511877) - A daily update on the number and location of coronavirus cases in Scotland.
 5. [Denis Law: Man Utd and Scotland legend diagnosed with dementia](https://www.bbc.co.uk/sport/football/58268041) - Scotland legend and former Manchester United forward Denis Law is diagnosed with dementia.
 6. [Drink driver caused death of teen friends in Fife crash](https://www.bbc.co.uk/news/uk-scotland-58269830) - Teenagers Connor Aird and Ethan King died as a result of the collision caused by Logan Russell.
