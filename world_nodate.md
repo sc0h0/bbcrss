@@ -21,7 +21,7 @@
 21. [Biden's speech on Afghanistan fact-checked](https://www.bbc.co.uk/news/58243158) - How consistent was President Biden's speech with his previous statements on Afghanistan?
 22. [Just how hard is it to recycle a jumbo jet?](https://www.bbc.co.uk/news/business-57983174) - Thousands of aircraft were left on the tarmac due to Covid, and many will now be broken up for parts.
 23. [Hakainde Hichilema: The Zambian 'cattle boy' who became president](https://www.bbc.co.uk/news/world-africa-58229710) - After six attempts, Hakainde Hichilema has finally become president of Zambia.
-24. [Afghan interpreter begs PM for 'pathway to safety'](https://www.bbc.co.uk/news/world-58266707) - An Afghan interpreter who worked for the British army has begged the UK government to evacuate him and his family from Afghanistan.
+24. [Afghan interpreter begs PM Boris Johnson for 'pathway to safety'](https://www.bbc.co.uk/news/world-58266707) - Ahmed (not his real name), who worked for the British Army, begs the UK to evacuate him and his family.
 25. [Afghanistan: Joe Biden said chaos was 'inevitable'](https://www.bbc.co.uk/news/world-us-canada-58264718) - In an interview with ABC, Joe Biden said nobody could have anticipated the speed of the Taliban takeover.
 26. [Can the Paralympics bring lasting change?](https://www.bbc.co.uk/news/uk-58260253) - A campaign gets underway to try to improve the lives of the world's 1.2bn disabled people.
 27. [Afghanistan: Fatalities as shots fired at flag protest in Jalalabad](https://www.bbc.co.uk/news/world-asia-58255118) - Protesters took to the streets of Jalalabad holding aloft the country's national flag.

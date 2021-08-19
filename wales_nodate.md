@@ -21,7 +21,7 @@
 21. [Welsh rugby pre-season guide 2021](https://www.bbc.co.uk/sport/rugby-union/58244328) - BBC Sport Wales' guide to Ospreys, Cardiff, Scarlets and Dragons pre-season schedules.
 22. [The Hundred: Brilliant batting & a one-handed crowd catch - best of Fire v Spirit](https://www.bbc.co.uk/sport/av/cricket/58264160) - Watch the best of Wednesday's action as Welsh Fire took on London Spirit in the women's and men's Hundred in Cardiff.
 23. [Nifer y bobl ar restrau aros ysbytai Cymru ar ei lefel uchaf](https://www.bbc.co.uk/newyddion/58268281) - Mwy o bobl yn aros am driniaeth ysbyty sydd ddim yn frys yng Nghymru nag erioed o'r blaen.
-24. ['Colli swyddi Fali am arwain at fwy o bobl i adael Môn'](https://www.bbc.co.uk/newyddion/58262456) - Pryder y bydd colli swyddi ar safle'r Awyrlu yn gorfodi mwy o bobl ifanc i adael Ynys Môn am waith.
-25. [£551m o gyllid i adfer gwasanaethau iechyd wedi Covid](https://www.bbc.co.uk/newyddion/58260765) - Dros hanner biliwn o bunnoedd yn cael ei glustnodi i'r GIG er mwyn delio gydag effeithiau'r pandemig.
+24. [Mam o flaen Llys y Goron ar gyhuddiad o ladd ei mab](https://www.bbc.co.uk/newyddion/58269407) - Bu farw Reid Steele, 2, yn yr ysbyty yn dilyn digwyddiad mewn tŷ ym Mhen-y-bont ar Ogwr.
+25. ['Colli swyddi Fali am arwain at fwy o bobl i adael Môn'](https://www.bbc.co.uk/newyddion/58262456) - Pryder y bydd colli swyddi ar safle'r Awyrlu yn gorfodi mwy o bobl ifanc i adael Ynys Môn am waith.
 26. [Blwyddyn heb alcohol: 'Mam, ti'n yfed gormod'](https://www.bbc.co.uk/newyddion/58147057) - Mae Caren Brown wedi stopio yfed ar ôl i'w merch ddweud wrthi ei bod yn poeni amdani.
 27. [Sut y daeth sêr Hollywood yn berchnogion Wrecsam](https://www.bbc.co.uk/newyddion/58186778) - Yr hanes y tu ôl i Ryan Reynolds a Rob McElhenney yn prynu clwb pêl-droed hynaf Cymru.
