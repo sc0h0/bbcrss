@@ -27,7 +27,7 @@
 27. [Covid rules: How can the clinically vulnerable stay safe?](https://www.bbc.co.uk/news/health-51997151) - As social-distancing and other Covid rules end in England, how can people who were shielding stay safe?
 28. [What are the rules and guidance for face masks and coverings?](https://www.bbc.co.uk/news/health-51205344) - Masks are no longer compulsory in England, but remain necessary in other parts of the UK.
 29. [How many cases in your area?](https://www.bbc.co.uk/news/uk-51768274) - Explore the data on coronavirus in the UK and find out how many cases there are in your area.
-30. [Covid: What do under-30s need to know about the vaccine?](https://www.bbc.co.uk/news/health-57273875) - The government has announced that 16 and 17-year-olds will receive the Covid vaccine.
+30. [Covid: What do under-30s need to know about the vaccine?](https://www.bbc.co.uk/news/health-57273875) - All over-16s in the UK can get the Covid vaccine, as well as some vulnerable younger teens.
 31. [What are the Delta, Gamma, Beta and Alpha Covid variants?](https://www.bbc.co.uk/news/health-55659820) - UK coronavirus cases are rising due to a variant first identified in India that spreads more easily.
 32. [Covid rules: What's changing in Wales, Scotland, England and Northern Ireland?](https://www.bbc.co.uk/news/explainers-52530518) - Lockdown rules are changing across the UK, but some restrictions remain in place.
 33. [Covid: When will teenagers get the jab and do I need a booster?](https://www.bbc.co.uk/news/health-55045639) - More teenagers will be able to receive the Covid vaccine, and a third jab will soon be available for the most vulnerable.
