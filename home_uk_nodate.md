@@ -1,7 +1,7 @@
 1. [Afghanistan: Child handed over Kabul airport wall as chaos continues](https://www.bbc.co.uk/news/world-asia-58267756) - Afghans try to scale airport walls and shots are fired as crowds keep trying to flee the Taliban.
 2. [Zaki Anwari: Afghan footballer falls to death from US plane in Kabul](https://www.bbc.co.uk/news/world-asia-58272740) - Zaki Anwari, 19, had played for Afghanistan's national youth team before trying to flee the country.
 3. [Covid: Javid confident on jab boosters, and Nicole Kidman criticised in Hong Kong](https://www.bbc.co.uk/news/uk-58271561) - Five things you need to know about the coronavirus pandemic this Thursday evening.
-4. [Sheffield hotel fall: Boy who died was Afghan refugee](https://www.bbc.co.uk/news/uk-england-south-yorkshire-58269533) - The five-year-old boy and his family arrived in the UK just two weeks ago.
+4. [Sheffield hotel fall: Boy who died was Afghan refugee](https://www.bbc.co.uk/news/uk-england-south-yorkshire-58269533) - Five-year-old Mohammed Munib Majeedi and his family arrived in the UK just two weeks ago.
 5. [Covid: UK vaccine booster scheme likely to start in September - Sajid Javid](https://www.bbc.co.uk/news/uk-58271911) - The proposed rollout of third doses is likely to start in September, the health secretary says.
 6. [Kabul evacuation: No planes leaving empty says UK defence secretary](https://www.bbc.co.uk/news/uk-58266555) - Defence Secretary Ben Wallace says "every hour counts", with up to 10 flights leaving every day.
 7. [Washington DC: Man arrested over bomb threat near US Capitol](https://www.bbc.co.uk/news/world-us-canada-58273778) - US Capitol Police had been negotiating with the driver of a suspicious vehicle on Capitol Hill.

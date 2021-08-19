@@ -1,5 +1,5 @@
 1. [Plymouth shooting: Gunman argued with mum before attack](https://www.bbc.co.uk/news/uk-england-devon-58260590) - The five victims, including a father and daughter out walking their dog, were killed in Plymouth.
-2. [Sheffield hotel fall: Boy who died was Afghan refugee](https://www.bbc.co.uk/news/uk-england-south-yorkshire-58269533) - The five-year-old boy and his family arrived in the UK just two weeks ago.
+2. [Sheffield hotel fall: Boy who died was Afghan refugee](https://www.bbc.co.uk/news/uk-england-south-yorkshire-58269533) - Five-year-old Mohammed Munib Majeedi and his family arrived in the UK just two weeks ago.
 3. [Prison guard demanded sexual favours from inmates](https://www.bbc.co.uk/news/uk-england-tyne-58268531) - David Whitfield is jailed over the illicit activity with 12 women over five years.
 4. [Ex-MP Jared O'Mara charged with seven counts of fraud](https://www.bbc.co.uk/news/uk-england-south-yorkshire-58272878) - Jared O'Mara is charged in relation to alleged fraudulent expenses claims, the CPS say.
 5. [Stuart Lubbock: Suspect in murder case released without charge](https://www.bbc.co.uk/news/uk-england-essex-58273900) - Stuart Lubbock was found unconscious at Michael Barrymore's house in 2001 and later died.
