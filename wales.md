@@ -1,4 +1,4 @@
-1. [Covid: Hotel thought prom-goers had negative tests before spike](https://www.bbc.co.uk/news/uk-wales-58269876) - Thu, 19 Aug 2021 12:58:25 GMT - More than 50 positive cases are linked to a Year 11 graduation party at a hotel.
+1. [Covid: Hotel thought prom-goers had negative tests before spike](https://www.bbc.co.uk/news/uk-wales-58269876) - Thu, 19 Aug 2021 17:41:13 GMT - More than 50 positive cases are linked to a Year 11 graduation party at a hotel.
 2. [Bridgend mother in court charged with murder of her two-year-old son](https://www.bbc.co.uk/news/uk-wales-58260646) - Thu, 19 Aug 2021 12:50:47 GMT - Natalie Steele has been charged with the murder of two-year-old Reid Steele.
 3. [Green Man: Tears and joy as festival returns against Covid odds](https://www.bbc.co.uk/news/uk-wales-58267969) - Thu, 19 Aug 2021 13:45:40 GMT - Tickets for the festival sold out in minutes back in May, despite Covid uncertainty.
 4. [NHS Wales: Waiting times hit record levels](https://www.bbc.co.uk/news/uk-wales-58267774) - Thu, 19 Aug 2021 13:49:58 GMT - Numbers waiting for hospital treatment hit record levels and A&E waiting times are the worst on record.

@@ -1,6 +1,6 @@
-1. [Kabul evacuation: No planes leaving empty says UK defence secretary](https://www.bbc.co.uk/news/uk-58266555) - Defence Secretary Ben Wallace says "every hour counts", with up to 10 flights leaving every day.
+1. [Afghanistan: Child handed over Kabul airport wall as chaos continues](https://www.bbc.co.uk/news/world-asia-58267756) - Afghans try to scale airport walls and shots are fired as crowds keep trying to flee the Taliban.
 2. [Sheffield hotel fall: Boy who died was Afghan refugee](https://www.bbc.co.uk/news/uk-england-south-yorkshire-58269533) - The five-year-old boy and his family arrived in the UK just two weeks ago.
-3. [Afghanistan: Child handed over Kabul airport wall as chaos continues](https://www.bbc.co.uk/news/world-asia-58267756) - Afghans try to scale airport walls and shots are fired as crowds keep trying to flee the Taliban.
+3. [Kabul evacuation: No planes leaving empty says UK defence secretary](https://www.bbc.co.uk/news/uk-58266555) - Defence Secretary Ben Wallace says "every hour counts", with up to 10 flights leaving every day.
 4. [Covid: UK vaccine booster scheme likely to start in September - Sajid Javid](https://www.bbc.co.uk/news/uk-58271911) - The proposed rollout of third doses is likely to start in September, the health secretary says.
 5. [Covid: Javid confident on jab boosters, and Nicole Kidman criticised in Hong Kong](https://www.bbc.co.uk/news/uk-58271561) - Five things you need to know about the coronavirus pandemic this Thursday evening.
 6. [Washington DC: Active bomb threat near US Capitol](https://www.bbc.co.uk/news/world-us-canada-58273778) - US Capitol Police are negotiating with the driver of a suspicious vehicle on Capitol Hill.
