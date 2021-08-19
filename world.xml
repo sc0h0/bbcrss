@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 19 Aug 2021 15:09:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Aug 2021 15:32:17 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -37,11 +37,11 @@
             <pubDate>Thu, 19 Aug 2021 04:27:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Chip shortage: Toyota to cut global production by 40%]]></title>
-            <description><![CDATA[The world's biggest carmaker will cut output in September, while VW warns it may have to make further cuts.]]></description>
-            <link>https://www.bbc.co.uk/news/business-58266794</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58266794</guid>
-            <pubDate>Thu, 19 Aug 2021 15:07:07 GMT</pubDate>
+            <title><![CDATA[Canadian soldier faces jail over feeding cannabis cupcakes to troops]]></title>
+            <description><![CDATA[A Canadian bombardier fed cannabis cakes to troops during a drill involving guns and live ammunition.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-58176125</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-58176125</guid>
+            <pubDate>Thu, 19 Aug 2021 15:22:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Belgium stabbing suspect won’t be charged over unborn baby’s death]]></title>
@@ -56,6 +56,13 @@
             <link>https://www.bbc.co.uk/news/world-europe-58265932</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58265932</guid>
             <pubDate>Thu, 19 Aug 2021 11:48:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Chip shortage: Toyota to cut global production by 40%]]></title>
+            <description><![CDATA[The world's biggest carmaker will cut output in September, while VW warns it may have to make further cuts.]]></description>
+            <link>https://www.bbc.co.uk/news/business-58266794</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58266794</guid>
+            <pubDate>Thu, 19 Aug 2021 15:22:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[R. Kelly trial: Singer 'knew I was underage', accuser tells court]]></title>
@@ -77,13 +84,6 @@
             <link>https://www.bbc.co.uk/news/technology-58270497</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-58270497</guid>
             <pubDate>Thu, 19 Aug 2021 13:15:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo 2020: First Covid case detected at Paralympic village]]></title>
-            <description><![CDATA[Japan is battling a record wave of coronavirus infections just five days before the start of the Games.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58265320</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58265320</guid>
-            <pubDate>Thu, 19 Aug 2021 05:01:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Former Netflix staffers charged for making $3m from insider trading]]></title>
@@ -177,13 +177,6 @@
             <pubDate>Thu, 19 Aug 2021 14:32:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Afghanistan: Who originally supported Trump's deal with the Taliban?]]></title>
-            <description><![CDATA[UK Defence Secretary Ben Wallace now calls it a "rotten" deal but supported it at the time.]]></description>
-            <link>https://www.bbc.co.uk/news/58271943</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/58271943</guid>
-            <pubDate>Thu, 19 Aug 2021 14:58:44 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[IMF suspends Afghanistan's access to funds]]></title>
             <description><![CDATA[The move follows the Taliban's takeover, and lack of global agreement over who now governs Afghanistan.]]></description>
             <link>https://www.bbc.co.uk/news/business-58263525</link>
@@ -210,6 +203,13 @@
             <link>https://www.bbc.co.uk/news/uk-politics-58259509</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-58259509</guid>
             <pubDate>Wed, 18 Aug 2021 13:40:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ashraf Ghani: Afghanistan's exiled president lands in UAE]]></title>
+            <description><![CDATA[The UAE says it has welcomed the president and his family on humanitarian grounds.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58260902</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58260902</guid>
+            <pubDate>Wed, 18 Aug 2021 20:21:01 GMT</pubDate>
         </item>
     </channel>
 </rss>

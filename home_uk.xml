@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 19 Aug 2021 15:11:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Aug 2021 15:32:39 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -37,11 +37,25 @@
             <pubDate>Thu, 19 Aug 2021 13:00:44 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Sheffield hotel fall: Boy who died was Afghan refugee]]></title>
+            <description><![CDATA[The five-year-old boy and his family arrived in the UK just two weeks ago.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-south-yorkshire-58269533</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-south-yorkshire-58269533</guid>
+            <pubDate>Thu, 19 Aug 2021 15:25:28 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Nicole Kidman reportedly enters Hong Kong quarantine-free]]></title>
             <description><![CDATA[Hong Kong media say the Australian star was seen out and about in the city two days after arriving.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-58270417</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58270417</guid>
             <pubDate>Thu, 19 Aug 2021 12:54:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nature: Rattlesnakes' rapid sound switch fools human ears]]></title>
+            <description><![CDATA[Rattlesnakes have evolved a clever method of convincing humans that danger is closer than you think.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-58270599</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-58270599</guid>
+            <pubDate>Thu, 19 Aug 2021 15:04:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Denis Law: Man Utd and Scotland legend diagnosed with dementia]]></title>
@@ -51,18 +65,11 @@
             <pubDate>Thu, 19 Aug 2021 11:16:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[NHS Covid app 'pings' fall after changes]]></title>
-            <description><![CDATA[The data covers the first full week since changes to the app were made to mean it notifies fewer contacts.]]></description>
-            <link>https://www.bbc.co.uk/news/technology-58165482</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-58165482</guid>
-            <pubDate>Thu, 19 Aug 2021 11:50:57 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Chip shortage: Toyota to cut global production by 40%]]></title>
             <description><![CDATA[The world's biggest carmaker will cut output in September, while VW warns it may have to make further cuts.]]></description>
             <link>https://www.bbc.co.uk/news/business-58266794</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58266794</guid>
-            <pubDate>Thu, 19 Aug 2021 15:07:07 GMT</pubDate>
+            <pubDate>Thu, 19 Aug 2021 15:22:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[HMP Low Newton guard demanded sexual favours from inmates]]></title>
@@ -77,13 +84,6 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58262835</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58262835</guid>
             <pubDate>Thu, 19 Aug 2021 08:16:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Boy, 5, was Sheffield hotel window fall victim]]></title>
-            <description><![CDATA[The boy's death at a hotel in the city centre is not being treated as suspicious, police say.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-south-yorkshire-58269533</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-south-yorkshire-58269533</guid>
-            <pubDate>Thu, 19 Aug 2021 11:14:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Lizzo: Facebook and Instagram remove abusive comments from singer's accounts]]></title>
@@ -266,6 +266,13 @@
             <link>https://www.bbc.co.uk/sport/av/golf/58272076</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/golf/58272076</guid>
             <pubDate>Thu, 19 Aug 2021 13:34:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Hundred: Brilliant batting & a one-handed crowd catch - best of Fire v Spirit]]></title>
+            <description><![CDATA[Watch the best of Wednesday's action as Welsh Fire took on London Spirit in the women's and men's Hundred in Cardiff.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/cricket/58264160</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/cricket/58264160</guid>
+            <pubDate>Wed, 18 Aug 2021 22:20:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Afghanistan: A woman's story of life under the Taliban in 1999]]></title>

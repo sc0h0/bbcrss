@@ -1,4 +1,4 @@
-1. [Nature: Rattlesnakes rapid sound switch fools human ears](https://www.bbc.co.uk/news/science-environment-58270599) - Rattlesnakes have evolved a clever method of convincing humans that danger is closer than you think.
+1. [Nature: Rattlesnakes' rapid sound switch fools human ears](https://www.bbc.co.uk/news/science-environment-58270599) - Rattlesnakes have evolved a clever method of convincing humans that danger is closer than you think.
 2. [CFC ban bought time to fight climate change - scientists](https://www.bbc.co.uk/news/science-environment-58248725) - A global treaty banning ozone-depleting chemicals in 1987 may have averted a climate catastrophe today.
 3. [Reared curlews act like wild counterparts after release in Norfolk](https://www.bbc.co.uk/news/uk-england-norfolk-58267090) - Tracking devices show movements of curlew after their release into the wild.
 4. [US lab stands on threshold of key nuclear fusion goal](https://www.bbc.co.uk/news/science-environment-58252784) - A US science institute is on the verge of achieving a longstanding goal in nuclear fusion research.
