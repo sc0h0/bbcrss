@@ -11,7 +11,7 @@
 11. [Afghanistan: What's the impact of Taliban's return on international order?](https://www.bbc.co.uk/news/world-us-canada-58248864) - What is the diplomatic fallout and how allies and rivals are looking at the US following the Taliban takeover?
 12. [Covid: Australia's Qantas says all staff must be vaccinated](https://www.bbc.co.uk/news/business-58239790) - The announcement came as New South Wales reported its biggest daily rise in coronavirus infections.
 13. [Sunanda Pushkar case: Shashi Tharoor cleared of wife's murder](https://www.bbc.co.uk/news/world-asia-india-58253494) - Police had charged Shashi Tharoor of aiding his wife Sunanda Pushkar's suicide in 2014.
-14. [What is Sharia law? What does it mean for women in Afghanistan?](https://www.bbc.co.uk/news/world-27307249) - The Taliban say they will govern Afghanistan according to the Islamic code known as Sharia.
+14. [What is Sharia law? What does it mean for women in Afghanistan?](https://www.bbc.co.uk/news/world-27307249) - The Taliban say they will govern Afghanistan according to Sharia, or Islamic law
 15. [Uncertain times ahead for Afghan women](https://www.bbc.co.uk/news/world-asia-58244017) - After the Taliban takeover, it is not yet clear how women will fare with the militants in power.
 16. [Afghanistan: Will it become haven for terror with the Taliban in power?](https://www.bbc.co.uk/news/world-asia-58232041) - The Taliban are back, 20 years after being ousted for supporting terror groups. Will they do the same?
 17. [There and back again: The epic adventures of China's wandering elephants](https://www.bbc.co.uk/news/world-asia-china-58196663) - After a mammoth journey across the country the pack of pachyderms are finally heading home.
