@@ -7,7 +7,7 @@
 7. [Kabul evacuation: No planes leaving empty says UK defence secretary](https://www.bbc.co.uk/news/uk-58266555) - Defence Secretary Ben Wallace says "every hour counts", with up to 10 flights leaving every day.
 8. [Washington DC: Man arrested over bomb threat near US Capitol](https://www.bbc.co.uk/news/world-us-canada-58273778) - US Capitol Police had been negotiating with the driver of a suspicious vehicle on Capitol Hill.
 9. [Nicole Kidman reportedly enters Hong Kong quarantine-free](https://www.bbc.co.uk/news/world-asia-58270417) - Hong Kong media say the Australian star was seen out and about in the city two days after arriving.
-10. [Blue singer Lee Ryan tells court he cannot afford £1,500 fine](https://www.bbc.co.uk/news/uk-england-cambridgeshire-58274941) - The 37-year-old singer was banned from driving for 12 months and given a fine.
+10. [Blue singer Lee Ryan tells court he cannot afford £1,500 fine](https://www.bbc.co.uk/news/uk-england-cambridgeshire-58274941) - The 38-year-old singer was banned from driving for 12 months and given a fine.
 11. [Stuart Lubbock: Suspect in murder case released without charge](https://www.bbc.co.uk/news/uk-england-essex-58273900) - Stuart Lubbock was found unconscious at Michael Barrymore's house in 2001 and later died.
 12. [Ex-MP Jared O'Mara charged with seven counts of fraud](https://www.bbc.co.uk/news/uk-england-south-yorkshire-58272878) - Jared O'Mara is charged in relation to alleged fraudulent expenses claims, the CPS say.
 13. [Haiti earthquake: Rescue efforts continue in Les Cayes](https://www.bbc.co.uk/news/world-latin-america-58274326) - The death toll from the 7.2-magnitude quake is now over 2,000, with many still missing in towns like Les Cayes.
