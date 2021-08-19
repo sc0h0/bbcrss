@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 19 Aug 2021 13:46:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Aug 2021 14:00:35 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Belgium stabbing suspect won’t be charged over unborn baby’s death]]></title>
+            <description><![CDATA[A man in Belgium is charged with allegedly stabbing his partner, but not her unborn baby's death.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58268825</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58268825</guid>
+            <pubDate>Thu, 19 Aug 2021 13:52:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Russia names Golos monitor as 'foreign agent' ahead of election]]></title>
             <description><![CDATA[Golos has vowed to continue its work ahead of parliamentary elections in a month's time.]]></description>
@@ -56,13 +63,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-hampshire-58256386</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-hampshire-58256386</guid>
             <pubDate>Wed, 18 Aug 2021 14:15:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[BBC presenter flees French fires]]></title>
-            <description><![CDATA["It was very, very, very frightening," says Geeta Guru-Murthy.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58250658</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58250658</guid>
-            <pubDate>Tue, 17 Aug 2021 17:38:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Climate change: Does Germany produce double the UK's carbon emissions?]]></title>
@@ -121,6 +121,13 @@
             <pubDate>Tue, 17 Aug 2021 16:10:52 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[BBC presenter flees French fires]]></title>
+            <description><![CDATA["It was very, very, very frightening," says Geeta Guru-Murthy.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58250658</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58250658</guid>
+            <pubDate>Tue, 17 Aug 2021 17:38:37 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The shopkeeper saving his island from wildfires]]></title>
             <description><![CDATA[Spyros isn't a firefighter, but when his home was threatened with wildfires, he decided to take action.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-58177493</link>
@@ -133,13 +140,6 @@
             <link>https://www.bbc.co.uk/news/world-europe-58128033</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58128033</guid>
             <pubDate>Sat, 07 Aug 2021 11:40:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lukashenko: 'You can choke on your sanctions in the UK']]></title>
-            <description><![CDATA[The UK and US are tightening sanctions on Belarus, hitting economic sectors.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58150328</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58150328</guid>
-            <pubDate>Mon, 09 Aug 2021 16:52:10 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 19 Aug 2021 13:41:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Aug 2021 14:00:15 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -20,7 +20,7 @@
             <description><![CDATA[Chief medical officer Sir Michael McBride says medics face a "perfect storm" of additional pressures.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58269477</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58269477</guid>
-            <pubDate>Thu, 19 Aug 2021 12:36:05 GMT</pubDate>
+            <pubDate>Thu, 19 Aug 2021 13:57:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: Schools can continue to teach some in class bubbles]]></title>
@@ -35,6 +35,13 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58261413</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58261413</guid>
             <pubDate>Thu, 19 Aug 2021 05:41:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19: Nine more deaths and 1,963 new cases]]></title>
+            <description><![CDATA[There are currently 379 patients with Covid in NI's hospitals, down from 394 on Wednesday.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58272003</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58272003</guid>
+            <pubDate>Thu, 19 Aug 2021 13:47:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: Deaths and hospital admissions 'yet to peak']]></title>
@@ -98,13 +105,6 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58260412</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58260412</guid>
             <pubDate>Wed, 18 Aug 2021 17:02:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Apology call over killing of Eamon McDevitt in Strabane in 1971]]></title>
-            <description><![CDATA[Mr McDevitt, 28, who was deaf and could not speak, was shot by the Royal Marines in August 1971.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58262059</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58262059</guid>
-            <pubDate>Wed, 18 Aug 2021 20:02:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: Relaxation of NI self-isolation comes in effect]]></title>
@@ -240,6 +240,13 @@
             <pubDate>Mon, 16 Aug 2021 11:55:17 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Irish government to evacuate 36 citizens from Afghanistan]]></title>
+            <description><![CDATA[Three Irish citizens have been evacuated from the country so far, Ireland's foreign minister says.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58269484</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58269484</guid>
+            <pubDate>Thu, 19 Aug 2021 13:57:52 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Jack Woolley: Irish Olympian awaiting surgery after Dublin attack]]></title>
             <description><![CDATA[Irish Olympian Jack Woolley is awaiting surgery after being violently attacked in Dublin on Friday night.]]></description>
             <link>https://www.bbc.co.uk/sport/taekwondo/58216169</link>
@@ -266,13 +273,6 @@
             <link>https://www.bbc.co.uk/news/world-europe-58195768</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58195768</guid>
             <pubDate>Thu, 12 Aug 2021 23:08:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Climate change: Ireland getting warmer and wetter]]></title>
-            <description><![CDATA[The Status of Ireland Climate 2020 report also shows that sea levels around the coast are rising.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58184287</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58184287</guid>
-            <pubDate>Thu, 12 Aug 2021 14:44:34 GMT</pubDate>
         </item>
     </channel>
 </rss>

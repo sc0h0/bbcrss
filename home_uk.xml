@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 19 Aug 2021 13:46:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Aug 2021 14:01:22 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -30,13 +30,6 @@
             <pubDate>Thu, 19 Aug 2021 11:22:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Afghanistan crisis: 'Many here will be deeply fearful for their future']]></title>
-            <description><![CDATA[The BBC's Secunder Kermani reports from the heart of Kabul during the unfolding crisis in Afghanistan.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58262874</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58262874</guid>
-            <pubDate>Wed, 18 Aug 2021 16:51:17 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Plymouth shooting: Gunman argued with mum before attack]]></title>
             <description><![CDATA[The five victims, including a father and daughter out walking their dog, were killed in Plymouth.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-devon-58260590</link>
@@ -44,18 +37,11 @@
             <pubDate>Thu, 19 Aug 2021 13:00:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[NHS Covid app 'pings' fall after changes]]></title>
-            <description><![CDATA[The data covers the first full week since changes to the app were made to mean it notifies fewer contacts.]]></description>
-            <link>https://www.bbc.co.uk/news/technology-58165482</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-58165482</guid>
-            <pubDate>Thu, 19 Aug 2021 11:50:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NHS Wales: Waiting times hit record levels]]></title>
-            <description><![CDATA[Numbers waiting for hospital treatment hit record levels and A&E waiting times are the worst on record.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-58267774</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58267774</guid>
-            <pubDate>Thu, 19 Aug 2021 13:04:09 GMT</pubDate>
+            <title><![CDATA[Nicole Kidman reportedly enters Hong Kong quarantine-free]]></title>
+            <description><![CDATA[Hong Kong media say the Australian star was seen out and about in the city two days after arriving.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58270417</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58270417</guid>
+            <pubDate>Thu, 19 Aug 2021 12:54:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Denis Law: Man Utd and Scotland legend diagnosed with dementia]]></title>
@@ -65,11 +51,25 @@
             <pubDate>Thu, 19 Aug 2021 11:16:17 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[NHS Covid app 'pings' fall after changes]]></title>
+            <description><![CDATA[The data covers the first full week since changes to the app were made to mean it notifies fewer contacts.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-58165482</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-58165482</guid>
+            <pubDate>Thu, 19 Aug 2021 11:50:57 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Chip shortage: Toyota to cut global production by 40%]]></title>
             <description><![CDATA[The world's biggest carmaker will cut output in September, while VW warns it may have to make further cuts.]]></description>
             <link>https://www.bbc.co.uk/news/business-58266794</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58266794</guid>
             <pubDate>Thu, 19 Aug 2021 12:25:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[HMP Low Newton guard demanded sexual favours from inmates]]></title>
+            <description><![CDATA[David Whitfield is convicted of misconduct over the illicit activity with 12 women over five years.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-tyne-58268531</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-tyne-58268531</guid>
+            <pubDate>Thu, 19 Aug 2021 12:13:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: Schools can continue to teach some in class bubbles]]></title>
@@ -268,6 +268,13 @@
             <pubDate>Thu, 19 Aug 2021 12:47:40 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Afghanistan crisis: 'Many here will be deeply fearful for their future']]></title>
+            <description><![CDATA[The BBC's Secunder Kermani reports from the heart of Kabul during the unfolding crisis in Afghanistan.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58262874</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58262874</guid>
+            <pubDate>Wed, 18 Aug 2021 16:51:17 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA['All your sacrifices have just been in vain, sweetheart']]></title>
             <description><![CDATA[Families affected by the Afghan war reveal their sadness and anger at the Taliban's swift resurgence.]]></description>
             <link>https://www.bbc.co.uk/news/uk-58267755</link>
@@ -282,18 +289,18 @@
             <pubDate>Thu, 19 Aug 2021 04:52:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Afghanistan: How many asylum seekers has the UK taken in?]]></title>
-            <description><![CDATA[The UK government says it will resettle up to 20,000 Afghan refugees, but warns it will "take time".]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58245684</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58245684</guid>
-            <pubDate>Wed, 18 Aug 2021 09:08:22 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[What is Sharia law? What does it mean for women in Afghanistan?]]></title>
             <description><![CDATA[The Taliban say they will govern Afghanistan according to Sharia, or Islamic law]]></description>
             <link>https://www.bbc.co.uk/news/world-27307249</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-27307249</guid>
             <pubDate>Thu, 19 Aug 2021 13:16:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Afghanistan: How many asylum seekers has the UK taken in?]]></title>
+            <description><![CDATA[The UK government says it will resettle up to 20,000 Afghan refugees, but warns it will "take time".]]></description>
+            <link>https://www.bbc.co.uk/news/uk-58245684</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58245684</guid>
+            <pubDate>Wed, 18 Aug 2021 09:08:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Afghanistan: 'I feel lucky to leave but we must not forget those left behind']]></title>

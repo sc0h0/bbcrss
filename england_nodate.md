@@ -1,6 +1,6 @@
 1. [Plymouth shooting: Gunman argued with mum before attack](https://www.bbc.co.uk/news/uk-england-devon-58260590) - The five victims, including a father and daughter out walking their dog, were killed in Plymouth.
 2. [Boy, five, was hotel window fall victim](https://www.bbc.co.uk/news/uk-england-south-yorkshire-58269533) - The boy's death at a hotel in the city centre is not being treated as suspicious, police say.
-3. [Prison guard demanded sexual favours from inmates](https://www.bbc.co.uk/news/uk-england-tyne-58268531) - David Whitfield is convicted of misconduct over the activity, which lasted five years.
+3. [Prison guard demanded sexual favours from inmates](https://www.bbc.co.uk/news/uk-england-tyne-58268531) - David Whitfield is convicted of misconduct over the illicit activity with 12 women over five years.
 4. [Esther Dingley: Hiker's ashes to be spread in places she loved](https://www.bbc.co.uk/news/uk-england-tyne-58269737) - Esther Dingley's remains were found by her boyfriend nine months after she vanished in the Pyrenees.
 5. [Woman denies killing son by not managing his asthma](https://www.bbc.co.uk/news/uk-england-birmingham-58269840) - Laura Heath also denies child cruelty charges following the death of her boy Hakeem Hussain, seven.
 6. [Eileen Barrott murder: Husband detained in Scotland](https://www.bbc.co.uk/news/uk-england-leeds-58266900) - Police have been searching for 54-year-old Mark Barrott since Mrs Barrott's death on Sunday.
