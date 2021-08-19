@@ -17,4 +17,3 @@
 17. ['Quicker, faster, better!' - Thompson-Herah's 'double-double'](https://www.bbc.co.uk/sport/av/olympics/58075391) - Elaine Thompson-Herah confirms her place among the pantheon of sprint greats as she completes an Olympic 100m-200m double for the second time with a sensational victory in Tokyo.
 18. [Covid vaccines: Tourists head to the US to get vaccinated](https://www.bbc.co.uk/news/world-us-canada-58004253) - Some tourists are spending thousands of dollars to travel to the US to get a coronavirus vaccine.
 19. [Petrol bombs thrown at Cuban embassy in Paris](https://www.bbc.co.uk/news/world-57995485) - Cuba's foreign ministry has released surveillance footage of the attack at its embassy in France.
-20. [Dust devil almost takes out football players at match in Bolivia](https://www.bbc.co.uk/news/world-latin-america-57927943) - The whirlwind, often mistaken for a tornado, came as a shock but appeared to cause no damage in Bolivia.

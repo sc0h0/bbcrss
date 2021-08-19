@@ -1,5 +1,5 @@
-1. [Covid-19: Ulster University asks students and staff about vaccine status](https://www.bbc.co.uk/news/uk-northern-ireland-58261413) - An anonymous survey on Covid-19 vaccines has been sent to UU's 27,000 students and 2,600 staff.
-2. [Covid-19: Schools can continue to teach some in class bubbles](https://www.bbc.co.uk/news/uk-northern-ireland-58262835) - It is despite the executive deciding earlier in August that schools no longer had to use bubbles.
+1. [Covid-19: Schools can continue to teach some in class bubbles](https://www.bbc.co.uk/news/uk-northern-ireland-58262835) - It is despite the executive deciding earlier in August that schools no longer had to use bubbles.
+2. [Covid-19: Ulster University asks students about vaccine status](https://www.bbc.co.uk/news/uk-northern-ireland-58261413) - An anonymous survey on Covid-19 vaccines has been sent to UU's 27,000 students and 2,600 staff.
 3. [Covid-19: Deaths and hospital admissions 'yet to peak'](https://www.bbc.co.uk/news/uk-northern-ireland-58262657) - A further 11 Covid-related deaths were recorded in Northern Ireland on Wednesday.
 4. [NI house prices 9% higher than same period last year](https://www.bbc.co.uk/news/uk-northern-ireland-58256311) - House prices in Northern Ireland from March to June were 9% higher than the same time last year.
 5. [Strangford: Ferry fumes 'a risk to health' of staff and passengers](https://www.bbc.co.uk/news/uk-northern-ireland-58257165) - Staff working on the Strangford II vessel reported dizziness, headaches and chest conditions.
