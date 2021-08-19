@@ -3,7 +3,7 @@
 3. [Afghanistan crisis: 'Many here will be deeply fearful for their future'](https://www.bbc.co.uk/news/world-asia-58262874) - The BBC's Secunder Kermani reports from the heart of Kabul during the unfolding crisis in Afghanistan.
 4. [Plymouth shooting: Gunman argued with mum before attack](https://www.bbc.co.uk/news/uk-england-devon-58260590) - The five victims, including a father and daughter out walking their dog, were killed in Plymouth.
 5. [NHS Covid app 'pings' fall after changes](https://www.bbc.co.uk/news/technology-58165482) - The data covers the first full week since changes to the app were made to mean it notifies fewer contacts.
-6. [NHS Wales: Waiting times hit record levels](https://www.bbc.co.uk/news/uk-wales-58267774) - Waiting lists have grown again to hit record levels while A&E units report their worst waiting times.
+6. [NHS Wales: Waiting times hit record levels](https://www.bbc.co.uk/news/uk-wales-58267774) - Numbers waiting for hospital treatment hit record levels and A&E waiting times are the worst on record.
 7. [Denis Law: Man Utd and Scotland legend diagnosed with dementia](https://www.bbc.co.uk/sport/football/58268041) - Scotland legend and former Manchester United forward Denis Law is diagnosed with dementia.
 8. [Chip shortage: Toyota to cut global production by 40%](https://www.bbc.co.uk/news/business-58266794) - The world's biggest carmaker will cut output in September, while VW warns it may have to make further cuts.
 9. [Covid-19: Schools can continue to teach some in class bubbles](https://www.bbc.co.uk/news/uk-northern-ireland-58262835) - It is despite the executive deciding earlier in August that schools no longer had to use bubbles.
@@ -33,7 +33,7 @@
 33. [Yorkshire admit former player Rafiq victim of 'inappropriate behaviour'](https://www.bbc.co.uk/sport/cricket/58269449) - Yorkshire admit former player Azeem Rafiq was "the victim of inappropriate behaviour" and offer him their "profound apologies".
 34. [Osaka felt 'ungrateful' for not being able to appreciate success](https://www.bbc.co.uk/sport/tennis/58264090) - Naomi Osaka says she felt "ungrateful" at points in the last year for being unable to appreciate her success.
 35. [Tymal Mills: Southern Brave bowler who could step into England's T20 World Cup squad](https://www.bbc.co.uk/sport/cricket/58218715) - Why Southern Brave bowler Tymal Mills could be England's replacement for Jofra Archer in the T20 World Cup this autumn.
-36. [Briton describes airport dash to flee Kabul](https://www.bbc.co.uk/news/uk-58266554) - A London councillor recounts fleeing the Afghan capital after the Taliban takeover this week.
+36. [UK woman tells of airport dash to flee Kabul](https://www.bbc.co.uk/news/uk-58266554) - A councillor who was visiting family in the country she had left aged three tells of her evacuation.
 37. ['All your sacrifices have just been in vain, sweetheart'](https://www.bbc.co.uk/news/uk-58267755) - Families affected by the Afghan war reveal their sadness and anger at the Taliban's swift resurgence.
 38. [Afghan interpreter who worked for UK begs PM for help](https://www.bbc.co.uk/news/uk-58264397) - Ahmed, who fears Taliban reprisals, is desperate for him and his family to be evacuated from Kabul.
 39. [Afghanistan: How many asylum seekers has the UK taken in?](https://www.bbc.co.uk/news/uk-58245684) - The UK government says it will resettle up to 20,000 Afghan refugees, but warns it will "take time".

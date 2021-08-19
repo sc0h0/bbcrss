@@ -1,6 +1,6 @@
 1. [Tigray crisis: Ethiopian teenagers become pawns in propaganda war](https://www.bbc.co.uk/news/world-africa-58189395) - The BBC is told they were forced to fight for Tigray's rebels, but were words put into their mouths?
 2. [Algeria: The forest fires that led to an artist's lynching](https://www.bbc.co.uk/news/world-africa-58260855) - When Djamel Ben Ismail went to fight forest fires in Algeria, his life was cut short by a raging mob.
-3. [The South African standing up to gangs in style](https://www.bbc.co.uk/news/world-africa-58267814) - A South African entrepreneur's brand, AntiGang, is taking a stand against gang-related activity.
+3. [South African entrepreneur builds a brand against gangsterism](https://www.bbc.co.uk/news/world-africa-58267814) - Roemello Shembe, 21, is building a business in one of Johannesburg’s most challenging townships.
 4. [How latte art in South Africa led to a job from hell in Oman](https://www.bbc.co.uk/news/world-africa-57990393) - A South African barista was offered a dream opportunity in Oman but unknowingly signed away his freedoms.
 5. [Nigeria's Kano state moves to ban mannequin heads on Islamic grounds](https://www.bbc.co.uk/news/world-africa-58175709) - The Islamic police in Kano, Nigeria, say shop dummies with heads symbolise "idolatry" and are banned.
 6. [Ethiopia: What do we know about aid going into Tigray?](https://www.bbc.co.uk/news/58189049) - Who's preventing desperately needed aid supplies reaching Ethiopia's Tigray region?
