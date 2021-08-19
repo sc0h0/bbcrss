@@ -9,7 +9,7 @@
 9. [Covid: All 16 and 17-year-olds in Wales to get jab offer](https://www.bbc.co.uk/news/uk-wales-58256533) - Anyone who has not yet taken up the offer of a vaccine is encouraged to do so.
 10. [Man in court over alleged racist and anti-Semitic podcasts](https://www.bbc.co.uk/news/uk-wales-58259556) - James Allchurch pleads not guilty to distributing recordings intending to stir up racial hated.
 11. [Man who died after Glynneath waterfall difficulties named](https://www.bbc.co.uk/news/uk-wales-58258786) - Hemanta Kumar Rai, 28, had been at the fall with friends and died at the scene.
-12. [Porthcawl: Off-duty police officer found missing man in ditch](https://www.bbc.co.uk/news/uk-wales-58262831) - PC Amy Rowlands found the dementia patient 30 hours after he was reported missing.
+12. [Porthcawl: Off-duty police officer found missing man in ditch](https://www.bbc.co.uk/news/uk-wales-58262831) - PC Amy Rowlands found the dementia patient 30 hours after he was reported missing from his care home.
 13. [Plaid's ex-leader has not been friends with successor for years](https://www.bbc.co.uk/news/uk-wales-politics-58259557) - Leanne Wood says she thinks Adam Price went about his Plaid leadership challenge the wrong way.
 14. [Afghanistan: Activists call for Wales to take more refugees](https://www.bbc.co.uk/news/uk-wales-58263960) - Campaigners take to the streets of Cardiff to welcome Afghan refugees to the Welsh capital.
 15. [Afghanistan: Man who fled Taliban fears for family](https://www.bbc.co.uk/news/uk-wales-58248562) - Mohammed has not been able to contact his relatives since the Taliban seized control of Afghanistan.
