@@ -1,5 +1,5 @@
 1. [Plymouth shooting: Gunman argued with mum before attack](https://www.bbc.co.uk/news/uk-england-devon-58260590) - The five victims, including a father and daughter out walking their dog, were killed in Plymouth.
-2. [Sheffield hotel fall: Boy who died was Afghan refugee](https://www.bbc.co.uk/news/uk-england-south-yorkshire-58269533) - Five-year-old Mohammed Munib Majeedi and his family arrived in the UK just two weeks ago.
+2. [Sheffield hotel fall: Boy who died was Afghan refugee](https://www.bbc.co.uk/news/uk-england-south-yorkshire-58269533) - Five-year-old Mohammed Munib Majeedi and his family arrived in the UK two weeks ago.
 3. [Prison guard demanded sexual favours from inmates](https://www.bbc.co.uk/news/uk-england-tyne-58268531) - David Whitfield is jailed over the illicit activity with 12 women over five years.
 4. [Blue singer Lee Ryan banned from driving for speeding](https://www.bbc.co.uk/news/uk-england-cambridgeshire-58274941) - The 37-year-old singer tells the court he has run out of money and cannot pay the fine.
 5. [Ex-MP Jared O'Mara charged with seven counts of fraud](https://www.bbc.co.uk/news/uk-england-south-yorkshire-58272878) - Jared O'Mara is charged in relation to alleged fraudulent expenses claims, the CPS say.
@@ -25,3 +25,4 @@
 25. [Azeem Rafiq accuses Yorkshire of downplaying racism by calling him the victim of 'inappropriate behaviour'](https://www.bbc.co.uk/sport/cricket/58272607) - Former player Azeem Rafiq accuses Yorkshire of downplaying racism by calling him the victim of "inappropriate behaviour".
 26. [Lucy Bronze: Manchester City and England defender has knee surgery](https://www.bbc.co.uk/sport/football/58250277) - England and Manchester City defender Lucy Bronze has knee surgery and begins her recovery for the new WSL season.
 27. [James Ward-Prowse: Southampton captain signs new five-year deal](https://www.bbc.co.uk/sport/football/58274792) - Southampton captain James Ward-Prowse commits his long-term future to the club by signing a new five-year deal.
+28. [Patrick Bamford: Leeds United striker signs new five-year contract](https://www.bbc.co.uk/sport/football/58268416) - Leeds United striker Patrick Bamford signs a new deal to commit him to the club until 2026.

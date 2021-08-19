@@ -1,5 +1,5 @@
 1. [Chip shortage: Toyota to cut global production by 40%](https://www.bbc.co.uk/news/business-58266794) - The world's biggest carmaker will cut output in September, while VW warns it may have to make further cuts.
-2. [Amazon 'planning to open department stores in US'](https://www.bbc.co.uk/news/business-58274458) - The e-commerce giant reportedly wants to branch further into High Street retail by opening several big stores.
+2. [Amazon 'planning to open department stores in US'](https://www.bbc.co.uk/news/business-58274458) - According to reports, the e-commerce giant wants to branch further into High Street retail by opening several big stores.
 3. [Car use back to levels seen before first lockdown](https://www.bbc.co.uk/news/business-58274806) - The data is likely to intensify debate about how to get people out of vehicles and on to public transport.
 4. [Stock markets slide on 'cocktail of worries'](https://www.bbc.co.uk/news/business-58262203) - Shares and oil prices fall as investors take fright over economic concerns, Covid and the Taliban.
 5. [FTSE bosses earn 86 times more than average worker in 2020](https://www.bbc.co.uk/news/business-58262202) - The bosses of Britain's biggest public companies earned 86 times the average full-time wage last year.
