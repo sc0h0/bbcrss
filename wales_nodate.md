@@ -1,13 +1,13 @@
-1. [Bridgend mother in court charged with murder of her two-year-old son](https://www.bbc.co.uk/news/uk-wales-58260646) - Natalie Steele has been charged with the murder of two-year-old Reid Steele.
-2. [Covid: Hotel thought prom-goers had negative tests before spike](https://www.bbc.co.uk/news/uk-wales-58269876) - More than 50 positive cases are linked to a Year 11 graduation party at a hotel.
+1. [Covid: Hotel thought prom-goers had negative tests before spike](https://www.bbc.co.uk/news/uk-wales-58269876) - More than 50 positive cases are linked to a Year 11 graduation party at a hotel.
+2. [Bridgend mother in court charged with murder of her two-year-old son](https://www.bbc.co.uk/news/uk-wales-58260646) - Natalie Steele has been charged with the murder of two-year-old Reid Steele.
 3. [Green Man: Tears and joy as festival returns against Covid odds](https://www.bbc.co.uk/news/uk-wales-58267969) - Tickets for the festival sold out in minutes back in May, despite Covid uncertainty.
 4. [NHS Wales: Waiting times hit record levels](https://www.bbc.co.uk/news/uk-wales-58267774) - Numbers waiting for hospital treatment hit record levels and A&E waiting times are the worst on record.
 5. [DVLA: Apology over continuing driving licence renewal delays](https://www.bbc.co.uk/news/uk-wales-58266532) - Industrial action and social distancing requirements have led to continuing delays, says the DVLA.
 6. [Climate change: Families in Wales urged to plant more trees](https://www.bbc.co.uk/news/uk-wales-58259637) - Wales' deputy climate change minister admits "we're way behind" tree-planting targets.
 7. [Covid: £551m extra funding for NHS and social care](https://www.bbc.co.uk/news/uk-wales-58259638) - The money is being allocated for ongoing costs and tackling waiting times.
 8. [Covid: Carer shortage 'biggest worry' for watchdog](https://www.bbc.co.uk/news/uk-wales-58259636) - The care watchdog says recruitment issues could threaten domiciliary services.
-9. [Merthyr Tydfil: Valium leaves one dead and another in hospital](https://www.bbc.co.uk/news/uk-wales-58262827) - Another person required hospital treatment after taking the prescription drug.
-10. [Hell's Mouth: Man drowned after saving friend's daughter](https://www.bbc.co.uk/news/uk-wales-58263956) - Stephen Hulsmeier was unresponsive when he was brought ashore, an inquest hears.
+9. [Hell's Mouth: Man drowned after saving friend's daughter](https://www.bbc.co.uk/news/uk-wales-58263956) - Stephen Hulsmeier was unresponsive when he was brought ashore, an inquest hears.
+10. [Merthyr Tydfil: Valium leaves one dead and another in hospital](https://www.bbc.co.uk/news/uk-wales-58262827) - Another person required hospital treatment after taking the prescription drug.
 11. [Man in court over alleged racist and anti-Semitic podcasts](https://www.bbc.co.uk/news/uk-wales-58259556) - James Allchurch pleads not guilty to distributing recordings intending to stir up racial hated.
 12. [Porthcawl: Off-duty police officer found missing man in ditch](https://www.bbc.co.uk/news/uk-wales-58262831) - PC Amy Rowlands found the dementia patient 30 hours after he was reported missing from his care home.
 13. [Plaid's ex-leader has not been friends with successor for years](https://www.bbc.co.uk/news/uk-wales-politics-58259557) - Leanne Wood says she thinks Adam Price went about his Plaid leadership challenge the wrong way.
