@@ -1,12 +1,12 @@
-1. [Covid: £551m extra funding for NHS and social care](https://www.bbc.co.uk/news/uk-wales-58259638) - The money is being allocated for ongoing costs and tackling waiting times.
-2. [DVLA: Five-month wait for some driving licence renewals](https://www.bbc.co.uk/news/uk-wales-58266532) - Industrial action and social distancing requirements have led to continuing delays, says the DVLA.
-3. [Climate change: Families in Wales urged to plant more trees](https://www.bbc.co.uk/news/uk-wales-58259637) - Wales' deputy climate change minister admits "we're way behind" tree-planting targets.
-4. [Covid: Carer shortage 'biggest worry' for watchdog](https://www.bbc.co.uk/news/uk-wales-58259636) - The care watchdog says recruitment issues could threaten domiciliary services.
-5. [Bridgend: Mother charged with murder of son, 2](https://www.bbc.co.uk/news/uk-wales-58250140) - Reid Steele died in hospital after being found in a critical condition at a house in Bridgend.
+1. [NHS Wales: Waiting times hit record levels](https://www.bbc.co.uk/news/uk-wales-58267774) - Waiting lists have grown again to hit record levels while A&E units report their worst waiting times.
+2. [Covid: £551m extra funding for NHS and social care](https://www.bbc.co.uk/news/uk-wales-58259638) - The money is being allocated for ongoing costs and tackling waiting times.
+3. [DVLA: Five-month wait for some driving licence renewals](https://www.bbc.co.uk/news/uk-wales-58266532) - Industrial action and social distancing requirements have led to continuing delays, says the DVLA.
+4. [Climate change: Families in Wales urged to plant more trees](https://www.bbc.co.uk/news/uk-wales-58259637) - Wales' deputy climate change minister admits "we're way behind" tree-planting targets.
+5. [Covid: Carer shortage 'biggest worry' for watchdog](https://www.bbc.co.uk/news/uk-wales-58259636) - The care watchdog says recruitment issues could threaten domiciliary services.
 6. [Merthyr Tydfil: Valium leaves one dead and another in hospital](https://www.bbc.co.uk/news/uk-wales-58262827) - Another person required hospital treatment after taking the prescription drug.
-7. [Hell's Mouth: Man drowned after saving friend's daughter](https://www.bbc.co.uk/news/uk-wales-58263956) - Stephen Hulsmeier was unresponsive when he was brought ashore, an inquest hears.
-8. [Porthcawl dementia patient missing for 30 hours found in ditch](https://www.bbc.co.uk/news/uk-wales-58254835) - Joseph Hughes was found by an off-duty officer named Amy after going missing from his care home.
-9. [Plaid Cymru: Ex-leader no longer friends with successor](https://www.bbc.co.uk/news/uk-wales-politics-58159654) - Leanne Wood says Adam Price made "a bad judgement call" in the timing of his leadership challenge.
+7. [Bridgend: Mother charged with murder of son, 2](https://www.bbc.co.uk/news/uk-wales-58250140) - Reid Steele died in hospital after being found in a critical condition at a house in Bridgend.
+8. [Hell's Mouth: Man drowned after saving friend's daughter](https://www.bbc.co.uk/news/uk-wales-58263956) - Stephen Hulsmeier was unresponsive when he was brought ashore, an inquest hears.
+9. [Porthcawl dementia patient missing for 30 hours found in ditch](https://www.bbc.co.uk/news/uk-wales-58254835) - Joseph Hughes was found by an off-duty officer named Amy after going missing from his care home.
 10. [Covid: All 16 and 17-year-olds in Wales to get jab offer](https://www.bbc.co.uk/news/uk-wales-58256533) - Anyone who has not yet taken up the offer of a vaccine is encouraged to do so.
 11. [Man in court over alleged racist and anti-Semitic podcasts](https://www.bbc.co.uk/news/uk-wales-58259556) - James Allchurch pleads not guilty to distributing recordings intending to stir up racial hated.
 12. [Porthcawl: Off-duty police officer found missing man in ditch](https://www.bbc.co.uk/news/uk-wales-58262831) - PC Amy Rowlands found the dementia patient 30 hours after he was reported missing from his care home.

@@ -1,5 +1,5 @@
 1. [Eileen Barrott murder: Husband detained in Scotland](https://www.bbc.co.uk/news/uk-england-leeds-58266900) - Police have been searching for 54-year-old Mark Barrott since Mrs Barrott's death on Sunday.
-2. [Plymouth shooting: Five victims 'died from shotgun wounds'](https://www.bbc.co.uk/news/uk-england-devon-58260590) - The five victims died in a mass shooting in Plymouth.
+2. [Plymouth shooting: Victims died from gunshot wounds](https://www.bbc.co.uk/news/uk-england-devon-58260590) - The five victims died in a mass shooting in Plymouth.
 3. [New investigation into rapist paramedic](https://www.bbc.co.uk/news/uk-england-cambridgeshire-58206031) - Andrew Wheeler, who raped a patient in her own home, is serving a 21-year jail term for sex attacks.
 4. [Banksy: What do we know about the anonymous artist?](https://www.bbc.co.uk/news/uk-england-bristol-50249349) - The graffiti artist Banksy is world famous, but his true identity remains unknown.
 5. [Boy dies falling from Sheffield hotel window](https://www.bbc.co.uk/news/uk-england-south-yorkshire-58262259) - The boy, aged under 10, fell from the OYO Sheffield Metropolitan Hotel, police say.
@@ -28,4 +28,4 @@
 28. [West Brom thump Blades to go top of Championship](https://www.bbc.co.uk/sport/football/58168104) - West Bromwich Albion hammer Sheffield United at The Hawthorns to go top of the Championship.
 29. [Hull City 0-1 Derby County: Sam Baldock scores winner on Rams debut](https://www.bbc.co.uk/sport/football/58168106) - A second-half goal from debutant Sam Baldock helps Derby County win their first Championship game of the season at Hull City.
 30. [Rugby league 'dead' without a new concept, says Hull FC owner Adam Pearson](https://www.bbc.co.uk/sport/rugby-league/58264373) - Hull FC owner Adam Pearson says rugby league will be "dead" if the game does not relaunch with a new concept.
-31. [Middlesbrough 2-3 Queens Park Rangers: Visitors win see-saw contest with 10 men](https://www.bbc.co.uk/sport/football/58168107) - QPR hold on with 10 men to win a thrilling five-goal game against Middlesbrough thanks to Chris Willock's winner.
+31. [Harvey Barnes signs new Leicester City contract to 2025](https://www.bbc.co.uk/sport/football/58268411) - Leicester City winger Harvey Barnes signs a new deal to commit him to the club until 2025.
