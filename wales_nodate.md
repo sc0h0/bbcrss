@@ -1,14 +1,14 @@
 1. [Bridgend mother in court charged with murder of her two-year-old son](https://www.bbc.co.uk/news/uk-wales-58260646) - Natalie Steele has been charged with the murder of two-year-old Reid Steele.
-2. [NHS Wales: Waiting times hit record levels](https://www.bbc.co.uk/news/uk-wales-58267774) - Waiting lists have grown again to hit record levels while A&E units report their worst waiting times.
-3. [Covid: £551m extra funding for NHS and social care](https://www.bbc.co.uk/news/uk-wales-58259638) - The money is being allocated for ongoing costs and tackling waiting times.
-4. [DVLA: Five-month wait for some driving licence renewals](https://www.bbc.co.uk/news/uk-wales-58266532) - Industrial action and social distancing requirements have led to continuing delays, says the DVLA.
-5. [Climate change: Families in Wales urged to plant more trees](https://www.bbc.co.uk/news/uk-wales-58259637) - Wales' deputy climate change minister admits "we're way behind" tree-planting targets.
-6. [Covid: Carer shortage 'biggest worry' for watchdog](https://www.bbc.co.uk/news/uk-wales-58259636) - The care watchdog says recruitment issues could threaten domiciliary services.
-7. [Merthyr Tydfil: Valium leaves one dead and another in hospital](https://www.bbc.co.uk/news/uk-wales-58262827) - Another person required hospital treatment after taking the prescription drug.
-8. [Hell's Mouth: Man drowned after saving friend's daughter](https://www.bbc.co.uk/news/uk-wales-58263956) - Stephen Hulsmeier was unresponsive when he was brought ashore, an inquest hears.
-9. [Porthcawl dementia patient missing for 30 hours found in ditch](https://www.bbc.co.uk/news/uk-wales-58254835) - Joseph Hughes was found by an off-duty officer named Amy after going missing from his care home.
-10. [Man in court over alleged racist and anti-Semitic podcasts](https://www.bbc.co.uk/news/uk-wales-58259556) - James Allchurch pleads not guilty to distributing recordings intending to stir up racial hated.
-11. [Covid: All 16 and 17-year-olds in Wales to get jab offer](https://www.bbc.co.uk/news/uk-wales-58256533) - Anyone who has not yet taken up the offer of a vaccine is encouraged to do so.
+2. [Green Man: Tears and joy as festival returns against Covid odds](https://www.bbc.co.uk/news/uk-wales-58267969) - Tickets for the festival sold out in minutes back in May, despite Covid uncertainty.
+3. [NHS Wales: Waiting times hit record levels](https://www.bbc.co.uk/news/uk-wales-58267774) - Waiting lists have grown again to hit record levels while A&E units report their worst waiting times.
+4. [Covid: £551m extra funding for NHS and social care](https://www.bbc.co.uk/news/uk-wales-58259638) - The money is being allocated for ongoing costs and tackling waiting times.
+5. [DVLA: Apology over continuing driving licence renewal delays](https://www.bbc.co.uk/news/uk-wales-58266532) - Industrial action and social distancing requirements have led to continuing delays, says the DVLA.
+6. [Climate change: Families in Wales urged to plant more trees](https://www.bbc.co.uk/news/uk-wales-58259637) - Wales' deputy climate change minister admits "we're way behind" tree-planting targets.
+7. [Covid: Carer shortage 'biggest worry' for watchdog](https://www.bbc.co.uk/news/uk-wales-58259636) - The care watchdog says recruitment issues could threaten domiciliary services.
+8. [Merthyr Tydfil: Valium leaves one dead and another in hospital](https://www.bbc.co.uk/news/uk-wales-58262827) - Another person required hospital treatment after taking the prescription drug.
+9. [Hell's Mouth: Man drowned after saving friend's daughter](https://www.bbc.co.uk/news/uk-wales-58263956) - Stephen Hulsmeier was unresponsive when he was brought ashore, an inquest hears.
+10. [Porthcawl dementia patient missing for 30 hours found in ditch](https://www.bbc.co.uk/news/uk-wales-58254835) - Joseph Hughes was found by an off-duty officer named Amy after going missing from his care home.
+11. [Man in court over alleged racist and anti-Semitic podcasts](https://www.bbc.co.uk/news/uk-wales-58259556) - James Allchurch pleads not guilty to distributing recordings intending to stir up racial hated.
 12. [Porthcawl: Off-duty police officer found missing man in ditch](https://www.bbc.co.uk/news/uk-wales-58262831) - PC Amy Rowlands found the dementia patient 30 hours after he was reported missing from his care home.
 13. [Plaid's ex-leader has not been friends with successor for years](https://www.bbc.co.uk/news/uk-wales-politics-58259557) - Leanne Wood says she thinks Adam Price went about his Plaid leadership challenge the wrong way.
 14. [Afghanistan: Activists call for Wales to take more refugees](https://www.bbc.co.uk/news/uk-wales-58263960) - Campaigners take to the streets of Cardiff to welcome Afghan refugees to the Welsh capital.

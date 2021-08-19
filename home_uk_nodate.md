@@ -1,9 +1,9 @@
 1. [Kabul evacuation: No planes leaving empty says UK defence secretary](https://www.bbc.co.uk/news/uk-58266555) - Defence Secretary Ben Wallace says "every hour counts", with up to 10 flights leaving every day.
 2. [Boris Johnson urged to sack foreign secretary over Afghan interpreters](https://www.bbc.co.uk/news/uk-58265160) - The foreign secretary is under fire for not personally asking for help to evacuate interpreters.
 3. [Afghanistan crisis: 'Many here will be deeply fearful for their future'](https://www.bbc.co.uk/news/world-asia-58262874) - The BBC's Secunder Kermani reports from the heart of Kabul during the unfolding crisis in Afghanistan.
-4. [Afghanistan crisis: Biden says US troops may stay past withdrawal deadline](https://www.bbc.co.uk/news/world-asia-58264917) - The US president says the chaos in Afghanistan was unavoidable and refuses to acknowledge any mistakes.
-5. [NHS Wales: Waiting times hit record levels](https://www.bbc.co.uk/news/uk-wales-58267774) - Waiting lists have grown again to hit record levels while A&E units report their worst waiting times.
-6. [Plymouth shooting: Victims died from shotgun wounds](https://www.bbc.co.uk/news/uk-england-devon-58260590) - The five victims, including a father and daughter out walking their dog, were killed a week ago.
+4. [Plymouth shooting: Victims died from shotgun wounds](https://www.bbc.co.uk/news/uk-england-devon-58260590) - The five victims, including a father and daughter out walking their dog, were killed a week ago.
+5. [Afghanistan crisis: Biden says US troops may stay past withdrawal deadline](https://www.bbc.co.uk/news/world-asia-58264917) - The US president says the chaos in Afghanistan was unavoidable and refuses to acknowledge any mistakes.
+6. [NHS Wales: Waiting times hit record levels](https://www.bbc.co.uk/news/uk-wales-58267774) - Waiting lists have grown again to hit record levels while A&E units report their worst waiting times.
 7. [Covid vaccines still effective against Delta variant](https://www.bbc.co.uk/news/health-58257863) - But the jabs were more effective against the Alpha variant, the largest study of its kind suggests.
 8. [PCR testing ‘rip-off’: Watchdog warned government in April](https://www.bbc.co.uk/news/business-58263523) - The Competition and Markets Authority hits back at claims it was slow to react to consumers' concerns.
 9. [Wildfires rage across Europe](https://www.bbc.co.uk/news/world-58257998) - A look at some of the fires spreading across Europe - and the rest of the globe.
