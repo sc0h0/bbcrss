@@ -1,5 +1,5 @@
 1. [Eileen Barrott murder: Husband detained in Scotland](https://www.bbc.co.uk/news/uk-england-leeds-58266900) - Police have been searching for 54-year-old Mark Barrott since Mrs Barrott's death on Sunday.
-2. [Plymouth shooting: Inquests open into deaths of victims](https://www.bbc.co.uk/news/uk-england-devon-58260590) - Five people killed in a mass shooting in Plymouth died from shotgun wounds, a coroner hears.
+2. [Plymouth shooting: Five victims 'died from shotgun wounds'](https://www.bbc.co.uk/news/uk-england-devon-58260590) - The five victims died in a mass shooting in Plymouth.
 3. [New investigation into rapist paramedic](https://www.bbc.co.uk/news/uk-england-cambridgeshire-58206031) - Andrew Wheeler, who raped a patient in her own home, is serving a 21-year jail term for sex attacks.
 4. [Banksy: What do we know about the anonymous artist?](https://www.bbc.co.uk/news/uk-england-bristol-50249349) - The graffiti artist Banksy is world famous, but his true identity remains unknown.
 5. [Boy dies falling from Sheffield hotel window](https://www.bbc.co.uk/news/uk-england-south-yorkshire-58262259) - The boy, aged under 10, fell from the OYO Sheffield Metropolitan Hotel, police say.
