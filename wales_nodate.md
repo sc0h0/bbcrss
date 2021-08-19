@@ -20,8 +20,8 @@
 20. [Sorba Thomas: Wales boss Robert Page monitors Huddersfield winger](https://www.bbc.co.uk/sport/football/58258631) - Wales manager Rob Page is monitoring the form of Huddersfield Town winger Sorba Thomas after confirming his eligibility.
 21. [The Hundred: London Spirit beat Welsh Fire but miss out on top-three finish](https://www.bbc.co.uk/sport/cricket/58259477) - London Spirit beat Welsh Fire in the final group game of the women's Hundred in Cardiff, but miss out on reaching the latter stages of the competition.
 22. [One-Day Cup: Unchanged Glamorgan bid for first final glory](https://www.bbc.co.uk/sport/cricket/58260614) - Glamorgan will choose from an unchanged squad as they bid for their first ever limited-overs final win in Thursday's One-Day Cup climax against Durham.
-23. [Aelod blaenllaw'n galw am newid arweinydd Plaid Cymru](https://www.bbc.co.uk/newyddion/58260766) - Cyn-Gomisiynydd Heddlu a Throsedd Plaid Cymru'n dweud ei bod yn "amser newid arweinydd" y blaid.
-24. [Cyhuddo dynes o lofruddio ei mab ym Mhen-y-bont](https://www.bbc.co.uk/newyddion/58255910) - Bu farw Reid Steele yn dilyn digwyddiad yn ardal Broadlands y dref ar 11 Awst.
-25. [Afghanistan: 'Angen gweithredu nawr' ar ailgartrefu pobl](https://www.bbc.co.uk/newyddion/58246445) - Galw ar Lywodraeth y DU i weithredu'n gyflym i roi lloches i bobl sy'n ffoi o Afghanistan.
+23. [£551m o gyllid i adfer gwasanaethau iechyd wedi Covid](https://www.bbc.co.uk/newyddion/58260765) - Cyn cyhoeddi'r ffigyrau diweddaraf am restrau aros yng Nghymru, cyllid ychwanegol i ddelio â'r broblem.
+24. ['Colli swyddi Fali am arwain at fwy o bobl i adael Môn'](https://www.bbc.co.uk/newyddion/58262456) - Pryder y bydd colli swyddi ar safle'r Awyrlu yn gorfodi mwy o bobl ifanc i adael Ynys Môn am waith.
+25. [Gweithio hybrid yn hwb, ond rhybudd am orweithio](https://www.bbc.co.uk/newyddion/58262460) - Hyblygrwydd yn cynnig cyfleon i bobl anabl, ond pryder bod mwy yn gweithio tu hwnt i oriau gwaith.
 26. [Uchafbwyntiau cwarantîn Gwenno Rees](https://www.bbc.co.uk/newyddion/58261015) - Bu'n rhaid i Gwenno hunan-ynysu mewn gwesty yn Llundain ar ôl teithio adref o Tanzania.
 27. [Sut y daeth sêr Hollywood yn berchnogion Wrecsam](https://www.bbc.co.uk/newyddion/58186778) - Yr hanes y tu ôl i Ryan Reynolds a Rob McElhenney yn prynu clwb pêl-droed hynaf Cymru.
