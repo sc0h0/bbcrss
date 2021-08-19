@@ -24,7 +24,7 @@
 24. [Algeria: The forest fires that led to an artist's lynching](https://www.bbc.co.uk/news/world-africa-58260855) - When Djamel Ben Ismail went to fight forest fires in Algeria, his life was cut short by a raging mob.
 25. [Censor: Video nasty film explores the power of horror](https://www.bbc.co.uk/news/entertainment-arts-58246426) - The film Censor, set during the 80s, delves into impact of the lurid horror movies from that era.
 26. [Tigray crisis: Ethiopian teenagers become pawns in propaganda war](https://www.bbc.co.uk/news/world-africa-58189395) - The BBC is told they were forced to fight for Tigray's rebels, but were words put into their mouths?
-27. [MPs vent their fury over Afghanistan - but what impact will it have?](https://www.bbc.co.uk/news/uk-politics-58256616) - After a year of flat debates, a full Commons chamber proved harder for the prime minister to navigate.
+27. [MPs vent their fury over Afghanistan - but what impact will it have?](https://www.bbc.co.uk/news/uk-politics-58256616) - After a year of flat debates, a full Commons proved harder for the MP to navigate, writes Jessica Parker.
 28. [Brazil hopes the world will get a taste for its favourite spirit](https://www.bbc.co.uk/news/business-58241729) - With domestic sales of cachaça falling last year, Brazilian producers want to export more.
 29. [Afghanistan: The 'pure devastation and guilt' of British-Afghans](https://www.bbc.co.uk/news/newsbeat-58242443) - We chat to young people in the UK who have family in Afghanistan, as the Taliban take control.
 30. [How latte art in South Africa led to a job from hell in Oman](https://www.bbc.co.uk/news/world-africa-57990393) - A South African barista was offered a dream opportunity in Oman but unknowingly signed away his freedoms.

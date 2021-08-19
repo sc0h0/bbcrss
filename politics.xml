@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 19 Aug 2021 07:36:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Aug 2021 07:50:02 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -23,6 +23,13 @@
             <pubDate>Thu, 19 Aug 2021 03:59:15 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Kabul evacuation: No planes leaving empty says UK defence secretary]]></title>
+            <description><![CDATA[Ben Wallace rejected reports that flights from Kabul were not busy, and said "every hour counts".]]></description>
+            <link>https://www.bbc.co.uk/news/uk-58266555</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58266555</guid>
+            <pubDate>Thu, 19 Aug 2021 07:45:22 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[MPs on all sides accuse Boris Johnson of Afghanistan failures]]></title>
             <description><![CDATA[The PM says the UK achieved its goals - but MPs accuse him of failing Afghans and British veterans.]]></description>
             <link>https://www.bbc.co.uk/news/uk-politics-58254794</link>
@@ -31,7 +38,7 @@
         </item>
         <item>
             <title><![CDATA[Boris Johnson feels MPs' anger during Afghanistan debate]]></title>
-            <description><![CDATA[After a year of flat debates, a full Commons chamber proved harder for the prime minister to navigate.]]></description>
+            <description><![CDATA[After a year of flat debates, a full Commons proved harder for the MP to navigate, writes Jessica Parker.]]></description>
             <link>https://www.bbc.co.uk/news/uk-politics-58256616</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-58256616</guid>
             <pubDate>Wed, 18 Aug 2021 19:19:14 GMT</pubDate>
@@ -51,18 +58,18 @@
             <pubDate>Wed, 18 Aug 2021 13:40:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Austin Mitchell: Former Great Grimsby MP dies aged 86]]></title>
-            <description><![CDATA[Labour leader Keir Starmer leads tributes, saying Mr Mitchell served "with remarkable commitment".]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-humber-58257189</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-humber-58257189</guid>
-            <pubDate>Wed, 18 Aug 2021 16:18:41 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Covid: Most Conservative MPs ditch masks as Commons returns]]></title>
             <description><![CDATA[Mask wearing appears to divide along party lines, during a packed debate on Afghanistan.]]></description>
             <link>https://www.bbc.co.uk/news/uk-politics-58259604</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-58259604</guid>
             <pubDate>Wed, 18 Aug 2021 20:52:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Austin Mitchell: Former Great Grimsby MP dies aged 86]]></title>
+            <description><![CDATA[Labour leader Keir Starmer leads tributes, saying Mr Mitchell served "with remarkable commitment".]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-humber-58257189</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-humber-58257189</guid>
+            <pubDate>Wed, 18 Aug 2021 16:18:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[I don't believe Taliban pledge on women's rights, Priti Patel says]]></title>
