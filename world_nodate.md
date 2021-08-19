@@ -1,7 +1,7 @@
-1. [Afghanistan crisis: Biden says no American will be left behind in Kabul](https://www.bbc.co.uk/news/world-asia-58264917) - The US president says the chaos in Afghanistan was unavoidable and refuses to acknowledge any mistakes.
+1. [Afghanistan crisis: Biden says no American will be left behind](https://www.bbc.co.uk/news/world-asia-58264917) - The US president says the chaos in Afghanistan was unavoidable and refuses to acknowledge any mistakes.
 2. [Afghanistan: Pakistan fences off from Afghan refugees](https://www.bbc.co.uk/news/world-asia-58187983) - Islamabad says it cannot accept any more Afghans fleeing Taliban rule, despite UN pleas.
 3. [IMF suspends Afghanistan's access to funds](https://www.bbc.co.uk/news/business-58263525) - The move follows the Taliban's takeover, and lack of global agreement over who now governs Afghanistan.
-4. [No help for these Haiti residents five days after earthquake](https://www.bbc.co.uk/news/world-latin-america-58264717) - Five days after the earthquake that killed almost 2,000 people, many are still waiting for help.
+4. [No help for these Haiti residents five days after earthquake](https://www.bbc.co.uk/news/world-latin-america-58264717) - Five days after the earthquake that killed more than 2,000 people, many are still waiting for help.
 5. [R. Kelly trial: Singer 'knew I was underage', accuser tells court](https://www.bbc.co.uk/news/entertainment-arts-58254151) - The US R&B singer is accused of sexual abuse, racketeering and bribery; charges which he has denied.
 6. [Can the Paralympics bring lasting change?](https://www.bbc.co.uk/news/uk-58260253) - A campaign gets underway to try to improve the lives of the world's 1.2bn disabled people.
 7. [Lithuania says Belarus officers illegally pushed migrants over border](https://www.bbc.co.uk/news/world-europe-58255448) - Video shows 12 Belarusian officers in riot gear as migrants scramble towards Lithuanian territory.
