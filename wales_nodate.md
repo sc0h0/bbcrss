@@ -2,8 +2,8 @@
 2. [Bridgend mother in court charged with murder of her two-year-old son](https://www.bbc.co.uk/news/uk-wales-58260646) - Natalie Steele has been charged with the murder of two-year-old Reid Steele.
 3. [Green Man: Tears and joy as festival returns against Covid odds](https://www.bbc.co.uk/news/uk-wales-58267969) - Tickets for the festival sold out in minutes back in May, despite Covid uncertainty.
 4. [NHS Wales: Waiting times hit record levels](https://www.bbc.co.uk/news/uk-wales-58267774) - Numbers waiting for hospital treatment hit record levels and A&E waiting times are the worst on record.
-5. [Censor: Video nasty film explores the power of horror](https://www.bbc.co.uk/news/entertainment-arts-58246426) - The film Censor, set during the 80s, delves into impact of the lurid horror movies from that era.
-6. [DVLA: Apology over continuing driving licence renewal delays](https://www.bbc.co.uk/news/uk-wales-58266532) - Industrial action and social distancing requirements have led to continuing delays, says the DVLA.
+5. [DVLA: Apology over continuing driving licence renewal delays](https://www.bbc.co.uk/news/uk-wales-58266532) - Industrial action and social distancing requirements have led to continuing delays, says the DVLA.
+6. [Censor: Video nasty film explores the power of horror](https://www.bbc.co.uk/news/entertainment-arts-58246426) - The film Censor, set during the 80s, delves into impact of the lurid horror movies from that era.
 7. [Climate change: Families in Wales urged to plant more trees](https://www.bbc.co.uk/news/uk-wales-58259637) - Wales' deputy climate change minister admits "we're way behind" tree-planting targets.
 8. [Covid: £551m extra funding for NHS and social care](https://www.bbc.co.uk/news/uk-wales-58259638) - The money is being allocated for ongoing costs and tackling waiting times.
 9. [Covid: Carer shortage 'biggest worry' for watchdog](https://www.bbc.co.uk/news/uk-wales-58259636) - The care watchdog says recruitment issues could threaten domiciliary services.
@@ -17,9 +17,9 @@
 17. [Who erected Wrexham's new giant Hollywood-style sign?](https://www.bbc.co.uk/news/uk-wales-58248494) - A large Hollywood-style sign has appeared in Wrexham, and no one knows who put it there.
 18. [WRU considers hosting Rugby Championship games](https://www.bbc.co.uk/sport/rugby-union/58271317) - The WRU is exploring the possibility of hosting Rugby Championship games involving the southern hemisphere's top teams in Cardiff.
 19. [Alan Knill: Former Sheffield United assistant joins Wales coaching staff](https://www.bbc.co.uk/sport/football/58268793) - Former Sheffield United assistant manager Alan Knill joins Wales' coaching staff for the rest of their World Cup qualifying campaign.
-20. [Glenn Phillips is the star as Welsh Fire win final group game against London Spirit](https://www.bbc.co.uk/sport/cricket/58259480) - Welsh Fire end their men's Hundred campaign on a high by beating London Spirit in Cardiff in a gripping final game of the group stages.
-21. [Tokyo Paralympics: ParalympicsGB selects a record percentage of female athletes](https://www.bbc.co.uk/sport/disability-sport/58270933) - Great Britain will have its highest-ever percentage of female athletes competing at the Tokyo Paralympics.
-22. [Welsh rugby pre-season guide 2021](https://www.bbc.co.uk/sport/rugby-union/58244328) - BBC Sport Wales' guide to Ospreys, Cardiff, Scarlets and Dragons pre-season schedules.
+20. [Peterborough United and Cardiff City charged by FA after melee](https://www.bbc.co.uk/sport/football/58271009) - Peterborough United and Cardiff City are charged by the FA for a melee during their 2-2 Championship draw on Tuesday.
+21. [Jordan Garrick: Swansea winger joins Plymouth on loan](https://www.bbc.co.uk/sport/football/58267888) - Plymouth Argyle sign Swansea winger Jordan Garrick on a season-long loan.
+22. [Glenn Phillips is the star as Welsh Fire win final group game against London Spirit](https://www.bbc.co.uk/sport/cricket/58259480) - Welsh Fire end their men's Hundred campaign on a high by beating London Spirit in Cardiff in a gripping final game of the group stages.
 23. [Nifer y bobl ar restrau aros ysbytai Cymru ar ei lefel uchaf](https://www.bbc.co.uk/newyddion/58268281) - Mwy o bobl yn aros am driniaeth ysbyty sydd ddim yn frys yng Nghymru nag erioed o'r blaen.
 24. [Mam o flaen Llys y Goron ar gyhuddiad o ladd ei mab](https://www.bbc.co.uk/newyddion/58269407) - Bu farw Reid Steele, 2, yn yr ysbyty yn dilyn digwyddiad mewn tŷ ym Mhen-y-bont ar Ogwr.
 25. ['Colli swyddi Fali am arwain at fwy o bobl i adael Môn'](https://www.bbc.co.uk/newyddion/58262456) - Pryder y bydd colli swyddi ar safle'r Awyrlu yn gorfodi mwy o bobl ifanc i adael Ynys Môn am waith.
