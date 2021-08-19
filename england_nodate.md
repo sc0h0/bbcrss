@@ -2,8 +2,8 @@
 2. [Plymouth shooting: Inquests to open into deaths of victims](https://www.bbc.co.uk/news/uk-england-devon-58260590) - Five people were killed in the mass shooting in Plymouth.
 3. [New investigation into rapist paramedic](https://www.bbc.co.uk/news/uk-england-cambridgeshire-58206031) - Andrew Wheeler, who raped a patient in her own home, is serving a 21-year jail term for sex attacks.
 4. [Banksy: What do we know about the anonymous artist?](https://www.bbc.co.uk/news/uk-england-bristol-50249349) - The graffiti artist Banksy is world famous, but his true identity remains unknown.
-5. [Afghanistan: Mum of killed soldier defends troops' legacy](https://www.bbc.co.uk/news/uk-england-oxfordshire-58261080) - Lee Mackie says her son, who died in 2009, helped give respite to Afghans from the Taliban regime.
-6. [Voters head to the polls in Wiltshire PCC election](https://www.bbc.co.uk/news/uk-england-wiltshire-58257599) - Polls open in the re-run election for Wiltshire's Police and Crime Commissioner.
+5. [Boy dies falling from Sheffield hotel window](https://www.bbc.co.uk/news/uk-england-south-yorkshire-58262259) - The boy, aged under 10, fell from the OYO Sheffield Metropolitan Hotel, police say.
+6. [Afghanistan: Mum of killed soldier defends troops' legacy](https://www.bbc.co.uk/news/uk-england-oxfordshire-58261080) - Lee Mackie says her son, who died in 2009, helped give respite to Afghans from the Taliban regime.
 7. [Queen Cynethryth's 'lost' monastery found next to Cookham church](https://www.bbc.co.uk/news/uk-england-berkshire-58258647) - Archaeologists from the University of Reading solve a mystery that has long puzzled historians.
 8. [Who were the victims?](https://www.bbc.co.uk/news/uk-58202760) - The gunman's mother, Maxine Davison, and three-year-old Sophie Martyn have been named among the dead.
 9. [Plymouth shooting: Review of Devon and Cornwall Police firearms procedure](https://www.bbc.co.uk/news/uk-england-devon-58257497) - The inquiry into Devon and Cornwall Police follows a mass shooting in Plymouth.
@@ -16,9 +16,9 @@
 16. [Incels: A new terror threat to the UK?](https://www.bbc.co.uk/news/uk-58207064) - Is the incel belief system followed by Jake Davison, the Plymouth gunman, a terror threat to the UK?
 17. [A visual guide to what happened](https://www.bbc.co.uk/news/uk-england-devon-58200336) - A gunman shot and killed five people in Plymouth before turning the gun on himself. Here's what we know about how events unfolded.
 18. [Harry Dunn: Family set to hear evidence from Anne Sacoolas](https://www.bbc.co.uk/news/uk-england-northamptonshire-58261573) - Charlotte Charles and Tim Dunn are due to hear evidence from the woman accused of killing their son.
-19. [Geronimo the alpaca: High Court bid to save animal refused](https://www.bbc.co.uk/news/uk-england-bristol-58187004) - A last-ditch attempt to halt the animal's destruction is refused at the High Court in London.
-20. [Boy dies falling from Sheffield hotel window](https://www.bbc.co.uk/news/uk-england-south-yorkshire-58262259) - The boy, aged under 10, fell from the OYO Sheffield Metropolitan Hotel, police say.
-21. [Police officer and son's deaths in Kidderminster were murder-suicide](https://www.bbc.co.uk/news/uk-england-hereford-worcester-58263531) - Three-year-old Harrison Louden was found dead alongside his father at their home on Friday.
+19. [Voters head to the polls in Wiltshire PCC election](https://www.bbc.co.uk/news/uk-england-wiltshire-58257599) - Polls open in the re-run election for Wiltshire's Police and Crime Commissioner.
+20. [Cannabis farm worth £1m found in Bury town centre](https://www.bbc.co.uk/news/uk-england-manchester-58267564) - About 1,000 plants were discovered at a flooded property on Silver Street in Bury, police say.
+21. [Geronimo the alpaca: High Court bid to save animal refused](https://www.bbc.co.uk/news/uk-england-bristol-58187004) - A last-ditch attempt to halt the animal's destruction is refused at the High Court in London.
 22. [Council hires security to guard Banksy-style Harwich mural](https://www.bbc.co.uk/news/uk-england-essex-58260433) - A council which was criticised for painting over a Banksy artwork has been quick to protect a new mural.
 23. [Plasma donor meets children helped by donations](https://www.bbc.co.uk/news/uk-england-coventry-warwickshire-58261942) - A donor from Coventry meets a family from Nottingham whose children who were saved by plasma.
 24. [Pub car park 'rifle' arrest caught on film](https://www.bbc.co.uk/news/uk-england-norfolk-58258077) - Bodycam footage shows the response of armed police to reports of a man making threats with a rifle.
