@@ -1,6 +1,6 @@
-1. [IMF suspends Afghanistan's access to funds](https://www.bbc.co.uk/news/business-58263525) - The move follows the Taliban's takeover, and lack of global agreement over who now governs Afghanistan.
-2. [FTSE bosses earn 86 times more than average worker in 2020](https://www.bbc.co.uk/news/business-58262202) - The bosses of Britain's biggest public companies earned 86 times the average full-time wage last year.
-3. [Ultra Electronics deal unlikely to be rejected](https://www.bbc.co.uk/news/business-58266643) - The government is to investigate the takeover of Ultra Electronics, but its sale is unlikely to be stopped.
+1. [FTSE bosses earn 86 times more than average worker in 2020](https://www.bbc.co.uk/news/business-58262202) - The bosses of Britain's biggest public companies earned 86 times the average full-time wage last year.
+2. [Ultra Electronics deal unlikely to be rejected](https://www.bbc.co.uk/news/business-58266643) - The government is to investigate the takeover of Ultra Electronics, but its sale is unlikely to be stopped.
+3. [IMF suspends Afghanistan's access to funds](https://www.bbc.co.uk/news/business-58263525) - The move follows the Taliban's takeover, and lack of global agreement over who now governs Afghanistan.
 4. [PCR testing ‘rip-off’: Watchdog warned government in April](https://www.bbc.co.uk/news/business-58263523) - The Competition and Markets Authority hits back at claims it was slow to react to consumers' concerns.
 5. [Former Netflix staffers charged for making $3m from insider trading](https://www.bbc.co.uk/news/business-58264767) - The Wall Street regulator says confidential subscriber growth data was used in the alleged scheme.
 6. [40 million T-Mobile customers hit by US data breach](https://www.bbc.co.uk/news/business-58263521) - More than 40 million T-Mobile customers have been hit by a US data breach.

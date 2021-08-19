@@ -11,17 +11,10 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 19 Aug 2021 07:12:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Aug 2021 07:36:18 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
-        <item>
-            <title><![CDATA[IMF suspends Afghanistan's access to funds]]></title>
-            <description><![CDATA[The move follows the Taliban's takeover, and lack of global agreement over who now governs Afghanistan.]]></description>
-            <link>https://www.bbc.co.uk/news/business-58263525</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58263525</guid>
-            <pubDate>Wed, 18 Aug 2021 23:28:00 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[FTSE bosses earn 86 times more than average worker in 2020]]></title>
             <description><![CDATA[The bosses of Britain's biggest public companies earned 86 times the average full-time wage last year.]]></description>
@@ -35,6 +28,13 @@
             <link>https://www.bbc.co.uk/news/business-58266643</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58266643</guid>
             <pubDate>Thu, 19 Aug 2021 07:08:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IMF suspends Afghanistan's access to funds]]></title>
+            <description><![CDATA[The move follows the Taliban's takeover, and lack of global agreement over who now governs Afghanistan.]]></description>
+            <link>https://www.bbc.co.uk/news/business-58263525</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58263525</guid>
+            <pubDate>Wed, 18 Aug 2021 23:28:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[PCR testing ‘rip-off’: Watchdog warned government in April]]></title>

@@ -21,11 +21,11 @@
 21. [Biden's speech on Afghanistan fact-checked](https://www.bbc.co.uk/news/58243158) - How consistent was President Biden's speech with his previous statements on Afghanistan?
 22. [Just how hard is it to recycle a jumbo jet?](https://www.bbc.co.uk/news/business-57983174) - Thousands of aircraft were left on the tarmac due to Covid, and many will now be broken up for parts.
 23. [Hakainde Hichilema: The Zambian 'cattle boy' who became president](https://www.bbc.co.uk/news/world-africa-58229710) - After six attempts, Hakainde Hichilema has finally become president of Zambia.
-24. [Can the Paralympics bring lasting change?](https://www.bbc.co.uk/news/uk-58260253) - A campaign gets underway to try to improve the lives of the world's 1.2bn disabled people.
-25. [Afghanistan: Fatalities as shots fired at flag protest in Jalalabad](https://www.bbc.co.uk/news/world-asia-58255118) - Protesters took to the streets of Jalalabad holding aloft the country's national flag.
-26. [Taliban have been looking for me, says ex-Afghanistan bank governor](https://www.bbc.co.uk/news/world-asia-58255402) - Militants have been knocking on the doors of places he used to live, Ajmal Ahmady says.
-27. [How technology in the air battles fires on the ground](https://www.bbc.co.uk/news/world-us-canada-58248261) - Planes equipped with infrared scanners are helping authorities take on historic wildfires in the US.
-28. [Brandon Flowers on new Killers album Pressure Machine, inspired by Utah hometown](https://www.bbc.co.uk/news/entertainment-arts-58257999) - The Killers frontman speaks about their new album, Pressure Machine, inspired by his rural hometown.
+24. [Afghan interpreter who worked for UK begs PM for 'pathway to safety'](https://www.bbc.co.uk/news/world-58266707) - An Afghan interpreter who worked for the British army has begged the UK government to evacuate him and his family from Afghanistan.
+25. [Can the Paralympics bring lasting change?](https://www.bbc.co.uk/news/uk-58260253) - A campaign gets underway to try to improve the lives of the world's 1.2bn disabled people.
+26. [Afghanistan: Fatalities as shots fired at flag protest in Jalalabad](https://www.bbc.co.uk/news/world-asia-58255118) - Protesters took to the streets of Jalalabad holding aloft the country's national flag.
+27. [Taliban have been looking for me, says ex-Afghanistan bank governor](https://www.bbc.co.uk/news/world-asia-58255402) - Militants have been knocking on the doors of places he used to live, Ajmal Ahmady says.
+28. [How technology in the air battles fires on the ground](https://www.bbc.co.uk/news/world-us-canada-58248261) - Planes equipped with infrared scanners are helping authorities take on historic wildfires in the US.
 29. ['It was very emotional on the plane out of Afghanistan'](https://www.bbc.co.uk/news/uk-58256816) - Afghan businesswoman Hassina Syed speaks of her relief at getting out on a British military plane.
 30. [Veteran silences MPs with powerful Afghan speech](https://www.bbc.co.uk/news/uk-politics-58259509) - Tory MP Tom Tugendhat speaks of the anger, grief and rage of veterans at the "abandonment" of Afghanistan.
 31. [Ashraf Ghani: Afghanistan's exiled president lands in UAE](https://www.bbc.co.uk/news/world-asia-58260902) - The UAE says it has welcomed the president and his family on humanitarian grounds.

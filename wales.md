@@ -1,5 +1,5 @@
-1. [Covid: £551m extra funding for NHS and social care](https://www.bbc.co.uk/news/uk-wales-58259638) - Wed, 18 Aug 2021 21:49:27 GMT - The money is being allocated for ongoing costs and tackling waiting times.
-2. [Climate change: Families in Wales urged to plant more trees](https://www.bbc.co.uk/news/uk-wales-58259637) - Wed, 18 Aug 2021 21:49:35 GMT - Wales' deputy climate change minister admits "we're way behind" tree-planting targets.
+1. [Covid: £551m extra funding for NHS and social care](https://www.bbc.co.uk/news/uk-wales-58259638) - Thu, 19 Aug 2021 07:34:06 GMT - The money is being allocated for ongoing costs and tackling waiting times.
+2. [Climate change: Families in Wales urged to plant more trees](https://www.bbc.co.uk/news/uk-wales-58259637) - Thu, 19 Aug 2021 07:33:47 GMT - Wales' deputy climate change minister admits "we're way behind" tree-planting targets.
 3. [Covid: Carer shortage 'biggest worry' for watchdog](https://www.bbc.co.uk/news/uk-wales-58259636) - Thu, 19 Aug 2021 05:59:56 GMT - The care watchdog says recruitment issues could threaten domiciliary services.
 4. [Bridgend: Mother charged with murder of son, 2](https://www.bbc.co.uk/news/uk-wales-58250140) - Wed, 18 Aug 2021 15:45:33 GMT - Reid Steele died in hospital after being found in a critical condition at a house in Bridgend.
 5. [Hell's Mouth: Man drowned after saving friend's daughter](https://www.bbc.co.uk/news/uk-wales-58263956) - Wed, 18 Aug 2021 20:52:30 GMT - Stephen Hulsmeier was unresponsive when he was brought ashore, an inquest hears.
