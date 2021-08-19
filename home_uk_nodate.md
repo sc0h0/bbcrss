@@ -2,11 +2,11 @@
 2. [Afghanistan crisis: Biden says US troops may stay past withdrawal deadline](https://www.bbc.co.uk/news/world-asia-58264917) - The US president says the chaos in Afghanistan was unavoidable and refuses to acknowledge any mistakes.
 3. [Afghanistan crisis: 'Many here will be deeply fearful for their future'](https://www.bbc.co.uk/news/world-asia-58262874) - The BBC's Secunder Kermani reports from the heart of Kabul during the unfolding crisis in Afghanistan.
 4. [Afghanistan: Dominic Raab's failure to make urgent call shameful - Labour](https://www.bbc.co.uk/news/uk-58265160) - The foreign secretary is accused of not phoning his Afghan counterpart for help to evacuate interpreters.
-5. [Covid: Vaccines effective against Delta variant and PCR test 'rip-off' warning](https://www.bbc.co.uk/news/uk-58262555) - Five things you need to know about the coronavirus pandemic this Thursday morning.
-6. [Covid vaccines still effective against Delta variant](https://www.bbc.co.uk/news/health-58257863) - But the jabs were more effective against the Alpha variant, the largest study of its kind suggests.
-7. [Afghan interpreter who worked for UK begs PM for help](https://www.bbc.co.uk/news/uk-58264397) - Ahmed, who fears Taliban reprisals, is desperate for him and his family to be evacuated from Kabul.
+5. [Covid vaccines still effective against Delta variant](https://www.bbc.co.uk/news/health-58257863) - But the jabs were more effective against the Alpha variant, the largest study of its kind suggests.
+6. [Afghan interpreter who worked for UK begs PM for help](https://www.bbc.co.uk/news/uk-58264397) - Ahmed, who fears Taliban reprisals, is desperate for him and his family to be evacuated from Kabul.
+7. [PCR testing ‘rip-off’: Watchdog warned government in April](https://www.bbc.co.uk/news/business-58263523) - The Competition and Markets Authority hits back at claims it was slow to react to consumers' concerns.
 8. [Wildfires rage across Europe](https://www.bbc.co.uk/news/world-58257998) - A look at some of the fires spreading across Europe - and the rest of the globe.
-9. [PCR testing ‘rip-off’: Watchdog warned government in April](https://www.bbc.co.uk/news/business-58263523) - The Competition and Markets Authority hits back at claims it was slow to react to consumers' concerns.
+9. [Eileen Barrott murder: Husband detained in Scotland](https://www.bbc.co.uk/news/uk-england-leeds-58266900) - Police have been searching for 54-year-old Mark Barrott since Mrs Barrott's death on Sunday.
 10. [WeThe15: 'Game-changer' plan for 1.2bn disabled people](https://www.bbc.co.uk/news/disability-58231022) - A global campaign is launched to improve the lives of more than 1.2bn disabled people.
 11. [Visa delays hit UK students heading to Spain to study](https://www.bbc.co.uk/news/education-58247963) - Students due to spend a year in Spain as part of their degree are hit with post-Brexit visa delays.
 12. [The Papers: MPs condemn US president, and Johnson 'humiliated'](https://www.bbc.co.uk/news/blogs-the-papers-58264267) - Most of Thursday's front pages lead on reaction from UK politicians to the crisis in Afghanistan.
