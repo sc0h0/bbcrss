@@ -10,11 +10,11 @@
 10. [Covid: Carer shortage 'biggest worry' for watchdog](https://www.bbc.co.uk/news/uk-wales-58259636) - The care watchdog says recruitment issues could threaten domiciliary services.
 11. [Hell's Mouth: Man drowned after saving friend's daughter](https://www.bbc.co.uk/news/uk-wales-58263956) - Stephen Hulsmeier was unresponsive when he was brought ashore, an inquest hears.
 12. [Merthyr Tydfil: Fake diazepam leaves one dead and another in hospital](https://www.bbc.co.uk/news/uk-wales-58262827) - Another person required hospital treatment after taking the drug.
-13. ['All your sacrifices have just been in vain, sweetheart'](https://www.bbc.co.uk/news/uk-58267755) - Families affected by the Afghan war reveal their sadness and anger at the Taliban's swift resurgence.
-14. [Porthcawl: Off-duty police officer found missing man in ditch](https://www.bbc.co.uk/news/uk-wales-58262831) - PC Amy Rowlands found the dementia patient 30 hours after he was reported missing from his care home.
-15. [Plaid's ex-leader has not been friends with successor for years](https://www.bbc.co.uk/news/uk-wales-politics-58259557) - Leanne Wood says she thinks Adam Price went about his Plaid leadership challenge the wrong way.
-16. [Afghanistan: Activists call for Wales to take more refugees](https://www.bbc.co.uk/news/uk-wales-58263960) - Campaigners take to the streets of Cardiff to welcome Afghan refugees to the Welsh capital.
-17. [Afghanistan: Man who fled Taliban fears for family](https://www.bbc.co.uk/news/uk-wales-58248562) - Mohammed has not been able to contact his relatives since the Taliban seized control of Afghanistan.
+13. [Covid: Green Man welcomes back festival fans](https://www.bbc.co.uk/news/uk-wales-58275958) - Buzzard Buzzard Buzzard’s Tom Rees said it was a “landmark” marking music's return to south Wales.
+14. ['All your sacrifices have just been in vain, sweetheart'](https://www.bbc.co.uk/news/uk-58267755) - Families affected by the Afghan war reveal their sadness and anger at the Taliban's swift resurgence.
+15. [Porthcawl: Off-duty police officer found missing man in ditch](https://www.bbc.co.uk/news/uk-wales-58262831) - PC Amy Rowlands found the dementia patient 30 hours after he was reported missing from his care home.
+16. [Plaid's ex-leader has not been friends with successor for years](https://www.bbc.co.uk/news/uk-wales-politics-58259557) - Leanne Wood says she thinks Adam Price went about his Plaid leadership challenge the wrong way.
+17. [Afghanistan: Activists call for Wales to take more refugees](https://www.bbc.co.uk/news/uk-wales-58263960) - Campaigners take to the streets of Cardiff to welcome Afghan refugees to the Welsh capital.
 18. [CCTV catches moment car crashes off A494 on to farmer's land](https://www.bbc.co.uk/news/uk-wales-58243619) - A farmer's CCTV captures the moment a car crashes on the A494 onto his property.
 19. [One-Day Cup: Glamorgan beat Durham at Trent Bridge to win first knockout trophy](https://www.bbc.co.uk/sport/cricket/58237726) - Glamorgan beat Durham by 58 runs to win the One-Day Cup at Trent Bridge - their first knockout trophy.
 20. [Ryan Reynolds and Rob McElhenney: Inside track of Wrexham's Hollywood takeover](https://www.bbc.co.uk/sport/football/58120149) - How a phone call from Portsmouth's chief executive in May 2019 led to Wrexham's Hollywood takeover.
