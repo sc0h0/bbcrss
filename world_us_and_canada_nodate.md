@@ -2,7 +2,7 @@
 2. [Covid-19: Mississippi quarantines 20,000 pupils at start of new school year](https://www.bbc.co.uk/news/world-us-canada-58272083) - Schools around the US are seeing Covid-19 outbreaks within days of starting the new academic year.
 3. [R. Kelly trial: Singer 'knew I was underage', accuser tells court](https://www.bbc.co.uk/news/entertainment-arts-58254151) - The US R&B singer is accused of sexual abuse, racketeering and bribery; charges which he has denied.
 4. [Canadian soldier faces jail over feeding cannabis cupcakes to troops](https://www.bbc.co.uk/news/world-us-canada-58176125) - A Canadian bombardier fed cannabis cakes to troops during a drill involving guns and live ammunition.
-5. [Washington DC: Active bomb threat near US Capitol](https://www.bbc.co.uk/news/world-us-canada-58273778) - US Capitol Police are negotiating with the driver of a suspicious vehicle on Capitol Hill.
+5. [Washington DC: Man arrested over bomb threat near US Capitol](https://www.bbc.co.uk/news/world-us-canada-58273778) - US Capitol Police had been negotiating with the driver of a suspicious vehicle on Capitol Hill.
 6. [Covid vaccine: US plans to offer booster Covid jabs in September](https://www.bbc.co.uk/news/health-58261590) - A third booster Covid vaccine will be offered to anyone who was fully vaccinated eight months ago.
 7. [40 million T-Mobile customers hit by US data breach](https://www.bbc.co.uk/news/business-58263521) - More than 40 million T-Mobile customers have been hit by a US data breach.
 8. [Colorado River: First-ever shortage declared amid record US drought](https://www.bbc.co.uk/news/world-us-canada-58248634) - Historic droughts have led to water supply cuts on a river millions in the US and Mexico rely on.

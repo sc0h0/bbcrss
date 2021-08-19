@@ -1,7 +1,7 @@
-1. [Zaki Anwari: Afghan footballer falls to death from US plane in Kabul](https://www.bbc.co.uk/news/world-asia-58272740) - Zaki Anwari, 19, had played for Afghanistan's national team before attempting to flee the country.
+1. [Zaki Anwari: Afghan footballer falls to death from US plane in Kabul](https://www.bbc.co.uk/news/world-asia-58272740) - Zaki Anwari, 19, had played for Afghanistan's national youth team before trying to flee the country.
 2. [Afghanistan crisis: 'Many here will be deeply fearful for their future'](https://www.bbc.co.uk/news/world-asia-58262874) - The BBC's Secunder Kermani reports from the heart of Kabul during the unfolding crisis in Afghanistan.
 3. [Haiti earthquake: Rescue efforts continue in Les Cayes](https://www.bbc.co.uk/news/world-latin-america-58274326) - The death toll from the 7.2-magnitude quake is now over 2,000, with many still missing in towns like Les Cayes.
-4. [Washington DC: Active bomb threat near US Capitol](https://www.bbc.co.uk/news/world-us-canada-58273778) - US Capitol Police are negotiating with the driver of a suspicious vehicle on Capitol Hill.
+4. [Washington DC: Man arrested over bomb threat near US Capitol](https://www.bbc.co.uk/news/world-us-canada-58273778) - US Capitol Police had been negotiating with the driver of a suspicious vehicle on Capitol Hill.
 5. [Canadian soldier faces jail over feeding cannabis cupcakes to troops](https://www.bbc.co.uk/news/world-us-canada-58176125) - A Canadian bombardier fed cannabis cakes to troops during a drill involving guns and live ammunition.
 6. [Belgium stabbing suspect won’t be charged over unborn baby’s death](https://www.bbc.co.uk/news/world-europe-58268825) - A man in Belgium is charged with allegedly stabbing his partner, but not her unborn baby's death.
 7. [Russia names Golos monitor as 'foreign agent' ahead of election](https://www.bbc.co.uk/news/world-europe-58265932) - Golos has vowed to continue its work ahead of parliamentary elections in a month's time.
@@ -17,11 +17,11 @@
 17. [The little-known human stories behind emoji designs](https://www.bbc.co.uk/news/technology-58180556) - The surprising story of how some tiny characters ended up on billions of smartphone keyboards.
 18. [How latte art in South Africa led to a job from hell in Oman](https://www.bbc.co.uk/news/world-africa-57990393) - A South African barista was offered a dream opportunity in Oman but unknowingly signed away his freedoms.
 19. [Afghanistan: Child handed over Kabul airport wall as chaos continues](https://www.bbc.co.uk/news/world-asia-58267756) - Afghans try to scale airport walls and shots are fired as crowds keep trying to flee the Taliban.
-20. [Afghan interpreter begs PM Boris Johnson for 'pathway to safety'](https://www.bbc.co.uk/news/world-58266707) - Ahmed (not his real name), who worked for the British Army, begs the UK to evacuate him and his family.
-21. [Afghanistan: Joe Biden said chaos was 'inevitable'](https://www.bbc.co.uk/news/world-us-canada-58264718) - In an interview with ABC, Joe Biden said nobody could have anticipated the speed of the Taliban takeover.
-22. [Can the Paralympics bring lasting change?](https://www.bbc.co.uk/news/uk-58260253) - A campaign gets underway to try to improve the lives of the world's 1.2bn disabled people.
-23. [Afghanistan: Fatalities as shots fired at flag protest in Jalalabad](https://www.bbc.co.uk/news/world-asia-58255118) - Protesters took to the streets of Jalalabad holding aloft the country's national flag.
-24. [Afghanistan: Protesters wave national flag at Independence Day protests](https://www.bbc.co.uk/news/world-asia-58275284) - Afghan protesters mark Independence Day with the national flag, days after the Taliban takeover.
+20. [Afghanistan: Protesters wave national flag at Independence Day protests](https://www.bbc.co.uk/news/world-asia-58275284) - Afghan protesters mark Independence Day with the national flag, days after the Taliban takeover.
+21. [Afghan interpreter begs PM Boris Johnson for 'pathway to safety'](https://www.bbc.co.uk/news/world-58266707) - Ahmed (not his real name), who worked for the British Army, begs the UK to evacuate him and his family.
+22. [Afghanistan: Joe Biden said chaos was 'inevitable'](https://www.bbc.co.uk/news/world-us-canada-58264718) - In an interview with ABC, Joe Biden said nobody could have anticipated the speed of the Taliban takeover.
+23. [Can the Paralympics bring lasting change?](https://www.bbc.co.uk/news/uk-58260253) - A campaign gets underway to try to improve the lives of the world's 1.2bn disabled people.
+24. [The treacherous road to Kabul's airport](https://www.bbc.co.uk/news/world-asia-58271517) - As thousands try to flee Afghanistan, the main route to the capital's airport has become treacherous.
 25. [Afghanistan: A woman's story of life under the Taliban in 1999](https://www.bbc.co.uk/news/world-asia-58250780) - Taliban rule in 1999 - an Afghan woman recalls the day her father disappeared.
 26. [Biden on Afghanistan fact-checked](https://www.bbc.co.uk/news/58243158) - How consistent is President Biden in his comments on Afghanistan?
 27. [‘Don’t forget the 500,000 internally displaced Afghans’ - UNCHR](https://www.bbc.co.uk/news/world-asia-58268066) - Do not forget the 500,000 internally displaced people, the UNHCR representative to Afghanistan says.
