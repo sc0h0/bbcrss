@@ -1,6 +1,6 @@
 1. [Streatham terror attack: Opportunity missed to stop Sudesh Amman](https://www.bbc.co.uk/news/uk-england-london-58281243) - There were opportunities to stop Sudesh Amman stabbing two people in south London, an inquest finds.
 2. [Record number of bids for UK City of Culture 2025](https://www.bbc.co.uk/news/uk-england-58272630) - For the first time groups of towns or areas have been able to bid for the cultural capital title.
-3. [Covid career changers: ‘Do something you love’](https://www.bbc.co.uk/news/business-58273913) - Young people say their career prospects and businesses have taken a financial hit from Covid.
+3. [Afghan boy death: MPs call for urgent investigation after hotel fall](https://www.bbc.co.uk/news/uk-england-south-yorkshire-58280360) - A group of MPs backs calls for the government to review the safety of accommodation for Afghan refugees.
 4. [World War Two Wren, 101, releases London memoir](https://www.bbc.co.uk/news/uk-england-london-58271337) - Christian Lamb describes her war work as "very, very exciting but very, very secret".
 5. [Bristol mum facing £85k bill to extend life with her son](https://www.bbc.co.uk/news/uk-england-bristol-58017220) - Sarah hopes specialist treatment in Germany will enable her to see her son through to his GCSEs.
 6. [Blue singer Lee Ryan tells court he cannot afford £1,500 fine](https://www.bbc.co.uk/news/uk-england-cambridgeshire-58274941) - The 38-year-old singer was banned from driving for 12 months and given a fine.
@@ -15,7 +15,7 @@
 15. [Plasma donor meets children helped by donations](https://www.bbc.co.uk/news/uk-england-coventry-warwickshire-58261942) - A donor from Coventry meets a family from Nottingham whose children who were saved by plasma.
 16. [Pub car park 'rifle' arrest caught on film](https://www.bbc.co.uk/news/uk-england-norfolk-58258077) - Bodycam footage shows the response of armed police to reports of a man making threats with a rifle.
 17. [Hartpury says unvaccinated students cannot live on-site](https://www.bbc.co.uk/news/uk-england-gloucestershire-58281872) - Students without the Covid-19 jab may also have their access to social clubs and venues restricted.
-18. [Sheffield hotel fall: Boy who died was Afghan refugee](https://www.bbc.co.uk/news/uk-england-south-yorkshire-58269533) - Five-year-old Mohammed Munib Majeedi and his family arrived in the UK two weeks ago.
+18. [Covid career changers: ‘Do something you love’](https://www.bbc.co.uk/news/business-58273913) - Young people say their career prospects and businesses have taken a financial hit from Covid.
 19. [Maldon councillors accused of Pride flag 'homophobia'](https://www.bbc.co.uk/news/uk-england-essex-58279641) - The Rev Tony Shrimpton and others are accused of making "blatant homophobic" remarks.
 20. [Ex-MP Jared O'Mara charged with seven counts of fraud](https://www.bbc.co.uk/news/uk-england-south-yorkshire-58272878) - Jared O'Mara is charged in relation to alleged fraudulent expenses claims, the CPS say.
 21. [Stuart Lubbock: Suspect in murder case released without charge](https://www.bbc.co.uk/news/uk-england-essex-58273900) - Stuart Lubbock was found unconscious at Michael Barrymore's house in 2001 and later died.

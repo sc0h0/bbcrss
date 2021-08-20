@@ -1,6 +1,6 @@
 1. [Dominic Raab defends lack of Afghan interpreter call](https://www.bbc.co.uk/news/uk-politics-58282163) - The UK foreign secretary is facing calls to quit over his handling of evacuations.
 2. [Afghanistan: Taliban 'tortured and massacred' men from Hazara minority](https://www.bbc.co.uk/news/world-asia-58277463) - Rights group Amnesty says the recent killings of men from the Hazara minority were a "horrifying indicator" of Taliban rule.
-3. [Streatham terror attack: Opportunity missed to stop Sudesh Amman](https://www.bbc.co.uk/news/uk-england-london-58281243) - There were opportunities to stop Sudesh Amman stabbing two people in south London, an inquest finds.
+3. [Streatham terror attack: Prison recall may have stopped Sudesh Amman](https://www.bbc.co.uk/news/uk-england-london-58281243) - There were opportunities to stop Sudesh Amman stabbing two people in south London, an inquest finds.
 4. [OnlyFans to ban sexually explicit content](https://www.bbc.co.uk/news/business-58273914) - The online subscription site will prevent users from posting content showing 'sexually explicit conduct'.
 5. [Record number of bids for UK City of Culture 2025](https://www.bbc.co.uk/news/uk-england-58272630) - For the first time groups of towns or areas have been able to bid for the cultural capital title.
 6. [SNP and Greens agree new power-sharing deal](https://www.bbc.co.uk/news/uk-scotland-scotland-politics-58272209) - The agreement will see Greens enter national government for the first time anywhere in the UK.
