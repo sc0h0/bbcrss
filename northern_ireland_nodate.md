@@ -1,4 +1,4 @@
-1. [Aidan McAnespie: Former soldier to stand trial over 1988 killing](https://www.bbc.co.uk/news/uk-northern-ireland-58281782) - David Holden, 51, will stand trial over the fatal shooting of Aidan McAnespie in County Tyrone.
+1. [Aidan McAnespie: Former soldier to stand trial over 1988 killing](https://www.bbc.co.uk/news/uk-northern-ireland-58281782) - David Holden, 51, is accused of the manslaughter of Aidan McAnespie in County Tyrone.
 2. [Covid-19: Covid pressures 'putting cancer patients at risk'](https://www.bbc.co.uk/news/uk-northern-ireland-58278998) - A doctor sounds a warning as the virus is recorded on death certificates of 40 people in a week.
 3. [Hundreds of newly-qualified teachers not registered to teach in NI](https://www.bbc.co.uk/news/uk-northern-ireland-58274469) - About 500 new teachers are waiting to be fully registered and cannot be employed until then.
 4. [Covid-19: Swann sets target of 90% of NI jabbed for Covid-19](https://www.bbc.co.uk/news/uk-northern-ireland-58269477) - Having 90% of people in NI vaccinated would take pressure off the health service, says Robin Swann.
