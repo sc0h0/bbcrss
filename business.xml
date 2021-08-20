@@ -11,23 +11,30 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 20 Aug 2021 09:38:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Aug 2021 09:52:08 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[M&S shares soar as it says turnaround plan working]]></title>
+            <description><![CDATA[The retail giant raises its profits forecast, but UK retail sales see a sharp fall during July.]]></description>
+            <link>https://www.bbc.co.uk/news/business-58274807</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58274807</guid>
+            <pubDate>Fri, 20 Aug 2021 08:39:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sky Broadband outage hits banking websites]]></title>
+            <description><![CDATA[Customers of Halifax, Santander, HSBC and TSB have all complained of problems accessing online services.]]></description>
+            <link>https://www.bbc.co.uk/news/business-58280318</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58280318</guid>
+            <pubDate>Fri, 20 Aug 2021 09:42:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Morrisons backs US firm's improved £7bn takeover offer]]></title>
             <description><![CDATA[But shares in the supermarket open higher, suggesting some investors think the £7bn-plus battle is not over.]]></description>
             <link>https://www.bbc.co.uk/news/business-58273916</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58273916</guid>
             <pubDate>Fri, 20 Aug 2021 07:35:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[M&S shares jump as it says turnaround plan working]]></title>
-            <description><![CDATA[The retail giant raises its profits forecast, but UK retail sales see a sharp fall during July.]]></description>
-            <link>https://www.bbc.co.uk/news/business-58274807</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58274807</guid>
-            <pubDate>Fri, 20 Aug 2021 08:39:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Government borrowing shrinks in July]]></title>
