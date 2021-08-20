@@ -1,7 +1,7 @@
 1. [Afghanistan: Dominic Raab defends interpreter phone call decision](https://www.bbc.co.uk/news/uk-politics-58282163) - The UK foreign secretary is facing calls to quit over his handling of evacuations.
 2. [SNP-Greens deal pledges indyref2 within five years](https://www.bbc.co.uk/news/uk-scotland-scotland-politics-58272209) - The agreement will take the Greens into government for the first time anywhere in the UK.
 3. [Covid-antibody therapy approved in UK](https://www.bbc.co.uk/news/health-58281332) - Antibody therapy - given to former US President Donald Trump - can now be used in the UK.
-4. [Streatham terror attack: Prison recall may have stopped Sudesh Amman](https://www.bbc.co.uk/news/uk-england-london-58281243) - Sudesh Amman could have been stopped from stabbing two people in south London, an inquest finds.
+4. [Streatham terror attack: Prison recall might have stopped Sudesh Amman](https://www.bbc.co.uk/news/uk-england-london-58281243) - Sudesh Amman could have been stopped from stabbing two people in south London, an inquest finds.
 5. [Jill Murphy: The Worst Witch and Large family author dies at 72](https://www.bbc.co.uk/news/entertainment-arts-58283965) - The children's writer and illustrator also published picture books like the Large family series.
 6. [Plymouth shooting: Jake Davison given gun licence for sporting purposes](https://www.bbc.co.uk/news/uk-england-devon-58282482) - Jake Davison was issued his firearms licence for clay pigeon shooting, police chief reveals.
 7. [Alexei Navalny: UK sanctions for seven Russians over poisoning](https://www.bbc.co.uk/news/uk-58284833) - The staunch critic of President Vladimir Putin almost died in a nerve agent attack last year.
