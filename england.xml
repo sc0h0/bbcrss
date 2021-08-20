@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 20 Aug 2021 16:38:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Aug 2021 17:01:25 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -37,6 +37,13 @@
             <pubDate>Fri, 20 Aug 2021 16:20:11 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Woman reverses own car off truck to foil Wolverhampton theft]]></title>
+            <description><![CDATA[She saves her vehicle from a transporter's ramp shortly after leaving a slimming club at a church.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-birmingham-58282348</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-birmingham-58282348</guid>
+            <pubDate>Fri, 20 Aug 2021 14:29:45 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Army supporting ambulance services in England]]></title>
             <description><![CDATA[High demand and staffing shortages have meant the Army has been called in to help look after patients.]]></description>
             <link>https://www.bbc.co.uk/news/health-58281665</link>
@@ -51,13 +58,6 @@
             <pubDate>Fri, 20 Aug 2021 05:16:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Peterborough mum back at home with baby born before Covid coma]]></title>
-            <description><![CDATA[Hajrah Aslam described being back at home with her baby as a "dream come true".]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-cambridgeshire-58283552</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-cambridgeshire-58283552</guid>
-            <pubDate>Fri, 20 Aug 2021 15:55:58 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Heron put down after flying with crossbow bolt in Suffolk]]></title>
             <description><![CDATA[It had been seen flying for weeks before RSCA officers rescued the "very thin, weak" bird.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-suffolk-58285825</link>
@@ -65,11 +65,11 @@
             <pubDate>Fri, 20 Aug 2021 16:14:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Bristol mum facing £85k bill to extend life with her son]]></title>
-            <description><![CDATA[Sarah hopes specialist treatment in Germany will enable her to see her son through to his GCSEs.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-bristol-58017220</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-bristol-58017220</guid>
-            <pubDate>Fri, 20 Aug 2021 05:20:32 GMT</pubDate>
+            <title><![CDATA[Peterborough mum back at home with baby born before Covid coma]]></title>
+            <description><![CDATA[Hajrah Aslam described being back at home with her baby as a "dream come true".]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-cambridgeshire-58283552</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-cambridgeshire-58283552</guid>
+            <pubDate>Fri, 20 Aug 2021 15:55:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Red phone box dug up and stolen from village garden]]></title>
@@ -77,13 +77,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-manchester-58280733</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-manchester-58280733</guid>
             <pubDate>Fri, 20 Aug 2021 09:38:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Woman reverses own car off truck to foil Wolverhampton theft]]></title>
-            <description><![CDATA[She saves her vehicle from a transporter's ramp shortly after leaving a slimming club at a church.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-birmingham-58282348</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-birmingham-58282348</guid>
-            <pubDate>Fri, 20 Aug 2021 14:29:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Northampton: Conservative donor admits £10k disguised contribution]]></title>
@@ -98,6 +91,13 @@
             <link>https://www.bbc.co.uk/news/uk-england-bristol-58274260</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-bristol-58274260</guid>
             <pubDate>Fri, 20 Aug 2021 10:20:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bristol mum facing £85k bill to extend life with her son]]></title>
+            <description><![CDATA[Sarah hopes specialist treatment in Germany will enable her to see her son through to his GCSEs.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-bristol-58017220</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-bristol-58017220</guid>
+            <pubDate>Fri, 20 Aug 2021 05:20:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Injured Dubai cat flown to Bradford rescue centre]]></title>
@@ -135,11 +135,25 @@
             <pubDate>Wed, 18 Aug 2021 11:10:37 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[London Underground: Union calls off two strikes]]></title>
+            <description><![CDATA[Workers were due to hold two 24-hour strikes in a dispute over night tube rotas.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-58285333</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-58285333</guid>
+            <pubDate>Fri, 20 Aug 2021 16:25:54 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Poretti-Boltshauser syndrome diagnosis for Wallsend girl]]></title>
             <description><![CDATA[Addison Black, five, is diagnosed with Poretti-Boltshauser syndrome by university experts.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-tyne-58272395</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-tyne-58272395</guid>
             <pubDate>Fri, 20 Aug 2021 15:34:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Storm Christoph: Weaverham flood-hit residents angry]]></title>
+            <description><![CDATA[Residents in a Cheshire village whose homes were flooded in January are still unable to return home.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-merseyside-58282386</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-merseyside-58282386</guid>
+            <pubDate>Fri, 20 Aug 2021 16:21:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Northumbria Police officer groomed vulnerable single mothers]]></title>
@@ -160,7 +174,7 @@
             <description><![CDATA[Deodorants stored at the site explode, "popping right through the night", the fire service says.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-coventry-warwickshire-58279006</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-coventry-warwickshire-58279006</guid>
-            <pubDate>Fri, 20 Aug 2021 10:53:24 GMT</pubDate>
+            <pubDate>Fri, 20 Aug 2021 16:56:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: Nottingham's Goose Fair called off for second year running]]></title>
@@ -177,18 +191,11 @@
             <pubDate>Fri, 20 Aug 2021 10:15:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[World War Two Wren, 101, releases London memoir]]></title>
-            <description><![CDATA[Christian Lamb describes her war work as "very, very exciting but very, very secret".]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-london-58271337</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-58271337</guid>
-            <pubDate>Fri, 20 Aug 2021 05:51:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Science teacher made pupil send sexual selfies]]></title>
-            <description><![CDATA[Josh Larcombe has been given a suspended jail sentence at Plymouth Crown Court.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-devon-58282016</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-devon-58282016</guid>
-            <pubDate>Fri, 20 Aug 2021 11:05:22 GMT</pubDate>
+            <title><![CDATA[The Hundred: Oval Invincibles fight back to beat Birmingham Phoenix to reach final]]></title>
+            <description><![CDATA[Oval Invincibles fight back from the brink in stunning style to reach the inaugural women's Hundred final with a 20-run win over Birmingham Phoenix in the eliminator.]]></description>
+            <link>https://www.bbc.co.uk/sport/cricket/58284412</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/58284412</guid>
+            <pubDate>Fri, 20 Aug 2021 16:43:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Arsenal boss Mikel Arteta surprised Brentford game was played following Covid cases]]></title>
