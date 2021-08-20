@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 20 Aug 2021 10:44:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Aug 2021 10:52:39 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -35,6 +35,13 @@
             <link>https://www.bbc.co.uk/news/uk-wales-58271578</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58271578</guid>
             <pubDate>Fri, 20 Aug 2021 05:08:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bute Park murder: Detectives search for potential witnesses]]></title>
+            <description><![CDATA[Dr Gary Jenkins died 16 days after he was attacked in the Cardiff city centre park in July.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-58278349</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58278349</guid>
+            <pubDate>Fri, 20 Aug 2021 10:43:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: Hotel thought prom-goers had negative tests before spike]]></title>
@@ -86,13 +93,6 @@
             <pubDate>Fri, 20 Aug 2021 07:41:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Green Man: Tears and joy as festival returns against Covid odds]]></title>
-            <description><![CDATA[Tickets for the festival sold out in minutes back in May, despite Covid uncertainty.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-58267969</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58267969</guid>
-            <pubDate>Thu, 19 Aug 2021 13:45:40 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Mental health crisis ends in cells for too many, snapshot suggests]]></title>
             <description><![CDATA[Official data shows how many people in mental health crisis police held in a year in England and Wales.]]></description>
             <link>https://www.bbc.co.uk/news/uk-58270064</link>
@@ -100,11 +100,11 @@
             <pubDate>Fri, 20 Aug 2021 05:03:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Afghanistan: Welsh woman trying to help translator flee Kabul]]></title>
-            <description><![CDATA[Anna Prince struck up a friendship with the man after they started chatting about art on Facebook.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-58272107</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58272107</guid>
-            <pubDate>Thu, 19 Aug 2021 19:05:39 GMT</pubDate>
+            <title><![CDATA[Green Man: Tears and joy as festival returns against Covid odds]]></title>
+            <description><![CDATA[Tickets for the festival sold out in minutes back in May, despite Covid uncertainty.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-58267969</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58267969</guid>
+            <pubDate>Thu, 19 Aug 2021 13:45:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Wrexham: Call for funding to repair landslip-hit road]]></title>

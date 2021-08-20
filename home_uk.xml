@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 20 Aug 2021 10:44:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Aug 2021 10:54:01 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -58,11 +58,18 @@
             <pubDate>Fri, 20 Aug 2021 07:04:44 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid-antibody therapy approved in UK]]></title>
+            <description><![CDATA[Antibody therapy - given to former US President Donald Trump - can now be used in the UK.]]></description>
+            <link>https://www.bbc.co.uk/news/health-58281332</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-58281332</guid>
+            <pubDate>Fri, 20 Aug 2021 10:48:21 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Morrisons backs US firm's improved £7bn takeover offer]]></title>
             <description><![CDATA[But shares in the supermarket open higher, suggesting some investors think the £7bn-plus battle is not over.]]></description>
             <link>https://www.bbc.co.uk/news/business-58273916</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58273916</guid>
-            <pubDate>Fri, 20 Aug 2021 07:35:19 GMT</pubDate>
+            <pubDate>Fri, 20 Aug 2021 10:48:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Cinema box office takings at 50% of pre-pandemic levels]]></title>
@@ -84,13 +91,6 @@
             <link>https://www.bbc.co.uk/news/health-58274916</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/health-58274916</guid>
             <pubDate>Fri, 20 Aug 2021 05:35:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sheffield hotel fall: Boy who died was Afghan refugee]]></title>
-            <description><![CDATA[Five-year-old Mohammed Munib Majeedi and his family arrived in the UK two weeks ago.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-south-yorkshire-58269533</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-south-yorkshire-58269533</guid>
-            <pubDate>Thu, 19 Aug 2021 20:32:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sonny Chiba: Japan's martial arts star and Kill Bill actor dies of Covid at 82]]></title>
@@ -230,7 +230,7 @@
             <description><![CDATA[Spain's 20-time Grand Slam champion Rafael Nadal has ended his 2021 season because of a foot injury.]]></description>
             <link>https://www.bbc.co.uk/sport/tennis/58281962</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/tennis/58281962</guid>
-            <pubDate>Fri, 20 Aug 2021 10:30:14 GMT</pubDate>
+            <pubDate>Fri, 20 Aug 2021 10:45:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Osaka beaten by Swiss wildcard Teichmann at Cincinnati Masters]]></title>
@@ -321,7 +321,7 @@
             <description><![CDATA[All over-16s can get the Covid vaccine - but the idea of offering a third jab to the most vulnerable is still being considered.]]></description>
             <link>https://www.bbc.co.uk/news/health-55045639</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/health-55045639</guid>
-            <pubDate>Thu, 19 Aug 2021 12:43:40 GMT</pubDate>
+            <pubDate>Fri, 20 Aug 2021 10:53:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What are the rules and guidance for face masks and coverings?]]></title>
