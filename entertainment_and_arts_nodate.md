@@ -14,7 +14,7 @@
 14. [Lady Leshurr: Rapper used lockdown to focus on mental health](https://www.bbc.co.uk/news/uk-england-birmingham-58256836) - The 32-year-old says life sometimes feels like a running machine at the gym with no stop button.
 15. [Banksy: A guide to his 'Great British Spraycation'](https://www.bbc.co.uk/news/uk-england-norfolk-58145220) - New murals that have appeared on England's east coast are confirmed as the work of the elusive artist.
 16. [Noel Gallagher: Photographer captures Oasis star's years on tour](https://www.bbc.co.uk/news/uk-england-manchester-58229489) - Sharon Latham travelled the world with Noel Gallagher after she joked about photographing his band.
-17. [Drag Race UK queens on battles with Brexit and Covid](https://www.bbc.co.uk/news/newsbeat-58270184) - The latest British series features its first ever female drag queen, and a familiar face.
+17. [Drag Race UK queens: Pandemic show 'pushed creativity'](https://www.bbc.co.uk/news/newsbeat-58270184) - Newsbeat has spoken to all 12 queens taking part in the new series.
 18. [You may go to the ball: Cinderella opens in the West End](https://www.bbc.co.uk/news/entertainment-arts-58260252) - Andrew Lloyd Webber and Emerald Fennel’s reimagining of the classic fairytale debuts in London.
 19. [Bill Bailey pays tribute to ‘dearest friend’ Sean Lock](https://www.bbc.co.uk/news/entertainment-arts-58262399) - The comedian remembers Sean Lock, who has died from cancer at the age of 58.
 20. [Bill Murray: Golf-loving Ghostbusters star given hand-forged putter](https://www.bbc.co.uk/news/uk-northern-ireland-58263907) - When the comedy star needed a new putter, who was he gonna call? A County Antrim blacksmith of course.

@@ -3,9 +3,9 @@
 3. [Covid: Hotel thought prom-goers had negative tests before spike](https://www.bbc.co.uk/news/uk-wales-58269876) - More than 50 positive cases are linked to a Year 11 graduation party at a hotel.
 4. [Bridgend mother in court charged with murder of her two-year-old son](https://www.bbc.co.uk/news/uk-wales-58260646) - Natalie Steele has been charged with the murder of two-year-old Reid Steele.
 5. [Record number of bids for UK City of Culture 2025](https://www.bbc.co.uk/news/uk-england-58272630) - For the first time groups of towns or areas have been able to bid for the cultural capital title.
-6. [Mental health crisis ends in cells for too many, snapshot suggests](https://www.bbc.co.uk/news/uk-58270064) - Official data shows how many people in mental health crisis police held in a year in England and Wales.
+6. [Afghanistan: Welsh woman trying to help translator flee Kabul](https://www.bbc.co.uk/news/uk-wales-58272107) - Anna Prince struck up a friendship with the man after they started chatting about art on Facebook.
 7. [Green Man: Tears and joy as festival returns against Covid odds](https://www.bbc.co.uk/news/uk-wales-58267969) - Tickets for the festival sold out in minutes back in May, despite Covid uncertainty.
-8. [Afghanistan: Welsh woman trying to help translator flee Kabul](https://www.bbc.co.uk/news/uk-wales-58272107) - Anna Prince struck up a friendship with the man after they started chatting about art on Facebook.
+8. [Mental health crisis ends in cells for too many, snapshot suggests](https://www.bbc.co.uk/news/uk-58270064) - Official data shows how many people in mental health crisis police held in a year in England and Wales.
 9. [One-Day Cup: Glamorgan beat Durham at Trent Bridge to win first knockout trophy](https://www.bbc.co.uk/sport/cricket/58237726) - Glamorgan beat Durham by 58 runs to win the One-Day Cup at Trent Bridge - their first knockout trophy.
 10. [NHS Wales: Waiting times hit record levels](https://www.bbc.co.uk/news/uk-wales-58267774) - Numbers waiting for hospital treatment hit record levels and A&E waiting times are the worst on record.
 11. [DVLA: Apology over continuing driving licence renewal delays](https://www.bbc.co.uk/news/uk-wales-58266532) - Industrial action and social distancing requirements have led to continuing delays, says the DVLA.
