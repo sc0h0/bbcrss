@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 20 Aug 2021 18:51:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Aug 2021 19:04:40 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Joe Biden to Americans in Afghanistan: 'We will get you home']]></title>
+            <description><![CDATA[Mr Biden has come under intense criticism amid the chaotic withdrawal of US troops from Afghanistan.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-58285923</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-58285923</guid>
+            <pubDate>Fri, 20 Aug 2021 18:39:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Afghanistan: Boris Johnson says he has full confidence in Dominic Raab]]></title>
             <description><![CDATA[The UK foreign secretary is facing calls to quit over his handling of evacuations.]]></description>
@@ -37,18 +44,18 @@
             <pubDate>Fri, 20 Aug 2021 18:49:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid-19: NI records highest number of cases in a single day]]></title>
-            <description><![CDATA[Another 2,397 cases are reported, as doctors warn hospital staff are struggling to meet demand.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58278998</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58278998</guid>
-            <pubDate>Fri, 20 Aug 2021 15:55:11 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Jill Murphy: The Worst Witch and Large family author dies at 72]]></title>
             <description><![CDATA[The children's writer and illustrator also published picture books like the Large family series.]]></description>
             <link>https://www.bbc.co.uk/news/entertainment-arts-58283965</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-58283965</guid>
             <pubDate>Fri, 20 Aug 2021 15:18:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19: NI records highest number of cases in a single day]]></title>
+            <description><![CDATA[Another 2,397 cases are reported, as doctors warn hospital staff are struggling to meet demand.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58278998</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58278998</guid>
+            <pubDate>Fri, 20 Aug 2021 15:55:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Streatham terror attack: Prison recall might have stopped Sudesh Amman]]></title>
@@ -84,13 +91,6 @@
             <link>https://www.bbc.co.uk/news/uk-58284833</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58284833</guid>
             <pubDate>Fri, 20 Aug 2021 15:27:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Spain migrants: Sole survivor rescued in dinghy in Atlantic]]></title>
-            <description><![CDATA[The woman, who was spotted clinging to an upturned boat, says at least 52 other people died.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58279185</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58279185</guid>
-            <pubDate>Fri, 20 Aug 2021 10:08:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Red phone box stolen from Cheshire garden in broad daylight]]></title>
@@ -280,13 +280,6 @@
             <link>https://www.bbc.co.uk/sport/av/cricket/58238657</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/cricket/58238657</guid>
             <pubDate>Fri, 20 Aug 2021 05:08:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Hundred: Oval Invincibles' Tash Farrant produces fantastic diving catch against Birmingham Phoenix]]></title>
-            <description><![CDATA[Watch Oval Invincibles' Tash Farrant produce the "catch of the tournament" to dismiss Birmingham Phoenix's Erin Burns in The Hundred Eliminators at the Kia Oval.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/cricket/58285155</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/cricket/58285155</guid>
-            <pubDate>Fri, 20 Aug 2021 16:37:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Afghanistan: Tears and applause as UK appeal helps refugees]]></title>
