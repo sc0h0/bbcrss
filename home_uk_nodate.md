@@ -7,10 +7,10 @@
 7. [Cinema box office takings at 50% of pre-pandemic levels](https://www.bbc.co.uk/news/entertainment-arts-58270577) - Box office takings in the past month are half of their pre-pandemic levels.
 8. [Sheffield hotel fall: Boy who died was Afghan refugee](https://www.bbc.co.uk/news/uk-england-south-yorkshire-58269533) - Five-year-old Mohammed Munib Majeedi and his family arrived in the UK two weeks ago.
 9. [Afghanistan: Child handed over Kabul airport wall as chaos continues](https://www.bbc.co.uk/news/world-asia-58267756) - Afghans try to scale airport walls and shots are fired as crowds keep trying to flee the Taliban.
-10. [Covid: UK vaccine booster scheme likely to start in September - Sajid Javid](https://www.bbc.co.uk/news/uk-58271911) - The proposed rollout of third doses is likely to start in September, the health secretary says.
-11. [Baby bats babble like humans](https://www.bbc.co.uk/news/science-environment-58271913) - Babbling in baby bats bears a striking resemblance to human infants learning to talk, researchers find.
-12. [Blue singer Lee Ryan tells court he cannot afford £1,500 fine](https://www.bbc.co.uk/news/uk-england-cambridgeshire-58274941) - The 38-year-old singer was banned from driving for 12 months and given a fine.
-13. [Ex-MP Jared O'Mara charged with seven counts of fraud](https://www.bbc.co.uk/news/uk-england-south-yorkshire-58272878) - Jared O'Mara is charged in relation to alleged fraudulent expenses claims, the CPS say.
+10. [Britney Spears investigated over dispute with employee](https://www.bbc.co.uk/news/entertainment-arts-58276564) - A member of staff says the singer struck her, while Ms Spears' lawyer says no-one was injured.
+11. [Covid: UK vaccine booster scheme likely to start in September - Sajid Javid](https://www.bbc.co.uk/news/uk-58271911) - The proposed rollout of third doses is likely to start in September, the health secretary says.
+12. [Baby bats babble like humans](https://www.bbc.co.uk/news/science-environment-58271913) - Babbling in baby bats bears a striking resemblance to human infants learning to talk, researchers find.
+13. [Blue singer Lee Ryan tells court he cannot afford £1,500 fine](https://www.bbc.co.uk/news/uk-england-cambridgeshire-58274941) - The 38-year-old singer was banned from driving for 12 months and given a fine.
 14. [The Papers: 'Bad call, minister' as pressure increases on Raab](https://www.bbc.co.uk/news/blogs-the-papers-58276354) - Some of the papers focus on the future of the foreign secretary over his handling of the Afghanistan crisis.
 15. [What's behind the rising gun violence in the US?](https://www.bbc.co.uk/news/world-us-canada-58207384) - After a decline, gun violence in cities like Washington DC has been increasing since 2018.
 16. [Quiz of the week: Rude place names and noisy ice-cream vans](https://www.bbc.co.uk/news/world-58255328) - How closely have you been paying attention to what's been going on during the past seven days?
