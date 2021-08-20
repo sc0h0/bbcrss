@@ -1,6 +1,6 @@
 1. [Afghanistan: Taliban carrying out door-to door manhunt, report says](https://www.bbc.co.uk/news/world-asia-58271797) - The militants are searching for those who worked with Nato forces, a UN document warns.
 2. [Zaki Anwari: Afghan footballer falls to death from US plane in Kabul](https://www.bbc.co.uk/news/world-asia-58272740) - Zaki Anwari, 19, had played for Afghanistan's national youth team before trying to flee the country.
-3. [Afghanistan crisis: 'Many here will be deeply fearful for their future'](https://www.bbc.co.uk/news/world-asia-58262874) - The BBC's Secunder Kermani reports from the heart of Kabul during the unfolding crisis in Afghanistan.
+3. [Covid: Sydney extends lockdown and puts two million under curfew](https://www.bbc.co.uk/news/world-australia-58277503) - Australia's largest city now faces stay-at-home orders until at least the end of September.
 4. [Haiti earthquake: Rescue efforts continue in Les Cayes](https://www.bbc.co.uk/news/world-latin-america-58274326) - The death toll from the 7.2-magnitude quake is now over 2,000, with many still missing in towns like Les Cayes.
 5. [New York officer rescues fallen man from subway train](https://www.bbc.co.uk/news/world-us-canada-58277097) - A bystander captured the harrowing moments after a passenger fell unconscious from the platform.
 6. [Washington DC: Man arrested over bomb threat near US Capitol](https://www.bbc.co.uk/news/world-us-canada-58273778) - US Capitol Police had been negotiating with the driver of a suspicious vehicle on Capitol Hill.
