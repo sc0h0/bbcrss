@@ -21,7 +21,7 @@
 21. [Ryan Reynolds and Rob McElhenney: Hollywood owners recognised Wrexham's 'huge potential'](https://www.bbc.co.uk/sport/football/58259801) - Hollywood stars Rob McElhenney and Ryan Reynolds recognised the "huge potential" of Wrexham says manager Phil Parkinson.
 22. [One-Day Cup: Glamorgan captain Kiran Carlson delight at creating history](https://www.bbc.co.uk/sport/cricket/58275483) - Glamorgan captain Kiran Carlson admitted he was chuffed to have created history after leading his side to their first limited overs cup final victory.
 23. [Llofrudd Clydach, David Morris, wedi marw yn y carchar](https://www.bbc.co.uk/newyddion/58268290) - David Morris, a gafwyd yn euog o lofruddio pedwar aelod o'r un teulu, wedi marw yn 59 oed.
-24. [Covid: 'Ni'n haeddu ymchwiliad cyhoeddus penodol i Gymru'](https://www.bbc.co.uk/newyddion/58271933) - Dynes yn ymgyrchu am ymchwiliad cyhoeddus i Gymru ar ôl i'w thad farw yn sgil rheolaeth "wael" o'r feirws.
-25. [Dyn yn gwadu llofruddio merch 16 oed yn Ynyswen](https://www.bbc.co.uk/newyddion/58281393) - Mae Chun Xu wedi'i gyhuddo o lofruddio Wenjing Lin yn nhŷ bwyta ei theulu yn Rhondda Cynon Taf.
+24. [Dyn yn gwadu llofruddio merch 16 oed yn Ynyswen](https://www.bbc.co.uk/newyddion/58281393) - Mae Chun Xu wedi'i gyhuddo o lofruddio Wenjing Lin yn nhŷ bwyta ei theulu yn Rhondda Cynon Taf.
+25. ['Methu gorfodi chwaraewyr i gael brechiad Covid-19'](https://www.bbc.co.uk/newyddion/58286943) - Rhai chwaraewyr yn gyndyn o gael eu brechiad coronafeirws, medd rheolwyr Caerdydd ac Abertawe.
 26. [Yr hunlle' eithaf... haf llawn chwaraeon!](https://www.bbc.co.uk/newyddion/58187206) - Tydi Beth Angell heb fwynhau yr holl gampau fu ymlaen yn ddiweddar.
-27. ['Methu gorfodi chwaraewyr i gael brechiad Covid-19'](https://www.bbc.co.uk/newyddion/58286943) - Rhai chwaraewyr yn gyndyn o gael eu brechiad coronafeirws, medd rheolwyr Caerdydd ac Abertawe.
+27. [Morgannwg yn curo Durham i ennill y Cwpan Undydd](https://www.bbc.co.uk/newyddion/58272328) - Morgannwg wedi llwyddo i ennill eu tlws cyntaf ers 2004 gyda buddugoliaeth o 58 o rediadau yn Trent Bridge.

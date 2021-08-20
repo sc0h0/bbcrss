@@ -1,5 +1,5 @@
 1. [Joe Biden to Americans in Afghanistan: 'We will get you home'](https://www.bbc.co.uk/news/world-us-canada-58285923) - Mr Biden has come under intense criticism amid the chaotic withdrawal of US troops from Afghanistan.
-2. [Afghanistan: Taliban 'tortured and massacred' men from Hazara minority](https://www.bbc.co.uk/news/world-asia-58277463) - Rights group Amnesty says the recent killings of men from the Hazara minority were a "horrifying indicator" of Taliban rule.
+2. ['They will kill me': Desperate Afghans seek way out after Taliban takeover](https://www.bbc.co.uk/news/world-asia-58286372) - Many Afghans are desperate to escape after the Taliban takeover. Some fear there is no way out.
 3. [Haiti earthquake: Tensions rise in struggle to get aid to victims](https://www.bbc.co.uk/news/world-latin-america-58284713) - Five days after a powerful earthquake struck, hundreds are missing and people are desperate for aid.
 4. [Spain migrants: Sole survivor rescued in dinghy in Atlantic](https://www.bbc.co.uk/news/world-europe-58279185) - The woman, who was spotted clinging to an upturned boat, says at least 52 other people died.
 5. [Jeopardy! host Mike Richards quits after sexist comments surface](https://www.bbc.co.uk/news/world-us-canada-58285996) - Mike Richards has stepped down as the new host of the show over comments he made on a 2013 podcast.

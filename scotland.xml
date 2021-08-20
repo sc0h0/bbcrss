@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 20 Aug 2021 19:24:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Aug 2021 19:39:39 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -23,11 +23,11 @@
             <pubDate>Fri, 20 Aug 2021 14:26:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid in Scotland: Where are the latest cases?]]></title>
-            <description><![CDATA[A daily update on the number and location of coronavirus cases in Scotland.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-53511877</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-53511877</guid>
-            <pubDate>Fri, 20 Aug 2021 14:10:01 GMT</pubDate>
+            <title><![CDATA[Couple ordered to pay back £8,000 of £2.4m mortgage fraud]]></title>
+            <description><![CDATA[Edwin McLaren and his wife Lorraine conned dozens of people in financial difficulty between 2008 and 2012.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58287331</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58287331</guid>
+            <pubDate>Fri, 20 Aug 2021 19:27:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[ScotRail plans to cut 300 train services]]></title>
@@ -42,6 +42,13 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58282328</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58282328</guid>
             <pubDate>Fri, 20 Aug 2021 12:05:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid in Scotland: Where are the latest cases?]]></title>
+            <description><![CDATA[A daily update on the number and location of coronavirus cases in Scotland.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-53511877</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-53511877</guid>
+            <pubDate>Fri, 20 Aug 2021 14:10:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Alex Cole-Hamilton confirmed as new Lib Dem leader]]></title>
@@ -84,13 +91,6 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-south-scotland-58282703</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-south-scotland-58282703</guid>
             <pubDate>Fri, 20 Aug 2021 13:55:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dogs stolen in Angus break-in 'found tied to fence']]></title>
-            <description><![CDATA[The two springer spaniels were taken along with garden equipment and tools in the theft in Angus.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-tayside-central-58281001</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-tayside-central-58281001</guid>
-            <pubDate>Fri, 20 Aug 2021 16:18:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid in Scotland: How have the rules changed?]]></title>
@@ -219,18 +219,25 @@
             <pubDate>Fri, 20 Aug 2021 11:29:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Rangers: Europa League play-off second leg at Alashkert live on BBC Scotland]]></title>
-            <description><![CDATA[Rangers' bid to secure a place in the Europa League group stage will be live on BBC Scotland on Thursday.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58279924</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58279924</guid>
-            <pubDate>Fri, 20 Aug 2021 11:01:17 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Women's Open 2021: England's Georgia Hall shares Carnoustie lead after day two]]></title>
             <description><![CDATA[England's Georgia Hall continues her bid for a second AIG Women's Open title by taking a share of the clubhouse lead on day two at Carnoustie.]]></description>
             <link>https://www.bbc.co.uk/sport/golf/58274181</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/golf/58274181</guid>
             <pubDate>Fri, 20 Aug 2021 17:22:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Raith Rovers A-A Dunfermline Athletic]]></title>
+            <description><![CDATA[The Fife derby between Raith Rovers and Dunfermline had to be abandoned after a power failure at Stark's Park.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58196364</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58196364</guid>
+            <pubDate>Fri, 20 Aug 2021 19:28:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rangers: Europa League play-off second leg at Alashkert live on BBC Scotland]]></title>
+            <description><![CDATA[Rangers' bid to secure a place in the Europa League group stage will be live on BBC Scotland on Thursday.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58279924</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58279924</guid>
+            <pubDate>Fri, 20 Aug 2021 11:01:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
