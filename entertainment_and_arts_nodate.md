@@ -1,4 +1,4 @@
-1. [The Worst Witch author Jill Murphy dies](https://www.bbc.co.uk/news/entertainment-arts-58283965) - The children's writer and illustrator also published picture books like the Large family series.
+1. [Jill Murphy: The Worst Witch and Large family author dies at 72](https://www.bbc.co.uk/news/entertainment-arts-58283965) - The children's writer and illustrator also published picture books like the Large family series.
 2. [Cinema box office takings at 50% of pre-pandemic levels](https://www.bbc.co.uk/news/entertainment-arts-58270577) - Box office takings in the past month are half of their pre-pandemic levels.
 3. [Clive Myrie: Becoming host of Mastermind is a big, big job](https://www.bbc.co.uk/news/entertainment-arts-58150617) - The journalist may be feeling jittery about his new role but hopes it will reveal his lighter side.
 4. [Sonny Chiba: Japan's martial arts star and Kill Bill actor dies of Covid at 82](https://www.bbc.co.uk/news/entertainment-arts-58279397) - The actor and martial arts legend played a swordsmith in Quentin Tarantino's Kill Bill films.
