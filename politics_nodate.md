@@ -1,4 +1,4 @@
-1. [Afghanistan: Dominic Raab defends interpreter phone call decision](https://www.bbc.co.uk/news/uk-politics-58282163) - The UK foreign secretary is facing calls to quit over his handling of evacuations.
+1. [Afghanistan: Boris Johnson says he has full confidence in Dominic Raab](https://www.bbc.co.uk/news/uk-politics-58283588) - The UK foreign secretary is facing calls to quit over his handling of evacuations.
 2. [SNP-Greens deal pledges indyref2 within five years](https://www.bbc.co.uk/news/uk-scotland-scotland-politics-58272209) - The agreement will take the Greens into government for the first time anywhere in the UK.
 3. [Afghanistan: Who originally supported Trump's deal with the Taliban?](https://www.bbc.co.uk/news/58271943) - UK Defence Secretary Ben Wallace now calls it a "rotten" deal but supported it at the time.
 4. [Afghan boy death: MPs call for urgent investigation after hotel fall](https://www.bbc.co.uk/news/uk-england-south-yorkshire-58280360) - A group of MPs backs calls for an investigation into the safety of accommodation for Afghan refugees.

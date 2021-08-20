@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 20 Aug 2021 16:03:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Aug 2021 16:39:39 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -84,6 +84,13 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-south-scotland-58282703</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-south-scotland-58282703</guid>
             <pubDate>Fri, 20 Aug 2021 13:55:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dogs stolen in Angus break-in 'found tied to fence']]></title>
+            <description><![CDATA[The two springer spaniels were taken along with garden equipment and tools in the theft in Angus.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-tayside-central-58281001</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-tayside-central-58281001</guid>
+            <pubDate>Fri, 20 Aug 2021 16:18:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid in Scotland: How have the rules changed?]]></title>
@@ -219,18 +226,18 @@
             <pubDate>Fri, 20 Aug 2021 11:01:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Scottish Premiership: Things to watch out for this weekend]]></title>
-            <description><![CDATA[From self-isolating managers to a top-of-the-table showdown, here's what to look out for in the Scottish Premiership this weekend.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58279065</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58279065</guid>
-            <pubDate>Fri, 20 Aug 2021 15:50:23 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Neil Fachie: Refreshed champion drops thoughts of retiring after Tokyo Paralympics]]></title>
             <description><![CDATA[Neil Fachie has rediscovered his love of cycling before the Tokyo Paralympics, the world champion reveals in a BBC Scotland documentary.]]></description>
             <link>https://www.bbc.co.uk/sport/scotland/58199653</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/scotland/58199653</guid>
             <pubDate>Fri, 20 Aug 2021 09:39:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Scottish Premiership: Things to watch out for this weekend]]></title>
+            <description><![CDATA[From self-isolating managers to a top-of-the-table showdown, here's what to look out for in the Scottish Premiership this weekend.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58279065</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58279065</guid>
+            <pubDate>Fri, 20 Aug 2021 15:50:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
