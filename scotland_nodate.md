@@ -1,4 +1,4 @@
-1. [Details of SNP-Greens power sharing deal revealed](https://www.bbc.co.uk/news/uk-scotland-scotland-politics-58272209) - The agreement will see Greens enter national government for the first time anywhere in the UK.
+1. [Details of SNP-Greens power sharing deal revealed](https://www.bbc.co.uk/news/uk-scotland-scotland-politics-58272209) - The agreement commits the two parties to holding an independence referendum within the next five years.
 2. [ScotRail plans to cut 300 train services](https://www.bbc.co.uk/news/uk-scotland-scotland-business-58279271) - The rail operator is consulting on a slimmed down timetable in the aftermath of the Covid pandemic.
 3. [Renee Macrae murder accused may be unfit for trial](https://www.bbc.co.uk/news/uk-scotland-highlands-islands-58281003) - William MacDowell, 79, who denies the allegations, suffers from three significant illnesses, a court has heard.
 4. [Glasgow college worker took £500,000 of electronic devices to sell](https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58282328) - Afsha Rana has been jailed for 27 months after selling more than 170 devices at a pawnbroker in Glasgow.

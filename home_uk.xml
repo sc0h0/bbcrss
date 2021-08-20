@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 20 Aug 2021 13:22:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Aug 2021 13:37:31 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -44,6 +44,13 @@
             <pubDate>Fri, 20 Aug 2021 10:48:21 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Details of SNP-Greens power sharing deal revealed]]></title>
+            <description><![CDATA[The agreement commits the two parties to holding an independence referendum within the next five years.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-scotland-politics-58272209</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-scotland-politics-58272209</guid>
+            <pubDate>Fri, 20 Aug 2021 13:36:06 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Afghan boy death: MPs call for urgent investigation after hotel fall]]></title>
             <description><![CDATA[A group of MPs backs calls for the government to review the safety of accommodation for Afghan refugees.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-south-yorkshire-58280360</link>
@@ -63,13 +70,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-58272630</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-58272630</guid>
             <pubDate>Fri, 20 Aug 2021 05:16:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Details of SNP-Greens power sharing deal revealed]]></title>
-            <description><![CDATA[The agreement will see Greens enter national government for the first time anywhere in the UK.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-scotland-politics-58272209</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-scotland-politics-58272209</guid>
-            <pubDate>Fri, 20 Aug 2021 13:19:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Spain migrants: Sole survivor rescued in dinghy in Atlantic]]></title>
@@ -107,8 +107,8 @@
             <pubDate>Thu, 19 Aug 2021 12:28:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[What's behind the rising gun violence in the US?]]></title>
-            <description><![CDATA[After a decline, gun violence in cities like Washington DC has been increasing since 2018.]]></description>
+            <title><![CDATA[The devastating human cost of rising gun violence in the US]]></title>
+            <description><![CDATA[Deadly shootings in many US cities are on the rise - poorer and black communities are hardest hit.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-58207384</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-58207384</guid>
             <pubDate>Fri, 20 Aug 2021 01:30:15 GMT</pubDate>

@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 20 Aug 2021 13:21:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Aug 2021 13:35:39 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -30,18 +30,18 @@
             <pubDate>Fri, 20 Aug 2021 13:02:21 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid-19: Nine more deaths and 2,397 new cases]]></title>
+            <description><![CDATA[There are currently 388 patients with Covid in NI's hospitals, up from 377 on Thursday.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58279485</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58279485</guid>
+            <pubDate>Fri, 20 Aug 2021 13:26:33 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Hundreds of newly-qualified teachers not registered to teach in NI]]></title>
             <description><![CDATA[About 500 new teachers are waiting to be fully registered and cannot be employed until then.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58274469</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58274469</guid>
             <pubDate>Fri, 20 Aug 2021 05:20:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid-19: Swann sets target of 90% of NI jabbed for Covid-19]]></title>
-            <description><![CDATA[Having 90% of people in NI vaccinated would take pressure off the health service, says Robin Swann.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58269477</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58269477</guid>
-            <pubDate>Thu, 19 Aug 2021 21:28:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[M1 crash: Six people taken to hospital after crash]]></title>
@@ -63,6 +63,13 @@
             <link>https://www.bbc.co.uk/news/world-europe-58279482</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58279482</guid>
             <pubDate>Fri, 20 Aug 2021 08:26:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19: Swann sets target of 90% of NI jabbed for Covid-19]]></title>
+            <description><![CDATA[Having 90% of people in NI vaccinated would take pressure off the health service, says Robin Swann.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58269477</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58269477</guid>
+            <pubDate>Thu, 19 Aug 2021 21:28:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Armagh makes bid for UK City of Culture]]></title>
