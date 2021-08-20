@@ -1,5 +1,5 @@
 1. [Cinema box office takings at 50% of pre-pandemic levels](https://www.bbc.co.uk/news/entertainment-arts-58270577) - Box office takings in the past month are half of their pre-pandemic levels.
-2. [Clive Myrie: Becoming Mastermind host is a big, big job](https://www.bbc.co.uk/news/entertainment-arts-58150617) - The journalist may be feeling jittery about his new role but hopes it will reveal his lighter side.
+2. [Clive Myrie: Becoming host of Mastermind is a big, big job](https://www.bbc.co.uk/news/entertainment-arts-58150617) - The journalist may be feeling jittery about his new role but hopes it will reveal his lighter side.
 3. [Britney Spears investigated over dispute with employee](https://www.bbc.co.uk/news/entertainment-arts-58276564) - A member of staff says the singer struck her, while Ms Spears' lawyer says no-one was injured.
 4. [Blue singer Lee Ryan tells court he cannot afford £1,500 fine](https://www.bbc.co.uk/news/uk-england-cambridgeshire-58274941) - The 38-year-old singer was banned from driving for 12 months and given a fine.
 5. [Record number of bids for UK City of Culture 2025](https://www.bbc.co.uk/news/uk-england-58272630) - For the first time groups of towns or areas have been able to bid for the cultural capital title.

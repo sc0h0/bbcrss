@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 20 Aug 2021 07:35:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Aug 2021 07:48:51 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -37,13 +37,6 @@
             <pubDate>Thu, 19 Aug 2021 23:50:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Facebook moves to protect Afghan users' accounts amid Taliban takeover]]></title>
-            <description><![CDATA[The tech giant says it wants to reassure people worried about being tracked down by the Taliban.]]></description>
-            <link>https://www.bbc.co.uk/news/technology-58277175</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-58277175</guid>
-            <pubDate>Fri, 20 Aug 2021 04:45:02 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[China NPC: Three-child policy formally passed into law]]></title>
             <description><![CDATA[The top legislature was also expected to approve a controversial anti-sanctions law for Hong Kong.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-china-58277473</link>
@@ -51,11 +44,11 @@
             <pubDate>Fri, 20 Aug 2021 06:54:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid: Sydney extends lockdown and puts two million under curfew]]></title>
-            <description><![CDATA[Australia's largest city now faces stay-at-home orders until at least the end of September.]]></description>
+            <title><![CDATA[Covid: Sydney lockdown extended and curfew imposed on 2m people]]></title>
+            <description><![CDATA[Residents of the country's largest city now face stay-at-home orders until at least the end of September.]]></description>
             <link>https://www.bbc.co.uk/news/world-australia-58277503</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-australia-58277503</guid>
-            <pubDate>Fri, 20 Aug 2021 02:54:39 GMT</pubDate>
+            <pubDate>Fri, 20 Aug 2021 07:35:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Paralympics: Palak Kohli on preparing for Tokyo 2020]]></title>
@@ -70,6 +63,20 @@
             <link>https://www.bbc.co.uk/news/business-58277359</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58277359</guid>
             <pubDate>Fri, 20 Aug 2021 03:35:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[BHP sacked 48 over sexual harassment and assaults at Australian mines]]></title>
+            <description><![CDATA[An Australian inquiry has heard allegations of rape and sexual harassment at remote mining camps.]]></description>
+            <link>https://www.bbc.co.uk/news/world-australia-58278104</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-australia-58278104</guid>
+            <pubDate>Fri, 20 Aug 2021 07:25:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Facebook moves to protect Afghan users' accounts amid Taliban takeover]]></title>
+            <description><![CDATA[The tech giant says it wants to reassure people worried about being tracked down by the Taliban.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-58277175</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-58277175</guid>
+            <pubDate>Fri, 20 Aug 2021 04:45:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Child handed over wall amid Kabul airport chaos]]></title>
@@ -91,13 +98,6 @@
             <link>https://www.bbc.co.uk/news/world-asia-58264917</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58264917</guid>
             <pubDate>Thu, 19 Aug 2021 13:59:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['It was very emotional on the plane out of Afghanistan']]></title>
-            <description><![CDATA[Afghan businesswoman Hassina Syed speaks of her relief at getting out on a British military plane.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58256816</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58256816</guid>
-            <pubDate>Wed, 18 Aug 2021 09:49:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[IMF suspends Afghanistan's access to funds]]></title>
@@ -126,6 +126,13 @@
             <link>https://www.bbc.co.uk/news/technology-58258385</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-58258385</guid>
             <pubDate>Wed, 18 Aug 2021 17:17:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['It was very emotional on the plane out of Afghanistan']]></title>
+            <description><![CDATA[Afghan businesswoman Hassina Syed speaks of her relief at getting out on a British military plane.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-58256816</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58256816</guid>
+            <pubDate>Wed, 18 Aug 2021 09:49:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Afghanistan: The Taliban's victory will test India, and peace in South Asia]]></title>
