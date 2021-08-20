@@ -11,13 +11,13 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 20 Aug 2021 21:19:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Aug 2021 21:33:29 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
             <title><![CDATA[Afghanistan: The desperate scramble to escape]]></title>
-            <description><![CDATA[Scenes of chaos and panic continue in Kabul as thousands still crowd the airport.]]></description>
+            <description><![CDATA[The BBC witnesses scenes of chaos and panic as thousands still crowd Kabul's airport.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-58286000</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58286000</guid>
             <pubDate>Fri, 20 Aug 2021 20:54:30 GMT</pubDate>
@@ -37,13 +37,6 @@
             <pubDate>Fri, 20 Aug 2021 20:28:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA['They will kill me': Desperate Afghans seek way out after Taliban takeover]]></title>
-            <description><![CDATA[Many Afghans are desperate to escape after the Taliban takeover. Some fear there is no way out.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58286372</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58286372</guid>
-            <pubDate>Fri, 20 Aug 2021 19:32:19 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Afghanistan: Boris Johnson says he has full confidence in Dominic Raab]]></title>
             <description><![CDATA[The UK foreign secretary is facing calls to quit over his handling of evacuations.]]></description>
             <link>https://www.bbc.co.uk/news/uk-politics-58283588</link>
@@ -58,11 +51,32 @@
             <pubDate>Fri, 20 Aug 2021 15:18:36 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Peterborough mum back at home with baby born before Covid coma]]></title>
+            <description><![CDATA[Hajrah Aslam described being back at home with her baby as a "dream come true".]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-cambridgeshire-58283552</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-cambridgeshire-58283552</guid>
+            <pubDate>Fri, 20 Aug 2021 15:55:58 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Bournemouth boy, 13, dies of suspected drug overdose]]></title>
             <description><![CDATA[A 14-year-old boy has been arrested after Mehmet Altun, 13, became ill in Bournemouth and died.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-dorset-58287803</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-dorset-58287803</guid>
             <pubDate>Fri, 20 Aug 2021 20:06:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[New visas urged to tackle EU lorry driver shortage]]></title>
+            <description><![CDATA[A lorry driver shortage is leaving shelves empty, and one group wants 10,000 EU visas granted to solve it.]]></description>
+            <link>https://www.bbc.co.uk/news/business-58287003</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58287003</guid>
+            <pubDate>Fri, 20 Aug 2021 20:46:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Poison algae may have killed California family, police say]]></title>
+            <description><![CDATA[A family of three may have been killed by toxic algae blooms on a hiking trail, investigators say.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-58288482</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-58288482</guid>
+            <pubDate>Fri, 20 Aug 2021 21:18:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Gun returned to Plymouth attacker after rehabilitation scheme]]></title>
@@ -77,20 +91,6 @@
             <link>https://www.bbc.co.uk/news/health-58281665</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/health-58281665</guid>
             <pubDate>Fri, 20 Aug 2021 16:01:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid-19 and sport: Government data shows mass participation events can happen 'safely']]></title>
-            <description><![CDATA[Data from the UK government's Covid pilot scheme to test the return of big crowds to venues shows major events "can be conducted safely".]]></description>
-            <link>https://www.bbc.co.uk/sport/58284983</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/58284983</guid>
-            <pubDate>Fri, 20 Aug 2021 16:27:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Peterborough mum back at home with baby born before Covid coma]]></title>
-            <description><![CDATA[Hajrah Aslam described being back at home with her baby as a "dream come true".]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-cambridgeshire-58283552</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-cambridgeshire-58283552</guid>
-            <pubDate>Fri, 20 Aug 2021 15:55:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Alexei Navalny: UK sanctions for seven Russians over poisoning]]></title>
@@ -296,11 +296,18 @@
             <pubDate>Fri, 20 Aug 2021 20:55:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Hundred: Oval Invincibles' Tash Farrant produces fantastic diving catch against Birmingham Phoenix]]></title>
-            <description><![CDATA[Watch Oval Invincibles' Tash Farrant produce the "catch of the tournament" to dismiss Birmingham Phoenix's Erin Burns in The Hundred Eliminators at the Kia Oval.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/cricket/58285155</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/cricket/58285155</guid>
-            <pubDate>Fri, 20 Aug 2021 16:37:45 GMT</pubDate>
+            <title><![CDATA[Trump out of British Open and loses number one ranking - on his birthday]]></title>
+            <description><![CDATA[Judd Trump loses in the British Open third round, surrendering the world number one ranking - on his birthday.]]></description>
+            <link>https://www.bbc.co.uk/sport/snooker/58287485</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/snooker/58287485</guid>
+            <pubDate>Fri, 20 Aug 2021 21:06:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['They will kill me': Desperate Afghans seek way out after Taliban takeover]]></title>
+            <description><![CDATA[Many Afghans are desperate to escape after the Taliban takeover. Some fear there is no way out.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58286372</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58286372</guid>
+            <pubDate>Fri, 20 Aug 2021 19:32:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Family of American taken by Taliban beg for return]]></title>

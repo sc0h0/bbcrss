@@ -1,4 +1,4 @@
-1. [Afghanistan: The desperate scramble to escape](https://www.bbc.co.uk/news/world-asia-58286000) - Fri, 20 Aug 2021 20:54:30 GMT - Scenes of chaos and panic continue in Kabul as thousands still crowd the airport.
+1. [Afghanistan: The desperate scramble to escape](https://www.bbc.co.uk/news/world-asia-58286000) - Fri, 20 Aug 2021 20:54:30 GMT - The BBC witnesses scenes of chaos and panic as thousands still crowd Kabul's airport.
 2. [China NPC: Three-child policy formally passed into law](https://www.bbc.co.uk/news/world-asia-china-58277473) - Fri, 20 Aug 2021 06:54:27 GMT - The top legislature was also expected to approve a controversial anti-sanctions law for Hong Kong.
 3. [Child handed over wall amid Kabul airport chaos](https://www.bbc.co.uk/news/world-asia-58267756) - Thu, 19 Aug 2021 17:15:36 GMT - Afghans try to scale airport walls and shots are fired as crowds keep trying to flee the Taliban.
 4. [Covid: Sydney lockdown extended and curfew imposed on 2m people](https://www.bbc.co.uk/news/world-australia-58277503) - Fri, 20 Aug 2021 07:35:35 GMT - Residents of the country's largest city now face stay-at-home orders until at least the end of September.
