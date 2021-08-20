@@ -15,7 +15,7 @@
 15. [Plasma donor meets children helped by donations](https://www.bbc.co.uk/news/uk-england-coventry-warwickshire-58261942) - A donor from Coventry meets a family from Nottingham whose children who were saved by plasma.
 16. [Pub car park 'rifle' arrest caught on film](https://www.bbc.co.uk/news/uk-england-norfolk-58258077) - Bodycam footage shows the response of armed police to reports of a man making threats with a rifle.
 17. [Hartpury says unvaccinated students cannot live on-site](https://www.bbc.co.uk/news/uk-england-gloucestershire-58281872) - Students without the Covid-19 jab may also have their access to social clubs and venues restricted.
-18. [Covid career changers: ‘Do something you love’](https://www.bbc.co.uk/news/business-58273913) - Young people say their career prospects and businesses have taken a financial hit from Covid.
+18. [Covid: Nottingham's Goose Fair called off for second year running](https://www.bbc.co.uk/news/uk-england-nottinghamshire-58284115) - A council says the cancellation is due to "ongoing concerns and uncertainty" about Covid.
 19. [Maldon councillors accused of Pride flag 'homophobia'](https://www.bbc.co.uk/news/uk-england-essex-58279641) - The Rev Tony Shrimpton and others are accused of making "blatant homophobic" remarks.
 20. [Mid Sussex Marlins: Senior swim team set new world record](https://www.bbc.co.uk/news/uk-england-sussex-58280117) - The quartet has a combined age of 280, and beat the previous world best in their age category.
 21. [Science teacher made pupil send sexual selfies](https://www.bbc.co.uk/news/uk-england-devon-58282016) - Josh Larcombe has been given a suspended jail sentence at Plymouth Crown Court.
