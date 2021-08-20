@@ -1,6 +1,6 @@
 1. [Streatham terror attack: Prison recall might have stopped Sudesh Amman](https://www.bbc.co.uk/news/uk-england-london-58281243) - Sudesh Amman could have been stopped from stabbing two people in south London, an inquest finds.
 2. [Gun returned to Plymouth attacker after rehabilitation scheme](https://www.bbc.co.uk/news/uk-england-devon-58282482) - A shotgun and certificate were returned to Jake Davison in July after a police review.
-3. [Afghan boy death: MPs call for urgent investigation after hotel fall](https://www.bbc.co.uk/news/uk-england-south-yorkshire-58280360) - A group of MPs backs calls for an investigation into the safety of accommodation for Afghan refugees.
+3. [Sheffield hotel fall: MPs call for urgent investigation after death](https://www.bbc.co.uk/news/uk-england-south-yorkshire-58280360) - They are backing a review into refugee safety after Mohammed Munib Majeedi fell from a hotel window.
 4. [Woman reverses own car off truck to foil Wolverhampton theft](https://www.bbc.co.uk/news/uk-england-birmingham-58282348) - She saves her vehicle from a transporter's ramp shortly after leaving a slimming club at a church.
 5. [Army supporting ambulance services in England](https://www.bbc.co.uk/news/health-58281665) - High demand and staffing shortages have meant the Army has been called in to help look after patients.
 6. [Covid-19: Statues recognise NHS staff and key workers](https://www.bbc.co.uk/news/uk-england-birmingham-58285340) - Each of the 51 statues on display in Birmingham has been decorated by a different artist.
