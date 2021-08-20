@@ -1,5 +1,5 @@
 1. [Dominic Raab's delegated phone call to Afghanistan not made](https://www.bbc.co.uk/news/uk-politics-58277008) - The government was unable to arrange the call about the evacuation of interpreters, it now says.
-2. [Afghanistan: Taliban carrying out door-to door manhunt, report says](https://www.bbc.co.uk/news/world-asia-58271797) - The militants are searching for those who worked with Nato forces, a UN document warns.
+2. [Afghanistan: Taliban carrying out door-to-door manhunt, report says](https://www.bbc.co.uk/news/world-asia-58271797) - The militants are searching for those who worked with Nato forces, a UN document warns.
 3. [Afghanistan: Taliban 'tortured and massacred' Hazara minority](https://www.bbc.co.uk/news/world-asia-58277463) - Rights group Amnesty says the recent Hazara killings were a "horrifying indicator" of Taliban rule.
 4. [OnlyFans to ban sexually explicit content](https://www.bbc.co.uk/news/business-58273914) - The online subscription site will prevent users from posting content showing 'sexually explicit conduct'.
 5. [New York officer rescues fallen man from subway train](https://www.bbc.co.uk/news/world-us-canada-58277097) - A bystander captured the harrowing moments after a passenger fell unconscious from the platform.

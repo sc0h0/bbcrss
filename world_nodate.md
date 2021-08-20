@@ -1,4 +1,4 @@
-1. [Afghanistan: Taliban carrying out door-to door manhunt, report says](https://www.bbc.co.uk/news/world-asia-58271797) - The militants are searching for those who worked with Nato forces, a UN document warns.
+1. [Afghanistan: Taliban carrying out door-to-door manhunt, report says](https://www.bbc.co.uk/news/world-asia-58271797) - The militants are searching for those who worked with Nato forces, a UN document warns.
 2. [Zaki Anwari: Afghan footballer falls to death from US plane in Kabul](https://www.bbc.co.uk/news/world-asia-58272740) - Zaki Anwari, 19, had played for Afghanistan's national youth team before trying to flee the country.
 3. [Afghanistan: Taliban 'tortured and massacred' Hazara minority](https://www.bbc.co.uk/news/world-asia-58277463) - Rights group Amnesty says the recent Hazara killings were a "horrifying indicator" of Taliban rule.
 4. [Covid: Sydney extends lockdown and puts two million under curfew](https://www.bbc.co.uk/news/world-australia-58277503) - Australia's largest city now faces stay-at-home orders until at least the end of September.

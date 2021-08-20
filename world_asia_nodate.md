@@ -1,4 +1,4 @@
-1. [Afghanistan: Taliban carrying out door-to door manhunt, report says](https://www.bbc.co.uk/news/world-asia-58271797) - The militants are searching for those who worked with Nato forces, a UN document warns.
+1. [Afghanistan: Taliban carrying out door-to-door manhunt, report says](https://www.bbc.co.uk/news/world-asia-58271797) - The militants are searching for those who worked with Nato forces, a UN document warns.
 2. [Afghanistan: Taliban 'tortured and massacred' Hazara minority](https://www.bbc.co.uk/news/world-asia-58277463) - Rights group Amnesty says the recent Hazara killings were a "horrifying indicator" of Taliban rule.
 3. [Taliban and women: Kabul university student on fears for future](https://www.bbc.co.uk/news/world-asia-58270423) - A Kabul university student tells the BBC how she is wiping out all traces of her previous life.
 4. [Facebook moves to protect Afghan users' accounts amid Taliban takeover](https://www.bbc.co.uk/news/technology-58277175) - The tech giant says it wants to reassure people worried about being tracked down by the Taliban.
