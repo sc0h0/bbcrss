@@ -7,7 +7,7 @@
 7. [Red phone box dug up and stolen from village garden](https://www.bbc.co.uk/news/uk-england-manchester-58280733) - Three men used a digger to steal the phone box, belonging to Chelford Parish Council, police say.
 8. [Warehouse destroyed in huge fire](https://www.bbc.co.uk/news/uk-england-coventry-warwickshire-58279006) - Deodorants stored at the site explode, "popping right through the night", the fire service says.
 9. [Ed Sheeran's 'Castle on the Hill': Repairs begin on Framlingham Castle](https://www.bbc.co.uk/news/uk-england-suffolk-58271839) - Vegetation will be cleared and mortar joints repointed on the castle that inspired the famous song.
-10. [Gosport hospital deaths: Son joins calls for 'Hillsborough-style' inquest](https://www.bbc.co.uk/news/uk-england-hampshire-58270719) - Logan Wilson, whose father died in 1998, says a "full and fearless" investigation must be held.
+10. [Students 'devastated' after losing Leeds college places](https://www.bbc.co.uk/news/uk-england-leeds-58281151) - Notre Dame College in Leeds is criticised for telling pupils by text the night before enrolment.
 11. [Geronimo the alpaca legal fight cost £43k plus lost income](https://www.bbc.co.uk/news/uk-england-bristol-58274260) - Helen Macdonald says apart from legal costs her farm has been deprived of income for four years.
 12. [Injured Dubai cat flown to Bradford rescue centre](https://www.bbc.co.uk/news/uk-england-leeds-58273901) - The cat was ‘left for dead’ until the centre paid for the transport to West Yorkshire.
 13. ['I thought I can make a difference'](https://www.bbc.co.uk/news/uk-england-humber-58274021) - A Hull hairdresser who lost his own hair due to cancer is now making wigs to help others.
