@@ -2,7 +2,7 @@
 2. [Apple delays recalling staff to the office until 2022](https://www.bbc.co.uk/news/business-58281902) - The decision comes as fears grow over the impact of surging Covid cases in the US.
 3. [Morrisons backs US firm's improved £7bn takeover offer](https://www.bbc.co.uk/news/business-58273916) - But shares in the supermarket open higher, suggesting some investors think the £7bn-plus battle is not over.
 4. [Government borrowing shrinks in July](https://www.bbc.co.uk/news/business-58266821) - Despite a fall, borrowing was still the second-highest on record for July as Covid spending continues.
-5. [Bank website access hit for Sky Broadband users](https://www.bbc.co.uk/news/business-58280318) - Customers of Halifax, Santander, HSBC and TSB have all complained of problems accessing online services.
+5. [Sky Broadband says online access problems resolved](https://www.bbc.co.uk/news/business-58280318) - Sky customers complained they could not access some online services including at banks HSBC and TSB.
 6. [BHP sacked 48 over sexual harassment and assaults at Australian mines](https://www.bbc.co.uk/news/world-australia-58278104) - An Australian inquiry has heard allegations of rape and sexual harassment at remote mining camps.
 7. [Covid career changers: ‘Do something you love’](https://www.bbc.co.uk/news/business-58273913) - Young people say their career prospects and businesses have taken a financial hit from Covid.
 8. [Hackers steal nearly $100m in Japan crypto heist](https://www.bbc.co.uk/news/business-58277359) - The incident comes days after $600m of cryptocurrencies was stolen from another digital platform.
