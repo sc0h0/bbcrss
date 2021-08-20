@@ -3,7 +3,7 @@
 3. [Ex-MP Jared O'Mara charged with seven counts of fraud](https://www.bbc.co.uk/news/uk-england-south-yorkshire-58272878) - Jared O'Mara is charged in relation to alleged fraudulent expenses claims, the CPS say.
 4. [G7 foreign ministers urge Taliban to protect civilians](https://www.bbc.co.uk/news/uk-politics-58275064) - Dominic Raab chairs a call of G7 ministers to discuss Afghanistan while facing calls to resign.
 5. [Afghanistan: Calls to UK veterans mental health helpline double](https://www.bbc.co.uk/news/uk-politics-58271247) - Charity Combat Stress says calls to its helpline have doubled since the Taliban took control of Kabul.
-6. [SNP-Green deal could be confirmed](https://www.bbc.co.uk/news/uk-scotland-scotland-politics-58272209) - An agreement would see Greens enter national government for the first time anywhere in the UK.
+6. [SNP-Green power sharing deal could be confirmed later](https://www.bbc.co.uk/news/uk-scotland-scotland-politics-58272209) - An agreement would see Greens enter national government for the first time anywhere in the UK.
 7. [Covid: UK vaccine booster scheme likely to start in September - Sajid Javid](https://www.bbc.co.uk/news/uk-58271911) - The proposed rollout of third doses is likely to start in September, the health secretary says.
 8. [Kabul evacuation: No planes leaving empty says UK defence secretary](https://www.bbc.co.uk/news/uk-58266555) - Defence Secretary Ben Wallace says "every hour counts", with up to 10 flights leaving every day.
 9. [Gurkha group ends Downing Street hunger strike after talks agreed](https://www.bbc.co.uk/news/uk-england-hampshire-58274264) - The group had refused food for 13 days to call for parity with other British Army veterans.

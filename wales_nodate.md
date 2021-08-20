@@ -21,8 +21,8 @@
 21. [WRU considers hosting Rugby Championship games](https://www.bbc.co.uk/sport/rugby-union/58271317) - The WRU is exploring the possibility of hosting Rugby Championship games involving the southern hemisphere's top teams in Cardiff.
 22. [Alan Knill: Former Sheffield United assistant joins Wales coaching staff](https://www.bbc.co.uk/sport/football/58268793) - Former Sheffield United assistant manager Alan Knill joins Wales' coaching staff for the rest of their World Cup qualifying campaign.
 23. [Peterborough United and Cardiff City charged by FA after melee](https://www.bbc.co.uk/sport/football/58271009) - Peterborough United and Cardiff City are charged by the FA for a melee during their 2-2 Championship draw on Tuesday.
-24. [Nifer y bobl ar restrau aros ysbytai Cymru ar ei lefel uchaf](https://www.bbc.co.uk/newyddion/58268281) - Mwy o bobl yn aros am driniaeth ysbyty sydd ddim yn frys yng Nghymru nag erioed o'r blaen.
-25. [Mam o flaen Llys y Goron ar gyhuddiad o ladd ei mab](https://www.bbc.co.uk/newyddion/58269407) - Bu farw Reid Steele, 2, yn yr ysbyty yn dilyn digwyddiad mewn tŷ ym Mhen-y-bont ar Ogwr.
-26. [Gwefan Comisiynydd 'nôl yn fyw wyth mis ar ôl hacio](https://www.bbc.co.uk/newyddion/58186504) - Cafodd staff eu cloi o'u systemau fis Rhagfyr wedi i hacwyr gymryd rheolaeth o'r wefan ac amgryptio data.
+24. [Covid: 'Ni'n haeddu ymchwiliad cyhoeddus penodol i Gymru'](https://www.bbc.co.uk/newyddion/58271933) - Dynes yn ymgyrchu am ymchwiliad cyhoeddus i Gymru ar ôl i'w thad farw yn sgil rheolaeth "wael" o'r feirws.
+25. [Nifer y bobl ar restrau aros ysbytai Cymru ar ei lefel uchaf](https://www.bbc.co.uk/newyddion/58268281) - Mwy o bobl yn aros am driniaeth ysbyty sydd ddim yn frys yng Nghymru nag erioed o'r blaen.
+26. [Mam o flaen Llys y Goron ar gyhuddiad o ladd ei mab](https://www.bbc.co.uk/newyddion/58269407) - Bu farw Reid Steele, 2, yn yr ysbyty yn dilyn digwyddiad mewn tŷ ym Mhen-y-bont ar Ogwr.
 27. [Oriel: Bywyd gwyllt ar stepen y drws](https://www.bbc.co.uk/newyddion/58264137) - Y ffotograffydd Bethan Vaughan Davies sy'n rhannu lluniau o fywyd gwyllt ei bro
 28. [Morgannwg yn curo Durham i ennill y Cwpan Undydd](https://www.bbc.co.uk/newyddion/58272328) - Morgannwg wedi llwyddo i ennill eu tlws cyntaf ers 2004 gyda buddugoliaeth o 58 o rediadau yn Trent Bridge.
