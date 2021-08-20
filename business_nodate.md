@@ -1,5 +1,5 @@
 1. [Morrisons backs US firm's improved £7bn takeover offer](https://www.bbc.co.uk/news/business-58273916) - But shares in the supermarket open higher, suggesting some investors think the £7bn-plus battle is not over.
-2. [M&S upbeat as it says turnaround plan is working](https://www.bbc.co.uk/news/business-58274807) - The retail giant raises its profits forecast, but UK retail sales see a sharp fall during July.
+2. [M&S shares jump as it says turnaround plan working](https://www.bbc.co.uk/news/business-58274807) - The retail giant raises its profits forecast, but UK retail sales see a sharp fall during July.
 3. [Government borrowing shrinks in July](https://www.bbc.co.uk/news/business-58266821) - Despite a fall, borrowing was still the second-highest on record for July as Covid spending continues.
 4. [BHP sacked 48 over sexual harassment and assaults at Australian mines](https://www.bbc.co.uk/news/world-australia-58278104) - An Australian inquiry has heard allegations of rape and sexual harassment at remote mining camps.
 5. [Hackers steal nearly $100m in Japan crypto heist](https://www.bbc.co.uk/news/business-58277359) - The incident comes days after $600m of cryptocurrencies was stolen from another digital platform.

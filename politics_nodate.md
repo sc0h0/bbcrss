@@ -1,4 +1,4 @@
-1. [Ministers never made key call to help Afghan staff](https://www.bbc.co.uk/news/uk-politics-58277008) - The call about the evacuation of interpreters has put Foreign Secretary Dominic Raab under pressure.
+1. [Ministers never made key call to help stranded Afghan interpreters](https://www.bbc.co.uk/news/uk-politics-58277008) - Dominic Raab and fellow ministers did not speak to Afghan counterparts about evacuations, it emerges.
 2. [SNP and Greens agree new power-sharing deal](https://www.bbc.co.uk/news/uk-scotland-scotland-politics-58272209) - The agreement will see Greens enter national government for the first time anywhere in the UK.
 3. [Afghanistan: Who originally supported Trump's deal with the Taliban?](https://www.bbc.co.uk/news/58271943) - UK Defence Secretary Ben Wallace now calls it a "rotten" deal but supported it at the time.
 4. [Ex-MP Jared O'Mara charged with seven counts of fraud](https://www.bbc.co.uk/news/uk-england-south-yorkshire-58272878) - Jared O'Mara is charged in relation to alleged fraudulent expenses claims, the CPS say.

@@ -5,7 +5,7 @@
 5. [Bristol mum facing £85k bill to extend life with her son](https://www.bbc.co.uk/news/uk-england-bristol-58017220) - Sarah hopes specialist treatment in Germany will enable her to see her son through to his GCSEs.
 6. [Blue singer Lee Ryan tells court he cannot afford £1,500 fine](https://www.bbc.co.uk/news/uk-england-cambridgeshire-58274941) - The 38-year-old singer was banned from driving for 12 months and given a fine.
 7. [Plymouth shooting: Gunman argued with mum before attack](https://www.bbc.co.uk/news/uk-england-devon-58260590) - The five victims, including a father and daughter out walking their dog, were killed in Plymouth.
-8. [Warehouse destroyed in huge Coventry fire](https://www.bbc.co.uk/news/uk-england-coventry-warwickshire-58279006) - Crews battle to save a neighbouring building while a large plume of dark smoke rises into the sky.
+8. [Warehouse destroyed in huge fire](https://www.bbc.co.uk/news/uk-england-coventry-warwickshire-58279006) - Crews battle to save a neighbouring building while a large plume of dark smoke rises into the sky.
 9. [Ex-MP Jared O'Mara charged with seven counts of fraud](https://www.bbc.co.uk/news/uk-england-south-yorkshire-58272878) - Jared O'Mara is charged in relation to alleged fraudulent expenses claims, the CPS say.
 10. [Recovering birds shot dead at wildlife rehab centre in Hinckley](https://www.bbc.co.uk/news/uk-england-leicestershire-58268261) - Little Souls Wildlife Rescue says 19 birds have been killed in the space of three weeks.
 11. [Stuart Lubbock: Suspect in murder case released without charge](https://www.bbc.co.uk/news/uk-england-essex-58273900) - Stuart Lubbock was found unconscious at Michael Barrymore's house in 2001 and later died.
