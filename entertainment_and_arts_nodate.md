@@ -11,7 +11,7 @@
 11. [Censor: Video nasty film explores the power of horror](https://www.bbc.co.uk/news/entertainment-arts-58246426) - The film Censor, set during the 80s, delves into impact of the lurid horror movies from that era.
 12. [Nubya Garcia: The British sax star who is jazzing up the BBC Proms](https://www.bbc.co.uk/news/entertainment-arts-58112962) - Saxophonist Nubya Garcia on playing Royal Albert Hall, the Mercury Prize and "natural vibrations".
 13. [Lady Leshurr: Rapper used lockdown to focus on mental health](https://www.bbc.co.uk/news/uk-england-birmingham-58256836) - The 32-year-old says life sometimes feels like a running machine at the gym with no stop button.
-14. [Drag Race UK queens: Pandemic 'pushed us creatively'](https://www.bbc.co.uk/news/newsbeat-58270184) - Newsbeat has spoken to all 12 queens taking part in the new series.
+14. [Drag Race UK queens: Covid 'pushed us creatively'](https://www.bbc.co.uk/news/newsbeat-58270184) - Newsbeat has spoken to all 12 queens taking part in the new series.
 15. [You may go to the ball: Cinderella opens in the West End](https://www.bbc.co.uk/news/entertainment-arts-58260252) - Andrew Lloyd Webber and Emerald Fennel’s reimagining of the classic fairytale debuts in London.
 16. [Bill Bailey pays tribute to ‘dearest friend’ Sean Lock](https://www.bbc.co.uk/news/entertainment-arts-58262399) - The comedian remembers Sean Lock, who has died from cancer at the age of 58.
 17. [Bill Murray: Golf-loving Ghostbusters star given hand-forged putter](https://www.bbc.co.uk/news/uk-northern-ireland-58263907) - When the comedy star needed a new putter, who was he gonna call? A County Antrim blacksmith of course.

@@ -17,7 +17,7 @@
 17. [Quiz of the week: Rude place names and noisy ice-cream vans](https://www.bbc.co.uk/news/world-58255328) - How closely have you been paying attention to what's been going on during the past seven days?
 18. [The villages cut off from help by Haiti earthquake](https://www.bbc.co.uk/news/world-latin-america-58245047) - The tremor razed their homes, but these survivors could still die for a lack of basic supplies.
 19. [Africa's week in pictures: 13-19 August 2021](https://www.bbc.co.uk/news/world-africa-58267380) - A selection of the best photos from the African continent and beyond.
-20. [Drag Race UK queens: Pandemic 'pushed us creatively'](https://www.bbc.co.uk/news/newsbeat-58270184) - Newsbeat has spoken to all 12 queens taking part in the new series.
+20. [Drag Race UK queens: Covid 'pushed us creatively'](https://www.bbc.co.uk/news/newsbeat-58270184) - Newsbeat has spoken to all 12 queens taking part in the new series.
 21. [Afghanistan: Child handed over Kabul airport wall as chaos continues](https://www.bbc.co.uk/news/world-asia-58267756) - Afghans try to scale airport walls and shots are fired as crowds keep trying to flee the Taliban.
 22. [Afghanistan: Protesters wave national flag at Independence Day protests](https://www.bbc.co.uk/news/world-asia-58275284) - Afghan protesters mark Independence Day with the national flag, days after the Taliban takeover.
 23. [Haiti earthquake: Rescue efforts continue in Les Cayes](https://www.bbc.co.uk/news/world-latin-america-58274326) - The death toll from the 7.2-magnitude quake is now over 2,000, with many still missing in towns like Les Cayes.
