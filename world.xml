@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 20 Aug 2021 13:33:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Aug 2021 14:31:28 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -149,6 +149,13 @@
             <pubDate>Fri, 20 Aug 2021 00:38:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Simone Biles and mental health focus: 'I wouldn't change anything for the world']]></title>
+            <description><![CDATA[Four-time Olympic gold medallist Simone Biles "wouldn't change anything for the world" because she "gave an outlet for athletes to speak up about mental health".]]></description>
+            <link>https://www.bbc.co.uk/sport/av/gymnastics/58284865</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/gymnastics/58284865</guid>
+            <pubDate>Fri, 20 Aug 2021 14:13:58 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Drag Race UK queens: Covid 'pushed us creatively']]></title>
             <description><![CDATA[Newsbeat has spoken to all 12 queens taking part in the new series.]]></description>
             <link>https://www.bbc.co.uk/news/newsbeat-58270184</link>
@@ -177,13 +184,6 @@
             <pubDate>Thu, 19 Aug 2021 16:18:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Afghan interpreter begs PM Boris Johnson for 'pathway to safety']]></title>
-            <description><![CDATA[Ahmed (not his real name), who worked for the British Army, begs the UK to evacuate him and his family.]]></description>
-            <link>https://www.bbc.co.uk/news/world-58266707</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-58266707</guid>
-            <pubDate>Thu, 19 Aug 2021 07:31:05 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The treacherous road to Kabul's airport]]></title>
             <description><![CDATA[As thousands try to flee Afghanistan, the main route to the capital's airport has become treacherous.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-58271517</link>
@@ -205,6 +205,13 @@
             <pubDate>Fri, 20 Aug 2021 04:45:02 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Afghan interpreter begs PM Boris Johnson for 'pathway to safety']]></title>
+            <description><![CDATA[Ahmed (not his real name), who worked for the British Army, begs the UK to evacuate him and his family.]]></description>
+            <link>https://www.bbc.co.uk/news/world-58266707</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-58266707</guid>
+            <pubDate>Thu, 19 Aug 2021 07:31:05 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Afghanistan: A woman's story of life under the Taliban in 1999]]></title>
             <description><![CDATA[Taliban rule in 1999 - an Afghan woman recalls the day her father disappeared.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-58250780</link>
@@ -217,13 +224,6 @@
             <link>https://www.bbc.co.uk/news/58243158</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/58243158</guid>
             <pubDate>Thu, 19 Aug 2021 17:01:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[‘Don’t forget the 500,000 internally displaced Afghans’ - UNCHR]]></title>
-            <description><![CDATA[Do not forget the 500,000 internally displaced people, the UNHCR representative to Afghanistan says.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58268066</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58268066</guid>
-            <pubDate>Thu, 19 Aug 2021 15:37:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
