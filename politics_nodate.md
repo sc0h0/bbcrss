@@ -1,4 +1,4 @@
-1. [Foreign secretary Dominic Raab rejects calls to quit over Afghan interpreters](https://www.bbc.co.uk/news/uk-58265160) - The foreign secretary is under fire for not personally asking for help to evacuate interpreters.
+1. [Dominic Raab's delegated phone call to Afghanistan not made](https://www.bbc.co.uk/news/uk-politics-58277008) - The government was unable to arrange the call about the evacuation of interpreters, it now says.
 2. [Afghanistan: Who originally supported Trump's deal with the Taliban?](https://www.bbc.co.uk/news/58271943) - UK Defence Secretary Ben Wallace now calls it a "rotten" deal but supported it at the time.
 3. [Ex-MP Jared O'Mara charged with seven counts of fraud](https://www.bbc.co.uk/news/uk-england-south-yorkshire-58272878) - Jared O'Mara is charged in relation to alleged fraudulent expenses claims, the CPS say.
 4. [G7 foreign ministers urge Taliban to protect civilians](https://www.bbc.co.uk/news/uk-politics-58275064) - Dominic Raab chairs a call of G7 ministers to discuss Afghanistan while facing calls to resign.
