@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 20 Aug 2021 17:29:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Aug 2021 18:42:46 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Joe Biden to Americans in Afghanistan: 'We will get you home']]></title>
+            <description><![CDATA[Mr Biden has come under intense criticism amid the chaotic withdrawal of US troops from Afghanistan.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-58285923</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-58285923</guid>
+            <pubDate>Fri, 20 Aug 2021 18:39:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Afghanistan: Taliban 'tortured and massacred' men from Hazara minority]]></title>
             <description><![CDATA[Rights group Amnesty says the recent killings of men from the Hazara minority were a "horrifying indicator" of Taliban rule.]]></description>
@@ -28,13 +35,6 @@
             <link>https://www.bbc.co.uk/news/world-latin-america-58284713</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-latin-america-58284713</guid>
             <pubDate>Fri, 20 Aug 2021 15:57:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ethiopia's Tigray crisis: US accuses Abiy's government of blocking aid]]></title>
-            <description><![CDATA[Washington's aid chief says food is set to run out, with hundreds of thousands at risk of famine,]]></description>
-            <link>https://www.bbc.co.uk/news/world-africa-58279442</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-58279442</guid>
-            <pubDate>Fri, 20 Aug 2021 16:30:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Spain migrants: Sole survivor rescued in dinghy in Atlantic]]></title>
@@ -51,6 +51,13 @@
             <pubDate>Fri, 20 Aug 2021 16:42:41 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Ethiopia's Tigray crisis: US accuses Abiy's government of blocking aid]]></title>
+            <description><![CDATA[Washington's aid chief says food is set to run out, with hundreds of thousands at risk of famine,]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-58279442</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-58279442</guid>
+            <pubDate>Fri, 20 Aug 2021 18:38:54 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[China NPC: Three-child policy formally passed into law]]></title>
             <description><![CDATA[The top legislature was also expected to approve a controversial anti-sanctions law for Hong Kong.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-china-58277473</link>
@@ -63,13 +70,6 @@
             <link>https://www.bbc.co.uk/news/world-australia-58278104</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-australia-58278104</guid>
             <pubDate>Fri, 20 Aug 2021 07:25:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The devastating human cost of rising gun violence in the US]]></title>
-            <description><![CDATA[Deadly shootings in many US cities are on the rise - poorer and black communities are hardest hit.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-58207384</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-58207384</guid>
-            <pubDate>Fri, 20 Aug 2021 01:30:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: Sydney lockdown extended and curfew imposed on 2m people]]></title>
@@ -93,6 +93,13 @@
             <pubDate>Thu, 19 Aug 2021 23:50:55 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The devastating human cost of rising gun violence in the US]]></title>
+            <description><![CDATA[Deadly shootings in many US cities are on the rise - poorer and black communities are hardest hit.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-58207384</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-58207384</guid>
+            <pubDate>Fri, 20 Aug 2021 01:30:15 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA['We felt free': Cubans remain defiant in face of protest crackdown]]></title>
             <description><![CDATA[A month after rare anti-government protests in Cuba, many of those who took part remain defiant.]]></description>
             <link>https://www.bbc.co.uk/news/world-latin-america-58255555</link>
@@ -105,13 +112,6 @@
             <link>https://www.bbc.co.uk/news/uk-58255865</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58255865</guid>
             <pubDate>Thu, 19 Aug 2021 22:20:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Zaki Anwari: Afghan footballer falls to death from US plane in Kabul]]></title>
-            <description><![CDATA[Zaki Anwari, 19, had played for Afghanistan's national youth team before trying to flee the country.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58272740</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58272740</guid>
-            <pubDate>Thu, 19 Aug 2021 17:53:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Aaliyah albums streaming: 'Her influence is absolutely everywhere']]></title>
@@ -177,6 +177,13 @@
             <pubDate>Fri, 20 Aug 2021 15:41:59 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Zaki Anwari: Afghan footballer falls to death from US plane in Kabul]]></title>
+            <description><![CDATA[Zaki Anwari, 19, had played for Afghanistan's national youth team before trying to flee the country.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58272740</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58272740</guid>
+            <pubDate>Thu, 19 Aug 2021 17:53:37 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Amnesty International: 'Disconnect between Taliban claims and reality']]></title>
             <description><![CDATA[What Taliban spokespeople say and what is happening is very different, says Amnesty International.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-58279967</link>
@@ -203,13 +210,6 @@
             <link>https://www.bbc.co.uk/news/technology-58277175</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-58277175</guid>
             <pubDate>Fri, 20 Aug 2021 04:45:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Afghan interpreter begs PM Boris Johnson for 'pathway to safety']]></title>
-            <description><![CDATA[Ahmed (not his real name), who worked for the British Army, begs the UK to evacuate him and his family.]]></description>
-            <link>https://www.bbc.co.uk/news/world-58266707</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-58266707</guid>
-            <pubDate>Thu, 19 Aug 2021 07:31:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
