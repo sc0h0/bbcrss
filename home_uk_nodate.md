@@ -1,4 +1,4 @@
-1. [Joe Biden to Americans in Afghanistan: 'We will get you home'](https://www.bbc.co.uk/news/world-us-canada-58285923) - Mr Biden has come under intense criticism amid the chaotic withdrawal of US troops from Afghanistan.
+1. [Biden says Kabul airlift 'not without risk of loss'](https://www.bbc.co.uk/news/world-us-canada-58285923) - Mr Biden is facing intense criticism for the chaotic evacuation of Americans from Afghanistan.
 2. ['They will kill me': Desperate Afghans seek way out after Taliban takeover](https://www.bbc.co.uk/news/world-asia-58286372) - Many Afghans are desperate to escape after the Taliban takeover. Some fear there is no way out.
 3. [Afghanistan: Boris Johnson says he has full confidence in Dominic Raab](https://www.bbc.co.uk/news/uk-politics-58283588) - The UK foreign secretary is facing calls to quit over his handling of evacuations.
 4. [Nine Afghan girl robotics team members safe in Qatar](https://www.bbc.co.uk/news/world-us-canada-58286398) - The all-girls team, known as the "Afghan Dreamers" have made headlines around the world.

@@ -1,5 +1,5 @@
-1. [Joe Biden to Americans in Afghanistan: 'We will get you home'](https://www.bbc.co.uk/news/world-us-canada-58285923) - Mr Biden has come under intense criticism amid the chaotic withdrawal of US troops from Afghanistan.
-2. ['They will kill me': Desperate Afghans seek way out after Taliban takeover](https://www.bbc.co.uk/news/world-asia-58286372) - Many Afghans are desperate to escape after the Taliban takeover. Some fear there is no way out.
+1. [Afghanistan: The desperate scramble to escape](https://www.bbc.co.uk/news/world-asia-58286000) - Scenes of chaos and panic continue in Kabul as thousands still crowd the airport.
+2. [Biden says Kabul airlift 'not without risk of loss'](https://www.bbc.co.uk/news/world-us-canada-58285923) - Mr Biden is facing intense criticism for the chaotic evacuation of Americans from Afghanistan.
 3. [Haiti earthquake: Tensions rise in struggle to get aid to victims](https://www.bbc.co.uk/news/world-latin-america-58284713) - Five days after a powerful earthquake struck, hundreds are missing and people are desperate for aid.
 4. [Spain migrants: Sole survivor rescued in dinghy in Atlantic](https://www.bbc.co.uk/news/world-europe-58279185) - The woman, who was spotted clinging to an upturned boat, says at least 52 other people died.
 5. [Jeopardy! host Mike Richards quits after sexist comments surface](https://www.bbc.co.uk/news/world-us-canada-58285996) - Mike Richards has stepped down as the new host of the show over comments he made on a 2013 podcast.
@@ -21,9 +21,10 @@
 21. [Drag Race UK queens: Covid 'pushed us creatively'](https://www.bbc.co.uk/news/newsbeat-58270184) - Newsbeat has spoken to all 12 queens taking part in the new series.
 22. [Afghanistan: Child handed over Kabul airport wall as chaos continues](https://www.bbc.co.uk/news/world-asia-58267756) - Afghans try to scale airport walls and shots are fired as crowds keep trying to flee the Taliban.
 23. [Afghanistan: Protesters wave national flag at Independence Day protests](https://www.bbc.co.uk/news/world-asia-58275284) - Afghan protesters mark Independence Day with the national flag, days after the Taliban takeover.
-24. [Afghanistan: Stun grenades used outside Kabul airport](https://www.bbc.co.uk/news/world-asia-58281214) - Huge crowds have gathered outside Afghanistan's Kabul airport as people try to flee the Taliban.
-25. [Zaki Anwari: Afghan footballer falls to death from US plane in Kabul](https://www.bbc.co.uk/news/world-asia-58272740) - Zaki Anwari, 19, had played for Afghanistan's national youth team before trying to flee the country.
-26. [Amnesty International: 'Disconnect between Taliban claims and reality'](https://www.bbc.co.uk/news/world-asia-58279967) - What Taliban spokespeople say and what is happening is very different, says Amnesty International.
-27. [The treacherous road to Kabul's airport](https://www.bbc.co.uk/news/world-asia-58271517) - As thousands try to flee Afghanistan, the main route to the capital's airport has become treacherous.
-28. [LGBT in Afghanistan: 'I could be killed on the spot'](https://www.bbc.co.uk/news/newsbeat-58271187) - A gay student from Kabul tells Newsbeat how life has changed under the Taliban.
-29. [Facebook moves to protect Afghan users' accounts amid Taliban takeover](https://www.bbc.co.uk/news/technology-58277175) - The tech giant says it wants to reassure people worried about being tracked down by the Taliban.
+24. ['They will kill me': Desperate Afghans seek way out after Taliban takeover](https://www.bbc.co.uk/news/world-asia-58286372) - Many Afghans are desperate to escape after the Taliban takeover. Some fear there is no way out.
+25. [Afghanistan: Stun grenades used outside Kabul airport](https://www.bbc.co.uk/news/world-asia-58281214) - Huge crowds have gathered outside Afghanistan's Kabul airport as people try to flee the Taliban.
+26. [Zaki Anwari: Afghan footballer falls to death from US plane in Kabul](https://www.bbc.co.uk/news/world-asia-58272740) - Zaki Anwari, 19, had played for Afghanistan's national youth team before trying to flee the country.
+27. [Amnesty International: 'Disconnect between Taliban claims and reality'](https://www.bbc.co.uk/news/world-asia-58279967) - What Taliban spokespeople say and what is happening is very different, says Amnesty International.
+28. [The treacherous road to Kabul's airport](https://www.bbc.co.uk/news/world-asia-58271517) - As thousands try to flee Afghanistan, the main route to the capital's airport has become treacherous.
+29. [LGBT in Afghanistan: 'I could be killed on the spot'](https://www.bbc.co.uk/news/newsbeat-58271187) - A gay student from Kabul tells Newsbeat how life has changed under the Taliban.
+30. [Facebook moves to protect Afghan users' accounts amid Taliban takeover](https://www.bbc.co.uk/news/technology-58277175) - The tech giant says it wants to reassure people worried about being tracked down by the Taliban.
