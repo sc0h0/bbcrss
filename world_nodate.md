@@ -22,9 +22,9 @@
 22. [Afghanistan: Child handed over Kabul airport wall as chaos continues](https://www.bbc.co.uk/news/world-asia-58267756) - Afghans try to scale airport walls and shots are fired as crowds keep trying to flee the Taliban.
 23. [Afghanistan: Protesters wave national flag at Independence Day protests](https://www.bbc.co.uk/news/world-asia-58275284) - Afghan protesters mark Independence Day with the national flag, days after the Taliban takeover.
 24. [Haiti earthquake: Rescue efforts continue in Les Cayes](https://www.bbc.co.uk/news/world-latin-america-58274326) - The death toll from the 7.2-magnitude quake is now over 2,000, with many still missing in towns like Les Cayes.
-25. [The treacherous road to Kabul's airport](https://www.bbc.co.uk/news/world-asia-58271517) - As thousands try to flee Afghanistan, the main route to the capital's airport has become treacherous.
-26. [LGBT in Afghanistan: 'I could be killed on the spot'](https://www.bbc.co.uk/news/newsbeat-58271187) - A gay student from Kabul tells Newsbeat how life has changed under the Taliban.
-27. [Facebook moves to protect Afghan users' accounts amid Taliban takeover](https://www.bbc.co.uk/news/technology-58277175) - The tech giant says it wants to reassure people worried about being tracked down by the Taliban.
-28. [Afghan interpreter begs PM Boris Johnson for 'pathway to safety'](https://www.bbc.co.uk/news/world-58266707) - Ahmed (not his real name), who worked for the British Army, begs the UK to evacuate him and his family.
-29. [Afghanistan: A woman's story of life under the Taliban in 1999](https://www.bbc.co.uk/news/world-asia-58250780) - Taliban rule in 1999 - an Afghan woman recalls the day her father disappeared.
-30. [Biden on Afghanistan fact-checked](https://www.bbc.co.uk/news/58243158) - How consistent is President Biden in his comments on Afghanistan?
+25. [Amnesty International: 'Disconnect between Taliban claims and reality'](https://www.bbc.co.uk/news/world-asia-58279967) - What Taliban spokespeople say and what is happening is very different, says Amnesty International.
+26. [The treacherous road to Kabul's airport](https://www.bbc.co.uk/news/world-asia-58271517) - As thousands try to flee Afghanistan, the main route to the capital's airport has become treacherous.
+27. [LGBT in Afghanistan: 'I could be killed on the spot'](https://www.bbc.co.uk/news/newsbeat-58271187) - A gay student from Kabul tells Newsbeat how life has changed under the Taliban.
+28. [Facebook moves to protect Afghan users' accounts amid Taliban takeover](https://www.bbc.co.uk/news/technology-58277175) - The tech giant says it wants to reassure people worried about being tracked down by the Taliban.
+29. [Afghan interpreter begs PM Boris Johnson for 'pathway to safety'](https://www.bbc.co.uk/news/world-58266707) - Ahmed (not his real name), who worked for the British Army, begs the UK to evacuate him and his family.
+30. [Afghanistan: A woman's story of life under the Taliban in 1999](https://www.bbc.co.uk/news/world-asia-58250780) - Taliban rule in 1999 - an Afghan woman recalls the day her father disappeared.

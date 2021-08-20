@@ -1,13 +1,13 @@
 1. [Man denies 16-year-old girl's takeaway murder](https://www.bbc.co.uk/news/uk-wales-58278348) - Wenjing Lin died at her family's Chinese takeaway in March.
-2. [Covid: Bereaved families call for Wales-only inquiry](https://www.bbc.co.uk/news/uk-wales-58271577) - A woman who lost her father to Covid says she doesn't want Wales to be a "footnote" in a UK inquiry.
+2. [Covid infections in Wales estimated to be rising](https://www.bbc.co.uk/news/uk-wales-58280710) - The latest Covid infection estimates point to a rise in Wales but not the other UK nations.
 3. [Wrexham: B5605 'may stay closed for years' after landslip](https://www.bbc.co.uk/news/uk-wales-58271578) - A road swept away by Storm Christoph last January may not reopen for years due to lack of funds.
 4. [Bute Park murder: Detectives search for potential witnesses](https://www.bbc.co.uk/news/uk-wales-58278349) - Dr Gary Jenkins died 16 days after he was attacked in the Cardiff city centre park in July.
 5. [Denbigh: Police investigate death of badger nailed to a tree](https://www.bbc.co.uk/news/uk-wales-58281232) - Police describe the incident as "abhorrent" and are trying to establish how the animal died.
 6. [Llandrindod Lake: Wild swimming alert as blue-green algae found](https://www.bbc.co.uk/news/uk-wales-58278354) - Swimmers and stand-up paddle boarders are being urged to stay away from two lakes amid concerns.
-7. [Swansea eating disorder woman wins place in Miss GB final](https://www.bbc.co.uk/news/uk-wales-58281235) - Kirsty Logan wants to use her chance in the competition to raise binge-eating disorder awareness.
-8. [Covid: Hotel thought prom-goers had negative tests before spike](https://www.bbc.co.uk/news/uk-wales-58269876) - More than 50 positive cases are linked to a Year 11 graduation party at a hotel.
-9. [Water pollution from metal mines will cost Wales £282m, NRW says](https://www.bbc.co.uk/news/uk-wales-58276244) - Natural Resources Wales identifies 129 disused sites causing problems to nearby rivers and streams.
-10. [Record number of bids for UK City of Culture 2025](https://www.bbc.co.uk/news/uk-england-58272630) - For the first time groups of towns or areas have been able to bid for the cultural capital title.
+7. [Covid: Bereaved families call for Wales-only inquiry](https://www.bbc.co.uk/news/uk-wales-58271577) - A woman who lost her father to Covid says she doesn't want Wales to be a "footnote" in a UK inquiry.
+8. [Miss GB final place for woman who tackled eating disorder](https://www.bbc.co.uk/news/uk-wales-58281235) - Kirsty Logan wants to use her chance in the competition to raise binge-eating disorder awareness.
+9. [Covid: Hotel thought prom-goers had negative tests before spike](https://www.bbc.co.uk/news/uk-wales-58269876) - More than 50 positive cases are linked to a Year 11 graduation party at a hotel.
+10. [Water pollution from metal mines will cost Wales £282m, NRW says](https://www.bbc.co.uk/news/uk-wales-58276244) - Natural Resources Wales identifies 129 disused sites causing problems to nearby rivers and streams.
 11. [Weather: Warning for rain, hail and thunderstorms](https://www.bbc.co.uk/news/uk-wales-58279099) - The Met Office says there is a good chance Wales will see travel disruption and flooding.
 12. [Wrexham: Giant Hollywood-style sign was van-hire firm PR stunt](https://www.bbc.co.uk/news/uk-wales-58278346) - Mystery had surrounded who erected the giant letters at Bersham Bank colliery.
 13. [Covid: 'I watched my father, 85, die gasping for breath'](https://www.bbc.co.uk/news/uk-wales-58278351) - A woman, whose dad died with Covid after going to hospital with an infection, calls for answers.
