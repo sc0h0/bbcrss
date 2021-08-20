@@ -1,5 +1,5 @@
 1. [Afghanistan: Taliban carrying out door-to-door manhunt, report says](https://www.bbc.co.uk/news/world-asia-58271797) - The militants are searching for those who worked with Nato forces, a UN document warns.
-2. [Afghanistan: Taliban 'tortured and massacred' Hazara minority](https://www.bbc.co.uk/news/world-asia-58277463) - Rights group Amnesty says the recent Hazara killings were a "horrifying indicator" of Taliban rule.
+2. [Afghanistan: Taliban 'tortured and massacred' men from Hazara minority](https://www.bbc.co.uk/news/world-asia-58277463) - Rights group Amnesty says the recent killings of men from the Hazara minority were a "horrifying indicator" of Taliban rule.
 3. [Taliban and women: Kabul university student on fears for future](https://www.bbc.co.uk/news/world-asia-58270423) - A Kabul university student tells the BBC how she is wiping out all traces of her previous life.
 4. [Facebook moves to protect Afghan users' accounts amid Taliban takeover](https://www.bbc.co.uk/news/technology-58277175) - The tech giant says it wants to reassure people worried about being tracked down by the Taliban.
 5. [Paralympics: Palak Kohli on preparing for Tokyo 2020](https://www.bbc.co.uk/news/world-asia-58271771) - Palak Kohli is the only Indian para-badminton player to be competing in three categories in Tokyo.

@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 20 Aug 2021 05:11:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Aug 2021 05:26:37 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Hundreds of newly-qualified teachers not registered to teach in NI]]></title>
+            <description><![CDATA[About 500 new teachers are waiting to be fully registered and cannot be employed until then.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58274469</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58274469</guid>
+            <pubDate>Fri, 20 Aug 2021 05:20:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Covid-19: Swann sets target of 90% of NI jabbed for Covid-19]]></title>
             <description><![CDATA[Having 90% of people in NI vaccinated would take pressure off the health service, says Robin Swann.]]></description>
@@ -51,18 +58,18 @@
             <pubDate>Thu, 19 Aug 2021 20:55:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid-19: Ulster University asks students about vaccine status]]></title>
-            <description><![CDATA[An anonymous survey on Covid-19 vaccines has been sent to UU's 27,000 students and 2,600 staff.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58261413</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58261413</guid>
-            <pubDate>Thu, 19 Aug 2021 05:41:33 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Translink late-night transport services back for Christmas]]></title>
             <description><![CDATA[The extended services will support the hospitality industry leading up to Christmas, says Translink.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58267784</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58267784</guid>
             <pubDate>Thu, 19 Aug 2021 17:38:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19: Ulster University asks students about vaccine status]]></title>
+            <description><![CDATA[An anonymous survey on Covid-19 vaccines has been sent to UU's 27,000 students and 2,600 staff.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58261413</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58261413</guid>
+            <pubDate>Thu, 19 Aug 2021 05:41:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Two men die in three-vehicle crash in County Meath]]></title>
