@@ -11,16 +11,23 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 20 Aug 2021 17:00:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Aug 2021 17:28:32 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Clydach murderer Morris dies in prison]]></title>
+            <description><![CDATA[David Morris killed three generations of the same family in the Swansea Valley village.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-58285620</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58285620</guid>
+            <pubDate>Fri, 20 Aug 2021 17:14:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Boardmasters: More than 50 Covid cases in Swansea Bay linked to festival]]></title>
             <description><![CDATA[At least 56 cases in a single health board are confirmed in people who attended the event.]]></description>
             <link>https://www.bbc.co.uk/news/uk-wales-58275495</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58275495</guid>
-            <pubDate>Fri, 20 Aug 2021 16:29:29 GMT</pubDate>
+            <pubDate>Fri, 20 Aug 2021 17:09:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid infections in Wales estimated to be rising]]></title>
@@ -30,13 +37,6 @@
             <pubDate>Fri, 20 Aug 2021 14:51:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Man denies 16-year-old girl's takeaway murder]]></title>
-            <description><![CDATA[Wenjing Lin died at her family's Chinese takeaway in March.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-58278348</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58278348</guid>
-            <pubDate>Fri, 20 Aug 2021 10:38:47 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Cardiff manager will not force vaccine on players]]></title>
             <description><![CDATA[Manager Mick McCarthy says he can't and won't force Cardiff City's players to have the Covid-19 vaccination, despite the club suffering a number of cases over the summer.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58279616</link>
@@ -44,11 +44,11 @@
             <pubDate>Fri, 20 Aug 2021 11:37:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Wrexham: B5605 'may stay closed for years' after landslip]]></title>
-            <description><![CDATA[A road swept away by Storm Christoph last January may not reopen for years due to lack of funds.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-58271578</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58271578</guid>
-            <pubDate>Fri, 20 Aug 2021 05:08:33 GMT</pubDate>
+            <title><![CDATA[Man denies 16-year-old girl's takeaway murder]]></title>
+            <description><![CDATA[Wenjing Lin died at her family's Chinese takeaway in March.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-58278348</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58278348</guid>
+            <pubDate>Fri, 20 Aug 2021 10:38:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Llandrindod Lake: Wild swimming alert as blue-green algae found]]></title>
@@ -56,6 +56,13 @@
             <link>https://www.bbc.co.uk/news/uk-wales-58278354</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58278354</guid>
             <pubDate>Fri, 20 Aug 2021 13:02:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wrexham: B5605 'may stay closed for years' after landslip]]></title>
+            <description><![CDATA[A road swept away by Storm Christoph last January may not reopen for years due to lack of funds.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-58271578</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58271578</guid>
+            <pubDate>Fri, 20 Aug 2021 05:08:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Denbigh: Police investigate death of badger nailed to a tree]]></title>
@@ -79,18 +86,18 @@
             <pubDate>Fri, 20 Aug 2021 10:43:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Water pollution from metal mines will cost Wales £282m, NRW says]]></title>
-            <description><![CDATA[Natural Resources Wales identifies 129 disused sites causing problems to nearby rivers and streams.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-58276244</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58276244</guid>
-            <pubDate>Fri, 20 Aug 2021 14:53:45 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Weather: Warning for rain, hail and thunderstorms]]></title>
             <description><![CDATA[The Met Office says there is a good chance Wales will see travel disruption and flooding.]]></description>
             <link>https://www.bbc.co.uk/news/uk-wales-58279099</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58279099</guid>
             <pubDate>Fri, 20 Aug 2021 10:08:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Water pollution from metal mines will cost Wales £282m, NRW says]]></title>
+            <description><![CDATA[Natural Resources Wales identifies 129 disused sites causing problems to nearby rivers and streams.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-58276244</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58276244</guid>
+            <pubDate>Fri, 20 Aug 2021 14:53:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: 'I watched my father, 85, die gasping for breath']]></title>
@@ -170,6 +177,13 @@
             <pubDate>Thu, 19 Aug 2021 20:40:24 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Llofrudd Clydach, David Morris, wedi marw yn y carchar]]></title>
+            <description><![CDATA[David Morris, a gafwyd yn euog o lofruddio pedwar aelod o'r un teulu, wedi marw yn 59 oed.]]></description>
+            <link>https://www.bbc.co.uk/newyddion/58268290</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/newyddion/58268290</guid>
+            <pubDate>Fri, 20 Aug 2021 17:08:44 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Covid: 'Ni'n haeddu ymchwiliad cyhoeddus penodol i Gymru']]></title>
             <description><![CDATA[Dynes yn ymgyrchu am ymchwiliad cyhoeddus i Gymru ar ôl i'w thad farw yn sgil rheolaeth "wael" o'r feirws.]]></description>
             <link>https://www.bbc.co.uk/newyddion/58271933</link>
@@ -184,13 +198,6 @@
             <pubDate>Fri, 20 Aug 2021 10:39:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA['Mae pethau wedi gwella, fi'n teimlo'n gwd']]></title>
-            <description><![CDATA[Mae David Griffiths yn un sydd wedi elwa o gefnogaeth a mentora i gael swydd a gwella ei fywyd.]]></description>
-            <link>https://www.bbc.co.uk/newyddion/58270286</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/newyddion/58270286</guid>
-            <pubDate>Fri, 20 Aug 2021 06:01:14 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Yr hunlle' eithaf... haf llawn chwaraeon!]]></title>
             <description><![CDATA[Tydi Beth Angell heb fwynhau yr holl gampau fu ymlaen yn ddiweddar.]]></description>
             <link>https://www.bbc.co.uk/newyddion/58187206</link>
@@ -198,11 +205,11 @@
             <pubDate>Fri, 20 Aug 2021 08:40:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Morgannwg yn curo Durham i ennill y Cwpan Undydd]]></title>
-            <description><![CDATA[Morgannwg wedi llwyddo i ennill eu tlws cyntaf ers 2004 gyda buddugoliaeth o 58 o rediadau yn Trent Bridge.]]></description>
-            <link>https://www.bbc.co.uk/newyddion/58272328</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/newyddion/58272328</guid>
-            <pubDate>Thu, 19 Aug 2021 19:13:31 GMT</pubDate>
+            <title><![CDATA['Methu gorfodi chwaraewyr i gael brechiad Covid-19']]></title>
+            <description><![CDATA[Rhai chwaraewyr yn gyndyn o gael eu brechiad coronafeirws, medd rheolwyr Caerdydd ac Abertawe.]]></description>
+            <link>https://www.bbc.co.uk/newyddion/58286943</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/newyddion/58286943</guid>
+            <pubDate>Fri, 20 Aug 2021 17:00:31 GMT</pubDate>
         </item>
     </channel>
 </rss>

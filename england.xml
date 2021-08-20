@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 20 Aug 2021 17:01:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Aug 2021 17:28:00 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -51,18 +51,25 @@
             <pubDate>Fri, 20 Aug 2021 16:01:14 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid-19: Statues recognise NHS staff and key workers]]></title>
+            <description><![CDATA[Each of the 51 statues on display in Birmingham has been decorated by a different artist.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-birmingham-58285340</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-birmingham-58285340</guid>
+            <pubDate>Fri, 20 Aug 2021 17:09:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Heron put down after flying with crossbow bolt in Suffolk]]></title>
+            <description><![CDATA[It had been seen flying for weeks before RSPCA officers rescued the "very thin, weak" bird.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-suffolk-58285825</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-suffolk-58285825</guid>
+            <pubDate>Fri, 20 Aug 2021 16:14:11 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Record number of bids for UK City of Culture 2025]]></title>
             <description><![CDATA[For the first time groups of towns or areas have been able to bid for the cultural capital title.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-58272630</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-58272630</guid>
             <pubDate>Fri, 20 Aug 2021 05:16:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Heron put down after flying with crossbow bolt in Suffolk]]></title>
-            <description><![CDATA[It had been seen flying for weeks before RSCA officers rescued the "very thin, weak" bird.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-suffolk-58285825</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-suffolk-58285825</guid>
-            <pubDate>Fri, 20 Aug 2021 16:14:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Peterborough mum back at home with baby born before Covid coma]]></title>
@@ -83,7 +90,7 @@
             <description><![CDATA[Alan Mayfield gave the sum to a Conservative group but did not declare he was not the funds' source.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-northamptonshire-58283529</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-northamptonshire-58283529</guid>
-            <pubDate>Fri, 20 Aug 2021 15:31:33 GMT</pubDate>
+            <pubDate>Fri, 20 Aug 2021 17:25:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Geronimo the alpaca legal fight cost £43k plus lost income]]></title>
@@ -91,13 +98,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-bristol-58274260</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-bristol-58274260</guid>
             <pubDate>Fri, 20 Aug 2021 10:20:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bristol mum facing £85k bill to extend life with her son]]></title>
-            <description><![CDATA[Sarah hopes specialist treatment in Germany will enable her to see her son through to his GCSEs.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-bristol-58017220</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-bristol-58017220</guid>
-            <pubDate>Fri, 20 Aug 2021 05:20:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Injured Dubai cat flown to Bradford rescue centre]]></title>
@@ -133,6 +133,13 @@
             <link>https://www.bbc.co.uk/news/uk-england-norfolk-58258077</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-norfolk-58258077</guid>
             <pubDate>Wed, 18 Aug 2021 11:10:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bristol mum facing £85k bill to extend life with her son]]></title>
+            <description><![CDATA[Sarah hopes specialist treatment in Germany will enable her to see her son through to his GCSEs.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-bristol-58017220</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-bristol-58017220</guid>
+            <pubDate>Fri, 20 Aug 2021 05:20:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[London Underground: Union calls off two strikes]]></title>
@@ -192,10 +199,10 @@
         </item>
         <item>
             <title><![CDATA[The Hundred: Oval Invincibles fight back to beat Birmingham Phoenix to reach final]]></title>
-            <description><![CDATA[Oval Invincibles fight back from the brink in stunning style to reach the inaugural women's Hundred final with a 20-run win over Birmingham Phoenix in the eliminator.]]></description>
+            <description><![CDATA[Oval Invincibles fight back from the brink in stunning style to reach the inaugural women's Hundred final with a 20-run win over Birmingham Phoenix.]]></description>
             <link>https://www.bbc.co.uk/sport/cricket/58284412</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/58284412</guid>
-            <pubDate>Fri, 20 Aug 2021 16:43:27 GMT</pubDate>
+            <pubDate>Fri, 20 Aug 2021 17:26:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Arsenal boss Mikel Arteta surprised Brentford game was played following Covid cases]]></title>
@@ -212,11 +219,11 @@
             <pubDate>Fri, 20 Aug 2021 16:00:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[AIG Women's Open day two: England's Georgia Hall shares Carnoustie lead]]></title>
+            <title><![CDATA[Women's Open 2021: England's Georgia Hall shares Carnoustie lead after day two]]></title>
             <description><![CDATA[England's Georgia Hall continues her bid for a second AIG Women's Open title by taking a share of the clubhouse lead on day two at Carnoustie.]]></description>
             <link>https://www.bbc.co.uk/sport/golf/58274181</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/golf/58274181</guid>
-            <pubDate>Fri, 20 Aug 2021 14:27:13 GMT</pubDate>
+            <pubDate>Fri, 20 Aug 2021 17:22:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Rob Burrow: Leeds Rhinos assistant Jamie Jones-Buchanan says former favourite still inspires]]></title>
