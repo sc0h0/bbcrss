@@ -1,6 +1,6 @@
 1. [Afghanistan: Dominic Raab defends interpreter phone call decision](https://www.bbc.co.uk/news/uk-politics-58282163) - The UK foreign secretary is facing calls to quit over his handling of evacuations.
 2. [Streatham terror attack: Prison recall might have stopped Sudesh Amman](https://www.bbc.co.uk/news/uk-england-london-58281243) - Sudesh Amman could have been stopped from stabbing two people in south London, an inquest finds.
-3. [Plymouth shooting: Jake Davison given gun licence for sporting purposes](https://www.bbc.co.uk/news/uk-england-devon-58282482) - Jake Davison was issued his firearms licence for clay pigeon shooting, police chief reveals.
+3. [Plymouth shooting: Jake Davison shotgun licence was seized after assault on youths](https://www.bbc.co.uk/news/uk-england-devon-58282482) - A shotgun and certificate were returned to Jake Davison in July after a police review.
 4. [Covid-19: NI records highest number of cases in a single day](https://www.bbc.co.uk/news/uk-northern-ireland-58278998) - Another 2,397 cases are reported, as doctors warn hospital staff are struggling to meet demand.
 5. [Jill Murphy: The Worst Witch and Large family author dies at 72](https://www.bbc.co.uk/news/entertainment-arts-58283965) - The children's writer and illustrator also published picture books like the Large family series.
 6. [Covid-antibody therapy approved in UK](https://www.bbc.co.uk/news/health-58281332) - Antibody therapy - given to former US President Donald Trump - can now be used in the UK.

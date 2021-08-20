@@ -11,13 +11,13 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 20 Aug 2021 15:25:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Aug 2021 15:46:39 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
             <title><![CDATA[Covid-19: NI records highest number of cases in a single day]]></title>
-            <description><![CDATA[Another 2,397 cases are reported, as doctors warn lives could be lost to other conditions due to Covid pressures.]]></description>
+            <description><![CDATA[Another 2,397 cases are reported, as doctors warn hospital staff are struggling to meet demand.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58278998</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58278998</guid>
             <pubDate>Fri, 20 Aug 2021 15:11:02 GMT</pubDate>
@@ -51,18 +51,25 @@
             <pubDate>Fri, 20 Aug 2021 08:12:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Child Funeral Fund: Money yet to be made available by Stormont]]></title>
-            <description><![CDATA[In England, Wales and Scotland the cost of a child's funeral is waived but no official scheme exists in NI.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58278921</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58278921</guid>
-            <pubDate>Fri, 20 Aug 2021 09:16:06 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Galway: Four dead after three-vehicle M6 collision]]></title>
             <description><![CDATA[Police say all four people died at the scene of the three-vehicle collision on the M6.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-58279482</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58279482</guid>
             <pubDate>Fri, 20 Aug 2021 08:26:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wally the walrus to get his own pontoon]]></title>
+            <description><![CDATA[It is hoped the floating platform will stop the walrus from sinking more boats.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58279480</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58279480</guid>
+            <pubDate>Fri, 20 Aug 2021 15:37:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Child Funeral Fund: Money yet to be made available by Stormont]]></title>
+            <description><![CDATA[In England, Wales and Scotland the cost of a child's funeral is waived but no official scheme exists in NI.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58278921</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58278921</guid>
+            <pubDate>Fri, 20 Aug 2021 09:16:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: Swann sets target of 90% of NI jabbed for Covid-19]]></title>
