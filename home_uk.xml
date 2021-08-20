@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 20 Aug 2021 09:09:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Aug 2021 09:29:03 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -100,6 +100,13 @@
             <pubDate>Fri, 20 Aug 2021 05:16:06 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Quiz of the week: Rude place names and noisy ice-cream vans]]></title>
+            <description><![CDATA[How closely have you been paying attention to what's been going on during the past seven days?]]></description>
+            <link>https://www.bbc.co.uk/news/world-58255328</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-58255328</guid>
+            <pubDate>Thu, 19 Aug 2021 12:28:33 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The Papers: 'Bad call, minister' as pressure increases on Raab]]></title>
             <description><![CDATA[Some of the papers focus on the future of the foreign secretary over his handling of the Afghanistan crisis.]]></description>
             <link>https://www.bbc.co.uk/news/blogs-the-papers-58276354</link>
@@ -114,13 +121,6 @@
             <pubDate>Fri, 20 Aug 2021 01:30:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Quiz of the week: Rude place names and noisy ice-cream vans]]></title>
-            <description><![CDATA[How closely have you been paying attention to what's been going on during the past seven days?]]></description>
-            <link>https://www.bbc.co.uk/news/world-58255328</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-58255328</guid>
-            <pubDate>Thu, 19 Aug 2021 12:28:33 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Drag Race UK queens: Pandemic 'pushed us creatively']]></title>
             <description><![CDATA[Newsbeat has spoken to all 12 queens taking part in the new series.]]></description>
             <link>https://www.bbc.co.uk/news/newsbeat-58270184</link>
@@ -128,7 +128,7 @@
             <pubDate>Thu, 19 Aug 2021 23:09:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Paralympics: Palak Kohli on preparing for Tokyo 2020]]></title>
+            <title><![CDATA[Paralympics: Para-badminton player Palak Kohli on preparing for Tokyo 2020]]></title>
             <description><![CDATA[Palak Kohli is the only Indian para-badminton player to be competing in three categories in Tokyo.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-58271771</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58271771</guid>

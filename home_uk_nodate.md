@@ -10,11 +10,11 @@
 10. [Government borrowing shrinks in July](https://www.bbc.co.uk/news/business-58266821) - Despite a fall, borrowing was still the second-highest on record for July as Covid spending continues.
 11. [Britney Spears investigated over dispute with employee](https://www.bbc.co.uk/news/entertainment-arts-58276564) - A member of staff says the singer struck her, while Ms Spears' lawyer says no-one was injured.
 12. [Record number of bids for UK City of Culture 2025](https://www.bbc.co.uk/news/uk-england-58272630) - For the first time groups of towns or areas have been able to bid for the cultural capital title.
-13. [The Papers: 'Bad call, minister' as pressure increases on Raab](https://www.bbc.co.uk/news/blogs-the-papers-58276354) - Some of the papers focus on the future of the foreign secretary over his handling of the Afghanistan crisis.
-14. [What's behind the rising gun violence in the US?](https://www.bbc.co.uk/news/world-us-canada-58207384) - After a decline, gun violence in cities like Washington DC has been increasing since 2018.
-15. [Quiz of the week: Rude place names and noisy ice-cream vans](https://www.bbc.co.uk/news/world-58255328) - How closely have you been paying attention to what's been going on during the past seven days?
+13. [Quiz of the week: Rude place names and noisy ice-cream vans](https://www.bbc.co.uk/news/world-58255328) - How closely have you been paying attention to what's been going on during the past seven days?
+14. [The Papers: 'Bad call, minister' as pressure increases on Raab](https://www.bbc.co.uk/news/blogs-the-papers-58276354) - Some of the papers focus on the future of the foreign secretary over his handling of the Afghanistan crisis.
+15. [What's behind the rising gun violence in the US?](https://www.bbc.co.uk/news/world-us-canada-58207384) - After a decline, gun violence in cities like Washington DC has been increasing since 2018.
 16. [Drag Race UK queens: Pandemic 'pushed us creatively'](https://www.bbc.co.uk/news/newsbeat-58270184) - Newsbeat has spoken to all 12 queens taking part in the new series.
-17. [Paralympics: Palak Kohli on preparing for Tokyo 2020](https://www.bbc.co.uk/news/world-asia-58271771) - Palak Kohli is the only Indian para-badminton player to be competing in three categories in Tokyo.
+17. [Paralympics: Para-badminton player Palak Kohli on preparing for Tokyo 2020](https://www.bbc.co.uk/news/world-asia-58271771) - Palak Kohli is the only Indian para-badminton player to be competing in three categories in Tokyo.
 18. [Haiti earthquake: Rescue efforts continue in Les Cayes](https://www.bbc.co.uk/news/world-latin-america-58274326) - The death toll from the 7.2-magnitude quake is now over 2,000, with many still missing in towns like Les Cayes.
 19. [Wildfires rage across Europe](https://www.bbc.co.uk/news/world-58257998) - A look at some of the fires spreading across Europe - and the rest of the globe.
 20. [Nature: Rattlesnakes' sound 'trick' fools human ears](https://www.bbc.co.uk/news/science-environment-58270599) - Rattlesnakes have evolved a clever method of convincing humans that danger is closer than you think.

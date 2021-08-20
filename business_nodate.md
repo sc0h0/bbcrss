@@ -2,10 +2,10 @@
 2. [M&S shares jump as it says turnaround plan working](https://www.bbc.co.uk/news/business-58274807) - The retail giant raises its profits forecast, but UK retail sales see a sharp fall during July.
 3. [Government borrowing shrinks in July](https://www.bbc.co.uk/news/business-58266821) - Despite a fall, borrowing was still the second-highest on record for July as Covid spending continues.
 4. [BHP sacked 48 over sexual harassment and assaults at Australian mines](https://www.bbc.co.uk/news/world-australia-58278104) - An Australian inquiry has heard allegations of rape and sexual harassment at remote mining camps.
-5. [Hackers steal nearly $100m in Japan crypto heist](https://www.bbc.co.uk/news/business-58277359) - The incident comes days after $600m of cryptocurrencies was stolen from another digital platform.
-6. [Cinema box office takings at 50% of pre-pandemic levels](https://www.bbc.co.uk/news/entertainment-arts-58270577) - Box office takings in the past month are half of their pre-pandemic levels.
-7. [OnlyFans to ban sexually explicit content](https://www.bbc.co.uk/news/business-58273914) - The online subscription site will prevent users from posting content showing 'sexually explicit conduct'.
-8. [Covid career changers: ‘Do something you love’](https://www.bbc.co.uk/news/business-58273913) - Young people say their career prospects and businesses have taken a financial hit from Covid.
+5. [Covid career changers: ‘Do something you love’](https://www.bbc.co.uk/news/business-58273913) - Young people say their career prospects and businesses have taken a financial hit from Covid.
+6. [Hackers steal nearly $100m in Japan crypto heist](https://www.bbc.co.uk/news/business-58277359) - The incident comes days after $600m of cryptocurrencies was stolen from another digital platform.
+7. [Cinema box office takings at 50% of pre-pandemic levels](https://www.bbc.co.uk/news/entertainment-arts-58270577) - Box office takings in the past month are half of their pre-pandemic levels.
+8. [OnlyFans to ban sexually explicit content](https://www.bbc.co.uk/news/business-58273914) - The online subscription site will prevent users from posting content showing 'sexually explicit conduct'.
 9. [Facebook moves to protect Afghan users' accounts amid Taliban takeover](https://www.bbc.co.uk/news/technology-58277175) - The tech giant says it wants to reassure people worried about being tracked down by the Taliban.
 10. [Amazon 'planning to open department stores in US'](https://www.bbc.co.uk/news/business-58274458) - According to reports, the e-commerce giant wants to branch further into High Street retail by opening several big stores.
 11. [Chip shortage: Toyota to cut global production by 40%](https://www.bbc.co.uk/news/business-58266794) - The world's biggest carmaker will cut output in September, while VW warns it may have to make further cuts.

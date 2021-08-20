@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 20 Aug 2021 09:11:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Aug 2021 09:26:01 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -44,6 +44,13 @@
             <pubDate>Fri, 20 Aug 2021 08:12:31 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Child Funeral Fund: Money yet to be made available by Stormont]]></title>
+            <description><![CDATA[In England, Wales and Scotland the cost of a child's funeral is waived but no official scheme exists in NI.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58278921</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58278921</guid>
+            <pubDate>Fri, 20 Aug 2021 09:16:06 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Armagh makes bid for UK City of Culture]]></title>
             <description><![CDATA[The council area is bidding for the 2025 title, which was previously awarded to Londonderry.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58278996</link>
@@ -51,18 +58,18 @@
             <pubDate>Fri, 20 Aug 2021 07:13:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Newmills community helps to unearth history of former mill site]]></title>
-            <description><![CDATA[The residents of a Tyrone village help archaeologists to excavate the site of a former watermill.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58276011</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58276011</guid>
-            <pubDate>Fri, 20 Aug 2021 05:34:26 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Galway: Four dead after three-vehicle M6 collision]]></title>
             <description><![CDATA[Police say all four people died at the scene of the three-vehicle collision on the M6.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-58279482</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58279482</guid>
             <pubDate>Fri, 20 Aug 2021 08:26:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Newmills community helps to unearth history of former mill site]]></title>
+            <description><![CDATA[The residents of a Tyrone village help archaeologists to excavate the site of a former watermill.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58276011</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58276011</guid>
+            <pubDate>Fri, 20 Aug 2021 05:34:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Belfast fraudster who conned elderly while on bail avoids jail]]></title>
@@ -93,13 +100,6 @@
             <pubDate>Thu, 19 Aug 2021 05:41:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Two men die in three-vehicle crash in County Meath]]></title>
-            <description><![CDATA[A man in his 40s and a man in his 30s die in a three-vehicle crash on the R152 at Keenogue.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58272004</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58272004</guid>
-            <pubDate>Thu, 19 Aug 2021 14:02:26 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA['Urgent clarity needed' on football crowds' return]]></title>
             <description><![CDATA[Northern Ireland Football League CEO Gerard Lawlor calls for "urgent clarity" from the Executive on the return of supporters to Irish Premiership matches this season.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58267160</link>
@@ -112,13 +112,6 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58262835</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58262835</guid>
             <pubDate>Thu, 19 Aug 2021 08:16:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NI house prices 9% higher than same period last year]]></title>
-            <description><![CDATA[House prices in Northern Ireland from March to June were 9% higher than the same time last year.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58256311</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58256311</guid>
-            <pubDate>Wed, 18 Aug 2021 17:11:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: Deaths and hospital admissions 'yet to peak']]></title>
@@ -252,6 +245,13 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58229670</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58229670</guid>
             <pubDate>Mon, 16 Aug 2021 11:55:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Two men die in three-vehicle crash in County Meath]]></title>
+            <description><![CDATA[A man in his 40s and a man in his 30s die in a three-vehicle crash on the R152 at Keenogue.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58272004</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58272004</guid>
+            <pubDate>Thu, 19 Aug 2021 14:02:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Irish government to evacuate 36 citizens from Afghanistan]]></title>

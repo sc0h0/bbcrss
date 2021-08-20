@@ -40,7 +40,7 @@
 40. [Coronavirus: Intensive care and other key terms explained](https://www.bbc.co.uk/news/health-52182658) - Use our tool to check the meaning of key words and phrases associated with the Covid-19 outbreak.
 41. [Coronavirus: What is the risk to men over 50?](https://www.bbc.co.uk/news/health-52197594) - While most people will have mild symptoms and recover quickly, some are more prone to getting sick.
 42. [Coronavirus: Do face masks actually work?](https://www.bbc.co.uk/news/health-51881555) - With face masks in high demand, we look at whether they really can protect people from the virus.
-43. [Lockdown screen time sees rise in short-sightedness](https://www.bbc.co.uk/news/health-58274916) - Optometrists are diagnosing higher numbers of children with short-sightedness since the start of the pandemic.
+43. [Lockdown screen time sees rise in short-sightedness among children](https://www.bbc.co.uk/news/health-58274916) - Optometrists are diagnosing higher numbers of children with short-sightedness since the start of the pandemic.
 44. [Covid: 'I'm pregnant, should I have the vaccine?'](https://www.bbc.co.uk/news/uk-england-london-58089039) - Many pregnant women have declined the Covid jab, but what's best for the baby?
 45. ['I make art out of discarded face masks'](https://www.bbc.co.uk/news/uk-england-nottinghamshire-58187835) - Thomas Yates posts artwork he's created out of used face masks on social media.
 46. [Sajid Javid says NHS waiting lists will rise](https://www.bbc.co.uk/news/uk-politics-58188899) - The health secretary urges people to come forward and "know that the NHS is there for them".
