@@ -1,4 +1,4 @@
-1. [Spain migrants: Sole survivor rescued in dinghy in Atlantic](https://www.bbc.co.uk/news/world-europe-58279185) - The woman, who was spotted clinging to an upturned boat, said 40 other people had died.
+1. [Spain migrants: Sole survivor rescued in dinghy in Atlantic](https://www.bbc.co.uk/news/world-europe-58279185) - The woman, who was spotted clinging to an upturned boat, says at least 52 other people died.
 2. [Belgium stabbing suspect won’t be charged over unborn baby’s death](https://www.bbc.co.uk/news/world-europe-58268825) - A man in Belgium is charged with allegedly stabbing his partner, but not her unborn baby's death.
 3. [Russia names Golos monitor as 'foreign agent' ahead of election](https://www.bbc.co.uk/news/world-europe-58265932) - Golos has vowed to continue its work ahead of parliamentary elections in a month's time.
 4. [Trabzonspor 1-2 Roma: Jose Mourinho reign starts with European win](https://www.bbc.co.uk/sport/football/58275962) - Jose Mourinho's spell as Roma boss starts with a win at Turkish side Trabzonspor in the Europa Conference League play-off.

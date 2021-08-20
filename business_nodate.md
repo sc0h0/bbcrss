@@ -1,4 +1,4 @@
-1. [M&S shares soar as it says turnaround plan working](https://www.bbc.co.uk/news/business-58274807) - The retail giant raises its profits forecast, but UK retail sales see a sharp fall during July.
+1. [M&S shares soar as it says turnaround plan working](https://www.bbc.co.uk/news/business-58274807) - The High Street giant raises its profits forecast, as official figures show UK retail sales fell sharply in July.
 2. [Sky Broadband outage hits banking websites](https://www.bbc.co.uk/news/business-58280318) - Customers of Halifax, Santander, HSBC and TSB have all complained of problems accessing online services.
 3. [Morrisons backs US firm's improved £7bn takeover offer](https://www.bbc.co.uk/news/business-58273916) - But shares in the supermarket open higher, suggesting some investors think the £7bn-plus battle is not over.
 4. [Government borrowing shrinks in July](https://www.bbc.co.uk/news/business-58266821) - Despite a fall, borrowing was still the second-highest on record for July as Covid spending continues.

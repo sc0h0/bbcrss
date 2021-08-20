@@ -1,6 +1,6 @@
 1. [Africa's week in pictures: 13-19 August 2021](https://www.bbc.co.uk/news/world-africa-58267380) - A selection of the best photos from the African continent and beyond.
 2. [How could Africa produce its own vaccines?](https://www.bbc.co.uk/news/world-africa-58270986) - What would it take to to jump-start vaccine manufacturing in Africa?
-3. [Spain migrants: Sole survivor rescued in dinghy in Atlantic](https://www.bbc.co.uk/news/world-europe-58279185) - The woman, who was spotted clinging to an upturned boat, said 40 other people had died.
+3. [Spain migrants: Sole survivor rescued in dinghy in Atlantic](https://www.bbc.co.uk/news/world-europe-58279185) - The woman, who was spotted clinging to an upturned boat, says at least 52 other people died.
 4. [Zimbabwe arrests after child bride dies giving birth at church shrine](https://www.bbc.co.uk/news/world-africa-58270976) - Anna Machaya's death at a church leads to calls for the government to end forced child marriage.
 5. [Nigeria's Lai Mohammed: We are winning the war against Boko Haram](https://www.bbc.co.uk/news/world-africa-58270983) - The information minister says Nigeria is winning the war against insecurity and is negotiating with Twitter over the ban.
 6. [Tigray crisis: Ethiopian teenagers become pawns in propaganda war](https://www.bbc.co.uk/news/world-africa-58189395) - The BBC is told they were forced to fight for Tigray's rebels, but were words put into their mouths?

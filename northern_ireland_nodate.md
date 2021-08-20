@@ -1,4 +1,4 @@
-1. [Covid-19: Nisra figures show 40 Covid-related deaths in a week](https://www.bbc.co.uk/news/uk-northern-ireland-58278998) - Figures show the virus was recorded on the death certificates of 40 people in a week.
+1. [Covid-19: Covid pressures 'putting cancer patients at risk'](https://www.bbc.co.uk/news/uk-northern-ireland-58278998) - A doctor sounds a warning as the virus is recorded on death certificates of 40 people in a week.
 2. [Hundreds of newly-qualified teachers not registered to teach in NI](https://www.bbc.co.uk/news/uk-northern-ireland-58274469) - About 500 new teachers are waiting to be fully registered and cannot be employed until then.
 3. [Covid-19: Swann sets target of 90% of NI jabbed for Covid-19](https://www.bbc.co.uk/news/uk-northern-ireland-58269477) - Having 90% of people in NI vaccinated would take pressure off the health service, says Robin Swann.
 4. [M1 crash: Six people taken to hospital after crash](https://www.bbc.co.uk/news/uk-northern-ireland-58275300) - Six people are taken to hospital after a collision on the motorway near Lisburn on Thursday night.
