@@ -9,7 +9,7 @@
 9. [New visas urged to tackle EU lorry driver shortage](https://www.bbc.co.uk/news/business-58287003) - A lorry driver shortage is leaving shelves empty, and one group wants 10,000 EU visas granted to solve it.
 10. [Poison algae may have killed California family, police say](https://www.bbc.co.uk/news/world-us-canada-58288482) - A family of three may have been killed by toxic algae blooms on a hiking trail, investigators say.
 11. [Gun returned to Plymouth attacker after rehabilitation scheme](https://www.bbc.co.uk/news/uk-england-devon-58282482) - A shotgun and certificate were returned to Jake Davison in July after a police review.
-12. [Army supporting ambulance services in England](https://www.bbc.co.uk/news/health-58281665) - High demand and staffing shortages have meant the Army has been called in to help look after patients.
+12. [Covid: CO2 monitors pledged to aid school ventilation](https://www.bbc.co.uk/news/education-58285359) - Schools in England are to be given CO2 monitors to as part of plans to limit the spread of Covid.
 13. [Newspaper headlines: Evacuation efforts in Kabul and Al-Qaeda warning](https://www.bbc.co.uk/news/blogs-the-papers-58288462) - The continuing situation in Afghanistan dominates most of the front pages.
 14. [Covid cases: This summer compared with last](https://www.bbc.co.uk/news/health-58281664) - Case numbers are 30 times higher than at the same point last year - where might we be heading next?
 15. [Quiz of the week: Rude place names and noisy ice-cream vans](https://www.bbc.co.uk/news/world-58255328) - How closely have you been paying attention to what's been going on during the past seven days?
