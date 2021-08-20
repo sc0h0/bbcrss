@@ -1,5 +1,5 @@
 1. [Streatham terror attack: Prison recall might have stopped Sudesh Amman](https://www.bbc.co.uk/news/uk-england-london-58281243) - Sudesh Amman could have been stopped from stabbing two people in south London, an inquest finds.
-2. [Plymouth shooting: Jake Davison given gun licence for sporting purposes](https://www.bbc.co.uk/news/uk-england-devon-58282482) - Jake Davison was issued his firearms licence for clay pigeon shooting, police chief reveals.
+2. [Plymouth shooting: Jake Davison shotgun licence was seized after assault on youths](https://www.bbc.co.uk/news/uk-england-devon-58282482) - A shotgun and certificate were returned to Jake Davison in July after a police review.
 3. [Afghan boy death: MPs call for urgent investigation after hotel fall](https://www.bbc.co.uk/news/uk-england-south-yorkshire-58280360) - A group of MPs backs calls for an investigation into the safety of accommodation for Afghan refugees.
 4. [Northumbria Police officer groomed vulnerable single mothers](https://www.bbc.co.uk/news/uk-england-tyne-58283467) - Erling Leask is sentenced for grooming two vulnerable single mothers while working as a PC.
 5. [Record number of bids for UK City of Culture 2025](https://www.bbc.co.uk/news/uk-england-58272630) - For the first time groups of towns or areas have been able to bid for the cultural capital title.
