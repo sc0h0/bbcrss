@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 20 Aug 2021 19:27:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Aug 2021 20:23:10 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -21,6 +21,13 @@
             <link>https://www.bbc.co.uk/news/uk-england-london-58281243</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-58281243</guid>
             <pubDate>Fri, 20 Aug 2021 13:40:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bournemouth boy, 13, dies of suspected drug overdose]]></title>
+            <description><![CDATA[A 14-year-old boy has been arrested after Mehmet Altun, 13, became ill in Bournemouth and died.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-dorset-58287803</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-dorset-58287803</guid>
+            <pubDate>Fri, 20 Aug 2021 20:06:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Gun returned to Plymouth attacker after rehabilitation scheme]]></title>
@@ -51,18 +58,18 @@
             <pubDate>Fri, 20 Aug 2021 16:01:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid-19: Statues recognise NHS staff and key workers]]></title>
-            <description><![CDATA[Each of the 51 statues on display in Birmingham has been decorated by a different artist.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-birmingham-58285340</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-birmingham-58285340</guid>
-            <pubDate>Fri, 20 Aug 2021 17:09:10 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Heron put down after flying with crossbow bolt in Suffolk]]></title>
             <description><![CDATA[It had been seen flying for weeks before RSPCA officers rescued the "very thin, weak" bird.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-suffolk-58285825</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-suffolk-58285825</guid>
             <pubDate>Fri, 20 Aug 2021 16:14:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19: Statues recognise NHS staff and key workers]]></title>
+            <description><![CDATA[Each of the 51 statues on display in Birmingham has been decorated by a different artist.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-birmingham-58285340</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-birmingham-58285340</guid>
+            <pubDate>Fri, 20 Aug 2021 17:09:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Record number of bids for UK City of Culture 2025]]></title>
@@ -84,13 +91,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-manchester-58280733</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-manchester-58280733</guid>
             <pubDate>Fri, 20 Aug 2021 09:38:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Northampton: Conservative donor admits £10k disguised contribution]]></title>
-            <description><![CDATA[Alan Mayfield gave the sum to a Conservative group but did not declare he was not the funds' source.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-northamptonshire-58283529</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-northamptonshire-58283529</guid>
-            <pubDate>Fri, 20 Aug 2021 17:25:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Geronimo the alpaca legal fight cost £43k plus lost income]]></title>
@@ -133,6 +133,13 @@
             <link>https://www.bbc.co.uk/news/uk-england-norfolk-58258077</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-norfolk-58258077</guid>
             <pubDate>Wed, 18 Aug 2021 11:10:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Northampton: Conservative donor admits £10k disguised contribution]]></title>
+            <description><![CDATA[Alan Mayfield gave the sum to a Conservative group but did not declare he was not the funds' source.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-northamptonshire-58283529</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-northamptonshire-58283529</guid>
+            <pubDate>Fri, 20 Aug 2021 17:25:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bristol mum facing £85k bill to extend life with her son]]></title>
@@ -198,11 +205,11 @@
             <pubDate>Fri, 20 Aug 2021 10:15:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Hundred: Oval Invincibles fight back to beat Birmingham Phoenix to reach final]]></title>
-            <description><![CDATA[Oval Invincibles fight back from the brink in stunning style to reach the inaugural women's Hundred final with a 20-run win over Birmingham Phoenix.]]></description>
-            <link>https://www.bbc.co.uk/sport/cricket/58284412</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/58284412</guid>
-            <pubDate>Fri, 20 Aug 2021 17:26:42 GMT</pubDate>
+            <title><![CDATA[The Hundred: Southern Brave thrash Trent Rockets to reach Lord's final]]></title>
+            <description><![CDATA[Southern Brave thrash Trent Rockets by seven wickets in the men's Hundred eliminator to set up a final against Birmingham Phoenix.]]></description>
+            <link>https://www.bbc.co.uk/sport/cricket/58284415</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/58284415</guid>
+            <pubDate>Fri, 20 Aug 2021 20:10:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Arsenal sign Martin Odegaard from Real Madrid and Sheffield United's Aaron Ramsdale]]></title>
@@ -210,6 +217,13 @@
             <link>https://www.bbc.co.uk/sport/football/58279217</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58279217</guid>
             <pubDate>Fri, 20 Aug 2021 18:24:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Hundred: Oval Invincibles fight back to beat Birmingham Phoenix to reach final]]></title>
+            <description><![CDATA[Oval Invincibles fight back from the brink in stunning style to reach the inaugural women's Hundred final with a 20-run win over Birmingham Phoenix.]]></description>
+            <link>https://www.bbc.co.uk/sport/cricket/58284412</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/58284412</guid>
+            <pubDate>Fri, 20 Aug 2021 17:26:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Women's Open 2021: England's Georgia Hall shares Carnoustie lead after day two]]></title>
