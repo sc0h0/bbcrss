@@ -19,7 +19,7 @@
 19. [Haiti earthquake: Rescue efforts continue in Les Cayes](https://www.bbc.co.uk/news/world-latin-america-58274326) - The death toll from the 7.2-magnitude quake is now over 2,000, with many still missing in towns like Les Cayes.
 20. [Wildfires rage across Europe](https://www.bbc.co.uk/news/world-58257998) - A look at some of the fires spreading across Europe - and the rest of the globe.
 21. [Nature: Rattlesnakes' sound 'trick' fools human ears](https://www.bbc.co.uk/news/science-environment-58270599) - Rattlesnakes have evolved a clever method of convincing humans that danger is closer than you think.
-22. [OnlyFans: Platform to ban sex videos after BBC investigation](https://www.bbc.co.uk/news/uk-58255865) - Announcement came as leaked documents revealed Only Fans had some “tolerance” for accounts that posted illegal content.
+22. [OnlyFans: How it handles illegal sex videos - BBC investigation](https://www.bbc.co.uk/news/uk-58255865) - Announcement came as leaked documents revealed Only Fans had some “tolerance” for accounts that posted illegal content.
 23. [Clive Myrie: Becoming host of Mastermind is a big, big job](https://www.bbc.co.uk/news/entertainment-arts-58150617) - The journalist may be feeling jittery about his new role but hopes it will reveal his lighter side.
 24. [Love and money: Why breaking-up is so hard to do](https://www.bbc.co.uk/news/business-58245247) - More people are looking for help in paying for divorces after relationships ended during Covid.
 25. ['We felt free': Cubans remain defiant in face of protest crackdown](https://www.bbc.co.uk/news/world-latin-america-58255555) - A month after rare anti-government protests in Cuba, many of those who took part remain defiant.
