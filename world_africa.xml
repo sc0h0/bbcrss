@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 20 Aug 2021 05:52:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Aug 2021 06:25:49 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -100,6 +100,13 @@
             <pubDate>Mon, 09 Aug 2021 14:43:32 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[How could Africa produce its own vaccines?]]></title>
+            <description><![CDATA[What would it take to to jump-start vaccine manufacturing in Africa?]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-58270986</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-58270986</guid>
+            <pubDate>Fri, 20 Aug 2021 06:10:48 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Zambia elections: Hakainde Hichilema supporters celebrate victory]]></title>
             <description><![CDATA[People take to the streets following Hakainde Hichilema's landslide victory in Zambia's presidential elections.]]></description>
             <link>https://www.bbc.co.uk/news/world-africa-58236586</link>
@@ -140,13 +147,6 @@
             <link>https://www.bbc.co.uk/news/world-africa-58123179</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-58123179</guid>
             <pubDate>Sun, 08 Aug 2021 09:16:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Manga artist from Kenya on his passion for Japanese comics]]></title>
-            <description><![CDATA[Kenyan manga artist Shin explains his passion for Japanese comics and what it takes to make a great one.]]></description>
-            <link>https://www.bbc.co.uk/news/world-africa-58105542</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-58105542</guid>
-            <pubDate>Thu, 05 Aug 2021 14:24:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
