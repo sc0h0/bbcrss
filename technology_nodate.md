@@ -1,4 +1,4 @@
-1. [OnlyFans: Platform to ban sex videos after BBC investigation](https://www.bbc.co.uk/news/uk-58255865) - Announcement came as leaked documents revealed Only Fans had some “tolerance” for accounts that posted illegal content.
+1. [OnlyFans to ban sex videos](https://www.bbc.co.uk/news/uk-58255865) - Announcement came as leaked documents revealed Only Fans had some “tolerance” for accounts that posted illegal content.
 2. [Facebook moves to protect Afghan users' accounts amid Taliban takeover](https://www.bbc.co.uk/news/technology-58277175) - The tech giant says it wants to reassure people worried about being tracked down by the Taliban.
 3. [Hackers steal nearly $100m in Japan crypto heist](https://www.bbc.co.uk/news/business-58277359) - The incident comes days after $600m of cryptocurrencies was stolen from another digital platform.
 4. [Facebook reveals most-seen posts are inane questions, not politics](https://www.bbc.co.uk/news/technology-58270497) - "Does sugar go in spaghetti?" is among the US's top posts, as Facebook battles right-wing content claims.
