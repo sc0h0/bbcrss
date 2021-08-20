@@ -1,7 +1,7 @@
 1. [Afghanistan: Taliban carrying out door-to-door manhunt, report says](https://www.bbc.co.uk/news/world-asia-58271797) - The militants are searching for those who worked with Nato forces, a UN document warns.
 2. [Afghanistan: Taliban 'tortured and massacred' men from Hazara minority](https://www.bbc.co.uk/news/world-asia-58277463) - Rights group Amnesty says the recent killings of men from the Hazara minority were a "horrifying indicator" of Taliban rule.
 3. [China NPC: Three-child policy formally passed into law](https://www.bbc.co.uk/news/world-asia-china-58277473) - The top legislature was also expected to approve a controversial anti-sanctions law for Hong Kong.
-4. [Covid: Sydney extends lockdown and puts two million under curfew](https://www.bbc.co.uk/news/world-australia-58277503) - Australia's largest city now faces stay-at-home orders until at least the end of September.
+4. [Australia Covid: Sydney lockdown extended and curfew imposed](https://www.bbc.co.uk/news/world-australia-58277503) - Residents of the country's largest city now face stay-at-home orders until at least the end of September.
 5. [Haiti earthquake: Rescue efforts continue in Les Cayes](https://www.bbc.co.uk/news/world-latin-america-58274326) - The death toll from the 7.2-magnitude quake is now over 2,000, with many still missing in towns like Les Cayes.
 6. [New York officer rescues fallen man from subway train](https://www.bbc.co.uk/news/world-us-canada-58277097) - A bystander captured the harrowing moments after a passenger fell unconscious from the platform.
 7. [Britney Spears investigated over dispute with employee](https://www.bbc.co.uk/news/entertainment-arts-58276564) - A member of staff says the singer struck her, while Ms Spears' lawyer says no-one was injured.
