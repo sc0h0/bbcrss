@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 20 Aug 2021 20:59:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Aug 2021 21:10:36 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -219,6 +219,13 @@
             <pubDate>Fri, 20 Aug 2021 20:40:19 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Super League: Wigan Warriors 2-26 St Helens - Saints coast to highly charged derby win]]></title>
+            <description><![CDATA[St Helens coast to a derby win over Wigan Warriors in a highly charged Super League fixture at the DW Stadium.]]></description>
+            <link>https://www.bbc.co.uk/sport/rugby-league/58287751</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-league/58287751</guid>
+            <pubDate>Fri, 20 Aug 2021 20:55:31 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA['I'm loving every minute of it' - Phoenix teenager Smeed on reaching Hundred final]]></title>
             <description><![CDATA[Birmingham Phoenix's Will Smeed, the youngest player in the men's Hundred, tells BBC Points West about his rise into the limelight.]]></description>
             <link>https://www.bbc.co.uk/sport/cricket/58267884</link>
@@ -231,13 +238,6 @@
             <link>https://www.bbc.co.uk/sport/football/58279217</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58279217</guid>
             <pubDate>Fri, 20 Aug 2021 18:24:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Hundred: Oval Invincibles fight back to beat Birmingham Phoenix to reach final]]></title>
-            <description><![CDATA[Oval Invincibles fight back from the brink in stunning style to reach the inaugural women's Hundred final with a 20-run win over Birmingham Phoenix.]]></description>
-            <link>https://www.bbc.co.uk/sport/cricket/58284412</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/58284412</guid>
-            <pubDate>Fri, 20 Aug 2021 17:26:42 GMT</pubDate>
         </item>
     </channel>
 </rss>

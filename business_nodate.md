@@ -1,5 +1,5 @@
 1. [Nvidia's takeover of Arm raises serious concerns, says watchdog](https://www.bbc.co.uk/news/business-58284204) - The UK competition watchdog mounts an in-depth probe into US firm Nvidia’s proposed £29bn takeover of Arm.
-2. [Lorry driver shortages: 'Perfect storm' causing gaps on shelves](https://www.bbc.co.uk/news/uk-england-gloucestershire-58006669) - An existing shortage of lorry drivers before Covid-19 is causing problems, a haulage boss says.
+2. [New visas urged to tackle EU lorry driver shortage](https://www.bbc.co.uk/news/business-58287003) - A lorry driver shortage is leaving shelves empty, and one group wants 10,000 EU visas granted to solve it.
 3. [M&S says recovery plan boosting sales and profits](https://www.bbc.co.uk/news/business-58274807) - The High Street giant's shares soar on upbeat trading news, as official figures show UK retail sales sank in July.
 4. [Apple delays recalling staff to the office until 2022](https://www.bbc.co.uk/news/business-58281902) - The decision comes as fears grow over the impact of surging Covid cases in the US.
 5. [Morrisons backs US firm's improved £7bn takeover offer](https://www.bbc.co.uk/news/business-58273916) - But shares in the supermarket open higher, suggesting some investors think the £7bn-plus battle is not over.
