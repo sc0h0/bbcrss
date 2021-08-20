@@ -1,5 +1,5 @@
 1. [Covid: Bereaved families call for Wales-only inquiry](https://www.bbc.co.uk/news/uk-wales-58271577) - A woman who lost her father to Covid says she doesn't want Wales to be a "footnote" in a UK inquiry.
-2. [Wrexham: B5605 may stay closed for years after landslip, says MS](https://www.bbc.co.uk/news/uk-wales-58271578) - A road swept away by Storm Christoph last January may not reopen for years due to lack of funds.
+2. [Wrexham: B5605 'may stay closed for years' after landslip](https://www.bbc.co.uk/news/uk-wales-58271578) - A road swept away by Storm Christoph last January may not reopen for years due to lack of funds.
 3. [Covid: Hotel thought prom-goers had negative tests before spike](https://www.bbc.co.uk/news/uk-wales-58269876) - More than 50 positive cases are linked to a Year 11 graduation party at a hotel.
 4. [Water pollution from metal mines will cost Wales £282m, NRW says](https://www.bbc.co.uk/news/uk-wales-58276244) - Natural Resources Wales identifies 129 disused sites causing problems to nearby rivers and streams.
 5. [Bridgend mother in court charged with murder of her two-year-old son](https://www.bbc.co.uk/news/uk-wales-58260646) - Natalie Steele has been charged with the murder of two-year-old Reid Steele.
@@ -24,5 +24,5 @@
 24. [Covid: 'Ni'n haeddu ymchwiliad cyhoeddus penodol i Gymru'](https://www.bbc.co.uk/newyddion/58271933) - Dynes yn ymgyrchu am ymchwiliad cyhoeddus i Gymru ar ôl i'w thad farw yn sgil rheolaeth "wael" o'r feirws.
 25. ['Mae pethau wedi gwella, fi'n teimlo'n gwd'](https://www.bbc.co.uk/newyddion/58270286) - Mae David Griffiths yn un sydd wedi elwa o gefnogaeth a mentora i gael swydd a gwella ei fywyd.
 26. ['Tair blynedd o broblemau' heb drwsio ffordd gyswllt bwysig](https://www.bbc.co.uk/newyddion/58271937) - Achosodd llifogydd a thirlithriad ddifrod i'r B5606 ger Wrecsam, ond mae oedi yn y gwaith trwsio.
-27. [Yr hunlle' eithaf... haf llawn chwaraeon!](https://www.bbc.co.uk/newyddion/58187206) - Dydi Beth Angell ddim yn un o'r ffans fu'n cefnogi'r holl gampau fu ymlaen yn ddiweddar.
+27. [Yr hunlle' eithaf... haf llawn chwaraeon!](https://www.bbc.co.uk/newyddion/58187206) - Tydi Beth Angell heb fwynhau yr holl gampau fu ymlaen yn ddiweddar.
 28. [Morgannwg yn curo Durham i ennill y Cwpan Undydd](https://www.bbc.co.uk/newyddion/58272328) - Morgannwg wedi llwyddo i ennill eu tlws cyntaf ers 2004 gyda buddugoliaeth o 58 o rediadau yn Trent Bridge.

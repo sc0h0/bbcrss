@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 20 Aug 2021 08:51:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Aug 2021 09:11:33 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Covid-19: Nisra figures show 40 Covid-related deaths in a week]]></title>
+            <description><![CDATA[Figures show the virus was recorded on the death certificates of 40 people in a week.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58278998</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58278998</guid>
+            <pubDate>Fri, 20 Aug 2021 09:07:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Hundreds of newly-qualified teachers not registered to teach in NI]]></title>
             <description><![CDATA[About 500 new teachers are waiting to be fully registered and cannot be employed until then.]]></description>
@@ -56,13 +63,6 @@
             <link>https://www.bbc.co.uk/news/world-europe-58279482</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58279482</guid>
             <pubDate>Fri, 20 Aug 2021 08:26:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid-19: Nine more deaths and 1,963 new cases]]></title>
-            <description><![CDATA[There are currently 379 patients with Covid in NI's hospitals, down from 394 on Wednesday.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58272003</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58272003</guid>
-            <pubDate>Thu, 19 Aug 2021 20:55:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Belfast fraudster who conned elderly while on bail avoids jail]]></title>
