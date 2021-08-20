@@ -1,5 +1,5 @@
 1. [Afghanistan: Will fingerprint data point Taliban to targets?](https://www.bbc.co.uk/news/technology-58245121) - Campaigners worry fingerprint and iris scan data could by used by the Taliban to identify individuals.
-2. [Ryan Reynolds: video games and the making of Free Guy](https://www.bbc.co.uk/news/technology-58245604) - Actor and producer Ryan Reynolds on preparing to play a character caught up in a multiplayer game.
+2. [Ryan Reynolds: Video games and the making of Free Guy](https://www.bbc.co.uk/news/technology-58245604) - Actor and producer Ryan Reynolds on preparing to play a character caught up in a multiplayer game.
 3. [OnlyFans to ban sexually explicit content](https://www.bbc.co.uk/news/business-58273914) - The online subscription site will prevent users from posting content showing 'sexually explicit conduct'.
 4. [Facebook moves to protect Afghan users' accounts amid Taliban takeover](https://www.bbc.co.uk/news/technology-58277175) - The tech giant says it wants to reassure people worried about being tracked down by the Taliban.
 5. [Hackers steal nearly $100m in Japan crypto heist](https://www.bbc.co.uk/news/business-58277359) - The incident comes days after $600m of cryptocurrencies was stolen from another digital platform.
