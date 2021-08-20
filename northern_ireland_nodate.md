@@ -1,6 +1,6 @@
 1. [Hundreds of newly-qualified teachers not registered to teach in NI](https://www.bbc.co.uk/news/uk-northern-ireland-58274469) - About 500 new teachers are waiting to be fully registered and cannot be employed until then.
 2. [Covid-19: Swann sets target of 90% of NI jabbed for Covid-19](https://www.bbc.co.uk/news/uk-northern-ireland-58269477) - Having 90% of people in NI vaccinated would take pressure off the health service, says Robin Swann.
-3. [M1 crash: Up to six people injured after two vehicles crash](https://www.bbc.co.uk/news/uk-northern-ireland-58275300) - The motorway is closed between Sprucefield and Moira after a late-night crash involving two vehicles.
+3. [M1 crash: Up to six people injured after two vehicles crash](https://www.bbc.co.uk/news/uk-northern-ireland-58275300) - The motorway between Sprucefield and Moira has reopened after the late-night crash.
 4. [Londonderry: 'Traveller feud' accused granted bail](https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58273879) - Four men and a teenager are granted bail after an incident at a filling station forecourt on Tuesday.
 5. [Newmills community helps to unearth history of former mill site](https://www.bbc.co.uk/news/uk-northern-ireland-58276011) - The residents of a Tyrone village help archaeologists to excavate the site of a former watermill.
 6. [Belfast fraudster who conned elderly while on bail avoids jail](https://www.bbc.co.uk/news/uk-northern-ireland-58272044) - Belfast man George Henry Patrick Crossett defrauded victims of more than £100,000, a court hears.
