@@ -3,12 +3,12 @@
 3. [Stuart Lubbock: Suspect in murder case released without charge](https://www.bbc.co.uk/news/uk-england-essex-58273900) - Stuart Lubbock was found unconscious at Michael Barrymore's house in 2001 and later died.
 4. [Gurkha group ends Downing Street hunger strike after talks agreed](https://www.bbc.co.uk/news/uk-england-hampshire-58274264) - The group had refused food for 13 days to call for parity with other British Army veterans.
 5. [Blue singer Lee Ryan tells court he cannot afford £1,500 fine](https://www.bbc.co.uk/news/uk-england-cambridgeshire-58274941) - The 38-year-old singer was banned from driving for 12 months and given a fine.
-6. [Plymouth shooting: Gunman argued with mum before attack](https://www.bbc.co.uk/news/uk-england-devon-58260590) - The five victims, including a father and daughter out walking their dog, were killed in Plymouth.
+6. [Bristol mum facing £85k bill to extend life with her son](https://www.bbc.co.uk/news/uk-england-bristol-58017220) - Sarah hopes specialist treatment in Germany will enable her to see her son through to his GCSEs.
 7. [Harry Dunn: Civil damages deposition case postponed](https://www.bbc.co.uk/news/uk-england-northamptonshire-58276375) - A woman accused of killing Harry Dunn was due to give evidence in front of his parents next week.
-8. [Ex-MP Jared O'Mara charged with seven counts of fraud](https://www.bbc.co.uk/news/uk-england-south-yorkshire-58272878) - Jared O'Mara is charged in relation to alleged fraudulent expenses claims, the CPS say.
-9. [Prison guard demanded sexual favours from inmates](https://www.bbc.co.uk/news/uk-england-tyne-58268531) - David Whitfield is jailed over the illicit activity with 12 women over five years.
-10. [Two men charged over £1m Viking coins hoard](https://www.bbc.co.uk/news/uk-england-tyne-58268540) - The haul, recovered in 2019, is believed to be of major historical significance.
-11. [Queen Cynethryth's 'lost' monastery found next to Cookham church](https://www.bbc.co.uk/news/uk-england-berkshire-58258647) - Archaeologists from the University of Reading solve a mystery that has long puzzled historians.
+8. [Plymouth shooting: Gunman argued with mum before attack](https://www.bbc.co.uk/news/uk-england-devon-58260590) - The five victims, including a father and daughter out walking their dog, were killed in Plymouth.
+9. [Ex-MP Jared O'Mara charged with seven counts of fraud](https://www.bbc.co.uk/news/uk-england-south-yorkshire-58272878) - Jared O'Mara is charged in relation to alleged fraudulent expenses claims, the CPS say.
+10. [Prison guard demanded sexual favours from inmates](https://www.bbc.co.uk/news/uk-england-tyne-58268531) - David Whitfield is jailed over the illicit activity with 12 women over five years.
+11. [Two men charged over £1m Viking coins hoard](https://www.bbc.co.uk/news/uk-england-tyne-58268540) - The haul, recovered in 2019, is believed to be of major historical significance.
 12. [Eileen Barrott murder: Husband detained in Scotland](https://www.bbc.co.uk/news/uk-england-leeds-58266900) - Police have been searching for 54-year-old Mark Barrott since Mrs Barrott's death on Sunday.
 13. [Injured Dubai cat flown to Bradford rescue centre](https://www.bbc.co.uk/news/uk-england-leeds-58273901) - The cat was ‘left for dead’ until the centre paid for the transport to West Yorkshire.
 14. ['I thought I can make a difference'](https://www.bbc.co.uk/news/uk-england-humber-58274021) - A Hull hairdresser who lost his own hair due to cancer is now making wigs to help others.
