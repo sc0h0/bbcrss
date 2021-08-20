@@ -13,19 +13,16 @@
 13. [Ultra Electronics deal unlikely to be rejected](https://www.bbc.co.uk/news/business-58266643) - The government is to investigate the takeover of Ultra Electronics, but its sale is unlikely to be stopped.
 14. [Rank Group racks up big losses after venues shut during lockdown](https://www.bbc.co.uk/news/business-58266244) - But Rank Group, which also owns casinos, says trading since reopening has exceeded expectations.
 15. [PCR testing ‘rip-off’: Watchdog warned government in April](https://www.bbc.co.uk/news/business-58263523) - The Competition and Markets Authority hits back at claims it was slow to react to consumers' concerns.
-16. [IMF suspends Afghanistan's access to funds](https://www.bbc.co.uk/news/business-58263525) - The move follows the Taliban's takeover, and lack of global agreement over who now governs Afghanistan.
-17. [Former Netflix staffers charged for making $3m from insider trading](https://www.bbc.co.uk/news/business-58264767) - The Wall Street regulator says confidential subscriber growth data was used in the alleged scheme.
-18. [40 million T-Mobile customers hit by US data breach](https://www.bbc.co.uk/news/business-58263521) - More than 40 million T-Mobile customers have been hit by a US data breach.
-19. [Brazil hopes the world will get a taste for its favourite spirit](https://www.bbc.co.uk/news/business-58241729) - With domestic sales of cachaça falling last year, Brazilian producers want to export more.
-20. [Love and money: Why breaking-up is so hard to do](https://www.bbc.co.uk/news/business-58245247) - More people are looking for help in paying for divorces after relationships ended during Covid.
-21. [CEO Secrets: Don't ask for all your funding up front](https://www.bbc.co.uk/news/business-58207678) - Don't ask for all your funding at once, says Zazuu CEO Kay Akinwunmi, but in smaller chunks.
-22. [Never mind going electric, where will we park?](https://www.bbc.co.uk/news/business-56748346) - UK roads are already jam-packed and that looks set to get worse as more people snap up EVs.
-23. [Just how hard is it to recycle a jumbo jet?](https://www.bbc.co.uk/news/business-57983174) - Thousands of aircraft were left on the tarmac due to Covid, and many will now be broken up for parts.
-24. [Would you let a robot lawyer defend you?](https://www.bbc.co.uk/news/business-58158820) - Why artificial intelligence is increasingly being used by the legal profession.
-25. [How can new technology protect outdoor workers?](https://www.bbc.co.uk/news/business-58049625) - Working outdoors in extreme heat can be deadly, new tech and better protection for workers could help.
-26. [How we can all get more high-quality sleep](https://www.bbc.co.uk/news/business-58148044) - The pandemic has led to a sharp increase in insomnia, but some firms are now helping their staff.
-27. [CEO Secrets: Foot Locker boss shares his advice](https://www.bbc.co.uk/news/business-58101254) - Richard Johnson, CEO of Foot Locker, reflects on the lessons of the pandemic for business leaders.
-28. [Sharing apps are booming but will the kindness continue?](https://www.bbc.co.uk/news/business-57981598) - The pandemic sparked a surge in activity for sharing apps like Olio but has the trend run its course?
-29. [Can technology help authors write a book?](https://www.bbc.co.uk/news/business-58098481) - Writing a novel is notoriously difficult, but technology may give the writer a helping hand.
-30. [The activist entrepreneurs running zero-waste shops](https://www.bbc.co.uk/news/business-57920754) - Environmentally conscious entrepreneurs explain the movement towards zero-waste lifestyles.
-31. [Why artificial intelligence is being used to write adverts](https://www.bbc.co.uk/news/business-57781557) - Advertisers are increasingly using artificial intelligence to come up with their winning slogans.
+16. [Brazil hopes the world will get a taste for its favourite spirit](https://www.bbc.co.uk/news/business-58241729) - With domestic sales of cachaça falling last year, Brazilian producers want to export more.
+17. [Love and money: Why breaking-up is so hard to do](https://www.bbc.co.uk/news/business-58245247) - More people are looking for help in paying for divorces after relationships ended during Covid.
+18. [CEO Secrets: Don't ask for all your funding up front](https://www.bbc.co.uk/news/business-58207678) - Don't ask for all your funding at once, says Zazuu CEO Kay Akinwunmi, but in smaller chunks.
+19. [Never mind going electric, where will we park?](https://www.bbc.co.uk/news/business-56748346) - UK roads are already jam-packed and that looks set to get worse as more people snap up EVs.
+20. [Just how hard is it to recycle a jumbo jet?](https://www.bbc.co.uk/news/business-57983174) - Thousands of aircraft were left on the tarmac due to Covid, and many will now be broken up for parts.
+21. [Would you let a robot lawyer defend you?](https://www.bbc.co.uk/news/business-58158820) - Why artificial intelligence is increasingly being used by the legal profession.
+22. [How can new technology protect outdoor workers?](https://www.bbc.co.uk/news/business-58049625) - Working outdoors in extreme heat can be deadly, new tech and better protection for workers could help.
+23. [How we can all get more high-quality sleep](https://www.bbc.co.uk/news/business-58148044) - The pandemic has led to a sharp increase in insomnia, but some firms are now helping their staff.
+24. [CEO Secrets: Foot Locker boss shares his advice](https://www.bbc.co.uk/news/business-58101254) - Richard Johnson, CEO of Foot Locker, reflects on the lessons of the pandemic for business leaders.
+25. [Sharing apps are booming but will the kindness continue?](https://www.bbc.co.uk/news/business-57981598) - The pandemic sparked a surge in activity for sharing apps like Olio but has the trend run its course?
+26. [Can technology help authors write a book?](https://www.bbc.co.uk/news/business-58098481) - Writing a novel is notoriously difficult, but technology may give the writer a helping hand.
+27. [The activist entrepreneurs running zero-waste shops](https://www.bbc.co.uk/news/business-57920754) - Environmentally conscious entrepreneurs explain the movement towards zero-waste lifestyles.
+28. [Why artificial intelligence is being used to write adverts](https://www.bbc.co.uk/news/business-57781557) - Advertisers are increasingly using artificial intelligence to come up with their winning slogans.

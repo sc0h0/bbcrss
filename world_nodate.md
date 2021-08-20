@@ -21,7 +21,7 @@
 21. [India's living dead: 'They stared at me like I was a ghost'](https://www.bbc.co.uk/news/stories-58259497) - If you're dead you can't own land - so if someone obtains your death certificate you could lose everything.
 22. [Algeria: The forest fires that led to an artist's lynching](https://www.bbc.co.uk/news/world-africa-58260855) - When Djamel Ben Ismail went to fight forest fires in Algeria, his life was cut short by a raging mob.
 23. [Afghanistan: Pakistan fences off from Afghan refugees](https://www.bbc.co.uk/news/world-asia-58187983) - Islamabad says it cannot accept any more Afghans fleeing Taliban rule, despite UN pleas.
-24. [Drag Race UK queens: Pandemic show 'pushed us creatively'](https://www.bbc.co.uk/news/newsbeat-58270184) - Newsbeat has spoken to all 12 queens taking part in the new series.
+24. [Drag Race UK queens: Pandemic 'pushed us creatively'](https://www.bbc.co.uk/news/newsbeat-58270184) - Newsbeat has spoken to all 12 queens taking part in the new series.
 25. [Afghanistan: Child handed over Kabul airport wall as chaos continues](https://www.bbc.co.uk/news/world-asia-58267756) - Afghans try to scale airport walls and shots are fired as crowds keep trying to flee the Taliban.
 26. [Afghanistan: Protesters wave national flag at Independence Day protests](https://www.bbc.co.uk/news/world-asia-58275284) - Afghan protesters mark Independence Day with the national flag, days after the Taliban takeover.
 27. [Afghan interpreter begs PM Boris Johnson for 'pathway to safety'](https://www.bbc.co.uk/news/world-58266707) - Ahmed (not his real name), who worked for the British Army, begs the UK to evacuate him and his family.
