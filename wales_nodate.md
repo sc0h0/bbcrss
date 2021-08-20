@@ -24,4 +24,4 @@
 24. [Dyn yn gwadu llofruddio merch 16 oed yn Ynyswen](https://www.bbc.co.uk/newyddion/58281393) - Mae Chun Xu wedi'i gyhuddo o lofruddio Wenjing Lin yn nhŷ bwyta ei theulu yn Rhondda Cynon Taf.
 25. ['Methu gorfodi chwaraewyr i gael brechiad Covid-19'](https://www.bbc.co.uk/newyddion/58286943) - Rhai chwaraewyr yn gyndyn o gael eu brechiad coronafeirws, medd rheolwyr Caerdydd ac Abertawe.
 26. [Yr hunlle' eithaf... haf llawn chwaraeon!](https://www.bbc.co.uk/newyddion/58187206) - Tydi Beth Angell heb fwynhau yr holl gampau fu ymlaen yn ddiweddar.
-27. [Morgannwg yn curo Durham i ennill y Cwpan Undydd](https://www.bbc.co.uk/newyddion/58272328) - Morgannwg wedi llwyddo i ennill eu tlws cyntaf ers 2004 gyda buddugoliaeth o 58 o rediadau yn Trent Bridge.
+27. [Cymru Premier: Canlyniadau'r ail benwythnos](https://www.bbc.co.uk/newyddion/58287365) - Y pencampwyr, Cei Connah yn crafu heibio Aberystwyth yn un o ddwy gêm nos Wener.
