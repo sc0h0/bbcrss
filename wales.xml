@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 20 Aug 2021 14:16:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Aug 2021 14:31:59 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -44,13 +44,6 @@
             <pubDate>Fri, 20 Aug 2021 10:43:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid: Hotel thought prom-goers had negative tests before spike]]></title>
-            <description><![CDATA[More than 50 positive cases are linked to a Year 11 graduation party at a hotel.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-58269876</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58269876</guid>
-            <pubDate>Thu, 19 Aug 2021 17:41:13 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Denbigh: Police investigate death of badger nailed to a tree]]></title>
             <description><![CDATA[Police describe the incident as "abhorrent" and are trying to establish how the animal died.]]></description>
             <link>https://www.bbc.co.uk/news/uk-wales-58281232</link>
@@ -65,18 +58,25 @@
             <pubDate>Fri, 20 Aug 2021 13:02:54 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Swansea eating disorder woman wins place in Miss GB final]]></title>
+            <description><![CDATA[Kirsty Logan wants to use her chance in the competition to raise binge-eating disorder awareness.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-58281235</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58281235</guid>
+            <pubDate>Fri, 20 Aug 2021 14:18:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: Hotel thought prom-goers had negative tests before spike]]></title>
+            <description><![CDATA[More than 50 positive cases are linked to a Year 11 graduation party at a hotel.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-58269876</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58269876</guid>
+            <pubDate>Thu, 19 Aug 2021 17:41:13 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Water pollution from metal mines will cost Wales £282m, NRW says]]></title>
             <description><![CDATA[Natural Resources Wales identifies 129 disused sites causing problems to nearby rivers and streams.]]></description>
             <link>https://www.bbc.co.uk/news/uk-wales-58276244</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58276244</guid>
             <pubDate>Fri, 20 Aug 2021 07:19:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bridgend mother in court charged with murder of her two-year-old son]]></title>
-            <description><![CDATA[Natalie Steele has been charged with the murder of two-year-old Reid Steele.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-58260646</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58260646</guid>
-            <pubDate>Thu, 19 Aug 2021 12:50:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Record number of bids for UK City of Culture 2025]]></title>

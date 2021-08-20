@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 20 Aug 2021 14:17:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Aug 2021 14:29:26 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -20,7 +20,7 @@
             <description><![CDATA[The children's writer and illustrator also published picture books like the Large family series.]]></description>
             <link>https://www.bbc.co.uk/news/entertainment-arts-58283965</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-58283965</guid>
-            <pubDate>Fri, 20 Aug 2021 14:05:03 GMT</pubDate>
+            <pubDate>Fri, 20 Aug 2021 14:26:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Cinema box office takings at 50% of pre-pandemic levels]]></title>
@@ -107,6 +107,13 @@
             <pubDate>Wed, 18 Aug 2021 11:34:41 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Ryan Reynolds: video games and the making of Free Guy]]></title>
+            <description><![CDATA[Actor and producer Ryan Reynolds on preparing to play a character caught up in a multiplayer game.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-58245604</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-58245604</guid>
+            <pubDate>Fri, 20 Aug 2021 13:44:57 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Drag Race UK queens: Covid 'pushed us creatively']]></title>
             <description><![CDATA[Newsbeat has spoken to all 12 queens taking part in the new series.]]></description>
             <link>https://www.bbc.co.uk/news/newsbeat-58270184</link>
@@ -140,13 +147,6 @@
             <link>https://www.bbc.co.uk/news/entertainment-arts-58257999</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-58257999</guid>
             <pubDate>Wed, 18 Aug 2021 14:40:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['I make art out of discarded face masks']]></title>
-            <description><![CDATA[Thomas Yates posts artwork he's created out of used face masks on social media.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-nottinghamshire-58187835</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-nottinghamshire-58187835</guid>
-            <pubDate>Tue, 17 Aug 2021 23:12:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
