@@ -1,5 +1,5 @@
-1. [Biden warns lives could be lost in Kabul airlift](https://www.bbc.co.uk/news/world-us-canada-58285923) - The US president is facing a firestorm of criticism for the chaotic evacuation from Afghanistan.
-2. [Tumult grips White House amid week of Afghanistan failures](https://www.bbc.co.uk/news/world-us-canada-58286766) - How the fall of Kabul stunned the Biden administration and spawned the worst week of his presidency.
+1. [Biden's week of blame and tumult after Kabul fall](https://www.bbc.co.uk/news/world-us-canada-58286766) - How the fall of Kabul stunned the Biden administration and spawned the worst week of his presidency.
+2. [Biden warns lives could be lost in Kabul airlift](https://www.bbc.co.uk/news/world-us-canada-58285923) - The US president is facing a firestorm of criticism for the chaotic evacuation from Afghanistan.
 3. [Turmoil in Afghanistan hits close to home in America too](https://www.bbc.co.uk/news/world-us-canada-58288575) - Christine's husband was killed in Afghanistan - she's horrified by the Taliban's return to power.
 4. [R. Kelly aide says he paid bribe for singer to marry Aaliyah](https://www.bbc.co.uk/news/entertainment-arts-58289890) - An ex-tour manager for the singer testifies that he obtained a fake ID for then 15-year-old Aaliyah.
 5. [Washington DC: Man arrested over bomb threat near US Capitol](https://www.bbc.co.uk/news/world-us-canada-58273778) - US Capitol Police had been negotiating with the driver of a suspicious vehicle on Capitol Hill.
