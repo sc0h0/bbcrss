@@ -1,4 +1,4 @@
-1. [Afghanistan: Labour urges action over evacuation 'crisis'](https://www.bbc.co.uk/news/uk-58290593) - Lisa Nandy says people have reportedly been attacked while waiting to be called to the airport.
+1. [Afghanistan: Labour demands urgent action over evacuation crisis](https://www.bbc.co.uk/news/uk-58290593) - Lisa Nandy tells the foreign secretary he should "step up" efforts to process eligible refugees.
 2. [Afghanistan: Boris Johnson says he has full confidence in Dominic Raab](https://www.bbc.co.uk/news/uk-politics-58283588) - The UK foreign secretary is facing calls to quit over his handling of evacuations.
 3. [SNP-Greens deal pledges indyref2 within five years](https://www.bbc.co.uk/news/uk-scotland-scotland-politics-58272209) - The agreement will take the Greens into government for the first time anywhere in the UK.
 4. [Afghanistan: Who originally supported Trump's deal with the Taliban?](https://www.bbc.co.uk/news/58271943) - UK Defence Secretary Ben Wallace now calls it a "rotten" deal but supported it at the time.
