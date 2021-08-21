@@ -1,10 +1,10 @@
 1. [Afghanistan: The desperate scramble to escape](https://www.bbc.co.uk/news/world-asia-58286000) - The BBC witnesses scenes of chaos and panic as thousands still crowd Kabul's airport.
 2. [Greece erects fence at Turkey border amid warnings of Afghan migrant surge](https://www.bbc.co.uk/news/world-europe-58289893) - A 40km (25-mile) barrier is placed at the land border amid warnings of a surge of Afghan migrants.
-3. [Covid: CO2 monitors for schools and Euro 2020 a 'significant risk'](https://www.bbc.co.uk/news/uk-58288774) - Five things you need to know about the coronavirus pandemic this Saturday morning.
+3. [Westminster double murder: Police release image of wanted man](https://www.bbc.co.uk/news/uk-england-london-58282070) - Police want to trace Lee Peacock after two people were found dead with knife injuries in London.
 4. [R. Kelly aide says he paid bribe for singer to marry Aaliyah](https://www.bbc.co.uk/news/entertainment-arts-58289890) - An ex-tour manager for the singer testifies that he obtained a fake ID for then 15-year-old Aaliyah.
-5. [Covid: CO2 monitors pledged to aid school ventilation](https://www.bbc.co.uk/news/education-58285359) - Schools in England are to be given CO2 monitors to as part of plans to limit the spread of Covid.
-6. [Puppy smuggling: Rise in cases prompts new welfare rules](https://www.bbc.co.uk/news/uk-58287850) - Ministers want to stop the "grim trade" in criminals profiting from the rise in demand for pets.
-7. [Westminster double murder: Police release image of wanted man](https://www.bbc.co.uk/news/uk-england-london-58282070) - Police want to trace Lee Peacock after two people were found dead with knife injuries in London.
+5. [Covid: CO2 monitors for schools and Euro 2020 a 'significant risk'](https://www.bbc.co.uk/news/uk-58288774) - Five things you need to know about the coronavirus pandemic this Saturday morning.
+6. [Covid: CO2 monitors pledged to aid school ventilation](https://www.bbc.co.uk/news/education-58285359) - Schools in England are to be given CO2 monitors to as part of plans to limit the spread of Covid.
+7. [Puppy smuggling: Rise in cases prompts new welfare rules](https://www.bbc.co.uk/news/uk-58287850) - Ministers want to stop the "grim trade" in criminals profiting from the rise in demand for pets.
 8. [Ever Given: Cargo ship returns through Suez Canal it blocked](https://www.bbc.co.uk/news/world-middle-east-58288512) - Global trade was disrupted in March when the massive container ship became stuck in the waterway.
 9. [House prices: Demand changes, not tax waiver, pushed prices up](https://www.bbc.co.uk/news/business-58274811) - The stamp duty holiday did not cause rising house prices, the Resolution Foundation think tank says.
 10. [Abuse leaves hospitality staff at 'breaking point'](https://www.bbc.co.uk/news/uk-england-cornwall-58149364) - Staff say they are upset and feel demoralised by rude customers during a busy summer season.
