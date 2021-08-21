@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 21 Aug 2021 17:35:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Aug 2021 17:44:25 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -231,6 +231,13 @@
             <link>https://www.bbc.co.uk/sport/football/58210073</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58210073</guid>
             <pubDate>Sat, 21 Aug 2021 16:49:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Scottish Premiership: Things to watch out for this weekend]]></title>
+            <description><![CDATA[From self-isolating managers to a top-of-the-table showdown, here's what to look out for in the Scottish Premiership this weekend.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58279065</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58279065</guid>
+            <pubDate>Fri, 20 Aug 2021 15:50:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
