@@ -1,5 +1,5 @@
 1. [Biden's week of blame and tumult after Kabul fall](https://www.bbc.co.uk/news/world-us-canada-58286766) - How the fall of Kabul stunned the Biden administration and spawned the worst week of his presidency.
-2. [Hurricane Henri: US East Coast warned of significant damage](https://www.bbc.co.uk/news/world-us-canada-58294809) - This could be the first time in 30 years that New England is hit by a hurricane.
+2. [Hurricane Henri: US East Coast warned of significant damage](https://www.bbc.co.uk/news/world-us-canada-58294809) - New York state declares a state of emergency as officials warn of flooding and power outages.
 3. [Biden warns lives could be lost in Kabul airlift](https://www.bbc.co.uk/news/world-us-canada-58285923) - The US president is facing a firestorm of criticism for the chaotic evacuation from Afghanistan.
 4. [Turmoil in Afghanistan hits close to home in America too](https://www.bbc.co.uk/news/world-us-canada-58288575) - Christine's husband was killed in Afghanistan - she's horrified by the Taliban's return to power.
 5. [R. Kelly aide says he paid bribe for singer to marry Aaliyah](https://www.bbc.co.uk/news/entertainment-arts-58289890) - An ex-tour manager for the singer testifies that he obtained a fake ID for then 15-year-old Aaliyah.

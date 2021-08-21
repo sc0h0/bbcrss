@@ -1,7 +1,7 @@
 1. [Afghanistan: US tells citizens to avoid Kabul airport](https://www.bbc.co.uk/news/world-asia-58293832) - The warning comes amid continued chaos outside the airport, with reports of a deadly crush.
 2. [Afghanistan: The desperate scramble to escape](https://www.bbc.co.uk/news/world-asia-58286000) - The BBC witnesses scenes of chaos and panic as thousands still crowd Kabul's airport.
 3. [Greece erects fence at Turkey border amid warnings of Afghan migrant surge](https://www.bbc.co.uk/news/world-europe-58289893) - A 40km (25-mile) barrier is placed at the land border amid warnings of a surge of Afghan migrants.
-4. [Hurricane Henri: US East Coast warned of significant damage](https://www.bbc.co.uk/news/world-us-canada-58294809) - This could be the first time in 30 years that New England is hit by a hurricane.
+4. [Hurricane Henri: US East Coast warned of significant damage](https://www.bbc.co.uk/news/world-us-canada-58294809) - New York state declares a state of emergency as officials warn of flooding and power outages.
 5. [Covid: Australian police clash with anti-lockdown protesters](https://www.bbc.co.uk/news/world-australia-58291873) - Hundreds of people are arrested after rallies against lockdown measures in Melbourne and Sydney.
 6. [Nigeria's royal wedding: Private jets, glitz and glamour](https://www.bbc.co.uk/news/world-africa-58291132) - President Buhari's son marries the daughter of a religious leader in one of Nigeria's events of the year.
 7. [R. Kelly aide says he paid bribe for singer to marry Aaliyah](https://www.bbc.co.uk/news/entertainment-arts-58289890) - An ex-tour manager for the singer testifies that he obtained a fake ID for then 15-year-old Aaliyah.
