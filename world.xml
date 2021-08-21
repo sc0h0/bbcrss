@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 21 Aug 2021 19:28:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Aug 2021 22:52:20 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -23,18 +23,11 @@
             <pubDate>Sat, 21 Aug 2021 19:22:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Afghanistan: The desperate scramble to escape]]></title>
-            <description><![CDATA[The BBC witnesses scenes of chaos and panic as thousands still crowd Kabul's airport.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58286000</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58286000</guid>
-            <pubDate>Fri, 20 Aug 2021 20:54:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Greece erects fence at Turkey border amid warnings of Afghan migrant surge]]></title>
-            <description><![CDATA[A 40km (25-mile) barrier is placed at the land border amid warnings of a surge of Afghan migrants.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58289893</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58289893</guid>
-            <pubDate>Sat, 21 Aug 2021 03:56:43 GMT</pubDate>
+            <title><![CDATA[Hurricane Grace kills eight as it rips through eastern Mexico]]></title>
+            <description><![CDATA[The powerful storm brings torrential rain and high winds, causing power cuts and flooding.]]></description>
+            <link>https://www.bbc.co.uk/news/world-latin-america-58295511</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-latin-america-58295511</guid>
+            <pubDate>Sat, 21 Aug 2021 22:48:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hurricane Henri: US East Coast warned of significant damage]]></title>
@@ -42,6 +35,13 @@
             <link>https://www.bbc.co.uk/news/world-us-canada-58294809</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-58294809</guid>
             <pubDate>Sat, 21 Aug 2021 19:27:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Greece erects fence at Turkey border amid warnings of Afghan migrant surge]]></title>
+            <description><![CDATA[A 40km (25-mile) barrier is placed at the land border amid warnings of a surge of Afghan migrants.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58289893</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58289893</guid>
+            <pubDate>Sat, 21 Aug 2021 03:56:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: Australian police clash with anti-lockdown protesters]]></title>
@@ -100,20 +100,6 @@
             <pubDate>Fri, 20 Aug 2021 15:57:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA['I play carrom with my feet']]></title>
-            <description><![CDATA[Twenty-three-year-old Harshad Gothankar was born without arms, but he is now a state carrom champion.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-india-58265853</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-58265853</guid>
-            <pubDate>Fri, 20 Aug 2021 23:41:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rafael Nadal: Spaniard ends 2021 season because of foot injury]]></title>
-            <description><![CDATA[Spain's 20-time Grand Slam champion Rafael Nadal has ended his 2021 season because of a foot injury.]]></description>
-            <link>https://www.bbc.co.uk/sport/tennis/58281962</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/tennis/58281962</guid>
-            <pubDate>Fri, 20 Aug 2021 11:00:45 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Africa's jihadists: What Taliban takeover of Afghanistan means]]></title>
             <description><![CDATA[Islamist groups appear emboldened by the fall of Afghanistan, sparking concern in African countries.]]></description>
             <link>https://www.bbc.co.uk/news/world-africa-58279439</link>
@@ -170,6 +156,13 @@
             <pubDate>Fri, 20 Aug 2021 01:30:15 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA['I play carrom with my feet']]></title>
+            <description><![CDATA[Twenty-three-year-old Harshad Gothankar was born without arms, but he is now a state carrom champion.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-india-58265853</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-58265853</guid>
+            <pubDate>Fri, 20 Aug 2021 23:41:43 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Drag Race UK queens: Covid 'pushed us creatively']]></title>
             <description><![CDATA[Newsbeat has spoken to all 12 queens taking part in the new series.]]></description>
             <link>https://www.bbc.co.uk/news/newsbeat-58270184</link>
@@ -177,11 +170,11 @@
             <pubDate>Thu, 19 Aug 2021 23:09:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Paralympics: Para-badminton player Palak Kohli on preparing for Tokyo 2020]]></title>
-            <description><![CDATA[Palak Kohli is the only Indian para-badminton player to be competing in three categories in Tokyo.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58271771</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58271771</guid>
-            <pubDate>Thu, 19 Aug 2021 23:08:01 GMT</pubDate>
+            <title><![CDATA[Afghanistan: The desperate scramble to escape]]></title>
+            <description><![CDATA[The BBC witnesses scenes of chaos and panic as thousands still crowd Kabul's airport.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58286000</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58286000</guid>
+            <pubDate>Fri, 20 Aug 2021 20:54:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Afghan crisis: Russia plans for new era with Taliban rule]]></title>
@@ -210,13 +203,6 @@
             <link>https://www.bbc.co.uk/news/world-asia-58281214</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58281214</guid>
             <pubDate>Fri, 20 Aug 2021 15:41:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The treacherous road to Kabul's airport]]></title>
-            <description><![CDATA[As thousands try to flee Afghanistan, the main route to the capital's airport has become treacherous.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58271517</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58271517</guid>
-            <pubDate>Thu, 19 Aug 2021 17:48:06 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 21 Aug 2021 22:41:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Aug 2021 22:50:15 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Hurricane Grace kills eight as it rips through eastern Mexico]]></title>
+            <description><![CDATA[The powerful storm brings torrential rain and high winds, causing power cuts and flooding.]]></description>
+            <link>https://www.bbc.co.uk/news/world-latin-america-58295511</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-latin-america-58295511</guid>
+            <pubDate>Sat, 21 Aug 2021 22:48:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Haiti earthquake: Tensions rise in struggle to get aid to victims]]></title>
             <description><![CDATA[Five days after a powerful earthquake struck, hundreds are missing and people are desperate for aid.]]></description>
@@ -56,13 +63,6 @@
             <link>https://www.bbc.co.uk/news/world-latin-america-58212024</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-latin-america-58212024</guid>
             <pubDate>Sat, 14 Aug 2021 04:38:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[US-Mexico border migrant detention levels reach 21-year high]]></title>
-            <description><![CDATA[Migrant numbers usually dip during the hot summer months, but July has continued an upward trend.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-58207124</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-58207124</guid>
-            <pubDate>Fri, 13 Aug 2021 18:35:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Haiti earthquake: The forgotten villages cut off from help]]></title>
