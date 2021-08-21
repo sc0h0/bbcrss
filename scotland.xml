@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 21 Aug 2021 08:49:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Aug 2021 09:03:45 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -226,11 +226,11 @@
             <pubDate>Sun, 15 Aug 2021 16:07:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Jim Goodwin: St Mirren boss to miss Celtic game after positive Covid-19 test]]></title>
-            <description><![CDATA[St Mirren manager Jim Goodwin will miss his side's Scottish Premiership game away to Celtic on Saturday after testing positive for Covid-19.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58282513</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58282513</guid>
-            <pubDate>Fri, 20 Aug 2021 11:29:40 GMT</pubDate>
+            <title><![CDATA[Listen: Football Breakfast Show]]></title>
+            <description><![CDATA[Connie McLaughlin and Kenny Macintyre kickstart your weekend live from the Edinburgh Festival with a great mix of football, fun and fine tunes.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/football/58243513</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/58243513</guid>
+            <pubDate>Sat, 21 Aug 2021 08:53:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Scottish Gossip: Celtic, Rangers, Souness, Aberdeen, Giakoumakis, Juranovic, Hendry, Dundee, Hodson]]></title>
@@ -240,25 +240,18 @@
             <pubDate>Sat, 21 Aug 2021 08:16:43 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Jim Goodwin: St Mirren boss to miss Celtic game after positive Covid-19 test]]></title>
+            <description><![CDATA[St Mirren manager Jim Goodwin will miss his side's Scottish Premiership game away to Celtic on Saturday after testing positive for Covid-19.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58282513</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58282513</guid>
+            <pubDate>Fri, 20 Aug 2021 11:29:40 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Scottish Premiership: Things to watch out for this weekend]]></title>
             <description><![CDATA[From self-isolating managers to a top-of-the-table showdown, here's what to look out for in the Scottish Premiership this weekend.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58279065</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58279065</guid>
             <pubDate>Fri, 20 Aug 2021 15:50:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Women's Open 2021: England's Georgia Hall shares Carnoustie lead after day two]]></title>
-            <description><![CDATA[England's Georgia Hall continues her bid for a second AIG Women's Open title by taking a share of the lead on day two at Carnoustie.]]></description>
-            <link>https://www.bbc.co.uk/sport/golf/58274181</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/golf/58274181</guid>
-            <pubDate>Fri, 20 Aug 2021 17:22:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Raith Rovers A-A Dunfermline Athletic]]></title>
-            <description><![CDATA[The Fife derby between Raith Rovers and Dunfermline is abandoned after a power failure at Stark's Park.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58196364</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58196364</guid>
-            <pubDate>Fri, 20 Aug 2021 19:28:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
