@@ -9,11 +9,11 @@
 9. [NHS Covid app 'pings' fall after changes](https://www.bbc.co.uk/news/technology-58165482) - The data covers the first full week since changes to the app were made to mean it notifies fewer contacts.
 10. [Chip shortage: Toyota to cut global production by 40%](https://www.bbc.co.uk/news/business-58266794) - The world's biggest carmaker will cut output in September, while VW warns it may have to make further cuts.
 11. [Lizzo: Facebook and Instagram remove abusive comments from singer's accounts](https://www.bbc.co.uk/news/entertainment-arts-58267704) - The US singer spoke earlier this week about receiving "hurtful" attacks on social media.
-12. [Green aviation: Electric powered plane trialled over Orkney](https://www.bbc.co.uk/news/uk-scotland-58180367) - A hybrid-electric plane is being trialled in Orkney as part of a study into ways of reducing aviation emissions.
-13. [The zero-power sewage plant inspired by cows](https://www.bbc.co.uk/news/science-environment-58017501) - Fifty sustainable sewage treatment plants have been built that work in similar way to a cow's stomach.
-14. [The $8bn EV company you’ve probably never heard of](https://www.bbc.co.uk/news/business-58174043) - Electric vehicle firm Arrival is worth $8bn (£5.7bn) - and is only making vans, buses and taxis.
-15. [Virtual reality: 'There's no max, there's no limit!'](https://www.bbc.co.uk/news/entertainment-arts-58177685) - "There's no max, there's no limit" to virtual reality, so is it the future of live music?
-16. [Classic Bentleys and Rolls-Royce adapted to fully electric](https://www.bbc.co.uk/news/technology-57901893) - The vintage petrol-powered cars are re-engineered by a company based at the home of UK motorsport.
+12. [The NI inventor who saved thousands of lives](https://www.bbc.co.uk/news/uk-northern-ireland-58274204) - The plane ejector seat was invented by James Martin, from Crossgar in County Down, in 1944.
+13. [Green aviation: Electric powered plane trialled over Orkney](https://www.bbc.co.uk/news/uk-scotland-58180367) - A hybrid-electric plane is being trialled in Orkney as part of a study into ways of reducing aviation emissions.
+14. [The zero-power sewage plant inspired by cows](https://www.bbc.co.uk/news/science-environment-58017501) - Fifty sustainable sewage treatment plants have been built that work in similar way to a cow's stomach.
+15. [The $8bn EV company you’ve probably never heard of](https://www.bbc.co.uk/news/business-58174043) - Electric vehicle firm Arrival is worth $8bn (£5.7bn) - and is only making vans, buses and taxis.
+16. [Virtual reality: 'There's no max, there's no limit!'](https://www.bbc.co.uk/news/entertainment-arts-58177685) - "There's no max, there's no limit" to virtual reality, so is it the future of live music?
 17. [How virtual reality can help to recruit and train staff](https://www.bbc.co.uk/news/business-57805093) - VR headsets are making a leap from fun gimmick to serious tool for firms' workforce management.
 18. [Just how hard is it to recycle a jumbo jet?](https://www.bbc.co.uk/news/business-57983174) - Thousands of aircraft were left on the tarmac due to Covid, and many will now be broken up for parts.
 19. [Would you let a robot lawyer defend you?](https://www.bbc.co.uk/news/business-58158820) - Why artificial intelligence is increasingly being used by the legal profession.

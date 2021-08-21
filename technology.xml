@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 21 Aug 2021 23:10:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Aug 2021 23:22:25 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -93,6 +93,13 @@
             <pubDate>Thu, 19 Aug 2021 11:15:59 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The NI inventor who saved thousands of lives]]></title>
+            <description><![CDATA[The plane ejector seat was invented by James Martin, from Crossgar in County Down, in 1944.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58274204</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58274204</guid>
+            <pubDate>Sat, 21 Aug 2021 23:14:08 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Green aviation: Electric powered plane trialled over Orkney]]></title>
             <description><![CDATA[A hybrid-electric plane is being trialled in Orkney as part of a study into ways of reducing aviation emissions.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-58180367</link>
@@ -119,13 +126,6 @@
             <link>https://www.bbc.co.uk/news/entertainment-arts-58177685</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-58177685</guid>
             <pubDate>Thu, 12 Aug 2021 23:11:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Classic Bentleys and Rolls-Royce adapted to fully electric]]></title>
-            <description><![CDATA[The vintage petrol-powered cars are re-engineered by a company based at the home of UK motorsport.]]></description>
-            <link>https://www.bbc.co.uk/news/technology-57901893</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-57901893</guid>
-            <pubDate>Tue, 10 Aug 2021 09:58:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How virtual reality can help to recruit and train staff]]></title>
