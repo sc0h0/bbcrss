@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 21 Aug 2021 16:17:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Aug 2021 16:59:16 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -35,13 +35,6 @@
             <link>https://www.bbc.co.uk/news/world-africa-58279442</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-58279442</guid>
             <pubDate>Fri, 20 Aug 2021 18:38:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How could Africa produce its own vaccines?]]></title>
-            <description><![CDATA[For decades, Africa has imported 99% of its vaccines. So how could it jumpstart local vaccine manufacturing?]]></description>
-            <link>https://www.bbc.co.uk/news/world-africa-58270986</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-58270986</guid>
-            <pubDate>Fri, 20 Aug 2021 06:10:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Africa's week in pictures: 13-19 August 2021]]></title>
@@ -100,6 +93,13 @@
             <pubDate>Wed, 11 Aug 2021 15:05:47 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[How could Africa produce its own vaccines?]]></title>
+            <description><![CDATA[For decades, Africa has imported 99% of its vaccines. So how could it jumpstart local vaccine manufacturing?]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-58270986</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-58270986</guid>
+            <pubDate>Fri, 20 Aug 2021 06:10:48 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Nigeria's Lai Mohammed: We are winning the war against Boko Haram]]></title>
             <description><![CDATA[The information minister says Nigeria is winning the war against insecurity and is negotiating with Twitter over the ban.]]></description>
             <link>https://www.bbc.co.uk/news/world-africa-58270983</link>
@@ -140,13 +140,6 @@
             <link>https://www.bbc.co.uk/news/world-africa-58157115</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-58157115</guid>
             <pubDate>Tue, 10 Aug 2021 08:05:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Telfar Clemens: Designer creates Tokyo 2020 Olympic outfits for Team Liberia]]></title>
-            <description><![CDATA[American-Liberian designer Telfar Clemens created Liberian team's outfits at the Tokyo Olympics.]]></description>
-            <link>https://www.bbc.co.uk/news/world-africa-58123178</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-58123178</guid>
-            <pubDate>Fri, 06 Aug 2021 23:07:27 GMT</pubDate>
         </item>
     </channel>
 </rss>

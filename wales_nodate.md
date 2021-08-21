@@ -1,8 +1,8 @@
 1. [Burry Port: Fear for children after asbestos found on beach](https://www.bbc.co.uk/news/uk-wales-58144670) - Campaigners are calling for the removal of what they say is hazardous waste uncovered by erosion.
 2. [Clydach murders: Killer David Morris dies in prison](https://www.bbc.co.uk/news/uk-wales-58285620) - David Morris was serving a 32-year sentence for killing three generations of the same family.
-3. [Message in a bottle washes up after 3,000-mile journey](https://www.bbc.co.uk/news/uk-wales-58282975) - Amanda Tidmarsh found the message, from near Canada, while walking her dogs in south Wales.
+3. [Llandudno: Dog rescued after falling from cliff](https://www.bbc.co.uk/news/uk-wales-58294146) - Five RNLI staff had to help to rescue Tug, a Cocker Spaniel, who became was stuck among rocks.
 4. [Monmouthshire and Brecon Canal boaters asked to share stories](https://www.bbc.co.uk/news/uk-wales-58260866) - A tradition dating back three decades of writing about adventures on the water has been restarted.
-5. [Llandudno: Dog rescued after falling from cliff](https://www.bbc.co.uk/news/uk-wales-58294146) - Five RNLI staff had to help to rescue Tug, a Cocker Spaniel, who became was stuck among rocks.
+5. [Message in a bottle washes up after 3,000-mile journey](https://www.bbc.co.uk/news/uk-wales-58282975) - Amanda Tidmarsh found the message, from near Canada, while walking her dogs in south Wales.
 6. [Newport County boss Flynn tests positive for Covid](https://www.bbc.co.uk/sport/football/58285434) - Newport County manager Michael Flynn will miss their next three games after testing positive for Covid-19.
 7. [Weather: Warning for rain, hail and thunderstorms](https://www.bbc.co.uk/news/uk-wales-58279099) - The Met Office says there is a good chance Wales will see travel disruption and flooding.
 8. [Hospitals: Study to look at benefits of outdoor treatment](https://www.bbc.co.uk/news/uk-wales-58281012) - Researchers will explore the benefits of outdoor treatment spaces at two hospitals.

@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 21 Aug 2021 16:25:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Aug 2021 16:50:22 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -30,11 +30,11 @@
             <pubDate>Sat, 21 Aug 2021 13:59:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The pregnant woman who caught a serial voyeur masseur]]></title>
-            <description><![CDATA[How a suspicious-looking alarm clock led to the downfall of a masseur who was spying on his clients.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-cambridgeshire-58249002</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-cambridgeshire-58249002</guid>
-            <pubDate>Sat, 21 Aug 2021 00:01:46 GMT</pubDate>
+            <title><![CDATA[Banksy: Rusty old boat a 'godsend' destined for museum]]></title>
+            <description><![CDATA[The small metal "boat" under a painting of three children could become a museum piece.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-suffolk-58292229</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-suffolk-58292229</guid>
+            <pubDate>Sat, 21 Aug 2021 14:59:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Mission: Impossible films Derbyshire quarry train crash]]></title>
@@ -91,13 +91,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-essex-58285005</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-essex-58285005</guid>
             <pubDate>Sat, 21 Aug 2021 06:26:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Leeds Leodis archive seeks help over old photos]]></title>
-            <description><![CDATA[The Leodis archive wants help to identify people or places in several mystery pictures of Leeds.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-leeds-58280481</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-leeds-58280481</guid>
-            <pubDate>Sat, 21 Aug 2021 06:16:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Kingston murder inquiry as man found stabbed]]></title>
@@ -212,6 +205,13 @@
             <pubDate>Fri, 20 Aug 2021 17:25:36 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The Hundred Oval Invincibles crush Southern Brave to win first women's Hundred title]]></title>
+            <description><![CDATA[Oval Invincibles storm to an emphatic 48-run victory over favourites Southern Brave to become the first women's Hundred champions on a historic afternoon at Lord's.]]></description>
+            <link>https://www.bbc.co.uk/sport/cricket/58293363</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/58293363</guid>
+            <pubDate>Sat, 21 Aug 2021 16:49:40 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Manchester City 5-0 Norwich City: Jack Grealish scores on home debut for Premier League champions]]></title>
             <description><![CDATA[Manchester City's £100m man Jack Grealish scores on his home debut as the reigning Premier League champions thrash Norwich.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58193429</link>
@@ -219,18 +219,18 @@
             <pubDate>Sat, 21 Aug 2021 16:05:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Super League: Hull FC 23-22 Hull Kingston Rovers - Airlie Birds win Clive Sullivan Trophy]]></title>
+            <description><![CDATA[Hull FC edge a pulsating, relentless derby with cross-city rivals Hull KR thanks to Marc Sneyd's crucial drop-goal.]]></description>
+            <link>https://www.bbc.co.uk/sport/rugby-league/58284432</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-league/58284432</guid>
+            <pubDate>Sat, 21 Aug 2021 16:38:31 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Liverpool 2-0 Burnley: Diogo Jota and Sadio Mane score in front of full house at Anfield]]></title>
             <description><![CDATA[Goals from Diogo Jota and Sadio Mane ensure Liverpool make it two Premier League wins from two with victory over Burnley at a packed Anfield.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58193401</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58193401</guid>
             <pubDate>Sat, 21 Aug 2021 13:46:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Leeds 2-2 Everton: Raphinha gives Whites fans something to cheer on return to Elland Road]]></title>
-            <description><![CDATA[Raphinha comes to Leeds' rescue with a superb curling finish to rescue a point against Everton in the club's first home Premier League game with a full stadium in 17 years.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58193422</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58193422</guid>
-            <pubDate>Sat, 21 Aug 2021 16:25:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
