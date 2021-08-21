@@ -1,4 +1,4 @@
-1. [Covid-19: Long queues across NI for Big Jab Weekend](https://www.bbc.co.uk/news/uk-northern-ireland-58256976) - The campaign sees regional centres offering walk-in first jabs to the over-18s for the last time.
+1. [Covid-19: Thousands queue across NI for Big Jab Weekend](https://www.bbc.co.uk/news/uk-northern-ireland-58256976) - The campaign sees regional centres offering walk-in first jabs to the over-18s for the last time.
 2. [Covid-19: Northern Ireland's summer surge figures make for grim reading](https://www.bbc.co.uk/news/uk-northern-ireland-58286351) - Northern Ireland now has the UK's highest death and infection rates and its lowest vaccination rate.
 3. [Covid-19: Four more Covid-related deaths and 1,612 new cases](https://www.bbc.co.uk/news/uk-northern-ireland-58292497) - The total number of deaths linked to Covid-19 in NI since the start of the pandemic is now 2,291.
 4. [Portadown assault: Man 'critical' after punch in the face](https://www.bbc.co.uk/news/uk-northern-ireland-58292496) - A man in his 50s is in a critical condition in hospital after being punched in the face in Portadown.

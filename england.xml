@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 21 Aug 2021 19:12:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Aug 2021 20:36:11 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -205,6 +205,13 @@
             <pubDate>Fri, 20 Aug 2021 17:25:36 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The Hundred: Southern Brave beat Birmingham Phoenix to win men's title]]></title>
+            <description><![CDATA[Southern Brave are crowned the first men's Hundred champions after beating Birmingham Phoenix by 32 runs in an action-packed Lord's final.]]></description>
+            <link>https://www.bbc.co.uk/sport/cricket/58293370</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/58293370</guid>
+            <pubDate>Sat, 21 Aug 2021 20:35:24 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The Hundred Oval Invincibles crush Southern Brave to win first women's Hundred title]]></title>
             <description><![CDATA[Oval Invincibles storm to an emphatic 48-run victory over favourites Southern Brave to become the first women's Hundred champions on a historic afternoon at Lord's.]]></description>
             <link>https://www.bbc.co.uk/sport/cricket/58293363</link>
@@ -226,11 +233,11 @@
             <pubDate>Sat, 21 Aug 2021 17:26:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Liverpool 2-0 Burnley: Diogo Jota and Sadio Mane score in front of full house at Anfield]]></title>
-            <description><![CDATA[Goals from Diogo Jota and Sadio Mane ensure Liverpool make it two Premier League wins from two with victory over Burnley at a packed Anfield.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58193401</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58193401</guid>
-            <pubDate>Sat, 21 Aug 2021 13:46:53 GMT</pubDate>
+            <title><![CDATA[Super League: Castleford Tigers 23-18 Wakefield Trinity - Tigers show grit to see off Wakefield]]></title>
+            <description><![CDATA[Castleford make it three wins on the spin with an absorbing derby victory over Wakefield in Super League's 'Rivals Round'.]]></description>
+            <link>https://www.bbc.co.uk/sport/rugby-league/58294380</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-league/58294380</guid>
+            <pubDate>Sat, 21 Aug 2021 20:30:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
