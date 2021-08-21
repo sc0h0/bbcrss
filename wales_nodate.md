@@ -24,5 +24,5 @@
 24. [Galw am symud gwastraff asbestos o draeth Porth Tywyn](https://www.bbc.co.uk/newyddion/58280824) - Ymgyrchwyr yn ofni am niwed posib, ond y cyngor yn dweud eu bod yn cymryd camau er risg "isel".
 25. [Llofrudd Clydach, David Morris, wedi marw yn y carchar](https://www.bbc.co.uk/newyddion/58268290) - David Morris, a gafwyd yn euog o lofruddio pedwar aelod o'r un teulu, wedi marw yn 59 oed.
 26. [Rhybudd stormydd i rannau o Gymru ddydd Sadwrn](https://www.bbc.co.uk/newyddion/58282643) - Siroedd y dwyrain sy'n fwyaf tebygol o gael eu heffeithio wrth i rybudd melyn ddod i rym am 12:00.
-27. [Yr hunlle' eithaf... haf llawn chwaraeon!](https://www.bbc.co.uk/newyddion/58187206) - Tydi Beth Angell heb fwynhau yr holl gampau fu ymlaen yn ddiweddar.
+27. [Pum munud gyda'r awdur a'r cyflwynydd Mike Parker](https://www.bbc.co.uk/newyddion/58282366) - Pum munud yng nghwmni enillydd gwobr Owain Glyndŵr yng Ngŵyl Machynlleth eleni Mike Parker.
 28. [Y Bencampwriaeth: Bristol City 0-1 Abertawe](https://www.bbc.co.uk/newyddion/58287366) - Yr Elyrch yn hawlio triphwynt cyntaf y tymor gyda buddugoliaeth ym Mryste.
