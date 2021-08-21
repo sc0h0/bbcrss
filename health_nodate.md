@@ -43,8 +43,8 @@
 43. [Coronavirus: Intensive care and other key terms explained](https://www.bbc.co.uk/news/health-52182658) - Use our tool to check the meaning of key words and phrases associated with the Covid-19 outbreak.
 44. [Coronavirus: What is the risk to men over 50?](https://www.bbc.co.uk/news/health-52197594) - While most people will have mild symptoms and recover quickly, some are more prone to getting sick.
 45. [Coronavirus: Do face masks actually work?](https://www.bbc.co.uk/news/health-51881555) - With face masks in high demand, we look at whether they really can protect people from the virus.
-46. [Lockdown screen time sees rise in short-sightedness among children](https://www.bbc.co.uk/news/health-58274916) - Optometrists are diagnosing higher numbers of children with short-sightedness since the start of the pandemic.
-47. [Covid: 'I'm pregnant, should I have the vaccine?'](https://www.bbc.co.uk/news/uk-england-london-58089039) - Many pregnant women have declined the Covid jab, but what's best for the baby?
-48. ['I make art out of discarded face masks'](https://www.bbc.co.uk/news/uk-england-nottinghamshire-58187835) - Thomas Yates posts artwork he's created out of used face masks on social media.
-49. [Sajid Javid says NHS waiting lists will rise](https://www.bbc.co.uk/news/uk-politics-58188899) - The health secretary urges people to come forward and "know that the NHS is there for them".
-50. [Baby loss: 'Our world grows around the grief'](https://www.bbc.co.uk/news/uk-england-london-58146834) - Ross Coniam set up the Dads and Lads Network for men who have gone through baby loss.
+46. [The West End star who worked as carer during lockdown](https://www.bbc.co.uk/news/entertainment-arts-58080453) - As theatres reopen, actors like Stephen Beckett have been swapping their lockdown jobs for their place on the stage once more.
+47. [Lockdown screen time sees rise in short-sightedness among children](https://www.bbc.co.uk/news/health-58274916) - Optometrists are diagnosing higher numbers of children with short-sightedness since the start of the pandemic.
+48. [Covid: 'I'm pregnant, should I have the vaccine?'](https://www.bbc.co.uk/news/uk-england-london-58089039) - Many pregnant women have declined the Covid jab, but what's best for the baby?
+49. ['I make art out of discarded face masks'](https://www.bbc.co.uk/news/uk-england-nottinghamshire-58187835) - Thomas Yates posts artwork he's created out of used face masks on social media.
+50. [Sajid Javid says NHS waiting lists will rise](https://www.bbc.co.uk/news/uk-politics-58188899) - The health secretary urges people to come forward and "know that the NHS is there for them".
