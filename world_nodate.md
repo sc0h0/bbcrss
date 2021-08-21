@@ -20,6 +20,7 @@
 20. [Paralympics: Para-badminton player Palak Kohli on preparing for Tokyo 2020](https://www.bbc.co.uk/news/world-asia-58271771) - Palak Kohli is the only Indian para-badminton player to be competing in three categories in Tokyo.
 21. [Drag Race UK queens: Covid 'pushed us creatively'](https://www.bbc.co.uk/news/newsbeat-58270184) - Newsbeat has spoken to all 12 queens taking part in the new series.
 22. [Afghan crisis: Russia plans for new era with Taliban rule](https://www.bbc.co.uk/news/world-europe-58265934) - While Western governments raced to get their people out, Russia appears unfazed by the takeover.
-23. [Afghanistan: Stun grenades used outside Kabul airport](https://www.bbc.co.uk/news/world-asia-58281214) - Huge crowds have gathered outside Afghanistan's Kabul airport as people try to flee the Taliban.
-24. [Family of American taken by Taliban beg for return](https://www.bbc.co.uk/news/world-us-canada-58276062) - Mark Frerichs, 59, one of the last Americans kidnapped by the Taliban, is stuck in Afghanistan.
-25. [The treacherous road to Kabul's airport](https://www.bbc.co.uk/news/world-asia-58271517) - As thousands try to flee Afghanistan, the main route to the capital's airport has become treacherous.
+23. [Family of American taken by Taliban beg for return](https://www.bbc.co.uk/news/world-us-canada-58276062) - Mark Frerichs, 59, one of the last Americans kidnapped by the Taliban, is stuck in Afghanistan.
+24. [Turmoil in Afghanistan hits close to home in America too](https://www.bbc.co.uk/news/world-us-canada-58288575) - Christine's husband was killed in Afghanistan - she's horrified by the Taliban's return to power.
+25. [Afghanistan: Stun grenades used outside Kabul airport](https://www.bbc.co.uk/news/world-asia-58281214) - Huge crowds have gathered outside Afghanistan's Kabul airport as people try to flee the Taliban.
+26. [The treacherous road to Kabul's airport](https://www.bbc.co.uk/news/world-asia-58271517) - As thousands try to flee Afghanistan, the main route to the capital's airport has become treacherous.
