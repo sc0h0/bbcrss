@@ -1,5 +1,5 @@
 1. [Afghanistan: US tells citizens to avoid Kabul airport](https://www.bbc.co.uk/news/world-asia-58293832) - The warning comes amid continued chaos outside the airport, with reports of a deadly crush.
-2. [Afghanistan: Ex-marine in talks with UK over staff exit from Kabul](https://www.bbc.co.uk/news/uk-58290593) - Pen Farthing, who runs an animal charity, warns the crisis in Afghanistan "is getting out of control".
+2. [Afghanistan: Labour urges action over evacuation 'crisis'](https://www.bbc.co.uk/news/uk-58290593) - Lisa Nandy says people have reportedly been attacked while waiting to be called to the airport.
 3. [Covid: Australian police clash with anti-lockdown protesters](https://www.bbc.co.uk/news/world-australia-58291873) - Hundreds of people are arrested after rallies against lockdown measures in Melbourne and Sydney.
 4. [Westminster double murder: Police say wanted man knew victims](https://www.bbc.co.uk/news/uk-england-london-58282070) - Detectives want to trace Lee Peacock after two people were found dead with knife injuries in London.
 5. [Hillsborough: Minute's applause for 97th victim](https://www.bbc.co.uk/news/uk-england-merseyside-58292306) - Liverpool fans chanted "Justice for the 97" after the death of Andrew Devine who was hurt in the 1989 crush.

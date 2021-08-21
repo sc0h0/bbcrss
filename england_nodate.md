@@ -1,9 +1,9 @@
 1. [Westminster double murder: Police say wanted man knew victims](https://www.bbc.co.uk/news/uk-england-london-58282070) - Detectives want to trace Lee Peacock after two people were found dead with knife injuries in London.
 2. [Hillsborough: Minute's applause for 97th victim](https://www.bbc.co.uk/news/uk-england-merseyside-58292306) - Liverpool fans chanted "Justice for the 97" after the death of Andrew Devine who was hurt in the 1989 crush.
-3. [Banksy: Rusty old boat a 'godsend' destined for museum](https://www.bbc.co.uk/news/uk-england-suffolk-58292229) - The small metal "boat" under a painting of three children could become a museum piece.
-4. [Mission: Impossible films Derbyshire quarry train crash](https://www.bbc.co.uk/news/entertainment-arts-58271871) - Crews had been building the set for months and the nearby village had seen lorry-loads of props appearing.
-5. [Driver cut free as car crashes into March house](https://www.bbc.co.uk/news/uk-england-cambridgeshire-58291853) - The front of the bungalow was destroyed by a car crashed which through the wall.
-6. [Man injured as two light aircraft crash in Devon](https://www.bbc.co.uk/news/uk-england-devon-58291102) - A biplane lands on top of a single-engine aircraft at the airfield in Devon.
+3. [Devon girl, 14, finishes round-Britain sailing trek](https://www.bbc.co.uk/news/uk-england-devon-58294842) - Katie McCabe sails about 1,600 nautical miles in a 26ft (8m) wooden yacht called Falanda.
+4. [Banksy: Rusty old boat a 'godsend' destined for museum](https://www.bbc.co.uk/news/uk-england-suffolk-58292229) - The small metal "boat" under a painting of three children could become a museum piece.
+5. [Mission: Impossible films Derbyshire quarry train crash](https://www.bbc.co.uk/news/entertainment-arts-58271871) - Crews had been building the set for months and the nearby village had seen lorry-loads of props appearing.
+6. [Driver cut free as car crashes into March house](https://www.bbc.co.uk/news/uk-england-cambridgeshire-58291853) - The front of the bungalow was destroyed by a car crashed which through the wall.
 7. [Abuse leaves hospitality staff at 'breaking point'](https://www.bbc.co.uk/news/uk-england-cornwall-58149364) - Staff say they are upset and feel demoralised by rude customers during a busy summer season.
 8. [Cladding: Fire safety protest held over 'time bomb' homes](https://www.bbc.co.uk/news/uk-england-58273254) - Residents from various developments in London and Manchester say they are living a "nightmare".
 9. [Graffiti to ward off evil found at Kibworth Harcourt mill](https://www.bbc.co.uk/news/uk-england-leicestershire-58259268) - The marks have been found at the Leicestershire mill, parts of which date from at least 1711.
