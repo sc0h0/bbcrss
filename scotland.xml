@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 21 Aug 2021 17:18:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Aug 2021 17:35:11 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -51,6 +51,13 @@
             <pubDate>Fri, 20 Aug 2021 21:02:19 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Scottish amateur challenges at Women's Open]]></title>
+            <description><![CDATA[Scottish amateur Louise Duncan enthrals the Carnoustie crowd with a four-under 68 which moves her into contention on day three of the Women's Open.]]></description>
+            <link>https://www.bbc.co.uk/sport/golf/58294168</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/golf/58294168</guid>
+            <pubDate>Sat, 21 Aug 2021 17:34:30 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA['Why I am giving up my home to climate activists']]></title>
             <description><![CDATA[The cost of staying in Glasgow during the world climate change summit means activists are helping each other out.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-58279470</link>
@@ -58,11 +65,11 @@
             <pubDate>Sat, 21 Aug 2021 08:38:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Scotland's papers: 'Coalition of chaos' and Afghan deadline plea]]></title>
-            <description><![CDATA[The SNP's deal with the Greens and desperate scenes in Afghanistan feature on Scotland's front pages.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-58288289</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58288289</guid>
-            <pubDate>Sat, 21 Aug 2021 09:13:00 GMT</pubDate>
+            <title><![CDATA[Celtic 6-0 St Mirren: Turnbull scores hat-trick as hosts storm to league summit]]></title>
+            <description><![CDATA[David Turnbull scores a first career hat-trick as Celtic storm to the Scottish Premiership summit for the first time in year after a relentless six-goal thrashing of 10-man St Mirren.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58209980</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58209980</guid>
+            <pubDate>Sat, 21 Aug 2021 16:18:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[SNP-Greens deal pledges indyref2 within five years]]></title>
@@ -205,13 +212,6 @@
             <pubDate>Sun, 15 Aug 2021 16:07:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Celtic 6-0 St Mirren: Turnbull scores hat-trick as hosts storm to league summit]]></title>
-            <description><![CDATA[David Turnbull scores a first career hat-trick as Celtic storm to the Scottish Premiership summit for the first time in year after a relentless six-goal thrashing of 10-man St Mirren.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58209980</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58209980</guid>
-            <pubDate>Sat, 21 Aug 2021 16:18:11 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Livingston 1-2 Motherwell: Grimshaw's first goal seals comeback win for visitors]]></title>
             <description><![CDATA[Liam Grimshaw's first-ever goal sealed Motherwell's first Scottish Premiership win of the season as they came from behind to defeat Livingston.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58209981</link>
@@ -224,6 +224,13 @@
             <link>https://www.bbc.co.uk/sport/football/58292526</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58292526</guid>
             <pubDate>Sat, 21 Aug 2021 11:38:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hamilton Academical 0-2 Kilmarnock: Robinson double keeps visitors' 100% record]]></title>
+            <description><![CDATA[Scott Robinson's double ensured Kilmarnock kept up their 100% start to the Scottish Championship season as they eased aside Hamilton Academical.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58210073</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58210073</guid>
+            <pubDate>Sat, 21 Aug 2021 16:49:22 GMT</pubDate>
         </item>
     </channel>
 </rss>

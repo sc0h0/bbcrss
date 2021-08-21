@@ -22,7 +22,7 @@
 22. [Sean Fitzpatrick: Wales must boost regional game to challenge top sides, says All Blacks great](https://www.bbc.co.uk/sport/rugby-union/58271324) - New Zealand great Sean Fitzpatrick says Wales must build from the bottom up if the national team is ever to taste victory over the All Blacks again.
 23. [Russell Martin: Head coach confirms Swansea City in talks with transfer targets](https://www.bbc.co.uk/sport/football/58288405) - Swansea City head coach Russell Martin is confident he can add to his squad before the transfer window shuts on 31 August.
 24. [Galw am symud gwastraff asbestos o draeth Porth Tywyn](https://www.bbc.co.uk/newyddion/58280824) - Ymgyrchwyr yn ofni am niwed posib, ond y cyngor yn dweud eu bod yn cymryd camau er risg "isel".
-25. [Llofrudd Clydach, David Morris, wedi marw yn y carchar](https://www.bbc.co.uk/newyddion/58268290) - David Morris, a gafwyd yn euog o lofruddio pedwar aelod o'r un teulu, wedi marw yn 59 oed.
+25. [Achub ci oedd yn gaeth ar ôl syrthio o glogwyn](https://www.bbc.co.uk/newyddion/58294400) - Bu'n rhaid i bum aelod o griw'r RNLI helpu achub cocker spaniel oedd yn gaeth rhwng creigiau.
 26. [Rhybudd stormydd i rannau o Gymru ddydd Sadwrn](https://www.bbc.co.uk/newyddion/58282643) - Siroedd y dwyrain sy'n fwyaf tebygol o gael eu heffeithio wrth i rybudd melyn ddod i rym am 12:00.
 27. [Pum munud gyda'r awdur a'r cyflwynydd Mike Parker](https://www.bbc.co.uk/newyddion/58282366) - Pum munud yng nghwmni enillydd gwobr Owain Glyndŵr yng Ngŵyl Machynlleth eleni Mike Parker.
 28. [Y Bencampwriaeth: Caerdydd 3-1 Millwall](https://www.bbc.co.uk/newyddion/58291608) - Record ddiguro Caerdydd yn parhau wrth i Aden Flint sgorio ddwywaith am yr eildro mewn wythnos.

@@ -9,7 +9,7 @@
 9. [Graffiti to ward off evil found at Kibworth Harcourt mill](https://www.bbc.co.uk/news/uk-england-leicestershire-58259268) - The marks have been found at the Leicestershire mill, parts of which date from at least 1711.
 10. [Clapham Common rape: Police looking for two men](https://www.bbc.co.uk/news/uk-england-london-58282071) - The victim, aged in his 30s, was attacked near a wooded area opposite The Avenue, Clapham.
 11. [Harwich Museum: Hi-de-Hi! fans display memorabilia for first time](https://www.bbc.co.uk/news/uk-england-essex-58285005) - The exhibition is part of a new museum that has opened in the town where the BBC comedy was filmed.
-12. [Kingston murder inquiry as man found stabbed](https://www.bbc.co.uk/news/uk-england-london-58282073) - A 18-year-old man was arrested on suspicion of murder at the scene in Clarence Street, Kingston.
+12. [Kingston murder inquiry as man found stabbed](https://www.bbc.co.uk/news/uk-england-london-58282073) - Two men arrested on suspicion of murder at the scene in Clarence Street, Kingston.
 13. [Suffolk woodland workshop by Green Light Trust 'the best place in the world'](https://www.bbc.co.uk/news/uk-england-suffolk-58270365) - A former homeless man turns his life around thanks to the therapy gained from woodland workshops.
 14. [The woman who wants to break stereotypes in pageants and rugby](https://www.bbc.co.uk/news/uk-england-sussex-58261882) - Danielle Evans wants to change minds on the pitch and the catwalk.
 15. [Injured Dubai cat flown to Bradford rescue centre](https://www.bbc.co.uk/news/uk-england-leeds-58273901) - The cat was ‘left for dead’ until the centre paid for the transport to West Yorkshire.
