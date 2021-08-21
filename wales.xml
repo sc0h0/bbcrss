@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 21 Aug 2021 15:53:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Aug 2021 16:26:00 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -44,6 +44,13 @@
             <pubDate>Sat, 21 Aug 2021 14:39:16 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Llandudno: Dog rescued after falling from cliff]]></title>
+            <description><![CDATA[Five RNLI staff had to help to rescue Tug, a Cocker Spaniel, who became was stuck among rocks.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-58294146</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58294146</guid>
+            <pubDate>Sat, 21 Aug 2021 16:10:36 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Newport County boss Flynn tests positive for Covid]]></title>
             <description><![CDATA[Newport County manager Michael Flynn will miss their next three games after testing positive for Covid-19.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58285434</link>
@@ -51,18 +58,18 @@
             <pubDate>Sat, 21 Aug 2021 13:03:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Hospitals: Study to look at benefits of outdoor treatment]]></title>
-            <description><![CDATA[Researchers will explore the benefits of outdoor treatment spaces at two hospitals.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-58281012</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58281012</guid>
-            <pubDate>Sat, 21 Aug 2021 06:11:59 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Weather: Warning for rain, hail and thunderstorms]]></title>
             <description><![CDATA[The Met Office says there is a good chance Wales will see travel disruption and flooding.]]></description>
             <link>https://www.bbc.co.uk/news/uk-wales-58279099</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58279099</guid>
             <pubDate>Fri, 20 Aug 2021 10:08:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hospitals: Study to look at benefits of outdoor treatment]]></title>
+            <description><![CDATA[Researchers will explore the benefits of outdoor treatment spaces at two hospitals.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-58281012</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58281012</guid>
+            <pubDate>Sat, 21 Aug 2021 06:11:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Boardmasters: More than 50 Covid cases in Swansea Bay linked to festival]]></title>
@@ -84,13 +91,6 @@
             <link>https://www.bbc.co.uk/news/uk-wales-58280710</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58280710</guid>
             <pubDate>Fri, 20 Aug 2021 14:51:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Man denies 16-year-old girl's takeaway murder]]></title>
-            <description><![CDATA[Wenjing Lin died at her family's Chinese takeaway in March.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-58278348</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58278348</guid>
-            <pubDate>Fri, 20 Aug 2021 10:38:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Llandrindod Lake: Wild swimming alert as blue-green algae found]]></title>
@@ -142,6 +142,27 @@
             <pubDate>Wed, 18 Aug 2021 18:00:37 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Cardiff City 3-1 Millwall: Centre-back Aden Flint scores twice for Bluebirds]]></title>
+            <description><![CDATA[Aden Flint scores two goals in four second-half minutes to extend Cardiff City's unbeaten start to the season with a 3-1 victory over Millwall.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58209737</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58209737</guid>
+            <pubDate>Sat, 21 Aug 2021 15:54:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tranmere Rovers 0-1 Newport County: Alex Fisher gives Exiles winning edge]]></title>
+            <description><![CDATA[Striker Alex Fisher marks his first start for Newport County with the winning goal away to Tranmere Rovers.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58209967</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58209967</guid>
+            <pubDate>Sat, 21 Aug 2021 16:04:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Solihull 2-2 Wrexham: Drama as Joe Sbarra denies Wrexham late on]]></title>
+            <description><![CDATA[Wrexham start their first full season under Hollywood owners Ryan Reynolds and Rob McElhenney with a dramatic 2-2 draw at Solihull Moors.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58229898</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58229898</guid>
+            <pubDate>Sat, 21 Aug 2021 15:59:16 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Sean Fitzpatrick: Wales must boost regional game to challenge top sides, says All Blacks great]]></title>
             <description><![CDATA[New Zealand great Sean Fitzpatrick says Wales must build from the bottom up if the national team is ever to taste victory over the All Blacks again.]]></description>
             <link>https://www.bbc.co.uk/sport/rugby-union/58271324</link>
@@ -154,27 +175,6 @@
             <link>https://www.bbc.co.uk/sport/football/58288405</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58288405</guid>
             <pubDate>Fri, 20 Aug 2021 21:49:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cardiff City v Millwall]]></title>
-            <description><![CDATA[Live coverage of Saturday's Championship game between Cardiff City and Millwall.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58209737</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58209737</guid>
-            <pubDate>Sat, 21 Aug 2021 09:28:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tranmere Rovers v Newport County]]></title>
-            <description><![CDATA[Live coverage of Saturday's League Two game between Tranmere Rovers and Newport County.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58209967</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58209967</guid>
-            <pubDate>Sat, 21 Aug 2021 10:31:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Solihull Moors v Wrexham]]></title>
-            <description><![CDATA[Live coverage of Saturday's National League game between Solihull Moors and Wrexham.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58229898</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58229898</guid>
-            <pubDate>Sat, 21 Aug 2021 10:35:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Galw am symud gwastraff asbestos o draeth Porth Tywyn]]></title>
@@ -205,11 +205,11 @@
             <pubDate>Sat, 21 Aug 2021 07:30:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Y Bencampwriaeth: Bristol City 0-1 Abertawe]]></title>
-            <description><![CDATA[Yr Elyrch yn hawlio triphwynt cyntaf y tymor gyda buddugoliaeth ym Mryste.]]></description>
-            <link>https://www.bbc.co.uk/newyddion/58287366</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/newyddion/58287366</guid>
-            <pubDate>Fri, 20 Aug 2021 20:40:03 GMT</pubDate>
+            <title><![CDATA[Y Bencampwriaeth: Caerdydd 3-1 Millwall]]></title>
+            <description><![CDATA[Record ddiguro Caerdydd yn parhau wrth i Aden Flint sgorio ddwywaith am yr eildro mewn wythnos.]]></description>
+            <link>https://www.bbc.co.uk/newyddion/58291608</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/newyddion/58291608</guid>
+            <pubDate>Sat, 21 Aug 2021 15:56:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
