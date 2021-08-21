@@ -11,23 +11,23 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 21 Aug 2021 13:24:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Aug 2021 13:34:11 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[SNP ruling body endorses deal with Greens]]></title>
+            <description><![CDATA[Nicola Sturgeon said the agreement had been "unanimously endorsed" following a very upbeat meeting.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-58293047</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58293047</guid>
+            <pubDate>Sat, 21 Aug 2021 13:28:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Scots rally expresses solidarity with the people of Afghanistan]]></title>
             <description><![CDATA[People have gathered in Glasgow's George Square to highlight fears over the Taliban's return to power.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58291723</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58291723</guid>
             <pubDate>Sat, 21 Aug 2021 12:07:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[SNP-Greens deal pledges indyref2 within five years]]></title>
-            <description><![CDATA[The agreement will take the Greens into government for the first time anywhere in the UK.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-scotland-politics-58272209</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-scotland-politics-58272209</guid>
-            <pubDate>Fri, 20 Aug 2021 14:26:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Couple ordered to pay back £8,000 of £2.4m mortgage fraud]]></title>
@@ -58,6 +58,13 @@
             <pubDate>Sat, 21 Aug 2021 08:38:04 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[SNP-Greens deal pledges indyref2 within five years]]></title>
+            <description><![CDATA[The agreement will take the Greens into government for the first time anywhere in the UK.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-scotland-politics-58272209</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-scotland-politics-58272209</guid>
+            <pubDate>Fri, 20 Aug 2021 14:26:24 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[ScotRail plans to cut 300 train services]]></title>
             <description><![CDATA[The rail operator is consulting on a slimmed down timetable in the aftermath of the Covid pandemic.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-scotland-business-58279271</link>
@@ -84,13 +91,6 @@
             <link>https://www.bbc.co.uk/sport/football/58283351</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58283351</guid>
             <pubDate>Fri, 20 Aug 2021 12:43:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Renee Macrae murder accused may be unfit for trial]]></title>
-            <description><![CDATA[William MacDowell, 79, who denies the allegations, suffers from three significant illnesses, a court has heard.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-highlands-islands-58281003</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-highlands-islands-58281003</guid>
-            <pubDate>Fri, 20 Aug 2021 10:58:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid in Scotland: Where are the latest cases?]]></title>
@@ -226,13 +226,6 @@
             <pubDate>Sat, 21 Aug 2021 11:38:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Celtic: Neil Lennon says it is 'evident' crowd return is behind return to form]]></title>
-            <description><![CDATA[Former Celtic manager Neil Lennon says it is "evident" that having supporters back in stadiums has been crucial in inspiring Celtic's revival in form.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58292215</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58292215</guid>
-            <pubDate>Sat, 21 Aug 2021 12:03:15 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Scottish Premiership: Things to watch out for this weekend]]></title>
             <description><![CDATA[From self-isolating managers to a top-of-the-table showdown, here's what to look out for in the Scottish Premiership this weekend.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58279065</link>
@@ -245,6 +238,13 @@
             <link>https://www.bbc.co.uk/sport/football/58291122</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58291122</guid>
             <pubDate>Sat, 21 Aug 2021 08:16:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Celtic: Neil Lennon says it is 'evident' crowd return is behind return to form]]></title>
+            <description><![CDATA[Former Celtic manager Neil Lennon says it is "evident" that having supporters back in stadiums has been crucial in inspiring Celtic's revival in form.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58292215</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58292215</guid>
+            <pubDate>Sat, 21 Aug 2021 12:03:15 GMT</pubDate>
         </item>
     </channel>
 </rss>

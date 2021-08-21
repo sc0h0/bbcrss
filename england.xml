@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 21 Aug 2021 13:27:12 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Aug 2021 13:35:32 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -205,18 +205,18 @@
             <pubDate>Fri, 20 Aug 2021 17:25:36 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Queens Park Rangers 2-2 Barnsley: Charlie Austin goal salvages point for Hoops]]></title>
+            <description><![CDATA[Charlie Austin scores an added-time equaliser as QPR come from 2-0 down to earn a draw at home to Barnsley.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58209740</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58209740</guid>
+            <pubDate>Sat, 21 Aug 2021 13:34:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The Hundred: Southern Brave thrash Trent Rockets to reach Lord's final]]></title>
             <description><![CDATA[Southern Brave thrash Trent Rockets by seven wickets in the men's Hundred eliminator to set up a final against Birmingham Phoenix.]]></description>
             <link>https://www.bbc.co.uk/sport/cricket/58284415</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/58284415</guid>
             <pubDate>Fri, 20 Aug 2021 20:10:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rochdale investors Morton House MGT to divest shares amid EFL investigation]]></title>
-            <description><![CDATA[Morton House MGT will divest its shares in Rochdale after refusing to cooperate with an EFL investigation into their involvement.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58292083</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58292083</guid>
-            <pubDate>Sat, 21 Aug 2021 11:05:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
