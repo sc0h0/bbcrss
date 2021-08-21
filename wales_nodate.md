@@ -21,8 +21,8 @@
 21. [Russell Martin: Head coach confirms Swansea City in talks with transfer targets](https://www.bbc.co.uk/sport/football/58288405) - Swansea City head coach Russell Martin is confident he can add to his squad before the transfer window shuts on 31 August.
 22. [Niall Huggins: Sunderland sign full-back from Leeds United](https://www.bbc.co.uk/sport/football/58286991) - League One club Sunderland sign Wales Under-21 full-back Niall Huggins on a permanent deal from Leeds United.
 23. [Glamorgan Cricket: Mark Wallace aims for continued success for Welsh county](https://www.bbc.co.uk/sport/cricket/58279610) - Glamorgan director of cricket Mark Wallace hopes the One-Day Cup triumph acts as a springboard for future success.
-24. [Llofrudd Clydach, David Morris, wedi marw yn y carchar](https://www.bbc.co.uk/newyddion/58268290) - David Morris, a gafwyd yn euog o lofruddio pedwar aelod o'r un teulu, wedi marw yn 59 oed.
-25. [Dyn yn gwadu llofruddio merch 16 oed yn Ynyswen](https://www.bbc.co.uk/newyddion/58281393) - Mae Chun Xu wedi'i gyhuddo o lofruddio Wenjing Lin yn nhŷ bwyta ei theulu yn Rhondda Cynon Taf.
-26. ['Methu gorfodi chwaraewyr i gael brechiad Covid-19'](https://www.bbc.co.uk/newyddion/58286943) - Rhai chwaraewyr yn gyndyn o gael eu brechiad coronafeirws, medd rheolwyr Caerdydd ac Abertawe.
+24. [Galw am symud gwastraff asbestos o draeth Porth Tywyn](https://www.bbc.co.uk/newyddion/58280824) - Ymgyrchwyr yn ofni am niwed posib, ond y cyngor yn dweud eu bod yn cymryd camau er risg "isel".
+25. [Llofrudd Clydach, David Morris, wedi marw yn y carchar](https://www.bbc.co.uk/newyddion/58268290) - David Morris, a gafwyd yn euog o lofruddio pedwar aelod o'r un teulu, wedi marw yn 59 oed.
+26. [Dyn yn gwadu llofruddio merch 16 oed yn Ynyswen](https://www.bbc.co.uk/newyddion/58281393) - Mae Chun Xu wedi'i gyhuddo o lofruddio Wenjing Lin yn nhŷ bwyta ei theulu yn Rhondda Cynon Taf.
 27. [Yr hunlle' eithaf... haf llawn chwaraeon!](https://www.bbc.co.uk/newyddion/58187206) - Tydi Beth Angell heb fwynhau yr holl gampau fu ymlaen yn ddiweddar.
 28. [Y Bencampwriaeth: Bristol City 0-1 Abertawe](https://www.bbc.co.uk/newyddion/58287366) - Yr Elyrch yn hawlio triphwynt cyntaf y tymor gyda buddugoliaeth ym Mryste.
