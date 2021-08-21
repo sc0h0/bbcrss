@@ -1,5 +1,5 @@
 1. [Afghanistan: US tells citizens to avoid Kabul airport](https://www.bbc.co.uk/news/world-asia-58293832) - The warning comes amid continued chaos outside the airport, with reports of a deadly crush.
-2. [Afghanistan: Labour demands urgent action over evacuation crisis](https://www.bbc.co.uk/news/uk-58290593) - Lisa Nandy tells the foreign secretary he should "step up" efforts to process eligible refugees.
+2. [Afghanistan: Labour demands urgent action over evacuation crisis](https://www.bbc.co.uk/news/uk-58290593) - The foreign secretary should step up efforts to process eligible refugees, Lisa Nandy says.
 3. [Covid: Australian police clash with anti-lockdown protesters](https://www.bbc.co.uk/news/world-australia-58291873) - Hundreds of people are arrested after rallies against lockdown measures in Melbourne and Sydney.
 4. [The Hundred: Southern Brave beat Birmingham Phoenix to win men's title](https://www.bbc.co.uk/sport/cricket/58293370) - Southern Brave are crowned the first men's Hundred champions after beating Birmingham Phoenix by 32 runs in an action-packed Lord's final.
 5. [Westminster double murder: Police say wanted man knew victims](https://www.bbc.co.uk/news/uk-england-london-58282070) - Detectives want to trace Lee Peacock after two people were found dead with knife injuries in London.
