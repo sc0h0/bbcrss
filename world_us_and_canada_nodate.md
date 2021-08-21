@@ -8,7 +8,7 @@
 8. [Family of American taken by Taliban beg for return](https://www.bbc.co.uk/news/world-us-canada-58276062) - Mark Frerichs, 59, one of the last Americans kidnapped by the Taliban, is stuck in Afghanistan.
 9. [Britney Spears investigated over dispute with employee](https://www.bbc.co.uk/news/entertainment-arts-58276564) - A member of staff says the singer struck her, while Ms Spears' lawyer says no-one was injured.
 10. [Covid-19: Mississippi quarantines 20,000 pupils at start of new school year](https://www.bbc.co.uk/news/world-us-canada-58272083) - Schools around the US are seeing Covid-19 outbreaks within days of starting the new academic year.
-11. [What's behind the rising gun violence in the US?](https://www.bbc.co.uk/news/world-us-canada-58207384) - After a decline, gun violence in cities like Washington DC has been increasing since 2018.
+11. [The devastating human cost of rising US gun violence](https://www.bbc.co.uk/news/world-us-canada-58207384) - Deadly shootings are on the rise in many US cities - poorer and black communities are hardest hit.
 12. [Canadian soldier faces jail over feeding cannabis cupcakes to troops](https://www.bbc.co.uk/news/world-us-canada-58176125) - A Canadian bombardier fed cannabis cakes to troops during a drill involving guns and live ammunition.
 13. [New York officer rescues fallen man from subway train](https://www.bbc.co.uk/news/world-us-canada-58277097) - A bystander captured the harrowing moments after a passenger fell unconscious from the platform.
 14. [Afghanistan crisis: Biden says US troops may stay past withdrawal deadline](https://www.bbc.co.uk/news/world-asia-58264917) - President Biden says he may keep forces there beyond August to help evacuate US citizens.

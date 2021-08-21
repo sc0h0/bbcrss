@@ -17,7 +17,7 @@
 17. [Taliban and women: Kabul university student on fears for future](https://www.bbc.co.uk/news/world-asia-58270423) - A Kabul university student tells the BBC how she is wiping out all traces of her previous life.
 18. [How Afghanistan's media is changing under Taliban rule](https://www.bbc.co.uk/news/world-asia-58273011) - The Taliban are currently on a media offensive but does their rhetoric match what’s happening on the ground?
 19. [Simone Biles and mental health focus: 'I wouldn't change anything for the world'](https://www.bbc.co.uk/sport/av/gymnastics/58284865) - Four-time Olympic gold medallist Simone Biles "wouldn't change anything for the world" because she "gave an outlet for athletes to speak up about mental health".
-20. [What's behind the rising gun violence in the US?](https://www.bbc.co.uk/news/world-us-canada-58207384) - After a decline, gun violence in cities like Washington DC has been increasing since 2018.
+20. [The devastating human cost of rising US gun violence](https://www.bbc.co.uk/news/world-us-canada-58207384) - Deadly shootings are on the rise in many US cities - poorer and black communities are hardest hit.
 21. [Drag Race UK queens: Covid 'pushed us creatively'](https://www.bbc.co.uk/news/newsbeat-58270184) - Newsbeat has spoken to all 12 queens taking part in the new series.
 22. [Paralympics: Para-badminton player Palak Kohli on preparing for Tokyo 2020](https://www.bbc.co.uk/news/world-asia-58271771) - Palak Kohli is the only Indian para-badminton player to be competing in three categories in Tokyo.
 23. [Afghan crisis: Russia plans for new era with Taliban rule](https://www.bbc.co.uk/news/world-europe-58265934) - While Western governments raced to get their people out, Russia appears unfazed by the takeover.
