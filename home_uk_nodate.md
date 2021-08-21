@@ -9,9 +9,9 @@
 9. [House prices: Demand changes, not tax waiver, pushed prices up](https://www.bbc.co.uk/news/business-58274811) - The stamp duty holiday did not cause rising house prices, the Resolution Foundation think tank says.
 10. [Abuse leaves hospitality staff at 'breaking point'](https://www.bbc.co.uk/news/uk-england-cornwall-58149364) - Staff say they are upset and feel demoralised by rude customers during a busy summer season.
 11. [The West End star who worked as carer during lockdown](https://www.bbc.co.uk/news/entertainment-arts-58080453) - As theatres reopen, actors like Stephen Beckett have been swapping their lockdown jobs for their place on the stage once more.
-12. [Newspaper headlines: Evacuation efforts in Kabul and Al-Qaeda warning](https://www.bbc.co.uk/news/blogs-the-papers-58288462) - The continuing situation in Afghanistan dominates most of the front pages.
-13. [Mission: Impossible films Derbyshire quarry train crash](https://www.bbc.co.uk/news/entertainment-arts-58271871) - Crews had been building the set for months and the nearby village had seen lorry-loads of props appearing.
-14. ['I play carrom with my feet'](https://www.bbc.co.uk/news/world-asia-india-58265853) - Twenty-three-year-old Harshad Gothankar was born without arms, but he is now a state carrom champion.
+12. [Mission: Impossible films Derbyshire quarry train crash](https://www.bbc.co.uk/news/entertainment-arts-58271871) - Crews had been building the set for months and the nearby village had seen lorry-loads of props appearing.
+13. ['I play carrom with my feet'](https://www.bbc.co.uk/news/world-asia-india-58265853) - Twenty-three-year-old Harshad Gothankar was born without arms, but he is now a state carrom champion.
+14. [Only Fools and Horses garage door sold to TV fan](https://www.bbc.co.uk/news/uk-england-bristol-58291660) - The garage door was sold to a TV memorabilia fan who hopes to get it displayed in a museum.
 15. [Week in pictures: 14 - 20 August 2021](https://www.bbc.co.uk/news/in-pictures-58274001) - A selection of powerful images from all over the globe, taken this week.
 16. [Covid cases: This summer compared with last](https://www.bbc.co.uk/news/health-58281664) - Case numbers are 30 times higher than at the same point last year - where might we be heading next?
 17. [Red phone box stolen from Cheshire garden in broad daylight](https://www.bbc.co.uk/news/uk-england-manchester-58280733) - Three men used a digger to steal the phone box, belonging to Chelford Parish Council, police say.
