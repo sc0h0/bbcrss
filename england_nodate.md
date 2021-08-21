@@ -1,4 +1,4 @@
-1. [Westminster double murder: Police release image of wanted man](https://www.bbc.co.uk/news/uk-england-london-58282070) - Police want to trace Lee Peacock after two people were found dead with knife injuries in London.
+1. [Westminster double murder: Police say wanted man knew victims](https://www.bbc.co.uk/news/uk-england-london-58282070) - Detectives want to trace Lee Peacock after two people were found dead with knife injuries in London.
 2. [Hillsborough: Minute's applause for 97th victim](https://www.bbc.co.uk/news/uk-england-merseyside-58292306) - Liverpool fans chanted "Justice for the 97" after the death of Andrew Devine who was hurt in the 1989 crush.
 3. [The pregnant woman who caught a serial voyeur masseur](https://www.bbc.co.uk/news/uk-england-cambridgeshire-58249002) - How a suspicious-looking alarm clock led to the downfall of a masseur who was spying on his clients.
 4. [Mission: Impossible films Derbyshire quarry train crash](https://www.bbc.co.uk/news/entertainment-arts-58271871) - Crews had been building the set for months and the nearby village had seen lorry-loads of props appearing.

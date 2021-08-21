@@ -1,7 +1,7 @@
 1. [Afghanistan: The desperate scramble to escape](https://www.bbc.co.uk/news/world-asia-58286000) - The BBC witnesses scenes of chaos and panic as thousands still crowd Kabul's airport.
 2. [Covid: Australian police clash with anti-lockdown protesters](https://www.bbc.co.uk/news/world-australia-58291873) - Hundreds of people are arrested after rallies against lockdown measures in Melbourne and Sydney.
 3. [Afghanistan: Ex-marine in talks with UK over staff exit from Kabul](https://www.bbc.co.uk/news/uk-58290593) - Pen Farthing, who runs an animal charity, warns the crisis in Afghanistan "is getting out of control".
-4. [Westminster double murder: Police release image of wanted man](https://www.bbc.co.uk/news/uk-england-london-58282070) - Police want to trace Lee Peacock after two people were found dead with knife injuries in London.
+4. [Westminster double murder: Police say wanted man knew victims](https://www.bbc.co.uk/news/uk-england-london-58282070) - Detectives want to trace Lee Peacock after two people were found dead with knife injuries in London.
 5. [Hillsborough: Minute's applause for 97th victim](https://www.bbc.co.uk/news/uk-england-merseyside-58292306) - Liverpool fans chanted "Justice for the 97" after the death of Andrew Devine who was hurt in the 1989 crush.
 6. [R. Kelly aide says he paid bribe for singer to marry Aaliyah](https://www.bbc.co.uk/news/entertainment-arts-58289890) - An ex-tour manager for the singer testifies that he obtained a fake ID for then 15-year-old Aaliyah.
 7. [Covid: CO2 monitors pledged to aid school ventilation](https://www.bbc.co.uk/news/education-58285359) - Schools in England are to be given CO2 monitors to as part of plans to limit the spread of Covid.
