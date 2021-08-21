@@ -15,7 +15,7 @@
 15. [Week in pictures: 14 - 20 August 2021](https://www.bbc.co.uk/news/in-pictures-58274001) - A selection of powerful images from all over the globe, taken this week.
 16. [Covid cases: This summer compared with last](https://www.bbc.co.uk/news/health-58281664) - Case numbers are 30 times higher than at the same point last year - where might we be heading next?
 17. [Red phone box stolen from Cheshire garden in broad daylight](https://www.bbc.co.uk/news/uk-england-manchester-58280733) - Three men used a digger to steal the phone box, belonging to Chelford Parish Council, police say.
-18. [Tumult grips White House amid week of Afghanistan failures](https://www.bbc.co.uk/news/world-us-canada-58286766) - How the fall of Kabul stunned the Biden administration and spawned the worst week of his presidency.
+18. [Biden's week of blame and tumult after Kabul fall](https://www.bbc.co.uk/news/world-us-canada-58286766) - How the fall of Kabul stunned the Biden administration and spawned the worst week of his presidency.
 19. [The pregnant woman who caught a serial voyeur masseur](https://www.bbc.co.uk/news/uk-england-cambridgeshire-58249002) - How a suspicious-looking alarm clock led to the downfall of a masseur who was spying on his clients.
 20. [Woke: Compliment or criticism, it is now fuelling the culture wars](https://www.bbc.co.uk/news/uk-politics-58281576) - The surprising history of a term increasingly thrown around in UK political debate.
 21. [OnlyFans porn ban a 'kick in the teeth' for creators](https://www.bbc.co.uk/news/newsbeat-58282653) - Content creators aren't pleased about the site's decision to ban explicit content from October.
