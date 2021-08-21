@@ -1,6 +1,6 @@
 1. [Burry Port: Fear for children after asbestos found on beach](https://www.bbc.co.uk/news/uk-wales-58144670) - Campaigners are calling for the removal of what they say is hazardous waste uncovered by erosion.
-2. [Clydach murderer Morris dies in prison](https://www.bbc.co.uk/news/uk-wales-58285620) - David Morris was serving a 32-year sentence for killing three generations of the same family.
-3. [Hospitals: Study to look at benefits of outdoor treatment](https://www.bbc.co.uk/news/uk-wales-58281012) - Researchers will explore the benefits of outdoor treatment and rehabilitation spaces at two hospitals.
+2. [Clydach murders: Killer David Morris dies in prison](https://www.bbc.co.uk/news/uk-wales-58285620) - David Morris was serving a 32-year sentence for killing three generations of the same family.
+3. [Hospitals: Study to look at benefits of outdoor treatment](https://www.bbc.co.uk/news/uk-wales-58281012) - Researchers will explore the benefits of outdoor treatment spaces at two hospitals.
 4. [Syrian family in Cardigan advise Afghan refugees about Wales](https://www.bbc.co.uk/news/uk-wales-58285615) - The Alchikhs made Cardigan their home after spending three years in a Lebanese refugee camp.
 5. [Weather: Warning for rain, hail and thunderstorms](https://www.bbc.co.uk/news/uk-wales-58279099) - The Met Office says there is a good chance Wales will see travel disruption and flooding.
 6. [Boardmasters: More than 50 Covid cases in Swansea Bay linked to festival](https://www.bbc.co.uk/news/uk-wales-58275495) - At least 56 cases in a single health board are confirmed in people who attended the event.
