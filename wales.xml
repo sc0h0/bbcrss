@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 22 Aug 2021 06:35:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Aug 2021 06:51:00 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -28,6 +28,13 @@
             <link>https://www.bbc.co.uk/news/uk-wales-58025735</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58025735</guid>
             <pubDate>Sun, 22 Aug 2021 06:11:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: Antibody tests offered to public for first time]]></title>
+            <description><![CDATA[The UK-wide scheme for adults who test positive for coronavirus will launch next week.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-58293249</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58293249</guid>
+            <pubDate>Sun, 22 Aug 2021 03:09:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Burry Port: Fear for children after asbestos found on beach]]></title>
@@ -91,13 +98,6 @@
             <link>https://www.bbc.co.uk/news/uk-wales-58275495</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58275495</guid>
             <pubDate>Fri, 20 Aug 2021 17:09:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid infections in Wales estimated to be rising]]></title>
-            <description><![CDATA[The latest Covid infection estimates point to a rise in Wales but not the other UK nations.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-58280710</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-58280710</guid>
-            <pubDate>Fri, 20 Aug 2021 14:51:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Green Man: Festival returns in the Welsh mountains after Covid restrictions]]></title>
