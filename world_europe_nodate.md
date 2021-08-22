@@ -1,4 +1,4 @@
-1. [Fans storm pitch as Dimitri Payet throws bottle](https://www.bbc.co.uk/sport/football/58301034) - Nice versus Marseille is suspended after Dimitri Payet threw a bottle back into the crowd and fans stormed the pitch.
+1. [Fans storm pitch as Dimitri Payet throws bottle](https://www.bbc.co.uk/sport/football/58301034) - Nice versus Marseille is abandoned after Dimitri Payet throws a bottle back into the crowd and fans storm the pitch.
 2. [Greece erects fence at Turkey border amid warnings of Afghan migrant surge](https://www.bbc.co.uk/news/world-europe-58289893) - A 40km (25-mile) barrier is placed at the land border amid warnings of a surge of Afghan migrants.
 3. [Spain migrants: Sole survivor rescued in dinghy in Atlantic](https://www.bbc.co.uk/news/world-europe-58279185) - The woman, who was spotted clinging to an upturned boat, says at least 52 other people died.
 4. [Alexei Navalny: UK sanctions for seven Russians over poisoning](https://www.bbc.co.uk/news/uk-58284833) - The staunch critic of President Vladimir Putin almost died in a nerve agent attack last year.
