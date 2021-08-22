@@ -2,8 +2,8 @@
 2. [Olympic boxer Ben Whittaker becomes Wolverhampton's mayor for a day](https://www.bbc.co.uk/news/uk-england-birmingham-58299944) - The silver medallist said in a post-bout interview in Tokyo he wanted to experience the honour.
 3. [Five hurt in high-speed crash at Lincoln car meet](https://www.bbc.co.uk/news/uk-england-lincolnshire-58297401) - Police say the five people were seriously injured when two cars went into spectators.
 4. [Ferrybridge chimney stacks demolished in controlled explosion](https://www.bbc.co.uk/news/uk-england-leeds-58297602) - The controlled explosion takes place at a former coal-fired power station in West Yorkshire.
-5. [Man arrested over Birmingham Gay Village attack](https://www.bbc.co.uk/news/uk-england-birmingham-58297761) - Two men needed hospital treatment after the attack which began with abuse from inside a car.
-6. [Surfer gives father and son surfboards after car fire](https://www.bbc.co.uk/news/uk-england-cornwall-58299430) - Nathan Phillips gave the boards away after he saw the pair's car on fire on a road in Cornwall.
+5. [Surfer gives father and son surfboards after car fire](https://www.bbc.co.uk/news/uk-england-cornwall-58299430) - Nathan Phillips gave the boards away after he saw the pair's car on fire on a road in Cornwall.
+6. [Man arrested over Birmingham Gay Village attack](https://www.bbc.co.uk/news/uk-england-birmingham-58297761) - Two men needed hospital treatment after the attack which began with abuse from inside a car.
 7. [Herne Bay: Pollution warning and flooding after heavy rains](https://www.bbc.co.uk/news/uk-england-kent-58298534) - Homes and businesses have been flooded after a downpour in Kent.
 8. [Widowed parents set up charity to help the bereaved](https://www.bbc.co.uk/news/uk-england-wiltshire-58236883) - Wiltshire Moon and Stars aims to be a social support network for families going through loss.
 9. [Afghanistan: Trapped Nottingham family reach Dubai](https://www.bbc.co.uk/news/uk-england-nottinghamshire-58293789) - The family with two young children were helped to escape from Kabul by the children's head teacher.
