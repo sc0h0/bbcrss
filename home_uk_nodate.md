@@ -1,7 +1,7 @@
 1. [Afghanistan: Blair calls US withdrawal tragic and unnecessary](https://www.bbc.co.uk/news/uk-58295384) - He says the decision was made "in obedience to an imbecilic slogan about ending 'the forever wars'".
 2. [Afghanistan: British evacuation improving, says armed forces minister](https://www.bbc.co.uk/news/uk-58296816) - More than 1,700 people have been airlifted out of Afghanistan in the past 24 hours, says James Heappey.
 3. [Covid: Antibody tests offered to public for first time](https://www.bbc.co.uk/news/uk-58293249) - The UK-wide scheme for adults who test positive for coronavirus will launch next week.
-4. [Covid: Antibody tests offered to public and tabletop game boom](https://www.bbc.co.uk/news/uk-58295793) - Five things you need to know about the coronavirus pandemic this Sunday morning.
+4. [Everly Brothers: US rock 'n' roll star Don Everly dies aged 84](https://www.bbc.co.uk/news/world-us-canada-58297621) - Don Everly and his brother, Phil, had hits including Bye Bye Love and All I Have to Do Is Dream.
 5. [Kenya holds biggest ever animal census](https://www.bbc.co.uk/news/world-africa-58281212) - All wildlife on land and sea is being counted to help Kenya's conservation plans and tourism.
 6. [Hurricane Grace kills eight as it rips through eastern Mexico](https://www.bbc.co.uk/news/world-latin-america-58295511) - The powerful storm brings torrential rain and high winds, causing power cuts and flooding.
 7. [Hurricane Henri: US East Coast warned of significant damage](https://www.bbc.co.uk/news/world-us-canada-58294809) - New York state declares a state of emergency as officials warn of flooding and power outages.
