@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 22 Aug 2021 21:48:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Aug 2021 22:15:02 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Afghanistan: US orders civilian jets to join evacuation]]></title>
+            <description><![CDATA[A Pentagon statement says 18 commercial aircraft will help with the evacuation effort.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58299804</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58299804</guid>
+            <pubDate>Sun, 22 Aug 2021 21:48:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Covid: New Zealand pandemic strategy in doubt amid Delta spread]]></title>
             <description><![CDATA[The highly infectious Delta variant "does change the game", the Covid response minister says.]]></description>
@@ -42,13 +49,6 @@
             <link>https://www.bbc.co.uk/news/world-australia-58291873</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-australia-58291873</guid>
             <pubDate>Sat, 21 Aug 2021 10:42:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['I play carrom with my feet']]></title>
-            <description><![CDATA[Twenty-three-year-old Harshad Gothankar was born without arms, but he is now a state carrom champion.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-india-58265853</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-58265853</guid>
-            <pubDate>Fri, 20 Aug 2021 23:41:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[China NPC: Three-child policy formally passed into law]]></title>

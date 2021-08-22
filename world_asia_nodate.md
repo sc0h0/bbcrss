@@ -1,8 +1,8 @@
-1. [Covid: New Zealand pandemic strategy in doubt amid Delta spread](https://www.bbc.co.uk/news/world-asia-58297895) - The highly infectious Delta variant "does change the game", the Covid response minister says.
-2. [Afghanistan: Where will refugees go after Taliban takeover?](https://www.bbc.co.uk/news/world-asia-58283177) - Thousands of people are scrambling to flee Afghanistan after the Taliban took control of the country.
-3. [Afghanistan: Afghan woman gives birth to baby girl on US evacuation plane](https://www.bbc.co.uk/news/world-asia-58297893) - The woman went into labour en route to Ramstein Air Base in Germany and gave birth on the plane.
-4. [Covid: Australian police clash with anti-lockdown protesters](https://www.bbc.co.uk/news/world-australia-58291873) - Hundreds of people are arrested after rallies against lockdown measures in Melbourne and Sydney.
-5. ['I play carrom with my feet'](https://www.bbc.co.uk/news/world-asia-india-58265853) - Twenty-three-year-old Harshad Gothankar was born without arms, but he is now a state carrom champion.
+1. [Afghanistan: US orders civilian jets to join evacuation](https://www.bbc.co.uk/news/world-asia-58299804) - A Pentagon statement says 18 commercial aircraft will help with the evacuation effort.
+2. [Covid: New Zealand pandemic strategy in doubt amid Delta spread](https://www.bbc.co.uk/news/world-asia-58297895) - The highly infectious Delta variant "does change the game", the Covid response minister says.
+3. [Afghanistan: Where will refugees go after Taliban takeover?](https://www.bbc.co.uk/news/world-asia-58283177) - Thousands of people are scrambling to flee Afghanistan after the Taliban took control of the country.
+4. [Afghanistan: Afghan woman gives birth to baby girl on US evacuation plane](https://www.bbc.co.uk/news/world-asia-58297893) - The woman went into labour en route to Ramstein Air Base in Germany and gave birth on the plane.
+5. [Covid: Australian police clash with anti-lockdown protesters](https://www.bbc.co.uk/news/world-australia-58291873) - Hundreds of people are arrested after rallies against lockdown measures in Melbourne and Sydney.
 6. [China NPC: Three-child policy formally passed into law](https://www.bbc.co.uk/news/world-asia-china-58277473) - The top legislature was also expected to approve a controversial anti-sanctions law for Hong Kong.
 7. [Nine Afghan girl robotics team members safe in Qatar](https://www.bbc.co.uk/news/world-us-canada-58286398) - The all-girls team, known as the "Afghan Dreamers" have made headlines around the world.
 8. [Child handed over wall amid Kabul airport chaos](https://www.bbc.co.uk/news/world-asia-58267756) - Afghans try to scale airport walls and shots are fired as crowds keep trying to flee the Taliban.
