@@ -1,5 +1,5 @@
 1. [Love Island: Is the dating show's honeymoon phase over?](https://www.bbc.co.uk/news/entertainment-arts-58270729) - The ITV show sparked record complaints, so as the latest series ends, is the magic starting to fade?
-2. [Everly Brothers: US rock 'n' roll star Don Everly dies aged 84](https://www.bbc.co.uk/news/world-us-canada-58297621) - The rock 'n' roll duo were known for their harmonies and influenced bands including The Beatles.
+2. [Everly Brothers: US rock 'n' roll star Don Everly dies aged 84](https://www.bbc.co.uk/news/world-us-canada-58297621) - Don Everly and his brother, Phil, had hits including Bye Bye Love and All I Have to Do Is Dream.
 3. [R. Kelly aide says he paid bribe for singer to marry Aaliyah](https://www.bbc.co.uk/news/entertainment-arts-58289890) - An ex-tour manager for the singer testifies that he obtained a fake ID for then 15-year-old Aaliyah.
 4. [Jill Murphy: The Worst Witch and Large family author dies at 72](https://www.bbc.co.uk/news/entertainment-arts-58283965) - The children's writer and illustrator also published picture books like the Large family series.
 5. [Only Fools and Horses garage door sold to TV fan](https://www.bbc.co.uk/news/uk-england-bristol-58291660) - The garage door was sold to a TV memorabilia fan who hopes to get it displayed in a museum.
