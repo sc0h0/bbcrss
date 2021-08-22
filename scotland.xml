@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 22 Aug 2021 20:47:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Aug 2021 21:08:26 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -219,6 +219,13 @@
             <pubDate>Sun, 15 Aug 2021 16:07:22 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Rangers investigate fans' alleged racial abuse of Celtic's Kyogo]]></title>
+            <description><![CDATA[Rangers have begun an investigation after a video showed fans allegedly chanting a racist song about Celtic's Japanese forward Kyogo Furuhashi.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58300455</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58300455</guid>
+            <pubDate>Sun, 22 Aug 2021 21:05:52 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Ross County 2-4 Rangers: Visitors secure thrilling win]]></title>
             <description><![CDATA[Scott Arfield came off the bench to end Ross County's comeback as Rangers averted a second successive Scottish Premiership slip-up.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58215750</link>
@@ -238,13 +245,6 @@
             <link>https://www.bbc.co.uk/sport/football/58215757</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58215757</guid>
             <pubDate>Sun, 22 Aug 2021 15:54:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dundee 2-2 Hibernian: Late McGowan header earns hosts point in entertaining draw]]></title>
-            <description><![CDATA[Hibernian move to the top of the Scottish Premiership despite Paul McGowan's late header earning Dundee a point in a pulsating draw.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58215736</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58215736</guid>
-            <pubDate>Sun, 22 Aug 2021 13:12:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
