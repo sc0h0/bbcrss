@@ -7,7 +7,7 @@
 7. [Afghanistan: Afghan woman gives birth to baby girl on US evacuation plane](https://www.bbc.co.uk/news/world-asia-58297893) - The woman went into labour en route to Ramstein Air Base in Germany and gave birth on the plane.
 8. [Eileen Barrott death: Husband charged with murder](https://www.bbc.co.uk/news/uk-england-leeds-58291273) - Eileen Barrott died at the couple's home a week ago after being found seriously injured.
 9. [Man arrested over Birmingham Gay Village attack](https://www.bbc.co.uk/news/uk-england-birmingham-58297761) - Two men needed hospital treatment after the attack which began with abuse from inside a car.
-10. [Hurricane Grace kills eight as it rips through eastern Mexico](https://www.bbc.co.uk/news/world-latin-america-58295511) - The powerful storm brings torrential rain and high winds, causing power cuts and flooding.
+10. [Cwmllynfell rugby player Alex Evans dies during match](https://www.bbc.co.uk/news/uk-wales-58297010) - Alex Evans's team says they have "lost a brother on the field and it is hurting so much".
 11. [Five hurt in high-speed crash at Lincoln car meet](https://www.bbc.co.uk/news/uk-england-lincolnshire-58297401) - Police say the five people were seriously injured when two cars went into spectators.
 12. [The NI inventor who saved thousands of lives](https://www.bbc.co.uk/news/uk-northern-ireland-58274204) - The plane ejector seat was invented by James Martin, from Crossgar in County Down, in 1944.
 13. [Kenya holds biggest ever animal census](https://www.bbc.co.uk/news/world-africa-58281212) - All wildlife on land and sea is being counted to help Kenya's conservation plans and tourism.
