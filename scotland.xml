@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 22 Aug 2021 13:35:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Aug 2021 13:43:41 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -23,18 +23,18 @@
             <pubDate>Sun, 22 Aug 2021 03:09:33 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Gunshots fired at Edinburgh home in 'targeted attack']]></title>
+            <description><![CDATA[A man, woman and two young children were in the house in Edinburgh when the incident happened.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-58297984</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-58297984</guid>
+            <pubDate>Sun, 22 Aug 2021 13:38:04 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Boris Johnson's Irish Sea tunnel vision - roadworthy or pipe dream?]]></title>
             <description><![CDATA[A BBC documentary asks how serious is Boris Johnson about a link from Scotland to Northern Ireland?]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58269437</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58269437</guid>
             <pubDate>Sun, 22 Aug 2021 06:21:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Scotland's papers: 'Run for the border' and Covid public inquiry call]]></title>
-            <description><![CDATA[The ongoing crisis in Afghanistan and the pandemic feature on Scotland's newspaper front pages]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-58297072</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58297072</guid>
-            <pubDate>Sun, 22 Aug 2021 08:30:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[SNP ruling body endorses deal with Greens]]></title>
@@ -65,25 +65,18 @@
             <pubDate>Sat, 21 Aug 2021 15:48:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Scottish amateur challenges at Women's Open]]></title>
-            <description><![CDATA[Scottish amateur Louise Duncan enthrals the Carnoustie crowd with a four-under 68 which moves her into contention on day three of the Women's Open.]]></description>
-            <link>https://www.bbc.co.uk/sport/golf/58294168</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/golf/58294168</guid>
-            <pubDate>Sat, 21 Aug 2021 17:34:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['Why I am giving up my home to climate activists']]></title>
-            <description><![CDATA[The cost of staying in Glasgow during the world climate change summit means activists are helping each other out.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-58279470</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58279470</guid>
-            <pubDate>Sat, 21 Aug 2021 08:38:04 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Couple ordered to pay back £8,000 of £2.4m mortgage fraud]]></title>
             <description><![CDATA[Edwin McLaren and his wife Lorraine conned dozens of people in financial difficulty between 2008 and 2012.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58287331</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58287331</guid>
             <pubDate>Fri, 20 Aug 2021 19:27:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Scotland's papers: 'Run for the border' and Covid public inquiry call]]></title>
+            <description><![CDATA[The ongoing crisis in Afghanistan and the pandemic feature on Scotland's newspaper front pages]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-58297072</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58297072</guid>
+            <pubDate>Sun, 22 Aug 2021 08:30:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid in Scotland: Where are the latest cases?]]></title>
@@ -133,6 +126,13 @@
             <link>https://www.bbc.co.uk/news/world-51235105</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-51235105</guid>
             <pubDate>Fri, 20 Aug 2021 09:14:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Why I am giving up my home to climate activists']]></title>
+            <description><![CDATA[The cost of staying in Glasgow during the world climate change summit means activists are helping each other out.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-58279470</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58279470</guid>
+            <pubDate>Sat, 21 Aug 2021 08:38:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why do I need more smoke alarms in my house?]]></title>
@@ -224,6 +224,13 @@
             <link>https://www.bbc.co.uk/sport/football/58209980</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58209980</guid>
             <pubDate>Sat, 21 Aug 2021 20:19:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Women's Open 2021: Scottish amateur Louise Duncan challenges at Carnoustie]]></title>
+            <description><![CDATA[Scottish amateur Louise Duncan enthrals the Carnoustie crowd with a four-under 68 which moves her into contention on day three of the Women's Open.]]></description>
+            <link>https://www.bbc.co.uk/sport/golf/58294168</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/golf/58294168</guid>
+            <pubDate>Sat, 21 Aug 2021 17:34:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Women's Champions League: Glasgow City to face Servette for place in group phase]]></title>
