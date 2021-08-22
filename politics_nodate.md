@@ -1,4 +1,4 @@
-1. [Afghanistan: Blair calls US withdrawal 'imbecilic'](https://www.bbc.co.uk/news/uk-58295384) - Every jihadist group around the world will be cheering, the former UK prime minister says.
+1. [Afghanistan: Blair calls US withdrawal tragic and unnecessary](https://www.bbc.co.uk/news/uk-58295384) - Every jihadist group around the world will be cheering, the former UK prime minister says.
 2. [Afghanistan: Labour demands urgent action over evacuation crisis](https://www.bbc.co.uk/news/uk-58290593) - People being beaten, shot at or raped while trying to secure documentation in Kabul, Lisa Nandy says.
 3. [Afghanistan: Boris Johnson says he has full confidence in Dominic Raab](https://www.bbc.co.uk/news/uk-politics-58283588) - The UK foreign secretary is facing calls to quit over his handling of evacuations.
 4. [SNP-Greens deal pledges indyref2 within five years](https://www.bbc.co.uk/news/uk-scotland-scotland-politics-58272209) - The agreement will take the Greens into government for the first time anywhere in the UK.

@@ -1,5 +1,5 @@
 1. [Afghanistan: US fears risk of Islamic State attack at Kabul airport](https://www.bbc.co.uk/news/world-asia-58293832) - A security alert is issued over "security threats" as thousands of people throng Kabul airport.
-2. [Afghanistan: Blair calls US withdrawal 'imbecilic'](https://www.bbc.co.uk/news/uk-58295384) - Every jihadist group around the world will be cheering, the former UK prime minister says.
+2. [Afghanistan: Blair calls US withdrawal tragic and unnecessary](https://www.bbc.co.uk/news/uk-58295384) - Every jihadist group around the world will be cheering, the former UK prime minister says.
 3. [Hurricane Grace kills eight as it rips through eastern Mexico](https://www.bbc.co.uk/news/world-latin-america-58295511) - The powerful storm brings torrential rain and high winds, causing power cuts and flooding.
 4. [The Hundred: Southern Brave beat Birmingham Phoenix to win men's title](https://www.bbc.co.uk/sport/cricket/58293370) - Southern Brave are crowned the first men's Hundred champions after beating Birmingham Phoenix by 32 runs in an action-packed Lord's final.
 5. [Covid: Antibody tests offered to public for first time](https://www.bbc.co.uk/news/uk-58293249) - The UK-wide scheme for adults who test positive for coronavirus will launch next week.
