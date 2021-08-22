@@ -24,7 +24,7 @@
 24. [Russian module mishap destabilises International Space Station](https://www.bbc.co.uk/news/science-environment-58021394) - The ISS was pushed out of position after engines on a new Russian module unexpectedly fired up.
 25. [Bezos' $2bn offer to get back in race to the Moon](https://www.bbc.co.uk/news/science-environment-57978465) - The billionaire offers to cover $2bn in Nasa costs to be reconsidered for a Moon lander contract.
 26. [How do we slow down fast fashion?](https://www.bbc.co.uk/news/uk-scotland-58216479) - The clothes we wear can have a huge impact on the climate, even more so than the aviation industry.
-27. [Will I ever be able to fly without feeling guilty again?](https://www.bbc.co.uk/news/business-57917193) - More efficient planes and sustainable fuels could lower air travel's impact, but not for a while.
+27. [Will I ever be able to fly again without feeling guilty?](https://www.bbc.co.uk/news/business-57917193) - More efficient planes and sustainable fuels could lower air travel's impact, but not for a while.
 28. [The illegal gold mines killing rivers and livelihoods in Ghana](https://www.bbc.co.uk/news/world-africa-58119653) - Sixty percent of Ghana's water bodies are now polluted, largely due to illegal mining operations.
 29. [How are wildfires linked to climate change?](https://www.bbc.co.uk/news/58159451) - A series of major wildfires across the world has hit the headlines - how do they compare to previous years?
 30. [Climate change: How to be more eco-friendly in everyday life](https://www.bbc.co.uk/news/newsbeat-47990742) - From food to fashion, green bloggers give their top tips to be more eco-friendly.
