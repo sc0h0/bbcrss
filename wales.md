@@ -24,5 +24,5 @@
 24. [Rhaid newid rheolau cadw gynnau medd dioddefwr](https://www.bbc.co.uk/newyddion/58291603) - Sun, 22 Aug 2021 07:08:18 GMT - Menyw gafodd ei saethu gan ei gŵr, wedi iddyn nhw wahanu yn 2011, yn erbyn cadw drylliau yn y cartref.
 25. [Apêl goroeswr sepsis am ofal addas i oedolion ifanc](https://www.bbc.co.uk/newyddion/58280830) - Sun, 22 Aug 2021 07:05:02 GMT - Roedd Hollie Smith yn 18 ac ar fin cael prawf i dîm pêl-droed Cymru cyn cael ei tharo'n ddifrifol wael.
 26. [Achub ci oedd yn gaeth ar ôl syrthio o glogwyn](https://www.bbc.co.uk/newyddion/58294400) - Sat, 21 Aug 2021 17:22:17 GMT - Bu'n rhaid i bum aelod o griw'r RNLI helpu achub cocker spaniel oedd yn gaeth rhwng creigiau.
-27. [Pum munud gyda'r awdur a'r cyflwynydd Mike Parker](https://www.bbc.co.uk/newyddion/58282366) - Sat, 21 Aug 2021 07:30:39 GMT - Pum munud yng nghwmni enillydd gwobr Owain Glyndŵr yng Ngŵyl Machynlleth eleni Mike Parker.
+27. [Cerdyn post oddi wrth... Llŷr Alun](https://www.bbc.co.uk/newyddion/58264143) - Sun, 22 Aug 2021 07:22:31 GMT - Wythnos hon, Llŷr Alun neu 'Llŷr Am Dro' sydd yn anfon cyfarchion i ni o bier Bangor.
 28. [Y Bencampwriaeth: Caerdydd 3-1 Millwall](https://www.bbc.co.uk/newyddion/58291608) - Sat, 21 Aug 2021 15:56:59 GMT - Record ddiguro Caerdydd yn parhau wrth i Aden Flint sgorio ddwywaith am yr eildro mewn wythnos.
