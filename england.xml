@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 22 Aug 2021 13:15:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Aug 2021 13:35:13 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -198,6 +198,13 @@
             <pubDate>Sat, 21 Aug 2021 06:18:26 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[BMX World Championships: Bethany Shriever takes women's final to add to Olympic title]]></title>
+            <description><![CDATA[Bethany Shriever completes an Olympic and World double as the Tokyo 2020 gold medallist wins the final of the women's BMX World Championships.]]></description>
+            <link>https://www.bbc.co.uk/sport/cycling/58298865</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cycling/58298865</guid>
+            <pubDate>Sun, 22 Aug 2021 13:34:08 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Wolverhampton Wanderers v Tottenham Hotspur: Harry Kane named on visitors' bench]]></title>
             <description><![CDATA[Tottenham striker Harry Kane is on the bench for Sunday's Premier League match at Wolves as he continues to be linked with Manchester City.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58193450</link>
@@ -210,13 +217,6 @@
             <link>https://www.bbc.co.uk/sport/football/58294058</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58294058</guid>
             <pubDate>Sun, 22 Aug 2021 11:52:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Hundred: Best action from women's and men's finals]]></title>
-            <description><![CDATA[Watch the best of the action from the Hundred finals at Lord's as Southern Brave took on Birmingham Phoenix in the men's final and Oval Invincibles in the women's final.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/cricket/58295417</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/cricket/58295417</guid>
-            <pubDate>Sun, 22 Aug 2021 05:08:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
