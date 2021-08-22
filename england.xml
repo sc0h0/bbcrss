@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 22 Aug 2021 06:43:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Aug 2021 08:16:58 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -31,7 +31,7 @@
         </item>
         <item>
             <title><![CDATA[Formerly homeless asylum seeker retrains as vicar]]></title>
-            <description><![CDATA[A doctor who fled Nigeria to protect her daughters is hoping to retrain as a vicar.]]></description>
+            <description><![CDATA[A doctor who fled Nigeria to protect her daughters is starting to retrain as a vicar.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-nottinghamshire-58238063</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-nottinghamshire-58238063</guid>
             <pubDate>Sun, 22 Aug 2021 06:30:39 GMT</pubDate>
@@ -65,18 +65,18 @@
             <pubDate>Sat, 21 Aug 2021 18:05:19 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Camden barbecue shooting: Police arrest fifth man]]></title>
+            <description><![CDATA[Three men and two teenage boys are arrested after a shooting at a crowded communal barbecue.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-58297171</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-58297171</guid>
+            <pubDate>Sun, 22 Aug 2021 07:53:09 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[William Arkle: Son opens gallery to display father's work]]></title>
             <description><![CDATA[Prince Charles owns one of William Arkle's paintings and Tracey Emin had recently praised his work.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-bristol-58284189</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-bristol-58284189</guid>
             <pubDate>Sun, 22 Aug 2021 06:33:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hillsborough: Minute's applause for 97th victim]]></title>
-            <description><![CDATA[Liverpool fans chanted "Justice for the 97" after the death of Andrew Devine who was hurt in the 1989 crush.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-merseyside-58292306</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-merseyside-58292306</guid>
-            <pubDate>Sat, 21 Aug 2021 13:59:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Banksy: Rusty old boat a 'godsend' destined for museum]]></title>
@@ -91,20 +91,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-cambridgeshire-58291853</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-cambridgeshire-58291853</guid>
             <pubDate>Sat, 21 Aug 2021 11:37:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cladding: Fire safety protest held over 'time bomb' homes]]></title>
-            <description><![CDATA[Residents from various developments in London and Manchester say they are living a "nightmare".]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-58273254</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-58273254</guid>
-            <pubDate>Sat, 21 Aug 2021 15:08:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kingston murder inquiry as man found stabbed]]></title>
-            <description><![CDATA[Two men arrested on suspicion of murder at the scene in Clarence Street, Kingston.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-london-58282073</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-58282073</guid>
-            <pubDate>Sat, 21 Aug 2021 17:26:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Suffolk woodland workshop by Green Light Trust 'the best place in the world']]></title>
@@ -140,6 +126,27 @@
             <link>https://www.bbc.co.uk/news/uk-england-humber-58274021</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-humber-58274021</guid>
             <pubDate>Thu, 19 Aug 2021 16:04:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hillsborough: Minute's applause for 97th victim]]></title>
+            <description><![CDATA[Liverpool fans chanted "Justice for the 97" after the death of Andrew Devine who was hurt in the 1989 crush.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-merseyside-58292306</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-merseyside-58292306</guid>
+            <pubDate>Sat, 21 Aug 2021 13:59:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cladding: Fire safety protest held over 'time bomb' homes]]></title>
+            <description><![CDATA[Residents from various developments in London and Manchester say they are living a "nightmare".]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-58273254</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-58273254</guid>
+            <pubDate>Sat, 21 Aug 2021 15:08:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kingston murder inquiry as man found stabbed]]></title>
+            <description><![CDATA[Two men arrested on suspicion of murder at the scene in Clarence Street, Kingston.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-58282073</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-58282073</guid>
+            <pubDate>Sat, 21 Aug 2021 17:26:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Abuse leaves hospitality staff at 'breaking point']]></title>
@@ -189,27 +196,6 @@
             <link>https://www.bbc.co.uk/news/education-58285359</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/education-58285359</guid>
             <pubDate>Fri, 20 Aug 2021 23:32:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Afghanistan: Relief as trapped Nottingham family get to airport]]></title>
-            <description><![CDATA[A family from Nottingham who have been trapped by a Taliban blockade secure repatriation flights.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-nottinghamshire-58283007</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-nottinghamshire-58283007</guid>
-            <pubDate>Fri, 20 Aug 2021 17:55:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gun returned to Plymouth attacker after rehabilitation scheme]]></title>
-            <description><![CDATA[A shotgun and certificate were returned to Jake Davison in July after a police review.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-devon-58282482</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-devon-58282482</guid>
-            <pubDate>Fri, 20 Aug 2021 18:49:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid-19: Statues recognise NHS staff and key workers]]></title>
-            <description><![CDATA[Each of the 51 statues on display in Birmingham has been decorated by a different artist.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-birmingham-58285340</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-birmingham-58285340</guid>
-            <pubDate>Fri, 20 Aug 2021 17:09:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Hundred: Southern Brave beat Birmingham Phoenix to win men's title]]></title>

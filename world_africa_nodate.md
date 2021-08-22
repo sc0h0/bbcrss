@@ -1,8 +1,8 @@
-1. [Nigeria's royal wedding: Private jets, glitz and glamour](https://www.bbc.co.uk/news/world-africa-58291132) - President Buhari's son marries the daughter of a religious leader in one of Nigeria's events of the year.
-2. [Algeria's desperate wildfire fight: Buckets and branches](https://www.bbc.co.uk/news/world-africa-58269789) - Despite a huge military budget, oil-rich Algeria is ill-equipped to tackle annual fires.
-3. [Kenya holds biggest ever animal census](https://www.bbc.co.uk/news/world-africa-58281212) - All wildlife on land and sea is being counted to help Kenya's conservation plans and tourism.
-4. [Ethiopia's Tigray crisis: US accuses Abiy's government of blocking aid](https://www.bbc.co.uk/news/world-africa-58279442) - Washington's aid chief says food is set to run out, with hundreds of thousands at risk of famine.
-5. [Africa's jihadists: What Taliban takeover of Afghanistan means](https://www.bbc.co.uk/news/world-africa-58279439) - Islamist groups appear emboldened by the fall of Afghanistan, sparking concern in African countries.
+1. [Algeria's desperate wildfire fight: Buckets and branches](https://www.bbc.co.uk/news/world-africa-58269789) - Despite a huge military budget, oil-rich Algeria is ill-equipped to tackle annual fires.
+2. [Kenya holds biggest ever animal census](https://www.bbc.co.uk/news/world-africa-58281212) - All wildlife on land and sea is being counted to help Kenya's conservation plans and tourism.
+3. [Nigeria's royal wedding: Private jets, glitz and glamour](https://www.bbc.co.uk/news/world-africa-58291132) - President Buhari's son marries the daughter of a religious leader in one of Nigeria's events of the year.
+4. [Africa's jihadists: What Taliban takeover of Afghanistan means](https://www.bbc.co.uk/news/world-africa-58279439) - Islamist groups appear emboldened by the fall of Afghanistan, sparking concern in African countries.
+5. [Ethiopia's Tigray crisis: US accuses Abiy's government of blocking aid](https://www.bbc.co.uk/news/world-africa-58279442) - Washington's aid chief says food is set to run out, with hundreds of thousands at risk of famine.
 6. [Africa's week in pictures: 13-19 August 2021](https://www.bbc.co.uk/news/world-africa-58267380) - A selection of the best photos from the African continent and beyond.
 7. [Tigray crisis: Ethiopian teenagers become pawns in propaganda war](https://www.bbc.co.uk/news/world-africa-58189395) - The BBC is told they were forced to fight for Tigray's rebels, but were words put into their mouths?
 8. [Algeria: The forest fires that led to an artist's lynching](https://www.bbc.co.uk/news/world-africa-58260855) - When Djamel Ben Ismail went to fight forest fires in Algeria, his life was cut short by a raging mob.

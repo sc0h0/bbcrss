@@ -23,6 +23,6 @@
 23. [Sean Fitzpatrick: Wales must boost regional game to challenge top sides, says All Blacks great](https://www.bbc.co.uk/sport/rugby-union/58271324) - New Zealand great Sean Fitzpatrick says Wales must build from the bottom up if the national team is ever to taste victory over the All Blacks again.
 24. [Rhaid newid rheolau cadw gynnau medd dioddefwr](https://www.bbc.co.uk/newyddion/58291603) - Menyw gafodd ei saethu gan ei gŵr, wedi iddyn nhw wahanu yn 2011, yn erbyn cadw drylliau yn y cartref.
 25. [Apêl goroeswr sepsis am ofal addas i oedolion ifanc](https://www.bbc.co.uk/newyddion/58280830) - Roedd Hollie Smith yn 18 ac ar fin cael prawf i dîm pêl-droed Cymru cyn cael ei tharo'n ddifrifol wael.
-26. [Achub ci oedd yn gaeth ar ôl syrthio o glogwyn](https://www.bbc.co.uk/newyddion/58294400) - Bu'n rhaid i bum aelod o griw'r RNLI helpu achub cocker spaniel oedd yn gaeth rhwng creigiau.
+26. [Cynnig profion gwrthgyrff i'r cyhoedd am y tro cyntaf](https://www.bbc.co.uk/newyddion/58297081) - Bydd y cynllun ar gyfer oedolion sy'n cael prawf Covid positif yn dechrau wythnos nesaf.
 27. [Cerdyn post oddi wrth... Llŷr Alun](https://www.bbc.co.uk/newyddion/58264143) - Wythnos hon, Llŷr Alun neu 'Llŷr Am Dro' sydd yn anfon cyfarchion i ni o bier Bangor.
 28. [Y Bencampwriaeth: Caerdydd 3-1 Millwall](https://www.bbc.co.uk/newyddion/58291608) - Record ddiguro Caerdydd yn parhau wrth i Aden Flint sgorio ddwywaith am yr eildro mewn wythnos.

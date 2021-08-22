@@ -11,17 +11,10 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 22 Aug 2021 07:57:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Aug 2021 08:19:52 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
-        <item>
-            <title><![CDATA[Nigeria's royal wedding: Private jets, glitz and glamour]]></title>
-            <description><![CDATA[President Buhari's son marries the daughter of a religious leader in one of Nigeria's events of the year.]]></description>
-            <link>https://www.bbc.co.uk/news/world-africa-58291132</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-58291132</guid>
-            <pubDate>Sat, 21 Aug 2021 15:23:03 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Algeria's desperate wildfire fight: Buckets and branches]]></title>
             <description><![CDATA[Despite a huge military budget, oil-rich Algeria is ill-equipped to tackle annual fires.]]></description>
@@ -37,11 +30,11 @@
             <pubDate>Sat, 21 Aug 2021 23:14:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Ethiopia's Tigray crisis: US accuses Abiy's government of blocking aid]]></title>
-            <description><![CDATA[Washington's aid chief says food is set to run out, with hundreds of thousands at risk of famine.]]></description>
-            <link>https://www.bbc.co.uk/news/world-africa-58279442</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-58279442</guid>
-            <pubDate>Fri, 20 Aug 2021 18:38:54 GMT</pubDate>
+            <title><![CDATA[Nigeria's royal wedding: Private jets, glitz and glamour]]></title>
+            <description><![CDATA[President Buhari's son marries the daughter of a religious leader in one of Nigeria's events of the year.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-58291132</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-58291132</guid>
+            <pubDate>Sat, 21 Aug 2021 15:23:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Africa's jihadists: What Taliban takeover of Afghanistan means]]></title>
@@ -49,6 +42,13 @@
             <link>https://www.bbc.co.uk/news/world-africa-58279439</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-58279439</guid>
             <pubDate>Fri, 20 Aug 2021 23:50:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ethiopia's Tigray crisis: US accuses Abiy's government of blocking aid]]></title>
+            <description><![CDATA[Washington's aid chief says food is set to run out, with hundreds of thousands at risk of famine.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-58279442</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-58279442</guid>
+            <pubDate>Fri, 20 Aug 2021 18:38:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Africa's week in pictures: 13-19 August 2021]]></title>
