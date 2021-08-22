@@ -1,4 +1,4 @@
-1. [Afghanistan: US tells citizens to avoid Kabul airport](https://www.bbc.co.uk/news/world-asia-58293832) - The warning comes amid continued chaos outside the airport, with reports of a deadly crush.
+1. [Afghanistan: US fears risk of Islamic State attack at Kabul airport](https://www.bbc.co.uk/news/world-asia-58293832) - A security alert is issued over "security threats" as thousands of people throng Kabul airport.
 2. [Hurricane Grace kills eight as it rips through eastern Mexico](https://www.bbc.co.uk/news/world-latin-america-58295511) - The powerful storm brings torrential rain and high winds, causing power cuts and flooding.
 3. [Hurricane Henri: US East Coast warned of significant damage](https://www.bbc.co.uk/news/world-us-canada-58294809) - New York state declares a state of emergency as officials warn of flooding and power outages.
 4. [Greece erects fence at Turkey border amid warnings of Afghan migrant surge](https://www.bbc.co.uk/news/world-europe-58289893) - A 40km (25-mile) barrier is placed at the land border amid warnings of a surge of Afghan migrants.
