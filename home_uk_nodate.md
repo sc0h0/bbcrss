@@ -1,5 +1,5 @@
-1. [Afghanistan: Blair calls US withdrawal tragic and unnecessary](https://www.bbc.co.uk/news/uk-58295384) - Every jihadist group around the world will be cheering, the former UK prime minister says.
-2. [Afghanistan: US fears risk of Islamic State attack at Kabul airport](https://www.bbc.co.uk/news/world-asia-58293832) - An alert is issued over "security threats" as thousands of people throng Kabul airport.
+1. [Afghanistan: Blair calls US withdrawal tragic and unnecessary](https://www.bbc.co.uk/news/uk-58295384) - He says the decision was made "in obedience to an imbecilic slogan about ending 'the forever wars'".
+2. [Afghanistan: British evacuation improving, says armed forces minister](https://www.bbc.co.uk/news/uk-58296816) - More than 1,700 people have been airlifted out of Afghanistan in the past 24 hours, says James Heappey.
 3. [Covid: Antibody tests offered to public for first time](https://www.bbc.co.uk/news/uk-58293249) - The UK-wide scheme for adults who test positive for coronavirus will launch next week.
 4. [Covid: Antibody tests offered to public and tabletop game boom](https://www.bbc.co.uk/news/uk-58295793) - Five things you need to know about the coronavirus pandemic this Sunday morning.
 5. [Kenya holds biggest ever animal census](https://www.bbc.co.uk/news/world-africa-58281212) - All wildlife on land and sea is being counted to help Kenya's conservation plans and tourism.
