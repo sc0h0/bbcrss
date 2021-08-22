@@ -23,6 +23,6 @@
 23. [Cardiff City 3-1 Millwall: Centre-back Aden Flint scores twice for Bluebirds](https://www.bbc.co.uk/sport/football/58209737) - Aden Flint scores two goals in four second-half minutes to extend Cardiff City's unbeaten start to the season with a 3-1 victory over Millwall.
 24. [Rhaid newid rheolau cadw gynnau medd dioddefwr](https://www.bbc.co.uk/newyddion/58291603) - Menyw gafodd ei saethu gan ei gŵr, wedi iddyn nhw wahanu yn 2011, yn erbyn cadw drylliau yn y cartref.
 25. [Apêl goroeswr sepsis am ofal addas i oedolion ifanc](https://www.bbc.co.uk/newyddion/58280830) - Roedd Hollie Smith yn 18 ac ar fin cael prawf i dîm pêl-droed Cymru cyn cael ei tharo'n ddifrifol wael.
-26. [Tân mawr ar safle cwmni teiars yng Nghaerfyrddin](https://www.bbc.co.uk/newyddion/58297083) - Mae trigolion lleol yn cael cyngor i gau drysau a ffenestri wrth i fwg ledu o'r safle.
+26. [Covid: 1,626 achos newydd a phum marwolaeth](https://www.bbc.co.uk/newyddion/58146735) - Mae cyfradd achosion Cymru gyfan dros saith diwrnod wedi codi eto i 245.7 fesul 100,000 o bobl.
 27. [Cerdyn post oddi wrth... Llŷr Alun](https://www.bbc.co.uk/newyddion/58264143) - Wythnos hon, Llŷr Alun neu 'Llŷr Am Dro' sydd yn anfon cyfarchion i ni o bier Bangor.
 28. [Y Bencampwriaeth: Caerdydd 3-1 Millwall](https://www.bbc.co.uk/newyddion/58291608) - Record ddiguro Caerdydd yn parhau wrth i Aden Flint sgorio ddwywaith am yr eildro mewn wythnos.
