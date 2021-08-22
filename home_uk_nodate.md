@@ -7,7 +7,7 @@
 7. [Hurricane Grace kills eight as it rips through eastern Mexico](https://www.bbc.co.uk/news/world-latin-america-58295511) - The powerful storm brings torrential rain and high winds, causing power cuts and flooding.
 8. [Hurricane Henri: US East Coast warned of significant damage](https://www.bbc.co.uk/news/world-us-canada-58294809) - New York state declares a state of emergency as officials warn of flooding and power outages.
 9. [The best action from the Hundred finals](https://www.bbc.co.uk/sport/av/cricket/58295417) - Watch the best of the action from the Hundred finals at Lord's as Southern Brave took on Birmingham Phoenix in the men's final and Oval Invincibles in the women's final.
-10. [Devon girl, 14, finishes round-Britain sailing trek](https://www.bbc.co.uk/news/uk-england-devon-58294842) - Katie McCabe sails about 1,600 nautical miles in a 26ft (8m) wooden yacht called Falanda.
+10. [Eileen Barrott death: Husband charged with murder](https://www.bbc.co.uk/news/uk-england-leeds-58291273) - Eileen Barrott died at the couple's home a week ago after being found seriously injured.
 11. [Westminster double murder: Police say wanted man knew victims](https://www.bbc.co.uk/news/uk-england-london-58282070) - Detectives want to trace Lee Peacock after two people were found dead with knife injuries in London.
 12. [Sepsis: Teen footballer wants better care for young adults](https://www.bbc.co.uk/news/uk-wales-58025735) - Hollie Smith, 19, dreamed of playing for Wales - but after sepsis she needs round-the-clock care.
 13. [The NI inventor who saved thousands of lives](https://www.bbc.co.uk/news/uk-northern-ireland-58274204) - The plane ejector seat was invented by James Martin, from Crossgar in County Down, in 1944.
