@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 22 Aug 2021 23:11:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Aug 2021 23:25:18 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -128,6 +128,13 @@
             <pubDate>Thu, 12 Aug 2021 23:11:57 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Why phone scams are so difficult to tackle]]></title>
+            <description><![CDATA[Phone fraud, both via calls and text messages, has soared during the pandemic.]]></description>
+            <link>https://www.bbc.co.uk/news/business-58254354</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58254354</guid>
+            <pubDate>Sun, 22 Aug 2021 23:13:18 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[How virtual reality can help to recruit and train staff]]></title>
             <description><![CDATA[VR headsets are making a leap from fun gimmick to serious tool for firms' workforce management.]]></description>
             <link>https://www.bbc.co.uk/news/business-57805093</link>
@@ -161,34 +168,6 @@
             <link>https://www.bbc.co.uk/news/business-57981598</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57981598</guid>
             <pubDate>Mon, 09 Aug 2021 23:02:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why artificial intelligence is being used to write adverts]]></title>
-            <description><![CDATA[Advertisers are increasingly using artificial intelligence to come up with their winning slogans.]]></description>
-            <link>https://www.bbc.co.uk/news/business-57781557</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-57781557</guid>
-            <pubDate>Thu, 05 Aug 2021 23:06:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The perfect storm striking World of Warcraft]]></title>
-            <description><![CDATA[All of a sudden, WoW players are in revolt, and its competitors are having a boom.]]></description>
-            <link>https://www.bbc.co.uk/news/technology-58017429</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-58017429</guid>
-            <pubDate>Sat, 31 Jul 2021 23:18:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo 2020: TikTok becomes the unofficial behind-the-scenes Olympic channel]]></title>
-            <description><![CDATA[The short-form video platform is giving fans unprecedented insight into the athletes' experience.]]></description>
-            <link>https://www.bbc.co.uk/news/world-australia-58053519</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-australia-58053519</guid>
-            <pubDate>Wed, 04 Aug 2021 00:44:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Twitter algorithm prefers slimmer, younger, light-skinned faces]]></title>
-            <description><![CDATA[A Twitter-sponsored competition to discover bias in its image algorithm finds precisely that.]]></description>
-            <link>https://www.bbc.co.uk/news/technology-58159723</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-58159723</guid>
-            <pubDate>Tue, 10 Aug 2021 16:17:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
