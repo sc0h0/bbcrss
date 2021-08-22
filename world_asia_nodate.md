@@ -1,6 +1,6 @@
 1. [Covid: New Zealand pandemic strategy in doubt amid Delta spread](https://www.bbc.co.uk/news/world-asia-58297895) - The highly infectious Delta variant "does change the game", the Covid response minister says.
 2. [Afghanistan: Where will refugees go after Taliban takeover?](https://www.bbc.co.uk/news/world-asia-58283177) - Thousands of people are scrambling to flee Afghanistan after the Taliban took control of the country.
-3. [Afghanistan: Woman gives birth on US evacuation plane](https://www.bbc.co.uk/news/world-asia-58297893) - The woman went into labour en route to Ramstein Air Base in Germany and gave birth on the plane.
+3. [Afghanistan: Woman gives birth to baby girl on US evacuation plane](https://www.bbc.co.uk/news/world-asia-58297893) - The woman went into labour en route to Ramstein Air Base in Germany and gave birth on the plane.
 4. [Covid: Australian police clash with anti-lockdown protesters](https://www.bbc.co.uk/news/world-australia-58291873) - Hundreds of people are arrested after rallies against lockdown measures in Melbourne and Sydney.
 5. ['I play carrom with my feet'](https://www.bbc.co.uk/news/world-asia-india-58265853) - Twenty-three-year-old Harshad Gothankar was born without arms, but he is now a state carrom champion.
 6. [China NPC: Three-child policy formally passed into law](https://www.bbc.co.uk/news/world-asia-china-58277473) - The top legislature was also expected to approve a controversial anti-sanctions law for Hong Kong.

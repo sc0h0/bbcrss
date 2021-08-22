@@ -21,7 +21,7 @@
 21. ['If Flinty goes on like this he's going to score about 40 this year' - Cardiff's Morrison](https://www.bbc.co.uk/sport/av/football/58295084) - Cardiff captain Sean Morrison praises fellow defender Aden Flint after his goal double and one from Morrison himself earn a 3-1 win over Millwall.
 22. [Dwayne Peel: Scarlets boss is potentially a very, very good coach - Sean Fitzpatrick](https://www.bbc.co.uk/sport/av/rugby-union/58293579) - New Zealand legend Sean Fitzpatrick sings the praises of Scarlets boss Dwayne Peel ahead of the 2021-22 season.
 23. [Tranmere Rovers 0-1 Newport County: Alex Fisher gives Exiles winning edge](https://www.bbc.co.uk/sport/football/58209967) - Striker Alex Fisher marks his first start for Newport County with the winning goal away to Tranmere Rovers.
-24. [Chwaraewr rygbi'n marw ar ôl cwympo yn ystod gêm](https://www.bbc.co.uk/newyddion/58297084) - Mae Undeb Rygbi Cymru ymhlith y cannoedd sydd wedi cydymdeimlo wedi'r digwyddiad brynhawn Sadwrn.
+24. [Chwaraewr rygbi'n marw ar ôl cwympo yn ystod gêm](https://www.bbc.co.uk/newyddion/58297084) - Mae Undeb Rygbi Cymru ymhlith y cannoedd sydd wedi cydymdeimlo yn dilyn marwolaeth Alex Evans.
 25. [Rhaid newid rheolau cadw gynnau medd dioddefwr](https://www.bbc.co.uk/newyddion/58291603) - Menyw gafodd ei saethu gan ei gŵr, wedi iddyn nhw wahanu yn 2011, yn erbyn cadw drylliau yn y cartref.
 26. [Apêl goroeswr sepsis am ofal addas i oedolion ifanc](https://www.bbc.co.uk/newyddion/58280830) - Roedd Hollie Smith yn 18 ac ar fin cael prawf i dîm pêl-droed Cymru cyn cael ei tharo'n ddifrifol wael.
 27. [Cerdyn post oddi wrth... Llŷr Alun](https://www.bbc.co.uk/newyddion/58264143) - Wythnos hon, Llŷr Alun neu 'Llŷr Am Dro' sydd yn anfon cyfarchion i ni o bier Bangor.
