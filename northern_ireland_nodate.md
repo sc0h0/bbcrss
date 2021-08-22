@@ -1,4 +1,4 @@
-1. [Covid-19: 'Big Jab' vaccination drive comes to an end in NI](https://www.bbc.co.uk/news/uk-northern-ireland-58294894) - The Big Jab Weekend ran across Northern Ireland aimed at boosting Covid-19 vaccination levels.
+1. [Covid-19: More than 8,000 first jabs given in weekend vaccine push](https://www.bbc.co.uk/news/uk-northern-ireland-58294894) - The total is still being counted and the exact number is expected to be announced on Monday.
 2. [Covid-19: Eleven more Covid-related deaths and 1,485 new cases](https://www.bbc.co.uk/news/uk-northern-ireland-58298466) - The total number of deaths linked to Covid-19 in NI since the start of the pandemic is now 2,302.
 3. [Covid: Antibody tests offered to public for first time](https://www.bbc.co.uk/news/uk-58293249) - The UK-wide scheme for adults who test positive for coronavirus will launch next week.
 4. [Londonderry: Unionists condemn 'shots' near republican mural](https://www.bbc.co.uk/news/uk-northern-ireland-58297142) - The incident, in the Galliagh area of Derry, took place at a mural of hunger striker Michael Devine.

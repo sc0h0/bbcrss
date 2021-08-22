@@ -1,8 +1,8 @@
 1. [Cwmllynfell rugby player Alex Evans dies during match](https://www.bbc.co.uk/news/uk-wales-58297010) - Alex Evans's team says they have "lost a brother on the field and it is hurting so much".
 2. [Plymouth shooting: Woman shot by husband wants gun law change](https://www.bbc.co.uk/news/uk-wales-58283811) - Rachel Williams, whose estranged husband shot her in 2011, says guns should not be kept at home.
-3. [Paralympics: Calls for wheelchair motocross to be in Games](https://www.bbc.co.uk/news/uk-england-manchester-58297582) - There are calls for the adaptive skateboarding sport to be in the Paralympics by 2028.
-4. [Sepsis: Teen footballer wants better care for young adults](https://www.bbc.co.uk/news/uk-wales-58025735) - Hollie Smith, 19, dreamed of playing for Wales - but after sepsis she needs round-the-clock care.
-5. [Covid: People working out at gyms longer and later at night](https://www.bbc.co.uk/news/uk-wales-58260865) - Are "peak times" at the gym a thing of the past as people visit around work and childcare?
+3. [Covid: People working out at gyms longer and later at night](https://www.bbc.co.uk/news/uk-wales-58260865) - Are "peak times" at the gym a thing of the past as people visit around work and childcare?
+4. [Paralympics: Calls for wheelchair motocross to be in Games](https://www.bbc.co.uk/news/uk-england-manchester-58297582) - There are calls for the adaptive skateboarding sport to be in the Paralympics by 2028.
+5. [Sepsis: Teen footballer wants better care for young adults](https://www.bbc.co.uk/news/uk-wales-58025735) - Hollie Smith, 19, dreamed of playing for Wales - but after sepsis she needs round-the-clock care.
 6. [Covid: Antibody tests offered to public for first time](https://www.bbc.co.uk/news/uk-58293249) - The UK-wide scheme for adults who test positive for coronavirus will launch next week.
 7. [Burry Port: Fear for children after asbestos found on beach](https://www.bbc.co.uk/news/uk-wales-58144670) - Campaigners are calling for the removal of what they say is hazardous waste uncovered by erosion.
 8. [Clydach murders: Killer David Morris dies in prison](https://www.bbc.co.uk/news/uk-wales-58285620) - David Morris was serving a 32-year sentence for killing three generations of the same family.

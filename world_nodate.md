@@ -1,7 +1,7 @@
 1. [Afghanistan: US orders civilian jets to join evacuation](https://www.bbc.co.uk/news/world-asia-58299804) - A Pentagon statement says 18 commercial aircraft will help with the evacuation effort.
 2. [Afghanistan: Afghan woman gives birth to baby girl on US evacuation plane](https://www.bbc.co.uk/news/world-asia-58297893) - The woman went into labour en route to Ramstein Air Base in Germany and gave birth on the plane.
 3. [Covid: New Zealand pandemic strategy in doubt amid Delta spread](https://www.bbc.co.uk/news/world-asia-58297895) - The highly infectious Delta variant "does change the game", the Covid response minister says.
-4. [Storm Henri: US East Coast warned of significant damage](https://www.bbc.co.uk/news/world-us-canada-58294809) - New York state declares a state of emergency as officials warn of flooding and power outages.
+4. [Storm Henri makes landfall at Rhode Island](https://www.bbc.co.uk/news/world-us-canada-58300877) - More than 120,000 homes are without power as millions of people warned to expect significant damage.
 5. [Everly Brothers: US rock 'n' roll star Don Everly dies aged 84](https://www.bbc.co.uk/news/world-us-canada-58297621) - The rock 'n' roll duo were known for their harmonies and influenced bands including The Beatles.
 6. [Hurricane Grace kills eight as it rips through eastern Mexico](https://www.bbc.co.uk/news/world-latin-america-58295511) - The powerful storm brings torrential rain and high winds, causing power cuts and flooding.
 7. [Kenya holds biggest ever animal census](https://www.bbc.co.uk/news/world-africa-58281212) - All wildlife on land and sea is being counted to help Kenya's conservation plans and tourism.
