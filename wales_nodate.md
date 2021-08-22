@@ -1,15 +1,15 @@
 1. [Plymouth shooting: Woman shot by husband wants gun law change](https://www.bbc.co.uk/news/uk-wales-58283811) - Rachel Williams, whose estranged husband shot her in 2011, says guns should not be kept at home.
-2. [Sepsis: Teen footballer wants better care for young adults](https://www.bbc.co.uk/news/uk-wales-58025735) - Hollie Smith, 19, dreamed of playing for Wales - but after sepsis she needs round-the-clock care.
+2. [Cwmllynfell rugby player dies following memorial match](https://www.bbc.co.uk/news/uk-wales-58297010) - The player's team says they have "lost a brother on the field and it is hurting so much".
 3. [Paralympics: Calls for wheelchair motocross to be in Games](https://www.bbc.co.uk/news/uk-england-manchester-58297582) - There are calls for the adaptive skateboarding sport to be in the Paralympics by 2028.
-4. [Covid: Antibody tests offered to public for first time](https://www.bbc.co.uk/news/uk-58293249) - The UK-wide scheme for adults who test positive for coronavirus will launch next week.
-5. [Burry Port: Fear for children after asbestos found on beach](https://www.bbc.co.uk/news/uk-wales-58144670) - Campaigners are calling for the removal of what they say is hazardous waste uncovered by erosion.
-6. [Clydach murders: Killer David Morris dies in prison](https://www.bbc.co.uk/news/uk-wales-58285620) - David Morris was serving a 32-year sentence for killing three generations of the same family.
-7. [Llandudno: Dog rescued after falling from cliff](https://www.bbc.co.uk/news/uk-wales-58294146) - Five RNLI staff had to help to rescue Tug, a Cocker Spaniel, who became was stuck among rocks.
-8. [Monmouthshire and Brecon Canal boaters asked to share stories](https://www.bbc.co.uk/news/uk-wales-58260866) - A tradition dating back three decades of writing about adventures on the water has been restarted.
-9. [Message in a bottle washes up after 3,000-mile journey](https://www.bbc.co.uk/news/uk-wales-58282975) - Amanda Tidmarsh found the message, from near Canada, while walking her dogs in south Wales.
-10. [Newport County boss Flynn tests positive for Covid](https://www.bbc.co.uk/sport/football/58285434) - Newport County manager Michael Flynn will miss their next three games after testing positive for Covid-19.
-11. [Weather: Warning for heavy rain in Wales](https://www.bbc.co.uk/news/uk-wales-58279099) - The Met Office says there is a good chance areas will see travel disruption.
-12. [Hospitals: Study to look at benefits of outdoor treatment](https://www.bbc.co.uk/news/uk-wales-58281012) - Researchers will explore the benefits of outdoor treatment spaces at two hospitals.
+4. [Sepsis: Teen footballer wants better care for young adults](https://www.bbc.co.uk/news/uk-wales-58025735) - Hollie Smith, 19, dreamed of playing for Wales - but after sepsis she needs round-the-clock care.
+5. [Covid: People working out at gyms longer and later at night](https://www.bbc.co.uk/news/uk-wales-58260865) - Are "peak times" at the gym a thing of the past as people visit around work and childcare?
+6. [Covid: Antibody tests offered to public for first time](https://www.bbc.co.uk/news/uk-58293249) - The UK-wide scheme for adults who test positive for coronavirus will launch next week.
+7. [Burry Port: Fear for children after asbestos found on beach](https://www.bbc.co.uk/news/uk-wales-58144670) - Campaigners are calling for the removal of what they say is hazardous waste uncovered by erosion.
+8. [Clydach murders: Killer David Morris dies in prison](https://www.bbc.co.uk/news/uk-wales-58285620) - David Morris was serving a 32-year sentence for killing three generations of the same family.
+9. [Llandudno: Dog rescued after falling from cliff](https://www.bbc.co.uk/news/uk-wales-58294146) - Five RNLI staff had to help to rescue Tug, a Cocker Spaniel, who became was stuck among rocks.
+10. [Monmouthshire and Brecon Canal boaters asked to share stories](https://www.bbc.co.uk/news/uk-wales-58260866) - A tradition dating back three decades of writing about adventures on the water has been restarted.
+11. [Message in a bottle washes up after 3,000-mile journey](https://www.bbc.co.uk/news/uk-wales-58282975) - Amanda Tidmarsh found the message, from near Canada, while walking her dogs in south Wales.
+12. [Newport County boss Flynn tests positive for Covid](https://www.bbc.co.uk/sport/football/58285434) - Newport County manager Michael Flynn will miss their next three games after testing positive for Covid-19.
 13. [Green Man: Festival returns in the Welsh mountains after Covid restrictions](https://www.bbc.co.uk/news/entertainment-arts-58282999) - Wales' largest music festival, Green Man, returns with 25,000 people in attendance.
 14. [Plymouth shooting: Gun survivor calls for change to firearms laws](https://www.bbc.co.uk/news/uk-wales-58283814) - A woman who survived being shot in 2011 wants tougher gun laws following the Plymouth shooting.
 15. [Syrian family in Cardigan advise Afghan refugees about Wales](https://www.bbc.co.uk/news/uk-wales-58285615) - The Alchikhs made Cardigan their home after spending three years in a Lebanese refugee camp.
@@ -21,8 +21,8 @@
 21. [Dwayne Peel: Scarlets boss is potentially a very, very good coach - Sean Fitzpatrick](https://www.bbc.co.uk/sport/av/rugby-union/58293579) - New Zealand legend Sean Fitzpatrick sings the praises of Scarlets boss Dwayne Peel ahead of the 2021-22 season.
 22. [Tranmere Rovers 0-1 Newport County: Alex Fisher gives Exiles winning edge](https://www.bbc.co.uk/sport/football/58209967) - Striker Alex Fisher marks his first start for Newport County with the winning goal away to Tranmere Rovers.
 23. [Cardiff City 3-1 Millwall: Centre-back Aden Flint scores twice for Bluebirds](https://www.bbc.co.uk/sport/football/58209737) - Aden Flint scores two goals in four second-half minutes to extend Cardiff City's unbeaten start to the season with a 3-1 victory over Millwall.
-24. [Rhaid newid rheolau cadw gynnau medd dioddefwr](https://www.bbc.co.uk/newyddion/58291603) - Menyw gafodd ei saethu gan ei gŵr, wedi iddyn nhw wahanu yn 2011, yn erbyn cadw drylliau yn y cartref.
-25. [Apêl goroeswr sepsis am ofal addas i oedolion ifanc](https://www.bbc.co.uk/newyddion/58280830) - Roedd Hollie Smith yn 18 ac ar fin cael prawf i dîm pêl-droed Cymru cyn cael ei tharo'n ddifrifol wael.
-26. [Covid: 1,626 achos newydd a phum marwolaeth](https://www.bbc.co.uk/newyddion/58146735) - Mae cyfradd achosion Cymru gyfan dros saith diwrnod wedi codi eto i 245.7 fesul 100,000 o bobl.
+24. [Chwaraewr rygbi'n marw ar ôl cwympo yn ystod gêm](https://www.bbc.co.uk/newyddion/58297084) - Mae Undeb Rygbi Cymru ymhlith y cannoedd sydd wedi cydymdeimlo wedi'r digwyddiad brynhawn Sadwrn.
+25. [Rhaid newid rheolau cadw gynnau medd dioddefwr](https://www.bbc.co.uk/newyddion/58291603) - Menyw gafodd ei saethu gan ei gŵr, wedi iddyn nhw wahanu yn 2011, yn erbyn cadw drylliau yn y cartref.
+26. [Apêl goroeswr sepsis am ofal addas i oedolion ifanc](https://www.bbc.co.uk/newyddion/58280830) - Roedd Hollie Smith yn 18 ac ar fin cael prawf i dîm pêl-droed Cymru cyn cael ei tharo'n ddifrifol wael.
 27. [Cerdyn post oddi wrth... Llŷr Alun](https://www.bbc.co.uk/newyddion/58264143) - Wythnos hon, Llŷr Alun neu 'Llŷr Am Dro' sydd yn anfon cyfarchion i ni o bier Bangor.
 28. [Y Bencampwriaeth: Caerdydd 3-1 Millwall](https://www.bbc.co.uk/newyddion/58291608) - Record ddiguro Caerdydd yn parhau wrth i Aden Flint sgorio ddwywaith am yr eildro mewn wythnos.

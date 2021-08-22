@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 22 Aug 2021 12:25:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Aug 2021 12:56:47 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -219,6 +219,13 @@
             <pubDate>Sun, 15 Aug 2021 16:07:22 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Dundee 2-2 Hibernian: Late McGowan header earns hosts point in entertaining draw]]></title>
+            <description><![CDATA[Hibernian move to the top of the Scottish Premiership despite Paul McGowan's late header earning Dundee a point in a pulsating draw.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58215736</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58215736</guid>
+            <pubDate>Sun, 22 Aug 2021 12:52:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Celtic 6-0 St Mirren: Postecoglou wants side to be 'relentless']]></title>
             <description><![CDATA[Celtic manager Ange Postecoglou has demanded his team remain "relentless" after storming to the Scottish Premiership summit for the first time in year with a six-goal thrashing of 10-man St Mirren.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58209980</link>
@@ -238,13 +245,6 @@
             <link>https://www.bbc.co.uk/sport/football/58279065</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58279065</guid>
             <pubDate>Sat, 21 Aug 2021 18:50:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Listen: Off the Ball on BBC Radio Scotland]]></title>
-            <description><![CDATA[Stuart Cosgrove and Tam Cowan kick off the day's Scottish football coverage on Off the Ball on BBC Radio Scotland.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/football/58215865</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/58215865</guid>
-            <pubDate>Sun, 22 Aug 2021 10:59:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
