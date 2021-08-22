@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 22 Aug 2021 15:40:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Aug 2021 18:11:09 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -177,6 +177,13 @@
             <pubDate>Sun, 22 Aug 2021 11:28:04 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[C-17: The US military plane carrying Afghans to safety]]></title>
+            <description><![CDATA[A Boeing C-17 safely carried 823 Afghans from Kabul last week, a record number for that plane.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58297899</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58297899</guid>
+            <pubDate>Sun, 22 Aug 2021 14:29:55 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Afghanistan: Sport bodies call for emergency evacuation of female players]]></title>
             <description><![CDATA[Fifa and players' union Fifpro call on governments to arrange the emergency evacuation of female footballers in Afghanistan.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58284092</link>
@@ -203,13 +210,6 @@
             <link>https://www.bbc.co.uk/news/world-us-canada-58286766</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-58286766</guid>
             <pubDate>Sat, 21 Aug 2021 00:43:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Afghan crisis: Russia plans for new era with Taliban rule]]></title>
-            <description><![CDATA[While Western governments raced to get their people out, Russia appears unfazed by the takeover.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58265934</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58265934</guid>
-            <pubDate>Fri, 20 Aug 2021 23:58:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
