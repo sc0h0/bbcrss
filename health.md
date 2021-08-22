@@ -1,4 +1,4 @@
-1. [Covid: Antibody tests offered to public for first time](https://www.bbc.co.uk/news/uk-58293249) - Sun, 22 Aug 2021 00:16:02 GMT - The UK-wide scheme for adults who test positive for coronavirus will launch next week.
+1. [Covid: Antibody tests offered to public for first time](https://www.bbc.co.uk/news/uk-58293249) - Sun, 22 Aug 2021 03:09:33 GMT - The UK-wide scheme for adults who test positive for coronavirus will launch next week.
 2. [Army supporting ambulance services in England](https://www.bbc.co.uk/news/health-58281665) - Fri, 20 Aug 2021 16:01:14 GMT - High demand and staffing shortages have meant the Army has been called in to help look after patients.
 3. [Covid: CO2 monitors pledged to aid school ventilation](https://www.bbc.co.uk/news/education-58285359) - Fri, 20 Aug 2021 23:32:24 GMT - Schools in England are to be given CO2 monitors to as part of plans to limit the spread of Covid.
 4. [Covid-antibody therapy approved in UK](https://www.bbc.co.uk/news/health-58281332) - Fri, 20 Aug 2021 10:48:21 GMT - Antibody therapy - given to former US President Donald Trump - can now be used in the UK.
