@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 22 Aug 2021 21:40:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Aug 2021 21:53:31 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -149,13 +149,6 @@
             <pubDate>Sun, 22 Aug 2021 13:45:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[British Open: Mark Williams to play Gary Wilson in final]]></title>
-            <description><![CDATA[Former world champion Mark Williams beats Jimmy Robertson to set up a meeting with Gary Wilson in Sunday's British Open final.]]></description>
-            <link>https://www.bbc.co.uk/sport/snooker/58294823</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/snooker/58294823</guid>
-            <pubDate>Sat, 21 Aug 2021 23:07:29 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA['If Flinty goes on like this he's going to score about 40 this year' - Cardiff's Morrison]]></title>
             <description><![CDATA[Cardiff captain Sean Morrison praises fellow defender Aden Flint after his goal double and one from Morrison himself earn a 3-1 win over Millwall.]]></description>
             <link>https://www.bbc.co.uk/sport/av/football/58295084</link>
@@ -163,18 +156,25 @@
             <pubDate>Sun, 22 Aug 2021 08:57:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Dwayne Peel: Scarlets boss is potentially a very, very good coach - Sean Fitzpatrick]]></title>
-            <description><![CDATA[New Zealand legend Sean Fitzpatrick sings the praises of Scarlets boss Dwayne Peel ahead of the 2021-22 season.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/rugby-union/58293579</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/rugby-union/58293579</guid>
-            <pubDate>Sun, 22 Aug 2021 09:04:33 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Tranmere Rovers 0-1 Newport County: Alex Fisher gives Exiles winning edge]]></title>
             <description><![CDATA[Striker Alex Fisher marks his first start for Newport County with the winning goal away to Tranmere Rovers.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58209967</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58209967</guid>
             <pubDate>Sat, 21 Aug 2021 16:04:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cardiff City 3-1 Millwall: Centre-back Aden Flint scores twice for Bluebirds]]></title>
+            <description><![CDATA[Aden Flint scores two goals in four second-half minutes to extend Cardiff City's unbeaten start to the season with a 3-1 victory over Millwall.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58209737</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58209737</guid>
+            <pubDate>Sat, 21 Aug 2021 15:54:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Solihull 2-2 Wrexham: Drama as Joe Sbarra denies Wrexham late on]]></title>
+            <description><![CDATA[Wrexham start their first full season under Hollywood owners Ryan Reynolds and Rob McElhenney with a dramatic 2-2 draw at Solihull Moors.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58229898</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58229898</guid>
+            <pubDate>Sat, 21 Aug 2021 15:59:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Chwaraewr rygbi'n marw ar ôl cwympo yn ystod gêm]]></title>
