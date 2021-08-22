@@ -1,6 +1,6 @@
 1. [Afghanistan: US orders civilian jets to join evacuation](https://www.bbc.co.uk/news/world-asia-58299804) - A Pentagon statement says 18 commercial aircraft will help with the evacuation effort.
 2. [Afghanistan: Tony Blair says withdrawal was driven by imbecilic slogan](https://www.bbc.co.uk/news/uk-58295384) - The ex-PM criticises the US decision to withdraw its military as "tragic, dangerous, and unnecessary".
-3. [Afghanistan: British evacuation improving, says armed forces minister](https://www.bbc.co.uk/news/uk-58296816) - More than 1,700 people have been airlifted out of Afghanistan in the past 24 hours, says James Heappey.
+3. [Afghanistan: Kabul evacuation gathering pace, says ambassador](https://www.bbc.co.uk/news/uk-58296816) - More than 5,000 people have so far been airlifted out of Afghanistan on British flights, ambassador says.
 4. [Covid: New Zealand pandemic strategy in doubt amid Delta spread](https://www.bbc.co.uk/news/world-asia-58297895) - The highly infectious Delta variant "does change the game", the Covid response minister says.
 5. [Everly Brothers: US rock 'n' roll star Don Everly dies aged 84](https://www.bbc.co.uk/news/world-us-canada-58297621) - The rock 'n' roll duo were known for their harmonies and influenced bands including The Beatles.
 6. [Afghanistan: The BBC's Lyse Doucet reports from Kabul airport](https://www.bbc.co.uk/news/world-asia-58300416) - The BBC's Lyse Doucet witnesses Afghan men, women and children fleeing the Taliban regime.
