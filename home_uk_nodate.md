@@ -6,7 +6,7 @@
 6. [Afghanistan: The BBC's Lyse Doucet reports from Kabul airport](https://www.bbc.co.uk/news/world-asia-58300416) - The BBC's Lyse Doucet witnesses Afghan men, women and children fleeing the Taliban regime.
 7. [Covid: Antibody tests offered to public for first time](https://www.bbc.co.uk/news/uk-58293249) - The UK-wide scheme for adults who test positive for coronavirus will launch next week.
 8. [Arsenal 0-2 Chelsea: Romelu Lukaku scores as Blues win London derby](https://www.bbc.co.uk/sport/football/58193457) - Romelu Lukaku scores his first ever Chelsea goal - almost a decade after his debut - as Thomas Tuchel's team deservedly beat Arsenal.
-9. [Storm Henri: US East Coast warned of significant damage](https://www.bbc.co.uk/news/world-us-canada-58294809) - New York state declares a state of emergency as officials warn of flooding and power outages.
+9. [Storm Henri makes landfall at Rhode Island](https://www.bbc.co.uk/news/world-us-canada-58300877) - More than 120,000 homes are without power as millions of people warned to expect significant damage.
 10. [Afghanistan: Afghan woman gives birth to baby girl on US evacuation plane](https://www.bbc.co.uk/news/world-asia-58297893) - The woman went into labour en route to Ramstein Air Base in Germany and gave birth on the plane.
 11. [Eileen Barrott death: Husband charged with murder](https://www.bbc.co.uk/news/uk-england-leeds-58291273) - Eileen Barrott died at the couple's home a week ago after being found seriously injured.
 12. [Man arrested over Birmingham Gay Village attack](https://www.bbc.co.uk/news/uk-england-birmingham-58297761) - Two men needed hospital treatment after the attack which began with abuse from inside a car.
