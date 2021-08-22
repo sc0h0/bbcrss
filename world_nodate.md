@@ -1,4 +1,4 @@
-1. [Afghanistan: US fears risk of Islamic State attack at Kabul airport](https://www.bbc.co.uk/news/world-asia-58293832) - A security alert is issued over "security threats" as thousands of people throng Kabul airport.
+1. [Afghanistan: US fears risk of Islamic State attack at Kabul airport](https://www.bbc.co.uk/news/world-asia-58293832) - An alert is issued over "security threats" as thousands of people throng Kabul airport.
 2. [Hurricane Grace kills eight as it rips through eastern Mexico](https://www.bbc.co.uk/news/world-latin-america-58295511) - The powerful storm brings torrential rain and high winds, causing power cuts and flooding.
 3. [Hurricane Henri: US East Coast warned of significant damage](https://www.bbc.co.uk/news/world-us-canada-58294809) - New York state declares a state of emergency as officials warn of flooding and power outages.
 4. [Kenya holds biggest ever animal census](https://www.bbc.co.uk/news/world-africa-58281212) - All wildlife on land and sea is being counted to help Kenya's conservation plans and tourism.

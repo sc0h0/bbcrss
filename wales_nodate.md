@@ -21,8 +21,8 @@
 21. [Tranmere Rovers 0-1 Newport County: Alex Fisher gives Exiles winning edge](https://www.bbc.co.uk/sport/football/58209967) - Striker Alex Fisher marks his first start for Newport County with the winning goal away to Tranmere Rovers.
 22. [Solihull 2-2 Wrexham: Drama as Joe Sbarra denies Wrexham late on](https://www.bbc.co.uk/sport/football/58229898) - Wrexham start their first full season under Hollywood owners Ryan Reynolds and Rob McElhenney with a dramatic 2-2 draw at Solihull Moors.
 23. [Sean Fitzpatrick: Wales must boost regional game to challenge top sides, says All Blacks great](https://www.bbc.co.uk/sport/rugby-union/58271324) - New Zealand great Sean Fitzpatrick says Wales must build from the bottom up if the national team is ever to taste victory over the All Blacks again.
-24. [Galw am symud gwastraff asbestos o draeth Porth Tywyn](https://www.bbc.co.uk/newyddion/58280824) - Ymgyrchwyr yn ofni am niwed posib, ond y cyngor yn dweud eu bod yn cymryd camau er risg "isel".
-25. [Achub ci oedd yn gaeth ar ôl syrthio o glogwyn](https://www.bbc.co.uk/newyddion/58294400) - Bu'n rhaid i bum aelod o griw'r RNLI helpu achub cocker spaniel oedd yn gaeth rhwng creigiau.
-26. [Rhybudd stormydd i rannau o Gymru ddydd Sadwrn](https://www.bbc.co.uk/newyddion/58282643) - Siroedd y dwyrain sy'n fwyaf tebygol o gael eu heffeithio wrth i rybudd melyn ddod i rym am 12:00.
+24. [Apêl goroeswr sepsis am ofal addas i oedolion ifanc](https://www.bbc.co.uk/newyddion/58280830) - Roedd Hollie Smith yn 18 ac ar fin cael prawf i dîm pêl-droed Cymru cyn cael ei tharo'n ddifrifol wael.
+25. [Galw am symud gwastraff asbestos o draeth Porth Tywyn](https://www.bbc.co.uk/newyddion/58280824) - Ymgyrchwyr yn ofni am niwed posib, ond y cyngor yn dweud eu bod yn cymryd camau er risg "isel".
+26. [Achub ci oedd yn gaeth ar ôl syrthio o glogwyn](https://www.bbc.co.uk/newyddion/58294400) - Bu'n rhaid i bum aelod o griw'r RNLI helpu achub cocker spaniel oedd yn gaeth rhwng creigiau.
 27. [Pum munud gyda'r awdur a'r cyflwynydd Mike Parker](https://www.bbc.co.uk/newyddion/58282366) - Pum munud yng nghwmni enillydd gwobr Owain Glyndŵr yng Ngŵyl Machynlleth eleni Mike Parker.
 28. [Y Bencampwriaeth: Caerdydd 3-1 Millwall](https://www.bbc.co.uk/newyddion/58291608) - Record ddiguro Caerdydd yn parhau wrth i Aden Flint sgorio ddwywaith am yr eildro mewn wythnos.
