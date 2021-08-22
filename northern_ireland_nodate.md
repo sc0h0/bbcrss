@@ -1,5 +1,5 @@
 1. [Covid-19: Vaccination 'big push' continues in Northern Ireland](https://www.bbc.co.uk/news/uk-northern-ireland-58294894) - The most recent data shows that Northern Ireland has the UK's lowest Covid vaccination rate.
-2. [Covid-19: Eleven more more Covid-related deaths and 1,485 new cases](https://www.bbc.co.uk/news/uk-northern-ireland-58298466) - The total number of deaths linked to Covid-19 in NI since the start of the pandemic is now 2,302.
+2. [Covid-19: Eleven more Covid-related deaths and 1,485 new cases](https://www.bbc.co.uk/news/uk-northern-ireland-58298466) - The total number of deaths linked to Covid-19 in NI since the start of the pandemic is now 2,302.
 3. [Covid: Antibody tests offered to public for first time](https://www.bbc.co.uk/news/uk-58293249) - The UK-wide scheme for adults who test positive for coronavirus will launch next week.
 4. [Londonderry: Unionists condemn 'shots' near republican mural](https://www.bbc.co.uk/news/uk-northern-ireland-58297142) - The incident, in the Galliagh area of Derry, took place at a mural of hunger striker Michael Devine.
 5. [Boris Johnson's Irish Sea tunnel vision - roadworthy or pipe dream?](https://www.bbc.co.uk/news/uk-northern-ireland-58269437) - A BBC documentary asks how serious is Boris Johnson about a link from Scotland to Northern Ireland?

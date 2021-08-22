@@ -21,7 +21,8 @@
 21. ['I play carrom with my feet'](https://www.bbc.co.uk/news/world-asia-india-58265853) - Twenty-three-year-old Harshad Gothankar was born without arms, but he is now a state carrom champion.
 22. [Drag Race UK queens: Covid 'pushed us creatively'](https://www.bbc.co.uk/news/newsbeat-58270184) - Newsbeat has spoken to all 12 queens taking part in the new series.
 23. [Afghanistan: Where will refugees go after Taliban takeover?](https://www.bbc.co.uk/news/world-asia-58283177) - Thousands of people are scrambling to flee Afghanistan after the Taliban took control of the country.
-24. [Afghanistan: The desperate scramble to escape](https://www.bbc.co.uk/news/world-asia-58286000) - The BBC witnesses scenes of chaos and panic as thousands still crowd Kabul's airport.
-25. [Turmoil in Afghanistan hits close to home in America too](https://www.bbc.co.uk/news/world-us-canada-58288575) - Christine's husband was killed in Afghanistan - she's horrified by the Taliban's return to power.
-26. [Biden's week of blame and tumult after Kabul fall](https://www.bbc.co.uk/news/world-us-canada-58286766) - How the fall of Kabul stunned the Biden administration and spawned the worst week of his presidency.
-27. [Afghan crisis: Russia plans for new era with Taliban rule](https://www.bbc.co.uk/news/world-europe-58265934) - While Western governments raced to get their people out, Russia appears unfazed by the takeover.
+24. [Afghanistan: Sport bodies call for emergency evacuation of female players](https://www.bbc.co.uk/sport/football/58284092) - Fifa and players' union Fifpro call on governments to arrange the emergency evacuation of female footballers in Afghanistan.
+25. [Afghanistan: The desperate scramble to escape](https://www.bbc.co.uk/news/world-asia-58286000) - The BBC witnesses scenes of chaos and panic as thousands still crowd Kabul's airport.
+26. [Turmoil in Afghanistan hits close to home in America too](https://www.bbc.co.uk/news/world-us-canada-58288575) - Christine's husband was killed in Afghanistan - she's horrified by the Taliban's return to power.
+27. [Biden's week of blame and tumult after Kabul fall](https://www.bbc.co.uk/news/world-us-canada-58286766) - How the fall of Kabul stunned the Biden administration and spawned the worst week of his presidency.
+28. [Afghan crisis: Russia plans for new era with Taliban rule](https://www.bbc.co.uk/news/world-europe-58265934) - While Western governments raced to get their people out, Russia appears unfazed by the takeover.
