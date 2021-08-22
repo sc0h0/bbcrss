@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 22 Aug 2021 07:02:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Aug 2021 11:10:00 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -21,6 +21,13 @@
             <link>https://www.bbc.co.uk/news/world-asia-58293832</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58293832</guid>
             <pubDate>Sun, 22 Aug 2021 03:34:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Afghanistan: Woman gives birth on US evacuation plane]]></title>
+            <description><![CDATA[The woman went into labour en route to Ramstein Air Base in Germany and gave birth on the plane.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58297893</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58297893</guid>
+            <pubDate>Sun, 22 Aug 2021 10:58:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hurricane Grace kills eight as it rips through eastern Mexico]]></title>
@@ -37,18 +44,18 @@
             <pubDate>Sun, 22 Aug 2021 01:00:15 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Everly Brothers: US rock 'n' roll star Don Everly dies aged 84]]></title>
+            <description><![CDATA[Don Everly and his brother, Phil, had hits including Bye Bye Love and All I Have to Do Is Dream.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-58297621</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-58297621</guid>
+            <pubDate>Sun, 22 Aug 2021 10:22:04 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Kenya holds biggest ever animal census]]></title>
             <description><![CDATA[All wildlife on land and sea is being counted to help Kenya's conservation plans and tourism.]]></description>
             <link>https://www.bbc.co.uk/news/world-africa-58281212</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-58281212</guid>
             <pubDate>Sat, 21 Aug 2021 23:14:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: Australian police clash with anti-lockdown protesters]]></title>
-            <description><![CDATA[Hundreds of people are arrested after rallies against lockdown measures in Melbourne and Sydney.]]></description>
-            <link>https://www.bbc.co.uk/news/world-australia-58291873</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-australia-58291873</guid>
-            <pubDate>Sat, 21 Aug 2021 10:42:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Elaine Thompson-Herah runs second fastest time in women's 100m history]]></title>
@@ -58,11 +65,11 @@
             <pubDate>Sat, 21 Aug 2021 22:22:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Nigeria's royal wedding: Private jets, glitz and glamour]]></title>
-            <description><![CDATA[President Buhari's son marries the daughter of a religious leader in one of Nigeria's events of the year.]]></description>
-            <link>https://www.bbc.co.uk/news/world-africa-58291132</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-58291132</guid>
-            <pubDate>Sat, 21 Aug 2021 15:23:03 GMT</pubDate>
+            <title><![CDATA[Covid: Australian police clash with anti-lockdown protesters]]></title>
+            <description><![CDATA[Hundreds of people are arrested after rallies against lockdown measures in Melbourne and Sydney.]]></description>
+            <link>https://www.bbc.co.uk/news/world-australia-58291873</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-australia-58291873</guid>
+            <pubDate>Sat, 21 Aug 2021 10:42:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Poison algae may have killed California family, police say]]></title>
@@ -86,13 +93,6 @@
             <pubDate>Fri, 20 Aug 2021 18:38:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Ever Given: Cargo ship returns through Suez Canal it blocked]]></title>
-            <description><![CDATA[Global trade was disrupted in March when the massive container ship became stuck in the waterway.]]></description>
-            <link>https://www.bbc.co.uk/news/world-middle-east-58288512</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-58288512</guid>
-            <pubDate>Fri, 20 Aug 2021 21:38:50 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Haiti earthquake: Tensions rise in struggle to get aid to victims]]></title>
             <description><![CDATA[Five days after a powerful earthquake struck, hundreds are missing and people are desperate for aid.]]></description>
             <link>https://www.bbc.co.uk/news/world-latin-america-58284713</link>
@@ -105,6 +105,13 @@
             <link>https://www.bbc.co.uk/news/stories-58259503</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/stories-58259503</guid>
             <pubDate>Sat, 21 Aug 2021 23:03:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nigeria's royal wedding: Private jets, glitz and glamour]]></title>
+            <description><![CDATA[President Buhari's son marries the daughter of a religious leader in one of Nigeria's events of the year.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-58291132</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-58291132</guid>
+            <pubDate>Sat, 21 Aug 2021 15:23:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Algeria's desperate wildfire fight: Buckets and branches]]></title>

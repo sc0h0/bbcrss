@@ -1,11 +1,11 @@
 1. [Eileen Barrott death: Husband charged with murder](https://www.bbc.co.uk/news/uk-england-leeds-58291273) - Eileen Barrott died at the couple's home a week ago after being found seriously injured.
 2. [Five hurt in high-speed crash at Lincoln car meet](https://www.bbc.co.uk/news/uk-england-lincolnshire-58297401) - Police say the five people were seriously injured when two cars went into spectators.
 3. [Ferrybridge chimney stacks demolished in controlled explosion](https://www.bbc.co.uk/news/uk-england-leeds-58297602) - The controlled explosion takes place at a former coal-fired power station in West Yorkshire.
-4. ['Race should not be a factor in my destiny'](https://www.bbc.co.uk/news/uk-england-london-58283709) - A young Londoner beats 23,000 other entrants in one of the country's largest anti-racism competitions.
+4. [Man arrested over Birmingham Gay Village attack](https://www.bbc.co.uk/news/uk-england-birmingham-58297761) - Two men needed hospital treatment after the attack which began with abuse from inside a car.
 5. [Widowed parents set up charity to help the bereaved](https://www.bbc.co.uk/news/uk-england-wiltshire-58236883) - Wiltshire Moon and Stars aims to be a social support network for families going through loss.
 6. [Afghanistan: Trapped Nottingham family reach Dubai](https://www.bbc.co.uk/news/uk-england-nottinghamshire-58293789) - The family with two young children were helped to escape from Kabul by the children's head teacher.
-7. [Formerly homeless asylum seeker retrains as vicar](https://www.bbc.co.uk/news/uk-england-nottinghamshire-58238063) - A doctor who fled Nigeria to protect her daughters is starting to retrain as a vicar.
-8. [Three men sought by police in Birmingham Gay Village attack probe](https://www.bbc.co.uk/news/uk-england-birmingham-58292735) - One man was knocked unconscious in an attack which began with abuse being shouted from inside a car.
+7. ['Race should not be a factor in my destiny'](https://www.bbc.co.uk/news/uk-england-london-58283709) - A young Londoner beats 23,000 other entrants in one of the country's largest anti-racism competitions.
+8. [Formerly homeless asylum seeker retrains as vicar](https://www.bbc.co.uk/news/uk-england-nottinghamshire-58238063) - A doctor who fled Nigeria to protect her daughters is starting to retrain as a vicar.
 9. [Devon girl, 14, finishes round-Britain sailing trek](https://www.bbc.co.uk/news/uk-england-devon-58294842) - Katie McCabe sails about 1,600 nautical miles in a 26ft (8m) wooden yacht called Falanda.
 10. [Camden barbecue shooting: Police arrest fifth man](https://www.bbc.co.uk/news/uk-england-london-58297171) - Three men and two teenage boys are arrested after a shooting at a crowded communal barbecue.
 11. [Westminster double murder: Police say wanted man knew victims](https://www.bbc.co.uk/news/uk-england-london-58282070) - Detectives want to trace Lee Peacock after two people were found dead with knife injuries in London.
