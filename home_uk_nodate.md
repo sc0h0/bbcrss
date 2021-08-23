@@ -1,8 +1,8 @@
 1. [Anti-Taliban resistance group says it has thousands of fighters](https://www.bbc.co.uk/news/world-asia-58239156) - The group says it wants to pursue peace, but if that fails it claims to have thousands of fighters ready.
 2. [Afghanistan evacuations: 'Hours not weeks' for final UK flights](https://www.bbc.co.uk/news/uk-58302734) - The defence secretary says the UK will leave Kabul alongside next week's planned US withdrawal.
 3. [Hours without food or water in Kabul airport 'hell'](https://www.bbc.co.uk/news/uk-58305040) - An Afghan man who worked for the British army tells the BBC he and his family cannot get through the crowds.
-4. [Paralympians Simmonds and Stubbs to carry GB flag](https://www.bbc.co.uk/sport/disability-sport/58303759) - Swimmer Ellie Simmonds and archer John Stubbs will carry the GB flag at Tuesday's Tokyo Paralympics opening ceremony.
-5. [Gogglebox star Mary Cook dies aged 92](https://www.bbc.co.uk/news/entertainment-arts-58305900) - She was known for her appearances on the Channel 4 show with friend Marina Wingrove.
+4. [Gogglebox star Mary Cook dies aged 92](https://www.bbc.co.uk/news/entertainment-arts-58305900) - She was known for her appearances on the Channel 4 show with friend Marina Wingrove.
+5. [Paralympians Simmonds and Stubbs to carry GB flag](https://www.bbc.co.uk/sport/disability-sport/58303759) - Swimmer Ellie Simmonds and archer John Stubbs will carry the GB flag at Tuesday's Tokyo Paralympics opening ceremony.
 6. [Storm Henri: Lightning strikes One World Trade Center](https://www.bbc.co.uk/news/world-us-canada-58304611) - The strike was captured as Storm Henri approached the north-east of the US, bringing heavy rain.
 7. [Prisoners to plug worker shortage in meat industry](https://www.bbc.co.uk/news/business-58303679) - Meat industry leaders tell the BBC the government is "keen" to link up businesses with inmates.
 8. [Brian Travers: UB40 saxophonist and songwriter dies at 62](https://www.bbc.co.uk/news/entertainment-arts-58307306) - The musician and songwriter was a founding member of the chart-topping reggae band.
