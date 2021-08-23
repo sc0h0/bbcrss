@@ -26,8 +26,8 @@
 26. [Labour plan to change universal credit to help low paid](https://www.bbc.co.uk/news/uk-politics-58308222) - The shadow work and pensions secretary says people in low paid jobs would keep more of their earnings.
 27. [Ben Wallace on airlifting Brits and Afghans out of Kabul](https://www.bbc.co.uk/news/uk-politics-58305486) - The UK will not be staying on in Afghanistan when the US leaves, says Britain's defence secretary.
 28. [Former PM Tony Blair: 'It's not just about the Afghan people... it's about our security'](https://www.bbc.co.uk/news/uk-58296950) - Tony Blair expresses his concerns about UK security following the Taliban's takeover of Afghanistan.
-29. [Tom Tugendhat on UK and Afghanistan: Anger, grief, rage](https://www.bbc.co.uk/news/uk-politics-58259509) - Tory MP Tom Tugendhat speaks of the anger, grief and rage of veterans at the "abandonment" of Afghanistan.
-30. [Harman: Women must be involved in Afghan discussions](https://www.bbc.co.uk/news/uk-politics-58272971) - A former acting Labour leader calls for women to be heard, rather than Foreign Secretary Dominic Raab.
+29. [SNP and Greens seal power-sharing deal](https://www.bbc.co.uk/news/uk-scotland-58281867) - The SNP and the Scottish Greens set out their power-sharing deal for Holyrood.
+30. [Tom Tugendhat on UK and Afghanistan: Anger, grief, rage](https://www.bbc.co.uk/news/uk-politics-58259509) - Tory MP Tom Tugendhat speaks of the anger, grief and rage of veterans at the "abandonment" of Afghanistan.
 31. [Afghanistan: Who originally supported Trump's deal with the Taliban?](https://www.bbc.co.uk/news/58271943) - UK Defence Secretary Ben Wallace now calls it a "rotten" deal but supported it at the time.
 32. [Sent to Halifax: One town's asylum story](https://www.bbc.co.uk/news/uk-politics-58270841) - What life is like for asylum seekers in a Yorkshire town - and what locals think about accepting more.
 33. [Woke: Compliment or criticism, it is now fuelling the culture wars](https://www.bbc.co.uk/news/uk-politics-58281576) - The surprising history of a term increasingly thrown around in UK political debate.

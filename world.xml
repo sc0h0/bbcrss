@@ -11,10 +11,24 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 23 Aug 2021 13:47:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Aug 2021 14:42:13 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Pfizer becomes first Covid vaccine to gain full FDA approval]]></title>
+            <description><![CDATA[It is the first Covid jab to receive federal approval, and opens the door to new vaccine mandates.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-58309254</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-58309254</guid>
+            <pubDate>Mon, 23 Aug 2021 14:40:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: Taiwan rolls out homegrown vaccine amid criticism]]></title>
+            <description><![CDATA[Taiwan's president was vaccinated with the country's first domestically developed jab named Medigen.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58301573</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58301573</guid>
+            <pubDate>Mon, 23 Aug 2021 05:02:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Tennessee flash floods kill 22 with dozens missing]]></title>
             <description><![CDATA[The death toll is expected to rise after record-breaking rainfall triggered widespread flooding.]]></description>
@@ -30,20 +44,6 @@
             <pubDate>Mon, 23 Aug 2021 11:57:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid: Taiwan rolls out homegrown vaccine amid criticism]]></title>
-            <description><![CDATA[Taiwan's president was vaccinated with the country's first domestically developed jab named Medigen.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58301573</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58301573</guid>
-            <pubDate>Mon, 23 Aug 2021 05:02:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hurricane Grace: Mexican man buries wife and five children killed in mudslide]]></title>
-            <description><![CDATA[A man and his son were the only members of a family of eight to survive a mudslide in Mexico.]]></description>
-            <link>https://www.bbc.co.uk/news/world-latin-america-58305137</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-latin-america-58305137</guid>
-            <pubDate>Mon, 23 Aug 2021 11:59:06 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Mozambique 'tuna bond' scandal: Ex-President Guebuza's son on trial]]></title>
             <description><![CDATA[Mozambique's biggest corruption scandal led donors to cut funding and an economic crisis.]]></description>
             <link>https://www.bbc.co.uk/news/world-africa-58304737</link>
@@ -56,6 +56,13 @@
             <link>https://www.bbc.co.uk/news/world-europe-58303919</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58303919</guid>
             <pubDate>Mon, 23 Aug 2021 10:32:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hurricane Grace: Mexican man buries wife and five children killed in mudslide]]></title>
+            <description><![CDATA[A man and his son were the only members of a family of eight to survive a mudslide in Mexico.]]></description>
+            <link>https://www.bbc.co.uk/news/world-latin-america-58305137</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-latin-america-58305137</guid>
+            <pubDate>Mon, 23 Aug 2021 11:59:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Chip giant's IPO hit by Beijing crackdown on business]]></title>
@@ -77,13 +84,6 @@
             <link>https://www.bbc.co.uk/sport/football/58301034</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58301034</guid>
             <pubDate>Mon, 23 Aug 2021 10:29:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: New Zealand pandemic strategy in doubt amid Delta spread]]></title>
-            <description><![CDATA[The highly infectious Delta variant "does change the game", the Covid response minister says.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58297895</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58297895</guid>
-            <pubDate>Sun, 22 Aug 2021 12:12:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Everly Brothers: US rock 'n' roll star Don Everly dies aged 84]]></title>
