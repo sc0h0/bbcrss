@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 23 Aug 2021 10:57:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Aug 2021 11:17:50 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -37,11 +37,32 @@
             <pubDate>Sun, 22 Aug 2021 21:05:52 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Man jailed over death of Annie Temple in Kinglassie]]></title>
+            <description><![CDATA[Sandeep Patel suffocated Annie Temple at her home in Kinglassie, Fife, in October 2019.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-58305777</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-58305777</guid>
+            <pubDate>Mon, 23 Aug 2021 11:04:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[SP Energy announces new green jobs to 'transform' power network]]></title>
+            <description><![CDATA[The 135 roles will help ensure the "rapid uptake" of low-carbon technology, SP Energy Networks says.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-scotland-business-58266921</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-scotland-business-58266921</guid>
+            <pubDate>Mon, 23 Aug 2021 11:15:03 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Nicola Sturgeon plea to Raab over Scot held in India]]></title>
             <description><![CDATA[The first minister calls on the foreign secretary to meet the family of a man held in prison in India for four years.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-58272701</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58272701</guid>
             <pubDate>Mon, 23 Aug 2021 05:08:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Woman, 23, dies in Tayside road crash near Ardler]]></title>
+            <description><![CDATA[The car left the A94 Coupar Angus to Forfar road, near Ardler, and struck a tree on Sunday.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-tayside-central-58304180</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-tayside-central-58304180</guid>
+            <pubDate>Mon, 23 Aug 2021 09:00:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Boy, two, has life-threatening injuries after crash]]></title>
@@ -56,13 +77,6 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58297073</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58297073</guid>
             <pubDate>Mon, 23 Aug 2021 05:14:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Woman, 23, dies in Tayside road crash near Ardler]]></title>
-            <description><![CDATA[The car left the A94 Coupar Angus to Forfar road, near Ardler, and struck a tree on Sunday.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-tayside-central-58304180</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-tayside-central-58304180</guid>
-            <pubDate>Mon, 23 Aug 2021 09:00:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Last Bus: Timothy Spall film gives teen busker big break]]></title>
@@ -84,20 +98,6 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-58302388</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58302388</guid>
             <pubDate>Mon, 23 Aug 2021 06:55:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gunshots fired at Edinburgh home in 'targeted attack']]></title>
-            <description><![CDATA[A man, woman and two young children were in the house in Edinburgh when the incident happened.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-58297984</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-58297984</guid>
-            <pubDate>Sun, 22 Aug 2021 15:35:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[In Pictures: Cyclists return for long-distance Loch Ness race]]></title>
-            <description><![CDATA[The 66-mile race was the first cycle sportive event to take place in Scotland since the easing of Covid restrictions.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-highlands-islands-58299528</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-highlands-islands-58299528</guid>
-            <pubDate>Sun, 22 Aug 2021 17:06:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid in Scotland: Where are the latest cases?]]></title>
@@ -147,6 +147,13 @@
             <link>https://www.bbc.co.uk/news/world-51235105</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-51235105</guid>
             <pubDate>Fri, 20 Aug 2021 09:14:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[In Pictures: Cyclists return for long-distance Loch Ness race]]></title>
+            <description><![CDATA[The 66-mile race was the first cycle sportive event to take place in Scotland since the easing of Covid restrictions.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-highlands-islands-58299528</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-highlands-islands-58299528</guid>
+            <pubDate>Sun, 22 Aug 2021 17:06:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Boris Johnson's Irish Sea tunnel vision - roadworthy or pipe dream?]]></title>
