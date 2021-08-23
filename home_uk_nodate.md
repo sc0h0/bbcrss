@@ -6,7 +6,7 @@
 6. [John Lydon loses court battle to stop Sex Pistols songs being used in a new TV series](https://www.bbc.co.uk/news/entertainment-arts-58303879) - The band's former frontman had objected to songs being used in a new Danny Boyle-directed TV drama.
 7. [Snowdon: Call to respect mountain amid spike in visitors](https://www.bbc.co.uk/news/uk-wales-58283816) - Litter, erosion and traffic put "significant pressure" on the mountain, says the Snowdonia Society.
 8. [Storm Henri: Lightning strikes One World Trade Center](https://www.bbc.co.uk/news/world-us-canada-58304611) - The strike was captured as Storm Henri approached the north-east of the US, bringing heavy rain.
-9. [Man arrested as Katie Price taken to hospital with injuries](https://www.bbc.co.uk/news/uk-england-essex-58257403) - Police are called to reports of an assault in the early hours of Monday morning.
+9. [Man arrested as Katie Price taken to hospital](https://www.bbc.co.uk/news/uk-england-essex-58257403) - Police are called to reports of an assault in the early hours of Monday morning.
 10. [Universal credit: Labour promises shake-up to benefit](https://www.bbc.co.uk/news/uk-politics-58304242) - The party says it would allow low income workers on universal credit to keep more of their take-home pay.
 11. [London council worker's bus odyssey sparks Twitter storm](https://www.bbc.co.uk/news/uk-england-london-58297172) - Jo Kibble got from London to Morecambe in a day on public buses - "a great way to see the country".
 12. [The Last Bus: Timothy Spall film gives teen busker big break](https://www.bbc.co.uk/news/uk-scotland-58297986) - Caitlin Agnew was just 16 when two of her songs were picked to feature on the soundtrack for The Last Bus.

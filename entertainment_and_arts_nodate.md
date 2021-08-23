@@ -1,7 +1,7 @@
 1. [Brian Travers: UB40 saxophonist and songwriter dies at 62](https://www.bbc.co.uk/news/entertainment-arts-58307306) - The musician and songwriter was a founding member of the chart-topping reggae band.
 2. [John Lydon loses court battle to stop Sex Pistols songs being used in a new TV series](https://www.bbc.co.uk/news/entertainment-arts-58303879) - The band's former frontman had objected to songs being used in a new Danny Boyle-directed TV drama.
 3. [Gogglebox viewers mourn Mary Cook](https://www.bbc.co.uk/news/entertainment-arts-58305900) - She was known for her appearances on the Channel 4 show with friend Marina Wingrove.
-4. [Love Island: What it's like having your friend in the final](https://www.bbc.co.uk/news/newsbeat-58306928) - Toby Aromolaran's teammate says he's "done some learning and provided the most laughs" in the villa.
+4. [Love Island: What it's like having your friend in the final](https://www.bbc.co.uk/news/newsbeat-58306928) - Toby Aromolaran's friend says he's "done some learning and provided the most laughs" in the villa.
 5. [Joséphine Baker to enter France's Panthéon](https://www.bbc.co.uk/news/world-europe-58303919) - Performer and World War Two resistance fighter Joséphine Baker will be honoured at the mausoleum.
 6. [Everly Brothers: US rock 'n' roll star Don Everly dies aged 84](https://www.bbc.co.uk/news/world-us-canada-58297621) - The rock 'n' roll duo were known for their harmonies and influenced bands including The Beatles.
 7. [Barakat: First South African film in Cape Town's Afrikaans dialect](https://www.bbc.co.uk/news/world-africa-58189393) - Barakat, or blessing, is the first film in Afrikaaps - a dialect of Afrikaans spoken in Cape Town.
