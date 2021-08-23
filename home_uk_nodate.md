@@ -1,10 +1,10 @@
 1. [Afghanistan: US aims to complete evacuations by deadline](https://www.bbc.co.uk/news/world-asia-58310905) - Allies step up calls to extend a 31 August withdrawal, but the Taliban insist this will violate a deal.
 2. [Afghanistan evacuations: 'Hours not weeks' for final UK flights](https://www.bbc.co.uk/news/uk-58302734) - The defence secretary says the UK will leave Kabul alongside next week's planned US withdrawal.
 3. [Afghanistan: Person on no-fly list flown to UK during Kabul evacuation](https://www.bbc.co.uk/news/uk-58311964) - However they are not deemed a person of interest to security agencies or police after an investigation.
-4. [UK orders 35 million more Pfizer vaccine doses](https://www.bbc.co.uk/news/health-58307215) - The government say it is preparing for Covid boosters to protect the most vulnerable this year.
+4. [M25: Three dead in crash involving lorry, minibus and car](https://www.bbc.co.uk/news/uk-england-essex-58312144) - A fourth person is in hospital and there have been two arrests after the collision near Waltham Abbey.
 5. [Storm Henri: Lightning strikes One World Trade Center](https://www.bbc.co.uk/news/world-us-canada-58304611) - The strike was captured as Storm Henri approached the north-east of the US, bringing heavy rain.
 6. [Love Island crowns winners on summer return](https://www.bbc.co.uk/news/entertainment-arts-58306258) - The winning couple are named on the latest series of the ITV2 dating show.
-7. [M25: Crash involving lorry, minibus and car closes part of motorway](https://www.bbc.co.uk/news/uk-england-essex-58312144) - The ambulance service says it is treating several people involved in the crash near Waltham Abbey.
+7. [UK orders 35 million more Pfizer vaccine doses](https://www.bbc.co.uk/news/health-58307215) - The government say it is preparing for Covid boosters to protect the most vulnerable this year.
 8. [Brian Travers: UB40 saxophonist and songwriter dies at 62](https://www.bbc.co.uk/news/entertainment-arts-58307306) - The musician and songwriter was a founding member of the chart-topping reggae band.
 9. [Boardmasters: 4,700 Covid cases 'may be linked' to Newquay festival](https://www.bbc.co.uk/news/uk-england-cornwall-58309660) - The full scale of infections linked to Boardmasters in Newquay will not be known for a "few days".
 10. [Man arrested as Katie Price taken to hospital](https://www.bbc.co.uk/news/uk-england-essex-58257403) - Police are called to reports of an assault in the early hours of Monday morning.
