@@ -23,7 +23,7 @@
 23. [How Afghanistan's media is changing under Taliban rule](https://www.bbc.co.uk/news/world-asia-58273011) - The Taliban are currently on a media offensive but does their rhetoric match what’s happening on the ground?
 24. [Afghanistan: Foreign troops extension 'a clear violation' - Taliban](https://www.bbc.co.uk/news/world-asia-58307188) - A Taliban spokesman says Afghans with passports can leave on commercial flights "at any time".
 25. [Afghanistan: Where will refugees go after Taliban takeover?](https://www.bbc.co.uk/news/world-asia-58283177) - Thousands of people are scrambling to flee Afghanistan after the Taliban took control of the country.
-26. [Hours without food or water in Kabul airport 'hell'](https://www.bbc.co.uk/news/uk-58305040) - An Afghan man who worked for the British army tells the BBC he and his family cannot get through the crowds.
-27. [Afghanistan crisis: 'Hey world, do you care what happens here?'](https://www.bbc.co.uk/news/world-asia-58297623) - A young woman shares her fears a week after the Taliban takeover of Afghanistan.
-28. [Afghan baby girl born on US evacuation flight](https://www.bbc.co.uk/news/world-asia-58297893) - The woman went into labour en route to Ramstein Air Base in Germany and gave birth on the plane.
-29. [Afghanistan: The desperate scramble to escape](https://www.bbc.co.uk/news/world-asia-58286000) - The BBC witnesses scenes of chaos and panic as thousands still crowd Kabul's airport.
+26. ['Hours not weeks for UK Afghan evacuation'](https://www.bbc.co.uk/news/uk-58302734) - The defence secretary says the UK will leave Kabul alongside next week's planned US withdrawal.
+27. [Hours without food or water in Kabul airport 'hell'](https://www.bbc.co.uk/news/uk-58305040) - An Afghan man who worked for the British army tells the BBC he and his family cannot get through the crowds.
+28. [Afghanistan crisis: 'Hey world, do you care what happens here?'](https://www.bbc.co.uk/news/world-asia-58297623) - A young woman shares her fears a week after the Taliban takeover of Afghanistan.
+29. [Afghan baby girl born on US evacuation flight](https://www.bbc.co.uk/news/world-asia-58297893) - The woman went into labour en route to Ramstein Air Base in Germany and gave birth on the plane.
