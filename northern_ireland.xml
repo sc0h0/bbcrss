@@ -11,37 +11,37 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 23 Aug 2021 16:26:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Aug 2021 16:55:44 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
-            <title><![CDATA[Covid-19: Robin Swann says 'time not right' for restrictions' return]]></title>
-            <description><![CDATA[Robin Swann says he is concerned about a rise in cases, but ministers will look at next steps in September.]]></description>
+            <title><![CDATA[Covid-19: More than 12,000 vaccine doses given out at weekend]]></title>
+            <description><![CDATA[It comes as the health minister says the time is not right to re-impose tighter restrictions in NI.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58300969</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58300969</guid>
-            <pubDate>Mon, 23 Aug 2021 13:30:08 GMT</pubDate>
+            <pubDate>Mon, 23 Aug 2021 16:34:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: Nine more Covid-related deaths and 1,320 new cases]]></title>
             <description><![CDATA[There are currently 352 patients with Covid-19 in Northern Ireland's hospitals, with 43 patients in ICU.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58308422</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58308422</guid>
-            <pubDate>Mon, 23 Aug 2021 13:21:08 GMT</pubDate>
+            <pubDate>Mon, 23 Aug 2021 16:43:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Samantha Willis: Funeral of woman who died with Covid-19 after giving birth]]></title>
+            <description><![CDATA[Samantha Willis, who had Covid-19, died after giving birth to her fourth child.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58309750</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58309750</guid>
+            <pubDate>Mon, 23 Aug 2021 16:54:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Londonderry: Police defend response to shots fired at republican mural]]></title>
             <description><![CDATA[The police say officers were in the area when shots were fired before a commemoration in Londonderry.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58308370</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58308370</guid>
-            <pubDate>Mon, 23 Aug 2021 15:11:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Afghanistan: 'Race against time' to rescue interpreter's family]]></title>
-            <description><![CDATA[A naval officer says the family of a man he worked with in Afghanistan are under threat.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58303222</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58303222</guid>
-            <pubDate>Mon, 23 Aug 2021 09:49:29 GMT</pubDate>
+            <pubDate>Mon, 23 Aug 2021 16:52:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Union concern over chief nursing officer departure]]></title>
@@ -51,11 +51,11 @@
             <pubDate>Mon, 23 Aug 2021 15:01:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Magee Medical School finally opens in Londonderry for 70 students]]></title>
-            <description><![CDATA[Funding problems delayed the opening at Ulster University's Magee campus in Londonderry.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58300292</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58300292</guid>
-            <pubDate>Mon, 23 Aug 2021 15:21:49 GMT</pubDate>
+            <title><![CDATA[Afghanistan: 'Race against time' to rescue interpreter's family]]></title>
+            <description><![CDATA[A naval officer says the family of a man he worked with in Afghanistan are under threat.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58303222</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58303222</guid>
+            <pubDate>Mon, 23 Aug 2021 09:49:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ulster Rugby: 10,000 supporters can attend Kingspan for pre-season friendly against Saracens]]></title>
@@ -63,6 +63,13 @@
             <link>https://www.bbc.co.uk/sport/rugby-union/58307092</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/58307092</guid>
             <pubDate>Mon, 23 Aug 2021 11:55:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Magee Medical School finally opens in Londonderry for 70 students]]></title>
+            <description><![CDATA[Funding problems delayed the opening at Ulster University's Magee campus in Londonderry.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58300292</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58300292</guid>
+            <pubDate>Mon, 23 Aug 2021 15:21:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Derry medical school 'a dream come true']]></title>
@@ -125,7 +132,7 @@
             <description><![CDATA[Anyone aged 18 can now get a coronavirus jab at walk-in centres across Northern Ireland.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-57863840</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57863840</guid>
-            <pubDate>Sat, 21 Aug 2021 18:04:36 GMT</pubDate>
+            <pubDate>Mon, 23 Aug 2021 16:35:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: Thousands queue across NI for Big Jab Weekend]]></title>
