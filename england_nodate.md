@@ -1,6 +1,6 @@
-1. [Gambling: Poorer UK towns found to have the most betting shops, study shows](https://www.bbc.co.uk/news/business-58300899) - Areas with the highest number of betting shops per capita include Glasgow, Liverpool and Middlesbrough.
+1. [Westminster double murder: Victims named as police hunt continues](https://www.bbc.co.uk/news/uk-england-london-58304303) - Sharon Pickles and Clinton Ashmore both died from a stab wound to the neck.
 2. [RMT threatens strike action over legionella on trains](https://www.bbc.co.uk/news/uk-england-london-58298711) - The RMT has launched a dispute after trace amounts of legionella were found in four trains' toilets.
-3. [Eileen Barrott death: Husband charged with murder](https://www.bbc.co.uk/news/uk-england-leeds-58291273) - Eileen Barrott died at the couple's home a week ago after being found seriously injured.
+3. [Gambling: Poorer UK towns found to have the most betting shops, study shows](https://www.bbc.co.uk/news/business-58300899) - Areas with the highest number of betting shops per capita include Glasgow, Liverpool and Middlesbrough.
 4. [Southend Sober Socials: 'You can have a blast without the booze'](https://www.bbc.co.uk/news/uk-england-essex-58173941) - An event in Essex is aiming to "normalise socialising" without alcohol.
 5. [Coronavirus: Young people warn of long Covid amid jab drive](https://www.bbc.co.uk/news/uk-58301011) - The government says it has met its target to offer all 16 and 17-year-olds in England a vaccine.
 6. [Afghanistan: Trapped Nottingham family reach Dubai](https://www.bbc.co.uk/news/uk-england-nottinghamshire-58293789) - The family with two young children were helped to escape from Kabul by the children's head teacher.
