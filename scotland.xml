@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 23 Aug 2021 05:47:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Aug 2021 06:12:51 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -21,6 +21,20 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-58272701</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58272701</guid>
             <pubDate>Mon, 23 Aug 2021 05:08:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Edinburgh toy shop owner warned of stock shortages in Christmas run-up]]></title>
+            <description><![CDATA[Suppliers have told toy shop owners a shortage of HGV drivers, among other problems, could have an impact.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-scotland-business-58299384</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-scotland-business-58299384</guid>
+            <pubDate>Mon, 23 Aug 2021 05:41:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Scotland's papers: 'Fireball' police cars and 16-hour ambulance wait]]></title>
+            <description><![CDATA[Fears over the safety of some police cars and a 98-year-old's long wait for a paramedic make the front pages.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-58302388</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58302388</guid>
+            <pubDate>Mon, 23 Aug 2021 05:52:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Rangers probe alleged racial abuse of Celtic's Furuhashi]]></title>
@@ -44,13 +58,6 @@
             <pubDate>Mon, 23 Aug 2021 05:09:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Edinburgh toy shop owner warned of stock shortages in Christmas run-up]]></title>
-            <description><![CDATA[Suppliers have told toy shop owners a shortage of HGV drivers, among other problems, could have an impact.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-scotland-business-58299384</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-scotland-business-58299384</guid>
-            <pubDate>Mon, 23 Aug 2021 05:41:03 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Gunshots fired at Edinburgh home in 'targeted attack']]></title>
             <description><![CDATA[A man, woman and two young children were in the house in Edinburgh when the incident happened.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-58297984</link>
@@ -58,18 +65,18 @@
             <pubDate>Sun, 22 Aug 2021 15:35:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[In Pictures: Cyclists return for long-distance Loch Ness race]]></title>
-            <description><![CDATA[The 66-mile race was the first cycle sportive event to take place in Scotland since the easing of Covid restrictions.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-highlands-islands-58299528</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-highlands-islands-58299528</guid>
-            <pubDate>Sun, 22 Aug 2021 17:06:46 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Man dies in hospital after Stonehaven boat capsize rescue]]></title>
             <description><![CDATA[The 61-year-old was with two other men in a small fishing boat when it overturned in Catterline Bay, Stonehaven.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-58299011</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-58299011</guid>
             <pubDate>Sun, 22 Aug 2021 15:08:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[In Pictures: Cyclists return for long-distance Loch Ness race]]></title>
+            <description><![CDATA[The 66-mile race was the first cycle sportive event to take place in Scotland since the easing of Covid restrictions.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-highlands-islands-58299528</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-highlands-islands-58299528</guid>
+            <pubDate>Sun, 22 Aug 2021 17:06:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid in Scotland: Education Secretary Shirley-Anne Somerville tests positive]]></title>
@@ -91,13 +98,6 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-scotland-politics-58293053</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-scotland-politics-58293053</guid>
             <pubDate>Sun, 22 Aug 2021 08:13:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Eileen Barrott death: Husband charged with murder]]></title>
-            <description><![CDATA[Eileen Barrott died at the couple's home a week ago after being found seriously injured.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-leeds-58291273</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-leeds-58291273</guid>
-            <pubDate>Sun, 22 Aug 2021 08:26:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid in Scotland: Where are the latest cases?]]></title>
@@ -226,6 +226,13 @@
             <pubDate>Sun, 15 Aug 2021 16:07:22 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA['Hat-trick hero Turnbull a Rolls-Royce who'll score a barrowload for Celtic']]></title>
+            <description><![CDATA[Sportscene pundits dissect the impact of David Turnbull after his first career hat-trick in Celtic's 6-0 rout of St Mirren.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/football/58298351</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/58298351</guid>
+            <pubDate>Mon, 23 Aug 2021 06:07:28 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Ross County 2-4 Rangers: Visitors secure thrilling win]]></title>
             <description><![CDATA[Scott Arfield came off the bench to end Ross County's comeback as Rangers averted a second successive Scottish Premiership slip-up.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58215750</link>
@@ -245,13 +252,6 @@
             <link>https://www.bbc.co.uk/sport/football/58215757</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58215757</guid>
             <pubDate>Sun, 22 Aug 2021 15:54:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dundee 2-2 Hibernian: Late McGowan header earns hosts point in entertaining draw]]></title>
-            <description><![CDATA[Hibernian move to the top of the Scottish Premiership despite Paul McGowan's late header earning Dundee a point in a pulsating draw.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58215736</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58215736</guid>
-            <pubDate>Sun, 22 Aug 2021 13:12:54 GMT</pubDate>
         </item>
     </channel>
 </rss>

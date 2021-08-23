@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 23 Aug 2021 05:44:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Aug 2021 06:11:55 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -37,6 +37,13 @@
             <pubDate>Mon, 23 Aug 2021 05:02:36 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Afghanistan: India evacuates its stranded citizens]]></title>
+            <description><![CDATA[A batch of 146 stranded Indians landed in Delhi on Monday.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-india-58301893</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-58301893</guid>
+            <pubDate>Mon, 23 Aug 2021 05:28:57 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Afghanistan: Where will refugees go after Taliban takeover?]]></title>
             <description><![CDATA[Thousands of people are scrambling to flee Afghanistan after the Taliban took control of the country.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-58283177</link>
@@ -49,6 +56,13 @@
             <link>https://www.bbc.co.uk/news/world-asia-58277226</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58277226</guid>
             <pubDate>Sun, 22 Aug 2021 23:05:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Chip giant's IPO hit by Beijing crackdown on business]]></title>
+            <description><![CDATA[The share listing of BYD Semiconductor has been suspended due to a regulatory investigation.]]></description>
+            <link>https://www.bbc.co.uk/news/business-58301603</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58301603</guid>
+            <pubDate>Mon, 23 Aug 2021 06:05:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why a US military base became a centre for Chinese Covid conspiracies]]></title>
@@ -77,13 +91,6 @@
             <link>https://www.bbc.co.uk/news/world-australia-58291873</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-australia-58291873</guid>
             <pubDate>Sat, 21 Aug 2021 10:42:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nine Afghan girl robotics team members safe in Qatar]]></title>
-            <description><![CDATA[The all-girls team, known as the "Afghan Dreamers" have made headlines around the world.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-58286398</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-58286398</guid>
-            <pubDate>Fri, 20 Aug 2021 20:28:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Afghanistan: 'Women should fight for the right to work']]></title>
