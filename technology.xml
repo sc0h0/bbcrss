@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 23 Aug 2021 16:51:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Aug 2021 17:20:43 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Covid: Most popular Facebook link in US spread vaccine doubt]]></title>
+            <description><![CDATA[The social media giant has revealed its most clicked-on links in the first quarter of 2021 in the US.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-58305149</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-58305149</guid>
+            <pubDate>Mon, 23 Aug 2021 17:11:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitcoin comes to UK PayPal - but not for payments]]></title>
             <description><![CDATA[PayPal will allow cryptocurrency investment - but the assets cannot be used to make payments.]]></description>
@@ -84,13 +91,6 @@
             <link>https://www.bbc.co.uk/news/technology-58277175</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-58277175</guid>
             <pubDate>Fri, 20 Aug 2021 04:45:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hackers steal nearly $100m in Japan crypto heist]]></title>
-            <description><![CDATA[The incident comes days after $600m of cryptocurrencies was stolen from another digital platform.]]></description>
-            <link>https://www.bbc.co.uk/news/business-58277359</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-58277359</guid>
-            <pubDate>Fri, 20 Aug 2021 03:35:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The NI inventor who saved thousands of lives]]></title>
