@@ -5,8 +5,8 @@
 5. [Blackley rape: Dog walker, 17, attacked in Manchester park](https://www.bbc.co.uk/news/uk-england-manchester-58306390) - The "horrendous" attack on the girl took place as she was walking through a park in Blackley.
 6. [RMT threatens strike action over legionella on trains](https://www.bbc.co.uk/news/uk-england-london-58298711) - The RMT has launched a dispute after trace amounts of legionella were found in four trains' toilets.
 7. [London council worker's bus odyssey sparks Twitter storm](https://www.bbc.co.uk/news/uk-england-london-58297172) - Jo Kibble got from London to Morecambe in a day on public buses - "a great way to see the country".
-8. [Grimsby: Four-year-old girl falls from moving car](https://www.bbc.co.uk/news/uk-england-lincolnshire-58304472) - The child is being treated for potentially life-threatening injuries, Humberside Police say.
-9. [Coronavirus: Young long Covid sufferers lead vaccine drive](https://www.bbc.co.uk/news/uk-58301011) - The government says it has met its target to offer all 16 and 17-year-olds in England a vaccine.
+8. [Man arrested as Katie Price taken to hospital with injuries](https://www.bbc.co.uk/news/uk-england-essex-58257403) - Police are called to reports of an assault in the early hours of Monday morning.
+9. [Grimsby: Four-year-old girl falls from moving car](https://www.bbc.co.uk/news/uk-england-lincolnshire-58304472) - The child is being treated for potentially life-threatening injuries, Humberside Police say.
 10. [Southampton FC refunds fans after St Mary's entry delays](https://www.bbc.co.uk/news/uk-england-hampshire-58303011) - Saints fans were left queuing outside the stadium, missing the start of the first home game of the season.
 11. [Gambling: Poorer UK towns found to have the most betting shops, study shows](https://www.bbc.co.uk/news/business-58300899) - Areas with the highest number of betting shops per capita include Glasgow, Liverpool and Middlesbrough.
 12. [Brian Travers: UB40 saxophonist and songwriter dies at 62](https://www.bbc.co.uk/news/entertainment-arts-58307306) - The musician and songwriter was a founding member of the chart-topping reggae band.
