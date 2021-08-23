@@ -23,6 +23,6 @@
 23. ['If Flinty goes on like this he's going to score about 40 this year' - Cardiff's Morrison](https://www.bbc.co.uk/sport/av/football/58295084) - Cardiff captain Sean Morrison praises fellow defender Aden Flint after his goal double and one from Morrison himself earn a 3-1 win over Millwall.
 24. [Pryder am effaith Statws Treftadaeth ar gymunedau llechi](https://www.bbc.co.uk/newyddion/58235400) - Cwpl o Ddinorwig yn bryderus am sgil effeithiau'r dynodiad UNESCO ar gymunedau'r ardal lechi.
 25. [Yr Wyddfa: Galw ar gerddwyr i 'barchu'r mynydd'](https://www.bbc.co.uk/newyddion/58299396) - Mae sbwriel ac erydiad llwybrau wedi rhoi "pwysau sylweddol" ar y mynydd, medd Cymdeithas Eryri.
-26. [Chwaraewr rygbi'n marw ar ôl cwympo yn ystod gêm](https://www.bbc.co.uk/newyddion/58297084) - Mae Undeb Rygbi Cymru ymhlith y cannoedd sydd wedi cydymdeimlo yn dilyn marwolaeth Alex Evans.
+26. [Dyn 80 oed yn cerdded Cader Idris er cof am ei fab](https://www.bbc.co.uk/newyddion/58299398) - Tom Jones wedi dringo i gopa'r mynydd ar ei ben-blwydd er cof am ei fab fu farw o ganser y gwaed.
 27. [Cerdyn post oddi wrth... Llŷr Alun](https://www.bbc.co.uk/newyddion/58264143) - Wythnos hon, Llŷr Alun neu 'Llŷr Am Dro' sydd yn anfon cyfarchion i ni o bier Bangor.
 28. [Y Bencampwriaeth: Caerdydd 3-1 Millwall](https://www.bbc.co.uk/newyddion/58291608) - Record ddiguro Caerdydd yn parhau wrth i Aden Flint sgorio ddwywaith am yr eildro mewn wythnos.

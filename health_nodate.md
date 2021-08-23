@@ -4,33 +4,32 @@
 4. [Army supporting ambulance services in England](https://www.bbc.co.uk/news/health-58281665) - High demand and staffing shortages have meant the Army has been called in to help look after patients.
 5. [Covid: CO2 monitors pledged to aid school ventilation](https://www.bbc.co.uk/news/education-58285359) - Schools in England are to be given CO2 monitors to as part of plans to limit the spread of Covid.
 6. [Covid-antibody therapy approved in UK](https://www.bbc.co.uk/news/health-58281332) - Antibody therapy - given to former US President Donald Trump - can now be used in the UK.
-7. [Covid vaccines still effective against Delta variant](https://www.bbc.co.uk/news/health-58257863) - But the jabs were more effective against the Alpha variant, the largest study of its kind suggests.
-8. [Why a US military base became a centre for Chinese Covid conspiracies](https://www.bbc.co.uk/news/world-us-canada-58273322) - Apparent Chinese propaganda efforts are spreading ahead of a US report on Covid-19 origins.
+7. [Why a US military base became a centre for Chinese Covid conspiracies](https://www.bbc.co.uk/news/world-us-canada-58273322) - Apparent Chinese propaganda efforts are spreading ahead of a US report on Covid-19 origins.
+8. [Covid cases: This summer compared with last](https://www.bbc.co.uk/news/health-58281664) - Case numbers are 30 times higher than at the same point last year - where might we be heading next?
 9. [Covid vaccine: Fertility and miscarriage claims fact-checked](https://www.bbc.co.uk/news/health-57552527) - Posts claiming Covid vaccines cause miscarriages are not supported by scientific evidence.
 10. [Is the coronavirus pandemic over at last?](https://www.bbc.co.uk/news/uk-scotland-58112939) - As Scotland loosens most of its remaining restrictions, is the devastating pandemic finally at an end?
 11. [‘Parkinson’s doesn't stop me playing tennis’](https://www.bbc.co.uk/news/uk-england-nottinghamshire-58091757) - Andy Wright, who was diagnosed at 33, says his return to the sport helps alleviate symptoms.
-12. [Covid-19: The mystery of rising infections in India's Kerala](https://www.bbc.co.uk/news/world-asia-india-58054124) - Covid-19 cases continue to rise in Kerala despite the waning of the second wave elsewhere in India.
-13. [Why bonding over the Euros appeared to increase Covid cases in men](https://www.bbc.co.uk/news/health-58015593) - Psychologists say men need to be part of a group in order to vent their feelings and emotions.
-14. [Covid: Which children are being vaccinated and why?](https://www.bbc.co.uk/news/health-57888429) - Hundreds of thousands of children at higher risk from coronavirus infection will be offered a Covid vaccine in the UK.
-15. [Why you shouldn't get a second Covid jab too early](https://www.bbc.co.uk/news/newsbeat-57682233) - A government scientific advisor tells Newsbeat why four weeks is too soon between Covid jabs.
-16. [Beta coronavirus variant: What is the risk?](https://www.bbc.co.uk/news/health-55534727) - There are fears that this version of coronavirus, first identified in South Africa, is
-17. [Covid rules: How can the clinically vulnerable stay safe?](https://www.bbc.co.uk/news/health-51997151) - As social-distancing and other Covid rules end in England, how can people who were shielding stay safe?
-18. [What are the rules and guidance for face masks and coverings?](https://www.bbc.co.uk/news/health-51205344) - Masks are no longer compulsory in England, but remain necessary in other parts of the UK.
-19. [How many cases in your area?](https://www.bbc.co.uk/news/uk-51768274) - Explore the data on coronavirus in the UK and find out how many cases there are in your area.
-20. [Covid: What do under-30s need to know about the vaccine?](https://www.bbc.co.uk/news/health-57273875) - All over-16s in the UK can get the Covid vaccine, as well as some vulnerable younger teens.
-21. [What are the Delta, Gamma, Beta and Alpha Covid variants?](https://www.bbc.co.uk/news/health-55659820) - UK coronavirus cases are rising due to a variant first identified in India that spreads more easily.
-22. [Covid rules: What's changing in Wales, Scotland, England and Northern Ireland?](https://www.bbc.co.uk/news/explainers-52530518) - Lockdown rules are changing across the UK, but some restrictions remain in place.
-23. [Covid: How effective is the vaccine and do I need a booster?](https://www.bbc.co.uk/news/health-55045639) - All over-16s can get the Covid vaccine and boosters are expected to be rolled out from September.
-24. [How do we know Covid vaccines are safe?](https://www.bbc.co.uk/news/health-55056016) - Busting myths and explaining the facts around vaccines.
-25. [Coronavirus: What it does to the body](https://www.bbc.co.uk/news/health-51214864) - What is it like to have the coronavirus, how will it affect you and how is it treated?
-26. [Support bubbles: How do they work and who is in yours?](https://www.bbc.co.uk/news/health-52637354) - Some people across the UK have been able to form "support bubbles" or "extended households".
-27. [How to get a Covid test](https://www.bbc.co.uk/news/health-51943612) - Everyone in England and Scotland is being encouraged to take rapid coronavirus tests regularly.
-28. [All you need to know on the coronavirus](https://www.bbc.co.uk/news/health-51048366) - A new cough, fever and change in smell or taste are the key symptoms that mean you may have coronavirus.
-29. [Coronavirus: Intensive care and other key terms explained](https://www.bbc.co.uk/news/health-52182658) - Use our tool to check the meaning of key words and phrases associated with the Covid-19 outbreak.
-30. [Coronavirus: What is the risk to men over 50?](https://www.bbc.co.uk/news/health-52197594) - While most people will have mild symptoms and recover quickly, some are more prone to getting sick.
-31. [Coronavirus: Do face masks actually work?](https://www.bbc.co.uk/news/health-51881555) - With face masks in high demand, we look at whether they really can protect people from the virus.
-32. ['You can change your life with sport'](https://www.bbc.co.uk/news/uk-england-leicestershire-58273615) - Paralympic wheelchair basketball player Lucy Robinson wants to inspire others.
-33. [The West End star who worked as carer during lockdown](https://www.bbc.co.uk/news/entertainment-arts-58080453) - As theatres reopen, actors like Stephen Beckett have been swapping their lockdown jobs for their place on the stage once more.
-34. [Sport 'very important' in living with dementia](https://www.bbc.co.uk/news/uk-northern-ireland-58279336) - Gerard Doran, 62, said involvement with hillwalking and GAA have benefited him physically and mentally.
-35. [Lockdown screen time sees rise in short-sightedness among children](https://www.bbc.co.uk/news/health-58274916) - Optometrists are diagnosing higher numbers of children with short-sightedness since the start of the pandemic.
-36. [Covid: 'I'm pregnant, should I have the vaccine?'](https://www.bbc.co.uk/news/uk-england-london-58089039) - Many pregnant women have declined the Covid jab, but what's best for the baby?
+12. [Why bonding over the Euros appeared to increase Covid cases in men](https://www.bbc.co.uk/news/health-58015593) - Psychologists say men need to be part of a group in order to vent their feelings and emotions.
+13. [Covid: Which children are being vaccinated and why?](https://www.bbc.co.uk/news/health-57888429) - Hundreds of thousands of children at higher risk from coronavirus infection will be offered a Covid vaccine in the UK.
+14. [Why you shouldn't get a second Covid jab too early](https://www.bbc.co.uk/news/newsbeat-57682233) - A government scientific advisor tells Newsbeat why four weeks is too soon between Covid jabs.
+15. [Beta coronavirus variant: What is the risk?](https://www.bbc.co.uk/news/health-55534727) - There are fears that this version of coronavirus, first identified in South Africa, is
+16. [Covid rules: How can the clinically vulnerable stay safe?](https://www.bbc.co.uk/news/health-51997151) - As social-distancing and other Covid rules end in England, how can people who were shielding stay safe?
+17. [What are the rules and guidance for face masks and coverings?](https://www.bbc.co.uk/news/health-51205344) - Masks are no longer compulsory in England, but remain necessary in other parts of the UK.
+18. [How many cases in your area?](https://www.bbc.co.uk/news/uk-51768274) - Explore the data on coronavirus in the UK and find out how many cases there are in your area.
+19. [Covid: What do under-30s need to know about the vaccine?](https://www.bbc.co.uk/news/health-57273875) - All over-16s in the UK can get the Covid vaccine, as well as some vulnerable younger teens.
+20. [What are the Delta, Gamma, Beta and Alpha Covid variants?](https://www.bbc.co.uk/news/health-55659820) - UK coronavirus cases are rising due to a variant first identified in India that spreads more easily.
+21. [Covid rules: What's changing in Wales, Scotland, England and Northern Ireland?](https://www.bbc.co.uk/news/explainers-52530518) - Lockdown rules are changing across the UK, but some restrictions remain in place.
+22. [Covid: How effective is the vaccine and do I need a booster?](https://www.bbc.co.uk/news/health-55045639) - All over-16s can get the Covid vaccine and boosters are expected to be rolled out from September.
+23. [How do we know Covid vaccines are safe?](https://www.bbc.co.uk/news/health-55056016) - Busting myths and explaining the facts around vaccines.
+24. [Coronavirus: What it does to the body](https://www.bbc.co.uk/news/health-51214864) - What is it like to have the coronavirus, how will it affect you and how is it treated?
+25. [Support bubbles: How do they work and who is in yours?](https://www.bbc.co.uk/news/health-52637354) - Some people across the UK have been able to form "support bubbles" or "extended households".
+26. [How to get a Covid test](https://www.bbc.co.uk/news/health-51943612) - Everyone in England and Scotland is being encouraged to take rapid coronavirus tests regularly.
+27. [All you need to know on the coronavirus](https://www.bbc.co.uk/news/health-51048366) - A new cough, fever and change in smell or taste are the key symptoms that mean you may have coronavirus.
+28. [Coronavirus: Intensive care and other key terms explained](https://www.bbc.co.uk/news/health-52182658) - Use our tool to check the meaning of key words and phrases associated with the Covid-19 outbreak.
+29. [Coronavirus: What is the risk to men over 50?](https://www.bbc.co.uk/news/health-52197594) - While most people will have mild symptoms and recover quickly, some are more prone to getting sick.
+30. [Coronavirus: Do face masks actually work?](https://www.bbc.co.uk/news/health-51881555) - With face masks in high demand, we look at whether they really can protect people from the virus.
+31. ['You can change your life with sport'](https://www.bbc.co.uk/news/uk-england-leicestershire-58273615) - Paralympic wheelchair basketball player Lucy Robinson wants to inspire others.
+32. [The West End star who worked as carer during lockdown](https://www.bbc.co.uk/news/entertainment-arts-58080453) - As theatres reopen, actors like Stephen Beckett have been swapping their lockdown jobs for their place on the stage once more.
+33. [Sport 'very important' in living with dementia](https://www.bbc.co.uk/news/uk-northern-ireland-58279336) - Gerard Doran, 62, said involvement with hillwalking and GAA have benefited him physically and mentally.
+34. [Lockdown screen time sees rise in short-sightedness among children](https://www.bbc.co.uk/news/health-58274916) - Optometrists are diagnosing higher numbers of children with short-sightedness since the start of the pandemic.
+35. [Covid: 'I'm pregnant, should I have the vaccine?'](https://www.bbc.co.uk/news/uk-england-london-58089039) - Many pregnant women have declined the Covid jab, but what's best for the baby?

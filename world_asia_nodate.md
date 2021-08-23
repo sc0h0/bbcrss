@@ -1,7 +1,7 @@
 1. [Afghanistan: US ramping up Kabul evacuation effort, says Biden](https://www.bbc.co.uk/news/world-asia-58299804) - American troops expand the perimeter around Kabul airport as thousands hope to escape the Taliban.
 2. [Covid: New Zealand pandemic strategy in doubt amid Delta spread](https://www.bbc.co.uk/news/world-asia-58297895) - The highly infectious Delta variant "does change the game", the Covid response minister says.
 3. [Covid: Taiwan rolls out homegrown vaccine amid criticism](https://www.bbc.co.uk/news/world-asia-58301573) - Taiwan's president was vaccinated with the country's first domestically developed jab named Medigen.
-4. [Afghanistan: India evacuates its stranded citizens](https://www.bbc.co.uk/news/world-asia-india-58301893) - A batch of 146 stranded Indians landed in Delhi on Monday.
+4. [India evacuates its stranded citizens](https://www.bbc.co.uk/news/world-asia-india-58301893) - A batch of 146 stranded Indians landed in Delhi from Kabul on Monday.
 5. [Afghanistan: Where will refugees go after Taliban takeover?](https://www.bbc.co.uk/news/world-asia-58283177) - Thousands of people are scrambling to flee Afghanistan after the Taliban took control of the country.
 6. [Kamala Harris joins diplomatic charm offensive in South East Asia](https://www.bbc.co.uk/news/world-asia-58277226) - The US vice-president's trip to the region falls in the shadow of a chaotic withdrawal from Afghanistan.
 7. [Chip giant's IPO hit by Beijing crackdown on business](https://www.bbc.co.uk/news/business-58301603) - The share listing of BYD Semiconductor has been suspended due to a regulatory investigation.
