@@ -1,4 +1,4 @@
-1. [Covid: Government warns Covid test firms over misleading prices](https://www.bbc.co.uk/news/business-58300897) - More than 80 Covid test firms are issued with warnings and could be removed from the government's website.
+1. [Covid: Government warns Covid test firms over misleading prices](https://www.bbc.co.uk/news/business-58300897) - More than 80 Covid test firms are issued with warnings and could be taken off the government's website.
 2. [Wildfires: Provence wine producers assess impact of destruction](https://www.bbc.co.uk/news/business-58299125) - There are fears the fires that have hit rosé vineyards in Provence will push up prices.
 3. [Lorry drivers: Act now to avert crisis, government told](https://www.bbc.co.uk/news/business-58287003) - Retailers and lorry firms join forces in call for new work visas, training and better Covid testing.
 4. [House prices: Demand changes, not tax waiver, pushed prices up](https://www.bbc.co.uk/news/business-58274811) - The stamp duty holiday did not cause rising house prices, the Resolution Foundation think tank says.

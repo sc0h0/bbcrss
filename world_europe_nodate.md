@@ -1,5 +1,5 @@
 1. [Nord Stream 2: Russia must not use gas pipeline as weapon, says Merkel](https://www.bbc.co.uk/news/world-europe-58301099) - The German chancellor says Moscow could face sanctions if it uses Nord Stream 2 against Ukraine.
-2. [Fans storm pitch as Dimitri Payet throws bottle](https://www.bbc.co.uk/sport/football/58301034) - Nice versus Marseille is abandoned after Dimitri Payet throws a bottle back into the crowd and fans storm the pitch.
+2. [French match abandoned after player hit by bottle](https://www.bbc.co.uk/sport/football/58301034) - Nice versus Marseille is abandoned after Dimitri Payet throws a bottle back into the crowd and fans storm the pitch.
 3. [Greece erects fence at Turkey border amid warnings of Afghan migrant surge](https://www.bbc.co.uk/news/world-europe-58289893) - A 40km (25-mile) barrier is placed at the land border amid warnings of a surge of Afghan migrants.
 4. [Act now to end lorry driver crisis, UK government told](https://www.bbc.co.uk/news/business-58287003) - Retailers and lorry firms join forces in call for new work visas, training and better Covid testing.
 5. [Spain migrants: Sole survivor rescued in dinghy in Atlantic](https://www.bbc.co.uk/news/world-europe-58279185) - The woman, who was spotted clinging to an upturned boat, says at least 52 other people died.
