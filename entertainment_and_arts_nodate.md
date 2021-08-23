@@ -17,8 +17,8 @@
 17. [Nubya Garcia: The British sax star who is jazzing up the BBC Proms](https://www.bbc.co.uk/news/entertainment-arts-58112962) - Saxophonist Nubya Garcia on playing Royal Albert Hall, the Mercury Prize and "natural vibrations".
 18. [Lady Leshurr: Rapper used lockdown to focus on mental health](https://www.bbc.co.uk/news/uk-england-birmingham-58256836) - The 32-year-old says life sometimes feels like a running machine at the gym with no stop button.
 19. [Green Man: Festival returns in the Welsh mountains after Covid restrictions](https://www.bbc.co.uk/news/entertainment-arts-58282999) - Wales' largest music festival, Green Man, returns with 25,000 people in attendance.
-20. [Everly Brothers' Don dies at the age of 84](https://www.bbc.co.uk/news/entertainment-arts-58297843) - The last surviving member of rock and roll duo the Everly Brothers, Don, dies aged 84.
-21. [The West End star who worked as carer during lockdown](https://www.bbc.co.uk/news/entertainment-arts-58080453) - As theatres reopen, actors like Stephen Beckett have been swapping their lockdown jobs for their place on the stage once more.
-22. [You may go to the ball: Cinderella opens in the West End](https://www.bbc.co.uk/news/entertainment-arts-58260252) - Andrew Lloyd Webber and Emerald Fennel’s reimagining of the classic fairytale debuts in London.
-23. [Ryan Reynolds: Video games and the making of Free Guy](https://www.bbc.co.uk/news/technology-58245604) - Actor and producer Ryan Reynolds on preparing to play a character caught up in a multiplayer game.
-24. [Drag Race UK queens: Covid 'pushed us creatively'](https://www.bbc.co.uk/news/newsbeat-58270184) - Newsbeat has spoken to all 12 queens taking part in the new series.
+20. [The West End star who worked as carer during lockdown](https://www.bbc.co.uk/news/entertainment-arts-58080453) - As theatres reopen, actors like Stephen Beckett have been swapping their lockdown jobs for their place on the stage once more.
+21. [You may go to the ball: Cinderella opens in the West End](https://www.bbc.co.uk/news/entertainment-arts-58260252) - Andrew Lloyd Webber and Emerald Fennel’s reimagining of the classic fairytale debuts in London.
+22. [Ryan Reynolds: Video games and the making of Free Guy](https://www.bbc.co.uk/news/technology-58245604) - Actor and producer Ryan Reynolds on preparing to play a character caught up in a multiplayer game.
+23. [Drag Race UK queens: Covid 'pushed us creatively'](https://www.bbc.co.uk/news/newsbeat-58270184) - Newsbeat has spoken to all 12 queens taking part in the new series.
+24. [Bill Bailey pays tribute to ‘dearest friend’ Sean Lock](https://www.bbc.co.uk/news/entertainment-arts-58262399) - The comedian remembers Sean Lock, who has died from cancer at the age of 58.

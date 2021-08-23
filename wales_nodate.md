@@ -2,9 +2,9 @@
 2. [Cwmllynfell rugby player Alex Evans dies during match](https://www.bbc.co.uk/news/uk-wales-58297010) - Alex Evans's team says they have "lost a brother on the field and it is hurting so much".
 3. [Tokyo Paralympics: World Para-taekwondo champion Matt Bush withdraws injured](https://www.bbc.co.uk/sport/disability-sport/58299215) - Reigning world Para-taekwondo champion Matt Bush is forced to withdraw from the Tokyo 2020 Paralympic Games with an anterior cruciate ligament injury.
 4. [Parkinson's: Table tennis bronze leaves Welshman emotional](https://www.bbc.co.uk/news/uk-wales-58303655) - Martyn Symons was told to keep playing ping pong after his diagnosis to help with his condition.
-5. [Plymouth shooting: Woman shot by husband wants gun law change](https://www.bbc.co.uk/news/uk-wales-58283811) - Rachel Williams, whose estranged husband shot her in 2011, says guns should not be kept at home.
-6. [Covid: People working out at gyms longer and later at night](https://www.bbc.co.uk/news/uk-wales-58260865) - Are "peak times" at the gym a thing of the past as people visit around work and childcare?
-7. [Covid: Antibody tests offered to public for first time](https://www.bbc.co.uk/news/uk-58293249) - The UK-wide scheme for adults who test positive for coronavirus will launch next week.
+5. [Covid-19 now 22nd leading cause of death in Wales](https://www.bbc.co.uk/news/uk-wales-58304855) - For six of the last 16 months of the pandemic, Covid-19 was the leading cause of death in Wales.
+6. [Plymouth shooting: Woman shot by husband wants gun law change](https://www.bbc.co.uk/news/uk-wales-58283811) - Rachel Williams, whose estranged husband shot her in 2011, says guns should not be kept at home.
+7. [Covid: People working out at gyms longer and later at night](https://www.bbc.co.uk/news/uk-wales-58260865) - Are "peak times" at the gym a thing of the past as people visit around work and childcare?
 8. [Paralympics: Calls for wheelchair motocross to be in Games](https://www.bbc.co.uk/news/uk-england-manchester-58297582) - There are calls for the adaptive skateboarding sport to be in the Paralympics by 2028.
 9. [Sepsis: Teen footballer wants better care for young adults](https://www.bbc.co.uk/news/uk-wales-58025735) - Hollie Smith, 19, dreamed of playing for Wales - but after sepsis she needs round-the-clock care.
 10. [Burry Port: Fear for children after asbestos found on beach](https://www.bbc.co.uk/news/uk-wales-58144670) - Campaigners are calling for the removal of what they say is hazardous waste uncovered by erosion.
