@@ -5,7 +5,7 @@
 5. [Covid: New Zealand pandemic strategy in doubt amid Delta spread](https://www.bbc.co.uk/news/world-asia-58297895) - The highly infectious Delta variant "does change the game", the Covid response minister says.
 6. [Everly Brothers: US rock 'n' roll star Don Everly dies aged 84](https://www.bbc.co.uk/news/world-us-canada-58297621) - The rock 'n' roll duo were known for their harmonies and influenced bands including The Beatles.
 7. [Kenya holds biggest ever animal census](https://www.bbc.co.uk/news/world-africa-58281212) - All wildlife on land and sea is being counted to help Kenya's conservation plans and tourism.
-8. [Elaine Thompson-Herah runs second fastest time in women's 100m history](https://www.bbc.co.uk/sport/athletics/58295310) - Olympic champion Elaine Thompson-Herah runs the second fastest time in women's 100m history as she clocks 10.54 seconds in Eugene.
+8. [French match abandoned after player hit by bottle](https://www.bbc.co.uk/sport/football/58301034) - Nice versus Marseille is abandoned after Dimitri Payet throws a bottle back into the crowd and fans storm the pitch.
 9. [Covid: Australian police clash with anti-lockdown protesters](https://www.bbc.co.uk/news/world-australia-58291873) - Hundreds of people are arrested after rallies against lockdown measures in Melbourne and Sydney.
 10. [Poison algae may have killed California family, police say](https://www.bbc.co.uk/news/world-us-canada-58288482) - A family of three may have been killed by toxic algae blooms on a hiking trail, investigators say.
 11. [Hurricane Grace kills eight as it rips through eastern Mexico](https://www.bbc.co.uk/news/world-latin-america-58295511) - The powerful storm brings torrential rain and high winds, causing power cuts and flooding.
