@@ -24,5 +24,5 @@
 24. [Pryder am effaith Statws Treftadaeth ar gymunedau llechi](https://www.bbc.co.uk/newyddion/58235400) - Cwpl o Ddinorwig yn bryderus am sgil effeithiau'r dynodiad UNESCO ar gymunedau'r ardal lechi.
 25. [Y Wladfa: 'Angen i gynllun Cymraeg barhau wedi Covid'](https://www.bbc.co.uk/newyddion/58299397) - Galwadau ar i'r cynllun sy'n anfon athrawon o Gymru i Batagonia barhau ar ôl y pandemig.
 26. [Yr Wyddfa: Galw ar gerddwyr i 'barchu'r mynydd'](https://www.bbc.co.uk/newyddion/58299396) - Mae sbwriel ac erydiad llwybrau wedi rhoi "pwysau sylweddol" ar y mynydd, medd Cymdeithas Eryri.
-27. [Cerdyn post oddi wrth... Llŷr Alun](https://www.bbc.co.uk/newyddion/58264143) - Wythnos hon, Llŷr Alun neu 'Llŷr Am Dro' sydd yn anfon cyfarchion i ni o bier Bangor.
+27. [Lluniau: Gŵyl y Dyn Gwyrdd 2021](https://www.bbc.co.uk/newyddion/58305385) - Rhai o'r golygfeydd o'r ŵyl gerddoriaeth boblogaidd ym Mannau Brycheiniog.
 28. [Williams yn ennill Pencampwriaeth Snwcer Agored Prydain](https://www.bbc.co.uk/newyddion/58302742) - Mark Williams yn trechu Gary Wilson er mwyn ennill Pencampwriaeth Snwcer Agored Prydain am yr eilwaith.

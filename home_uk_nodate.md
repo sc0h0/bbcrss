@@ -2,7 +2,7 @@
 2. [Afghanistan evacuations: 'Hours not weeks' for final UK flights](https://www.bbc.co.uk/news/uk-58302734) - The defence secretary says the UK will leave Kabul alongside next week's planned US withdrawal.
 3. [Hours without food or water in Kabul airport 'hell'](https://www.bbc.co.uk/news/uk-58305040) - An Afghan man who worked for the British army tells the BBC he and his family cannot get through the crowds.
 4. [Paralympians Simmonds and Stubbs to carry GB flag](https://www.bbc.co.uk/sport/disability-sport/58303759) - Swimmer Ellie Simmonds and archer John Stubbs will carry the GB flag at Tuesday's Tokyo Paralympics opening ceremony.
-5. [Gogglebox star Mary Cook dies aged 92](https://www.bbc.co.uk/news/entertainment-arts-58305900) - She was known for her appearances with friend Marina Wingrove on the Channel 4 show.
+5. [Gogglebox star Mary Cook dies aged 92](https://www.bbc.co.uk/news/entertainment-arts-58305900) - She was known for her appearances on the Channel 4 show with friend Marina Wingrove.
 6. [John Lydon loses court battle to stop Sex Pistols songs being used in a new TV series](https://www.bbc.co.uk/news/entertainment-arts-58303879) - The band's former frontman had objected to songs being used in a new Danny Boyle-directed TV drama.
 7. [Snowdon: Call to respect mountain amid spike in visitors](https://www.bbc.co.uk/news/uk-wales-58283816) - Litter, erosion and traffic put "significant pressure" on the mountain, says the Snowdonia Society.
 8. [Storm Henri: Lightning strikes One World Trade Center](https://www.bbc.co.uk/news/world-us-canada-58304611) - The strike was captured as Storm Henri approached the north-east of the US, bringing heavy rain.

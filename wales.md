@@ -1,5 +1,5 @@
 1. [Snowdon: Call to respect mountain amid spike in visitors](https://www.bbc.co.uk/news/uk-wales-58283816) - Mon, 23 Aug 2021 06:20:51 GMT - Litter, erosion and traffic put "significant pressure" on the mountain, says the Snowdonia Society.
-2. [Defibrillators: Welsh rugby calls after player's death](https://www.bbc.co.uk/news/uk-wales-58302827) - Mon, 23 Aug 2021 11:37:55 GMT - Alex Evans, 31, died on Saturday after having a cardiac arrest during a match in Neath Port Talbot.
+2. [Defibrillators: Welsh rugby calls after player's death](https://www.bbc.co.uk/news/uk-wales-58302827) - Mon, 23 Aug 2021 13:19:09 GMT - Alex Evans, 31, died on Saturday after having a cardiac arrest during a match in Neath Port Talbot.
 3. [Covid-19 now 22nd leading cause of death in Wales](https://www.bbc.co.uk/news/uk-wales-58304855) - Mon, 23 Aug 2021 12:57:10 GMT - For six of the last 16 months of the pandemic, Covid-19 was the leading cause of death in Wales.
 4. [Bridgend murder probe: Boy, 2, adored by all, say relatives](https://www.bbc.co.uk/news/uk-wales-58305253) - Mon, 23 Aug 2021 12:19:25 GMT - Reid Steele died a day after being found in a critical condition at a house in Bridgend.
 5. [Plymouth shooting: Woman shot by husband wants gun law change](https://www.bbc.co.uk/news/uk-wales-58283811) - Sun, 22 Aug 2021 14:55:31 GMT - Rachel Williams, whose estranged husband shot her in 2011, says guns should not be kept at home.
@@ -24,5 +24,5 @@
 24. [Pryder am effaith Statws Treftadaeth ar gymunedau llechi](https://www.bbc.co.uk/newyddion/58235400) - Mon, 23 Aug 2021 05:45:53 GMT - Cwpl o Ddinorwig yn bryderus am sgil effeithiau'r dynodiad UNESCO ar gymunedau'r ardal lechi.
 25. [Y Wladfa: 'Angen i gynllun Cymraeg barhau wedi Covid'](https://www.bbc.co.uk/newyddion/58299397) - Mon, 23 Aug 2021 07:48:40 GMT - Galwadau ar i'r cynllun sy'n anfon athrawon o Gymru i Batagonia barhau ar ôl y pandemig.
 26. [Yr Wyddfa: Galw ar gerddwyr i 'barchu'r mynydd'](https://www.bbc.co.uk/newyddion/58299396) - Mon, 23 Aug 2021 05:58:29 GMT - Mae sbwriel ac erydiad llwybrau wedi rhoi "pwysau sylweddol" ar y mynydd, medd Cymdeithas Eryri.
-27. [Cerdyn post oddi wrth... Llŷr Alun](https://www.bbc.co.uk/newyddion/58264143) - Sun, 22 Aug 2021 07:22:31 GMT - Wythnos hon, Llŷr Alun neu 'Llŷr Am Dro' sydd yn anfon cyfarchion i ni o bier Bangor.
+27. [Lluniau: Gŵyl y Dyn Gwyrdd 2021](https://www.bbc.co.uk/newyddion/58305385) - Mon, 23 Aug 2021 13:07:00 GMT - Rhai o'r golygfeydd o'r ŵyl gerddoriaeth boblogaidd ym Mannau Brycheiniog.
 28. [Williams yn ennill Pencampwriaeth Snwcer Agored Prydain](https://www.bbc.co.uk/newyddion/58302742) - Mon, 23 Aug 2021 06:47:40 GMT - Mark Williams yn trechu Gary Wilson er mwyn ennill Pencampwriaeth Snwcer Agored Prydain am yr eilwaith.
