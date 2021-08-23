@@ -6,8 +6,8 @@
 6. [Afghanistan: Afghan woman gives birth to baby girl on US evacuation plane](https://www.bbc.co.uk/news/world-asia-58297893) - The woman went into labour en route to Ramstein Air Base in Germany and gave birth on the plane.
 7. [Everly Brothers: US rock 'n' roll star Don Everly dies aged 84](https://www.bbc.co.uk/news/world-us-canada-58297621) - The rock 'n' roll duo were known for their harmonies and influenced bands including The Beatles.
 8. [Kamala Harris joins diplomatic charm offensive in South East Asia](https://www.bbc.co.uk/news/world-asia-58277226) - The US vice-president's trip to the region falls in the shadow of a chaotic withdrawal from Afghanistan.
-9. [Family of American taken by Taliban beg for return](https://www.bbc.co.uk/news/world-us-canada-58276062) - Mark Frerichs, 59, one of the last Americans kidnapped by the Taliban, is stuck in Afghanistan.
-10. [Biden's week of blame and tumult after Kabul fall](https://www.bbc.co.uk/news/world-us-canada-58286766) - How the fall of Kabul stunned the Biden administration and spawned the worst week of his presidency.
+9. [Biden's week of blame and tumult after Kabul fall](https://www.bbc.co.uk/news/world-us-canada-58286766) - How the fall of Kabul stunned the Biden administration and spawned the worst week of his presidency.
+10. [Kathy Hochul: Who is New York's first female governor?](https://www.bbc.co.uk/news/world-us-canada-58167825) - The history-making Democrat will take the role after Andrew Cuomo resigned over harassment claims.
 11. ['How I found out my dad was a best-selling sex writer'](https://www.bbc.co.uk/news/stories-58171940) - Sara Faith Alterman was always close to her father. Then she learned he was concealing a secret.
 12. [How North American cities are bracing for more heatwaves](https://www.bbc.co.uk/news/world-us-canada-58015089) - Local governments are getting creative when it comes to tackling frequent and extreme heat.
 13. [Biden interview with ABC fact-checked](https://www.bbc.co.uk/news/58243158) - How consistent is President Biden in his comments on Afghanistan?
