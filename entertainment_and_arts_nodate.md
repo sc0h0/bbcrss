@@ -1,5 +1,5 @@
-1. [Gogglebox star Mary Cook dies aged 92](https://www.bbc.co.uk/news/entertainment-arts-58305900) - She was known for her appearances with friend Marina Wingrove on the Channel 4 show.
-2. [John Lydon loses court battle to stop Sex Pistols songs being used in a new TV series](https://www.bbc.co.uk/news/entertainment-arts-58303879) - The band's former frontman had objected to songs being used in a new Danny Boyle-directed TV drama.
+1. [John Lydon loses court battle to stop Sex Pistols songs being used in a new TV series](https://www.bbc.co.uk/news/entertainment-arts-58303879) - The band's former frontman had objected to songs being used in a new Danny Boyle-directed TV drama.
+2. [Gogglebox star Mary Cook dies aged 92](https://www.bbc.co.uk/news/entertainment-arts-58305900) - She was known for her appearances with friend Marina Wingrove on the Channel 4 show.
 3. [Love Island: Is the dating show's honeymoon phase over?](https://www.bbc.co.uk/news/entertainment-arts-58270729) - The ITV show sparked record complaints, so as the latest series ends, is the magic starting to fade?
 4. [Everly Brothers: US rock 'n' roll star Don Everly dies aged 84](https://www.bbc.co.uk/news/world-us-canada-58297621) - The rock 'n' roll duo were known for their harmonies and influenced bands including The Beatles.
 5. [Barakat: First South African film in Cape Town's Afrikaans dialect](https://www.bbc.co.uk/news/world-africa-58189393) - Barakat, or blessing, is the first film in Afrikaaps - a dialect of Afrikaans spoken in Cape Town.
