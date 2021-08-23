@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 23 Aug 2021 06:50:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Aug 2021 07:37:06 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -142,6 +142,13 @@
             <pubDate>Sun, 22 Aug 2021 17:34:04 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Tokyo Paralympics: Kadeena Cox on challenges of defending titles in two sports]]></title>
+            <description><![CDATA[Double Paralympic gold medallist Kadeena Cox tells BBC Sport that repeating her Rio heroics in Tokyo will be tough.]]></description>
+            <link>https://www.bbc.co.uk/sport/disability-sport/58256947</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/disability-sport/58256947</guid>
+            <pubDate>Mon, 23 Aug 2021 07:06:46 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[BMX World Championships: Bethany Shriever takes women's final to add to Olympic title]]></title>
             <description><![CDATA[Bethany Shriever completes an Olympic and World double as the Tokyo 2020 gold medallist wins the final of the women's BMX World Championships.]]></description>
             <link>https://www.bbc.co.uk/sport/cycling/58298865</link>
@@ -161,13 +168,6 @@
             <link>https://www.bbc.co.uk/sport/football/58193450</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58193450</guid>
             <pubDate>Sun, 22 Aug 2021 15:27:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Southampton 1-1 Man Utd: Mason Greenwood earns lacklustre visitors a point]]></title>
-            <description><![CDATA[Manchester United are held to a Premier League draw at Southampton, who claim their first point of the new campaign.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58193443</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58193443</guid>
-            <pubDate>Sun, 22 Aug 2021 15:20:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
