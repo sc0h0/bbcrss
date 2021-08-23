@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 23 Aug 2021 17:42:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Aug 2021 18:03:58 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -23,18 +23,18 @@
             <pubDate>Mon, 23 Aug 2021 17:10:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Westminster double murder: Victims named as police hunt continues]]></title>
-            <description><![CDATA[Sharon Pickles and Clinton Ashmore both died from a stab wound to the neck.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-london-58304303</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-58304303</guid>
-            <pubDate>Mon, 23 Aug 2021 08:38:35 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Extinction Rebellion erects table in Covent Garden]]></title>
             <description><![CDATA[Eight Extinction Rebellion activists are arrested in the group's latest mass protest in London.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-london-58306278</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-58306278</guid>
             <pubDate>Mon, 23 Aug 2021 17:39:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[David Beater: Sex abuse vicar 'protected' by church for decades]]></title>
+            <description><![CDATA[David Beater worked in churches for 25 years despite a conviction for sexually assaulting a child.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-kent-58258147</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-kent-58258147</guid>
+            <pubDate>Mon, 23 Aug 2021 17:48:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Geronimo the alpaca should be studied not killed, vets say]]></title>
@@ -135,6 +135,13 @@
             <pubDate>Sun, 22 Aug 2021 06:20:28 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Westminster double murder: Victims named as police hunt continues]]></title>
+            <description><![CDATA[Sharon Pickles and Clinton Ashmore both died from a stab wound to the neck.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-58304303</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-58304303</guid>
+            <pubDate>Mon, 23 Aug 2021 08:38:35 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Supt Gerry Richardson: Tribute to officer killed on duty 50 years ago]]></title>
             <description><![CDATA[Supt Gerry Richardson was shot at point-blank range as he grappled with an armed robber in 1971.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-lancashire-58284849</link>
@@ -189,13 +196,6 @@
             <link>https://www.bbc.co.uk/sport/cricket/58308552</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/58308552</guid>
             <pubDate>Mon, 23 Aug 2021 14:03:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Xherdan Shaqiri: Liverpool sell Swiss midfielder to Lyon for £9.5m]]></title>
-            <description><![CDATA[Switzerland playmaker Xherdan Shaqiri completes a £9.5m move from Liverpool to Lyon.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58300490</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58300490</guid>
-            <pubDate>Mon, 23 Aug 2021 16:18:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
