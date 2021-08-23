@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 23 Aug 2021 11:32:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Aug 2021 11:50:04 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -23,18 +23,18 @@
             <pubDate>Mon, 23 Aug 2021 10:53:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Edinburgh toy shop owner warned of stock shortages in Christmas run-up]]></title>
-            <description><![CDATA[Suppliers have told toy shop owners a shortage of HGV drivers, among other problems, could have an impact.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-scotland-business-58299384</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-scotland-business-58299384</guid>
-            <pubDate>Mon, 23 Aug 2021 05:41:03 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Warrant issued over 2018 Moray crash which left five dead]]></title>
             <description><![CDATA[A 49-year-old Italian man failed to appear at the high court over the 2018 crash on a Moray road.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-58304183</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-58304183</guid>
             <pubDate>Mon, 23 Aug 2021 11:29:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Edinburgh toy shop owner warned of stock shortages in Christmas run-up]]></title>
+            <description><![CDATA[Suppliers have told toy shop owners a shortage of HGV drivers, among other problems, could have an impact.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-scotland-business-58299384</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-scotland-business-58299384</guid>
+            <pubDate>Mon, 23 Aug 2021 05:41:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Man jailed over death of Annie Temple in Kinglassie]]></title>
@@ -56,6 +56,13 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-scotland-business-58266921</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-scotland-business-58266921</guid>
             <pubDate>Mon, 23 Aug 2021 11:15:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pollokshields nursing home to lose licence over 'significant' care issues]]></title>
+            <description><![CDATA[The home in Glasgow's Pollokshields had been issued with a warning following inspections in July and August.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58306346</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58306346</guid>
+            <pubDate>Mon, 23 Aug 2021 11:41:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Nicola Sturgeon plea to Raab over Scot held in India]]></title>
@@ -84,13 +91,6 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-highlands-islands-58305221</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-highlands-islands-58305221</guid>
             <pubDate>Mon, 23 Aug 2021 10:09:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Last Bus: Timothy Spall film gives teen busker big break]]></title>
-            <description><![CDATA[Caitlin Agnew was just 16 when two of her songs were picked to feature on the soundtrack for The Last Bus.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-58297986</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58297986</guid>
-            <pubDate>Mon, 23 Aug 2021 05:09:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Gambling: Poorer UK towns found to have the most betting shops, study shows]]></title>
@@ -149,6 +149,13 @@
             <pubDate>Fri, 20 Aug 2021 09:14:39 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The Last Bus: Timothy Spall film gives teen busker big break]]></title>
+            <description><![CDATA[Caitlin Agnew was just 16 when two of her songs were picked to feature on the soundtrack for The Last Bus.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-58297986</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58297986</guid>
+            <pubDate>Mon, 23 Aug 2021 05:09:20 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[In Pictures: Cyclists return for long-distance Loch Ness race]]></title>
             <description><![CDATA[The 66-mile race was the first cycle sportive event to take place in Scotland since the easing of Covid restrictions.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-highlands-islands-58299528</link>
@@ -189,13 +196,6 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-tayside-central-58261702</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-tayside-central-58261702</guid>
             <pubDate>Wed, 18 Aug 2021 18:23:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['Linda would be heartbroken for Afghanistan's women']]></title>
-            <description><![CDATA[Scots aid worker Linda Norgrove was killed in Afghanistan 10 years ago and a women's rights charity was set up in her name.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-highlands-islands-58256706</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-highlands-islands-58256706</guid>
-            <pubDate>Wed, 18 Aug 2021 16:00:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[SNP and Greens seal power-sharing deal]]></title>

@@ -10,7 +10,7 @@
 10. [Afghanistan: Afghan woman gives birth to baby girl on US evacuation plane](https://www.bbc.co.uk/news/world-asia-58297893) - The woman went into labour en route to Ramstein Air Base in Germany and gave birth on the plane.
 11. [China NPC: Three-child policy formally passed into law](https://www.bbc.co.uk/news/world-asia-china-58277473) - The top legislature was also expected to approve a controversial anti-sanctions law for Hong Kong.
 12. [Covid: Australian police clash with anti-lockdown protesters](https://www.bbc.co.uk/news/world-australia-58291873) - Hundreds of people are arrested after rallies against lockdown measures in Melbourne and Sydney.
-13. [Afghanistan: 'Women should fight for the right to work'](https://www.bbc.co.uk/news/world-asia-58301303) - A leading campaigner for women's rights in Afghanistan was evacuated from Kabul last week, after going into hiding.
+13. [Afghan activist: Either we let them kill us or keep working](https://www.bbc.co.uk/news/world-asia-58301303) - A leading campaigner for women's rights in Afghanistan was evacuated from Kabul last week, after going into hiding.
 14. [The controversy over India caste census explained](https://www.bbc.co.uk/news/world-asia-india-58141993) - Political parties are sharply divided over counting the population of the country by caste.
 15. [Afghan crisis: Russia plans for new era with Taliban rule](https://www.bbc.co.uk/news/world-europe-58265934) - While Western governments raced to get their people out, Russia appears unfazed by the takeover.
 16. [Afghanistan: The desperate scramble to escape](https://www.bbc.co.uk/news/world-asia-58286000) - The BBC witnesses scenes of chaos and panic as thousands still crowd Kabul's airport.

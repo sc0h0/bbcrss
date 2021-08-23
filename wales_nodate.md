@@ -1,5 +1,5 @@
 1. [Snowdon: Call to respect mountain amid spike in visitors](https://www.bbc.co.uk/news/uk-wales-58283816) - Litter, erosion and traffic put "significant pressure" on the mountain, says the Snowdonia Society.
-2. [Cwmllynfell rugby player Alex Evans dies during match](https://www.bbc.co.uk/news/uk-wales-58297010) - Alex Evans's team says they have "lost a brother on the field and it is hurting so much".
+2. [Defibrillators: Welsh rugby calls after player's death](https://www.bbc.co.uk/news/uk-wales-58302827) - Alex Evans, 31, died on Saturday after having a cardiac arrest during a match in Neath Port Talbot.
 3. [Tokyo Paralympics: World Para-taekwondo champion Matt Bush withdraws injured](https://www.bbc.co.uk/sport/disability-sport/58299215) - Reigning world Para-taekwondo champion Matt Bush is forced to withdraw from the Tokyo 2020 Paralympic Games with an anterior cruciate ligament injury.
 4. [Parkinson's: Table tennis bronze leaves Welshman emotional](https://www.bbc.co.uk/news/uk-wales-58303655) - Martyn Symons was told to keep playing ping pong after his diagnosis to help with his condition.
 5. [Covid-19 now 22nd leading cause of death in Wales](https://www.bbc.co.uk/news/uk-wales-58304855) - For six of the last 16 months of the pandemic, Covid-19 was the leading cause of death in Wales.
