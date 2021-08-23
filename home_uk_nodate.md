@@ -1,9 +1,9 @@
 1. [Afghanistan: US aims to complete evacuations by deadline](https://www.bbc.co.uk/news/world-asia-58310905) - Allies step up calls to extend a 31 August withdrawal, but the Taliban insist this will violate a deal.
 2. [Anti-Taliban resistance group says it has thousands of fighters](https://www.bbc.co.uk/news/world-asia-58239156) - The group says it wants to pursue peace, but if that fails it claims to have thousands of fighters ready.
 3. [Afghanistan evacuations: 'Hours not weeks' for final UK flights](https://www.bbc.co.uk/news/uk-58302734) - The defence secretary says the UK will leave Kabul alongside next week's planned US withdrawal.
-4. [UK orders 35 million more Pfizer vaccine doses](https://www.bbc.co.uk/news/health-58307215) - The government say it is preparing for Covid boosters to protect the most vulnerable this year.
-5. [Covid in top 10 causes of death and UK orders more Pfizer](https://www.bbc.co.uk/news/uk-58310924) - Five things you need to know about the coronavirus pandemic this Monday evening.
-6. [Gogglebox star Mary Cook dies aged 92](https://www.bbc.co.uk/news/entertainment-arts-58305900) - She was known for her appearances on the Channel 4 show with friend Marina Wingrove.
+4. [Afghanistan: Person on no-fly list flown to UK during Kabul evacuation](https://www.bbc.co.uk/news/uk-58311964) - However they are not deemed a person of interest to security agencies or police after an investigation.
+5. [UK orders 35 million more Pfizer vaccine doses](https://www.bbc.co.uk/news/health-58307215) - The government say it is preparing for Covid boosters to protect the most vulnerable this year.
+6. [Covid in top 10 causes of death and UK orders more Pfizer](https://www.bbc.co.uk/news/uk-58310924) - Five things you need to know about the coronavirus pandemic this Monday evening.
 7. [Storm Henri: Lightning strikes One World Trade Center](https://www.bbc.co.uk/news/world-us-canada-58304611) - The strike was captured as Storm Henri approached the north-east of the US, bringing heavy rain.
 8. [Prisoners to plug worker shortage in meat industry](https://www.bbc.co.uk/news/business-58303679) - Meat industry leaders tell the BBC the government is "keen" to link up businesses with inmates.
 9. [Euro 2020: Wembley steward who tried to sell final passes sentenced](https://www.bbc.co.uk/news/uk-england-london-58307554) - Yusaf Amin tried to sell security passes, uniforms and wristbands to ticketless fans for £4,500.

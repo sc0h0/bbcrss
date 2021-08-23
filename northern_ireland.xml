@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 23 Aug 2021 20:09:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Aug 2021 20:23:25 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -35,6 +35,13 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58309750</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58309750</guid>
             <pubDate>Mon, 23 Aug 2021 16:54:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Irish Army Rangers go to Kabul to help evacuation]]></title>
+            <description><![CDATA[Foreign Minister Simon Coveney says the small team will assist in the evacuation of Irish citizens.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58309751</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58309751</guid>
+            <pubDate>Mon, 23 Aug 2021 20:17:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Londonderry: Police defend response to shots fired at republican mural]]></title>
@@ -70,13 +77,6 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58300292</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58300292</guid>
             <pubDate>Mon, 23 Aug 2021 15:21:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Derry medical school 'a dream come true']]></title>
-            <description><![CDATA[The first student doctors have started training at Londonderry's new medical school]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58286006</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58286006</guid>
-            <pubDate>Mon, 23 Aug 2021 13:15:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: PCR test market needs 'cleaning out', says Randox boss]]></title>
@@ -240,6 +240,13 @@
             <pubDate>Sat, 21 Aug 2021 06:41:44 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Derry medical school 'a dream come true']]></title>
+            <description><![CDATA[The first student doctors have started training at Londonderry's new medical school]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58286006</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58286006</guid>
+            <pubDate>Mon, 23 Aug 2021 13:15:41 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Londonderry: Unionists condemn 'shots' near republican mural]]></title>
             <description><![CDATA[The incident, in the Galliagh area of Derry, took place at a mural of hunger striker Michael Devine.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58297142</link>
@@ -259,13 +266,6 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58273879</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58273879</guid>
             <pubDate>Thu, 19 Aug 2021 21:25:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Caravans destroyed in suspected arson attack in Racecourse Road]]></title>
-            <description><![CDATA[Police say they are investigating to try to find out the cause of the fire.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58262052</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58262052</guid>
-            <pubDate>Wed, 18 Aug 2021 18:08:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Galway: Infant and parents among four dead in collision]]></title>
