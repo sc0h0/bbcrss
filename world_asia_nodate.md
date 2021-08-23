@@ -1,4 +1,4 @@
-1. [Afghanistan: US ramping up Kabul evacuation effort, says Biden](https://www.bbc.co.uk/news/world-asia-58299804) - American troops expand the perimeter around Kabul airport as thousands hope to escape the Taliban.
+1. [Afghanistan: US aims to complete evacuations by deadline](https://www.bbc.co.uk/news/world-asia-58310905) - Allies step up calls to extend a 31 August withdrawal, but the Taliban insist this will violate a deal.
 2. [Afghanistan: People at Kabul airport flee Taliban with just a suitcase](https://www.bbc.co.uk/news/world-asia-58300386) - Afghans waiting at Kabul airport tell the BBC of their pain at fleeing the country they love.
 3. [Covid: New Zealand pandemic strategy in doubt amid Delta spread](https://www.bbc.co.uk/news/world-asia-58297895) - The highly infectious Delta variant "does change the game", the Covid response minister says.
 4. [Covid: Taiwan rolls out homegrown vaccine amid criticism](https://www.bbc.co.uk/news/world-asia-58301573) - Taiwan's president was vaccinated with the country's first domestically developed jab named Medigen.
