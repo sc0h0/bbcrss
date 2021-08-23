@@ -1,4 +1,4 @@
-1. [Storm Henri makes landfall at Rhode Island](https://www.bbc.co.uk/news/world-us-canada-58300877) - More than 120,000 homes are without power as millions of people warned to expect significant damage.
+1. [Tennessee flash floods kill 22 with dozens missing](https://www.bbc.co.uk/news/world-us-canada-58300877) - The death toll is expected to rise after record-breaking rainfall triggered widespread flooding.
 2. [Afghanistan: Afghan woman gives birth to baby girl on US evacuation plane](https://www.bbc.co.uk/news/world-asia-58297893) - The woman went into labour en route to Ramstein Air Base in Germany and gave birth on the plane.
 3. [Everly Brothers: US rock 'n' roll star Don Everly dies aged 84](https://www.bbc.co.uk/news/world-us-canada-58297621) - The rock 'n' roll duo were known for their harmonies and influenced bands including The Beatles.
 4. [Biden's week of blame and tumult after Kabul fall](https://www.bbc.co.uk/news/world-us-canada-58286766) - How the fall of Kabul stunned the Biden administration and spawned the worst week of his presidency.
