@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 23 Aug 2021 07:07:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Aug 2021 07:26:08 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -240,18 +240,18 @@
             <pubDate>Mon, 23 Aug 2021 06:15:43 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Scottish Gossip: Patterson, Rangers, Everton, Christie, Burnley, Celtic]]></title>
+            <description><![CDATA[Rangers manager tells Everton to "get real" over interest in full-back.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58303023</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58303023</guid>
+            <pubDate>Mon, 23 Aug 2021 07:09:27 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Ross County 2-4 Rangers: Steven Gerrard wants a more ruthless Rangers]]></title>
             <description><![CDATA[Steven Gerrard calls on Rangers to be "more ruthless" after they began a huge week with victory over Ross County.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58215750</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58215750</guid>
             <pubDate>Mon, 23 Aug 2021 06:20:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hearts 1-1 Aberdeen: Both sides extend unbeaten starts after frantic draw]]></title>
-            <description><![CDATA[Hearts and Aberdeen continue their unbeaten Scottish Premiership starts and join Hibernian at the top after a frantic draw at Tynecastle.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58215743</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58215743</guid>
-            <pubDate>Sun, 22 Aug 2021 16:49:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
