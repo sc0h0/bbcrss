@@ -1,4 +1,4 @@
-1. [Afghanistan evacuations: UK cannot stay alone - minister](https://www.bbc.co.uk/news/uk-58302734) - Evacuations depend on the presence of US troops and Taliban co-operation, says James Heappey.
+1. [Afghanistan evacuations: 'Hours not weeks' for final UK flights](https://www.bbc.co.uk/news/uk-58302734) - The defence secretary says the UK will leave Kabul alongside the withdrawal of US troops, due next week.
 2. [Afghanistan: PM to press Biden to delay Kabul withdrawal](https://www.bbc.co.uk/news/uk-58301269) - Boris Johnson will request more time to evacuate people during a G7 meeting on Tuesday.
 3. [Afghanistan: Tony Blair says withdrawal was driven by imbecilic slogan](https://www.bbc.co.uk/news/uk-58295384) - The ex-PM criticises the US decision to withdraw its military as "tragic, dangerous, and unnecessary".
 4. [Afghanistan: Labour demands urgent action over evacuation crisis](https://www.bbc.co.uk/news/uk-58290593) - People being beaten, shot at or raped while trying to secure documentation in Kabul, Lisa Nandy says.
@@ -22,11 +22,11 @@
 22. [Afghanistan crisis: Chaos at Kabul airport amid scramble to evacuate](https://www.bbc.co.uk/news/world-europe-58256696) - Western countries are racing to evacuate their citizens and Afghans following the Taliban takeover.
 23. [Scottish public spending deficit doubles to £36bn](https://www.bbc.co.uk/news/uk-scotland-58256028) - Spending on public services rose to almost £100bn as revenue fell due to the Covid pandemic.
 24. [Gurkha back at Downing Street hunger strike after being taken ill](https://www.bbc.co.uk/news/uk-england-hampshire-58254634) - Former Gurkha soldier Dhan Gurung returns to a protest over pensions after a health scare.
-25. [Former PM Tony Blair: 'It's not just about the Afghan people... it's about our security'](https://www.bbc.co.uk/news/uk-58296950) - Tony Blair expresses his concerns about UK security following the Taliban's takeover of Afghanistan.
-26. [Tom Tugendhat on UK and Afghanistan: Anger, grief, rage](https://www.bbc.co.uk/news/uk-politics-58259509) - Tory MP Tom Tugendhat speaks of the anger, grief and rage of veterans at the "abandonment" of Afghanistan.
-27. [Harman: Women must be involved in Afghan discussions](https://www.bbc.co.uk/news/uk-politics-58272971) - A former acting Labour leader calls for women to be heard, rather than Foreign Secretary Dominic Raab.
-28. [Are you going to resign, Mr Raab?](https://www.bbc.co.uk/news/uk-politics-58270377) - The foreign secretary gives a one-word answer when asked about his future.
-29. [Ben Wallace: 'Every hour counts' of Kabul evacuation](https://www.bbc.co.uk/news/uk-politics-58267754) - The UK defence secretary spoke to BBC Breakfast about the evacuation of people from Kabul airport.
+25. [Ben Wallace on airlifting Brits and Afghans out of Kabul](https://www.bbc.co.uk/news/uk-politics-58305486) - The UK will not be staying on in Afghanistan when the US leaves, says Britain's defence secretary.
+26. [Former PM Tony Blair: 'It's not just about the Afghan people... it's about our security'](https://www.bbc.co.uk/news/uk-58296950) - Tony Blair expresses his concerns about UK security following the Taliban's takeover of Afghanistan.
+27. [Tom Tugendhat on UK and Afghanistan: Anger, grief, rage](https://www.bbc.co.uk/news/uk-politics-58259509) - Tory MP Tom Tugendhat speaks of the anger, grief and rage of veterans at the "abandonment" of Afghanistan.
+28. [Harman: Women must be involved in Afghan discussions](https://www.bbc.co.uk/news/uk-politics-58272971) - A former acting Labour leader calls for women to be heard, rather than Foreign Secretary Dominic Raab.
+29. [Are you going to resign, Mr Raab?](https://www.bbc.co.uk/news/uk-politics-58270377) - The foreign secretary gives a one-word answer when asked about his future.
 30. [Afghanistan: Who originally supported Trump's deal with the Taliban?](https://www.bbc.co.uk/news/58271943) - UK Defence Secretary Ben Wallace now calls it a "rotten" deal but supported it at the time.
 31. [Sent to Halifax: One town's asylum story](https://www.bbc.co.uk/news/uk-politics-58270841) - What life is like for asylum seekers in a Yorkshire town - and what locals think about accepting more.
 32. [Woke: Compliment or criticism, it is now fuelling the culture wars](https://www.bbc.co.uk/news/uk-politics-58281576) - The surprising history of a term increasingly thrown around in UK political debate.

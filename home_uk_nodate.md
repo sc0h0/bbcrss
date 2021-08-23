@@ -1,6 +1,6 @@
 1. [Afghanistan: People at Kabul airport flee Taliban with just a suitcase](https://www.bbc.co.uk/news/world-asia-58300386) - Afghans waiting at Kabul airport tell the BBC of their pain at fleeing the country they love.
-2. [Afghanistan evacuations: UK cannot stay alone - minister](https://www.bbc.co.uk/news/uk-58302734) - Evacuations depend on the presence of US troops and Taliban co-operation, says James Heappey.
-3. [Covid: PCR test cost clamp down and vaccine plea for youngsters](https://www.bbc.co.uk/news/uk-58300027) - Five things you need to know about the coronavirus pandemic this Monday morning.
+2. [Afghanistan evacuations: 'Hours not weeks' for final UK flights](https://www.bbc.co.uk/news/uk-58302734) - The defence secretary says the UK will leave Kabul alongside the withdrawal of US troops, due next week.
+3. [Gogglebox star Mary Cook dies aged 92](https://www.bbc.co.uk/news/entertainment-arts-58305900) - She was known for her appearances with friend Marina Wingrove on the Channel 4 show.
 4. [John Lydon loses court battle with ex-Sex Pistols bandmates over TV series](https://www.bbc.co.uk/news/entertainment-arts-58303879) - The band's former frontman had objected to songs being used in a new Danny Boyle-directed TV drama.
 5. [Snowdon: Call to respect mountain amid spike in visitors](https://www.bbc.co.uk/news/uk-wales-58283816) - Litter, erosion and traffic put "significant pressure" on the mountain, says the Snowdonia Society.
 6. [Covid: Government warns Covid test firms over misleading prices](https://www.bbc.co.uk/news/business-58300897) - More than 80 Covid test firms are issued with warnings and could be taken off the government's website.

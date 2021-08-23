@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 23 Aug 2021 09:50:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Aug 2021 10:34:45 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -21,13 +21,6 @@
             <link>https://www.bbc.co.uk/news/world-asia-58299804</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58299804</guid>
             <pubDate>Mon, 23 Aug 2021 06:38:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Afghanistan: Afghan woman gives birth to baby girl on US evacuation plane]]></title>
-            <description><![CDATA[The woman went into labour en route to Ramstein Air Base in Germany and gave birth on the plane.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58297893</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58297893</guid>
-            <pubDate>Sun, 22 Aug 2021 10:58:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tennessee flash floods kill 22 with dozens missing]]></title>
@@ -51,6 +44,13 @@
             <pubDate>Mon, 23 Aug 2021 05:02:36 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Joséphine Baker to be first black woman to enter France's Panthéon]]></title>
+            <description><![CDATA[The performer and World War Two resistance fighter will be inducted into the mausoleum in November.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58303919</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58303919</guid>
+            <pubDate>Mon, 23 Aug 2021 10:32:41 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Chip giant's IPO hit by Beijing crackdown on business]]></title>
             <description><![CDATA[The share listing of BYD Semiconductor has been suspended due to a regulatory investigation.]]></description>
             <link>https://www.bbc.co.uk/news/business-58301603</link>
@@ -62,7 +62,7 @@
             <description><![CDATA[Nice versus Marseille is abandoned after Dimitri Payet throws a bottle back into the crowd and fans storm the pitch.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58301034</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58301034</guid>
-            <pubDate>Sun, 22 Aug 2021 23:13:34 GMT</pubDate>
+            <pubDate>Mon, 23 Aug 2021 10:29:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: New Zealand pandemic strategy in doubt amid Delta spread]]></title>
@@ -196,6 +196,13 @@
             <link>https://www.bbc.co.uk/news/world-asia-58297623</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58297623</guid>
             <pubDate>Sun, 22 Aug 2021 17:41:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Afghan baby girl born on US evacuation flight]]></title>
+            <description><![CDATA[The woman went into labour en route to Ramstein Air Base in Germany and gave birth on the plane.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58297893</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58297893</guid>
+            <pubDate>Sun, 22 Aug 2021 10:58:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Afghanistan: The desperate scramble to escape]]></title>
