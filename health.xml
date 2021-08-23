@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 23 Aug 2021 08:59:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Aug 2021 09:20:06 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -233,6 +233,13 @@
             <pubDate>Sun, 22 Aug 2021 23:03:14 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Long Covid sufferer: Brushing my hair can be 'emotionally traumatising']]></title>
+            <description><![CDATA[Megan Higgins talks about long Covid's effect on her emotional resilience and her hopes for the future.]]></description>
+            <link>https://www.bbc.co.uk/news/health-58304602</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-58304602</guid>
+            <pubDate>Mon, 23 Aug 2021 09:02:11 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The West End star who worked as carer during lockdown]]></title>
             <description><![CDATA[As theatres reopen, actors like Stephen Beckett have been swapping their lockdown jobs for their place on the stage once more.]]></description>
             <link>https://www.bbc.co.uk/news/entertainment-arts-58080453</link>
@@ -252,13 +259,6 @@
             <link>https://www.bbc.co.uk/news/health-58274916</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/health-58274916</guid>
             <pubDate>Fri, 20 Aug 2021 05:35:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: 'I'm pregnant, should I have the vaccine?']]></title>
-            <description><![CDATA[Many pregnant women have declined the Covid jab, but what's best for the baby?]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-london-58089039</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-58089039</guid>
-            <pubDate>Tue, 17 Aug 2021 23:12:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
