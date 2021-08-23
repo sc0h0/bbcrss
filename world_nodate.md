@@ -1,4 +1,4 @@
-1. [Afghanistan: US orders civilian jets to join evacuation](https://www.bbc.co.uk/news/world-asia-58299804) - A Pentagon statement says 18 commercial aircraft will help with the evacuation effort.
+1. [Afghanistan: US ramping up Kabul evacuation effort, says Biden](https://www.bbc.co.uk/news/world-asia-58299804) - American troops expand the perimeter around Kabul airport as thousands hope to escape the Taliban.
 2. [Afghanistan: Afghan woman gives birth to baby girl on US evacuation plane](https://www.bbc.co.uk/news/world-asia-58297893) - The woman went into labour en route to Ramstein Air Base in Germany and gave birth on the plane.
 3. [Storm Henri makes landfall at Rhode Island](https://www.bbc.co.uk/news/world-us-canada-58300877) - More than 120,000 homes are without power as millions of people warned to expect significant damage.
 4. [Nord Stream 2: Russia must not use gas pipeline as weapon, says Merkel](https://www.bbc.co.uk/news/world-europe-58301099) - The German chancellor says Moscow could face sanctions if it uses Nord Stream 2 against Ukraine.

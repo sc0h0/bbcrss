@@ -1,4 +1,4 @@
-1. [Afghanistan: US orders civilian jets to join evacuation](https://www.bbc.co.uk/news/world-asia-58299804) - A Pentagon statement says 18 commercial aircraft will help with the evacuation effort.
+1. [Afghanistan: US ramping up Kabul evacuation effort, says Biden](https://www.bbc.co.uk/news/world-asia-58299804) - American troops expand the perimeter around Kabul airport as thousands hope to escape the Taliban.
 2. [Covid: New Zealand pandemic strategy in doubt amid Delta spread](https://www.bbc.co.uk/news/world-asia-58297895) - The highly infectious Delta variant "does change the game", the Covid response minister says.
 3. [Afghanistan: Where will refugees go after Taliban takeover?](https://www.bbc.co.uk/news/world-asia-58283177) - Thousands of people are scrambling to flee Afghanistan after the Taliban took control of the country.
 4. [Kamala Harris joins diplomatic charm offensive in South East Asia](https://www.bbc.co.uk/news/world-asia-58277226) - The US vice-president's trip to the region falls in the shadow of a chaotic withdrawal from Afghanistan.

@@ -1,5 +1,5 @@
 1. [Afghanistan: PM to press Biden to delay Kabul withdrawal](https://www.bbc.co.uk/news/uk-58301269) - Boris Johnson will request more time to evacuate people during a G7 meeting on Tuesday.
-2. [Afghanistan: US orders civilian jets to join evacuation](https://www.bbc.co.uk/news/world-asia-58299804) - A Pentagon statement says 18 commercial aircraft will help with the evacuation effort.
+2. [Afghanistan: US ramping up Kabul evacuation effort, says Biden](https://www.bbc.co.uk/news/world-asia-58299804) - American troops expand the perimeter around Kabul airport as thousands hope to escape the Taliban.
 3. [Covid: Government warns Covid test firms over misleading prices](https://www.bbc.co.uk/news/business-58300897) - More than 80 Covid test firms are issued with warnings and could be taken off the government's website.
 4. [Afghanistan: The BBC's Lyse Doucet reports from Kabul airport](https://www.bbc.co.uk/news/world-asia-58300416) - The BBC's Lyse Doucet witnesses Afghan men, women and children fleeing the Taliban regime.
 5. [Coronavirus: Young people warn of long Covid amid jab drive](https://www.bbc.co.uk/news/uk-58301011) - The government says it has met its target to offer all 16 and 17-year-olds in England a vaccine.
