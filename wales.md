@@ -25,4 +25,4 @@
 25. [Yr Wyddfa: Galw ar gerddwyr i 'barchu'r mynydd'](https://www.bbc.co.uk/newyddion/58299396) - Mon, 23 Aug 2021 05:58:29 GMT - Mae sbwriel ac erydiad llwybrau wedi rhoi "pwysau sylweddol" ar y mynydd, medd Cymdeithas Eryri.
 26. [Dyn 80 oed yn cerdded Cader Idris er cof am ei fab](https://www.bbc.co.uk/newyddion/58299398) - Mon, 23 Aug 2021 06:17:06 GMT - Tom Jones wedi dringo i gopa'r mynydd ar ei ben-blwydd er cof am ei fab fu farw o ganser y gwaed.
 27. [Cerdyn post oddi wrth... Llŷr Alun](https://www.bbc.co.uk/newyddion/58264143) - Sun, 22 Aug 2021 07:22:31 GMT - Wythnos hon, Llŷr Alun neu 'Llŷr Am Dro' sydd yn anfon cyfarchion i ni o bier Bangor.
-28. [Y Bencampwriaeth: Caerdydd 3-1 Millwall](https://www.bbc.co.uk/newyddion/58291608) - Sat, 21 Aug 2021 15:56:59 GMT - Record ddiguro Caerdydd yn parhau wrth i Aden Flint sgorio ddwywaith am yr eildro mewn wythnos.
+28. [Williams yn ennill Pencampwriaeth Snwcer Agored Prydain](https://www.bbc.co.uk/newyddion/58302742) - Mon, 23 Aug 2021 06:47:40 GMT - Mark Williams yn trechu Gary Wilson er mwyn ennill Pencampwriaeth Snwcer Agored Prydain am yr eilwaith.

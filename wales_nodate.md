@@ -25,4 +25,4 @@
 25. [Yr Wyddfa: Galw ar gerddwyr i 'barchu'r mynydd'](https://www.bbc.co.uk/newyddion/58299396) - Mae sbwriel ac erydiad llwybrau wedi rhoi "pwysau sylweddol" ar y mynydd, medd Cymdeithas Eryri.
 26. [Dyn 80 oed yn cerdded Cader Idris er cof am ei fab](https://www.bbc.co.uk/newyddion/58299398) - Tom Jones wedi dringo i gopa'r mynydd ar ei ben-blwydd er cof am ei fab fu farw o ganser y gwaed.
 27. [Cerdyn post oddi wrth... Llŷr Alun](https://www.bbc.co.uk/newyddion/58264143) - Wythnos hon, Llŷr Alun neu 'Llŷr Am Dro' sydd yn anfon cyfarchion i ni o bier Bangor.
-28. [Y Bencampwriaeth: Caerdydd 3-1 Millwall](https://www.bbc.co.uk/newyddion/58291608) - Record ddiguro Caerdydd yn parhau wrth i Aden Flint sgorio ddwywaith am yr eildro mewn wythnos.
+28. [Williams yn ennill Pencampwriaeth Snwcer Agored Prydain](https://www.bbc.co.uk/newyddion/58302742) - Mark Williams yn trechu Gary Wilson er mwyn ennill Pencampwriaeth Snwcer Agored Prydain am yr eilwaith.
