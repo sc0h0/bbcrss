@@ -1,10 +1,10 @@
 1. [Afghanistan: People at Kabul airport flee Taliban with just a suitcase](https://www.bbc.co.uk/news/world-asia-58300386) - Afghans waiting at Kabul airport tell the BBC of their pain at fleeing the country they love.
 2. [Afghanistan evacuations: UK cannot stay alone - minister](https://www.bbc.co.uk/news/uk-58302734) - Evacuations depend on the presence of US troops and Taliban co-operation, says James Heappey.
 3. [Covid: PCR test cost clamp down and vaccine plea for youngsters](https://www.bbc.co.uk/news/uk-58300027) - Five things you need to know about the coronavirus pandemic this Monday morning.
-4. [Snowdon: Call to respect mountain amid spike in visitors](https://www.bbc.co.uk/news/uk-wales-58283816) - Litter, erosion and traffic put "significant pressure" on the mountain, says the Snowdonia Society.
-5. [Covid: Government warns Covid test firms over misleading prices](https://www.bbc.co.uk/news/business-58300897) - More than 80 Covid test firms are issued with warnings and could be taken off the government's website.
-6. [Coronavirus: Young people warn of long Covid amid jab drive](https://www.bbc.co.uk/news/uk-58301011) - The government says it has met its target to offer all 16 and 17-year-olds in England a vaccine.
-7. [Afghanistan: PM to press Biden to delay Kabul withdrawal](https://www.bbc.co.uk/news/uk-58301269) - Boris Johnson will request more time to evacuate people during a G7 meeting on Tuesday.
+4. [John Lydon loses court battle with ex-Sex Pistols bandmates over TV series](https://www.bbc.co.uk/news/entertainment-arts-58303879) - The band's former frontman had objected to songs being used in a new Danny Boyle-directed TV drama.
+5. [Snowdon: Call to respect mountain amid spike in visitors](https://www.bbc.co.uk/news/uk-wales-58283816) - Litter, erosion and traffic put "significant pressure" on the mountain, says the Snowdonia Society.
+6. [Covid: Government warns Covid test firms over misleading prices](https://www.bbc.co.uk/news/business-58300897) - More than 80 Covid test firms are issued with warnings and could be taken off the government's website.
+7. [Coronavirus: Young people warn of long Covid amid jab drive](https://www.bbc.co.uk/news/uk-58301011) - The government says it has met its target to offer all 16 and 17-year-olds in England a vaccine.
 8. [Westminster double murder: Victims named as police hunt continues](https://www.bbc.co.uk/news/uk-england-london-58304303) - Sharon Pickles and Clinton Ashmore both died from a stab wound to the neck.
 9. [Nord Stream 2: Russia must not use gas pipeline as weapon, says Merkel](https://www.bbc.co.uk/news/world-europe-58301099) - The German chancellor says Moscow could face sanctions if it uses Nord Stream 2 against Ukraine.
 10. [RMT threatens strike action over legionella on trains](https://www.bbc.co.uk/news/uk-england-london-58298711) - The RMT has launched a dispute after trace amounts of legionella were found in four trains' toilets.
