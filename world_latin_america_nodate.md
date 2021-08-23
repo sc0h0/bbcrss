@@ -1,4 +1,4 @@
-1. [Hurricane Grace kills eight as it rips through eastern Mexico](https://www.bbc.co.uk/news/world-latin-america-58295511) - The powerful storm brings torrential rain and high winds, causing power cuts and flooding.
+1. [Hurricane Grace: Mexican man buries wife and five children killed in mudslide](https://www.bbc.co.uk/news/world-latin-america-58305137) - A man and his son were the only members of a family of eight to survive a mudslide in Mexico.
 2. [Bath rescuer hopes to find Haiti earthquake survivors](https://www.bbc.co.uk/news/uk-england-somerset-58292726) - The ex-firefighter from Bath is leading a group of structural engineers from a rescue charity.
 3. [Elaine Thompson-Herah runs second fastest time in women's 100m history](https://www.bbc.co.uk/sport/athletics/58295310) - Olympic champion Elaine Thompson-Herah runs the second fastest time in women's 100m history as she clocks 10.54 seconds in Eugene.
 4. [Haiti earthquake: Tensions rise in struggle to get aid to victims](https://www.bbc.co.uk/news/world-latin-america-58284713) - Five days after a powerful earthquake struck, hundreds are missing and people are desperate for aid.
