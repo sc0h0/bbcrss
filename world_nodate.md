@@ -11,7 +11,7 @@
 11. [Poison algae may have killed California family, police say](https://www.bbc.co.uk/news/world-us-canada-58288482) - A family of three may have been killed by toxic algae blooms on a hiking trail, investigators say.
 12. [Kenya holds biggest ever animal census](https://www.bbc.co.uk/news/world-africa-58281212) - All wildlife on land and sea is being counted to help Kenya's conservation plans and tourism.
 13. [Afghanistan: People at Kabul airport flee Taliban with just a suitcase](https://www.bbc.co.uk/news/world-asia-58300386) - Afghans waiting at Kabul airport tell the BBC of their pain at fleeing the country they love.
-14. [Why a US military base became a centre for Chinese Covid conspiracies](https://www.bbc.co.uk/news/world-us-canada-58273322) - Apparent Chinese propaganda efforts are spreading ahead of a US report on Covid-19 origins.
+14. [Wuhan lab leak theory: How Fort Detrick became a centre for Chinese conspiracies](https://www.bbc.co.uk/news/world-us-canada-58273322) - Apparent Chinese propaganda efforts are spreading ahead of a US report on Covid-19 origins.
 15. [Kamala Harris joins diplomatic charm offensive in South East Asia](https://www.bbc.co.uk/news/world-asia-58277226) - The US vice-president's trip to the region falls in the shadow of a chaotic withdrawal from Afghanistan.
 16. [Barakat: First South African film in Cape Town's Afrikaans dialect](https://www.bbc.co.uk/news/world-africa-58189393) - Barakat, or blessing, is the first film in Afrikaaps - a dialect of Afrikaans spoken in Cape Town.
 17. [C-17: The US military plane carrying Afghans to safety](https://www.bbc.co.uk/news/world-asia-58297899) - A Boeing C-17 safely carried 823 Afghans from Kabul last week, a record number for that plane.

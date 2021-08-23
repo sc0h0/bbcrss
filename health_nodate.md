@@ -4,7 +4,7 @@
 4. [Army supporting ambulance services in England](https://www.bbc.co.uk/news/health-58281665) - High demand and staffing shortages have meant the Army has been called in to help look after patients.
 5. [Covid: CO2 monitors pledged to aid school ventilation](https://www.bbc.co.uk/news/education-58285359) - Schools in England are to be given CO2 monitors to as part of plans to limit the spread of Covid.
 6. [Covid-antibody therapy approved in UK](https://www.bbc.co.uk/news/health-58281332) - Antibody therapy - given to former US President Donald Trump - can now be used in the UK.
-7. [Why a US military base became a centre for Chinese Covid conspiracies](https://www.bbc.co.uk/news/world-us-canada-58273322) - Apparent Chinese propaganda efforts are spreading ahead of a US report on Covid-19 origins.
+7. [Wuhan lab leak theory: How Fort Detrick became a centre for Chinese conspiracies](https://www.bbc.co.uk/news/world-us-canada-58273322) - Apparent Chinese propaganda efforts are spreading ahead of a US report on Covid-19 origins.
 8. [Covid cases: This summer compared with last](https://www.bbc.co.uk/news/health-58281664) - Case numbers are 30 times higher than at the same point last year - where might we be heading next?
 9. [Covid vaccine: Fertility and miscarriage claims fact-checked](https://www.bbc.co.uk/news/health-57552527) - Posts claiming Covid vaccines cause miscarriages are not supported by scientific evidence.
 10. [Is the coronavirus pandemic over at last?](https://www.bbc.co.uk/news/uk-scotland-58112939) - As Scotland loosens most of its remaining restrictions, is the devastating pandemic finally at an end?
@@ -28,7 +28,7 @@
 28. [Coronavirus: Intensive care and other key terms explained](https://www.bbc.co.uk/news/health-52182658) - Use our tool to check the meaning of key words and phrases associated with the Covid-19 outbreak.
 29. [Coronavirus: What is the risk to men over 50?](https://www.bbc.co.uk/news/health-52197594) - While most people will have mild symptoms and recover quickly, some are more prone to getting sick.
 30. [Coronavirus: Do face masks actually work?](https://www.bbc.co.uk/news/health-51881555) - With face masks in high demand, we look at whether they really can protect people from the virus.
-31. ['You can change your life with sport'](https://www.bbc.co.uk/news/uk-england-leicestershire-58273615) - Paralympic wheelchair basketball player Lucy Robinson wants to inspire others.
+31. [From broken hip to my first Paralympics](https://www.bbc.co.uk/news/uk-england-leicestershire-58273615) - Paralympic wheelchair basketball player Lucy Robinson wants to inspire others.
 32. [Long Covid sufferer: Brushing my hair can be 'emotionally traumatising'](https://www.bbc.co.uk/news/health-58304602) - Megan Higgins talks about long Covid's effect on her emotional resilience and her hopes for the future.
 33. [The West End star who worked as carer during lockdown](https://www.bbc.co.uk/news/entertainment-arts-58080453) - As theatres reopen, actors like Stephen Beckett have been swapping their lockdown jobs for their place on the stage once more.
 34. [Sport 'very important' in living with dementia](https://www.bbc.co.uk/news/uk-northern-ireland-58279336) - Gerard Doran, 62, said involvement with hillwalking and GAA have benefited him physically and mentally.

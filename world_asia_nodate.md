@@ -6,7 +6,7 @@
 6. [Afghanistan: Where will refugees go after Taliban takeover?](https://www.bbc.co.uk/news/world-asia-58283177) - Thousands of people are scrambling to flee Afghanistan after the Taliban took control of the country.
 7. [Kamala Harris joins diplomatic charm offensive in South East Asia](https://www.bbc.co.uk/news/world-asia-58277226) - The US vice-president's trip to the region falls in the shadow of a chaotic withdrawal from Afghanistan.
 8. [Chip giant's IPO hit by Beijing crackdown on business](https://www.bbc.co.uk/news/business-58301603) - The share listing of BYD Semiconductor has been suspended due to a regulatory investigation.
-9. [Why a US military base became a centre for Chinese Covid conspiracies](https://www.bbc.co.uk/news/world-us-canada-58273322) - Apparent Chinese propaganda efforts are spreading ahead of a US report on Covid-19 origins.
+9. [Wuhan lab leak theory: How Fort Detrick became a centre for Chinese conspiracies](https://www.bbc.co.uk/news/world-us-canada-58273322) - Apparent Chinese propaganda efforts are spreading ahead of a US report on Covid-19 origins.
 10. [Afghanistan: Afghan woman gives birth to baby girl on US evacuation plane](https://www.bbc.co.uk/news/world-asia-58297893) - The woman went into labour en route to Ramstein Air Base in Germany and gave birth on the plane.
 11. [China NPC: Three-child policy formally passed into law](https://www.bbc.co.uk/news/world-asia-china-58277473) - The top legislature was also expected to approve a controversial anti-sanctions law for Hong Kong.
 12. [Covid: Australian police clash with anti-lockdown protesters](https://www.bbc.co.uk/news/world-australia-58291873) - Hundreds of people are arrested after rallies against lockdown measures in Melbourne and Sydney.

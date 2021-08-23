@@ -17,7 +17,7 @@
 17. [Afghanistan crisis: Biden says US troops may stay past withdrawal deadline](https://www.bbc.co.uk/news/world-asia-58264917) - President Biden says he may keep forces there beyond August to help evacuate US citizens.
 18. [R. Kelly trial: Singer 'knew I was underage', accuser tells court](https://www.bbc.co.uk/news/entertainment-arts-58254151) - The US R&B singer is accused of sexual abuse, racketeering and bribery; charges which he has denied.
 19. [Covid vaccine: US plans to offer booster Covid jabs in September](https://www.bbc.co.uk/news/health-58261590) - A third booster Covid vaccine will be offered to anyone who was fully vaccinated eight months ago.
-20. [Why a US military base became a centre for Chinese Covid conspiracies](https://www.bbc.co.uk/news/world-us-canada-58273322) - Apparent Chinese propaganda efforts are spreading ahead of a US report on Covid-19 origins.
+20. [Wuhan lab leak theory: How Fort Detrick became a centre for Chinese conspiracies](https://www.bbc.co.uk/news/world-us-canada-58273322) - Apparent Chinese propaganda efforts are spreading ahead of a US report on Covid-19 origins.
 21. [Kamala Harris joins diplomatic charm offensive in South East Asia](https://www.bbc.co.uk/news/world-asia-58277226) - The US vice-president's trip to the region falls in the shadow of a chaotic withdrawal from Afghanistan.
 22. [Biden interview with ABC fact-checked](https://www.bbc.co.uk/news/58243158) - How consistent is President Biden in his comments on Afghanistan?
 23. [Afghanistan: 'Was my role in Afghan War worth it?'](https://www.bbc.co.uk/news/world-us-canada-58247092) - US military veterans say the Taliban takeover of Afghanistan was "tragic" but "inevitable".
