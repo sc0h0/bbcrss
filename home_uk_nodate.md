@@ -9,7 +9,7 @@
 9. [Covid: New Zealand pandemic strategy in doubt amid Delta spread](https://www.bbc.co.uk/news/world-asia-58297895) - The highly infectious Delta variant "does change the game", the Covid response minister says.
 10. [Gambling: Poorer UK towns found to have the most betting shops, study shows](https://www.bbc.co.uk/news/business-58300899) - Areas with the highest number of betting shops per capita include Glasgow, Liverpool and Middlesbrough.
 11. [Everly Brothers: US rock 'n' roll star Don Everly dies aged 84](https://www.bbc.co.uk/news/world-us-canada-58297621) - The rock 'n' roll duo were known for their harmonies and influenced bands including The Beatles.
-12. [Strikes threatened over outbreak of legionella bacteria on trains](https://www.bbc.co.uk/news/uk-england-london-58298711) - The RMT union has launched a dispute after four trains had actionable traces of legionella bacteria.
+12. [RMT threatens strike action over legionella on trains](https://www.bbc.co.uk/news/uk-england-london-58298711) - The RMT has launched a dispute after trace amounts of legionella were found in four trains' toilets.
 13. [Cwmllynfell rugby player Alex Evans dies during match](https://www.bbc.co.uk/news/uk-wales-58297010) - Alex Evans's team says they have "lost a brother on the field and it is hurting so much".
 14. [Newspaper headlines: PM delay plea to Biden and UK evacuation steps up](https://www.bbc.co.uk/news/blogs-the-papers-58300994) - Reports Boris Johnson will ask the US to keep troops at Kabul airport for longer leads many papers.
 15. ['You can change your life with sport'](https://www.bbc.co.uk/news/uk-england-leicestershire-58273615) - Paralympic wheelchair basketball player Lucy Robinson wants to inspire others.

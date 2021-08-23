@@ -4,8 +4,8 @@
 4. [Nord Stream 2: Russia must not use gas pipeline as weapon, says Merkel](https://www.bbc.co.uk/news/world-europe-58301099) - The German chancellor says Moscow could face sanctions if it uses Nord Stream 2 against Ukraine.
 5. [Covid: Taiwan rolls out homegrown vaccine amid criticism](https://www.bbc.co.uk/news/world-asia-58301573) - Taiwan's president was vaccinated with the country's first domestically developed jab named Medigen.
 6. [Chip giant's IPO hit by Beijing crackdown on business](https://www.bbc.co.uk/news/business-58301603) - The share listing of BYD Semiconductor has been suspended due to a regulatory investigation.
-7. [Covid: New Zealand pandemic strategy in doubt amid Delta spread](https://www.bbc.co.uk/news/world-asia-58297895) - The highly infectious Delta variant "does change the game", the Covid response minister says.
-8. [French match abandoned after player hit by bottle](https://www.bbc.co.uk/sport/football/58301034) - Nice versus Marseille is abandoned after Dimitri Payet throws a bottle back into the crowd and fans storm the pitch.
+7. [French match abandoned after player hit by bottle](https://www.bbc.co.uk/sport/football/58301034) - Nice versus Marseille is abandoned after Dimitri Payet throws a bottle back into the crowd and fans storm the pitch.
+8. [Covid: New Zealand pandemic strategy in doubt amid Delta spread](https://www.bbc.co.uk/news/world-asia-58297895) - The highly infectious Delta variant "does change the game", the Covid response minister says.
 9. [Everly Brothers: US rock 'n' roll star Don Everly dies aged 84](https://www.bbc.co.uk/news/world-us-canada-58297621) - The rock 'n' roll duo were known for their harmonies and influenced bands including The Beatles.
 10. [Covid: Australian police clash with anti-lockdown protesters](https://www.bbc.co.uk/news/world-australia-58291873) - Hundreds of people are arrested after rallies against lockdown measures in Melbourne and Sydney.
 11. [Poison algae may have killed California family, police say](https://www.bbc.co.uk/news/world-us-canada-58288482) - A family of three may have been killed by toxic algae blooms on a hiking trail, investigators say.

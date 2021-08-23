@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 23 Aug 2021 06:36:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Aug 2021 06:47:51 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -72,6 +72,13 @@
             <pubDate>Sun, 22 Aug 2021 15:35:31 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid in Scotland: Education Secretary Shirley-Anne Somerville tests positive]]></title>
+            <description><![CDATA[Dunfermline MSP Shirley-Anne Somerville says she has lost her sense of smell and is self-isolating.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-scotland-politics-58299376</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-scotland-politics-58299376</guid>
+            <pubDate>Sun, 22 Aug 2021 14:26:46 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Man dies in hospital after Stonehaven boat capsize rescue]]></title>
             <description><![CDATA[The 61-year-old was with two other men in a small fishing boat when it overturned in Catterline Bay, Stonehaven.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-58299011</link>
@@ -84,13 +91,6 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-highlands-islands-58299528</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-highlands-islands-58299528</guid>
             <pubDate>Sun, 22 Aug 2021 17:06:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid in Scotland: Education Secretary Shirley-Anne Somerville tests positive]]></title>
-            <description><![CDATA[Dunfermline MSP Shirley-Anne Somerville says she has lost her sense of smell and is self-isolating.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-scotland-politics-58299376</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-scotland-politics-58299376</guid>
-            <pubDate>Sun, 22 Aug 2021 14:26:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: Antibody tests offered to public for first time]]></title>
