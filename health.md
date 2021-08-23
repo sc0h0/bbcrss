@@ -1,4 +1,4 @@
-1. [UK orders 35 million more Pfizer vaccine doses](https://www.bbc.co.uk/news/health-58307215) - Mon, 23 Aug 2021 12:06:38 GMT - The government say it is preparing for Covid boosters to protect the most vulnerable this year.
+1. [UK orders 35 million more Pfizer vaccine doses](https://www.bbc.co.uk/news/health-58307215) - Mon, 23 Aug 2021 12:57:34 GMT - The government say it is preparing for Covid boosters to protect the most vulnerable this year.
 2. [Coronavirus: Young long Covid sufferers lead vaccine drive](https://www.bbc.co.uk/news/uk-58301011) - Mon, 23 Aug 2021 07:46:42 GMT - The government says it has met its target to offer all 16 and 17-year-olds in England a vaccine.
 3. [Covid: Antibody tests offered to public for first time](https://www.bbc.co.uk/news/uk-58293249) - Sun, 22 Aug 2021 15:09:49 GMT - The UK-wide scheme for adults who test positive for coronavirus will launch next week.
 4. [Covid: New Zealand pandemic strategy in doubt amid Delta spread](https://www.bbc.co.uk/news/world-asia-58297895) - Sun, 22 Aug 2021 12:12:36 GMT - The highly infectious Delta variant "does change the game", the Covid response minister says.

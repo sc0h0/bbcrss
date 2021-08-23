@@ -1,5 +1,5 @@
 1. [Westminster double murder: Victims named as police hunt continues](https://www.bbc.co.uk/news/uk-england-london-58304303) - Sharon Pickles and Clinton Ashmore both died from a stab wound to the neck.
-2. [Extinction Rebellion protesters block Trafalgar Square](https://www.bbc.co.uk/news/uk-england-london-58306278) - The activist group opens its fifth mass protest against fossil fuel use in London's Trafalgar Square.
+2. [Extinction Rebellion erects table near Leicester Square](https://www.bbc.co.uk/news/uk-england-london-58306278) - Extinction Rebellion activists are chained to the table in London in their latest mass protest.
 3. [Eileen Barrott death: Murder-accused husband appears in court](https://www.bbc.co.uk/news/uk-england-leeds-58307165) - Mark Barrott is accused of murdering wife Eileen, who died at her home in Leeds on 15 August.
 4. [RMT threatens strike action over legionella on trains](https://www.bbc.co.uk/news/uk-england-london-58298711) - The RMT has launched a dispute after trace amounts of legionella were found in four trains' toilets.
 5. [Southend Sober Socials: 'You can have a blast without the booze'](https://www.bbc.co.uk/news/uk-england-essex-58173941) - An event in Essex is aiming to "normalise socialising" without alcohol.
