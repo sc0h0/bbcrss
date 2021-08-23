@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 23 Aug 2021 17:33:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Aug 2021 17:42:27 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -28,13 +28,6 @@
             <link>https://www.bbc.co.uk/news/uk-58302734</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58302734</guid>
             <pubDate>Mon, 23 Aug 2021 16:17:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hours without food or water in Kabul airport 'hell']]></title>
-            <description><![CDATA[An Afghan man who worked for the British army tells the BBC he and his family cannot get through the crowds.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58305040</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58305040</guid>
-            <pubDate>Mon, 23 Aug 2021 12:26:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[UK orders 35 million more Pfizer vaccine doses]]></title>
@@ -84,6 +77,13 @@
             <link>https://www.bbc.co.uk/news/entertainment-arts-58307306</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-58307306</guid>
             <pubDate>Mon, 23 Aug 2021 12:58:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Boardmasters: 4,700 Covid cases 'may be linked' to Newquay festival]]></title>
+            <description><![CDATA[The full scale of infections linked to Boardmasters in Newquay will not be known for a "few days".]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-cornwall-58309660</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-cornwall-58309660</guid>
+            <pubDate>Mon, 23 Aug 2021 17:10:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Man arrested as Katie Price taken to hospital]]></title>
@@ -177,6 +177,13 @@
             <pubDate>Sat, 21 Aug 2021 23:14:31 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Tokyo Paralympics: A 'different' Games but Paralympians still hope to shine]]></title>
+            <description><![CDATA[The opening ceremony of the Tokyo Paralympics takes place on Tuesday with the Japanese capital still facing Covid-19 challenges.]]></description>
+            <link>https://www.bbc.co.uk/sport/disability-sport/58306545</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/disability-sport/58306545</guid>
+            <pubDate>Mon, 23 Aug 2021 16:59:41 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Covid returns to top 10 causes of death]]></title>
             <description><![CDATA[Covid-19 was the ninth biggest cause of death in England in July.]]></description>
             <link>https://www.bbc.co.uk/news/58305191</link>
@@ -217,13 +224,6 @@
             <link>https://www.bbc.co.uk/news/entertainment-arts-58270729</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-58270729</guid>
             <pubDate>Mon, 23 Aug 2021 14:42:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A 'different' Games but Paralympians still hope to shine in Tokyo]]></title>
-            <description><![CDATA[The opening ceremony of the Tokyo Paralympics takes place on Tuesday with the Japanese capital still facing Covid-19 challenges.]]></description>
-            <link>https://www.bbc.co.uk/sport/disability-sport/58306545</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/disability-sport/58306545</guid>
-            <pubDate>Mon, 23 Aug 2021 16:59:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Wood out of third Test against India with shoulder injury]]></title>
@@ -268,11 +268,25 @@
             <pubDate>Sun, 22 Aug 2021 23:00:38 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Bundesliga highlights: Serge Gnabry scores twice as Bayern Munich beat Cologne]]></title>
+            <description><![CDATA[Watch highlights from Bayern Munich's 3-2 win over Cologne in the Bundesliga featuring goals from Serge Gnabry and Robert Lewandowski.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/football/58301216</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/58301216</guid>
+            <pubDate>Sun, 22 Aug 2021 22:56:16 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Afghanistan crisis: 'Hey world, do you care what happens here?']]></title>
             <description><![CDATA[A young woman shares her fears a week after the Taliban takeover of Afghanistan.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-58297623</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58297623</guid>
             <pubDate>Sun, 22 Aug 2021 17:41:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hours without food or water in Kabul airport 'hell']]></title>
+            <description><![CDATA[An Afghan man who worked for the British army tells the BBC he and his family cannot get through the crowds.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-58305040</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58305040</guid>
+            <pubDate>Mon, 23 Aug 2021 12:26:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Kabul arrivals in the UK: 'We are the lucky ones']]></title>

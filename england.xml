@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 23 Aug 2021 17:34:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Aug 2021 17:42:28 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -30,11 +30,11 @@
             <pubDate>Mon, 23 Aug 2021 08:38:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Extinction Rebellion erects table near Leicester Square]]></title>
-            <description><![CDATA[Extinction Rebellion activists are chained to the table in London in their latest mass protest.]]></description>
+            <title><![CDATA[Extinction Rebellion erects table in Covent Garden]]></title>
+            <description><![CDATA[Eight Extinction Rebellion activists are arrested in the group's latest mass protest in London.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-london-58306278</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-58306278</guid>
-            <pubDate>Mon, 23 Aug 2021 12:42:19 GMT</pubDate>
+            <pubDate>Mon, 23 Aug 2021 17:39:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Geronimo the alpaca should be studied not killed, vets say]]></title>
@@ -170,6 +170,13 @@
             <pubDate>Mon, 23 Aug 2021 13:09:23 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[T20 Blast quarter-finals: From The Hundred back to the 120-ball format]]></title>
+            <description><![CDATA[The English cricket season moves on from Saturday's Hundred finals to this week's four T20 Blast quarter-finals.]]></description>
+            <link>https://www.bbc.co.uk/sport/cricket/58283420</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/58283420</guid>
+            <pubDate>Mon, 23 Aug 2021 17:39:54 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Premier League confirms 16 new positive Covid cases in latest round of testing]]></title>
             <description><![CDATA[The Premier League says 16 players and club staff have tested positive for coronavirus over the past week.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58308674</link>
@@ -189,13 +196,6 @@
             <link>https://www.bbc.co.uk/sport/football/58300490</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58300490</guid>
             <pubDate>Mon, 23 Aug 2021 16:18:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Solheim Cup: Europe's Georgia Hall, Charley Hull and Mel Reid to face US]]></title>
-            <description><![CDATA[England's Georgia Hall, Charley Hull and Mel Reid are all in Europe's team for their defence of the Solheim Cup against the United States in September.]]></description>
-            <link>https://www.bbc.co.uk/sport/golf/58301072</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/golf/58301072</guid>
-            <pubDate>Mon, 23 Aug 2021 14:11:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
