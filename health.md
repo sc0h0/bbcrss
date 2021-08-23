@@ -1,4 +1,4 @@
-1. [Coronavirus: Young people warn of long Covid amid jab drive](https://www.bbc.co.uk/news/uk-58301011) - Mon, 23 Aug 2021 01:40:45 GMT - The government says it has met its target to offer all 16 and 17-year-olds in England a vaccine.
+1. [Coronavirus: Young people warn of long Covid amid jab drive](https://www.bbc.co.uk/news/uk-58301011) - Mon, 23 Aug 2021 07:46:42 GMT - The government says it has met its target to offer all 16 and 17-year-olds in England a vaccine.
 2. [Covid: Antibody tests offered to public for first time](https://www.bbc.co.uk/news/uk-58293249) - Sun, 22 Aug 2021 15:09:49 GMT - The UK-wide scheme for adults who test positive for coronavirus will launch next week.
 3. [Covid: New Zealand pandemic strategy in doubt amid Delta spread](https://www.bbc.co.uk/news/world-asia-58297895) - Sun, 22 Aug 2021 12:12:36 GMT - The highly infectious Delta variant "does change the game", the Covid response minister says.
 4. [Army supporting ambulance services in England](https://www.bbc.co.uk/news/health-58281665) - Fri, 20 Aug 2021 16:01:14 GMT - High demand and staffing shortages have meant the Army has been called in to help look after patients.
