@@ -8,10 +8,10 @@
 8. [Covid: Australian police clash with anti-lockdown protesters](https://www.bbc.co.uk/news/world-australia-58291873) - Hundreds of people are arrested after rallies against lockdown measures in Melbourne and Sydney.
 9. [Nine Afghan girl robotics team members safe in Qatar](https://www.bbc.co.uk/news/world-us-canada-58286398) - The all-girls team, known as the "Afghan Dreamers" have made headlines around the world.
 10. [Child handed over wall amid Kabul airport chaos](https://www.bbc.co.uk/news/world-asia-58267756) - Afghans try to scale airport walls and shots are fired as crowds keep trying to flee the Taliban.
-11. [Paralympics: Para-badminton player Palak Kohli on preparing for Tokyo 2020](https://www.bbc.co.uk/news/world-asia-58271771) - Palak Kohli is the only Indian para-badminton player to be competing in three categories in Tokyo.
-12. [Hackers steal nearly $100m in Japan crypto heist](https://www.bbc.co.uk/news/business-58277359) - The incident comes days after $600m of cryptocurrencies was stolen from another digital platform.
-13. [Afghan crisis: Russia plans for new era with Taliban rule](https://www.bbc.co.uk/news/world-europe-58265934) - While Western governments raced to get their people out, Russia appears unfazed by the takeover.
-14. [Afghanistan: The desperate scramble to escape](https://www.bbc.co.uk/news/world-asia-58286000) - The BBC witnesses scenes of chaos and panic as thousands still crowd Kabul's airport.
+11. [Afghanistan: 'Women should fight for the right to work'](https://www.bbc.co.uk/news/world-asia-58301303) - A leading campaigner for women's rights in Afghanistan was evacuated from Kabul last week, after going into hiding.
+12. [Afghan crisis: Russia plans for new era with Taliban rule](https://www.bbc.co.uk/news/world-europe-58265934) - While Western governments raced to get their people out, Russia appears unfazed by the takeover.
+13. [Afghanistan: The desperate scramble to escape](https://www.bbc.co.uk/news/world-asia-58286000) - The BBC witnesses scenes of chaos and panic as thousands still crowd Kabul's airport.
+14. [Paralympics: Para-badminton player Palak Kohli on preparing for Tokyo 2020](https://www.bbc.co.uk/news/world-asia-58271771) - Palak Kohli is the only Indian para-badminton player to be competing in three categories in Tokyo.
 15. [How Afghanistan's media is changing under Taliban rule](https://www.bbc.co.uk/news/world-asia-58273011) - The Taliban are currently on a media offensive but does their rhetoric match what’s happening on the ground?
 16. ['They will kill me': Desperate Afghans seek way out after Taliban takeover](https://www.bbc.co.uk/news/world-asia-58286372) - Many Afghans are desperate to escape after the Taliban takeover. Some fear there is no way out.
 17. ['It was very emotional on the plane out of Afghanistan'](https://www.bbc.co.uk/news/uk-58256816) - Afghan businesswoman Hassina Syed speaks of her relief at getting out on a British military plane.
@@ -19,5 +19,3 @@
 19. [Ramappa temple: The Indian shrine that is now a World Heritage site](https://www.bbc.co.uk/news/world-asia-india-58255574) - The 800-year-old temple in India's southern state of Telangana is now on the tourist map.
 20. [What is Sharia law? What does it mean for women in Afghanistan?](https://www.bbc.co.uk/news/world-27307249) - The Taliban say they will govern Afghanistan according to Sharia, or Islamic law
 21. [Uncertain times ahead for Afghan women](https://www.bbc.co.uk/news/world-asia-58244017) - After the Taliban takeover, it is not yet clear how women will fare with the militants in power.
-22. [Afghanistan: Will it become haven for terror with the Taliban in power?](https://www.bbc.co.uk/news/world-asia-58232041) - The Taliban are back, 20 years after being ousted for supporting terror groups. Will they do the same?
-23. [There and back again: The epic adventures of China's wandering elephants](https://www.bbc.co.uk/news/world-asia-china-58196663) - After a mammoth journey across the country the pack of pachyderms are finally heading home.
