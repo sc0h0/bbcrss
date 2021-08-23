@@ -1,4 +1,4 @@
-1. [Afghanistan: Every minute counts, says UK minister](https://www.bbc.co.uk/news/uk-58302734) - James Heappey says the Taliban is co-operating with evacuations but the UK takes "nothing for granted".
+1. [Afghanistan evacuations: UK cannot stay alone - minister](https://www.bbc.co.uk/news/uk-58302734) - Evacuations depend on the presence of US troops and Taliban co-operation, says James Heappey.
 2. [Afghanistan: PM to press Biden to delay Kabul withdrawal](https://www.bbc.co.uk/news/uk-58301269) - Boris Johnson will request more time to evacuate people during a G7 meeting on Tuesday.
 3. [Afghanistan: Tony Blair says withdrawal was driven by imbecilic slogan](https://www.bbc.co.uk/news/uk-58295384) - The ex-PM criticises the US decision to withdraw its military as "tragic, dangerous, and unnecessary".
 4. [Afghanistan: Labour demands urgent action over evacuation crisis](https://www.bbc.co.uk/news/uk-58290593) - People being beaten, shot at or raped while trying to secure documentation in Kabul, Lisa Nandy says.
