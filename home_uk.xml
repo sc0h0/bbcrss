@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 22 Aug 2021 23:48:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Aug 2021 00:16:43 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -51,18 +51,18 @@
             <pubDate>Sun, 22 Aug 2021 17:45:18 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Storm Henri makes landfall at Rhode Island]]></title>
+            <description><![CDATA[More than 120,000 homes are without power as millions of people warned to expect significant damage.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-58300877</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-58300877</guid>
+            <pubDate>Sun, 22 Aug 2021 20:50:18 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Everly Brothers: US rock 'n' roll star Don Everly dies aged 84]]></title>
             <description><![CDATA[The rock 'n' roll duo were known for their harmonies and influenced bands including The Beatles.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-58297621</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-58297621</guid>
             <pubDate>Sun, 22 Aug 2021 15:12:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Afghanistan: Tony Blair says withdrawal was driven by imbecilic slogan]]></title>
-            <description><![CDATA[The ex-PM criticises the US decision to withdraw its military as "tragic, dangerous, and unnecessary".]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58295384</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58295384</guid>
-            <pubDate>Sun, 22 Aug 2021 14:57:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: Antibody tests offered to public for first time]]></title>
@@ -72,18 +72,18 @@
             <pubDate>Sun, 22 Aug 2021 15:09:49 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Afghanistan: Tony Blair says withdrawal was driven by imbecilic slogan]]></title>
+            <description><![CDATA[The ex-PM criticises the US decision to withdraw its military as "tragic, dangerous, and unnecessary".]]></description>
+            <link>https://www.bbc.co.uk/news/uk-58295384</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58295384</guid>
+            <pubDate>Sun, 22 Aug 2021 14:57:25 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Arsenal 0-2 Chelsea: Romelu Lukaku scores as Blues win London derby]]></title>
             <description><![CDATA[Romelu Lukaku scores his first ever Chelsea goal - almost a decade after his debut - as Thomas Tuchel's team deservedly beat Arsenal.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58193457</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58193457</guid>
             <pubDate>Sun, 22 Aug 2021 17:34:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Storm Henri makes landfall at Rhode Island]]></title>
-            <description><![CDATA[More than 120,000 homes are without power as millions of people warned to expect significant damage.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-58300877</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-58300877</guid>
-            <pubDate>Sun, 22 Aug 2021 20:50:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Afghanistan: Afghan woman gives birth to baby girl on US evacuation plane]]></title>
@@ -324,18 +324,25 @@
             <pubDate>Fri, 20 Aug 2021 04:45:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid vaccine: How many people in the UK have been vaccinated so far?]]></title>
-            <description><![CDATA[The progress made in vaccinating the country's adult population, as more than 47 million people have received at least one dose.]]></description>
-            <link>https://www.bbc.co.uk/news/health-55274833</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-55274833</guid>
-            <pubDate>Thu, 19 Aug 2021 16:47:05 GMT</pubDate>
+            <title><![CDATA[What are the rules and guidance for face masks and coverings?]]></title>
+            <description><![CDATA[Masks are no longer compulsory in England, but remain necessary in other parts of the UK.]]></description>
+            <link>https://www.bbc.co.uk/news/health-51205344</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-51205344</guid>
+            <pubDate>Fri, 20 Aug 2021 08:09:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[What are the holiday rules for travel to green, amber and red list countries?]]></title>
-            <description><![CDATA[A traffic light system is in place setting out rules for entering the UK]]></description>
-            <link>https://www.bbc.co.uk/news/explainers-52544307</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52544307</guid>
-            <pubDate>Fri, 13 Aug 2021 15:36:28 GMT</pubDate>
+            <title><![CDATA[Covid: What do under-30s need to know about the vaccine?]]></title>
+            <description><![CDATA[All over-16s in the UK can get the Covid vaccine, as well as some vulnerable younger teens.]]></description>
+            <link>https://www.bbc.co.uk/news/health-57273875</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-57273875</guid>
+            <pubDate>Thu, 19 Aug 2021 10:34:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What are the travel rules for Spain, Portugal, Malta and other holiday hotspots?]]></title>
+            <description><![CDATA[What you need to know about going to Portugal, Spain, Greece, France, Malta, Italy and Turkey.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-56997931</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-56997931</guid>
+            <pubDate>Wed, 18 Aug 2021 11:31:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: Five ways to avoid catching the virus indoors]]></title>
@@ -350,13 +357,6 @@
             <link>https://www.bbc.co.uk/news/explainers-54239922</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-54239922</guid>
             <pubDate>Mon, 16 Aug 2021 15:44:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid map: Coronavirus cases, deaths, vaccinations by country]]></title>
-            <description><![CDATA[Key maps and charts explaining how the virus has spread around the world.]]></description>
-            <link>https://www.bbc.co.uk/news/world-51235105</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-51235105</guid>
-            <pubDate>Fri, 20 Aug 2021 09:14:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Coronavirus cure: What progress are we making on treatments?]]></title>
