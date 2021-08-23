@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 23 Aug 2021 05:36:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Aug 2021 05:52:45 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -23,11 +23,25 @@
             <pubDate>Mon, 23 Aug 2021 05:30:29 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid-19: PCR test market needs 'cleaning out', says Randox boss]]></title>
+            <description><![CDATA[Peter Fitzgerald says some Covid-19 test firms may not be delivering the service they claim.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58298467</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58298467</guid>
+            <pubDate>Mon, 23 Aug 2021 05:45:59 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Magee Medical School finally opens in Londonderry for 70 students]]></title>
             <description><![CDATA[Funding problems delayed the opening at Ulster University's Magee campus in Londonderry.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58300292</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58300292</guid>
             <pubDate>Mon, 23 Aug 2021 05:35:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Derry medical school 'a dream come true']]></title>
+            <description><![CDATA[Aoife O'Donnell is among the first student doctors training at Londonderry's new medical school.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58286006</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58286006</guid>
+            <pubDate>Mon, 23 Aug 2021 05:41:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: More than 8,000 first jabs given in weekend vaccine push]]></title>
@@ -44,20 +58,6 @@
             <pubDate>Sun, 22 Aug 2021 19:02:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid: Antibody tests offered to public for first time]]></title>
-            <description><![CDATA[The UK-wide scheme for adults who test positive for coronavirus will launch next week.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58293249</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58293249</guid>
-            <pubDate>Sun, 22 Aug 2021 15:09:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Londonderry: Unionists condemn 'shots' near republican mural]]></title>
-            <description><![CDATA[The incident, in the Galliagh area of Derry, took place at a mural of hunger striker Michael Devine.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58297142</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58297142</guid>
-            <pubDate>Sun, 22 Aug 2021 12:34:49 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Woodvale Road: Belfast flats evacuated after pram set alight]]></title>
             <description><![CDATA[Two people are treated for smoke inhalation after a fire broke out at flats in west Belfast.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58300366</link>
@@ -65,18 +65,11 @@
             <pubDate>Sun, 22 Aug 2021 16:50:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Boris Johnson's Irish Sea tunnel vision - roadworthy or pipe dream?]]></title>
-            <description><![CDATA[A BBC documentary asks how serious is Boris Johnson about a link from Scotland to Northern Ireland?]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58269437</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58269437</guid>
-            <pubDate>Sun, 22 Aug 2021 06:21:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The NI inventor who saved thousands of lives]]></title>
-            <description><![CDATA[The plane ejector seat was invented by James Martin, from Crossgar in County Down, in 1944.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58274204</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58274204</guid>
-            <pubDate>Sat, 21 Aug 2021 23:14:08 GMT</pubDate>
+            <title><![CDATA[Covid: Antibody tests offered to public for first time]]></title>
+            <description><![CDATA[The UK-wide scheme for adults who test positive for coronavirus will launch next week.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-58293249</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58293249</guid>
+            <pubDate>Sun, 22 Aug 2021 15:09:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Portadown assault: Man 'critical' after punch in the face]]></title>
@@ -84,27 +77,6 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58292496</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58292496</guid>
             <pubDate>Sat, 21 Aug 2021 15:53:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[West Belfast: Families move out of homes after race hate crimes]]></title>
-            <description><![CDATA[Houses and cars are attacked in what police describe as "distressing" incidents for the victims.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58281784</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58281784</guid>
-            <pubDate>Fri, 20 Aug 2021 17:18:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Aidan McAnespie: Ex-soldier fails to have manslaughter trial halted]]></title>
-            <description><![CDATA[David Holden, 51, is accused of killing Aidan McAnespie in County Tyrone in 1988.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58281782</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58281782</guid>
-            <pubDate>Fri, 20 Aug 2021 10:40:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[County Fermanagh teenager waiting for brain injury specialist care]]></title>
-            <description><![CDATA[Harvey Little suffered a head and neck injury during a school rugby match in November 2019.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58284637</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58284637</guid>
-            <pubDate>Fri, 20 Aug 2021 17:14:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: Northern Ireland's summer surge figures make for grim reading]]></title>
@@ -163,11 +135,11 @@
             <pubDate>Thu, 19 Aug 2021 08:16:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Dementia and the power of sporting memories]]></title>
-            <description><![CDATA[Recollections from the terraces or the pitch can be invaluable for sports fans with dementia.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-57667387</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57667387</guid>
-            <pubDate>Sat, 21 Aug 2021 06:41:46 GMT</pubDate>
+            <title><![CDATA[Boris Johnson's Irish Sea tunnel vision - roadworthy or pipe dream?]]></title>
+            <description><![CDATA[A BBC documentary asks how serious is Boris Johnson about a link from Scotland to Northern Ireland?]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58269437</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58269437</guid>
+            <pubDate>Sun, 22 Aug 2021 06:21:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Latest Northern Ireland weather forecast]]></title>
@@ -175,6 +147,13 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-26018439</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-26018439</guid>
             <pubDate>Sun, 22 Aug 2021 14:57:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dementia and the power of sporting memories]]></title>
+            <description><![CDATA[Recollections from the terraces or the pitch can be invaluable for sports fans with dementia.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-57667387</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-57667387</guid>
+            <pubDate>Sat, 21 Aug 2021 06:41:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Afghanistan: 'You fear for your family and friends at home']]></title>
@@ -191,11 +170,11 @@
             <pubDate>Sat, 14 Aug 2021 23:00:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The day firebombs devastated Ballymena]]></title>
-            <description><![CDATA[BBC NI's political correspondent Stephen Walker recalls his hometown on a dark day in 1976.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58171539</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58171539</guid>
-            <pubDate>Sat, 14 Aug 2021 05:43:30 GMT</pubDate>
+            <title><![CDATA[The NI inventor who saved thousands of lives]]></title>
+            <description><![CDATA[The plane ejector seat was invented by James Martin, from Crossgar in County Down, in 1944.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58274204</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58274204</guid>
+            <pubDate>Sat, 21 Aug 2021 23:14:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Transatlantic tale of message in a bottle washed up in County Kerry]]></title>
@@ -219,11 +198,11 @@
             <pubDate>Fri, 20 Aug 2021 05:34:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Bill Murray: Golf-loving Ghostbusters star given hand-forged putter]]></title>
-            <description><![CDATA[When the comedy star needed a new putter, who was he gonna call? A County Antrim blacksmith of course.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58263907</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58263907</guid>
-            <pubDate>Wed, 18 Aug 2021 20:27:58 GMT</pubDate>
+            <title><![CDATA[Londonderry: Unionists condemn 'shots' near republican mural]]></title>
+            <description><![CDATA[The incident, in the Galliagh area of Derry, took place at a mural of hunger striker Michael Devine.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58297142</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58297142</guid>
+            <pubDate>Sun, 22 Aug 2021 12:34:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Premier Division: Candystripes edge out Sligo in Showgrounds derby]]></title>
@@ -245,13 +224,6 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58262052</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58262052</guid>
             <pubDate>Wed, 18 Aug 2021 18:08:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Six arrested after group fight in Buncrana Road, Derry]]></title>
-            <description><![CDATA[It was reported a group of men were fighting in the forecourt of a filling station in Buncrana Road.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58249077</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58249077</guid>
-            <pubDate>Wed, 18 Aug 2021 06:11:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Galway: Infant and parents among four dead in collision]]></title>

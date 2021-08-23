@@ -21,8 +21,8 @@
 21. [Meet the Welsh athletes competing at the Tokyo 2020 Paralympics](https://www.bbc.co.uk/sport/disability-sport/58292355) - BBC Sport Wales profiles the Welsh athletes who will be competing at the Tokyo 2020 Paralympics
 22. ['If Flinty goes on like this he's going to score about 40 this year' - Cardiff's Morrison](https://www.bbc.co.uk/sport/av/football/58295084) - Cardiff captain Sean Morrison praises fellow defender Aden Flint after his goal double and one from Morrison himself earn a 3-1 win over Millwall.
 23. [Tokyo Paralympics: World Para-taekwondo champion Matt Bush withdraws injured](https://www.bbc.co.uk/sport/disability-sport/58299215) - Reigning world Para-taekwondo champion Matt Bush is forced to withdraw from the Tokyo 2020 Paralympic Games with an anterior cruciate ligament injury.
-24. [Chwaraewr rygbi'n marw ar ôl cwympo yn ystod gêm](https://www.bbc.co.uk/newyddion/58297084) - Mae Undeb Rygbi Cymru ymhlith y cannoedd sydd wedi cydymdeimlo yn dilyn marwolaeth Alex Evans.
-25. [Rhaid newid rheolau cadw gynnau medd dioddefwr](https://www.bbc.co.uk/newyddion/58291603) - Menyw gafodd ei saethu gan ei gŵr, wedi iddyn nhw wahanu yn 2011, yn erbyn cadw drylliau yn y cartref.
-26. [Apêl goroeswr sepsis am ofal addas i oedolion ifanc](https://www.bbc.co.uk/newyddion/58280830) - Roedd Hollie Smith yn 18 ac ar fin cael prawf i dîm pêl-droed Cymru cyn cael ei tharo'n ddifrifol wael.
+24. [Pryder am effaith Statws Treftadaeth ar gymunedau llechi](https://www.bbc.co.uk/newyddion/58235400) - Cwpl o Ddinorwig yn bryderus am effeithiau canlyniadol y dynodiad UNESCO ar gymunedau'r ardal lechi.
+25. [Chwaraewr rygbi'n marw ar ôl cwympo yn ystod gêm](https://www.bbc.co.uk/newyddion/58297084) - Mae Undeb Rygbi Cymru ymhlith y cannoedd sydd wedi cydymdeimlo yn dilyn marwolaeth Alex Evans.
+26. [Rhaid newid rheolau cadw gynnau medd dioddefwr](https://www.bbc.co.uk/newyddion/58291603) - Menyw gafodd ei saethu gan ei gŵr, wedi iddyn nhw wahanu yn 2011, yn erbyn cadw drylliau yn y cartref.
 27. [Cerdyn post oddi wrth... Llŷr Alun](https://www.bbc.co.uk/newyddion/58264143) - Wythnos hon, Llŷr Alun neu 'Llŷr Am Dro' sydd yn anfon cyfarchion i ni o bier Bangor.
 28. [Y Bencampwriaeth: Caerdydd 3-1 Millwall](https://www.bbc.co.uk/newyddion/58291608) - Record ddiguro Caerdydd yn parhau wrth i Aden Flint sgorio ddwywaith am yr eildro mewn wythnos.
