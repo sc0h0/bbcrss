@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 23 Aug 2021 22:49:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Aug 2021 23:11:19 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Climate change: Europe's extreme rains made more likely by humans]]></title>
+            <description><![CDATA[Heavy rainfall that led to deadly floods in Germany and Belgium was influenced by human induced warming.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-58309900</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-58309900</guid>
+            <pubDate>Mon, 23 Aug 2021 23:03:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Nature crisis: Talks resume on global plan to protect biodiversity]]></title>
             <description><![CDATA[UN negotiators have resumed work on a plan to protect at least 30% of the world's land and oceans.]]></description>
