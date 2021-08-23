@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 23 Aug 2021 09:15:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Aug 2021 09:37:36 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -135,6 +135,13 @@
             <pubDate>Sat, 21 Aug 2021 06:33:42 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Mark Wood: England bowler out of third Test with shoulder injury]]></title>
+            <description><![CDATA[England bowler Mark Wood is out of the third Test against India because of a shoulder injury.]]></description>
+            <link>https://www.bbc.co.uk/sport/cricket/58303560</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/58303560</guid>
+            <pubDate>Mon, 23 Aug 2021 09:32:10 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Solheim Cup: Europe's Georgia Hall, Charley Hull and Mel Reid to face US team featuring Nelly Korda]]></title>
             <description><![CDATA[England's Georgia Hall, Charley Hull and Mel Reid are all in Europe's team for their defence of the Solheim Cup against the United States in September.]]></description>
             <link>https://www.bbc.co.uk/sport/golf/58301072</link>
@@ -161,13 +168,6 @@
             <link>https://www.bbc.co.uk/sport/football/58193457</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58193457</guid>
             <pubDate>Sun, 22 Aug 2021 17:34:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Emma Raducanu: British teenager misses out on first WTA title in Chicago]]></title>
-            <description><![CDATA[Emma Raducanu misses out on claiming her maiden WTA title as she falls to a 6-1 2-6 6-4 defeat by Clara Tauson in the WTA Chicago Challenger final.]]></description>
-            <link>https://www.bbc.co.uk/sport/tennis/58300493</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/tennis/58300493</guid>
-            <pubDate>Sun, 22 Aug 2021 21:05:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
