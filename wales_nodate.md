@@ -6,8 +6,8 @@
 6. [Plymouth shooting: Woman shot by husband wants gun law change](https://www.bbc.co.uk/news/uk-wales-58283811) - Rachel Williams, whose estranged husband shot her in 2011, says guns should not be kept at home.
 7. [Covid: People working out at gyms longer and later at night](https://www.bbc.co.uk/news/uk-wales-58260865) - Are "peak times" at the gym a thing of the past as people visit around work and childcare?
 8. [Paralympics: Calls for wheelchair motocross to be in Games](https://www.bbc.co.uk/news/uk-england-manchester-58297582) - There are calls for the adaptive skateboarding sport to be in the Paralympics by 2028.
-9. [Sepsis: Teen footballer wants better care for young adults](https://www.bbc.co.uk/news/uk-wales-58025735) - Hollie Smith, 19, dreamed of playing for Wales - but after sepsis she needs round-the-clock care.
-10. [Burry Port: Fear for children after asbestos found on beach](https://www.bbc.co.uk/news/uk-wales-58144670) - Campaigners are calling for the removal of what they say is hazardous waste uncovered by erosion.
+9. [Burry Port: Fear for children after asbestos found on beach](https://www.bbc.co.uk/news/uk-wales-58144670) - Campaigners are calling for the removal of what they say is hazardous waste uncovered by erosion.
+10. [Sepsis: Teen footballer wants better care for young adults](https://www.bbc.co.uk/news/uk-wales-58025735) - Hollie Smith, 19, dreamed of playing for Wales - but after sepsis she needs round-the-clock care.
 11. [Clydach murders: Killer David Morris dies in prison](https://www.bbc.co.uk/news/uk-wales-58285620) - David Morris was serving a 32-year sentence for killing three generations of the same family.
 12. [Llandudno: Dog rescued after falling from cliff](https://www.bbc.co.uk/news/uk-wales-58294146) - Five RNLI staff had to help to rescue Tug, a Cocker Spaniel, who became was stuck among rocks.
 13. [Snowdon: 'This is the worst queuing I can remember'](https://www.bbc.co.uk/news/uk-wales-58284171) - A group maintaining the mountain warns of the pressures large numbers of visitors bring.
@@ -20,7 +20,7 @@
 20. [Tanni Grey-Thompson column: 'Tokyo can still be a step forward for Paralympics'](https://www.bbc.co.uk/sport/disability-sport/58266243) - Baroness Tanni Grey-Thompson believes the Tokyo Paralympics can still take the movement to another level.
 21. [Levante 3-3 Real Madrid: Gareth Bale scores in thriller](https://www.bbc.co.uk/sport/football/58300956) - Real Madrid and Levante play out a six-goal thriller that saw Gareth Bale's first La Liga goal since 2019 and an outfield player end up in goal.
 22. [Meet the Welsh athletes competing at the Tokyo 2020 Paralympics](https://www.bbc.co.uk/sport/disability-sport/58292355) - BBC Sport Wales profiles the Welsh athletes who will be competing at the Tokyo 2020 Paralympics
-23. ['If Flinty goes on like this he's going to score about 40 this year' - Cardiff's Morrison](https://www.bbc.co.uk/sport/av/football/58295084) - Cardiff captain Sean Morrison praises fellow defender Aden Flint after his goal double and one from Morrison himself earn a 3-1 win over Millwall.
+23. [MMA: Brett Johns to face Erik Perez at Bellator 268](https://www.bbc.co.uk/sport/wales/58306144) - Welsh bantamweight Brett Johns will look for his first Bellator win when he faces Eric Perez in October
 24. [Pryder am effaith Statws Treftadaeth ar gymunedau llechi](https://www.bbc.co.uk/newyddion/58235400) - Cwpl o Ddinorwig yn bryderus am sgil effeithiau'r dynodiad UNESCO ar gymunedau'r ardal lechi.
 25. [Y Wladfa: 'Angen i gynllun Cymraeg barhau wedi Covid'](https://www.bbc.co.uk/newyddion/58299397) - Galwadau ar i'r cynllun sy'n anfon athrawon o Gymru i Batagonia barhau ar ôl y pandemig.
 26. [Yr Wyddfa: Galw ar gerddwyr i 'barchu'r mynydd'](https://www.bbc.co.uk/newyddion/58299396) - Mae sbwriel ac erydiad llwybrau wedi rhoi "pwysau sylweddol" ar y mynydd, medd Cymdeithas Eryri.

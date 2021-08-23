@@ -11,16 +11,16 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 23 Aug 2021 10:45:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Aug 2021 10:57:53 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
-            <title><![CDATA[Nicola Sturgeon plea to Raab over Scot held in India]]></title>
-            <description><![CDATA[The first minister calls on the foreign secretary to meet the family of a man held in prison in India for four years.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-58272701</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58272701</guid>
-            <pubDate>Mon, 23 Aug 2021 05:08:46 GMT</pubDate>
+            <title><![CDATA[Scots troops prepare for Afghan deployment]]></title>
+            <description><![CDATA[The defence secretary tells the 3 Scots The Black Watch how important their role in evacuating people from Kabul will be.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-58306226</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58306226</guid>
+            <pubDate>Mon, 23 Aug 2021 10:53:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Edinburgh toy shop owner warned of stock shortages in Christmas run-up]]></title>
@@ -37,18 +37,18 @@
             <pubDate>Sun, 22 Aug 2021 21:05:52 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Nicola Sturgeon plea to Raab over Scot held in India]]></title>
+            <description><![CDATA[The first minister calls on the foreign secretary to meet the family of a man held in prison in India for four years.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-58272701</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58272701</guid>
+            <pubDate>Mon, 23 Aug 2021 05:08:46 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Boy, two, has life-threatening injuries after crash]]></title>
             <description><![CDATA[The two-year-old boy was one of four people injured in a two-car crash on the A99 in Caithness.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-highlands-islands-58305221</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-highlands-islands-58305221</guid>
             <pubDate>Mon, 23 Aug 2021 10:09:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Woman, 23, dies in Tayside road crash near Ardler]]></title>
-            <description><![CDATA[The car left the A94 Coupar Angus to Forfar road, near Ardler, and struck a tree on Sunday.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-tayside-central-58304180</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-tayside-central-58304180</guid>
-            <pubDate>Mon, 23 Aug 2021 09:00:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Slides of Charles Rennie Mackintosh masterpiece found on eBay]]></title>
@@ -58,11 +58,11 @@
             <pubDate>Mon, 23 Aug 2021 05:14:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Scotland's papers: 'Fireball' police cars and 16-hour ambulance wait]]></title>
-            <description><![CDATA[Fears over the safety of some police cars and a 98-year-old's long wait for a paramedic make the front pages.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-58302388</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58302388</guid>
-            <pubDate>Mon, 23 Aug 2021 06:55:12 GMT</pubDate>
+            <title><![CDATA[Woman, 23, dies in Tayside road crash near Ardler]]></title>
+            <description><![CDATA[The car left the A94 Coupar Angus to Forfar road, near Ardler, and struck a tree on Sunday.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-tayside-central-58304180</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-tayside-central-58304180</guid>
+            <pubDate>Mon, 23 Aug 2021 09:00:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Last Bus: Timothy Spall film gives teen busker big break]]></title>
@@ -79,6 +79,13 @@
             <pubDate>Mon, 23 Aug 2021 03:20:40 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Scotland's papers: 'Fireball' police cars and 16-hour ambulance wait]]></title>
+            <description><![CDATA[Fears over the safety of some police cars and a 98-year-old's long wait for a paramedic make the front pages.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-58302388</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-58302388</guid>
+            <pubDate>Mon, 23 Aug 2021 06:55:12 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Gunshots fired at Edinburgh home in 'targeted attack']]></title>
             <description><![CDATA[A man, woman and two young children were in the house in Edinburgh when the incident happened.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-58297984</link>
@@ -91,13 +98,6 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-highlands-islands-58299528</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-highlands-islands-58299528</guid>
             <pubDate>Sun, 22 Aug 2021 17:06:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Man dies in hospital after Stonehaven boat capsize rescue]]></title>
-            <description><![CDATA[The 61-year-old was with two other men in a small fishing boat when it overturned in Catterline Bay, Stonehaven.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-58299011</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-58299011</guid>
-            <pubDate>Sun, 22 Aug 2021 15:08:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid in Scotland: Where are the latest cases?]]></title>
