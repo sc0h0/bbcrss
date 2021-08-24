@@ -2,11 +2,11 @@
 2. [UK orders 35 million more Pfizer vaccine doses](https://www.bbc.co.uk/news/health-58307215) - The government say it is preparing for Covid boosters to protect the most vulnerable this year.
 3. [Covid returns to top 10 causes of death](https://www.bbc.co.uk/news/58305191) - Covid-19 was the ninth biggest cause of death in England in July.
 4. [Coronavirus: Young long Covid sufferers lead vaccine drive](https://www.bbc.co.uk/news/uk-58301011) - The government says it has met its target to offer all 16 and 17-year-olds in England a vaccine.
-5. [Covid: Antibody tests offered to public for first time](https://www.bbc.co.uk/news/uk-58293249) - The UK-wide scheme for adults who test positive for coronavirus will launch next week.
-6. [Covid: New Zealand pandemic strategy in doubt amid Delta spread](https://www.bbc.co.uk/news/world-asia-58297895) - The highly infectious Delta variant "does change the game", the Covid response minister says.
-7. [Army supporting ambulance services in England](https://www.bbc.co.uk/news/health-58281665) - High demand and staffing shortages have meant the Army has been called in to help look after patients.
-8. [Covid: CO2 monitors pledged to aid school ventilation](https://www.bbc.co.uk/news/education-58285359) - Schools in England are to be given CO2 monitors to as part of plans to limit the spread of Covid.
-9. [Covid-antibody therapy approved in UK](https://www.bbc.co.uk/news/health-58281332) - Antibody therapy - given to former US President Donald Trump - can now be used in the UK.
+5. [Pfizer becomes first Covid vaccine to gain full FDA approval](https://www.bbc.co.uk/news/world-us-canada-58309254) - It is the first Covid jab to receive federal approval, and opens the door to new vaccine mandates.
+6. [Covid: Antibody tests offered to public for first time](https://www.bbc.co.uk/news/uk-58293249) - The UK-wide scheme for adults who test positive for coronavirus will launch next week.
+7. [Covid: New Zealand pandemic strategy in doubt amid Delta spread](https://www.bbc.co.uk/news/world-asia-58297895) - The highly infectious Delta variant "does change the game", the Covid response minister says.
+8. [Army supporting ambulance services in England](https://www.bbc.co.uk/news/health-58281665) - High demand and staffing shortages have meant the Army has been called in to help look after patients.
+9. [Covid: CO2 monitors pledged to aid school ventilation](https://www.bbc.co.uk/news/education-58285359) - Schools in England are to be given CO2 monitors to as part of plans to limit the spread of Covid.
 10. [Wuhan lab leak theory: How Fort Detrick became a centre for Chinese conspiracies](https://www.bbc.co.uk/news/world-us-canada-58273322) - Apparent Chinese propaganda efforts are spreading ahead of a US report on Covid-19 origins.
 11. [Covid cases: This summer compared with last](https://www.bbc.co.uk/news/health-58281664) - Case numbers are 30 times higher than at the same point last year - where might we be heading next?
 12. [Covid vaccine: Fertility and miscarriage claims fact-checked](https://www.bbc.co.uk/news/health-57552527) - Posts claiming Covid vaccines cause miscarriages are not supported by scientific evidence.

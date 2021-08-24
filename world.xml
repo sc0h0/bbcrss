@@ -11,17 +11,10 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 24 Aug 2021 06:32:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Aug 2021 07:08:31 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
-        <item>
-            <title><![CDATA[Afghanistan: US under pressure over evacuation deadline]]></title>
-            <description><![CDATA[France, the UK and Germany all raise the possibility of troops staying beyond the end of August.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58312644</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58312644</guid>
-            <pubDate>Tue, 24 Aug 2021 06:11:14 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Climate change: Europe's extreme rains made more likely by humans]]></title>
             <description><![CDATA[Heavy rainfall that led to deadly floods in Germany and Belgium was influenced by human induced warming.]]></description>
@@ -142,6 +135,20 @@
             <pubDate>Mon, 23 Aug 2021 06:58:34 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Ros Atkins on... Trump's Taliban deal]]></title>
+            <description><![CDATA[A deep dive into the US-Taliban deal of 2020 and its role in the militant group's takeover of Afghanistan.]]></description>
+            <link>https://www.bbc.co.uk/news/world-58311135</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-58311135</guid>
+            <pubDate>Tue, 24 Aug 2021 06:57:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Afghanistan: Foreign troops extension 'a clear violation' - Taliban]]></title>
+            <description><![CDATA[A Taliban spokesman says Afghans with passports can leave on commercial flights "at any time".]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58307188</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58307188</guid>
+            <pubDate>Mon, 23 Aug 2021 13:16:23 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Afghanistan: The BBC's Lyse Doucet reports from Kabul airport]]></title>
             <description><![CDATA[The BBC's Lyse Doucet witnesses Afghan men, women and children fleeing the Taliban regime.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-58300416</link>
@@ -163,32 +170,11 @@
             <pubDate>Mon, 23 Aug 2021 07:10:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Kenya holds biggest ever animal census]]></title>
-            <description><![CDATA[All wildlife on land and sea is being counted to help Kenya's conservation plans and tourism.]]></description>
-            <link>https://www.bbc.co.uk/news/world-africa-58281212</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-58281212</guid>
-            <pubDate>Sat, 21 Aug 2021 23:14:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Afghanistan's media is changing under Taliban rule]]></title>
-            <description><![CDATA[The Taliban are currently on a media offensive but does their rhetoric match what’s happening on the ground?]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58273011</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58273011</guid>
-            <pubDate>Fri, 20 Aug 2021 23:07:48 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Kabul arrivals in the UK: 'We are the lucky ones']]></title>
             <description><![CDATA[UK troops are evacuating British nationals and eligible Afghans. Here are some of their stories.]]></description>
             <link>https://www.bbc.co.uk/news/uk-58305464</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58305464</guid>
             <pubDate>Mon, 23 Aug 2021 16:43:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Afghanistan: Foreign troops extension 'a clear violation' - Taliban]]></title>
-            <description><![CDATA[A Taliban spokesman says Afghans with passports can leave on commercial flights "at any time".]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58307188</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58307188</guid>
-            <pubDate>Mon, 23 Aug 2021 13:16:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Afghanistan: Where will refugees go after Taliban takeover?]]></title>
@@ -217,6 +203,13 @@
             <link>https://www.bbc.co.uk/news/world-asia-58297623</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58297623</guid>
             <pubDate>Sun, 22 Aug 2021 17:41:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[C-17: The US military plane carrying Afghans to safety]]></title>
+            <description><![CDATA[A Boeing C-17 safely carried 823 Afghans from Kabul last week, a record number for that plane.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58297899</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58297899</guid>
+            <pubDate>Sun, 22 Aug 2021 19:30:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
