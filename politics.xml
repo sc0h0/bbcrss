@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 24 Aug 2021 13:22:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Aug 2021 13:36:54 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -219,6 +219,13 @@
             <pubDate>Wed, 18 Aug 2021 11:48:52 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Afghanistan: Jack Straw on UK-US political relations]]></title>
+            <description><![CDATA[The former foreign secretary says it takes a lot of work to influence US governments from outside.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-58308223?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-politics-58308223</guid>
+            <pubDate>Tue, 24 Aug 2021 13:23:36 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Wallace: Extension to 31 August Afghanistan withdrawal deadline 'unlikely']]></title>
             <description><![CDATA[The UK defence secretary says "time is people" in the rush to evacuate those in danger.]]></description>
             <link>https://www.bbc.co.uk/news/uk-58315478?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -245,13 +252,6 @@
             <link>https://www.bbc.co.uk/news/uk-58296950?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58296950</guid>
             <pubDate>Sun, 22 Aug 2021 11:15:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[SNP and Greens seal power-sharing deal]]></title>
-            <description><![CDATA[The SNP and the Scottish Greens set out their power-sharing deal for Holyrood.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-58281867?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-58281867</guid>
-            <pubDate>Fri, 20 Aug 2021 14:58:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Afghanistan: Who originally supported Trump's deal with the Taliban?]]></title>
