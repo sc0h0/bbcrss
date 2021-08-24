@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 24 Aug 2021 13:46:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Aug 2021 13:52:46 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -135,6 +135,13 @@
             <pubDate>Mon, 23 Aug 2021 06:58:34 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Taliban to US: Don't encourage Afghans to leave, we need them]]></title>
+            <description><![CDATA[Foreign countries should stop encouraging Afghans to leave their country, a Taliban spokesman says.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-58320221?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-politics-58320221</guid>
+            <pubDate>Tue, 24 Aug 2021 13:50:40 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[How are women in Afghanistan reacting to Taliban takeover?]]></title>
             <description><![CDATA[The BBC's Secunder Kermani speaks to women in Afghanistan about the Taliban takeover.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-58315828?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -161,13 +168,6 @@
             <link>https://www.bbc.co.uk/news/uk-58314902?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58314902</guid>
             <pubDate>Tue, 24 Aug 2021 09:14:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Leak video shows abuse inside Iran's notorious Evin prison]]></title>
-            <description><![CDATA[Guards are seen beating prisoners and dragging one on the floor at Iran's notorious Evin prison.]]></description>
-            <link>https://www.bbc.co.uk/news/world-middle-east-58315829?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-middle-east-58315829</guid>
-            <pubDate>Tue, 24 Aug 2021 13:35:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Afghanistan: Why can't the UK hold Kabul airport without the US?]]></title>
