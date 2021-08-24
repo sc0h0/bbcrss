@@ -4,8 +4,8 @@
 4. [Chinese ride-hailing giant Didi halts UK launch plan](https://www.bbc.co.uk/news/business-58312996) - It comes as Chinese firms face scrutiny by Western nations and as Beijing cracks down on data privacy.
 5. [VR helps Indians and Pakistanis visit their lost homes](https://www.bbc.co.uk/news/world-asia-india-58265851) - Indians and Pakistanis who fled their homes during partition can now revisit their childhood - virtually.
 6. [Pfizer becomes first Covid vaccine to gain full FDA approval](https://www.bbc.co.uk/news/world-us-canada-58309254) - It is the first Covid jab to receive federal approval, and opens the door to new vaccine mandates.
-7. [Storm Henri: Lightning strikes One World Trade Center](https://www.bbc.co.uk/news/world-us-canada-58304611) - The strike was captured as Storm Henri approached the north-east of the US, bringing heavy rain.
-8. [Kamala Harris accuses China of coercion and intimidation](https://www.bbc.co.uk/news/world-asia-58312947) - She is currently on a tour of the region as the US aims to reaffirm its commitment to the region.
+7. [Kamala Harris accuses China of coercion and intimidation](https://www.bbc.co.uk/news/world-asia-58312947) - She is currently on a tour of the region as the US aims to reaffirm its commitment to the region.
+8. [Fire at Mexican offshore oil platform kills five](https://www.bbc.co.uk/news/world-latin-america-58315356) - The incident comes weeks after a gas leak caused a fire on the ocean's surface near another platform.
 9. [Mozambique 'tuna bond' scandal: Ex-President Guebuza's son on trial](https://www.bbc.co.uk/news/world-africa-58304737) - Mozambique's biggest corruption scandal led donors to cut funding and an economic crisis.
 10. [Tanzania's Samia Suluhu Hassan criticised over female footballers comments](https://www.bbc.co.uk/news/world-africa-58306708) - The country's first female president recently told the BBC about facing gender discrimination.
 11. [Tennessee flash floods kill 22 with dozens missing](https://www.bbc.co.uk/news/world-us-canada-58300877) - The death toll is expected to rise after record-breaking rainfall triggered widespread flooding.
@@ -17,9 +17,9 @@
 17. [Barakat: First South African film in Cape Town's Afrikaans dialect](https://www.bbc.co.uk/news/world-africa-58189393) - Barakat, or blessing, is the first film in Afrikaaps - a dialect of Afrikaans spoken in Cape Town.
 18. [Ros Atkins on... Trump's Taliban deal](https://www.bbc.co.uk/news/world-58311135) - A deep dive into the US-Taliban deal of 2020 and its role in the militant group's takeover of Afghanistan.
 19. [Afghanistan: Foreign troops extension 'a clear violation' - Taliban](https://www.bbc.co.uk/news/world-asia-58307188) - A Taliban spokesman says Afghans with passports can leave on commercial flights "at any time".
-20. [Afghanistan: The BBC's Lyse Doucet reports from Kabul airport](https://www.bbc.co.uk/news/world-asia-58300416) - The BBC's Lyse Doucet witnesses Afghan men, women and children fleeing the Taliban regime.
-21. [Afghan activist: Either we let them kill us or keep working](https://www.bbc.co.uk/news/world-asia-58301303) - A leading campaigner for women's rights in Afghanistan was evacuated from Kabul last week, after going into hiding.
-22. [Tennessee: Drone video shows damage from flash floods](https://www.bbc.co.uk/news/world-us-canada-58303063) - Heavy rainfall in the US state causes deadly flash floods, destroying homes and sweeping away cars.
+20. [Storm Henri: Lightning strikes One World Trade Center](https://www.bbc.co.uk/news/world-us-canada-58304611) - The strike was captured as Storm Henri approached the north-east of the US, bringing heavy rain.
+21. [Afghanistan: The BBC's Lyse Doucet reports from Kabul airport](https://www.bbc.co.uk/news/world-asia-58300416) - The BBC's Lyse Doucet witnesses Afghan men, women and children fleeing the Taliban regime.
+22. [Afghan activist: Either we let them kill us or keep working](https://www.bbc.co.uk/news/world-asia-58301303) - A leading campaigner for women's rights in Afghanistan was evacuated from Kabul last week, after going into hiding.
 23. [Afghanistan: Why can't the UK hold Kabul airport without the US?](https://www.bbc.co.uk/news/world-58305185) - The US and UK have different timetables for the effort to evacuate people from Afghanistan
 24. [Kabul arrivals in the UK: 'We are the lucky ones'](https://www.bbc.co.uk/news/uk-58305464) - UK troops are evacuating British nationals and eligible Afghans. Here are some of their stories.
 25. [Afghanistan: Where will refugees go after Taliban takeover?](https://www.bbc.co.uk/news/world-asia-58283177) - Thousands of people are scrambling to flee Afghanistan after the Taliban took control of the country.

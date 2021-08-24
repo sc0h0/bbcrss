@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 24 Aug 2021 08:33:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Aug 2021 09:10:30 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -58,18 +58,18 @@
             <pubDate>Mon, 23 Aug 2021 21:51:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Storm Henri: Lightning strikes One World Trade Center]]></title>
-            <description><![CDATA[The strike was captured as Storm Henri approached the north-east of the US, bringing heavy rain.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-58304611</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-58304611</guid>
-            <pubDate>Mon, 23 Aug 2021 11:57:48 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Kamala Harris accuses China of coercion and intimidation]]></title>
             <description><![CDATA[She is currently on a tour of the region as the US aims to reaffirm its commitment to the region.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-58312947</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58312947</guid>
             <pubDate>Tue, 24 Aug 2021 04:45:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fire at Mexican offshore oil platform kills five]]></title>
+            <description><![CDATA[The incident comes weeks after a gas leak caused a fire on the ocean's surface near another platform.]]></description>
+            <link>https://www.bbc.co.uk/news/world-latin-america-58315356</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-latin-america-58315356</guid>
+            <pubDate>Tue, 24 Aug 2021 09:08:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Mozambique 'tuna bond' scandal: Ex-President Guebuza's son on trial]]></title>
@@ -149,6 +149,13 @@
             <pubDate>Mon, 23 Aug 2021 13:16:23 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Storm Henri: Lightning strikes One World Trade Center]]></title>
+            <description><![CDATA[The strike was captured as Storm Henri approached the north-east of the US, bringing heavy rain.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-58304611</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-58304611</guid>
+            <pubDate>Mon, 23 Aug 2021 11:57:48 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Afghanistan: The BBC's Lyse Doucet reports from Kabul airport]]></title>
             <description><![CDATA[The BBC's Lyse Doucet witnesses Afghan men, women and children fleeing the Taliban regime.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-58300416</link>
@@ -161,13 +168,6 @@
             <link>https://www.bbc.co.uk/news/world-asia-58301303</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58301303</guid>
             <pubDate>Mon, 23 Aug 2021 00:16:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tennessee: Drone video shows damage from flash floods]]></title>
-            <description><![CDATA[Heavy rainfall in the US state causes deadly flash floods, destroying homes and sweeping away cars.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-58303063</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-58303063</guid>
-            <pubDate>Mon, 23 Aug 2021 07:10:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Afghanistan: Why can't the UK hold Kabul airport without the US?]]></title>
