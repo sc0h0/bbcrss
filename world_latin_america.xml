@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 24 Aug 2021 09:12:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Aug 2021 09:30:02 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Fire at Mexican offshore oil platform kills five]]></title>
+            <description><![CDATA[The incident comes weeks after a gas leak caused a fire on the ocean's surface near another platform.]]></description>
+            <link>https://www.bbc.co.uk/news/world-latin-america-58315356</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-latin-america-58315356</guid>
+            <pubDate>Tue, 24 Aug 2021 09:08:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Hurricane Grace: Mexican man buries wife and five children killed in mudslide]]></title>
             <description><![CDATA[A man and his son were the only members of a family of eight to survive a mudslide in Mexico.]]></description>
@@ -30,18 +37,18 @@
             <pubDate>Mon, 23 Aug 2021 23:55:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Bath rescuer hopes to find Haiti earthquake survivors]]></title>
-            <description><![CDATA[The ex-firefighter from Bath is leading a group of structural engineers from a rescue charity.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-somerset-58292726</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-somerset-58292726</guid>
-            <pubDate>Sat, 21 Aug 2021 14:07:07 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Elaine Thompson-Herah runs second fastest time in women's 100m history]]></title>
             <description><![CDATA[Olympic champion Elaine Thompson-Herah runs the second fastest time in women's 100m history as she clocks 10.54 seconds in Eugene.]]></description>
             <link>https://www.bbc.co.uk/sport/athletics/58295310</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/athletics/58295310</guid>
             <pubDate>Sat, 21 Aug 2021 22:22:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bath rescuer hopes to find Haiti earthquake survivors]]></title>
+            <description><![CDATA[The ex-firefighter from Bath is leading a group of structural engineers from a rescue charity.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-somerset-58292726</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-somerset-58292726</guid>
+            <pubDate>Sat, 21 Aug 2021 14:07:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Haiti earthquake: Tensions rise in struggle to get aid to victims]]></title>
@@ -56,13 +63,6 @@
             <link>https://www.bbc.co.uk/news/world-latin-america-58255555</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-latin-america-58255555</guid>
             <pubDate>Fri, 20 Aug 2021 00:56:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cuba tightens control of internet after protests]]></title>
-            <description><![CDATA[Critics say the new rules are aimed at stifling dissent following mass anti-government demonstrations.]]></description>
-            <link>https://www.bbc.co.uk/news/world-latin-america-58255554</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-latin-america-58255554</guid>
-            <pubDate>Wed, 18 Aug 2021 10:12:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Haiti earthquake: The forgotten villages cut off from help]]></title>

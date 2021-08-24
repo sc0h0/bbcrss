@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 24 Aug 2021 09:15:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Aug 2021 09:32:03 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -30,11 +30,25 @@
             <pubDate>Tue, 24 Aug 2021 07:34:57 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Samantha Willis: Funeral of woman who died with Covid-19 after giving birth]]></title>
+            <description><![CDATA[Samantha Willis, who had Covid-19, died after giving birth to her fourth child.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58309750</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58309750</guid>
+            <pubDate>Mon, 23 Aug 2021 16:54:26 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Covid-19: More than 12,000 vaccine doses given out at weekend]]></title>
             <description><![CDATA[It comes as the health minister says the time is not right to re-impose tighter restrictions in NI.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58300969</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58300969</guid>
             <pubDate>Mon, 23 Aug 2021 16:34:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Afghanistan: Irish citizens wait for rescue mission]]></title>
+            <description><![CDATA[Troops and diplomats are assist more than 30 people who are struggling to get to Kabul airport.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58314977</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58314977</guid>
+            <pubDate>Tue, 24 Aug 2021 09:24:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: Nine more Covid-related deaths and 1,320 new cases]]></title>
@@ -49,20 +63,6 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58315590</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58315590</guid>
             <pubDate>Tue, 24 Aug 2021 08:43:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Samantha Willis: Funeral of woman who died with Covid-19 after giving birth]]></title>
-            <description><![CDATA[Samantha Willis, who had Covid-19, died after giving birth to her fourth child.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58309750</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58309750</guid>
-            <pubDate>Mon, 23 Aug 2021 16:54:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Irish Army Rangers go to Kabul to help evacuation]]></title>
-            <description><![CDATA[Foreign Minister Simon Coveney says the small team will assist in the evacuation of Irish citizens.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58309751</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58309751</guid>
-            <pubDate>Mon, 23 Aug 2021 20:17:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Londonderry: Police defend response to shots fired at republican mural]]></title>
@@ -287,6 +287,13 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58273879</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58273879</guid>
             <pubDate>Thu, 19 Aug 2021 21:25:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Irish Army Rangers go to Kabul to help evacuation]]></title>
+            <description><![CDATA[Foreign Minister Simon Coveney says the small team will assist in the evacuation of Irish citizens.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58309751</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-58309751</guid>
+            <pubDate>Mon, 23 Aug 2021 20:17:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Galway: Infant and parents among four dead in collision]]></title>
