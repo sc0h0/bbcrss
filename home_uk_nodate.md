@@ -10,7 +10,7 @@
 10. [Proud Boys leader sentenced for burning Black Lives Matter flag](https://www.bbc.co.uk/news/world-us-canada-58312254) - Enrique Tarrio admitted to burning a Black Lives Matter flag, stolen from a church, in July.
 11. [US VP Kamala Harris criticises Beijing intimidation in South China Sea](https://www.bbc.co.uk/news/world-asia-58312947) - She is currently on a tour of the region as the US aims to reaffirm its commitment to the region.
 12. [Man arrested as Katie Price taken to hospital](https://www.bbc.co.uk/news/uk-england-essex-58257403) - Police are called to reports of an assault in the early hours of Monday morning.
-13. [Retail bosses demand more protection for UK workers](https://www.bbc.co.uk/news/business-58284856) - Industry leaders are calling on the UK government to follow Scotland’s lead on protecting shop workers.
+13. [Didi: China ride-hailing giant halts plan to launch in UK](https://www.bbc.co.uk/news/business-58312996) - It comes as Chinese firms face scrutiny by Western nations and as Beijing cracks down on data privacy.
 14. [The Papers: Kabul airlift deadline amid Taliban 'red line'](https://www.bbc.co.uk/news/blogs-the-papers-58312185) - Tuesday's front pages continue to focus on the international evacuation operation from Afghanistan.
 15. [From earrings to tiles – what you can do with plastic waste](https://www.bbc.co.uk/news/stories-58305686) - How people around the world are recycling plastic waste themselves and turning it into cool stuff.
 16. [VR helps Indians and Pakistanis visit their lost homes](https://www.bbc.co.uk/news/world-asia-india-58265851) - Indians and Pakistanis who fled their homes during partition can now revisit their childhood - virtually.

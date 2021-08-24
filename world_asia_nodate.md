@@ -12,6 +12,6 @@
 12. [Wuhan lab leak theory: How Fort Detrick became a centre for Chinese conspiracies](https://www.bbc.co.uk/news/world-us-canada-58273322) - Apparent Chinese propaganda efforts are spreading ahead of a US report on Covid-19 origins.
 13. [Kamala Harris joins diplomatic charm offensive in South East Asia](https://www.bbc.co.uk/news/world-asia-58277226) - The US vice-president's trip to the region falls in the shadow of a chaotic withdrawal from Afghanistan.
 14. [Afghan activist: Either we let them kill us or keep working](https://www.bbc.co.uk/news/world-asia-58301303) - A leading campaigner for women's rights in Afghanistan was evacuated from Kabul last week, after going into hiding.
-15. [The controversy over India caste census explained](https://www.bbc.co.uk/news/world-asia-india-58141993) - Political parties are sharply divided over counting the population of the country by caste.
+15. [Caste census: Clamour to count India social groups grows](https://www.bbc.co.uk/news/world-asia-india-58141993) - Political parties are sharply divided over counting the population of the country by caste.
 16. [Afghan crisis: Russia plans for new era with Taliban rule](https://www.bbc.co.uk/news/world-europe-58265934) - While Western governments raced to get their people out, Russia appears unfazed by the takeover.
 17. [Afghanistan: The desperate scramble to escape](https://www.bbc.co.uk/news/world-asia-58286000) - The BBC witnesses scenes of chaos and panic as thousands still crowd Kabul's airport.
