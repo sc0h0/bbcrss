@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 24 Aug 2021 06:32:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Aug 2021 07:20:18 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -128,13 +128,6 @@
             <pubDate>Sat, 21 Aug 2021 23:19:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Mark Wood: England bowler out of third Test with shoulder injury]]></title>
-            <description><![CDATA[England bowler Mark Wood is out of the third Test against India because of a shoulder injury.]]></description>
-            <link>https://www.bbc.co.uk/sport/cricket/58303560</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/58303560</guid>
-            <pubDate>Mon, 23 Aug 2021 13:09:23 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[T20 Blast quarter-finals: Eight teams battle for Finals Day spot]]></title>
             <description><![CDATA[The English cricket season moves on from The Hundred to this week's four T20 Blast quarter-finals.]]></description>
             <link>https://www.bbc.co.uk/sport/cricket/58283420</link>
@@ -142,18 +135,25 @@
             <pubDate>Mon, 23 Aug 2021 17:39:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Premier League confirms 16 new positive Covid cases in latest round of testing]]></title>
-            <description><![CDATA[The Premier League says 16 players and club staff have tested positive for coronavirus over the past week.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58308674</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58308674</guid>
-            <pubDate>Mon, 23 Aug 2021 14:07:22 GMT</pubDate>
+            <title><![CDATA[Michail Antonio's dancing celebration to remember on record night for West Ham]]></title>
+            <description><![CDATA[Michail Antonio stands out on his own on the list of West Ham's Premier League scorers - so it was fitting he danced with himself.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58312266</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58312266</guid>
+            <pubDate>Mon, 23 Aug 2021 22:47:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Joe Root says it is 'difficult' to see Azeem Rafiq 'hurting']]></title>
-            <description><![CDATA[Joe Root says it is "difficult" to see Azeem Rafiq "hurting" after he was the victim of "inappropriate behaviour" at Yorkshire.]]></description>
-            <link>https://www.bbc.co.uk/sport/cricket/58308552</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/58308552</guid>
-            <pubDate>Mon, 23 Aug 2021 14:03:17 GMT</pubDate>
+            <title><![CDATA[Suzanna Hext: Paralympic swimmer prepares for Tokyo 2020 having watched London 2012 from hospital]]></title>
+            <description><![CDATA[From watching London 2012 from her hospital bed to swimming for ParalympicsGB at Tokyo 2020 - Suzanna Hext's Paralympic journey.]]></description>
+            <link>https://www.bbc.co.uk/sport/disability-sport/58187268</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/disability-sport/58187268</guid>
+            <pubDate>Tue, 24 Aug 2021 05:32:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mark Wood: England bowler out of third Test with shoulder injury]]></title>
+            <description><![CDATA[England bowler Mark Wood is out of the third Test against India because of a shoulder injury.]]></description>
+            <link>https://www.bbc.co.uk/sport/cricket/58303560</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/58303560</guid>
+            <pubDate>Mon, 23 Aug 2021 13:09:23 GMT</pubDate>
         </item>
     </channel>
 </rss>

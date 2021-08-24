@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 24 Aug 2021 07:18:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Aug 2021 07:26:57 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -219,6 +219,13 @@
             <pubDate>Tue, 24 Aug 2021 06:23:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Scottish Gossip: Patterson, Liverpool, Everton, Samuels, Aberdeen, Smith]]></title>
+            <description><![CDATA[Liverpool could rival Everton in pursuit of Rangers defender as Aberdeen close in on striker.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58310424</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/58310424</guid>
+            <pubDate>Tue, 24 Aug 2021 07:22:04 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Ryan Gauld: Ex-Dundee United youngster talks move to Vancouver, Euro 2020 omission & having no regrets]]></title>
             <description><![CDATA[After a summer transfer to Vancouver Whitecaps, Dundee United academy product Ryan Gauld discusses his move to the MLS, future Scotland hopes and having no regrets about going abroad as a teenager.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58261247</link>
@@ -238,13 +245,6 @@
             <link>https://www.bbc.co.uk/sport/tennis/58302495</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/sport/tennis/58302495</guid>
             <pubDate>Mon, 23 Aug 2021 06:15:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Joe Aribo shines in Rangers victory against Ross County]]></title>
-            <description><![CDATA[Joe Aribo set the tone for Rangers' 4-2 win at Ross County with the opening goal. Sportscene pundits Shelley Kerr and Neil McCann review his performance.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/football/58303342</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/58303342</guid>
-            <pubDate>Mon, 23 Aug 2021 21:20:29 GMT</pubDate>
         </item>
     </channel>
 </rss>

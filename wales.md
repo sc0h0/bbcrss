@@ -1,4 +1,4 @@
-1. [Covid: Shop worker's worry after being spat at](https://www.bbc.co.uk/news/uk-wales-58305333) - Tue, 24 Aug 2021 06:41:10 GMT - Tracey's depression flared up after suffering abuse as a union wants more protection for retail staff.
+1. [Covid: Shop worker's worry after being spat at](https://www.bbc.co.uk/news/uk-wales-58305333) - Tue, 24 Aug 2021 07:19:41 GMT - Tracey's depression flared up after suffering abuse as a union wants more protection for retail staff.
 2. [Love Island crowns winners on summer return](https://www.bbc.co.uk/news/entertainment-arts-58306258) - Mon, 23 Aug 2021 21:35:14 GMT - The winning couple are named on the latest series of the ITV2 dating show.
 3. [Brecon woman 'dependent' on drugs prescribed to treat her](https://www.bbc.co.uk/news/uk-wales-57999182) - Mon, 23 Aug 2021 21:25:16 GMT - Niki Jones has spent the past 18 years taking various drugs to treat her chronic pain.
 4. [Rhondda Cynon Taf council reviews trans guidance after row over pupil](https://www.bbc.co.uk/news/uk-wales-58305271) - Mon, 23 Aug 2021 18:25:27 GMT - Teachers started calling a pupil by a new name without speaking to the parents, their lawyer says.
