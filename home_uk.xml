@@ -11,23 +11,23 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 24 Aug 2021 12:56:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Aug 2021 13:24:56 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
-        <item>
-            <title><![CDATA[Extension of Afghanistan evacuation deadline unlikely, says Wallace]]></title>
-            <description><![CDATA[Any extension of the 31 August evacuation deadline would be a "big bonus", the defence secretary says.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58312134?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58312134</guid>
-            <pubDate>Tue, 24 Aug 2021 11:38:32 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Afghanistan: Credible reports of executions by Taliban says UN]]></title>
             <description><![CDATA[Human rights violations against Afghan women and girls have also been reported, the UN says.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-58315413?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58315413</guid>
             <pubDate>Tue, 24 Aug 2021 12:38:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Extension of Afghanistan evacuation deadline unlikely, says Wallace]]></title>
+            <description><![CDATA[Any extension of the 31 August evacuation deadline would be a "big bonus", the defence secretary says.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-58312134?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58312134</guid>
+            <pubDate>Tue, 24 Aug 2021 11:38:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid in Scotland: Warning over restrictions as cases hit new high]]></title>
@@ -93,7 +93,7 @@
             <pubDate>Tue, 24 Aug 2021 09:34:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Afghan para-athlete welcomed by new team in Spain]]></title>
+            <title><![CDATA[Afghan para-athlete Nilofar Bayat welcomed by new team in Spain]]></title>
             <description><![CDATA[Nilofar Bayat, Afghan wheelchair basketball women's captain, is in Bilbao after fleeing the Taliban.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-58318043?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58318043</guid>
@@ -226,6 +226,13 @@
             <pubDate>Sun, 22 Aug 2021 00:25:15 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Clark, Kelly & Ferguson in Scotland squad for World Cup qualifiers]]></title>
+            <description><![CDATA[St Johnstone goalkeeper Zander Clark, Motherwell counterpart Liam Kelly, and Aberdeen midfielder Lewis Ferguson are named in the Scotland squad for next month's World Cup qualifiers.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58317930?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58317930</guid>
+            <pubDate>Tue, 24 Aug 2021 13:14:11 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Darts world pays tribute as Anderson dies aged 33]]></title>
             <description><![CDATA[Darts players and PDC pay tribute to Australian Kyle Anderson after his death aged 33.]]></description>
             <link>https://www.bbc.co.uk/sport/darts/58313913?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -259,13 +266,6 @@
             <link>https://www.bbc.co.uk/sport/football/58317373?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58317373</guid>
             <pubDate>Tue, 24 Aug 2021 11:21:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Brighton, Wolves and Aston Villa academy players take on heads and volleys challenge]]></title>
-            <description><![CDATA[Three Premier League academy players - from Brighton, Wolves and Aston Villa - take on BBC Sport's heads and volleys challenge]]></description>
-            <link>https://www.bbc.co.uk/sport/av/football/58287101?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/av/football/58287101</guid>
-            <pubDate>Tue, 24 Aug 2021 05:54:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Afghanistan evacuation: Bittersweet relief for interpreter now in UK]]></title>
@@ -342,7 +342,7 @@
             <description><![CDATA[Thousands of people are scrambling to flee Afghanistan after the Taliban took control of the country.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-58283177?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58283177</guid>
-            <pubDate>Sun, 22 Aug 2021 11:28:04 GMT</pubDate>
+            <pubDate>Tue, 24 Aug 2021 13:20:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Afghanistan: The BBC's Lyse Doucet reports from Kabul airport]]></title>
