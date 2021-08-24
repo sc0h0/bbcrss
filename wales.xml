@@ -11,16 +11,16 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 24 Aug 2021 14:28:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Aug 2021 14:40:02 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
-            <title><![CDATA[Covid: Shop worker's worry after being spat at]]></title>
-            <description><![CDATA[Tracey's depression flared up after suffering abuse as a union wants more protection for retail staff.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-58305333?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-58305333</guid>
-            <pubDate>Tue, 24 Aug 2021 11:56:36 GMT</pubDate>
+            <title><![CDATA[Covid: Wales probe pressure after Scotland announcement]]></title>
+            <description><![CDATA[Welsh ministers face renewed calls for a Wales-specific inquiry after one for Scotland is announced.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-politics-58244528?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-politics-58244528</guid>
+            <pubDate>Tue, 24 Aug 2021 14:27:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19 hospital numbers show rise by half in a week]]></title>
@@ -37,18 +37,25 @@
             <pubDate>Tue, 24 Aug 2021 12:38:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Love Island: Liam Reardon's hometown celebrates win]]></title>
-            <description><![CDATA[Bricklayer Liam Reardon has had a cocktail named after him and he's been offered a free pasty.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-58314176?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-58314176</guid>
-            <pubDate>Tue, 24 Aug 2021 11:50:12 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Wrexham: Three arrests after man's death following 'disturbance']]></title>
             <description><![CDATA[Detectives are investigating as a man in his 50s died after an incident in a north Wales village.]]></description>
             <link>https://www.bbc.co.uk/news/uk-wales-58314181?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-58314181</guid>
             <pubDate>Tue, 24 Aug 2021 13:51:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: Shop worker's worry after being spat at]]></title>
+            <description><![CDATA[Tracey's depression flared up after suffering abuse as a union wants more protection for retail staff.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-58305333?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-58305333</guid>
+            <pubDate>Tue, 24 Aug 2021 11:56:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Love Island: Liam Reardon's hometown celebrates win]]></title>
+            <description><![CDATA[Bricklayer Liam Reardon has had a cocktail named after him and he's been offered a free pasty.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-58314176?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-58314176</guid>
+            <pubDate>Tue, 24 Aug 2021 11:50:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Church in Wales to vote on same-sex blessings]]></title>
@@ -114,13 +121,6 @@
             <pubDate>Mon, 23 Aug 2021 17:47:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid-19 now 22nd leading cause of death in Wales]]></title>
-            <description><![CDATA[For six of the last 16 months of the pandemic, Covid-19 was the leading cause of death in Wales.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-58304855?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-58304855</guid>
-            <pubDate>Mon, 23 Aug 2021 16:24:57 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Tokyo Paralympics: Baroness Grey-Thompson tips Welsh duo for gold]]></title>
             <description><![CDATA[Baroness Tanni Grey-Thompson tips Aled Sion Davies and Hollie Arnold as Wales' best hopes for gold at the Tokyo Paralympics.]]></description>
             <link>https://www.bbc.co.uk/sport/av/disability-sport/58310373?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -170,6 +170,13 @@
             <pubDate>Tue, 24 Aug 2021 11:24:48 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Tokyo Paralympics: 2020 Games get under way with powerful opening ceremony]]></title>
+            <description><![CDATA[The Tokyo 2020 Paralympics are officially under way after a powerful opening ceremony.]]></description>
+            <link>https://www.bbc.co.uk/sport/disability-sport/58316181?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/disability-sport/58316181</guid>
+            <pubDate>Tue, 24 Aug 2021 14:29:20 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Dragons sign Cardiff scrum-half Lewis Jones on loan deal]]></title>
             <description><![CDATA[Dragons sign scrum-half Lewis Jones on a short-term loan deal from Cardiff Rugby for the start of the 2021-22 season.]]></description>
             <link>https://www.bbc.co.uk/sport/rugby-union/58318126?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -189,13 +196,6 @@
             <link>https://www.bbc.co.uk/sport/football/58317523?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58317523</guid>
             <pubDate>Tue, 24 Aug 2021 12:02:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kyle Anderson: Darts world pays tribute to Australian who has died aged 33]]></title>
-            <description><![CDATA[Darts players and PDC pay tribute to Australian Kyle Anderson after his death aged 33.]]></description>
-            <link>https://www.bbc.co.uk/sport/darts/58313913?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/darts/58313913</guid>
-            <pubDate>Tue, 24 Aug 2021 09:44:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Cleifion Covid hir i deilwra triniaeth i eraill]]></title>
