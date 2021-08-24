@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 24 Aug 2021 15:44:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Aug 2021 16:16:32 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -30,13 +30,6 @@
             <pubDate>Tue, 24 Aug 2021 14:27:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Convicted ex-Chadian leader Hissène Habré dies at 79]]></title>
-            <description><![CDATA[The former president, whose government carried out 40,000 murders, was serving a life sentence.]]></description>
-            <link>https://www.bbc.co.uk/news/world-africa-58316923?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-africa-58316923</guid>
-            <pubDate>Tue, 24 Aug 2021 11:45:17 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[German poison probe after drinks spiked at university in Darmstadt]]></title>
             <description><![CDATA[Six people were taken to hospital with bluish extremities after using a science department's tea area.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-58315927?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -51,6 +44,13 @@
             <pubDate>Mon, 23 Aug 2021 23:02:50 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Japanese yakuza mobster sentenced to death]]></title>
+            <description><![CDATA[Nomura Satoru denied ordering four assaults, one of which was deadly.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58321573?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58321573</guid>
+            <pubDate>Tue, 24 Aug 2021 15:47:09 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Russian toddler lost in woods for four days vows 'never again']]></title>
             <description><![CDATA[The 22-month-old Russian girl was found alive by a search party, four days after she wandered off.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-58315926?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -58,18 +58,18 @@
             <pubDate>Tue, 24 Aug 2021 09:56:12 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Convicted ex-Chadian leader Hissène Habré dies at 79]]></title>
+            <description><![CDATA[The former president, whose government carried out 40,000 murders, was serving a life sentence.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-58316923?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-africa-58316923</guid>
+            <pubDate>Tue, 24 Aug 2021 11:45:17 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[How losing his sight spurred cyclist Steve Bate to the Paralympics]]></title>
             <description><![CDATA[Steve Bate was told he could be blind within four years - now he's defending his Paralympic title.]]></description>
             <link>https://www.bbc.co.uk/news/uk-58306376?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58306376</guid>
             <pubDate>Mon, 23 Aug 2021 22:49:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kamala Harris accuses China of coercion and intimidation]]></title>
-            <description><![CDATA[She is currently on a tour of the region as the US aims to reaffirm its commitment to the region.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58312947?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58312947</guid>
-            <pubDate>Tue, 24 Aug 2021 15:28:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Fire at Mexican offshore oil platform kills five]]></title>
