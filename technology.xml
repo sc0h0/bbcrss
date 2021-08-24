@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 24 Aug 2021 18:46:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Aug 2021 18:59:56 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Virgin Hyperloop unveils new pod concept video]]></title>
+            <description><![CDATA[The high-speed evacuated-tube transportation company reveals its plans for passenger pods]]></description>
+            <link>https://www.bbc.co.uk/news/technology-58317104?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/technology-58317104</guid>
+            <pubDate>Tue, 24 Aug 2021 18:57:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Sensors and AI to monitor Dorset social care patients]]></title>
             <description><![CDATA[Data from sensors in patients' homes will be analysed to warn of health problems.]]></description>
@@ -126,13 +133,6 @@
             <link>https://www.bbc.co.uk/news/business-58174043?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58174043</guid>
             <pubDate>Thu, 12 Aug 2021 23:41:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Virtual reality: 'There's no max, there's no limit!']]></title>
-            <description><![CDATA["There's no max, there's no limit" to virtual reality, so is it the future of live music?]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-58177685?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-58177685</guid>
-            <pubDate>Thu, 12 Aug 2021 23:11:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why phone scams are so difficult to tackle]]></title>
