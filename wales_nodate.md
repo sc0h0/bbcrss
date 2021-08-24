@@ -23,5 +23,5 @@
 23. [Ymchwiliad Covid yr Alban yn rhoi pwysau ar Gymru](https://www.bbc.co.uk/newyddion/58321391?at_medium=RSS&at_campaign=KARANGA) - Mae galwadau newydd am ymchwiliad Covid yn benodol i Gymru yn dilyn cyhoeddiad yr Alban y bydd un yna.
 24. [Cleifion Covid hir i deilwra triniaeth i eraill](https://www.bbc.co.uk/newyddion/58311166?at_medium=RSS&at_campaign=KARANGA) - Y bwriad ydy cynnig cymorth gan ystod o feddygon arbenigol mewn un lle - o ffisiotherapyddion i seicolegwyr.
 25. [Gall enillydd Dinas Diwylliant 'brofi hwb i'r economi leol'](https://www.bbc.co.uk/newyddion/58299399?at_medium=RSS&at_campaign=KARANGA) - Gallai'r ardal sy'n dod i'r brig yn y gystadleuaeth "brofi hwb fawr i'r economi leol", yn ôl arbenigwr.
-26. [Gemau Paralympaidd 2021: Dod i adnabod y Cymry](https://www.bbc.co.uk/newyddion/58310030?at_medium=RSS&at_campaign=KARANGA) - Dyma'r Cymry fydd yn cystadlu yn Tokyo eleni.
+26. [Gemau Paralympaidd 2021: Dod i adnabod y Cymry](https://www.bbc.co.uk/newyddion/58310030?at_medium=RSS&at_campaign=KARANGA) - Dyma'r Cymry fydd yn cystadlu yn Tokyo
 27. [Cymru'n enwi carfan gref ar gyfer gemau mis Medi](https://www.bbc.co.uk/newyddion/58287370?at_medium=RSS&at_campaign=KARANGA) - Gareth Bale ac Aaron Ramsey ymysg y 27 sydd wedi'u dewis ar gyfer y gemau yn erbyn Y Ffindir, Belarws ac Estonia.
