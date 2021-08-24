@@ -1,6 +1,6 @@
 1. [Boardmasters: 4,700 Covid cases 'may be linked' to Newquay festival](https://www.bbc.co.uk/news/uk-england-cornwall-58309660) - The full scale of infections linked to Boardmasters in Newquay will not be known for a "few days".
 2. [M25: Three dead and two arrested after crash involving lorry, minibus and car](https://www.bbc.co.uk/news/uk-england-essex-58312144) - A fourth person is in hospital after the crash involving a lorry, minibus and car near Waltham Abbey.
-3. [Record 430 migrants cross English Channel in single day](https://www.bbc.co.uk/news/uk-57897601) - Some 50 people, including women and young children, were seen landing on a Kent beach in a dinghy.
+3. [Record number of migrants cross Channel in a day](https://www.bbc.co.uk/news/uk-58312630) - More than 800 people reached the UK on Saturday in 30 small boats, the Home Office confirms.
 4. [Extinction Rebellion erects table in Covent Garden](https://www.bbc.co.uk/news/uk-england-london-58306278) - Eight Extinction Rebellion activists are arrested in the group's latest mass protest in London.
 5. [David Beater: Sex abuse vicar 'protected' by church for decades](https://www.bbc.co.uk/news/uk-england-kent-58258147) - David Beater worked in churches for 25 years despite a conviction for sexually assaulting a child.
 6. [Geronimo the alpaca should be studied not killed, vets say](https://www.bbc.co.uk/news/uk-england-bristol-58309557) - Thirteen vets sign a letter calling on the government to allow Geronimo to live to aid research.
