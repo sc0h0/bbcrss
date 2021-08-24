@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 24 Aug 2021 19:54:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Aug 2021 20:19:48 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -135,6 +135,13 @@
             <pubDate>Mon, 23 Aug 2021 05:07:04 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Swansea City 4-1 Plymouth Argyle: Morgan Whittaker hat-trick helps Swans to EFL Cup win]]></title>
+            <description><![CDATA[Morgan Whittaker scores a hat-trick as Swansea City beat League One Plymouth Argyle to reach the third round of the EFL Cup.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58239627?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58239627</guid>
+            <pubDate>Tue, 24 Aug 2021 19:56:17 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Gareth Bale: Captain to lead Wales for September World Cup qualifiers]]></title>
             <description><![CDATA[Captain Gareth Bale remains committed to Wales as he aims to lead them to their first World Cup since 1958, says manager Robert Page.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58318873?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -161,13 +168,6 @@
             <link>https://www.bbc.co.uk/sport/football/58321183?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58321183</guid>
             <pubDate>Tue, 24 Aug 2021 15:45:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[James Jones: Lincoln City midfielder joins Wrexham]]></title>
-            <description><![CDATA[Wrexham sign Lincoln City midfielder James Jones for an undisclosed fee on a three-year deal.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58321179?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58321179</guid>
-            <pubDate>Tue, 24 Aug 2021 14:41:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ymchwiliad Covid yr Alban yn rhoi pwysau ar Gymru]]></title>
@@ -198,11 +198,11 @@
             <pubDate>Tue, 24 Aug 2021 16:07:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Cymru'n enwi carfan gref ar gyfer gemau mis Medi]]></title>
-            <description><![CDATA[Gareth Bale ac Aaron Ramsey ymysg y 27 sydd wedi'u dewis ar gyfer y gemau yn erbyn Y Ffindir, Belarws ac Estonia.]]></description>
-            <link>https://www.bbc.co.uk/newyddion/58287370?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/newyddion/58287370</guid>
-            <pubDate>Tue, 24 Aug 2021 11:00:53 GMT</pubDate>
+            <title><![CDATA[Cwpan yr EFL: Abertawe 4-1 Plymouth Argyle]]></title>
+            <description><![CDATA[Morgan Whittaker yn sgorio hat-tric wrth i'r Elyrch hedfan trwodd i drydedd rownd Cwpan yr EFL.]]></description>
+            <link>https://www.bbc.co.uk/newyddion/58311168?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/newyddion/58311168</guid>
+            <pubDate>Tue, 24 Aug 2021 20:17:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
