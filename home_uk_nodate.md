@@ -7,8 +7,8 @@
 7. [Record number of migrants cross Channel in a day](https://www.bbc.co.uk/news/uk-58312630) - More than 800 people reached the UK on Saturday in 30 small boats, the Home Office confirms.
 8. [Love Island crowns winners on summer return](https://www.bbc.co.uk/news/entertainment-arts-58306258) - The winning couple are named on the latest series of the ITV2 dating show.
 9. [Social care charges: Disabled and vulnerable adults hit by steep rises](https://www.bbc.co.uk/news/uk-58259678) - Many are facing a significant rise in the money they have to pay towards the support they receive.
-10. [Proud Boys leader sentenced for burning Black Lives Matter flag](https://www.bbc.co.uk/news/world-us-canada-58312254) - Enrique Tarrio admitted to burning a Black Lives Matter flag, stolen from a church, in July.
-11. [US VP Kamala Harris criticises Beijing intimidation in South China Sea](https://www.bbc.co.uk/news/world-asia-58312947) - She is currently on a tour of the region as the US aims to reaffirm its commitment to the region.
+10. [McDonald's UK restaurants run out of milkshakes](https://www.bbc.co.uk/news/business-58315152) - The fast-food chain confirms that supply chain issues have caused it to run out of the drinks.
+11. [Proud Boys leader sentenced for burning Black Lives Matter flag](https://www.bbc.co.uk/news/world-us-canada-58312254) - Enrique Tarrio admitted to burning a Black Lives Matter flag, stolen from a church, in July.
 12. [Man arrested as Katie Price taken to hospital](https://www.bbc.co.uk/news/uk-england-essex-58257403) - Police are called to reports of an assault in the early hours of Monday morning.
 13. [The Papers: Kabul airlift deadline amid Taliban 'red line'](https://www.bbc.co.uk/news/blogs-the-papers-58312185) - Tuesday's front pages continue to focus on the international evacuation operation from Afghanistan.
 14. [From earrings to tiles – what you can do with plastic waste](https://www.bbc.co.uk/news/stories-58305686) - How people around the world are recycling plastic waste themselves and turning it into cool stuff.
