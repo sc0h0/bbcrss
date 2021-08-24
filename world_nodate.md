@@ -1,4 +1,4 @@
-1. [Afghanistan: US aims to complete evacuations by deadline](https://www.bbc.co.uk/news/world-asia-58310905) - Allies step up calls to extend a 31 August withdrawal, but the Taliban insist this will violate a deal.
+1. [Afghanistan: US under pressure over evacuation deadline](https://www.bbc.co.uk/news/world-asia-58312644) - France, the UK and Germany all raise the possibility of troops staying beyond the end of August.
 2. [Climate change: Europe's extreme rains made more likely by humans](https://www.bbc.co.uk/news/science-environment-58309900) - Heavy rainfall that led to deadly floods in Germany and Belgium was influenced by human induced warming.
 3. [Pentagon to order Covid-19 vaccination for troops](https://www.bbc.co.uk/news/world-us-canada-58309254) - It is the first Covid jab to receive federal approval, and opens the door to new vaccine mandates.
 4. [Tokyo Paralympics: A 'different' Games but Paralympians still hope to shine](https://www.bbc.co.uk/sport/disability-sport/58306545) - The opening ceremony of the Tokyo Paralympics takes place on Tuesday with the Japanese capital still facing Covid-19 challenges.

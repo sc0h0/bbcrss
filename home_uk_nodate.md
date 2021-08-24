@@ -1,4 +1,4 @@
-1. [Afghanistan: US aims to complete evacuations by deadline](https://www.bbc.co.uk/news/world-asia-58310905) - Allies step up calls to extend a 31 August withdrawal, but the Taliban insist this will violate a deal.
+1. [Afghanistan: US under pressure over evacuation deadline](https://www.bbc.co.uk/news/world-asia-58312644) - France, the UK and Germany all raise the possibility of troops staying beyond the end of August.
 2. [Afghanistan evacuations: 'Hours not weeks' for final UK flights](https://www.bbc.co.uk/news/uk-58302734) - The defence secretary says the UK will leave Kabul alongside next week's planned US withdrawal.
 3. [Afghanistan: Person on no-fly list flown to UK during Kabul evacuation](https://www.bbc.co.uk/news/uk-58311964) - However they are not deemed a person of interest to security agencies or police after an investigation.
 4. [M25: Three dead and two arrested after crash involving lorry, minibus and car](https://www.bbc.co.uk/news/uk-england-essex-58312144) - A fourth person is in hospital after the crash involving a lorry, minibus and car near Waltham Abbey.
