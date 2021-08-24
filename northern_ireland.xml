@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 24 Aug 2021 05:34:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Aug 2021 05:48:01 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -21,6 +21,13 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58300969</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58300969</guid>
             <pubDate>Mon, 23 Aug 2021 16:34:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Northern Ireland rural broadband scheme gets £25m funding boost]]></title>
+            <description><![CDATA[Project Stratum will get an extra £25m from the government for areas like Derry, Fermanagh and Tyrone.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58311086</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58311086</guid>
+            <pubDate>Tue, 24 Aug 2021 05:44:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: Nine more Covid-related deaths and 1,320 new cases]]></title>
@@ -79,13 +86,6 @@
             <pubDate>Mon, 23 Aug 2021 15:21:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid-19: PCR test market needs 'cleaning out', says Randox boss]]></title>
-            <description><![CDATA[Peter Fitzgerald says some Covid-19 test firms may not be delivering the service they claim.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58298467</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58298467</guid>
-            <pubDate>Mon, 23 Aug 2021 05:45:59 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Galway M6 crash victims were Kurdish family]]></title>
             <description><![CDATA[The family, which included an eight-month-old baby girl, had been living in Ireland since 2017.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-58304362</link>
@@ -100,11 +100,11 @@
             <pubDate>Mon, 23 Aug 2021 17:20:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Woodvale Road: Belfast flats evacuated after pram set alight]]></title>
-            <description><![CDATA[Two people are treated for smoke inhalation after a fire broke out at flats in west Belfast.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58300366</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58300366</guid>
-            <pubDate>Sun, 22 Aug 2021 16:50:38 GMT</pubDate>
+            <title><![CDATA[Covid-19: PCR test market needs 'cleaning out', says Randox boss]]></title>
+            <description><![CDATA[Peter Fitzgerald says some Covid-19 test firms may not be delivering the service they claim.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58298467</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-58298467</guid>
+            <pubDate>Mon, 23 Aug 2021 05:45:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: More than 8,000 first jabs given in weekend vaccine push]]></title>
