@@ -1,4 +1,4 @@
-1. [Covid: Shop worker's worry after being spat at](https://www.bbc.co.uk/news/uk-wales-58305333) - Tracey Davies was spat at when she asked for identification in the middle of the pandemic.
+1. [Covid: Shop worker's worry after being spat at](https://www.bbc.co.uk/news/uk-wales-58305333) - Tracey's depression flared up after suffering abuse as a union wants more protection for retail staff.
 2. [Love Island crowns winners on summer return](https://www.bbc.co.uk/news/entertainment-arts-58306258) - The winning couple are named on the latest series of the ITV2 dating show.
 3. [Brecon woman 'dependent' on drugs prescribed to treat her](https://www.bbc.co.uk/news/uk-wales-57999182) - Niki Jones has spent the past 18 years taking various drugs to treat her chronic pain.
 4. [Rhondda Cynon Taf council reviews trans guidance after row over pupil](https://www.bbc.co.uk/news/uk-wales-58305271) - Teachers started calling a pupil by a new name without speaking to the parents, their lawyer says.
@@ -22,7 +22,7 @@
 22. [Tanni Grey-Thompson column: 'Tokyo can still be a step forward for Paralympics'](https://www.bbc.co.uk/sport/disability-sport/58266243) - Baroness Tanni Grey-Thompson believes the Tokyo Paralympics can still take the movement to another level.
 23. [Meet the Welsh athletes competing at the Tokyo 2020 Paralympics](https://www.bbc.co.uk/sport/disability-sport/58292355) - BBC Sport Wales profiles the Welsh athletes who will be competing at the Tokyo 2020 Paralympics
 24. [Gall enillydd Dinas Diwylliant 'brofi hwb i'r economi leol'](https://www.bbc.co.uk/newyddion/58299399) - Gallai'r ardal sy'n dod i'r brig yn y gystadleuaeth "brofi hwb fawr i'r economi leol", yn ôl arbenigwr.
-25. [Pryder am effaith Statws Treftadaeth ar gymunedau llechi](https://www.bbc.co.uk/newyddion/58235400) - Cwpl o Ddinorwig yn bryderus am sgil effeithiau'r dynodiad UNESCO ar gymunedau'r ardal lechi.
-26. [Menyw â phoen cronig yn 'ddibynnol' ar boenladdwyr](https://www.bbc.co.uk/newyddion/58192418) - Mae cyflwr Niki Jones wedi gwella ar ôl newid ei thriniaeth, ond mae'n dal yn gaeth i gyffuriau presgripsiwn cryf.
+25. [Covid: Galw am fwy o amddiffyniad i weithwyr siopa](https://www.bbc.co.uk/newyddion/58299400) - Galw am ddeddfau newydd i amddiffyn gweithwyr siopau yn sgil adroddiadau o gamdriniaeth gan rai gwsmeriaid.
+26. [Pryder am effaith Statws Treftadaeth ar gymunedau llechi](https://www.bbc.co.uk/newyddion/58235400) - Cwpl o Ddinorwig yn bryderus am sgil effeithiau'r dynodiad UNESCO ar gymunedau'r ardal lechi.
 27. [Lluniau: Gŵyl y Dyn Gwyrdd 2021](https://www.bbc.co.uk/newyddion/58305385) - Rhai o'r golygfeydd o'r ŵyl gerddoriaeth boblogaidd ym Mannau Brycheiniog.
 28. [Williams yn ennill Pencampwriaeth Snwcer Agored Prydain](https://www.bbc.co.uk/newyddion/58302742) - Mark Williams yn trechu Gary Wilson er mwyn ennill Pencampwriaeth Snwcer Agored Prydain am yr eilwaith.

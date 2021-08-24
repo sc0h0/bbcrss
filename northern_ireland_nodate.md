@@ -1,5 +1,5 @@
 1. [Covid-19: More than 12,000 vaccine doses given out at weekend](https://www.bbc.co.uk/news/uk-northern-ireland-58300969) - It comes as the health minister says the time is not right to re-impose tighter restrictions in NI.
-2. [Northern Ireland rural broadband scheme gets £25m funding boost](https://www.bbc.co.uk/news/uk-northern-ireland-58311086) - Project Stratum will get an extra £25m from the government for areas like Derry, Fermanagh and Tyrone.
+2. [Northern Ireland rural broadband scheme gets £25m funding boost](https://www.bbc.co.uk/news/uk-northern-ireland-58311086) - Project Stratum will get an extra £25m to provide ultra-fast broadband to remote homes.
 3. [Covid-19: Nine more Covid-related deaths and 1,320 new cases](https://www.bbc.co.uk/news/uk-northern-ireland-58308422) - There are currently 352 patients with Covid-19 in Northern Ireland's hospitals, with 43 patients in ICU.
 4. [Samantha Willis: Funeral of woman who died with Covid-19 after giving birth](https://www.bbc.co.uk/news/uk-northern-ireland-58309750) - Samantha Willis, who had Covid-19, died after giving birth to her fourth child.
 5. [Irish Army Rangers go to Kabul to help evacuation](https://www.bbc.co.uk/news/world-europe-58309751) - Foreign Minister Simon Coveney says the small team will assist in the evacuation of Irish citizens.
