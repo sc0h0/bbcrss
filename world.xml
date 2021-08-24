@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 24 Aug 2021 11:13:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Aug 2021 11:28:20 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -135,6 +135,13 @@
             <pubDate>Mon, 23 Aug 2021 06:58:34 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[How are women in Afghanistan reacting to Taliban takeover?]]></title>
+            <description><![CDATA[The BBC's Secunder Kermani speaks to women in Afghanistan about the Taliban takeover.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58315828?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58315828</guid>
+            <pubDate>Tue, 24 Aug 2021 11:24:21 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Afghan para-athlete welcomed by new team in Spain]]></title>
             <description><![CDATA[Nilofar Bayat, Afghan wheelchair basketball women's captain, is in Bilbao after fleeing the Taliban.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-58318043?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -163,25 +170,11 @@
             <pubDate>Mon, 23 Aug 2021 13:16:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Storm Henri: Lightning strikes One World Trade Center]]></title>
-            <description><![CDATA[The strike was captured as Storm Henri approached the north-east of the US, bringing heavy rain.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-58304611?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58304611</guid>
-            <pubDate>Mon, 23 Aug 2021 11:57:48 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Afghanistan: Why can't the UK hold Kabul airport without the US?]]></title>
             <description><![CDATA[The US and UK have different timetables for the effort to evacuate people from Afghanistan]]></description>
             <link>https://www.bbc.co.uk/news/world-58305185?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-58305185</guid>
             <pubDate>Tue, 24 Aug 2021 07:28:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kabul arrivals in the UK: 'We are the lucky ones']]></title>
-            <description><![CDATA[UK troops are evacuating British nationals and eligible Afghans. Here are some of their stories.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58305464?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58305464</guid>
-            <pubDate>Mon, 23 Aug 2021 16:43:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Afghanistan: Where will refugees go after Taliban takeover?]]></title>
@@ -210,6 +203,13 @@
             <link>https://www.bbc.co.uk/news/world-asia-58300416?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58300416</guid>
             <pubDate>Sun, 22 Aug 2021 17:45:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hours without food or water in Kabul airport 'hell']]></title>
+            <description><![CDATA[An Afghan man who worked for the British army tells the BBC he and his family cannot get through the crowds.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-58305040?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58305040</guid>
+            <pubDate>Mon, 23 Aug 2021 12:26:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

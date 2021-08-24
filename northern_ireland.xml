@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 24 Aug 2021 11:24:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Aug 2021 11:33:48 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -72,11 +72,11 @@
             <pubDate>Tue, 24 Aug 2021 08:32:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid-19: More than 12,000 vaccine doses given out at weekend]]></title>
-            <description><![CDATA[It comes as the health minister says the time is not right to re-impose tighter restrictions in NI.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58300969?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58300969</guid>
-            <pubDate>Mon, 23 Aug 2021 16:34:01 GMT</pubDate>
+            <title><![CDATA[Northern Ireland: Jonny Evans in squad as Kyle Lafferty and Liam Boyce left out]]></title>
+            <description><![CDATA[Jonny Evans is included in the Northern Ireland squad for their World Cup qualifiers against Lithuania and Switzerland despite carrying an injury]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58316360?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58316360</guid>
+            <pubDate>Tue, 24 Aug 2021 10:01:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Londonderry: Police defend response to shots fired at republican mural]]></title>
@@ -98,6 +98,13 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58303222?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58303222</guid>
             <pubDate>Mon, 23 Aug 2021 09:49:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19: More than 12,000 vaccine doses given out at weekend]]></title>
+            <description><![CDATA[It comes as the health minister says the time is not right to re-impose tighter restrictions in NI.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58300969?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58300969</guid>
+            <pubDate>Mon, 23 Aug 2021 16:34:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: Nine more Covid-related deaths and 1,320 new cases]]></title>
