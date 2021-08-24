@@ -2,7 +2,7 @@
 2. [Love Island crowns winners on summer return](https://www.bbc.co.uk/news/entertainment-arts-58306258) - The winning couple are named on the latest series of the ITV2 dating show.
 3. [Brecon woman 'dependent' on drugs prescribed to treat her](https://www.bbc.co.uk/news/uk-wales-57999182) - Niki Jones has spent the past 18 years taking various drugs to treat her chronic pain.
 4. [Rhondda Cynon Taf council reviews trans guidance after row over pupil](https://www.bbc.co.uk/news/uk-wales-58305271) - Teachers started calling a pupil by a new name without speaking to the parents, their lawyer says.
-5. [Snowdon: Call to respect mountain amid spike in visitors](https://www.bbc.co.uk/news/uk-wales-58283816) - Litter, erosion and traffic put "significant pressure" on the mountain, says the Snowdonia Society.
+5. [Snowdon: Call to respect mountain amid spike in visitors](https://www.bbc.co.uk/news/uk-wales-58283816) - Litter, erosion and traffic put "significant pressure" on the mountain, says Snowdonia Society.
 6. [Defibrillators: Welsh rugby calls after player's death](https://www.bbc.co.uk/news/uk-wales-58302827) - Alex Evans, 31, died on Saturday after having a cardiac arrest during a match in Neath Port Talbot.
 7. [Rugby boy completes 150-mile walk to visit grandparents](https://www.bbc.co.uk/news/uk-england-coventry-warwickshire-58308921) - Arthur Mortimer, 15, takes on the fundraising feat having not seen his nan and grandad for 18 months.
 8. [Covid-19 now 22nd leading cause of death in Wales](https://www.bbc.co.uk/news/uk-wales-58304855) - For six of the last 16 months of the pandemic, Covid-19 was the leading cause of death in Wales.

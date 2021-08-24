@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 24 Aug 2021 07:31:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Aug 2021 08:02:16 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -177,6 +177,13 @@
             <pubDate>Mon, 23 Aug 2021 07:10:35 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Afghanistan: Why can't the UK hold Kabul airport without the US?]]></title>
+            <description><![CDATA[The US and UK have different timetables for the effort to evacuate people from Afghanistan]]></description>
+            <link>https://www.bbc.co.uk/news/world-58305185</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-58305185</guid>
+            <pubDate>Tue, 24 Aug 2021 07:28:28 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Kabul arrivals in the UK: 'We are the lucky ones']]></title>
             <description><![CDATA[UK troops are evacuating British nationals and eligible Afghans. Here are some of their stories.]]></description>
             <link>https://www.bbc.co.uk/news/uk-58305464</link>
@@ -203,20 +210,6 @@
             <link>https://www.bbc.co.uk/news/uk-58305040</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-58305040</guid>
             <pubDate>Mon, 23 Aug 2021 12:26:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Afghanistan crisis: 'Hey world, do you care what happens here?']]></title>
-            <description><![CDATA[A young woman shares her fears a week after the Taliban takeover of Afghanistan.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58297623</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58297623</guid>
-            <pubDate>Sun, 22 Aug 2021 17:41:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[C-17: The US military plane carrying Afghans to safety]]></title>
-            <description><![CDATA[A Boeing C-17 safely carried 823 Afghans from Kabul last week, a record number for that plane.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58297899</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-58297899</guid>
-            <pubDate>Sun, 22 Aug 2021 19:30:38 GMT</pubDate>
         </item>
     </channel>
 </rss>

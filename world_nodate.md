@@ -21,9 +21,8 @@
 21. [Afghanistan: The BBC's Lyse Doucet reports from Kabul airport](https://www.bbc.co.uk/news/world-asia-58300416) - The BBC's Lyse Doucet witnesses Afghan men, women and children fleeing the Taliban regime.
 22. [Afghan activist: Either we let them kill us or keep working](https://www.bbc.co.uk/news/world-asia-58301303) - A leading campaigner for women's rights in Afghanistan was evacuated from Kabul last week, after going into hiding.
 23. [Tennessee: Drone video shows damage from flash floods](https://www.bbc.co.uk/news/world-us-canada-58303063) - Heavy rainfall in the US state causes deadly flash floods, destroying homes and sweeping away cars.
-24. [Kabul arrivals in the UK: 'We are the lucky ones'](https://www.bbc.co.uk/news/uk-58305464) - UK troops are evacuating British nationals and eligible Afghans. Here are some of their stories.
-25. [Afghanistan: Where will refugees go after Taliban takeover?](https://www.bbc.co.uk/news/world-asia-58283177) - Thousands of people are scrambling to flee Afghanistan after the Taliban took control of the country.
-26. ['Hours not weeks for UK Afghan evacuation'](https://www.bbc.co.uk/news/uk-58302734) - The defence secretary says the UK will leave Kabul alongside next week's planned US withdrawal.
-27. [Hours without food or water in Kabul airport 'hell'](https://www.bbc.co.uk/news/uk-58305040) - An Afghan man who worked for the British army tells the BBC he and his family cannot get through the crowds.
-28. [Afghanistan crisis: 'Hey world, do you care what happens here?'](https://www.bbc.co.uk/news/world-asia-58297623) - A young woman shares her fears a week after the Taliban takeover of Afghanistan.
-29. [C-17: The US military plane carrying Afghans to safety](https://www.bbc.co.uk/news/world-asia-58297899) - A Boeing C-17 safely carried 823 Afghans from Kabul last week, a record number for that plane.
+24. [Afghanistan: Why can't the UK hold Kabul airport without the US?](https://www.bbc.co.uk/news/world-58305185) - The US and UK have different timetables for the effort to evacuate people from Afghanistan
+25. [Kabul arrivals in the UK: 'We are the lucky ones'](https://www.bbc.co.uk/news/uk-58305464) - UK troops are evacuating British nationals and eligible Afghans. Here are some of their stories.
+26. [Afghanistan: Where will refugees go after Taliban takeover?](https://www.bbc.co.uk/news/world-asia-58283177) - Thousands of people are scrambling to flee Afghanistan after the Taliban took control of the country.
+27. ['Hours not weeks for UK Afghan evacuation'](https://www.bbc.co.uk/news/uk-58302734) - The defence secretary says the UK will leave Kabul alongside next week's planned US withdrawal.
+28. [Hours without food or water in Kabul airport 'hell'](https://www.bbc.co.uk/news/uk-58305040) - An Afghan man who worked for the British army tells the BBC he and his family cannot get through the crowds.
