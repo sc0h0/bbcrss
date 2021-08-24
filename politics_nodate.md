@@ -1,4 +1,4 @@
-1. [Afghanistan: PM to urge G7 leaders to step up support for refugees](https://www.bbc.co.uk/news/uk-58312134) - Boris Johnson will also ask the US to delay the withdrawal of its troops, at a virtual meeting of the G7.
+1. [Extension of Afghanistan evacuation deadline unlikely, says Wallace](https://www.bbc.co.uk/news/uk-58312134) - Any extension of the 31 August deadline would be a "big bonus", the defence secretary says.
 2. [Universal credit: Labour promises shake-up to benefit](https://www.bbc.co.uk/news/uk-politics-58304242) - The party says it would allow low income workers on universal credit to keep more of their take-home pay.
 3. [Lib Dem leader Ed Davey wants to target Tory heartlands](https://www.bbc.co.uk/news/uk-politics-58306872) - Smashing Tory dominance in the party's traditional areas is Liberal Democrats leader Ed Davey's plan. Can it work?
 4. [Social care charges: Disabled and vulnerable adults hit by steep rises](https://www.bbc.co.uk/news/uk-58259678) - Many are facing a significant rise in the money they have to pay towards the support they receive.
