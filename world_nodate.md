@@ -21,9 +21,9 @@
 21. [Tennessee: Drone video shows damage from flash floods](https://www.bbc.co.uk/news/world-us-canada-58303063) - Heavy rainfall in the US state causes deadly flash floods, destroying homes and sweeping away cars.
 22. [Kenya holds biggest ever animal census](https://www.bbc.co.uk/news/world-africa-58281212) - All wildlife on land and sea is being counted to help Kenya's conservation plans and tourism.
 23. [How Afghanistan's media is changing under Taliban rule](https://www.bbc.co.uk/news/world-asia-58273011) - The Taliban are currently on a media offensive but does their rhetoric match what’s happening on the ground?
-24. [Afghanistan: Foreign troops extension 'a clear violation' - Taliban](https://www.bbc.co.uk/news/world-asia-58307188) - A Taliban spokesman says Afghans with passports can leave on commercial flights "at any time".
-25. [Afghanistan: Where will refugees go after Taliban takeover?](https://www.bbc.co.uk/news/world-asia-58283177) - Thousands of people are scrambling to flee Afghanistan after the Taliban took control of the country.
-26. ['Hours not weeks for UK Afghan evacuation'](https://www.bbc.co.uk/news/uk-58302734) - The defence secretary says the UK will leave Kabul alongside next week's planned US withdrawal.
-27. [Hours without food or water in Kabul airport 'hell'](https://www.bbc.co.uk/news/uk-58305040) - An Afghan man who worked for the British army tells the BBC he and his family cannot get through the crowds.
-28. [Afghanistan crisis: 'Hey world, do you care what happens here?'](https://www.bbc.co.uk/news/world-asia-58297623) - A young woman shares her fears a week after the Taliban takeover of Afghanistan.
-29. [C-17: The US military plane carrying Afghans to safety](https://www.bbc.co.uk/news/world-asia-58297899) - A Boeing C-17 safely carried 823 Afghans from Kabul last week, a record number for that plane.
+24. [Kabul arrivals in the UK: 'We are the lucky ones'](https://www.bbc.co.uk/news/uk-58305464) - UK troops are evacuating British nationals and eligible Afghans. Here are some of their stories.
+25. [Afghanistan: Foreign troops extension 'a clear violation' - Taliban](https://www.bbc.co.uk/news/world-asia-58307188) - A Taliban spokesman says Afghans with passports can leave on commercial flights "at any time".
+26. [Afghanistan: Where will refugees go after Taliban takeover?](https://www.bbc.co.uk/news/world-asia-58283177) - Thousands of people are scrambling to flee Afghanistan after the Taliban took control of the country.
+27. ['Hours not weeks for UK Afghan evacuation'](https://www.bbc.co.uk/news/uk-58302734) - The defence secretary says the UK will leave Kabul alongside next week's planned US withdrawal.
+28. [Hours without food or water in Kabul airport 'hell'](https://www.bbc.co.uk/news/uk-58305040) - An Afghan man who worked for the British army tells the BBC he and his family cannot get through the crowds.
+29. [Afghanistan crisis: 'Hey world, do you care what happens here?'](https://www.bbc.co.uk/news/world-asia-58297623) - A young woman shares her fears a week after the Taliban takeover of Afghanistan.
