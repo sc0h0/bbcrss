@@ -11,16 +11,30 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 24 Aug 2021 13:52:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Aug 2021 14:16:25 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Ryanair to end flights at Belfast airports]]></title>
+            <description><![CDATA[It will cease flights from Belfast City in September and from Belfast International in October.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58315594?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58315594</guid>
+            <pubDate>Tue, 24 Aug 2021 14:00:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Covid-19: Pregnant women urged to get the jab after mum's death]]></title>
             <description><![CDATA[A Northern Ireland doctor says hospitals are now "constantly" seeing pregnant women with Covid-19.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58314388?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58314388</guid>
             <pubDate>Tue, 24 Aug 2021 12:33:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19: Twelve more Covid-related deaths and 1,648 new cases]]></title>
+            <description><![CDATA[There are currently 420 patients with Covid-19 in Northern Ireland's hospitals, with 41 patients in ICU.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58320858?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58320858</guid>
+            <pubDate>Tue, 24 Aug 2021 14:11:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Dr Anne McCloskey: GP investigated over vaccine comments]]></title>
@@ -30,6 +44,13 @@
             <pubDate>Tue, 24 Aug 2021 10:05:08 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Newtownards Airport: Man injured in plane crash]]></title>
+            <description><![CDATA[Police and other emergency services were called to the scene just after 12.00 BST on Tuesday.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58320041?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58320041</guid>
+            <pubDate>Tue, 24 Aug 2021 14:04:01 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Teachers trained in Great Britain face NI work registration delay]]></title>
             <description><![CDATA[A teachers' union, NASUWT, said it had been "inundated" with messages from teachers affected.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58314387?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -37,25 +58,18 @@
             <pubDate>Tue, 24 Aug 2021 13:47:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Sir Jeffrey Donaldson to run for Lagan Valley MLA seat]]></title>
-            <description><![CDATA[Sir Jeffrey will run against the man he replaced as party leader, Edwin Poots, in the 2022 election.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58316753?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58316753</guid>
-            <pubDate>Tue, 24 Aug 2021 09:41:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Northern Ireland rural broadband scheme gets £25m funding boost]]></title>
-            <description><![CDATA[Project Stratum will get an extra £25m to provide ultra-fast broadband to remote homes.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58311086?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58311086</guid>
-            <pubDate>Tue, 24 Aug 2021 10:34:16 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Dame Jocelyn Bell-Burnell: NI scientist awarded Royal Society's highest prize]]></title>
             <description><![CDATA[Astrophysicist Dame Jocelyn Bell Burnell is only the second woman to be awarded the Copley Medal.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58318024?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58318024</guid>
             <pubDate>Tue, 24 Aug 2021 13:07:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sir Jeffrey Donaldson to run for Lagan Valley MLA seat]]></title>
+            <description><![CDATA[Sir Jeffrey will run against the man he replaced as party leader, Edwin Poots, in the 2022 election.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58316753?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58316753</guid>
+            <pubDate>Tue, 24 Aug 2021 09:41:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[High pressure driving dry weather in Northern Ireland]]></title>
@@ -72,11 +86,11 @@
             <pubDate>Tue, 24 Aug 2021 08:32:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Afghanistan: Irish citizens wait for rescue mission]]></title>
-            <description><![CDATA[Troops and diplomats are assist more than 30 people who are struggling to get to Kabul airport.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58314977?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58314977</guid>
-            <pubDate>Tue, 24 Aug 2021 09:24:04 GMT</pubDate>
+            <title><![CDATA[Northern Ireland rural broadband scheme gets £25m funding boost]]></title>
+            <description><![CDATA[Project Stratum will get an extra £25m to provide ultra-fast broadband to remote homes.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58311086?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58311086</guid>
+            <pubDate>Tue, 24 Aug 2021 10:34:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Northern Ireland: Jonny Evans in squad as Kyle Lafferty and Liam Boyce left out]]></title>
@@ -84,34 +98,6 @@
             <link>https://www.bbc.co.uk/sport/football/58316360?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58316360</guid>
             <pubDate>Tue, 24 Aug 2021 10:01:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Samantha Willis: Funeral of woman who died with Covid-19 after giving birth]]></title>
-            <description><![CDATA[Samantha Willis, who had Covid-19, died after giving birth to her fourth child.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58309750?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58309750</guid>
-            <pubDate>Mon, 23 Aug 2021 16:54:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Londonderry: Police defend response to shots fired at republican mural]]></title>
-            <description><![CDATA[The police say officers were in the area when shots were fired before a commemoration in Londonderry.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58308370?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58308370</guid>
-            <pubDate>Mon, 23 Aug 2021 16:52:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Union concern over chief nursing officer departure]]></title>
-            <description><![CDATA[Chartotte McArdle is moving to NHS England as deputy chief nursing officer for patient safety.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58304363?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58304363</guid>
-            <pubDate>Mon, 23 Aug 2021 15:01:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Afghanistan: 'Race against time' to rescue interpreter's family]]></title>
-            <description><![CDATA[A naval officer says the family of a man he worked with in Afghanistan are under threat.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58303222?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58303222</guid>
-            <pubDate>Mon, 23 Aug 2021 09:49:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: More than 12,000 vaccine doses given out at weekend]]></title>
@@ -147,27 +133,6 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-57863840?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-57863840</guid>
             <pubDate>Mon, 23 Aug 2021 16:35:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid-19: Northern Ireland's summer surge figures make for grim reading]]></title>
-            <description><![CDATA[Northern Ireland now has the UK's highest death and infection rates and its lowest vaccination rate.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58286351?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58286351</guid>
-            <pubDate>Sat, 21 Aug 2021 06:16:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid-19: Thousands queue across NI for Big Jab Weekend]]></title>
-            <description><![CDATA[The campaign sees regional centres offering walk-in first jabs to the over-18s for the last time.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58256976?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58256976</guid>
-            <pubDate>Sat, 21 Aug 2021 20:38:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid-19: NI records highest number of cases in a single day]]></title>
-            <description><![CDATA[Another 2,397 cases are reported, as doctors warn hospital staff are struggling to meet demand.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58278998?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58278998</guid>
-            <pubDate>Fri, 20 Aug 2021 15:55:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Boris Johnson's Irish Sea tunnel vision - roadworthy or pipe dream?]]></title>
@@ -233,6 +198,20 @@
             <pubDate>Sat, 21 Aug 2021 06:41:44 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Samantha Willis: Funeral of woman who died with Covid-19 after giving birth]]></title>
+            <description><![CDATA[Samantha Willis, who had Covid-19, died after giving birth to her fourth child.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58309750?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58309750</guid>
+            <pubDate>Mon, 23 Aug 2021 16:54:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[PSNI defends response to shots at republican mural]]></title>
+            <description><![CDATA[The police say officers were in the area when shots were fired before a commemoration in Londonderry.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58308370?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58308370</guid>
+            <pubDate>Mon, 23 Aug 2021 16:52:05 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Magee Medical School finally opens in Londonderry for 70 students]]></title>
             <description><![CDATA[Funding problems delayed the opening at Ulster University's Magee campus in Londonderry.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58300292?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -247,18 +226,11 @@
             <pubDate>Mon, 23 Aug 2021 13:15:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Londonderry: Unionists condemn 'shots' near republican mural]]></title>
-            <description><![CDATA[The incident, in the Galliagh area of Derry, took place at a mural of hunger striker Michael Devine.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58297142?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58297142</guid>
-            <pubDate>Sun, 22 Aug 2021 12:34:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Premier Division: Candystripes edge out Sligo in Showgrounds derby]]></title>
-            <description><![CDATA[Ronan Boyce hits a late winner as Derry City defeat Sligo Rovers 2-1 in the north-west derby.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58295278?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58295278</guid>
-            <pubDate>Sat, 21 Aug 2021 21:02:13 GMT</pubDate>
+            <title><![CDATA[Afghanistan: Irish citizens wait for rescue mission]]></title>
+            <description><![CDATA[Troops and diplomats are assist more than 30 people who are struggling to get to Kabul airport.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58314977?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58314977</guid>
+            <pubDate>Tue, 24 Aug 2021 09:24:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Irish Army Rangers go to Kabul to help evacuation]]></title>
@@ -287,13 +259,6 @@
             <link>https://www.bbc.co.uk/news/world-europe-58279480?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58279480</guid>
             <pubDate>Fri, 20 Aug 2021 15:37:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Two men die in three-vehicle crash in County Meath]]></title>
-            <description><![CDATA[A man in his 40s and a man in his 30s die in a three-vehicle crash on the R152 at Keenogue.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58272004?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58272004</guid>
-            <pubDate>Thu, 19 Aug 2021 14:02:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
