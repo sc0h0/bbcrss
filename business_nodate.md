@@ -1,4 +1,4 @@
-1. [McDonald's UK restaurants run out of milkshakes](https://www.bbc.co.uk/news/business-58315152) - The fast-food chain confirms that supply chain issues have caused it to run out of the drinks.
+1. [McDonald's runs out of milkshakes in England, Scotland and Wales](https://www.bbc.co.uk/news/business-58315152) - The fast-food chain confirms supply chain issues have caused issues in outlets in Great Britain.
 2. [Retail bosses demand more protection for UK workers](https://www.bbc.co.uk/news/business-58284856) - Industry leaders are calling on the UK government to follow Scotland’s lead on protecting shop workers.
 3. [Didi: China ride-hailing giant halts plan to launch in UK](https://www.bbc.co.uk/news/business-58312996) - It comes as Chinese firms face scrutiny by Western nations and as Beijing cracks down on data privacy.
 4. [Prisoners to plug worker shortage in meat industry](https://www.bbc.co.uk/news/business-58303679) - Meat industry leaders tell the BBC the government is "keen" to link up businesses with inmates.

@@ -1,8 +1,8 @@
 1. [M25: Three dead and two arrested after lorry, minibus and car crash](https://www.bbc.co.uk/news/uk-england-essex-58312144) - A fourth person is in hospital after the crash involving a lorry, minibus and car near Waltham Abbey.
-2. [Record number of migrants cross Channel in a day](https://www.bbc.co.uk/news/uk-58312630) - More than 800 people reached the UK on Saturday in 30 small boats, the Home Office confirms.
-3. [Boardmasters: 4,700 Covid cases 'may be linked' to Newquay festival](https://www.bbc.co.uk/news/uk-england-cornwall-58309660) - The full scale of infections linked to Boardmasters in Newquay will not be known for a "few days".
+2. [Man bailed after Katie Price assault arrest](https://www.bbc.co.uk/news/uk-england-essex-58315334) - The man, 32, was arrested on suspicion of assault, theft and coercive and controlling behaviour.
+3. [Record number of migrants cross Channel in a day](https://www.bbc.co.uk/news/uk-58312630) - More than 800 people reached the UK on Saturday in 30 small boats, the Home Office confirms.
 4. [David Beater: Sex abuse vicar 'protected' by church for decades](https://www.bbc.co.uk/news/uk-england-kent-58258147) - David Beater worked in churches for 25 years despite a conviction for sexually assaulting a child.
-5. [Man arrested as Katie Price taken to hospital](https://www.bbc.co.uk/news/uk-england-essex-58257403) - Police are called to reports of an assault in the early hours of Monday morning.
+5. [Boardmasters: 4,700 Covid cases 'may be linked' to Newquay festival](https://www.bbc.co.uk/news/uk-england-cornwall-58309660) - The full scale of infections linked to Boardmasters in Newquay will not be known for a "few days".
 6. [Shot in the head in Angola, left for dead, now a Wetherspoons star](https://www.bbc.co.uk/news/uk-58266180) - Cesar Kimbirima fled Angola after being shot four times and spending five months in a coma.
 7. [Mission: Impossible request leads to Hollywood encounter](https://www.bbc.co.uk/news/uk-england-birmingham-58305506) - A request for an unnamed VIP to land in a garden leads to an encounter with Hollywood royalty.
 8. [Geronimo the alpaca should be studied not killed, vets say](https://www.bbc.co.uk/news/uk-england-bristol-58309557) - Thirteen vets sign a letter calling on the government to allow Geronimo to live to aid research.
