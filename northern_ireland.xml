@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 25 Aug 2021 13:35:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Aug 2021 13:47:22 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -23,11 +23,18 @@
             <pubDate>Wed, 25 Aug 2021 11:02:24 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid-19: Five more Covid-related deaths and 1,771 new cases]]></title>
+            <description><![CDATA[There are currently 388 patients with Covid-19 in Northern Ireland's hospitals, with 43 patients in ICU.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58329521?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58329521</guid>
+            <pubDate>Wed, 25 Aug 2021 13:44:07 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Gas bills: Northern Ireland customers facing price rise]]></title>
             <description><![CDATA[NI's Utility Regulator says gas bills could increase by more than £100 a year.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58329817?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58329817</guid>
-            <pubDate>Wed, 25 Aug 2021 10:04:02 GMT</pubDate>
+            <pubDate>Wed, 25 Aug 2021 13:46:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[High Street voucher scheme to launch after 12 September]]></title>
@@ -93,20 +100,6 @@
             <pubDate>Wed, 25 Aug 2021 08:12:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Bracken bashing in the Castlerock countryside]]></title>
-            <description><![CDATA[Environmentalists are trying to help native species and wildlife to thrive in the coastal area]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58284401?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58284401</guid>
-            <pubDate>Wed, 25 Aug 2021 05:27:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Paralympics: McClements fifth in 400m freestyle heat]]></title>
-            <description><![CDATA[Newtownards teenager Barry McClements misses out on a place in the S9 400m freestyle final at the Paralympics despite swimming a personal best time.]]></description>
-            <link>https://www.bbc.co.uk/sport/disability-sport/58327893?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/disability-sport/58327893</guid>
-            <pubDate>Wed, 25 Aug 2021 07:51:50 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Covid-19: Samantha Willis' husband speaks of pain of her death]]></title>
             <description><![CDATA[Josh Willis says he tried to arrange for his wife to hold her newly-born daughter Eviegrace.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58320859?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -161,6 +154,13 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-57863840?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-57863840</guid>
             <pubDate>Mon, 23 Aug 2021 16:35:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bracken bashing in the Castlerock countryside]]></title>
+            <description><![CDATA[Environmentalists are trying to help native species and wildlife to thrive in the coastal area]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58284401?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58284401</guid>
+            <pubDate>Wed, 25 Aug 2021 05:27:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[High pressure driving dry weather in Northern Ireland]]></title>
