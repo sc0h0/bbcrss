@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 25 Aug 2021 11:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Aug 2021 11:14:20 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Northern Trust radiologist review identifies 43 discrepancies]]></title>
+            <description><![CDATA[The Northern Trust says six of these could have had "significant clinical impact" on patients.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58329138?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58329138</guid>
+            <pubDate>Wed, 25 Aug 2021 11:02:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Gas bills: Northern Ireland customers facing price rise]]></title>
             <description><![CDATA[NI's Utility Regulator says gas bills could increase by more than £100 a year.]]></description>
@@ -44,13 +51,6 @@
             <pubDate>Wed, 25 Aug 2021 09:01:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Man in 20s shot in leg in Newtownabbey]]></title>
-            <description><![CDATA[A man is taken to hospital after being attacked in Newtownabbey on Tuesday night.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58322576?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58322576</guid>
-            <pubDate>Tue, 24 Aug 2021 22:55:25 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[BBC NI Spotlight programme receives Docs Ireland award]]></title>
             <description><![CDATA[The investigative current affairs programme is awarded outstanding contribution to documentary film.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58327812?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -63,6 +63,13 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58323366?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58323366</guid>
             <pubDate>Wed, 25 Aug 2021 08:34:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Man in 20s shot in leg in Newtownabbey]]></title>
+            <description><![CDATA[A man is taken to hospital after being attacked in Newtownabbey on Tuesday night.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58322576?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58322576</guid>
+            <pubDate>Tue, 24 Aug 2021 22:55:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Big increase in turnover for building product firm MacBlair]]></title>

@@ -11,16 +11,23 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 25 Aug 2021 11:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Aug 2021 11:18:02 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
-            <title><![CDATA[Mar Menor: Tonnes of dead fish wash up on Spanish lagoon's shores]]></title>
-            <description><![CDATA[Ecologists say pollution is to blame, as officials consider declaring the Mar Menor a disaster area.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58311105?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58311105</guid>
-            <pubDate>Tue, 24 Aug 2021 11:46:26 GMT</pubDate>
+            <title><![CDATA[German poison probe after drinks spiked at university in Darmstadt]]></title>
+            <description><![CDATA[Six people were taken to hospital with bluish extremities after using a science department's tea area.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58315927?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58315927</guid>
+            <pubDate>Tue, 24 Aug 2021 13:45:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Biscarosse beach: Man missing after French plane makes emergency landing]]></title>
+            <description><![CDATA[Rescue services search for a co-pilot who leapt into the sea when a light aircraft got into trouble.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58329076?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58329076</guid>
+            <pubDate>Wed, 25 Aug 2021 11:04:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Could this solar farm be a climate change solution?]]></title>
@@ -30,25 +37,18 @@
             <pubDate>Tue, 24 Aug 2021 23:01:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Russian toddler lost in woods for four days vows 'never again']]></title>
-            <description><![CDATA[The 22-month-old Russian girl was found alive by a search party, four days after she wandered off.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58315926?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58315926</guid>
-            <pubDate>Tue, 24 Aug 2021 09:56:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[German poison probe after drinks spiked at university in Darmstadt]]></title>
-            <description><![CDATA[Six people were taken to hospital with bluish extremities after using a science department's tea area.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58315927?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58315927</guid>
-            <pubDate>Tue, 24 Aug 2021 13:45:33 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Tralee: Swimmer rescued after nearly 12 hours at sea]]></title>
             <description><![CDATA[The man, believed to be from Londonderry, was spotted floating with a pod of dolphins miles from shore.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-58318023?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58318023</guid>
             <pubDate>Tue, 24 Aug 2021 18:11:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Russian toddler lost in woods for four days vows 'never again']]></title>
+            <description><![CDATA[The 22-month-old Russian girl was found alive by a search party, four days after she wandered off.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58315926?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58315926</guid>
+            <pubDate>Tue, 24 Aug 2021 09:56:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Airbnb offers free accommodation for 20,000 Afghan refugees]]></title>
@@ -72,6 +72,13 @@
             <pubDate>Tue, 24 Aug 2021 09:42:40 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Mar Menor: Tonnes of dead fish wash up on Spanish lagoon's shores]]></title>
+            <description><![CDATA[Ecologists say pollution is to blame, as officials consider declaring the Mar Menor a disaster area.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58311105?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58311105</guid>
+            <pubDate>Tue, 24 Aug 2021 11:46:26 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Afghan crisis: Russia plans for new era with Taliban rule]]></title>
             <description><![CDATA[While Western governments raced to get their people out, Russia appears unfazed by the takeover.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-58265934?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -91,13 +98,6 @@
             <link>https://www.bbc.co.uk/sport/football/57969205?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/57969205</guid>
             <pubDate>Wed, 18 Aug 2021 05:26:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Peter Karlsson: The painful verdict on Swedish ice hockey player's 1995 killing]]></title>
-            <description><![CDATA[Peter Karlsson was stabbed to death in the street. His killer said he was protecting himself - via the so-called 'gay panic' defence.]]></description>
-            <link>https://www.bbc.co.uk/sport/ice-hockey/58101549?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/ice-hockey/58101549</guid>
-            <pubDate>Mon, 16 Aug 2021 23:01:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Teenage pilot Zara Rutherford begins solo round-world record bid]]></title>
