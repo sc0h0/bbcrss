@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 25 Aug 2021 23:17:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Aug 2021 23:41:35 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -177,25 +177,18 @@
             <pubDate>Tue, 24 Aug 2021 11:24:21 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Afghanistan: The 'undefeated' valley an hour from Kabul]]></title>
+            <description><![CDATA[The Panjshir Valley has been a flashpoint in Afghanistan's turbulent history - now it's happening again.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58329527?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58329527</guid>
+            <pubDate>Wed, 25 Aug 2021 23:38:02 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Afghanistan chaos: The British families in limbo]]></title>
             <description><![CDATA[The stories of Britons stuck in Kabul, families in limbo and Afghans starting new lives in the UK.]]></description>
             <link>https://www.bbc.co.uk/news/uk-58327953?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58327953</guid>
             <pubDate>Wed, 25 Aug 2021 07:57:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Biden: Taliban helping us get people out of Afghanistan]]></title>
-            <description><![CDATA[The US says evacuation efforts to help people get out of Afghanistan are 'on pace' to meet a 31 August deadline.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-58323314?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58323314</guid>
-            <pubDate>Tue, 24 Aug 2021 21:48:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Business still has time to help Afghans - AirBnB boss]]></title>
-            <description><![CDATA[Co-founder Brian Chesky urges more firms to help after promising free lodging for 20,000 refugees.]]></description>
-            <link>https://www.bbc.co.uk/news/business-58324810?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58324810</guid>
-            <pubDate>Tue, 24 Aug 2021 22:33:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A Kabul evacuee's tale: Dread, chaos and the Taliban]]></title>
@@ -205,18 +198,18 @@
             <pubDate>Tue, 24 Aug 2021 15:25:44 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Business still has time to help Afghans - AirBnB boss]]></title>
+            <description><![CDATA[Co-founder Brian Chesky urges more firms to help after promising free lodging for 20,000 refugees.]]></description>
+            <link>https://www.bbc.co.uk/news/business-58324810?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58324810</guid>
+            <pubDate>Tue, 24 Aug 2021 22:33:48 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Afghanistan evacuation: Bittersweet relief for interpreter now in UK]]></title>
             <description><![CDATA[An ex-interpreter for the British Army is happy to have escaped Kabul but still worried for his family.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-58315406?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58315406</guid>
             <pubDate>Tue, 24 Aug 2021 08:31:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Afghan para-athlete Nilofar Bayat welcomed by new team in Spain]]></title>
-            <description><![CDATA[Nilofar Bayat, Afghan wheelchair basketball women's captain, is in Bilbao after fleeing the Taliban.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58318043?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58318043</guid>
-            <pubDate>Tue, 24 Aug 2021 10:53:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
