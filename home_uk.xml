@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 25 Aug 2021 02:04:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Aug 2021 02:34:57 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -21,13 +21,6 @@
             <link>https://www.bbc.co.uk/news/world-asia-58321849?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58321849</guid>
             <pubDate>Wed, 25 Aug 2021 00:17:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Afghanistan: Taliban tell working women to stay at home]]></title>
-            <description><![CDATA[Women are not to go to work until procedures are in place to ensure their safety, the Taliban say.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58315413?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58315413</guid>
-            <pubDate>Tue, 24 Aug 2021 16:46:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Charlie Watts: Mick Jagger and Keith Richards pay tribute to Rolling Stones bandmate]]></title>
@@ -49,6 +42,13 @@
             <link>https://www.bbc.co.uk/news/business-58320668?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58320668</guid>
             <pubDate>Tue, 24 Aug 2021 23:03:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Afghanistan: The 'exhaustion' of following the conflict from the UK]]></title>
+            <description><![CDATA[Ayesha, who lives in Britain, explains the mental and physical toll of following news from home.]]></description>
+            <link>https://www.bbc.co.uk/news/newsbeat-58321129?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/newsbeat-58321129</guid>
+            <pubDate>Tue, 24 Aug 2021 23:40:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Just Eat announces 1,500 new jobs in North East]]></title>
@@ -135,25 +135,18 @@
             <pubDate>Wed, 25 Aug 2021 01:07:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Club completes challenge to bag all 282 Munros in a single day]]></title>
-            <description><![CDATA[Members of Carnethy Hill Running Club reached the summits of all 282 mountains in a single day.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-58305778?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-58305778</guid>
-            <pubDate>Tue, 24 Aug 2021 22:14:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Afghanistan: The 'exhaustion' of following the conflict from the UK]]></title>
-            <description><![CDATA[Ayesha, who lives in Britain, explains the mental and physical toll of following news from home.]]></description>
-            <link>https://www.bbc.co.uk/news/newsbeat-58321129?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/newsbeat-58321129</guid>
-            <pubDate>Tue, 24 Aug 2021 23:40:46 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[CEO Secrets: 'Tear up the business plan']]></title>
             <description><![CDATA[CEO Secrets: Brooklyn Brewery boss Eric Ottaway says - be ready to ditch your business plan.]]></description>
             <link>https://www.bbc.co.uk/news/business-58316843?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58316843</guid>
             <pubDate>Tue, 24 Aug 2021 23:11:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Club completes challenge to bag all 282 Munros in a single day]]></title>
+            <description><![CDATA[Members of Carnethy Hill Running Club reached the summits of all 282 mountains in a single day.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-58305778?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-58305778</guid>
+            <pubDate>Tue, 24 Aug 2021 22:14:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Paralympics begin with powerful opening ceremony]]></title>
