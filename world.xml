@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 25 Aug 2021 03:34:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Aug 2021 03:49:41 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -177,6 +177,13 @@
             <pubDate>Tue, 24 Aug 2021 09:14:02 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Afghanistan: World Bank halts aid after Taliban takeover]]></title>
+            <description><![CDATA[The announcement comes after the International Monetary Fund halted aid to Afghanistan last week.]]></description>
+            <link>https://www.bbc.co.uk/news/business-58325545?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58325545</guid>
+            <pubDate>Wed, 25 Aug 2021 03:39:47 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Afghanistan evacuation: Bittersweet relief for interpreter now in UK]]></title>
             <description><![CDATA[An ex-interpreter for the British Army is happy to have escaped Kabul but still worried for his family.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-58315406?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -210,13 +217,6 @@
             <link>https://www.bbc.co.uk/news/world-asia-58300386?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58300386</guid>
             <pubDate>Mon, 23 Aug 2021 07:55:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['Hours not weeks for UK Afghan evacuation']]></title>
-            <description><![CDATA[The defence secretary says the UK will leave Kabul alongside next week's planned US withdrawal.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58302734?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58302734</guid>
-            <pubDate>Mon, 23 Aug 2021 21:39:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
