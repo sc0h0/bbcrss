@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 25 Aug 2021 15:11:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Aug 2021 15:26:49 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Climate change: Europe's 2020 heat reached 'troubling' level]]></title>
+            <description><![CDATA[Temperatures in Europe in 2020 broke the previous high mark by a worrying margin say scientists.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-58333124?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/science-environment-58333124</guid>
+            <pubDate>Wed, 25 Aug 2021 15:03:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Biscarosse beach: Man missing after French plane makes emergency landing]]></title>
             <description><![CDATA[Rescue services search for a co-pilot who leapt into the sea when a light aircraft got into trouble.]]></description>
@@ -35,13 +42,6 @@
             <link>https://www.bbc.co.uk/news/world-europe-58320618?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58320618</guid>
             <pubDate>Tue, 24 Aug 2021 23:01:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[German poison probe after drinks spiked at university in Darmstadt]]></title>
-            <description><![CDATA[Six people were taken to hospital with bluish extremities after using a science department's tea area.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58315927?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58315927</guid>
-            <pubDate>Tue, 24 Aug 2021 13:45:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tralee: Swimmer rescued after nearly 12 hours at sea]]></title>
