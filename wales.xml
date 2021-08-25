@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 25 Aug 2021 10:15:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Aug 2021 10:36:15 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -21,6 +21,13 @@
             <link>https://www.bbc.co.uk/news/uk-wales-politics-58260242?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-politics-58260242</guid>
             <pubDate>Wed, 25 Aug 2021 08:17:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Welsh triathlete suffers 'life-threatening' injuries at event]]></title>
+            <description><![CDATA[Nathan Ford is in intensive care after suffering serious spinal and brain injuries injuries.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-58321158?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-58321158</guid>
+            <pubDate>Wed, 25 Aug 2021 10:17:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[UK City of Culture 2025: North Wales tourism boss saddened by rival bids]]></title>
@@ -35,13 +42,6 @@
             <link>https://www.bbc.co.uk/news/uk-wales-58318646?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-58318646</guid>
             <pubDate>Wed, 25 Aug 2021 05:37:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Welsh triathlete suffers 'life-threatening' injuries at event]]></title>
-            <description><![CDATA[Nathan Ford is in intensive care after suffering serious spinal and brain injuries injuries.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-58321158?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-58321158</guid>
-            <pubDate>Wed, 25 Aug 2021 10:11:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Epilepsy patients in west Wales waiting 18 months to see a neurologist, charity says]]></title>
@@ -135,6 +135,13 @@
             <pubDate>Tue, 24 Aug 2021 13:09:20 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Kieffer Moore: Cardiff City would have to replace striker if he left, says Mick McCarthy]]></title>
+            <description><![CDATA[Manager Mick McCarthy says Cardiff City would need to replace Wales striker Kieffer Moore if he leaves this summer.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58306253?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58306253</guid>
+            <pubDate>Wed, 25 Aug 2021 10:26:56 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Wales' World Cup qualifier with Belarus in Russia a 'nightmare', says Robert Page]]></title>
             <description><![CDATA[Manager Robert Page says Wales face a "logistical nightmare" in playing their World Cup qualifier with Belarus in Russia.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58318874?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -143,10 +150,17 @@
         </item>
         <item>
             <title><![CDATA[Menna Fitzpatrick and Jen Kehoe: Para-skiiers call time on partnership]]></title>
-            <description><![CDATA[Reigning champion Menna Fitzpatrick is seeking a new guide in a bid to reach the 2022 Beijing Winter Paralympics after her para-alpine skiing partnership with Jen Kehoe ends.]]></description>
+            <description><![CDATA[Menna Fitzpatrick is seeking a new guide in a bid to reach the 2022 Beijing Winter Paralympics after her Para-alpine skiing partnership with Jen Kehoe ends.]]></description>
             <link>https://www.bbc.co.uk/sport/disability-sport/58326720?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/disability-sport/58326720</guid>
             <pubDate>Wed, 25 Aug 2021 09:01:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Peterborough United and Cardiff City fined £5,000 each by FA after melee]]></title>
+            <description><![CDATA[Peterborough United and Cardiff City are fined £5,000 each by the FA for a melee during their Championship draw on 17 August.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58330306?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58330306</guid>
+            <pubDate>Wed, 25 Aug 2021 10:26:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Swansea City 4-1 Plymouth Argyle: Morgan Whittaker hat-trick helps Swans to EFL Cup win]]></title>
@@ -154,20 +168,6 @@
             <link>https://www.bbc.co.uk/sport/football/58239627?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58239627</guid>
             <pubDate>Tue, 24 Aug 2021 19:56:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cardiff City 0-2 Brighton & Hove Albion: Seagulls into Carabao Cup third round]]></title>
-            <description><![CDATA[Brighton maintain their impressive start to the season to advance in the Carabao Cup and inflict Cardiff's first loss of the campaign.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58239552?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58239552</guid>
-            <pubDate>Tue, 24 Aug 2021 20:52:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Aaron Ramsey: Juventus say Wales midfielder has thigh injury]]></title>
-            <description><![CDATA[Juventus midfielder Aaron Ramsey is a Wales injury worry in the build-up to their World Cup qualifiers in September.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58322476?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58322476</guid>
-            <pubDate>Tue, 24 Aug 2021 17:19:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Galw am ymchwilio i gost profion er mwyn teithio o Gymru]]></title>
