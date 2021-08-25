@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 25 Aug 2021 00:17:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Aug 2021 01:14:07 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -65,6 +65,13 @@
             <pubDate>Tue, 24 Aug 2021 09:56:12 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Haiti earthquake: Mother mourns daughter killed during christening]]></title>
+            <description><![CDATA[Locals say 22 people died when a church collapsed during a mass christening.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-58320708?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58320708</guid>
+            <pubDate>Wed, 25 Aug 2021 01:07:48 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[German poison probe after drinks spiked at university in Darmstadt]]></title>
             <description><![CDATA[Six people were taken to hospital with bluish extremities after using a science department's tea area.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-58315927?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -98,13 +105,6 @@
             <link>https://www.bbc.co.uk/news/world-latin-america-58315356?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-latin-america-58315356</guid>
             <pubDate>Tue, 24 Aug 2021 09:08:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[R. Kelly trial: Woman says singer pressured her to have abortion]]></title>
-            <description><![CDATA[The second accuser to testify against the singer says he abused her and urged her to get an abortion.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-58315144?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-58315144</guid>
-            <pubDate>Tue, 24 Aug 2021 10:23:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Madagascar on the brink of climate change-induced famine]]></title>
