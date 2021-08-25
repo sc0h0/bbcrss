@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 25 Aug 2021 11:29:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Aug 2021 11:37:31 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -51,6 +51,13 @@
             <pubDate>Wed, 25 Aug 2021 10:34:09 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid rules saw traffic fall but more cycling in Wales]]></title>
+            <description><![CDATA[Last year there was a 68.4% increase in cycling on the roads compared with the previous year.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-58327865?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-58327865</guid>
+            <pubDate>Wed, 25 Aug 2021 11:28:08 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Snowdon: Llanberis residents kept awake by 24/7 tourists]]></title>
             <description><![CDATA[Residents complain of early morning celebrations by visitors returning from night climbs.]]></description>
             <link>https://www.bbc.co.uk/news/uk-wales-58314871?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -70,13 +77,6 @@
             <link>https://www.bbc.co.uk/news/uk-wales-58314181?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-58314181</guid>
             <pubDate>Tue, 24 Aug 2021 18:29:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid-19 hospital numbers show rise by half in a week]]></title>
-            <description><![CDATA[Numbers of Covid patients are still less than a fifth of numbers at this stage in the second wave.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-58318218?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-58318218</guid>
-            <pubDate>Tue, 24 Aug 2021 14:24:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Vale of Glamorgan councillor abused four children, court hears]]></title>
