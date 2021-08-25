@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 25 Aug 2021 09:40:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Aug 2021 09:53:53 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -65,6 +65,13 @@
             <pubDate>Wed, 25 Aug 2021 08:08:19 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Four horses die after collision on A9 near Perth]]></title>
+            <description><![CDATA[Two men are taken to hospital after a lorry carrying horses collided with another lorry near Perth.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-58309717?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-58309717</guid>
+            <pubDate>Wed, 25 Aug 2021 09:43:56 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[How will SNP-Greens deal affect plans for the A96?]]></title>
             <description><![CDATA[The SNP and Scottish Greens have agreed a power-sharing arrangement, but with "distinct positions" on the A96's future.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-58304184?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -98,13 +105,6 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-tayside-central-58322040?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-tayside-central-58322040</guid>
             <pubDate>Tue, 24 Aug 2021 21:38:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rangers: Scottish champions confirm Covid-19 cases]]></title>
-            <description><![CDATA[Rangers have confirmed a Covid-19 outbreak has hit the club as they prepare for two key matches this week.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58324440?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58324440</guid>
-            <pubDate>Tue, 24 Aug 2021 19:19:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid in Scotland: Where are the latest cases?]]></title>
@@ -247,6 +247,13 @@
             <pubDate>Tue, 17 Aug 2021 13:46:49 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Rangers: Scottish champions confirm Covid-19 cases]]></title>
+            <description><![CDATA[Rangers have confirmed a Covid-19 outbreak has hit the club as they prepare for two key matches this week.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58324440?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58324440</guid>
+            <pubDate>Tue, 24 Aug 2021 19:19:26 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Scottish Gossip: Celtic, Rangers, Scotland, Hearts, St Johnstone, Aberdeen]]></title>
             <description><![CDATA[English clubs tipped to move for Celtic midfielder as Scotland boss names his number one goalkeeper.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58316751?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -266,13 +273,6 @@
             <link>https://www.bbc.co.uk/sport/football/58279924?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58279924</guid>
             <pubDate>Tue, 24 Aug 2021 16:03:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Andy Murray: Tennis Scotland open to owning more courts after 'shambles' comment]]></title>
-            <description><![CDATA[Tennis Scotland says it would like to own and operate more of the country's courts after Andy Murray highlighted the issue of unused facilities.]]></description>
-            <link>https://www.bbc.co.uk/sport/tennis/58319817?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/58319817</guid>
-            <pubDate>Tue, 24 Aug 2021 14:23:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
