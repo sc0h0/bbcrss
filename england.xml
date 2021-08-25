@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 25 Aug 2021 05:56:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Aug 2021 06:33:13 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -23,32 +23,11 @@
             <pubDate>Tue, 24 Aug 2021 23:43:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Claudia Lawrence: Former gravel pits searched in missing chef case]]></title>
-            <description><![CDATA[Police search an area outside York for traces of the missing chef, who disappeared in March 2009.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-58320985?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-58320985</guid>
-            <pubDate>Tue, 24 Aug 2021 17:12:08 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Covid: Cornwall tourists urged to 'stay away' as cases rise]]></title>
             <description><![CDATA[Visit Cornwall says only people who have booked should visit as cases nearly double in a week.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-cornwall-58318695?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-cornwall-58318695</guid>
             <pubDate>Tue, 24 Aug 2021 17:46:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Two-year-old dies in fire at Ingoldmells caravan park]]></title>
-            <description><![CDATA[The child's mother and three siblings escaped the blaze in Ingoldmells, Lincolnshire Police say.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-lincolnshire-58319097?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-lincolnshire-58319097</guid>
-            <pubDate>Tue, 24 Aug 2021 16:36:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Just Eat announces 1,500 new jobs in North East]]></title>
-            <description><![CDATA[The food delivery platform will invest £100m to create 1,500 new customer service roles.]]></description>
-            <link>https://www.bbc.co.uk/news/business-58277030?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58277030</guid>
-            <pubDate>Tue, 24 Aug 2021 23:01:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Latitude Festival: More than 1,000 attendees test positive for Covid]]></title>
@@ -58,6 +37,27 @@
             <pubDate>Tue, 24 Aug 2021 18:41:38 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[DJ to hold Ministry of Sound fundraiser for twin brother in Covid coma]]></title>
+            <description><![CDATA[The twin of a DJ who fell into a coma after catching Covid is holding a club night to raise money for his care.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-58320210?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-london-58320210</guid>
+            <pubDate>Wed, 25 Aug 2021 05:17:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Just Eat announces 1,500 new jobs in North East]]></title>
+            <description><![CDATA[The food delivery platform will invest £100m to create 1,500 new customer service roles.]]></description>
+            <link>https://www.bbc.co.uk/news/business-58277030?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58277030</guid>
+            <pubDate>Tue, 24 Aug 2021 23:01:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Claudia Lawrence: Former gravel pits searched in missing chef case]]></title>
+            <description><![CDATA[Police search an area outside York for traces of the missing chef, who disappeared in March 2009.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-58320985?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-58320985</guid>
+            <pubDate>Tue, 24 Aug 2021 17:12:08 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA['Tom Cruise is in my Warwickshire garden']]></title>
             <description><![CDATA[A request to land a helicopter carrying an unnamed VIP leads to an encounter with Hollywood royalty.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-coventry-warwickshire-58322732?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -65,11 +65,11 @@
             <pubDate>Tue, 24 Aug 2021 16:27:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[DJ to hold Ministry of Sound fundraiser for twin brother in Covid coma]]></title>
-            <description><![CDATA[The twin of a DJ who fell into a coma after catching Covid is holding a club night to raise money for his care.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-london-58320210?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-london-58320210</guid>
-            <pubDate>Wed, 25 Aug 2021 05:17:12 GMT</pubDate>
+            <title><![CDATA[Two-year-old dies in fire at Ingoldmells caravan park]]></title>
+            <description><![CDATA[The child's mother and three siblings escaped the blaze in Ingoldmells, Lincolnshire Police say.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-lincolnshire-58319097?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-lincolnshire-58319097</guid>
+            <pubDate>Tue, 24 Aug 2021 16:36:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[M25: Three dead and two arrested after lorry, minibus and car crash]]></title>
@@ -86,18 +86,18 @@
             <pubDate>Tue, 24 Aug 2021 12:13:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Consultation begins on beaver reintroductions]]></title>
-            <description><![CDATA[The UK government is seeking people's views on whether beavers should return to England's rivers.]]></description>
-            <link>https://www.bbc.co.uk/news/science-environment-58322561?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/science-environment-58322561</guid>
-            <pubDate>Tue, 24 Aug 2021 23:35:37 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Help needed to identify woman found dead in Oxfordshire lake]]></title>
             <description><![CDATA[Police say there have been no missing person reports matching her description.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-oxfordshire-58306617?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-oxfordshire-58306617</guid>
             <pubDate>Tue, 24 Aug 2021 08:47:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Consultation begins on beaver reintroductions]]></title>
+            <description><![CDATA[The UK government is seeking people's views on whether beavers should return to England's rivers.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-58322561?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/science-environment-58322561</guid>
+            <pubDate>Tue, 24 Aug 2021 23:35:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How the world's oldest hat shop made it through lockdown]]></title>
@@ -133,69 +133,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-london-58283709?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-london-58283709</guid>
             <pubDate>Sat, 21 Aug 2021 23:19:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['Fascist' teenager from Essex had 3D-printed gun plan]]></title>
-            <description><![CDATA[Matthew Cronjager wanted to bring about a "revolution" based on his racist ideology, a court hears.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-essex-58322653?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-essex-58322653</guid>
-            <pubDate>Tue, 24 Aug 2021 17:28:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Extinction Rebellion: Giant table erected in London street dismantled]]></title>
-            <description><![CDATA[Police took apart the structure on Tuesday morning, as more protests take place in Whitehall.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-london-58319001?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-london-58319001</guid>
-            <pubDate>Tue, 24 Aug 2021 17:23:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Election hopeful Thom Campion apologises for sexist, abusive rants]]></title>
-            <description><![CDATA[Lib Dem candidate Thom Campion says the hate-filled posts "did not reflect" his views today.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-tyne-58317634?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-tyne-58317634</guid>
-            <pubDate>Tue, 24 Aug 2021 13:49:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Toxic mix of chemicals at Solent Hotel leaves 24 in hospital]]></title>
-            <description><![CDATA[Hotel guests were overcome by fumes in the spa area and some required ventilation, say firefighters.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-hampshire-58315780?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-hampshire-58315780</guid>
-            <pubDate>Tue, 24 Aug 2021 10:33:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Three people rescued from Chesterfield building collapse]]></title>
-            <description><![CDATA[A neighbour said it was a "miracle" nobody was killed after a portable gas canister exploded]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-derbyshire-58315770?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-derbyshire-58315770</guid>
-            <pubDate>Tue, 24 Aug 2021 18:03:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Warrington drug dealer caught out by seat belt check]]></title>
-            <description><![CDATA[Police checking if Michael Sherwood was wearing a seat belt found drugs, cash and phones in his car.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-manchester-58307598?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-manchester-58307598</guid>
-            <pubDate>Tue, 24 Aug 2021 12:13:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Man bailed after Katie Price assault arrest]]></title>
-            <description><![CDATA[The man, 32, was arrested on suspicion of assault, theft and coercive and controlling behaviour.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-essex-58315334?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-essex-58315334</guid>
-            <pubDate>Tue, 24 Aug 2021 09:34:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Woman who saved drowning boy in Bournemouth 'expected the worst']]></title>
-            <description><![CDATA[The mum spotted the young child lying motionless in shallow water, unnoticed by fellow beachgoers.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-dorset-58306620?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-dorset-58306620</guid>
-            <pubDate>Tue, 24 Aug 2021 11:43:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Norwich man flies paramotor down UK for Alzheimer's research]]></title>
-            <description><![CDATA[Daniel Jones lands in Cornwall to complete an Alzheimer's challenge in tribute to his grandparents.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-norfolk-58304512?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-norfolk-58304512</guid>
-            <pubDate>Tue, 24 Aug 2021 09:09:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Carabao Cup: Barrow 0-6 Aston Villa - Cameron Archer hits hat-trick as Villa cruise into third round]]></title>
