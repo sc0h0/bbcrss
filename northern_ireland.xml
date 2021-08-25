@@ -11,16 +11,30 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 25 Aug 2021 09:56:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Aug 2021 10:14:43 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Gas bills: Northern Ireland customers facing price rise]]></title>
+            <description><![CDATA[NI's Utility Regulator says gas bills could increase by more than £100 a year.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58329817?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58329817</guid>
+            <pubDate>Wed, 25 Aug 2021 10:04:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Mullaghglass landfill: Legal action taken against council]]></title>
             <description><![CDATA[Residents say the smell is giving them headaches and nausea, as well as affecting their mental health.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58323365?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58323365</guid>
             <pubDate>Wed, 25 Aug 2021 09:01:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[High Street voucher scheme aims to launch on 12 September]]></title>
+            <description><![CDATA[Every adult in Northern Ireland will be eligible for a £100 pre-paid card.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58329517?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58329517</guid>
+            <pubDate>Wed, 25 Aug 2021 09:59:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Edwin Poots 'intending to run' in 2022 assembly election]]></title>
@@ -51,18 +65,18 @@
             <pubDate>Wed, 25 Aug 2021 08:34:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Beacon Hospital: School 'did not solicit' Covid vaccines]]></title>
-            <description><![CDATA[The Beacon Hospital in Dublin had administered 20 Covid-19 vaccines to teachers at a private school.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58327568?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58327568</guid>
-            <pubDate>Wed, 25 Aug 2021 08:12:51 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Big increase in turnover for building product firm MacBlair]]></title>
             <description><![CDATA[MacBlair said it saw very strong demand in the home and gardens improvements sectors.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58327588?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58327588</guid>
             <pubDate>Wed, 25 Aug 2021 07:17:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Beacon Hospital: School 'did not solicit' Covid vaccines]]></title>
+            <description><![CDATA[The Beacon Hospital in Dublin had administered 20 Covid-19 vaccines to teachers at a private school.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58327568?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58327568</guid>
+            <pubDate>Wed, 25 Aug 2021 08:12:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bracken bashing in the Castlerock countryside]]></title>
@@ -91,20 +105,6 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58315530?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58315530</guid>
             <pubDate>Tue, 24 Aug 2021 16:06:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tralee: Swimmer rescued after nearly 12 hours at sea]]></title>
-            <description><![CDATA[The man, believed to be from Londonderry, was spotted floating with a pod of dolphins miles from shore.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58318023?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58318023</guid>
-            <pubDate>Tue, 24 Aug 2021 18:11:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['Questions' over Tyrone's All-Ireland semi fitness]]></title>
-            <description><![CDATA[Brian Dooher says all Tyrone's players are back training but that "question marks" remain over some for the All-Ireland semi-final SFC against Kerry.]]></description>
-            <link>https://www.bbc.co.uk/sport/gaelic-games/58320546?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/gaelic-games/58320546</guid>
-            <pubDate>Tue, 24 Aug 2021 19:30:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: 'Social deprivation a factor' in low vaccine uptake]]></title>
@@ -212,6 +212,13 @@
             <pubDate>Sat, 21 Aug 2021 23:14:08 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Tralee: Swimmer rescued after nearly 12 hours at sea]]></title>
+            <description><![CDATA[The man, believed to be from Londonderry, was spotted floating with a pod of dolphins miles from shore.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58318023?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58318023</guid>
+            <pubDate>Tue, 24 Aug 2021 18:11:25 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Sinn Féin Foyle MLAs to step down before September]]></title>
             <description><![CDATA[Martina Anderson and Karen Mullan will not return to the Assembly, but will take on new party roles.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58321830?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -231,13 +238,6 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58308370?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58308370</guid>
             <pubDate>Mon, 23 Aug 2021 16:52:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Magee Medical School finally opens in Londonderry for 70 students]]></title>
-            <description><![CDATA[Funding problems delayed the opening at Ulster University's Magee campus in Londonderry.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58300292?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58300292</guid>
-            <pubDate>Mon, 23 Aug 2021 15:21:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Afghanistan: Irish citizens wait for rescue mission]]></title>
