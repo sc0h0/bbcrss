@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 25 Aug 2021 20:58:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Aug 2021 21:20:15 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -205,25 +205,32 @@
             <pubDate>Wed, 25 Aug 2021 05:35:10 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Newport County 0-8 Southampton: Saints claim record win as they crush Exiles in EFL Cup]]></title>
+            <description><![CDATA[Southampton secure the biggest away win in their history as they hammer Newport County 8-0 at Rodney Parade in the EFL Cup.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58239578?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58239578</guid>
+            <pubDate>Wed, 25 Aug 2021 20:50:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[West Brom 0-6 Arsenal: Aubameyang stars as Gunners secure first win of season]]></title>
+            <description><![CDATA[Pierre-Emerick Aubameyang's hat-trick helps Arsenal to a first win of the season as they beat a young West Brom side in the Carabao Cup.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58252911?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58252911</guid>
+            <pubDate>Wed, 25 Aug 2021 21:03:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[T20 Blast: Hampshire Hawks upset holders Notts Outlaws to reach Finals Day]]></title>
+            <description><![CDATA[Hampshire Hawks reach T20 Blast Finals Day with a two-run win over holders Notts Outlaws at Trent Bridge.]]></description>
+            <link>https://www.bbc.co.uk/sport/cricket/58258038?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/cricket/58258038</guid>
+            <pubDate>Wed, 25 Aug 2021 21:01:55 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Newcastle United 0-0 Burnley (3-4 pens): Wayne Hennessey saves send Clarets through]]></title>
             <description><![CDATA[Wayne Hennessey has Burnley debut to remember as he saves two spot-kicks to help them beat Newcastle on penalties in the Carabao Cup.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58239479?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58239479</guid>
-            <pubDate>Wed, 25 Aug 2021 20:57:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Super League: Wigan Warriors 0-14 Leeds Rhinos - Hosts fail to score try for second successive match]]></title>
-            <description><![CDATA[Out-of-sorts Wigan fail to score a try for second successive match as they fall to a home defeat by Leeds Rhinos.]]></description>
-            <link>https://www.bbc.co.uk/sport/rugby-league/58336795?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/rugby-league/58336795</guid>
-            <pubDate>Wed, 25 Aug 2021 20:54:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[England v India: Brilliant hosts dominate first day of third Test]]></title>
-            <description><![CDATA[England reach 120-0 after bowling India out for only 78 on a remarkable first day of the third Test at Headingley.]]></description>
-            <link>https://www.bbc.co.uk/sport/cricket/58334534?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/cricket/58334534</guid>
-            <pubDate>Wed, 25 Aug 2021 17:57:58 GMT</pubDate>
+            <pubDate>Wed, 25 Aug 2021 21:18:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
