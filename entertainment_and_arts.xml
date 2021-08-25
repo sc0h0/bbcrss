@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 25 Aug 2021 09:20:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Aug 2021 09:34:32 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -23,11 +23,18 @@
             <pubDate>Wed, 25 Aug 2021 08:45:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Charlie Watts: Jagger and Richards pay tribute to Rolling Stones bandmate]]></title>
-            <description><![CDATA[The Rolling Stones' Mick Jagger and Keith Richards salute drummer Charlie Watts, who has died aged 80.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-58325271?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-58325271</guid>
-            <pubDate>Wed, 25 Aug 2021 07:13:49 GMT</pubDate>
+            <title><![CDATA[Olivia Rodrigo gives Paramore a writing credit on Good 4 U]]></title>
+            <description><![CDATA[Fans had noticed the similarity between Rodrigo's song and Paramore's Misery Business.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-58327849?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-58327849</guid>
+            <pubDate>Wed, 25 Aug 2021 09:24:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kanye West files to officially change name to Ye]]></title>
+            <description><![CDATA[It's taken three years since the rapper first announced the change.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-58328895?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-58328895</guid>
+            <pubDate>Wed, 25 Aug 2021 09:20:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Latitude Festival: More than 1,000 attendees test positive for Covid]]></title>
@@ -44,13 +51,6 @@
             <pubDate>Wed, 25 Aug 2021 07:32:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Charlie Watts: The subtle magnificence of the Rolling Stones' drummer]]></title>
-            <description><![CDATA[He wasn't flashy or prone to pyrotechnics, but Charlie Watts was the heartbeat of the Rolling Stones.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-58323536?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-58323536</guid>
-            <pubDate>Wed, 25 Aug 2021 00:02:55 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Scottish artist Dame Elizabeth Blackadder dies, aged 89]]></title>
             <description><![CDATA[Tributes are paid to one of Scotland's greatest painters after her death at the age of 89.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-58324930?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -65,39 +65,32 @@
             <pubDate>Tue, 24 Aug 2021 14:51:44 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Charlie Watts: Rolling Stones drummer dies at 80]]></title>
+            <description><![CDATA[The music world pays tribute to "one of the greatest drummers of his generation".]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-58316842?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-58316842</guid>
+            <pubDate>Tue, 24 Aug 2021 18:11:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Charlie Watts: Jagger and Richards pay tribute to Rolling Stones bandmate]]></title>
+            <description><![CDATA[The Rolling Stones' Mick Jagger and Keith Richards salute drummer Charlie Watts, who has died aged 80.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-58325271?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-58325271</guid>
+            <pubDate>Wed, 25 Aug 2021 07:13:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Charlie Watts: The subtle magnificence of the Rolling Stones' drummer]]></title>
+            <description><![CDATA[He wasn't flashy or prone to pyrotechnics, but Charlie Watts was the heartbeat of the Rolling Stones.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-58323536?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-58323536</guid>
+            <pubDate>Wed, 25 Aug 2021 00:02:55 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Charlie Watts: The life of a Rolling Stone in pictures]]></title>
             <description><![CDATA[A look back at the life of the iconic rock 'n' roll drummer, who has died at the age of 80.]]></description>
             <link>https://www.bbc.co.uk/news/entertainment-arts-58323305?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-58323305</guid>
             <pubDate>Tue, 24 Aug 2021 20:22:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[R. Kelly trial: Woman says singer pressured her to have abortion]]></title>
-            <description><![CDATA[The second accuser to testify against the singer says he abused her and urged her to get an abortion.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-58315144?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-58315144</guid>
-            <pubDate>Tue, 24 Aug 2021 10:23:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Paralympics: Channel 4 warns of privatisation risk to future coverage]]></title>
-            <description><![CDATA[The broadcaster says it wouldn't be able to do "anything like" as much coverage if it was privatised.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-58316833?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-58316833</guid>
-            <pubDate>Tue, 24 Aug 2021 11:26:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[JMW Turner painting goes on display for first time since 1833]]></title>
-            <description><![CDATA[It is part of a series of artworks being shown in an attempt to entice people back to small museums.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-58315142?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-58315142</guid>
-            <pubDate>Tue, 24 Aug 2021 08:24:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Man bailed after Katie Price assault arrest]]></title>
-            <description><![CDATA[The man, 32, was arrested on suspicion of assault, theft and coercive and controlling behaviour.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-essex-58315334?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-essex-58315334</guid>
-            <pubDate>Tue, 24 Aug 2021 09:34:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Charlie Watts obituary: Jazz man who became rock superstar]]></title>
