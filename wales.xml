@@ -11,16 +11,23 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 25 Aug 2021 16:15:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Aug 2021 16:51:03 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
-            <title><![CDATA[Covid PCR tests: Call to investigate cost of travel tests in Wales]]></title>
-            <description><![CDATA[David TC Davies wants people in Wales to be able to access cheaper, private tests like in England.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-politics-58260242?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-politics-58260242</guid>
-            <pubDate>Wed, 25 Aug 2021 15:22:23 GMT</pubDate>
+            <title><![CDATA[Ration blood tests because of test tube shortage, GPs told]]></title>
+            <description><![CDATA[NHS Wales issues guidelines which include a temporary pause of a number of blood tests.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-58334413?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-58334413</guid>
+            <pubDate>Wed, 25 Aug 2021 16:23:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Afghanistan: Talks held on Welsh support for refugees]]></title>
+            <description><![CDATA[The first minister, council leaders and charities meet as evacuations from Kabul pick up pace.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-politics-58322012?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-politics-58322012</guid>
+            <pubDate>Wed, 25 Aug 2021 16:39:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Child, 3, seriously hurt in Pontypridd dog attack]]></title>
@@ -35,6 +42,13 @@
             <link>https://www.bbc.co.uk/news/uk-wales-58321158?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-58321158</guid>
             <pubDate>Wed, 25 Aug 2021 12:27:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid PCR tests: Call to investigate cost of travel tests in Wales]]></title>
+            <description><![CDATA[David TC Davies wants people in Wales to be able to access cheaper, private tests like in England.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-politics-58260242?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-politics-58260242</guid>
+            <pubDate>Wed, 25 Aug 2021 15:22:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Pontneddfechan: Man drowned at waterfall after getting pulled under]]></title>
@@ -55,7 +69,7 @@
             <description><![CDATA[Under 25s account for more than half of cases as Wales' Covid rate rises to highest since January.]]></description>
             <link>https://www.bbc.co.uk/news/uk-wales-58332410?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-58332410</guid>
-            <pubDate>Wed, 25 Aug 2021 14:56:09 GMT</pubDate>
+            <pubDate>Wed, 25 Aug 2021 16:50:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Wrexham: Two questioned in murder probe after man's death]]></title>
@@ -63,20 +77,6 @@
             <link>https://www.bbc.co.uk/news/uk-wales-58334511?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-58334511</guid>
             <pubDate>Wed, 25 Aug 2021 15:48:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tesco and Iceland bosses warn over Christmas supplies]]></title>
-            <description><![CDATA[But Tesco's chairman says don't "overdramatise" lorry driver crisis, as Iceland warns problem getting worse.]]></description>
-            <link>https://www.bbc.co.uk/news/business-58329439?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58329439</guid>
-            <pubDate>Wed, 25 Aug 2021 14:21:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Aaron Ramsey: Wales braced for injury blow, but hope he can face Estonia]]></title>
-            <description><![CDATA[Wales hope Juventus midfielder Aaron Ramsey will be fit for their World Cup qualifier against Estonia in September.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58322476?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58322476</guid>
-            <pubDate>Wed, 25 Aug 2021 10:48:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[UK City of Culture 2025: North Wales tourism boss saddened by rival bids]]></title>
@@ -135,6 +135,13 @@
             <pubDate>Tue, 24 Aug 2021 13:09:20 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Aaron Ramsey: Wales braced for injury blow, but hope he can face Estonia]]></title>
+            <description><![CDATA[Wales hope Juventus midfielder Aaron Ramsey will be fit for their World Cup qualifier against Estonia in September.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58322476?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58322476</guid>
+            <pubDate>Wed, 25 Aug 2021 10:48:39 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Kieffer Moore: Cardiff City would have to replace striker if he left, says Mick McCarthy]]></title>
             <description><![CDATA[Manager Mick McCarthy says Cardiff City would need to replace Wales striker Kieffer Moore if he leaves this summer.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58306253?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -163,11 +170,11 @@
             <pubDate>Wed, 25 Aug 2021 12:35:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tokyo Paralympics: Sarah Storey wins 15th Paralympic gold as GB claim six medals]]></title>
-            <description><![CDATA[Britain's Sarah Storey wins her 15th Paralympic title for Britain's first gold medal at the Tokyo Games.]]></description>
-            <link>https://www.bbc.co.uk/sport/disability-sport/58326267?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/disability-sport/58326267</guid>
-            <pubDate>Wed, 25 Aug 2021 12:44:40 GMT</pubDate>
+            <title><![CDATA[Pryderon gofal yn sgil prinder tiwbiau profi gwaed]]></title>
+            <description><![CDATA[Canllawiau newydd i wneud profion yn llai aml, a blaenoriaethu cleifion risg uchel oherwydd prinder.]]></description>
+            <link>https://www.bbc.co.uk/newyddion/58332500?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/newyddion/58332500</guid>
+            <pubDate>Wed, 25 Aug 2021 16:16:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Galw am ymchwilio i gost profion er mwyn teithio o Gymru]]></title>
@@ -182,13 +189,6 @@
             <link>https://www.bbc.co.uk/newyddion/58328184?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/newyddion/58328184</guid>
             <pubDate>Wed, 25 Aug 2021 09:25:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Heddlu'n dal i holi dau yn achos marwolaeth Pen-y-cae]]></title>
-            <description><![CDATA[Cafodd trydydd person ei ryddhau heb gyhuddiad gan yr heddlu ddydd Mercher.]]></description>
-            <link>https://www.bbc.co.uk/newyddion/58335169?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/newyddion/58335169</guid>
-            <pubDate>Wed, 25 Aug 2021 15:50:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Comin Greenham: Y chwiorydd o Gymru heriodd Thatcher a Reagan]]></title>
