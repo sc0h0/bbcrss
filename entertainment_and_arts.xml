@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 25 Aug 2021 11:59:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Aug 2021 12:40:52 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -149,6 +149,13 @@
             <pubDate>Thu, 19 Aug 2021 00:00:38 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Charlie Watts: The Who and Chili Peppers drummers pay tribute]]></title>
+            <description><![CDATA[The Who's Kenney Jones and Red Hot Chili Peppers' Chad Smith pay tribute to the Rolling Stones drummer.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-58328005?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-58328005</guid>
+            <pubDate>Wed, 25 Aug 2021 10:13:24 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA['Tom Cruise is in my Warwickshire garden']]></title>
             <description><![CDATA[A request to land a helicopter carrying an unnamed VIP leads to an encounter with Hollywood royalty.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-coventry-warwickshire-58322732?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -182,13 +189,6 @@
             <link>https://www.bbc.co.uk/news/technology-58245604?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/technology-58245604</guid>
             <pubDate>Fri, 20 Aug 2021 13:44:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Drag Race UK queens: Covid 'pushed us creatively']]></title>
-            <description><![CDATA[Newsbeat has spoken to all 12 queens taking part in the new series.]]></description>
-            <link>https://www.bbc.co.uk/news/newsbeat-58270184?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/newsbeat-58270184</guid>
-            <pubDate>Thu, 19 Aug 2021 23:09:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
