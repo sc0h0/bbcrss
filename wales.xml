@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 25 Aug 2021 20:49:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Aug 2021 21:01:21 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -142,6 +142,13 @@
             <pubDate>Mon, 23 Aug 2021 18:23:52 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Newport County 0-8 Southampton: Saints claim record win as they crush Exiles in EFL Cup]]></title>
+            <description><![CDATA[Southampton secure the biggest away win in their history as they hammer Newport County 8-0 at Rodney Parade in the EFL Cup.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58239578?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58239578</guid>
+            <pubDate>Wed, 25 Aug 2021 20:50:13 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Aaron Ramsey: Wales braced for injury blow, but hope he can face Estonia]]></title>
             <description><![CDATA[Wales hope Juventus midfielder Aaron Ramsey will be fit for their World Cup qualifier against Estonia in September.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58322476?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -168,13 +175,6 @@
             <link>https://www.bbc.co.uk/sport/av/disability-sport/58331057?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/av/disability-sport/58331057</guid>
             <pubDate>Wed, 25 Aug 2021 12:09:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Wales' World Cup qualifier with Belarus in Russia a 'nightmare', says Robert Page]]></title>
-            <description><![CDATA[Manager Robert Page says Wales face a "logistical nightmare" in playing their World Cup qualifier with Belarus in Russia.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58318874?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58318874</guid>
-            <pubDate>Wed, 25 Aug 2021 05:38:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Pryderon gofal yn sgil prinder tiwbiau profi gwaed]]></title>
@@ -205,11 +205,11 @@
             <pubDate>Wed, 25 Aug 2021 13:51:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Cwpan yr EFL: Abertawe 4-1 Plymouth Argyle]]></title>
-            <description><![CDATA[Morgan Whittaker yn sgorio hat-tric wrth i'r Elyrch hedfan trwodd i drydedd rownd Cwpan yr EFL.]]></description>
-            <link>https://www.bbc.co.uk/newyddion/58311168?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/newyddion/58311168</guid>
-            <pubDate>Tue, 24 Aug 2021 20:17:11 GMT</pubDate>
+            <title><![CDATA[Cwpan yr EFL: Casnewydd 0-8 Southampton]]></title>
+            <description><![CDATA[Noson drychinebus i'r Alltudion wrth iddyn nhw adael Cwpan y Gynghrair wedi cweir gan Southampton.]]></description>
+            <link>https://www.bbc.co.uk/newyddion/58333865?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/newyddion/58333865</guid>
+            <pubDate>Wed, 25 Aug 2021 20:50:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
