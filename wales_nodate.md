@@ -23,5 +23,5 @@
 23. [Galw am ymchwilio i gost profion er mwyn teithio o Gymru](https://www.bbc.co.uk/newyddion/58322295?at_medium=RSS&at_campaign=KARANGA) - Mae Dirprwy Weinidog Swyddfa Cymru yn cyhuddo Llywodraeth Cymru o "wneud bywyd yn anodd" i deithwyr.
 24. [Diffyg triniaeth epilepsi yng ngorllewin Cymru](https://www.bbc.co.uk/newyddion/58311167?at_medium=RSS&at_campaign=KARANGA) - Yn ôl un elusen, mae pobl epileptig yn yr ardal angen aros hyd at 18 mis ar gyfer apwyntiad.
 25. [Canu gyda chôr ysbyty yn 'helpu i ddelio â'r pwysau'](https://www.bbc.co.uk/newyddion/58322291?at_medium=RSS&at_campaign=KARANGA) - Mae côr Nodau'r Ysbyty o Lanelli yn cynnwys meddygon, nyrsys, rheolwyr iechyd ac aelodau o'r heddlu.
-26. [Gemau Paralympaidd 2021: Dod i adnabod y Cymry](https://www.bbc.co.uk/newyddion/58310030?at_medium=RSS&at_campaign=KARANGA) - Dyma'r Cymry fydd yn cystadlu yn Tokyo
+26. [Eco-bryder ar ôl cael plentyn: 'Ro'n i'n dod adra o siopa yn crïo'](https://www.bbc.co.uk/newyddion/58250588?at_medium=RSS&at_campaign=KARANGA) - Fe wnaeth genedigaeth ei mab achosi gorbryder am yr amgylchedd i Gwenllian Williams
 27. [Cwpan yr EFL: Abertawe 4-1 Plymouth Argyle](https://www.bbc.co.uk/newyddion/58311168?at_medium=RSS&at_campaign=KARANGA) - Morgan Whittaker yn sgorio hat-tric wrth i'r Elyrch hedfan trwodd i drydedd rownd Cwpan yr EFL.
