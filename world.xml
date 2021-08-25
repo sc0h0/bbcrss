@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 25 Aug 2021 10:15:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Aug 2021 10:45:59 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -72,18 +72,18 @@
             <pubDate>Wed, 25 Aug 2021 07:13:49 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Japanese rollercoaster shut as injuries investigated]]></title>
+            <description><![CDATA[The world's fastest-accelerating rollercoaster is closed in Japan after claims of serious injuries.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58328336?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58328336</guid>
+            <pubDate>Wed, 25 Aug 2021 10:27:31 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Kanye West files to officially change name to Ye]]></title>
             <description><![CDATA[It's taken three years since the rapper first announced the change.]]></description>
             <link>https://www.bbc.co.uk/news/entertainment-arts-58328895?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-58328895</guid>
             <pubDate>Wed, 25 Aug 2021 09:20:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Convicted ex-Chadian leader Hissène Habré dies at 79]]></title>
-            <description><![CDATA[The former president, whose government carried out 40,000 murders, was serving a life sentence.]]></description>
-            <link>https://www.bbc.co.uk/news/world-africa-58316923?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-africa-58316923</guid>
-            <pubDate>Tue, 24 Aug 2021 11:45:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Madagascar on the brink of climate change-induced famine]]></title>
@@ -202,7 +202,7 @@
             <description><![CDATA[The US and UK have different timetables for the effort to evacuate people from Afghanistan]]></description>
             <link>https://www.bbc.co.uk/news/world-58305185?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-58305185</guid>
-            <pubDate>Wed, 25 Aug 2021 08:35:48 GMT</pubDate>
+            <pubDate>Wed, 25 Aug 2021 10:42:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
