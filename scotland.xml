@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 26 Aug 2021 11:52:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Aug 2021 12:20:49 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -44,18 +44,18 @@
             <pubDate>Thu, 26 Aug 2021 10:36:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid in Scotland: Third of all Highland schools affected]]></title>
-            <description><![CDATA[Grantown, Lochaber and Culloden secondaries are among schools with "significant numbers" of pupils self-isolating.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-highlands-islands-58341985?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-highlands-islands-58341985</guid>
-            <pubDate>Thu, 26 Aug 2021 10:29:06 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[John McAleese: The SAS soldier who was the man behind the mask]]></title>
             <description><![CDATA[John McAleese was the Scots soldier watched by millions on live television in the Iranian Embassy raid.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-tayside-central-58328164?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-tayside-central-58328164</guid>
             <pubDate>Thu, 26 Aug 2021 05:17:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid in Scotland: Third of all Highland schools affected]]></title>
+            <description><![CDATA[Grantown, Lochaber and Culloden secondaries are among schools with "significant numbers" of pupils self-isolating.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-highlands-islands-58341985?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-highlands-islands-58341985</guid>
+            <pubDate>Thu, 26 Aug 2021 10:29:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Edinburgh construction worker crushed under lift]]></title>
@@ -261,11 +261,18 @@
             <pubDate>Wed, 25 Aug 2021 19:27:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Scottish Gossip: Rangers, Ross County, Celtic, Hibernian, Aberdeen, St Johnstone]]></title>
-            <description><![CDATA[Rangers may be allowed to recall isolating players for Sunday's Old Firm derby.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58333323?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58333323</guid>
-            <pubDate>Thu, 26 Aug 2021 06:48:56 GMT</pubDate>
+            <title><![CDATA[Scotland arrange three T20I matches with Zimbabwe in Edinburgh]]></title>
+            <description><![CDATA[Scotland's male cricketers will play Zimbabwe in three T20 internationals next month at the Grange, Edinburgh.]]></description>
+            <link>https://www.bbc.co.uk/sport/cricket/58344255?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/cricket/58344255</guid>
+            <pubDate>Thu, 26 Aug 2021 12:16:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Quiz: Can you name opponents last time Scotland had three sides in Euro groups?]]></title>
+            <description><![CDATA[Can you remember who made up the groups of Aberdeen, Celtic and Rangers in Europe in 2007-08?]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58298759?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58298759</guid>
+            <pubDate>Thu, 26 Aug 2021 07:27:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
