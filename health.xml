@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 26 Aug 2021 22:20:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Aug 2021 22:32:13 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -261,6 +261,13 @@
             <pubDate>Thu, 26 Aug 2021 17:13:23 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[DJ to hold Ministry of Sound fundraiser for twin brother in Covid coma]]></title>
+            <description><![CDATA[The twin of a DJ who fell into a coma after catching Covid is holding a club night to raise money for his care.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-58320210?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-london-58320210</guid>
+            <pubDate>Wed, 25 Aug 2021 05:17:12 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Paddy McGuinness speaks to the BBC about raising his three autistic children]]></title>
             <description><![CDATA[The comedian says getting a diagnosis and support is "a postcode lottery".]]></description>
             <link>https://www.bbc.co.uk/news/health-58315826?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -280,13 +287,6 @@
             <link>https://www.bbc.co.uk/news/health-58304602?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/health-58304602</guid>
             <pubDate>Mon, 23 Aug 2021 09:02:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The West End star who worked as carer during lockdown]]></title>
-            <description><![CDATA[As theatres reopen, actors like Stephen Beckett have been swapping their lockdown jobs for their place on the stage once more.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-58080453?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-58080453</guid>
-            <pubDate>Fri, 20 Aug 2021 23:05:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
