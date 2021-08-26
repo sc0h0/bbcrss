@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 26 Aug 2021 20:47:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Aug 2021 21:16:07 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -149,6 +149,13 @@
             <pubDate>Wed, 25 Aug 2021 00:02:55 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Kabul airport bomb attack leaves many casualties]]></title>
+            <description><![CDATA[US officials also say there were reports of gunfire following the blast.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58348598?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58348598</guid>
+            <pubDate>Thu, 26 Aug 2021 16:02:24 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Afghanistan: Former Royal Marine on the chaos at Kabul airport]]></title>
             <description><![CDATA[A former Royal Marine, who was near to the explosions at Kabul airport, describes being caught in the chaos.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-58348599?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -175,13 +182,6 @@
             <link>https://www.bbc.co.uk/news/world-europe-58340042?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58340042</guid>
             <pubDate>Thu, 26 Aug 2021 10:31:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Haiti earthquake: Mother mourns daughter killed during christening]]></title>
-            <description><![CDATA[Locals say 22 people died when a church collapsed during a mass christening.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-58320708?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58320708</guid>
-            <pubDate>Wed, 25 Aug 2021 01:07:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Afghanistan: The 'undefeated' Panjshir Valley - an hour from Kabul]]></title>
