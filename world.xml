@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 26 Aug 2021 10:35:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Aug 2021 10:48:48 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -23,20 +23,6 @@
             <pubDate>Wed, 25 Aug 2021 16:22:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Japan suspends 1.6 million Moderna doses over contamination fears]]></title>
-            <description><![CDATA[About 1.63 million vials are withheld after 'foreign objects' were detected in some doses.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58338281?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58338281</guid>
-            <pubDate>Thu, 26 Aug 2021 04:04:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gretchen Whitmer: Man sentenced over kidnap plot]]></title>
-            <description><![CDATA[Ty Garbin plotted to kidnap Gretchen Whitmer over Michigan's Covid-19 restrictions.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-58337712?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58337712</guid>
-            <pubDate>Wed, 25 Aug 2021 22:18:45 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Trial suggests malaria sickness could be cut by 70%]]></title>
             <description><![CDATA[Seasonal vaccines and drugs could save millions of young lives in Africa, researchers say.]]></description>
             <link>https://www.bbc.co.uk/news/health-58332169?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -44,11 +30,32 @@
             <pubDate>Thu, 26 Aug 2021 00:31:49 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Venezuela searches for landslide survivors as more rains fall]]></title>
+            <description><![CDATA[Twenty people are confirmed to have died after heavy rains caused landslides in western Venezuela.]]></description>
+            <link>https://www.bbc.co.uk/news/world-latin-america-58328603?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-latin-america-58328603</guid>
+            <pubDate>Thu, 26 Aug 2021 10:34:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mass brawl erupts in Armenian parliament: Third violent bout in just two days]]></title>
+            <description><![CDATA[Security personnel were called in to remove several members after violence erupted on the parliament floor.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58340042?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58340042</guid>
+            <pubDate>Thu, 26 Aug 2021 10:31:52 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Australian farmer draws heart with sheep in tribute to aunt]]></title>
             <description><![CDATA[The Australian man was unable to attend his aunt's funeral because of Covid travel restrictions.]]></description>
             <link>https://www.bbc.co.uk/news/world-australia-58338661?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-australia-58338661</guid>
             <pubDate>Thu, 26 Aug 2021 03:59:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Japan suspends 1.6 million Moderna doses over contamination fears]]></title>
+            <description><![CDATA[About 1.63 million vials are withheld after 'foreign objects' were detected in some doses.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58338281?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58338281</guid>
+            <pubDate>Thu, 26 Aug 2021 04:04:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Thai police chief, known as Jo Ferrari, wanted over viral torture clip]]></title>
@@ -70,13 +77,6 @@
             <link>https://www.bbc.co.uk/news/business-58335109?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58335109</guid>
             <pubDate>Wed, 25 Aug 2021 16:28:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[South Korea becomes first major Asian economy to raise interest rates]]></title>
-            <description><![CDATA[The move comes as central banks around the world prepare to exit emergency stimulus measures.]]></description>
-            <link>https://www.bbc.co.uk/news/business-58338261?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58338261</guid>
-            <pubDate>Thu, 26 Aug 2021 03:30:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Letitia Wright treated for injuries after Black Panther 2 accident]]></title>
@@ -142,13 +142,6 @@
             <pubDate>Wed, 25 Aug 2021 11:52:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Mass brawl erupts in Armenian parliament: Third violent bout in just two days]]></title>
-            <description><![CDATA[Security personnel were called in to remove several members after violence erupted on the parliament floor.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58340042?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58340042</guid>
-            <pubDate>Thu, 26 Aug 2021 10:31:52 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Haiti earthquake: Mother mourns daughter killed during christening]]></title>
             <description><![CDATA[Locals say 22 people died when a church collapsed during a mass christening.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-58320708?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -161,6 +154,13 @@
             <link>https://www.bbc.co.uk/news/uk-politics-58320221?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-politics-58320221</guid>
             <pubDate>Tue, 24 Aug 2021 13:50:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How are women in Afghanistan reacting to Taliban takeover?]]></title>
+            <description><![CDATA[The BBC's Secunder Kermani speaks to women in Afghanistan about the Taliban takeover.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58315828?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58315828</guid>
+            <pubDate>Tue, 24 Aug 2021 11:24:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Afghanistan: The 'undefeated' Panjshir Valley - an hour from Kabul]]></title>
