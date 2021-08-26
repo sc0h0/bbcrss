@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 26 Aug 2021 05:13:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Aug 2021 05:23:54 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Covid-19: Pandemic had severe impact on young people, says report]]></title>
+            <description><![CDATA[A report says "Insufficient consideration" was given to how children and young people would be affected]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58334583?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58334583</guid>
+            <pubDate>Thu, 26 Aug 2021 05:18:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Dromore woman asks why family's IRA killers were pardoned]]></title>
             <description><![CDATA[Willie Herron, his wife Beth and their daughter Noeline died in a firebomb attack on a shop in 1976.]]></description>
@@ -63,13 +70,6 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58329817?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58329817</guid>
             <pubDate>Wed, 25 Aug 2021 18:15:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Police step up Moygashel patrols after Dungannon Park trouble]]></title>
-            <description><![CDATA[There were reports of a group of masked men patrolling Dungannon Park.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58330825?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58330825</guid>
-            <pubDate>Wed, 25 Aug 2021 13:50:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Northern Trust radiologist review identifies 43 discrepancies]]></title>
@@ -205,6 +205,13 @@
             <pubDate>Tue, 24 Aug 2021 20:19:37 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Police step up Moygashel patrols after Dungannon Park trouble]]></title>
+            <description><![CDATA[There were reports of a group of masked men patrolling Dungannon Park.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58330825?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58330825</guid>
+            <pubDate>Wed, 25 Aug 2021 13:50:03 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Tralee: Swimmer rescued after nearly 12 hours at sea]]></title>
             <description><![CDATA[The man, believed to be from Londonderry, was spotted floating with a pod of dolphins miles from shore.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-58318023?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -224,13 +231,6 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58309750?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58309750</guid>
             <pubDate>Mon, 23 Aug 2021 16:54:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[PSNI defends response to shots at republican mural]]></title>
-            <description><![CDATA[The police say officers were in the area when shots were fired before a commemoration in Londonderry.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58308370?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58308370</guid>
-            <pubDate>Mon, 23 Aug 2021 16:52:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Beacon Hospital: School 'did not solicit' Covid vaccines]]></title>
