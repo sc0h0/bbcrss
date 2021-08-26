@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 26 Aug 2021 05:26:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Aug 2021 05:34:50 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -37,18 +37,18 @@
             <pubDate>Wed, 25 Aug 2021 22:46:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Man held over contamination of food with syringes]]></title>
-            <description><![CDATA[People who bought food at three shops in west London last night are being told to throw it away.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58338121?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58338121</guid>
-            <pubDate>Thu, 26 Aug 2021 01:50:31 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Covid-19: NHS England prepares jabs plan for 12-15 year-olds]]></title>
             <description><![CDATA[But any extension of the vaccination rollout next month will first depend on a recommendation from experts.]]></description>
             <link>https://www.bbc.co.uk/news/uk-58338481?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58338481</guid>
             <pubDate>Thu, 26 Aug 2021 04:40:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Man held over contamination of food with syringes]]></title>
+            <description><![CDATA[People who bought food at three shops in west London last night are being told to throw it away.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-58338121?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58338121</guid>
+            <pubDate>Thu, 26 Aug 2021 01:50:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Light pollution from street lamps linked to insect loss]]></title>
@@ -310,13 +310,6 @@
             <pubDate>Tue, 24 Aug 2021 05:08:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[GB guaranteed cycling gold after silver for McGlynn and Scott - day two so far]]></title>
-            <description><![CDATA[Great Britain cyclists are guaranteed another Paralympic gold and silver after an earlier silver at the Velodrome.]]></description>
-            <link>https://www.bbc.co.uk/sport/disability-sport/58338980?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/disability-sport/58338980</guid>
-            <pubDate>Thu, 26 Aug 2021 05:09:15 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA['Ronaldo, Federer, Brady - Anderson deserves place among ageless champions']]></title>
             <description><![CDATA[Aged 39 years, England seamer James Anderson stands alongside the modern megastars drinking the elixir of eternal class, writes Stephan Shemilt.]]></description>
             <link>https://www.bbc.co.uk/sport/cricket/58334559?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -350,6 +343,13 @@
             <link>https://www.bbc.co.uk/sport/football/58239479?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58239479</guid>
             <pubDate>Wed, 25 Aug 2021 21:32:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Openers drive home England advantage after India skittled for 78]]></title>
+            <description><![CDATA[England reach 120-0 after bowling India out for only 78 on a remarkable first day of the third Test at Headingley.]]></description>
+            <link>https://www.bbc.co.uk/sport/cricket/58334534?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/cricket/58334534</guid>
+            <pubDate>Wed, 25 Aug 2021 17:57:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Afghanistan: The 'undefeated' valley an hour from Kabul]]></title>
@@ -441,6 +441,13 @@
             <link>https://www.bbc.co.uk/sport/disability-sport/58267874?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/disability-sport/58267874</guid>
             <pubDate>Wed, 25 Aug 2021 05:26:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo Paralympics: GB cyclists continue Tokyo medal haul on day two]]></title>
+            <description><![CDATA[Great Britain cyclists are guaranteed another Paralympic gold and silver after an earlier silver at the Velodrome.]]></description>
+            <link>https://www.bbc.co.uk/sport/disability-sport/58338980?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/disability-sport/58338980</guid>
+            <pubDate>Thu, 26 Aug 2021 05:09:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Paralympics: The lowdown on being disabled in Japan]]></title>

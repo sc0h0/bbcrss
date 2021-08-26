@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 26 Aug 2021 05:23:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Aug 2021 05:34:12 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -21,6 +21,13 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58334583?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58334583</guid>
             <pubDate>Thu, 26 Aug 2021 05:18:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Glider: Parties split over route for north Belfast]]></title>
+            <description><![CDATA[Politicians are divided on whether the Glider should go along the Antrim Road or the Shore Road.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58335189?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58335189</guid>
+            <pubDate>Thu, 26 Aug 2021 05:31:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Dromore woman asks why family's IRA killers were pardoned]]></title>
@@ -35,13 +42,6 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58333894?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58333894</guid>
             <pubDate>Wed, 25 Aug 2021 14:32:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid-19: Five more Covid-related deaths and 1,771 new cases]]></title>
-            <description><![CDATA[There are currently 388 patients with Covid-19 in Northern Ireland's hospitals, with 43 patients in ICU.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58329521?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58329521</guid>
-            <pubDate>Wed, 25 Aug 2021 19:41:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[High Street voucher scheme to launch after 12 September]]></title>
@@ -98,6 +98,13 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58323365?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58323365</guid>
             <pubDate>Wed, 25 Aug 2021 09:01:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19: Five more Covid-related deaths and 1,771 new cases]]></title>
+            <description><![CDATA[There are currently 388 patients with Covid-19 in Northern Ireland's hospitals, with 43 patients in ICU.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58329521?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58329521</guid>
+            <pubDate>Wed, 25 Aug 2021 19:41:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: Samantha Willis' husband speaks of pain of her death]]></title>
