@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 26 Aug 2021 19:51:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Aug 2021 20:17:27 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -38,7 +38,7 @@
         </item>
         <item>
             <title><![CDATA[Covid travel: Seven locations moved to Covid travel green list]]></title>
-            <description><![CDATA[Canada and Denmark go on the green list while Thailand and Montenegro are added to the UK red list.]]></description>
+            <description><![CDATA[Canada and Denmark go on the green list while Thailand and Montenegro move to the UK red list.]]></description>
             <link>https://www.bbc.co.uk/news/uk-58348541?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58348541</guid>
             <pubDate>Thu, 26 Aug 2021 19:32:40 GMT</pubDate>
@@ -226,6 +226,13 @@
             <pubDate>Thu, 19 Aug 2021 14:35:56 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[AZ Alkmaar 2-1 Celtic: Scottish side progress 3-2 on aggregate]]></title>
+            <description><![CDATA[Celtic survive a torrid night in the Netherlands to edge past AZ Alkmaar on aggregate and reach the Europa League groups for the fourth season running.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58306063?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58306063</guid>
+            <pubDate>Thu, 26 Aug 2021 20:11:17 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Alashkert 0-0 Rangers (0-1 agg): Ibrox club into Europa League group stages]]></title>
             <description><![CDATA[Rangers overcome a Covid outbreak, stifling heat, and a limited 10-man Alashkert to clinch a Europa League group stage place for the fourth consecutive season.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58306056?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -233,18 +240,11 @@
             <pubDate>Thu, 26 Aug 2021 16:55:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tokyo Paralympics: Scots Fin Graham & Aileen McGlynn take cycling silvers for Paralympics GB]]></title>
-            <description><![CDATA[Scots Fin Graham and Aileen McGlynn have secured cycling silver medals for for Paralympics GB at the Tokyo Games.]]></description>
-            <link>https://www.bbc.co.uk/sport/disability-sport/58340037?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/disability-sport/58340037</guid>
-            <pubDate>Thu, 26 Aug 2021 07:45:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Paralympics: Stef Reid on Scrabble in prison, lockdown baking & breaking barriers]]></title>
-            <description><![CDATA[Great Britain's Stef Reid tells BBC Sport about playing Scrabble with prison inmates, making the world's best cookies, and her mindset ahead of competing in the Tokyo Paralympics.]]></description>
-            <link>https://www.bbc.co.uk/sport/disability-sport/58271507?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/disability-sport/58271507</guid>
-            <pubDate>Thu, 26 Aug 2021 10:16:35 GMT</pubDate>
+            <title><![CDATA[St Johnstone 0-2 LASK (agg 1-3): Balic finish & Raguz penalty end nine-man hosts' Euro dream]]></title>
+            <description><![CDATA[St Johnstone's dream of reaching the Europa Conference League group stage comes to a sobering end as they finish with nine men in a play-off defeat to LASK at McDiarmid Park.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58306080?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58306080</guid>
+            <pubDate>Thu, 26 Aug 2021 20:00:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
