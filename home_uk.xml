@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 26 Aug 2021 06:43:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Aug 2021 06:57:07 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -23,13 +23,6 @@
             <pubDate>Wed, 25 Aug 2021 21:33:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA['My husband refused a divorce for nine years']]></title>
-            <description><![CDATA[Under orthodox Jewish law, a husband must give his wife a document to allow the marriage to end.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58334745?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58334745</guid>
-            <pubDate>Wed, 25 Aug 2021 22:46:28 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Covid-19: NHS England prepares jabs plan for 12-15 year-olds]]></title>
             <description><![CDATA[But any extension of the vaccination rollout next month will first depend on a recommendation from experts.]]></description>
             <link>https://www.bbc.co.uk/news/uk-58338481?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -37,11 +30,25 @@
             <pubDate>Thu, 26 Aug 2021 04:40:32 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid: Jab preparation for 12 to 15-year-olds and vial shortages]]></title>
+            <description><![CDATA[Five things you need to know about the coronavirus pandemic this Thursday morning.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-58335460?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58335460</guid>
+            <pubDate>Thu, 26 Aug 2021 06:51:10 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Man held over contamination of food with syringes]]></title>
             <description><![CDATA[People who bought food at three shops in west London last night are being told to throw it away.]]></description>
             <link>https://www.bbc.co.uk/news/uk-58338121?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58338121</guid>
             <pubDate>Thu, 26 Aug 2021 01:50:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['My husband refused a divorce for nine years']]></title>
+            <description><![CDATA[Under orthodox Jewish law, a husband must give his wife a document to allow the marriage to end.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-58334745?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58334745</guid>
+            <pubDate>Wed, 25 Aug 2021 22:46:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Japan suspends 1.6 million Moderna doses over contamination fears]]></title>
@@ -70,13 +77,6 @@
             <link>https://www.bbc.co.uk/news/science-environment-58333233?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/science-environment-58333233</guid>
             <pubDate>Thu, 26 Aug 2021 00:33:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Service cuts may expose rural youth to county lines]]></title>
-            <description><![CDATA[Money to support young people is much lower in rural areas than urban and half what it was a decade ago.]]></description>
-            <link>https://www.bbc.co.uk/news/education-58312284?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/education-58312284</guid>
-            <pubDate>Thu, 26 Aug 2021 00:35:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Uber and union bosses to meet after landmark deal on workers' rights]]></title>
@@ -287,13 +287,6 @@
             <link>https://www.bbc.co.uk/sport/football/58239578?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58239578</guid>
             <pubDate>Wed, 25 Aug 2021 20:50:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hennessey heroics see Burnley beat Newcastle in shootout to win all-Premier League tie]]></title>
-            <description><![CDATA[Wayne Hennessey has Burnley debut to remember as he saves two spot-kicks to help them beat Newcastle on penalties in the Carabao Cup.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58239479?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58239479</guid>
-            <pubDate>Wed, 25 Aug 2021 21:32:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Afghanistan: The 'undefeated' valley an hour from Kabul]]></title>
