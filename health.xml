@@ -11,10 +11,24 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 26 Aug 2021 23:41:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Aug 2021 23:50:52 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Covid: Vaccine complications dwarfed by virus risks]]></title>
+            <description><![CDATA[Researchers says despite stroke and clotting risks, Covid vaccines have substantial benefits.]]></description>
+            <link>https://www.bbc.co.uk/news/health-58347434?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/health-58347434</guid>
+            <pubDate>Thu, 26 Aug 2021 23:45:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid jab side-effects 'mild' for at-risk children]]></title>
+            <description><![CDATA[Parents should be reassured by the findings, Bristol doctors say, following a small study.]]></description>
+            <link>https://www.bbc.co.uk/news/health-58340779?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/health-58340779</guid>
+            <pubDate>Thu, 26 Aug 2021 23:47:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Covid-19: NHS England prepares jabs plan for 12-15-year-olds]]></title>
             <description><![CDATA[But any extension of the vaccination rollout next month will first depend on a recommendation from experts.]]></description>
@@ -63,20 +77,6 @@
             <link>https://www.bbc.co.uk/news/health-58322882?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/health-58322882</guid>
             <pubDate>Wed, 25 Aug 2021 09:59:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Smoking surge in young during Covid lockdown]]></title>
-            <description><![CDATA[The number of 18 to 34-year-olds smoking increased by a quarter in England during the first lockdown.]]></description>
-            <link>https://www.bbc.co.uk/news/health-58317263?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/health-58317263</guid>
-            <pubDate>Tue, 24 Aug 2021 23:49:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid jab response low for some immunosuppressed people]]></title>
-            <description><![CDATA[Some high risk patients had few or no infection-fighting antibodies in their blood, a vaccine study found.]]></description>
-            <link>https://www.bbc.co.uk/news/health-58317261?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/health-58317261</guid>
-            <pubDate>Tue, 24 Aug 2021 16:02:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: Cornwall tourists urged to 'stay away' as cases rise]]></title>
