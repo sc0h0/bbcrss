@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 26 Aug 2021 00:06:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Aug 2021 01:23:20 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Light pollution from street lamps linked to insect loss]]></title>
+            <description><![CDATA[Scientists say light pollution is a factor driving "worrying" declines in local insect populations.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-58333233?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/science-environment-58333233</guid>
+            <pubDate>Thu, 26 Aug 2021 00:33:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Climate change: Europe's 2020 heat reached 'troubling' level]]></title>
             <description><![CDATA[Temperatures in Europe in 2020 broke the previous high mark by a worrying margin say scientists.]]></description>
@@ -63,13 +70,6 @@
             <link>https://www.bbc.co.uk/news/science-environment-58309900?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/science-environment-58309900</guid>
             <pubDate>Mon, 23 Aug 2021 23:03:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nature crisis: Talks resume on global plan to protect biodiversity]]></title>
-            <description><![CDATA[UN negotiators have resumed work on a plan to protect at least 30% of the world's land and oceans.]]></description>
-            <link>https://www.bbc.co.uk/news/science-environment-58306288?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/science-environment-58306288</guid>
-            <pubDate>Mon, 23 Aug 2021 13:39:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Could this solar farm be a climate change solution?]]></title>
