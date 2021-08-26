@@ -23,5 +23,5 @@
 23. [Cau ysgolion wedi niweidio iechyd y plant tlotaf](https://www.bbc.co.uk/newyddion/58332502?at_medium=RSS&at_campaign=KARANGA) - Rhai plant wedi cael llai o fwydydd iach ac ymarfer corff na'u cyfoedion heb strwythur dyddiol ysgol.
 24. [Ymgyrch i gyfieithu llyfrau awduron du i'r Gymraeg](https://www.bbc.co.uk/newyddion/58333864?at_medium=RSS&at_campaign=KARANGA) - Nod cynllun AwDUron yw sicrhau'r "amrywiaeth fwyaf erioed" o fewn llyfrau Cymraeg ar gyfer plant.
 25. [Pryderon gofal yn sgil prinder tiwbiau profi gwaed](https://www.bbc.co.uk/newyddion/58332500?at_medium=RSS&at_campaign=KARANGA) - Canllawiau newydd i wneud profion yn llai aml, a blaenoriaethu cleifion risg uchel oherwydd prinder.
-26. [Comin Greenham: Y chwiorydd o Gymru heriodd Thatcher a Reagan](https://www.bbc.co.uk/newyddion/58322551?at_medium=RSS&at_campaign=KARANGA) - Nodi 40 mlynedd ers i fenywod o Gymru orymdeithio yn erbyn arfau niwclear
+26. [Darganfod Llwybrau Cymru: Tudweiliog](https://www.bbc.co.uk/newyddion/58272197?at_medium=RSS&at_campaign=KARANGA) - Dewch ar daith gerdded o Borth Colmon i Borth Tywyn ym Mhen-Llŷn.
 27. [Hoci iâ yn ôl yng Nghymru am y tro cyntaf ers 18 mis](https://www.bbc.co.uk/newyddion/58311169?at_medium=RSS&at_campaign=KARANGA) - Mae Devils Caerdydd yn paratoi am eu gêm gyntaf ers Mawrth 2020 yn erbyn Adler Mannheim o'r Almaen.
