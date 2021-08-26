@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 26 Aug 2021 18:34:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Aug 2021 18:36:31 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -184,13 +184,6 @@
             <pubDate>Tue, 24 Aug 2021 13:50:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Afghanistan crisis: What is Isis-K?]]></title>
-            <description><![CDATA[The jihadist group - set up in 2015 - is blamed for some of the worst atrocities in recent years.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58333533?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58333533</guid>
-            <pubDate>Thu, 26 Aug 2021 18:08:49 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Afghanistan: The 'undefeated' Panjshir Valley - an hour from Kabul]]></title>
             <description><![CDATA[The Panjshir Valley has been a flashpoint in Afghanistan's turbulent history - now it's happening again.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-58329527?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -224,6 +217,13 @@
             <link>https://www.bbc.co.uk/news/world-asia-58318374?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58318374</guid>
             <pubDate>Tue, 24 Aug 2021 15:25:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Business still has time to help Afghans - AirBnB boss]]></title>
+            <description><![CDATA[Co-founder Brian Chesky urges more firms to help after promising free lodging for 20,000 refugees.]]></description>
+            <link>https://www.bbc.co.uk/news/business-58324810?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58324810</guid>
+            <pubDate>Tue, 24 Aug 2021 22:33:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
