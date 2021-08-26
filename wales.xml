@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 26 Aug 2021 06:20:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Aug 2021 06:42:22 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -156,6 +156,13 @@
             <pubDate>Wed, 25 Aug 2021 10:48:39 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Newcastle United 0-0 Burnley (3-4 pens): Wayne Hennessey saves send Clarets through]]></title>
+            <description><![CDATA[Wayne Hennessey has Burnley debut to remember as he saves two spot-kicks to help them beat Newcastle on penalties in the Carabao Cup.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58239479?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58239479</guid>
+            <pubDate>Wed, 25 Aug 2021 21:32:25 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Swansea City report alleged racist tweet]]></title>
             <description><![CDATA[Swansea City have reported an alleged racist tweet directed at one of their players from an account that Twitter has since suspended.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58336008?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -168,13 +175,6 @@
             <link>https://www.bbc.co.uk/sport/football/58306253?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58306253</guid>
             <pubDate>Wed, 25 Aug 2021 10:26:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Matt Bush turns focus to Paris 2024 after injury rules him out of Tokyo Paralympics]]></title>
-            <description><![CDATA[World Para-taekwondo champion Matt Bush say it's "unfortunate" injury ruled him out of the Tokyo Paralympics but he is ready to "move on" and is already focused on Paris 2024.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/disability-sport/58331057?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/av/disability-sport/58331057</guid>
-            <pubDate>Wed, 25 Aug 2021 12:09:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Cau ysgolion wedi niweidio iechyd y plant tlotaf]]></title>
@@ -205,11 +205,11 @@
             <pubDate>Wed, 25 Aug 2021 13:51:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Cwpan yr EFL: Casnewydd 0-8 Southampton]]></title>
-            <description><![CDATA[Noson drychinebus i'r Alltudion wrth iddyn nhw adael Cwpan y Gynghrair wedi cweir gan Southampton.]]></description>
-            <link>https://www.bbc.co.uk/newyddion/58333865?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/newyddion/58333865</guid>
-            <pubDate>Wed, 25 Aug 2021 21:31:30 GMT</pubDate>
+            <title><![CDATA[Hoci iâ yn ôl yng Nghymru am y tro cyntaf ers 18 mis]]></title>
+            <description><![CDATA[Mae Devils Caerdydd yn paratoi am eu gêm gyntaf ers Mawrth 2020 yn erbyn Adler Mannheim o'r Almaen.]]></description>
+            <link>https://www.bbc.co.uk/newyddion/58311169?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/newyddion/58311169</guid>
+            <pubDate>Thu, 26 Aug 2021 06:32:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
