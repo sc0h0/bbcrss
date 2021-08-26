@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 26 Aug 2021 15:53:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Aug 2021 16:21:19 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -37,13 +37,6 @@
             <pubDate>Thu, 26 Aug 2021 10:42:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid-19: Pandemic had severe impact on young people, says report]]></title>
-            <description><![CDATA[Insufficient consideration was given to the effect on children and young people, says a report.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58334583?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58334583</guid>
-            <pubDate>Thu, 26 Aug 2021 13:23:55 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Sinn Féin needed shake up in Foyle, says McDonald]]></title>
             <description><![CDATA[The party leader visits the Foyle constituency as nominations open to replace the party's MLAs there.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58345722?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -52,10 +45,10 @@
         </item>
         <item>
             <title><![CDATA[Ship set for Belfast runs aground on Isle of Man]]></title>
-            <description><![CDATA[The island's coastguard tries to free a cargo vessel that ran aground near Cranstal overnight.]]></description>
+            <description><![CDATA[A towing company has failed to free a cargo vessel that ran aground near Cranstal.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-isle-of-man-58342316?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-isle-of-man-58342316</guid>
-            <pubDate>Thu, 26 Aug 2021 12:02:49 GMT</pubDate>
+            <pubDate>Thu, 26 Aug 2021 16:10:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: Four more Covid-related deaths and 1,550 new cases]]></title>
@@ -70,6 +63,13 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58335189?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58335189</guid>
             <pubDate>Thu, 26 Aug 2021 05:31:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19: Pandemic had severe impact on young people, says report]]></title>
+            <description><![CDATA[Insufficient consideration was given to the effect on children and young people, says a report.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58334583?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58334583</guid>
+            <pubDate>Thu, 26 Aug 2021 13:23:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Emmanuel Macron visits Dublin with NI protocol on agenda]]></title>
@@ -177,11 +177,11 @@
             <pubDate>Sun, 22 Aug 2021 06:21:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA['I have to sit down regularly, the pain is so bad']]></title>
-            <description><![CDATA[A woman who needs an ankle operation tells of life on a waiting list with chronic pain.]]></description>
+            <title><![CDATA[NI hospital waiting lists: 'The pain is so bad I have to sit down']]></title>
+            <description><![CDATA[A woman who needs an ankle operation tells of life on a waiting list while feeling chronic pain.]]></description>
             <link>https://www.bbc.co.uk/news/58343028?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/58343028</guid>
-            <pubDate>Thu, 26 Aug 2021 14:45:05 GMT</pubDate>
+            <pubDate>Thu, 26 Aug 2021 16:20:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Pandemic had severe impact on young people, report says]]></title>
