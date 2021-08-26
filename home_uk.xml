@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 26 Aug 2021 04:40:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Aug 2021 04:53:58 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -37,11 +37,18 @@
             <pubDate>Wed, 25 Aug 2021 22:46:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[NHS stops some blood tests due to vial shortages]]></title>
-            <description><![CDATA[Doctors across the country are being asked to delay tests due to a nationwide shortage of blood test tubes.]]></description>
-            <link>https://www.bbc.co.uk/news/business-58324108?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58324108</guid>
-            <pubDate>Wed, 25 Aug 2021 23:01:16 GMT</pubDate>
+            <title><![CDATA[Man held over contamination of food with syringes]]></title>
+            <description><![CDATA[People who bought food at three shops in west London last night are being told to throw it away.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-58338121?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58338121</guid>
+            <pubDate>Thu, 26 Aug 2021 01:50:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19: NHS England prepares jabs plan for 12-15 year-olds]]></title>
+            <description><![CDATA[But any extension of the vaccination rollout next month will first depend on a recommendation from experts.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-58338481?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58338481</guid>
+            <pubDate>Thu, 26 Aug 2021 04:40:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Light pollution from street lamps linked to insect loss]]></title>
@@ -51,18 +58,18 @@
             <pubDate>Thu, 26 Aug 2021 00:33:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Man held over contamination of food with syringes]]></title>
-            <description><![CDATA[People who bought food at three shops in west London last night are being told to throw it away.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58338121?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58338121</guid>
-            <pubDate>Thu, 26 Aug 2021 01:50:31 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Car production in July hits lowest level since 1956]]></title>
             <description><![CDATA[Microchip shortages and staff being told to self-isolate has contributed to shortages in production.]]></description>
             <link>https://www.bbc.co.uk/news/business-58335060?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58335060</guid>
             <pubDate>Wed, 25 Aug 2021 23:03:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NHS stops some blood tests due to vial shortages]]></title>
+            <description><![CDATA[Doctors across the country are being asked to delay tests due to a nationwide shortage of blood test tubes.]]></description>
+            <link>https://www.bbc.co.uk/news/business-58324108?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58324108</guid>
+            <pubDate>Wed, 25 Aug 2021 23:01:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Service cuts may expose rural youth to county lines]]></title>
@@ -72,11 +79,11 @@
             <pubDate>Thu, 26 Aug 2021 00:35:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Extinction Rebellion: Nearly 200 arrests over four days]]></title>
-            <description><![CDATA[Campaigners have glued themselves to a giant table and formed a human chain around Oxford Circus.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-london-58324146?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-london-58324146</guid>
-            <pubDate>Wed, 25 Aug 2021 19:47:24 GMT</pubDate>
+            <title><![CDATA[Uber and union bosses to meet after landmark deal on workers' rights]]></title>
+            <description><![CDATA[GMB and Uber pledge to end the "exploitation" of drivers who work for ride-hailing apps.]]></description>
+            <link>https://www.bbc.co.uk/news/business-58335611?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58335611</guid>
+            <pubDate>Wed, 25 Aug 2021 23:04:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Leopard attacks model in German photoshoot]]></title>
@@ -84,13 +91,6 @@
             <link>https://www.bbc.co.uk/news/world-europe-58329080?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58329080</guid>
             <pubDate>Wed, 25 Aug 2021 18:23:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Uber and union bosses to meet after landmark deal on workers' rights]]></title>
-            <description><![CDATA[GMB and Uber pledge to end the "exploitation" of drivers who work for ride-hailing apps.]]></description>
-            <link>https://www.bbc.co.uk/news/business-58335611?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58335611</guid>
-            <pubDate>Wed, 25 Aug 2021 23:04:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Trial suggests malaria sickness could be cut by 70%]]></title>
