@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 27 Aug 2021 21:27:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Aug 2021 21:55:18 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -21,13 +21,6 @@
             <link>https://www.bbc.co.uk/news/world-asia-58364172?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58364172</guid>
             <pubDate>Fri, 27 Aug 2021 20:34:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kabul airport attack: 'Today I saw doomsday']]></title>
-            <description><![CDATA[Afghans caught up in the twin blasts outside Kabul airport speak of the horror they witnessed.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58340809?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58340809</guid>
-            <pubDate>Fri, 27 Aug 2021 12:27:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid origin: US spy agencies publish 'inconclusive' report]]></title>
@@ -58,18 +51,18 @@
             <pubDate>Fri, 27 Aug 2021 18:04:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Capitol riot: Officer who shot Ashli Babbitt reveals identity]]></title>
-            <description><![CDATA[Lt Michael Byrd told NBC that he believes he saved "countless lives" on 6 January.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-58286404?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58286404</guid>
-            <pubDate>Fri, 27 Aug 2021 16:09:07 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Austrian ex-far-right leader Strache guilty of corruption]]></title>
             <description><![CDATA[The verdict comes two years after a video sting ended Heinz-Christian Strache's political career.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-58354887?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58354887</guid>
             <pubDate>Fri, 27 Aug 2021 15:54:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Capitol riot: Officer who shot Ashli Babbitt reveals identity]]></title>
+            <description><![CDATA[Lt Michael Byrd told NBC that he believes he saved "countless lives" on 6 January.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-58286404?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58286404</guid>
+            <pubDate>Fri, 27 Aug 2021 16:09:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Iran nuclear: Other options if diplomacy fails, says Biden]]></title>
@@ -182,6 +175,13 @@
             <link>https://www.bbc.co.uk/news/world-asia-58348599?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58348599</guid>
             <pubDate>Thu, 26 Aug 2021 19:27:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kabul airport attack: 'Today I saw doomsday']]></title>
+            <description><![CDATA[Afghans caught up in the twin blasts outside Kabul airport speak of the horror they witnessed.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58340809?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58340809</guid>
+            <pubDate>Fri, 27 Aug 2021 12:27:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Afghan music school falls silent under Taliban rule]]></title>
