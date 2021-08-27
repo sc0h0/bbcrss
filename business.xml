@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 27 Aug 2021 09:22:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Aug 2021 09:41:02 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -21,6 +21,13 @@
             <link>https://www.bbc.co.uk/news/business-58354855?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58354855</guid>
             <pubDate>Fri, 27 Aug 2021 09:05:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[BA warns of serious cost problems as furlough ends]]></title>
+            <description><![CDATA[The airline tells staff the ending of the government scheme will be "bad news" for its costs.]]></description>
+            <link>https://www.bbc.co.uk/news/business-58355105?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58355105</guid>
+            <pubDate>Fri, 27 Aug 2021 09:28:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[UK loses 83% of department stores since BHS collapsed]]></title>
@@ -51,13 +58,6 @@
             <pubDate>Thu, 26 Aug 2021 23:09:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[NHS blood test tube shortage set to worsen]]></title>
-            <description><![CDATA[NHS England admits supplies of the tubes will become "even more constrained over the coming weeks".]]></description>
-            <link>https://www.bbc.co.uk/news/business-58324108?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58324108</guid>
-            <pubDate>Thu, 26 Aug 2021 17:01:57 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Travel changes make little difference, says airport boss]]></title>
             <description><![CDATA[Charlie Cornish says the government should 'overhaul' its traffic light travel system.]]></description>
             <link>https://www.bbc.co.uk/news/business-58348843?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -65,11 +65,11 @@
             <pubDate>Thu, 26 Aug 2021 19:25:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[BA in talks over short-haul Gatwick flights]]></title>
-            <description><![CDATA[The airline confirmed it was talking with unions on plans to create a short-haul flight operation.]]></description>
-            <link>https://www.bbc.co.uk/news/business-58348838?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58348838</guid>
-            <pubDate>Thu, 26 Aug 2021 17:47:40 GMT</pubDate>
+            <title><![CDATA[NHS blood test tube shortage set to worsen]]></title>
+            <description><![CDATA[NHS England admits supplies of the tubes will become "even more constrained over the coming weeks".]]></description>
+            <link>https://www.bbc.co.uk/news/business-58324108?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58324108</guid>
+            <pubDate>Thu, 26 Aug 2021 17:01:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Food firm in 'drastic' action amid driver shortage]]></title>
