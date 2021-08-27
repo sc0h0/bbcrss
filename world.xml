@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 27 Aug 2021 01:57:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Aug 2021 03:25:37 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -23,25 +23,25 @@
             <pubDate>Thu, 26 Aug 2021 23:04:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Kabul airport attack: What do we know?]]></title>
-            <description><![CDATA[The bombings came hours after warnings to citizens to stay away from the airport, due to an imminent threat.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58349010?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58349010</guid>
-            <pubDate>Thu, 26 Aug 2021 18:24:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[US judge reprimands Trump election fraud lawyers]]></title>
-            <description><![CDATA[A US district judge accuses Sidney Powell and others of trying to undermine faith in democracy.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-58344982?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58344982</guid>
-            <pubDate>Thu, 26 Aug 2021 13:26:06 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Nigeria: Gunmen free kidnapped schoolchildren]]></title>
             <description><![CDATA[The students from an Islamic school in Tegina were abducted by gunmen last May.]]></description>
             <link>https://www.bbc.co.uk/news/world-africa-58351793?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-africa-58351793</guid>
             <pubDate>Fri, 27 Aug 2021 00:03:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Apple chief executive Tim Cook gets $750m payout]]></title>
+            <description><![CDATA[The award of more than five million Apple shares comes as Mr Cook marks a decade as the firm's boss.]]></description>
+            <link>https://www.bbc.co.uk/news/business-58352098?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58352098</guid>
+            <pubDate>Fri, 27 Aug 2021 03:16:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Supreme Court: Biden eviction moratorium shot down by Supreme Court]]></title>
+            <description><![CDATA[The US Supreme Court ruled 6-3 to end Covid-era protections for renters facing eviction.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-58351798?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58351798</guid>
+            <pubDate>Fri, 27 Aug 2021 03:23:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Daniel Dias: History's greatest para-swimmer]]></title>
@@ -65,18 +65,18 @@
             <pubDate>Thu, 26 Aug 2021 12:29:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Ron Jeremy: US adult film star indicted on 34 sex crime charges]]></title>
-            <description><![CDATA[Ron Jeremy has pleaded not guilty to assault allegations from 21 women that span over two decades.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-58346125?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58346125</guid>
-            <pubDate>Thu, 26 Aug 2021 14:21:38 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Abba: Band teases major announcement ahead of new music]]></title>
             <description><![CDATA[The band, who have not released new music for 39 years, reveal a new project called Abba Voyage.]]></description>
             <link>https://www.bbc.co.uk/news/entertainment-arts-58339627?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-58339627</guid>
             <pubDate>Thu, 26 Aug 2021 10:06:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US judge reprimands Trump election fraud lawyers]]></title>
+            <description><![CDATA[A US district judge accuses Sidney Powell and others of trying to undermine faith in democracy.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-58344982?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58344982</guid>
+            <pubDate>Thu, 26 Aug 2021 13:26:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[New species of ancient four-legged whale discovered in Egypt]]></title>
@@ -168,6 +168,13 @@
             <link>https://www.bbc.co.uk/news/world-europe-58340042?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58340042</guid>
             <pubDate>Thu, 26 Aug 2021 10:31:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kabul airport attack: What do we know?]]></title>
+            <description><![CDATA[The bombings came hours after warnings to citizens to stay away from the airport, due to an imminent threat.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58349010?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58349010</guid>
+            <pubDate>Thu, 26 Aug 2021 18:24:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Afghanistan's economy in crisis after Taliban take-over]]></title>
