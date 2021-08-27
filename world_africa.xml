@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 27 Aug 2021 06:19:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Aug 2021 06:44:32 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -51,18 +51,11 @@
             <pubDate>Thu, 26 Aug 2021 15:46:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[New species of ancient four-legged whale discovered in Egypt]]></title>
+            <title><![CDATA[New species of ancient four-legged whale found in Egypt]]></title>
             <description><![CDATA[The three-metre whale was found in Egypt and has been named after Anubis, the ancient god of death.]]></description>
             <link>https://www.bbc.co.uk/news/world-middle-east-58340807?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-middle-east-58340807</guid>
             <pubDate>Thu, 26 Aug 2021 14:11:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Paralympics 2020: Kgothatso Montjane, South Africa's wheelchair tennis hope]]></title>
-            <description><![CDATA[South Africa's wheelchair tennis star Kgothatso Montjane is aiming for a medal at the Tokyo Paralympics.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/africa/58333522?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/av/africa/58333522</guid>
-            <pubDate>Wed, 25 Aug 2021 23:01:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Kenya's Deputy President Ruto campaigns for 'Hustler Nation']]></title>
@@ -128,6 +121,13 @@
             <pubDate>Thu, 19 Aug 2021 07:42:34 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Tokyo Paralympics 2020: Kgothatso Montjane, South Africa's wheelchair tennis hope]]></title>
+            <description><![CDATA[South Africa's wheelchair tennis star Kgothatso Montjane is aiming for a medal at the Tokyo Paralympics.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/africa/58333522?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/av/africa/58333522</guid>
+            <pubDate>Wed, 25 Aug 2021 23:01:47 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Kenya holds biggest ever animal census]]></title>
             <description><![CDATA[All wildlife on land and sea is being counted to help Kenya's conservation plans and tourism.]]></description>
             <link>https://www.bbc.co.uk/news/world-africa-58281212?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -168,13 +168,6 @@
             <link>https://www.bbc.co.uk/news/world-africa-58184912?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-africa-58184912</guid>
             <pubDate>Thu, 12 Aug 2021 10:17:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The illegal gold mines killing rivers and livelihoods in Ghana]]></title>
-            <description><![CDATA[Sixty percent of Ghana's water bodies are now polluted, largely due to illegal mining operations.]]></description>
-            <link>https://www.bbc.co.uk/news/world-africa-58119653?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-africa-58119653</guid>
-            <pubDate>Tue, 10 Aug 2021 23:02:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
