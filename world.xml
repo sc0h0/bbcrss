@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 27 Aug 2021 16:00:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Aug 2021 16:41:36 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -177,6 +177,13 @@
             <pubDate>Thu, 26 Aug 2021 19:27:15 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Afghan music school falls silent under Taliban rule]]></title>
+            <description><![CDATA[As the new regime bans music, the head of Afghanistan's national music school says students are scared.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58344197?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58344197</guid>
+            <pubDate>Fri, 27 Aug 2021 15:16:54 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[What we know so far about Kabul airport attack]]></title>
             <description><![CDATA[The bombing came hours after warnings to citizens to stay away from the airport, due to an imminent threat.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-58349010?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -210,13 +217,6 @@
             <link>https://www.bbc.co.uk/news/world-asia-india-58326408?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-india-58326408</guid>
             <pubDate>Wed, 25 Aug 2021 23:02:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tears on the tarmac as Afghan journalist speaks to BBC]]></title>
-            <description><![CDATA[Wahida Faizi says she cannot stay in Afghanistan because she believes the Taliban will kill her.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58328511?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58328511</guid>
-            <pubDate>Wed, 25 Aug 2021 11:52:18 GMT</pubDate>
         </item>
     </channel>
 </rss>

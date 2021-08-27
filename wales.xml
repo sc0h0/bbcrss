@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 27 Aug 2021 16:03:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Aug 2021 16:36:30 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -37,6 +37,13 @@
             <pubDate>Fri, 27 Aug 2021 10:54:10 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Clydach murderer: David Morris died after collapsing in prison]]></title>
+            <description><![CDATA[David Morris was serving a 32-year sentence for killing three generations of the same family.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-58359958?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-58359958</guid>
+            <pubDate>Fri, 27 Aug 2021 16:06:21 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Afghanistan: Doctor on scholarship forced to leave family in Kabul]]></title>
             <description><![CDATA[The women's rights campaigner says she had to leave to protect her family after the Taliban takeover.]]></description>
             <link>https://www.bbc.co.uk/news/uk-wales-58359952?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -51,13 +58,6 @@
             <pubDate>Fri, 27 Aug 2021 15:56:36 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Wrexham murder investigation victim named as Karl Saffy]]></title>
-            <description><![CDATA[Karl Saffy, 57, from Penycae, will be missed by many, say his family.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-58354651?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-58354651</guid>
-            <pubDate>Fri, 27 Aug 2021 10:16:45 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Cardiff court appearance for man charged with 1980 rape]]></title>
             <description><![CDATA[Roland Long, 67, was told to appear at Cardiff Crown Court after being granted unconditional bail.]]></description>
             <link>https://www.bbc.co.uk/news/uk-wales-58356855?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -65,7 +65,14 @@
             <pubDate>Fri, 27 Aug 2021 11:56:36 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Staycation: Tourism rethink needed after Snowdonia visitor boom]]></title>
+            <title><![CDATA[Wrexham murder investigation victim named as Karl Saffy]]></title>
+            <description><![CDATA[Karl Saffy, 57, from Penycae, will be missed by many, say his family.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-58354651?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-58354651</guid>
+            <pubDate>Fri, 27 Aug 2021 10:16:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Staycation: Tourism rethink needed after north Wales boom]]></title>
             <description><![CDATA[As queues continue up Snowdon, those living in beauty spots say better infrastructure is needed.]]></description>
             <link>https://www.bbc.co.uk/news/uk-wales-58350936?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-58350936</guid>
@@ -91,13 +98,6 @@
             <link>https://www.bbc.co.uk/news/uk-wales-58349232?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-58349232</guid>
             <pubDate>Fri, 27 Aug 2021 07:26:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[United Rugby Championship: Live televised games return to BBC Cymru Wales]]></title>
-            <description><![CDATA[Friday night rugby will return to BBC Cymru Wales after a free-to-air television deal is announced with the new United Rugby Championship competition.]]></description>
-            <link>https://www.bbc.co.uk/sport/rugby-union/58346264?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/rugby-union/58346264</guid>
-            <pubDate>Fri, 27 Aug 2021 12:01:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[North Wales tourism has strained communities, authority says]]></title>
@@ -142,6 +142,13 @@
             <pubDate>Thu, 26 Aug 2021 09:01:45 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[United Rugby Championship: Live televised games return to BBC Cymru Wales]]></title>
+            <description><![CDATA[Friday night rugby will return to BBC Cymru Wales after a free-to-air television deal is announced with the new United Rugby Championship competition.]]></description>
+            <link>https://www.bbc.co.uk/sport/rugby-union/58346264?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/rugby-union/58346264</guid>
+            <pubDate>Fri, 27 Aug 2021 12:01:16 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[United Rugby Championship: New league unveils inaugural fixture list]]></title>
             <description><![CDATA[The new United Rugby Championship reveals its inaugural fixture list for the 2021-22 season and will begin on 24 September.]]></description>
             <link>https://www.bbc.co.uk/sport/rugby-union/58346259?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -156,6 +163,13 @@
             <pubDate>Fri, 27 Aug 2021 13:38:20 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Ben Tozer: Wrexham sign Cheltenham Town captain Tozer]]></title>
+            <description><![CDATA[Ambitious National League side Wrexham sign Cheltenham Town captain Ben Tozer for an undisclosed fee.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58354462?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58354462</guid>
+            <pubDate>Fri, 27 Aug 2021 16:01:32 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Champions Hockey League: Cardiff Devils 0-5 Adler Mannheim]]></title>
             <description><![CDATA[The Cardiff Devils' long-awaited return to action ended in a 5-0 defeat against Adler Mannheim.]]></description>
             <link>https://www.bbc.co.uk/sport/ice-hockey/58350060?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -163,25 +177,11 @@
             <pubDate>Thu, 26 Aug 2021 20:27:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Swansea City step up Covid precautions at Fairwood training ground]]></title>
-            <description><![CDATA[Swansea City are having to limit access to their training ground in an attempt to curb the club's Covid-19 cases.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58342057?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58342057</guid>
-            <pubDate>Thu, 26 Aug 2021 10:25:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Chris Jordan and Phil Salt: Surrey & Lancashire to sign Sussex pair for 2022]]></title>
-            <description><![CDATA[England internationals Chris Jordan and Phil Salt are to leave Sussex and sign for Surrey and Lancashire respectively at the end of the season.]]></description>
-            <link>https://www.bbc.co.uk/sport/cricket/58347869?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/cricket/58347869</guid>
-            <pubDate>Fri, 27 Aug 2021 08:56:12 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Clwstwr achosion Covid-19 mewn dau ysbyty yng Ngwynedd]]></title>
             <description><![CDATA[Mae hanner y cleifion sydd â Covid yn Ysbyty Gwynedd ac Ysbyty Eryri yn gysylltiedig â'r clwstwr newydd.]]></description>
             <link>https://www.bbc.co.uk/newyddion/58353431?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/newyddion/58353431</guid>
-            <pubDate>Fri, 27 Aug 2021 14:48:53 GMT</pubDate>
+            <pubDate>Fri, 27 Aug 2021 16:02:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Gallai mwy o gleifion ysbyty weld cyfyngiadau eto]]></title>
