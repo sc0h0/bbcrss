@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 27 Aug 2021 12:52:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Aug 2021 13:17:08 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -240,6 +240,13 @@
             <pubDate>Fri, 27 Aug 2021 10:44:17 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Aberdeen: Hamburg' David Bates and Newcastle United's Matthew Longstaff close to Pittodrie moves]]></title>
+            <description><![CDATA[Centre-half David Bates is close to a permanent switch from Hamburg to Aberdeen, who are also poised to sign Newcastle United midfielder Matthew Longstaff on loan.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58355426?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58355426</guid>
+            <pubDate>Fri, 27 Aug 2021 13:10:17 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Celtic: Irish defender Liam Scales signs four-year deal]]></title>
             <description><![CDATA[Celtic sign 23-year-old defender Liam Scales on a four-year deal from League of Ireland side Shamrock Rovers.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58355420?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -247,18 +254,11 @@
             <pubDate>Fri, 27 Aug 2021 08:39:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Matthew Longstaff: Newcastle United midfielder close to Aberdeen loan move]]></title>
-            <description><![CDATA[Newcastle United midfielder Matthew Longstaff is close to joining Scottish Premiership side Aberdeen on loan, Magpies boss Steve Bruce confirms.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58355426?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58355426</guid>
-            <pubDate>Fri, 27 Aug 2021 11:36:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Scottish Gossip: St Johnstone, Aberdeen, Hearts, Hibs, Celtic, Rangers]]></title>
-            <description><![CDATA[Aberdeen set to confirm three-year deal for Hamburg defender Bates, while Newcastle midfielder Longstaff also close to loan move.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58354057?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58354057</guid>
-            <pubDate>Fri, 27 Aug 2021 12:16:25 GMT</pubDate>
+            <title><![CDATA[Taylor Moore: Hearts sign Bristol City defender on season-long loan]]></title>
+            <description><![CDATA[Hearts sign defender Taylor Moore on a season-long loan from Bristol City.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58358912?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58358912</guid>
+            <pubDate>Fri, 27 Aug 2021 12:53:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
