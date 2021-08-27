@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 27 Aug 2021 18:36:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Aug 2021 18:47:20 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -296,13 +296,6 @@
             <pubDate>Fri, 27 Aug 2021 18:17:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Kabul airport bomb attacks leave many casualties]]></title>
-            <description><![CDATA[Reports say at least 90 people were killed, with civilians and US military personnel among the dead.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58348598?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58348598</guid>
-            <pubDate>Thu, 26 Aug 2021 22:10:59 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA['Overwhelming' help given for Afghan refugees in UK]]></title>
             <description><![CDATA["No-one chooses to be a refugee, if any of us were in that position I hope we would get support."]]></description>
             <link>https://www.bbc.co.uk/news/uk-58319846?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -315,6 +308,13 @@
             <link>https://www.bbc.co.uk/news/world-asia-58333533?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58333533</guid>
             <pubDate>Fri, 27 Aug 2021 13:07:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Afghanistan crisis: BBC News Special]]></title>
+            <description><![CDATA[Lyse Doucet in Kabul and Philippa Thomas in London present special coverage of Afghanistan's crisis.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58363162?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58363162</guid>
+            <pubDate>Fri, 27 Aug 2021 18:36:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Kabul airport attack: What do we know?]]></title>
@@ -336,6 +336,13 @@
             <link>https://www.bbc.co.uk/news/world-asia-58343250?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58343250</guid>
             <pubDate>Thu, 26 Aug 2021 15:48:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kabul airport bomb attacks leave many casualties]]></title>
+            <description><![CDATA[Reports say at least 90 people were killed, with civilians and US military personnel among the dead.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58348598?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58348598</guid>
+            <pubDate>Thu, 26 Aug 2021 22:10:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Afghanistan's economy in crisis after Taliban take-over]]></title>
