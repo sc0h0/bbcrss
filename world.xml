@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 27 Aug 2021 10:56:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Aug 2021 12:30:43 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -163,7 +163,14 @@
             <pubDate>Wed, 25 Aug 2021 23:02:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Kabul airport attack: What do we know?]]></title>
+            <title><![CDATA[Kabul airport attack: 'Today I saw doomsday']]></title>
+            <description><![CDATA[Afghans caught up in the twin blasts outside Kabul airport speak of the horror they witnessed.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58340809?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58340809</guid>
+            <pubDate>Fri, 27 Aug 2021 12:27:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What we know so far about Kabul airport attack]]></title>
             <description><![CDATA[The bombings came hours after warnings to citizens to stay away from the airport, due to an imminent threat.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-58349010?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58349010</guid>
@@ -196,13 +203,6 @@
             <link>https://www.bbc.co.uk/news/world-asia-58328511?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58328511</guid>
             <pubDate>Wed, 25 Aug 2021 11:52:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bilal Sarwary: 'The plane hit the tower and all our lives changed']]></title>
-            <description><![CDATA[Afghan journalist Bilal Sarwary was selling carpets when 9/11 happened. From that day on, everything changed.]]></description>
-            <link>https://www.bbc.co.uk/news/world-south-asia-58071592?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-south-asia-58071592</guid>
-            <pubDate>Wed, 25 Aug 2021 08:11:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
