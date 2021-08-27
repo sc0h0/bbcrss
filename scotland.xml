@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 27 Aug 2021 05:33:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Aug 2021 05:48:02 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -28,6 +28,13 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-58346782?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-58346782</guid>
             <pubDate>Fri, 27 Aug 2021 05:12:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Scotland's papers: 'Carnage in Kabul' as refugees die in blasts]]></title>
+            <description><![CDATA[The twin bomb attacks at Kabul airport dominate Scotland's front pages.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-58353057?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-58353057</guid>
+            <pubDate>Fri, 27 Aug 2021 05:43:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Mortimer and Whitehouse: 'North Uist is the best show we've done']]></title>
@@ -84,13 +91,6 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-58341247?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-58341247</guid>
             <pubDate>Thu, 26 Aug 2021 10:36:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid in Scotland: Borders moves to essential hospital visits only]]></title>
-            <description><![CDATA[The move is made by NHS Borders with health services in the region under "immense pressure".]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-south-scotland-58346789?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-south-scotland-58346789</guid>
-            <pubDate>Thu, 26 Aug 2021 16:17:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Drug dealer jailed for catalogue of sex attacks in the Borders]]></title>
@@ -154,6 +154,13 @@
             <link>https://www.bbc.co.uk/news/world-51235105?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-51235105</guid>
             <pubDate>Mon, 23 Aug 2021 12:29:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo 2020 Paralympics: Who are the 33 Scots in Paralympics GB?]]></title>
+            <description><![CDATA[BBC Sport profiles the 33 Scots in Paralympics GB as the Tokyo 2020 event gets under way.]]></description>
+            <link>https://www.bbc.co.uk/sport/disability-sport/58272054?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/disability-sport/58272054</guid>
+            <pubDate>Tue, 24 Aug 2021 11:42:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[John McAleese: The SAS soldier who was the man behind the mask]]></title>
