@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 27 Aug 2021 21:56:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Aug 2021 22:17:34 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -23,11 +23,18 @@
             <pubDate>Fri, 27 Aug 2021 16:49:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid in Scotland: Where are the latest cases?]]></title>
-            <description><![CDATA[A daily update on the number and location of coronavirus cases in Scotland.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-53511877?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-53511877</guid>
-            <pubDate>Fri, 27 Aug 2021 14:49:14 GMT</pubDate>
+            <title><![CDATA[Scottish Greens vote on historic government deal]]></title>
+            <description><![CDATA[The party's co-leaders are urging members to put them into ministerial roles within the Scottish government.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-scotland-politics-58360337?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-scotland-politics-58360337</guid>
+            <pubDate>Fri, 27 Aug 2021 22:02:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Scotland's most remote school seeks new headteacher]]></title>
+            <description><![CDATA[The current head of the school on Fair Isle, which has just three pupils, is stepping down after 35 years.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-58322157?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-58322157</guid>
+            <pubDate>Fri, 27 Aug 2021 22:02:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Kyogo Furuhashi: Two men arrested over alleged hate crime against Celtic star]]></title>
@@ -84,6 +91,13 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-south-scotland-58355504?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-south-scotland-58355504</guid>
             <pubDate>Fri, 27 Aug 2021 12:41:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid in Scotland: Where are the latest cases?]]></title>
+            <description><![CDATA[A daily update on the number and location of coronavirus cases in Scotland.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-53511877?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-53511877</guid>
+            <pubDate>Fri, 27 Aug 2021 14:49:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid in Scotland: Is the drive to get young people jabbed working?]]></title>
