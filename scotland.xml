@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 27 Aug 2021 10:48:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Aug 2021 11:07:02 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -51,13 +51,6 @@
             <pubDate>Fri, 27 Aug 2021 05:19:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Scotland's papers: 'Carnage in Kabul' as refugees die in blasts]]></title>
-            <description><![CDATA[The twin bomb attacks at Kabul airport dominate Scotland's front pages.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-58353057?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-58353057</guid>
-            <pubDate>Fri, 27 Aug 2021 07:03:30 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Raab criticised for 'weak response' to Jagtar Singh Johal plea]]></title>
             <description><![CDATA[The foreign secretary declined to say if he would meet the family of a Scot being held without trial in India.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-58346656?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -77,6 +70,13 @@
             <link>https://www.bbc.co.uk/news/uk-58348541?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58348541</guid>
             <pubDate>Thu, 26 Aug 2021 20:44:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Scotland's papers: 'Carnage in Kabul' as refugees die in blasts]]></title>
+            <description><![CDATA[The twin bomb attacks at Kabul airport dominate Scotland's front pages.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-58353057?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-58353057</guid>
+            <pubDate>Fri, 27 Aug 2021 07:03:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid in Scotland: Borders moves to essential hospital visits only]]></title>
@@ -226,7 +226,7 @@
             <pubDate>Thu, 19 Aug 2021 14:35:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Europa League: Celtic paired with Bayer Leverkusen and Rangers with Lyon in groups]]></title>
+            <title><![CDATA[Europa League: Celtic paired with Bayer Leverkusen & Rangers with Lyon in groups]]></title>
             <description><![CDATA[Celtic are drawn with Bayer Leverkusen while Rangers will take on Lyon in the Europa League group stage.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58351193?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58351193</guid>
