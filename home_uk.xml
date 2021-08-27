@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 27 Aug 2021 14:12:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Aug 2021 14:25:41 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -87,7 +87,7 @@
         </item>
         <item>
             <title><![CDATA[Bury pub landlord catches Lee Rigby collection box thief]]></title>
-            <description><![CDATA[A landlord who served with Lee Rigby chased a thief who tried to steal a donation box in his memory.]]></description>
+            <description><![CDATA[Stewart Spensley, who served with Lee Rigby, chased the thief when the box was taken from his bar.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-manchester-58359182?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-manchester-58359182</guid>
             <pubDate>Fri, 27 Aug 2021 13:47:09 GMT</pubDate>
@@ -247,11 +247,18 @@
             <pubDate>Wed, 25 Aug 2021 23:21:05 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Verstappen tops Belgium second practice despite crash]]></title>
+            <description><![CDATA[Red Bull's Max Verstappen ends Friday practice with a crash after setting the fastest time ahead of both Mercedes drivers.]]></description>
+            <link>https://www.bbc.co.uk/sport/formula1/58359235?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/formula1/58359235</guid>
+            <pubDate>Fri, 27 Aug 2021 14:13:18 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Cristiano Ronaldo: Man Utd in advanced talks to sign Juventus forward]]></title>
             <description><![CDATA[Manchester United are in advanced talks to sign Portugal captain Cristiano Ronaldo from Juventus.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58359561?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58359561</guid>
-            <pubDate>Fri, 27 Aug 2021 14:08:28 GMT</pubDate>
+            <pubDate>Fri, 27 Aug 2021 14:22:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Leicester to play Napoli in Europa League - full draw details]]></title>
@@ -289,6 +296,13 @@
             <pubDate>Fri, 27 Aug 2021 12:47:49 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Afghanistan airport attack: Who are IS-K?]]></title>
+            <description><![CDATA[The jihadist group - set up in 2015 - is blamed for some of the worst atrocities in recent years.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58333533?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58333533</guid>
+            <pubDate>Fri, 27 Aug 2021 13:07:03 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Kabul airport attack: What do we know?]]></title>
             <description><![CDATA[The bombings came hours after warnings to citizens to stay away from the airport, due to an imminent threat.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-58349010?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -322,13 +336,6 @@
             <link>https://www.bbc.co.uk/news/uk-58305464?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58305464</guid>
             <pubDate>Thu, 26 Aug 2021 16:17:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Afghanistan airport attack: Who are IS-K?]]></title>
-            <description><![CDATA[The jihadist group - set up in 2015 - is blamed for some of the worst atrocities in recent years.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58333533?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58333533</guid>
-            <pubDate>Fri, 27 Aug 2021 13:07:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Afghanistan: The 'undefeated' Panjshir Valley - an hour from Kabul]]></title>
