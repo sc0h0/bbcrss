@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 27 Aug 2021 05:12:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Aug 2021 05:27:40 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Sir Jeffrey Donaldson and Micheál Martin to meet in Dublin]]></title>
+            <description><![CDATA[The DUP leader says the EU needs to "change its tune" on the Northern Ireland Protocol.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58348119?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58348119</guid>
+            <pubDate>Fri, 27 Aug 2021 05:17:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Waiting lists: 53% wait more than a year to see consultant]]></title>
             <description><![CDATA[More than half of patients waiting for a first consultant appointment in NI wait more than a year.]]></description>
@@ -44,13 +51,6 @@
             <pubDate>Thu, 26 Aug 2021 17:11:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Whiteabbey: Boy knocked unconscious in train station attack]]></title>
-            <description><![CDATA[Police said up to 10 young people assaulted the 16-year-old at the railway station on Saturday.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58343070?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58343070</guid>
-            <pubDate>Thu, 26 Aug 2021 10:42:26 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Sinn Féin needed shake up in Foyle, says McDonald]]></title>
             <description><![CDATA[The party leader visits the Foyle constituency as nominations open to replace the party's MLAs there.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58345722?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -63,6 +63,13 @@
             <link>https://www.bbc.co.uk/news/world-europe-isle-of-man-58342316?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-isle-of-man-58342316</guid>
             <pubDate>Thu, 26 Aug 2021 16:10:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Whiteabbey: Boy knocked unconscious in train station attack]]></title>
+            <description><![CDATA[Police said up to 10 young people assaulted the 16-year-old at the railway station on Saturday.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58343070?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58343070</guid>
+            <pubDate>Thu, 26 Aug 2021 10:42:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Afghanistan: Irish emergency mission helps 36 people out of country]]></title>
@@ -91,13 +98,6 @@
             <link>https://www.bbc.co.uk/sport/disability-sport/58340488?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/disability-sport/58340488</guid>
             <pubDate>Thu, 26 Aug 2021 10:54:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Londonderry: More than 200 parking fines to be refunded]]></title>
-            <description><![CDATA[The Department for Infrastructure admits rule changes were made "without the usual advisory period".]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58333604?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58333604</guid>
-            <pubDate>Thu, 26 Aug 2021 11:13:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: Four more deaths and 1,550 new cases in NI]]></title>
@@ -205,6 +205,13 @@
             <pubDate>Wed, 25 Aug 2021 17:46:47 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Londonderry: More than 200 parking fines to be refunded]]></title>
+            <description><![CDATA[The Department for Infrastructure admits rule changes were made "without the usual advisory period".]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58333604?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58333604</guid>
+            <pubDate>Thu, 26 Aug 2021 11:13:33 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Afghanistan: Londonderry-based Afghan fears for family]]></title>
             <description><![CDATA[An Afghan man living in Derry says he has not heard from his family in Kabul for six days.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58333606?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -224,13 +231,6 @@
             <link>https://www.bbc.co.uk/news/world-europe-58318023?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58318023</guid>
             <pubDate>Tue, 24 Aug 2021 18:11:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Samantha Willis: Funeral of woman who died with Covid-19 after giving birth]]></title>
-            <description><![CDATA[Samantha Willis, who had Covid-19, died after giving birth to her fourth child.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58309750?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58309750</guid>
-            <pubDate>Mon, 23 Aug 2021 16:54:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Beacon Hospital: School 'did not solicit' Covid vaccines]]></title>
