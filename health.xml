@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 27 Aug 2021 11:52:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Aug 2021 12:19:50 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Covid: Festival-goers urged to take precautions]]></title>
+            <description><![CDATA[Indoor spaces like tents, shared cars and public transport are likely to up the risk of Covid spreading.]]></description>
+            <link>https://www.bbc.co.uk/news/health-58357012?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/health-58357012</guid>
+            <pubDate>Fri, 27 Aug 2021 12:13:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Covid: Vaccine complications dwarfed by virus risks]]></title>
             <description><![CDATA[Researchers says despite stroke and clotting risks, Covid vaccines have substantial benefits.]]></description>
@@ -63,13 +70,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-hereford-worcester-58343016?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-hereford-worcester-58343016</guid>
             <pubDate>Thu, 26 Aug 2021 14:39:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Search for Covid's origins stalled, scientists say]]></title>
-            <description><![CDATA["The window of opportunity" for crucial studies into how the Covid-19 pandemic started is closing, scientists say.]]></description>
-            <link>https://www.bbc.co.uk/news/science-environment-58331657?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/science-environment-58331657</guid>
-            <pubDate>Wed, 25 Aug 2021 15:30:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid infection protection waning in double jabbed]]></title>
