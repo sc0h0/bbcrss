@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 27 Aug 2021 13:13:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Aug 2021 13:31:50 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -21,6 +21,13 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58353566?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58353566</guid>
             <pubDate>Fri, 27 Aug 2021 09:12:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19: Five more deaths and 1,875 new cases in NI]]></title>
+            <description><![CDATA[There are 383 patients with Covid-19 in Northern Ireland's hospitals and 45 patients in ICUs.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58359531?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58359531</guid>
+            <pubDate>Fri, 27 Aug 2021 13:24:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sir Jeffrey Donaldson and Micheál Martin to meet in Dublin]]></title>
@@ -44,13 +51,6 @@
             <pubDate>Fri, 27 Aug 2021 10:23:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[BBC NI autumn schedule: What's on television?]]></title>
-            <description><![CDATA[The inspirational story of disabled model Bernadette Hagans is among the highlights.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58343622?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58343622</guid>
-            <pubDate>Fri, 27 Aug 2021 05:27:19 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Firth takes silver in freestyle final in Tokyo]]></title>
             <description><![CDATA[Great Britain's Bethany Firth narrowly misses out on a gold medal in the S14 200m freestyle final in Tokyo]]></description>
             <link>https://www.bbc.co.uk/sport/disability-sport/58354527?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -63,6 +63,13 @@
             <link>https://www.bbc.co.uk/sport/rugby-union/58354533?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/rugby-union/58354533</guid>
             <pubDate>Fri, 27 Aug 2021 13:02:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[BBC NI autumn schedule: What's on television?]]></title>
+            <description><![CDATA[The inspirational story of disabled model Bernadette Hagans is among the highlights.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58343622?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58343622</guid>
+            <pubDate>Fri, 27 Aug 2021 05:27:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[BMW Championship: Rory McIlroy, Jon Rahm and Sam Burns share lead in Baltimore]]></title>
@@ -86,13 +93,6 @@
             <pubDate>Thu, 26 Aug 2021 20:51:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid-19: NI pupils in contact with coronavirus case can stay in class]]></title>
-            <description><![CDATA[Staff who are fully vaccinated will also not have to self isolate if they are a close contact.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58342215?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58342215</guid>
-            <pubDate>Thu, 26 Aug 2021 14:55:59 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Windsor Park to host 16,000 fans for next NI match]]></title>
             <description><![CDATA[Windsor Park will be at 85% capacity for Northern Ireland's World Cup qualifier against Switzerland on 8 September]]></description>
             <link>https://www.bbc.co.uk/sport/football/58347396?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -100,18 +100,11 @@
             <pubDate>Thu, 26 Aug 2021 17:11:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Sinn Féin needed shake up in Foyle, says McDonald]]></title>
-            <description><![CDATA[The party leader visits the Foyle constituency as nominations open to replace the party's MLAs there.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58345722?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58345722</guid>
-            <pubDate>Thu, 26 Aug 2021 14:35:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid-19: Four more deaths and 1,550 new cases in NI]]></title>
-            <description><![CDATA[There are 376 patients with Covid-19 in Northern Ireland's hospitals and 41 patients in ICUs.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58342214?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58342214</guid>
-            <pubDate>Thu, 26 Aug 2021 17:23:17 GMT</pubDate>
+            <title><![CDATA[Covid-19: NI pupils in contact with coronavirus case can stay in class]]></title>
+            <description><![CDATA[Staff who are fully vaccinated will also not have to self isolate if they are a close contact.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58342215?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58342215</guid>
+            <pubDate>Thu, 26 Aug 2021 14:55:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: Pandemic had severe impact on young people, says report]]></title>
@@ -212,6 +205,13 @@
             <pubDate>Wed, 25 Aug 2021 18:08:04 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Sinn Féin needed shake up in Foyle, says McDonald]]></title>
+            <description><![CDATA[The party leader visits the Foyle constituency as nominations open to replace the party's MLAs there.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58345722?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58345722</guid>
+            <pubDate>Thu, 26 Aug 2021 14:35:04 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Londonderry: More than 200 parking fines to be refunded]]></title>
             <description><![CDATA[The Department for Infrastructure admits rule changes were made "without the usual advisory period".]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58333604?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -231,13 +231,6 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58330825?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58330825</guid>
             <pubDate>Wed, 25 Aug 2021 13:50:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tralee: Swimmer rescued after nearly 12 hours at sea]]></title>
-            <description><![CDATA[The man, believed to be from Londonderry, was spotted floating with a pod of dolphins miles from shore.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58318023?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58318023</guid>
-            <pubDate>Tue, 24 Aug 2021 18:11:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ireland and France links never been stronger, says Martin after Macron visit]]></title>
