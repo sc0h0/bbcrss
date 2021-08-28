@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 28 Aug 2021 14:13:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Aug 2021 14:24:58 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -30,6 +30,13 @@
             <pubDate>Fri, 27 Aug 2021 22:04:34 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[French woman arrested over jewellery thefts from coffins]]></title>
+            <description><![CDATA[Police believe the woman was posing as a mourner to strip valuables from the recently deceased.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58369921?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58369921</guid>
+            <pubDate>Sat, 28 Aug 2021 14:07:10 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Canada election: Justin Trudeau rally cancelled after angry protests]]></title>
             <description><![CDATA[Jeering crowds force the Canadian prime minister to call off an election campaign event.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-58364742?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -37,18 +44,11 @@
             <pubDate>Sat, 28 Aug 2021 04:41:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Paralympic cheats stopped me winning gold]]></title>
-            <description><![CDATA[British swimmer Dan Pepper says his career was ruined by the ban on intellectual impairment sports at the Paralympics after a cheating scandal in 2000.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58357580?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58357580</guid>
-            <pubDate>Fri, 27 Aug 2021 23:04:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[French woman arrested over jewellery thefts from coffins]]></title>
-            <description><![CDATA[Police believe the woman was posing as a mourner to strip valuables from the recently deceased.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58369921?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58369921</guid>
-            <pubDate>Sat, 28 Aug 2021 14:07:10 GMT</pubDate>
+            <title><![CDATA[Chinese firm probes ‘false’ anti-Uyghur job ads]]></title>
+            <description><![CDATA[Shein said it did not fund or approve adverts that suggested some ethnic minorities need not apply.]]></description>
+            <link>https://www.bbc.co.uk/news/business-58284855?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58284855</guid>
+            <pubDate>Fri, 27 Aug 2021 23:01:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hurricane Ida: New Orleans braces for possible direct hit]]></title>
@@ -70,13 +70,6 @@
             <link>https://www.bbc.co.uk/news/world-us-canada-58361211?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58361211</guid>
             <pubDate>Fri, 27 Aug 2021 20:55:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Chinese firm probes ‘false’ anti-Uyghur job ads]]></title>
-            <description><![CDATA[Shein said it did not fund or approve adverts that suggested some ethnic minorities need not apply.]]></description>
-            <link>https://www.bbc.co.uk/news/business-58284855?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58284855</guid>
-            <pubDate>Fri, 27 Aug 2021 23:01:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Austrian ex-far-right leader Strache guilty of corruption]]></title>
@@ -177,6 +170,13 @@
             <pubDate>Fri, 27 Aug 2021 23:52:57 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Who are the group that attacked Kabul airport?]]></title>
+            <description><![CDATA[The local branch of Islamic State claimed responsibility for the Kabul’s airport attack, but what threat do they pose?]]></description>
+            <link>https://www.bbc.co.uk/news/world-58362961?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-58362961</guid>
+            <pubDate>Sat, 28 Aug 2021 14:19:18 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA['The Taliban killed my brother for protecting my family']]></title>
             <description><![CDATA[Saba says his family have gone into hiding after the Taliban threatened to kill his nephews.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-london-58331414?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -203,13 +203,6 @@
             <link>https://www.bbc.co.uk/news/world-asia-58308494?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58308494</guid>
             <pubDate>Wed, 25 Aug 2021 11:49:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kabul airport attack: 'Today I saw doomsday']]></title>
-            <description><![CDATA[Afghans caught up in the twin blasts outside Kabul airport speak of the horror they witnessed.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58340809?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58340809</guid>
-            <pubDate>Fri, 27 Aug 2021 12:27:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
