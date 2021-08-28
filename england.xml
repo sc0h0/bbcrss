@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 28 Aug 2021 16:59:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Aug 2021 17:54:59 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Afghan refugee heading to UK gives birth at 30,000 feet]]></title>
+            <description><![CDATA[Soman Noori gives birth to baby girl Havva while flying to Birmingham, with no doctor on board.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-58371252?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58371252</guid>
+            <pubDate>Sat, 28 Aug 2021 17:29:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Benjamin Mendy: Second man arrested in Manchester City footballer rape inquiry]]></title>
             <description><![CDATA[A man, 40, is arrested on suspicion of rape at an address in Cheshire, police say.]]></description>
@@ -202,7 +209,7 @@
             <description><![CDATA[Conor Gallagher scores the first goals of Patrick Vieira's Crystal Palace reign as West Ham's winning start to the season comes to a frustrating end.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58289647?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58289647</guid>
-            <pubDate>Sat, 28 Aug 2021 16:58:14 GMT</pubDate>
+            <pubDate>Sat, 28 Aug 2021 17:49:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
