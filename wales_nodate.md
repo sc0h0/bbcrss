@@ -24,5 +24,4 @@
 24. [Clwstwr achosion Covid-19 mewn dau ysbyty yng Ngwynedd](https://www.bbc.co.uk/newyddion/58353431?at_medium=RSS&at_campaign=KARANGA) - Mae hanner y cleifion sydd â Covid yn Ysbyty Gwynedd ac Ysbyty Eryri yn gysylltiedig â'r clwstwr newydd.
 25. [Gallai mwy o gleifion ysbyty weld cyfyngiadau eto](https://www.bbc.co.uk/newyddion/58349684?at_medium=RSS&at_campaign=KARANGA) - Bydd yr adolygiad nesaf yn ystyried a oes angen prawf o fod wedi cael brechlyn i gael mynediad i leoliadau risg uchel.
 26. [Agor cwest i farwolaeth llofrudd Clydach](https://www.bbc.co.uk/newyddion/58358881?at_medium=RSS&at_campaign=KARANGA) - Bu farw David Morris yn y carchar ar 20 Awst, ond nid yw achos ei farwolaeth wedi ei gadarnhau.
-27. [Pum munud gyda'r artist Camilla Jane Gittins](https://www.bbc.co.uk/newyddion/58200697?at_medium=RSS&at_campaign=KARANGA) - Hanes y artist o Meifod sy'n arbenigo mewn tirluniau a'i llwyddiant yn y cyfnod clo.
-28. [Cymru Premier: Y Drenewydd yn curo Caernarfon](https://www.bbc.co.uk/newyddion/58363902?at_medium=RSS&at_campaign=KARANGA) - Caernarfon yn colli yn erbyn Y Drenewydd yng ngornest gyntaf penwythnos Gŵyl y Banc.
+27. [Cymru Premier: Y Drenewydd yn curo Caernarfon](https://www.bbc.co.uk/newyddion/58363902?at_medium=RSS&at_campaign=KARANGA) - Caernarfon yn colli yn erbyn Y Drenewydd yng ngornest gyntaf penwythnos Gŵyl y Banc.
