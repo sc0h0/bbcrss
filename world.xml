@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 28 Aug 2021 14:24:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Aug 2021 14:36:19 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -86,6 +86,13 @@
             <pubDate>Fri, 27 Aug 2021 16:09:07 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Who are the group that attacked Kabul airport?]]></title>
+            <description><![CDATA[The local branch of Islamic State claimed responsibility for the Kabul’s airport attack, but what threat do they pose?]]></description>
+            <link>https://www.bbc.co.uk/news/world-58362961?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-58362961</guid>
+            <pubDate>Sat, 28 Aug 2021 14:19:18 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Week in pictures: 21 - 27 August 2021]]></title>
             <description><![CDATA[A selection of powerful images from all over the globe, taken this week.]]></description>
             <link>https://www.bbc.co.uk/news/in-pictures-58353896?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -105,13 +112,6 @@
             <link>https://www.bbc.co.uk/news/world-asia-india-58281442?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-india-58281442</guid>
             <pubDate>Fri, 27 Aug 2021 23:10:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Afghanistan airport attack: Who are IS-K?]]></title>
-            <description><![CDATA[The jihadist group - set up in 2015 - is blamed for some of the worst atrocities in recent years.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58333533?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58333533</guid>
-            <pubDate>Fri, 27 Aug 2021 13:07:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Afghans in Calais prepare to risk lives again to reach UK]]></title>
@@ -163,18 +163,18 @@
             <pubDate>Thu, 26 Aug 2021 22:10:59 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Afghanistan interpreter: Getting plane out was 'happiest moment of my life']]></title>
+            <description><![CDATA[Former Afghan interpreter Burhan and his family are now in the UK, after begging for help to escape.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-58355250?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58355250</guid>
+            <pubDate>Fri, 27 Aug 2021 12:38:07 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Afghanistan: Shukria Barakzai's whispered voice notes and dramatic escape]]></title>
             <description><![CDATA[The desperate messages sent by Afghan politician Shukria Barakzai to a UK MP. as the Taliban tried to hunt her down.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-58345901?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58345901</guid>
             <pubDate>Fri, 27 Aug 2021 23:52:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Who are the group that attacked Kabul airport?]]></title>
-            <description><![CDATA[The local branch of Islamic State claimed responsibility for the Kabul’s airport attack, but what threat do they pose?]]></description>
-            <link>https://www.bbc.co.uk/news/world-58362961?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-58362961</guid>
-            <pubDate>Sat, 28 Aug 2021 14:19:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['The Taliban killed my brother for protecting my family']]></title>
