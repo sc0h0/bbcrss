@@ -11,10 +11,24 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 28 Aug 2021 05:13:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Aug 2021 05:28:30 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Covid-19: Surge in children's issues forecast post-pandemic]]></title>
+            <description><![CDATA[There could be a "generation of invisible children" who missed out on healthcare, says a QUB report.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58363177?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58363177</guid>
+            <pubDate>Sat, 28 Aug 2021 05:23:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Royal Black Institution marks 'Last Saturday' with 28 parades]]></title>
+            <description><![CDATA[Normally there would be six parades but the event is once again being affected by the pandemic.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58356074?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58356074</guid>
+            <pubDate>Sat, 28 Aug 2021 05:25:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Brexit: Irish support for deal harming NI, says DUP leader]]></title>
             <description><![CDATA[Sir Jeffrey Donaldson's claim comes after a meeting with Taoiseach Micheál Martin in Dublin.]]></description>
@@ -42,13 +56,6 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58362039?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58362039</guid>
             <pubDate>Fri, 27 Aug 2021 17:54:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid-19: Five more deaths and 1,875 new cases in NI]]></title>
-            <description><![CDATA[There are 383 patients with Covid-19 in Northern Ireland's hospitals and 45 patients in ICUs.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58359531?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58359531</guid>
-            <pubDate>Fri, 27 Aug 2021 17:46:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Belfast-bound cargo ship refloated after running aground on the Isle of Man]]></title>
@@ -93,11 +100,11 @@
             <pubDate>Fri, 27 Aug 2021 14:18:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Waiting lists: 53% wait more than a year to see consultant]]></title>
-            <description><![CDATA[More than half of patients waiting for a first consultant appointment in NI wait more than a year.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58342209?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58342209</guid>
-            <pubDate>Thu, 26 Aug 2021 16:27:03 GMT</pubDate>
+            <title><![CDATA[Covid-19: Five more deaths and 1,875 new cases in NI]]></title>
+            <description><![CDATA[There are 383 patients with Covid-19 in Northern Ireland's hospitals and 45 patients in ICUs.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58359531?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58359531</guid>
+            <pubDate>Fri, 27 Aug 2021 17:46:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: Another 43 virus-related deaths recorded by Nisra]]></title>
