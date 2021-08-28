@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 28 Aug 2021 15:53:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Aug 2021 16:33:27 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -51,18 +51,18 @@
             <pubDate>Sat, 28 Aug 2021 07:07:52 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Man 'critical' after being shot in Glasgow murder bid]]></title>
+            <description><![CDATA[Police say the 44-year-old received life-threatening injuries in a targeted attack in the Milton area of Glasgow.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-58363111?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-58363111</guid>
+            <pubDate>Sat, 28 Aug 2021 14:27:22 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Vigil: Submarine drama explores 'isolating and tense' life and death at sea]]></title>
             <description><![CDATA[Suranne Jones and Martin Compston star in BBC One's Vigil, set on board a nuclear submarine.]]></description>
             <link>https://www.bbc.co.uk/news/entertainment-arts-58334990?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-58334990</guid>
             <pubDate>Sat, 28 Aug 2021 00:10:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Scotland's papers: Vaccine passports and jabs in schools 'considered']]></title>
-            <description><![CDATA[The possible introduction of Covid certification and vaccines for younger pupils feature on Scotland's front pages.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-58367704?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-58367704</guid>
-            <pubDate>Sat, 28 Aug 2021 08:39:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Kyogo Furuhashi: Two men arrested over alleged hate crime against Celtic star]]></title>
@@ -91,13 +91,6 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-58353058?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-58353058</guid>
             <pubDate>Fri, 27 Aug 2021 15:06:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Man 'critical' after being shot in Glasgow murder bid]]></title>
-            <description><![CDATA[Police say the 44-year-old received life-threatening injuries in a targeted attack in the Milton area of Glasgow.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-58363111?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-58363111</guid>
-            <pubDate>Sat, 28 Aug 2021 14:27:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid in Scotland: Is the drive to get young people jabbed working?]]></title>
@@ -254,32 +247,32 @@
             <pubDate>Thu, 19 Aug 2021 14:35:56 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Hibernian 2-0 Livingston: Martin Boyle & Kevin Nisbet edge hosts to victory]]></title>
+            <description><![CDATA[Kevin Nisbet and Martin Boyle help Hibernian beat Livingston and maintain the early pace in the Scottish Premiership.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58289627?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58289627</guid>
+            <pubDate>Sat, 28 Aug 2021 16:24:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dundee United 0-2 Hearts: Tynecastle side keep pace at top as Neilson wins on return]]></title>
+            <description><![CDATA[Promoted Hearts keep pace with city rivals Hibernian at the Scottish Premiership summit after Robbie Neilson wins on his return to Dundee United.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58289625?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58289625</guid>
+            <pubDate>Sat, 28 Aug 2021 16:11:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Motherwell 1-0 Dundee: Tony Watt header secures 10-man hosts win]]></title>
+            <description><![CDATA[Tony Watt's header gives Motherwell back-to-back Scottish Premiership wins against Dundee, despite Jake Carroll's late red card.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58289626?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58289626</guid>
+            <pubDate>Sat, 28 Aug 2021 15:54:12 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[John McGinn: Scotland & Aston Villa midfielder a doubt for World Cup qualifiers]]></title>
             <description><![CDATA[Influential midfielder John McGinn is a doubt for Scotland's impending World Cup qualifiers against Denmark, Moldova and Austria amid Covid concerns.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58369233?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58369233</guid>
             <pubDate>Sat, 28 Aug 2021 14:17:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Scottish Gossip: Celtic, Giakoumakis, Edouard, Jota, Hibs, St Johnstone, McCart]]></title>
-            <description><![CDATA[Celtic close to completing deal for striker as Hibs approach for defender is turned down.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58344518?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58344518</guid>
-            <pubDate>Sat, 28 Aug 2021 07:51:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Steven Gerrard: Rangers manager has a taste for success at Ibrox says former team-mate Jamie Carragher]]></title>
-            <description><![CDATA[Former Liverpool and England team-mate Jamie Carragher talks to BBC Scotland about Steven Gerrard as a player and manager.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58351188?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58351188</guid>
-            <pubDate>Fri, 27 Aug 2021 18:28:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Paralympics: Neil Fachie, Kenny Holl, Lewis Stewart & Mickey Yule add to Scottish medals]]></title>
-            <description><![CDATA[Neil Fachie, Jenny Holl, Lewis Stewart and Mickey Yule are the latest Scots to win medals for Paralympics GB at the Tokyo 2020 Games.]]></description>
-            <link>https://www.bbc.co.uk/sport/disability-sport/58368150?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/disability-sport/58368150</guid>
-            <pubDate>Sat, 28 Aug 2021 11:16:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
