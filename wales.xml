@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 28 Aug 2021 13:23:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Aug 2021 13:37:21 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -135,6 +135,13 @@
             <pubDate>Thu, 26 Aug 2021 11:30:25 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Cardiff City 1-2 Bristol City: Weimann at the double for Bristol City]]></title>
+            <description><![CDATA[Cardiff City are beaten for the first time in the Championship this season thanks to an Andreas Weimann double for Bristol City.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58289214?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58289214</guid>
+            <pubDate>Sat, 28 Aug 2021 13:29:33 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[United Rugby Championship: Live televised games return to BBC Cymru Wales]]></title>
             <description><![CDATA[Friday night rugby will return to BBC Cymru Wales after a free-to-air television deal is announced with the new United Rugby Championship competition.]]></description>
             <link>https://www.bbc.co.uk/sport/rugby-union/58346264?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -163,13 +170,6 @@
             <pubDate>Sat, 28 Aug 2021 10:26:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Steve Evans: Age just a number for ex-Wales defender, 42, after playing comeback]]></title>
-            <description><![CDATA[Former Wales international Steve Evans hopes a playing comeback at the age of 42 will lead to a managerial role.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58364312?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58364312</guid>
-            <pubDate>Fri, 27 Aug 2021 20:54:58 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Twristiaeth: Y canolbarth yn 'brysurach nag erioed']]></title>
             <description><![CDATA[Galw am fuddsoddi er mwyn i'r canolbarth allu manteisio yn economaidd am flynyddoedd i ddod.]]></description>
             <link>https://www.bbc.co.uk/newyddion/58357793?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -191,11 +191,11 @@
             <pubDate>Sat, 28 Aug 2021 07:49:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Cymru Premier: Y Drenewydd yn curo Caernarfon]]></title>
-            <description><![CDATA[Caernarfon yn colli yn erbyn Y Drenewydd yng ngornest gyntaf penwythnos Gŵyl y Banc.]]></description>
-            <link>https://www.bbc.co.uk/newyddion/58363902?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/newyddion/58363902</guid>
-            <pubDate>Fri, 27 Aug 2021 20:40:59 GMT</pubDate>
+            <title><![CDATA[Y Bencampwriaeth: Caerdydd 1-2 Bristol City]]></title>
+            <description><![CDATA[Yr Adar Gleision yn colli eu gêm gyntaf yn y Bencampwriaeth y tymor hwn yn Stadiwm Dinas Caerdydd.]]></description>
+            <link>https://www.bbc.co.uk/newyddion/58367896?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/newyddion/58367896</guid>
+            <pubDate>Sat, 28 Aug 2021 13:26:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
