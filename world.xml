@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 28 Aug 2021 05:45:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Aug 2021 06:42:10 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -184,11 +184,18 @@
             <pubDate>Fri, 27 Aug 2021 10:42:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Afghanistan: The local people helping refugees in the UK]]></title>
-            <description><![CDATA["No-one chooses to be a refugee, if any of us were in that position I hope we would get support."]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58319846?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58319846</guid>
-            <pubDate>Fri, 27 Aug 2021 12:47:49 GMT</pubDate>
+            <title><![CDATA[Afghanistan: Shukria Barakzai's whispered voice notes and dramatic escape]]></title>
+            <description><![CDATA[The desperate messages sent by Afghan politician Shukria Barakzai to a UK MP. as the Taliban tried to hunt her down.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58345901?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58345901</guid>
+            <pubDate>Fri, 27 Aug 2021 23:52:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kabul airport attack: 'Today I saw doomsday']]></title>
+            <description><![CDATA[Afghans caught up in the twin blasts outside Kabul airport speak of the horror they witnessed.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58340809?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58340809</guid>
+            <pubDate>Fri, 27 Aug 2021 12:27:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Afghanistan: How do the Taliban make money?]]></title>
@@ -205,25 +212,18 @@
             <pubDate>Wed, 25 Aug 2021 11:49:06 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Afghanistan: The local people helping refugees in the UK]]></title>
+            <description><![CDATA["No-one chooses to be a refugee, if any of us were in that position I hope we would get support."]]></description>
+            <link>https://www.bbc.co.uk/news/uk-58319846?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58319846</guid>
+            <pubDate>Fri, 27 Aug 2021 12:47:49 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Afghanistan: Why can't the UK hold Kabul airport without the US?]]></title>
             <description><![CDATA[The US and UK have different timetables for the effort to evacuate people from Afghanistan]]></description>
             <link>https://www.bbc.co.uk/news/world-58305185?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-58305185</guid>
             <pubDate>Fri, 27 Aug 2021 11:16:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kabul airport attack: 'Today I saw doomsday']]></title>
-            <description><![CDATA[Afghans caught up in the twin blasts outside Kabul airport speak of the horror they witnessed.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58340809?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58340809</guid>
-            <pubDate>Fri, 27 Aug 2021 12:27:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Afghan music school falls silent under Taliban rule]]></title>
-            <description><![CDATA[As the new regime bans music, the head of Afghanistan's national music school says students are scared.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58344197?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58344197</guid>
-            <pubDate>Fri, 27 Aug 2021 15:16:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
