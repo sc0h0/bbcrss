@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 28 Aug 2021 08:00:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Aug 2021 08:25:16 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -37,6 +37,13 @@
             <pubDate>Sat, 28 Aug 2021 05:34:15 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[County Antrim: 'Major fish kill' declared at Three Mile Water River]]></title>
+            <description><![CDATA[The Environment Agency says it appears the pollutant contained a significant quantity of a detergent.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58367747?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58367747</guid>
+            <pubDate>Sat, 28 Aug 2021 08:06:39 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The fishing group supporting men with their mental health]]></title>
             <description><![CDATA[Thomas Campbell, who suffered with addiction, set up the fishing group as a safe space for men.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58343845?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -51,13 +58,6 @@
             <pubDate>Fri, 27 Aug 2021 20:45:36 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Afghanistan: Donaldson concern for NI citizens in final evacuation]]></title>
-            <description><![CDATA[Charity workers are among those from Northern Ireland hoping to flee the country after the Taliban take-over.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58353566?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58353566</guid>
-            <pubDate>Fri, 27 Aug 2021 09:12:35 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Belfast Lough: Cargo vessel captain fined after Stena 'near miss']]></title>
             <description><![CDATA[Kolapi Utime admitted turning in front of a ferry that had 503 people on board in Belfast Lough.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58362394?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -65,11 +65,11 @@
             <pubDate>Fri, 27 Aug 2021 16:56:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[County Antrim: Fish kill 'wipes out' life in Three Mile River]]></title>
-            <description><![CDATA[It is the second such incident in the Three Mile River in recent months and could take years to undo.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58362039?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58362039</guid>
-            <pubDate>Fri, 27 Aug 2021 17:54:30 GMT</pubDate>
+            <title><![CDATA[Afghanistan: Donaldson concern for NI citizens in final evacuation]]></title>
+            <description><![CDATA[Charity workers are among those from Northern Ireland hoping to flee the country after the Taliban take-over.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58353566?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58353566</guid>
+            <pubDate>Fri, 27 Aug 2021 09:12:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Belfast-bound cargo ship refloated after running aground on the Isle of Man]]></title>
