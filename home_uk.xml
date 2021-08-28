@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 27 Aug 2021 23:49:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Aug 2021 00:18:02 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -21,13 +21,6 @@
             <link>https://www.bbc.co.uk/news/world-asia-58364172?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58364172</guid>
             <pubDate>Fri, 27 Aug 2021 22:36:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Afghanistan: British nationals killed in Kabul airport attack]]></title>
-            <description><![CDATA[Two British nationals and the child of another are among the victims of Thursday's attack, the government says.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58360592?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58360592</guid>
-            <pubDate>Fri, 27 Aug 2021 17:00:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Afghanistan: Boris Johnson vows to help those left behind]]></title>
@@ -44,6 +37,13 @@
             <pubDate>Fri, 27 Aug 2021 12:38:07 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid: Delta twice as likely to need hospital care]]></title>
+            <description><![CDATA[Get double-jabbed to reduce this risk, advise experts who have studied different variants of the virus.]]></description>
+            <link>https://www.bbc.co.uk/news/health-58354342?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/health-58354342</guid>
+            <pubDate>Fri, 27 Aug 2021 23:54:38 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Government to ban single-use plastic cutlery]]></title>
             <description><![CDATA[Plastic plates and polystyrene cups will also be banned in England in what ministers call a "war on plastic".]]></description>
             <link>https://www.bbc.co.uk/news/uk-politics-58360064?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -56,6 +56,13 @@
             <link>https://www.bbc.co.uk/news/world-us-canada-58364572?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58364572</guid>
             <pubDate>Fri, 27 Aug 2021 22:04:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Afghanistan: British nationals killed in Kabul airport attack]]></title>
+            <description><![CDATA[Two British nationals and the child of another are among the victims of Thursday's attack, the government says.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-58360592?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58360592</guid>
+            <pubDate>Fri, 27 Aug 2021 17:00:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid origin: US spy agencies publish 'inconclusive' report]]></title>
@@ -86,13 +93,6 @@
             <pubDate>Fri, 27 Aug 2021 23:01:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Cristiano Ronaldo: Man Utd 'reach agreement' to re-sign Juventus forward]]></title>
-            <description><![CDATA[Manchester United confirm they have reached an agreement to re-sign Cristiano Ronaldo from Juventus.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58359561?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58359561</guid>
-            <pubDate>Fri, 27 Aug 2021 20:02:31 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Scottish Greens vote on historic government deal]]></title>
             <description><![CDATA[The party's co-leaders are urging members to put them into ministerial roles within the Scottish government.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-scotland-politics-58360337?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -114,18 +114,25 @@
             <pubDate>Fri, 27 Aug 2021 21:46:21 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Paralympic cheats stopped me winning gold]]></title>
+            <description><![CDATA[British swimmer Dan Pepper says his career was ruined by the ban on intellectual impairment sports at the Paralympics after a cheating scandal in 2000.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-58357580?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58357580</guid>
+            <pubDate>Fri, 27 Aug 2021 23:04:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Week in pictures: 21 - 27 August 2021]]></title>
+            <description><![CDATA[A selection of powerful images from all over the globe, taken this week.]]></description>
+            <link>https://www.bbc.co.uk/news/in-pictures-58353896?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/in-pictures-58353896</guid>
+            <pubDate>Fri, 27 Aug 2021 23:41:53 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The UK's first all-black, all-female theatre company is shaking up Shakespeare]]></title>
             <description><![CDATA[Mawa Theatre Company is a UK first and aims to make Shakespeare's work more accessible.]]></description>
             <link>https://www.bbc.co.uk/news/entertainment-arts-58285815?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-58285815</guid>
             <pubDate>Fri, 27 Aug 2021 16:07:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid-19: UK cases rising and Southgate abused over vaccine support]]></title>
-            <description><![CDATA[Five things you need to know about the coronavirus pandemic this Friday evening.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58360792?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58360792</guid>
-            <pubDate>Fri, 27 Aug 2021 16:57:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['Murder Hornets': Nest of 1,500 eradicated in the US]]></title>
@@ -135,158 +142,60 @@
             <pubDate>Fri, 27 Aug 2021 17:28:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Man rides scooter home on Aston Expressway after night out]]></title>
-            <description><![CDATA[An intoxicated man decided to ride his scooter along the Aston Expressway after a night out.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-birmingham-58360501?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-birmingham-58360501</guid>
-            <pubDate>Fri, 27 Aug 2021 14:57:25 GMT</pubDate>
+            <title><![CDATA[Festivals and Covid: A risk worth taking?]]></title>
+            <description><![CDATA[Some music fans accept they might catch Covid - but others are selling their tickets and staying away.]]></description>
+            <link>https://www.bbc.co.uk/news/newsbeat-58315746?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/newsbeat-58315746</guid>
+            <pubDate>Fri, 27 Aug 2021 23:50:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Twelve-year-old boy makes £290,000 from whale NFTs]]></title>
-            <description><![CDATA[Benyamin Ahmed created a set of more than 3,000 whale images and sold digital tokens of them.]]></description>
-            <link>https://www.bbc.co.uk/news/technology-58343062?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/technology-58343062</guid>
-            <pubDate>Thu, 26 Aug 2021 23:09:32 GMT</pubDate>
+            <title><![CDATA[Does feeding garden birds do more harm than good?]]></title>
+            <description><![CDATA[How bird feeding could disrupt an ecological balance just beyond our windowsills and gardens.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-58346043?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/science-environment-58346043</guid>
+            <pubDate>Fri, 27 Aug 2021 23:51:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Kanye West: Kim Kardashian attends Donda event in wedding gown]]></title>
-            <description><![CDATA[It was one of several publicity stunts at the rapper's latest "listening party" for his new album.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-58356475?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-58356475</guid>
-            <pubDate>Fri, 27 Aug 2021 11:59:28 GMT</pubDate>
+            <title><![CDATA[Covid-19: The Indian children who have forgotten how to read and write]]></title>
+            <description><![CDATA[Schools in India have been closed for more than a year, with learning outcomes falling drastically.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-india-58281442?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-india-58281442</guid>
+            <pubDate>Fri, 27 Aug 2021 23:10:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Daniel Dias: History's greatest para-swimmer]]></title>
-            <description><![CDATA[Daniel Dias has won more than 25 medals for Brazil over the past four Paralympic Games but will be retiring after Tokyo.]]></description>
-            <link>https://www.bbc.co.uk/news/disability-58347474?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/disability-58347474</guid>
-            <pubDate>Thu, 26 Aug 2021 23:06:51 GMT</pubDate>
+            <title><![CDATA[Scotland's most remote school seeks new headteacher]]></title>
+            <description><![CDATA[The current head of the school on Fair Isle, which has just three pupils, is stepping down after 35 years.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-58322157?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-58322157</guid>
+            <pubDate>Fri, 27 Aug 2021 22:02:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Autism and anxiety: One man 'failed by the system']]></title>
-            <description><![CDATA[Autistic teen posted a video about lack of support in health and social care system before he died.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58334061?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58334061</guid>
-            <pubDate>Thu, 26 Aug 2021 23:01:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Springbank whisky miniature sells for £5,600 at auction]]></title>
-            <description><![CDATA[The 5cl Springbank single malt was part of a collection of more than 400 bottles put up for sale.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-scotland-business-58356502?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-scotland-business-58356502</guid>
-            <pubDate>Fri, 27 Aug 2021 11:48:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Morecambe and Wise 'bored stiff' by Monty Python]]></title>
-            <description><![CDATA[The comedy double act shared their thoughts in an unearthed 1973 interview for a student TV station.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-norfolk-58158598?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-norfolk-58158598</guid>
-            <pubDate>Fri, 27 Aug 2021 16:14:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Climate Basics: Can carbon offsetting help the planet?]]></title>
-            <description><![CDATA[BBC Reality Check looks at whether it's possible to buy your way out of creating harmful greenhouse gas emissions.]]></description>
-            <link>https://www.bbc.co.uk/news/58337283?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/58337283</guid>
-            <pubDate>Thu, 26 Aug 2021 23:09:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Africa's week in pictures: 20-26 August 2021]]></title>
-            <description><![CDATA[A selection of the best photos from the African continent and beyond.]]></description>
-            <link>https://www.bbc.co.uk/news/world-africa-58342301?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-africa-58342301</guid>
-            <pubDate>Thu, 26 Aug 2021 23:09:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Eating disorders: Charity reports rise in calls about binge eating]]></title>
-            <description><![CDATA[The charity Beat reports a surge in the number of people requesting help for Binge Eating Disorder.]]></description>
-            <link>https://www.bbc.co.uk/news/health-58340044?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/health-58340044</guid>
-            <pubDate>Thu, 26 Aug 2021 17:13:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Taylor Wessing Prize 2021: Shortlisted photographers revealed]]></title>
-            <description><![CDATA[The three shortlisted photographers for the prestigious Taylor Wessing Prize have been revealed.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-58341080?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-58341080</guid>
-            <pubDate>Thu, 26 Aug 2021 10:25:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nah he tweakin: What it means and why it's all over our timelines]]></title>
-            <description><![CDATA[A row on the use of blood in celebrity-endorsed products has made those three words viral.]]></description>
-            <link>https://www.bbc.co.uk/news/newsbeat-58344467?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/newsbeat-58344467</guid>
-            <pubDate>Thu, 26 Aug 2021 12:42:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Festival fans 'face danger of strong drugs with low tolerance']]></title>
-            <description><![CDATA[Disruptions could mean people inadvertently take stronger or more dangerous drugs, campaigners say.]]></description>
-            <link>https://www.bbc.co.uk/news/newsbeat-58335996?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/newsbeat-58335996</guid>
-            <pubDate>Fri, 27 Aug 2021 00:05:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why is there a chip shortage?]]></title>
-            <description><![CDATA[The big chip crunch is really biting now, leaving even the most unexpected industries in crisis.]]></description>
-            <link>https://www.bbc.co.uk/news/business-58230388?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58230388</guid>
-            <pubDate>Thu, 26 Aug 2021 23:03:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['Now other women won't be haunted by the labour ward']]></title>
-            <description><![CDATA[A woman who delivered her stillborn baby in a room next to expectant mothers helps make sure others do not have to.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58348827?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58348827</guid>
-            <pubDate>Fri, 27 Aug 2021 13:58:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Afghanistan's Uyghurs fear the Taliban, and now China too]]></title>
-            <description><![CDATA[Members of the ethnic group say they fear the Taliban takeover could bring China to their doorstep.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58342790?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58342790</guid>
-            <pubDate>Thu, 26 Aug 2021 23:05:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Indian-American gay couples find new forms of union amid stigma]]></title>
-            <description><![CDATA[Although gay marriage is legal in the US, Indian-American couples struggle to find priests to marry them.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-india-58184024?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-india-58184024</guid>
-            <pubDate>Thu, 26 Aug 2021 23:01:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What are the holiday rules for travel to green, amber and red list countries?]]></title>
-            <description><![CDATA[A traffic light system is in place setting out rules for entering the UK]]></description>
-            <link>https://www.bbc.co.uk/news/explainers-52544307?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/explainers-52544307</guid>
-            <pubDate>Fri, 27 Aug 2021 13:33:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ryan Tedder: Classic songs are strangling new music]]></title>
-            <description><![CDATA[New bands don't have a chance because everyone is streaming Queen and ABBA, says the OneRepublic star.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-58329477?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-58329477</guid>
-            <pubDate>Thu, 26 Aug 2021 23:12:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[UK reports 38,281 new cases on Thursday]]></title>
+            <title><![CDATA[Covid-19 in the UK: How many coronavirus cases are there in my area?]]></title>
             <description><![CDATA[Explore the data on coronavirus in the UK and find out how many cases there are in your area.]]></description>
             <link>https://www.bbc.co.uk/news/uk-51768274?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-51768274</guid>
             <pubDate>Fri, 27 Aug 2021 15:57:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA['My husband refused a divorce for nine years']]></title>
-            <description><![CDATA[Under orthodox Jewish law, a husband must give his wife a document to allow the marriage to end.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58334745?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58334745</guid>
-            <pubDate>Wed, 25 Aug 2021 22:46:28 GMT</pubDate>
+            <title><![CDATA[Vigil: Submarine drama explores 'isolating and tense' life and death at sea]]></title>
+            <description><![CDATA[Suranne Jones and Martin Compston star in BBC One's Vigil, set on board a nuclear submarine.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-58334990?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-58334990</guid>
+            <pubDate>Sat, 28 Aug 2021 00:10:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The real victims of mass crypto-hacks that keep happening]]></title>
-            <description><![CDATA[Millions in Bitcoin and other digital coins are being stolen by hackers with victims left in limbo.]]></description>
-            <link>https://www.bbc.co.uk/news/technology-58331959?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/technology-58331959</guid>
-            <pubDate>Wed, 25 Aug 2021 23:21:05 GMT</pubDate>
+            <title><![CDATA[The teenager who won wheelchair slalom at the 1964 Tokyo Paralympic Games]]></title>
+            <description><![CDATA[Caz Walton was 17 when she competed at the 1964 Paralympic Games in Tokyo and won gold.]]></description>
+            <link>https://www.bbc.co.uk/news/disability-58334244?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/disability-58334244</guid>
+            <pubDate>Fri, 27 Aug 2021 23:44:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cristiano Ronaldo: Man Utd 'reach agreement' to re-sign Juventus forward]]></title>
+            <description><![CDATA[Manchester United confirm they have reached an agreement to re-sign Cristiano Ronaldo from Juventus.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58359561?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58359561</guid>
+            <pubDate>Fri, 27 Aug 2021 20:02:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Pujara leads fightback as India frustrate England - highlights & report]]></title>
@@ -324,18 +233,11 @@
             <pubDate>Fri, 27 Aug 2021 18:17:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Cristiano Ronaldo: His greatest Premier League moments]]></title>
-            <description><![CDATA[BBC Sport takes a look back at some of Cristiano Ronaldo's greatest Premier League moments.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/football/55943500?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/av/football/55943500</guid>
-            <pubDate>Fri, 27 Aug 2021 17:15:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Football Focus: Man Utd's Raphael Varane attracts trophies, says Paul Pogba]]></title>
-            <description><![CDATA[Manchester United's Paul Pogba says his France team-mate Raphael Varane, who has joined this summer from Real Madrid, is a top player who "attracts trophies".]]></description>
-            <link>https://www.bbc.co.uk/sport/av/football/58356582?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/av/football/58356582</guid>
-            <pubDate>Fri, 27 Aug 2021 09:45:43 GMT</pubDate>
+            <title><![CDATA[Afghanistan: Shukria Barakzai's whispered voice notes and dramatic escape]]></title>
+            <description><![CDATA[The desperate messages sent by Afghan politician Shukria Barakzai to a UK MP. as the Taliban tried to hunt her down.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58345901?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58345901</guid>
+            <pubDate>Fri, 27 Aug 2021 23:52:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['Overwhelming' help given for Afghan refugees in UK]]></title>
@@ -345,11 +247,32 @@
             <pubDate>Fri, 27 Aug 2021 12:47:49 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Afghanistan: How do the Taliban make money?]]></title>
+            <description><![CDATA[The Taliban maintain a sophisticated financial network and taxation system to generate income.]]></description>
+            <link>https://www.bbc.co.uk/news/world-46554097?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-46554097</guid>
+            <pubDate>Fri, 27 Aug 2021 23:37:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Afghanistan airport attack: Who are IS-K?]]></title>
             <description><![CDATA[The jihadist group - set up in 2015 - is blamed for some of the worst atrocities in recent years.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-58333533?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58333533</guid>
             <pubDate>Fri, 27 Aug 2021 13:07:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Afghanistan: How much opium is produced and what's the Taliban's record?]]></title>
+            <description><![CDATA[The Taliban claims opium poppy cultivation was stopped when it last held power in Afghanistan.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58308494?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58308494</guid>
+            <pubDate>Wed, 25 Aug 2021 11:49:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Afghanistan: Why can't the UK hold Kabul airport without the US?]]></title>
+            <description><![CDATA[The US and UK have different timetables for the effort to evacuate people from Afghanistan]]></description>
+            <link>https://www.bbc.co.uk/news/world-58305185?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-58305185</guid>
+            <pubDate>Fri, 27 Aug 2021 11:16:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Afghanistan crisis: BBC News Special]]></title>
@@ -380,74 +303,11 @@
             <pubDate>Thu, 26 Aug 2021 15:48:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Kabul airport bomb attacks leave many casualties]]></title>
-            <description><![CDATA[Reports say at least 90 people were killed, with civilians and US military personnel among the dead.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58348598?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58348598</guid>
-            <pubDate>Thu, 26 Aug 2021 22:10:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Afghanistan's economy in crisis after Taliban take-over]]></title>
-            <description><![CDATA[Even before the Taliban gained control, Afghanistan's economy was fragile.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58328246?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58328246</guid>
-            <pubDate>Wed, 25 Aug 2021 15:52:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kabul arrivals in the UK: 'The happiest moment of my life']]></title>
-            <description><![CDATA[UK troops are evacuating British nationals and eligible Afghans. Here are some of their stories.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58305464?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58305464</guid>
-            <pubDate>Thu, 26 Aug 2021 16:17:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Afghanistan: The 'undefeated' Panjshir Valley - an hour from Kabul]]></title>
-            <description><![CDATA[The Panjshir Valley has been a flashpoint in Afghanistan's turbulent history - now it's happening again.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58329527?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58329527</guid>
-            <pubDate>Wed, 25 Aug 2021 23:38:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Afghanistan: 'The pain of watching my country burn from afar']]></title>
-            <description><![CDATA[Hundreds of Afghan have taken refuge in India but they are worried about their families back home.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-india-58326408?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-india-58326408</guid>
-            <pubDate>Wed, 25 Aug 2021 23:02:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Afghanistan chaos: The British families in limbo]]></title>
-            <description><![CDATA[The stories of Britons stuck in Kabul, families in limbo and Afghans starting new lives in the UK.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58327953?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58327953</guid>
-            <pubDate>Wed, 25 Aug 2021 07:57:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Afghanistan: The Sandhurst sisterhood trying to save Afghans]]></title>
-            <description><![CDATA[Desperate Afghans have been messaging British veterans they used to work with asking for help.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58317798?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58317798</guid>
-            <pubDate>Wed, 25 Aug 2021 12:41:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bilal Sarwary: 'The plane hit the tower and all our lives changed']]></title>
-            <description><![CDATA[Afghan journalist Bilal Sarwary was selling carpets when 9/11 happened. From that day on, everything changed.]]></description>
-            <link>https://www.bbc.co.uk/news/world-south-asia-58071592?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-south-asia-58071592</guid>
-            <pubDate>Wed, 25 Aug 2021 08:11:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Aryana Sayeed: Afghanistan returns to miserable time for women]]></title>
-            <description><![CDATA[Afghan singer Aryana Sayeed on fleeing the country and her concerns for those who remain.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58335510?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58335510</guid>
-            <pubDate>Wed, 25 Aug 2021 16:22:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What is Sharia law? What does it mean for women in Afghanistan?]]></title>
-            <description><![CDATA[The Taliban say they will govern Afghanistan according to Sharia, or Islamic law]]></description>
-            <link>https://www.bbc.co.uk/news/world-27307249?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-27307249</guid>
-            <pubDate>Thu, 19 Aug 2021 13:16:37 GMT</pubDate>
+            <title><![CDATA[Tokyo Paralympics: Jaco van Gass - from injury in Afghanistan to Paralympic champion]]></title>
+            <description><![CDATA[Twelve years ago, Jaco van Gass was fighting for his life after being injured in Afghanistan. Now he's a Paralympic champion.]]></description>
+            <link>https://www.bbc.co.uk/sport/disability-sport/58344147?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/disability-sport/58344147</guid>
+            <pubDate>Thu, 26 Aug 2021 13:10:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Paralympics: Swimmers Hannah Russell and Reece Dunn land gold]]></title>
@@ -471,13 +331,6 @@
             <pubDate>Fri, 27 Aug 2021 11:42:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tokyo Paralympics: Stef Reid on Scrabble in prison, lockdown baking & breaking barriers]]></title>
-            <description><![CDATA[Great Britain's Stef Reid tells BBC Sport about playing Scrabble with prison inmates, making the world's best cookies, and her mindset ahead of competing in the Tokyo Paralympics.]]></description>
-            <link>https://www.bbc.co.uk/sport/disability-sport/58271507?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/disability-sport/58271507</guid>
-            <pubDate>Thu, 26 Aug 2021 10:16:35 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Tokyo Paralympics: What you need to know about Paralympic classification]]></title>
             <description><![CDATA[From KL1 to PT2 and F11 to SB6 - everything you need to know about classification at the Paralympic Games.]]></description>
             <link>https://www.bbc.co.uk/sport/disability-sport/57396986?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -492,32 +345,11 @@
             <pubDate>Mon, 16 Aug 2021 16:06:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tokyo Paralympics: Lee Pearson wins 12th gold as GB enjoy cycling and swimming success]]></title>
-            <description><![CDATA[Lee Pearson wins his 12th gold medal as Great Britain enjoy a successful day two at the Tokyo Paralympics]]></description>
-            <link>https://www.bbc.co.uk/sport/disability-sport/58338980?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/disability-sport/58338980</guid>
-            <pubDate>Thu, 26 Aug 2021 13:49:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[GB's Kearney wins 100m freestyle gold in record time]]></title>
-            <description><![CDATA[Watch ParalympicsGB's Tully Kearney win gold in the women's S5 100m freestyle final in Tokyo, breaking her own world record.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/disability-sport/58340452?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/av/disability-sport/58340452</guid>
-            <pubDate>Thu, 26 Aug 2021 08:36:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Paralympics: Jaco van Gass - from injury in Afghanistan to Paralympic champion]]></title>
-            <description><![CDATA[Twelve years ago, Jaco van Gass was fighting for his life after being injured in Afghanistan. Now he's a Paralympic champion.]]></description>
-            <link>https://www.bbc.co.uk/sport/disability-sport/58344147?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/disability-sport/58344147</guid>
-            <pubDate>Thu, 26 Aug 2021 13:10:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Paralympics: Eight global athletes to watch at Games]]></title>
-            <description><![CDATA[From the Blade Jumper to the dancing star and the Tik Tok influencer, meet some of the global athletes hoping to make an impact at the Tokyo Paralympics.]]></description>
-            <link>https://www.bbc.co.uk/sport/disability-sport/58203418?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/disability-sport/58203418</guid>
-            <pubDate>Fri, 20 Aug 2021 09:58:43 GMT</pubDate>
+            <title><![CDATA[Bilal Sarwary: 'The plane hit the tower and all our lives changed']]></title>
+            <description><![CDATA[Afghan journalist Bilal Sarwary was selling carpets when 9/11 happened. From that day on, everything changed.]]></description>
+            <link>https://www.bbc.co.uk/news/world-south-asia-58071592?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-south-asia-58071592</guid>
+            <pubDate>Wed, 25 Aug 2021 08:11:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Shot in the head in Angola, left for dead, now a Wetherspoons star]]></title>
