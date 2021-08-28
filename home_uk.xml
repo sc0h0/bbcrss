@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 28 Aug 2021 02:03:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Aug 2021 02:31:50 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -23,14 +23,21 @@
             <pubDate>Sat, 28 Aug 2021 00:32:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Afghanistan: Boris Johnson vows to help those left behind]]></title>
-            <description><![CDATA[Boris Johnson says he feels "regret" about those in Afghanistan as the evacuation efforts by the UK near an end.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58353726?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58353726</guid>
-            <pubDate>Fri, 27 Aug 2021 21:31:45 GMT</pubDate>
+            <title><![CDATA[Afghanistan: US drone strike 'kills Isis-K militant']]></title>
+            <description><![CDATA[The Islamic State group says it carried out Thursday's deadly bombing outside Kabul airport.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58364743?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58364743</guid>
+            <pubDate>Sat, 28 Aug 2021 02:21:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid: Delta twice as likely to need hospital care]]></title>
+            <title><![CDATA[Afghanistan: Ministers try to reassure MPs over missed evacuees]]></title>
+            <description><![CDATA[Senior members of the cabinet say the UK will support those left behind when the Kabul airlift ends.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-58366225?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58366225</guid>
+            <pubDate>Sat, 28 Aug 2021 02:30:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: Delta patients twice as likely to need hospital care]]></title>
             <description><![CDATA[Get double-jabbed to reduce this risk, advise experts who have studied different variants of the virus.]]></description>
             <link>https://www.bbc.co.uk/news/health-58354342?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/health-58354342</guid>
@@ -44,13 +51,6 @@
             <pubDate>Sat, 28 Aug 2021 01:22:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Government to ban single-use plastic cutlery]]></title>
-            <description><![CDATA[Plastic plates and polystyrene cups will also be banned in England in what ministers call a "war on plastic".]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-58360064?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-politics-58360064</guid>
-            <pubDate>Fri, 27 Aug 2021 23:01:24 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Robert F Kennedy assassin Sirhan Sirhan recommended for parole]]></title>
             <description><![CDATA[A parole board calls for Sirhan Sirhan's release, but the decision now goes to California's governor.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-58364572?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -58,11 +58,11 @@
             <pubDate>Fri, 27 Aug 2021 22:04:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Afghanistan: British nationals killed in Kabul airport attack]]></title>
-            <description><![CDATA[Two British nationals and the child of another are among the victims of Thursday's attack, the government says.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58360592?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58360592</guid>
-            <pubDate>Fri, 27 Aug 2021 17:00:14 GMT</pubDate>
+            <title><![CDATA[Government to ban single-use plastic cutlery]]></title>
+            <description><![CDATA[Plastic plates and polystyrene cups will also be banned in England in what ministers call a "war on plastic".]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-58360064?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-politics-58360064</guid>
+            <pubDate>Fri, 27 Aug 2021 23:01:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid origin: US spy agencies publish 'inconclusive' report]]></title>
