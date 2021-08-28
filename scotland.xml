@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 28 Aug 2021 18:47:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Aug 2021 19:07:14 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -254,6 +254,13 @@
             <pubDate>Thu, 19 Aug 2021 14:35:56 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Watch: Sportscene - Scottish Premiership highlights]]></title>
+            <description><![CDATA[Watch highlights of Saturday's three Scottish Premiership matches, with Janes Lewis, James McFadden and Michael Stewart.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/football/58371650?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/av/football/58371650</guid>
+            <pubDate>Sat, 28 Aug 2021 18:49:48 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Hibernian 2-0 Livingston: Martin Boyle & Kevin Nisbet edge hosts to victory]]></title>
             <description><![CDATA[Hibernian's Martin Boyle is in a "brilliant place", says head coach Jack Ross, after he scored in a 2-0 Scottish Premiership victory over Livingston.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58289627?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -268,25 +275,18 @@
             <pubDate>Sat, 28 Aug 2021 17:26:40 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Hibernian 2-0 Livingston: Bruce Anderson suffers fit on pitch as two team-mates are sick during defeat]]></title>
+            <description><![CDATA[Livingston striker Bruce Anderson has a diabetic fit and two other players vomit in the dressing room during their 2-0 loss to Hibernian.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58372111?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58372111</guid>
+            <pubDate>Sat, 28 Aug 2021 18:47:28 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Motherwell 1-0 Dundee: Tony Watt header secures 10-man hosts win]]></title>
             <description><![CDATA[Motherwell's "brilliant" Scottish Premiership win over Dundee was earned despite a "harsh" late red card for Jake Carroll, said Graham Alexander.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58289626?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58289626</guid>
             <pubDate>Sat, 28 Aug 2021 17:07:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[John McGinn: Scotland & Aston Villa midfielder a doubt for World Cup qualifiers]]></title>
-            <description><![CDATA[Influential midfielder John McGinn is a doubt for Scotland's impending World Cup qualifiers against Denmark, Moldova and Austria amid Covid concerns.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58369233?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58369233</guid>
-            <pubDate>Sat, 28 Aug 2021 14:17:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rangers v Celtic: What are the key battlegrounds in '50/50' Old Firm derby?]]></title>
-            <description><![CDATA[With Rangers and Celtic set to go head to head in the first Old Firm derby of the season, BBC Scotland looks at the key issues that may decide the clash.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58308504?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58308504</guid>
-            <pubDate>Sat, 28 Aug 2021 15:09:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
