@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 28 Aug 2021 07:37:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Aug 2021 07:44:51 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -100,6 +100,13 @@
             <pubDate>Fri, 20 Aug 2021 23:50:20 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Strictly: Why are South African dancers so popular?]]></title>
+            <description><![CDATA[As Strictly prepares to return to our screens next month another South African dancer has joined the professionals.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-58363064?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-58363064</guid>
+            <pubDate>Sat, 28 Aug 2021 07:30:54 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Tortoise eating bird caught on camera by conservationist]]></title>
             <description><![CDATA[It is believed to be the first time this behaviour of giant tortoises has been documented.]]></description>
             <link>https://www.bbc.co.uk/news/science-environment-58337369?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -140,13 +147,6 @@
             <link>https://www.bbc.co.uk/news/world-africa-58267814?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-africa-58267814</guid>
             <pubDate>Thu, 19 Aug 2021 11:58:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Zambia elections: Hakainde Hichilema supporters celebrate victory]]></title>
-            <description><![CDATA[People take to the streets following Hakainde Hichilema's landslide victory in Zambia's presidential elections.]]></description>
-            <link>https://www.bbc.co.uk/news/world-africa-58236586?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-africa-58236586</guid>
-            <pubDate>Mon, 16 Aug 2021 16:05:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
