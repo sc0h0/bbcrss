@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 29 Aug 2021 10:30:33 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Aug 2021 10:58:47 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -28,13 +28,6 @@
             <link>https://www.bbc.co.uk/news/world-asia-58346909?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58346909</guid>
             <pubDate>Sat, 28 Aug 2021 23:06:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Afghanistan: Black Hawks and Humvees - military kit now with the Taliban]]></title>
-            <description><![CDATA[As the insurgents swept through Afghanistan they inherited an arsenal of US-made equipment.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58356045?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58356045</guid>
-            <pubDate>Sat, 28 Aug 2021 23:31:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hurricane Ida: Thousands flee as category four storm bears down on Louisiana]]></title>
@@ -58,18 +51,18 @@
             <pubDate>Sun, 29 Aug 2021 08:38:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[French woman arrested over jewellery thefts from coffins]]></title>
-            <description><![CDATA[Police believe the woman was posing as a mourner to strip valuables from the recently deceased.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58369921?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58369921</guid>
-            <pubDate>Sat, 28 Aug 2021 14:07:10 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Europe migrant crisis: More than 500 people rescued off Italian island]]></title>
             <description><![CDATA[Italian coastguards rescue 539 people from a small fishing boat believed to have set off from Libya.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-58372455?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58372455</guid>
             <pubDate>Sat, 28 Aug 2021 20:39:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[French woman arrested over jewellery thefts from coffins]]></title>
+            <description><![CDATA[Police believe the woman was posing as a mourner to strip valuables from the recently deceased.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58369921?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58369921</guid>
+            <pubDate>Sat, 28 Aug 2021 14:07:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Canada election: Justin Trudeau rally cancelled after angry protests]]></title>
@@ -98,6 +91,13 @@
             <link>https://www.bbc.co.uk/news/world-us-canada-58361211?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58361211</guid>
             <pubDate>Fri, 27 Aug 2021 20:55:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Afghanistan: Black Hawks and Humvees - military kit now with the Taliban]]></title>
+            <description><![CDATA[As the insurgents swept through Afghanistan they inherited an arsenal of US-made equipment.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58356045?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58356045</guid>
+            <pubDate>Sat, 28 Aug 2021 23:31:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Agnes Sithole: The woman who fought South Africa's sexist marriage laws]]></title>
