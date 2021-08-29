@@ -11,23 +11,23 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 29 Aug 2021 13:06:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Aug 2021 13:19:59 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
-        <item>
-            <title><![CDATA[Afghanistan: Biden says another Kabul airport attack likely]]></title>
-            <description><![CDATA[The US president says commanders have told him another attack could happen within the next 36 hours.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58369922?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58369922</guid>
-            <pubDate>Sun, 29 Aug 2021 06:47:36 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Herat under the Taliban: residents on the new rulers]]></title>
             <description><![CDATA[People in Afghanistan’s third-largest city, Herat, explain how life has changed in recent weeks.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-58346909?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58346909</guid>
             <pubDate>Sat, 28 Aug 2021 23:06:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Afghanistan: Biden says another Kabul airport attack likely]]></title>
+            <description><![CDATA[The US president says commanders have told him another attack could happen within the next 36 hours.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58369922?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58369922</guid>
+            <pubDate>Sun, 29 Aug 2021 06:47:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hurricane Ida: Thousands flee as category four storm bears down on Louisiana]]></title>
@@ -58,6 +58,20 @@
             <pubDate>Sat, 28 Aug 2021 20:39:26 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Emotional arrival for Afghan Paralympians in Tokyo]]></title>
+            <description><![CDATA[The safe arrival of Afghanistan's Paralympic athletes in Tokyo sends out "a very strong message of hope", says the International Paralympic Committee.]]></description>
+            <link>https://www.bbc.co.uk/sport/disability-sport/58370947?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/disability-sport/58370947</guid>
+            <pubDate>Sun, 29 Aug 2021 07:26:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Who are the group that attacked Kabul airport?]]></title>
+            <description><![CDATA[The local branch of Islamic State claimed responsibility for the Kabul’s airport attack, but what threat do they pose?]]></description>
+            <link>https://www.bbc.co.uk/news/world-58362961?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-58362961</guid>
+            <pubDate>Sat, 28 Aug 2021 14:19:18 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[French woman arrested over jewellery thefts from coffins]]></title>
             <description><![CDATA[Police believe the woman was posing as a mourner to strip valuables from the recently deceased.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-58369921?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -79,20 +93,6 @@
             <pubDate>Fri, 27 Aug 2021 22:04:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Chinese firm probes ‘false’ anti-Uyghur job ads]]></title>
-            <description><![CDATA[Shein said it did not fund or approve adverts that suggested some ethnic minorities need not apply.]]></description>
-            <link>https://www.bbc.co.uk/news/business-58284855?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58284855</guid>
-            <pubDate>Fri, 27 Aug 2021 23:01:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid origin: US spy agencies publish 'inconclusive' report]]></title>
-            <description><![CDATA[The office that oversees US spy agencies could not establish how the coronavirus pandemic began.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-58361211?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58361211</guid>
-            <pubDate>Fri, 27 Aug 2021 20:55:58 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Afghanistan: Black Hawks and Humvees - military kit now with the Taliban]]></title>
             <description><![CDATA[As the insurgents swept through Afghanistan they inherited an arsenal of US-made equipment.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-58356045?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -107,18 +107,18 @@
             <pubDate>Sat, 28 Aug 2021 23:44:41 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[What now for Afghans arriving in America?]]></title>
+            <description><![CDATA[Afghans land to start a new life in the US as hope dims for those left behind to face the Taliban.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-58352130?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58352130</guid>
+            <pubDate>Fri, 27 Aug 2021 21:49:07 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Your pictures on the theme of 'my summer']]></title>
             <description><![CDATA[A selection of striking images from our readers around the world.]]></description>
             <link>https://www.bbc.co.uk/news/in-pictures-58346963?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/in-pictures-58346963</guid>
             <pubDate>Sat, 28 Aug 2021 23:38:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Who are the group that attacked Kabul airport?]]></title>
-            <description><![CDATA[The local branch of Islamic State claimed responsibility for the Kabul’s airport attack, but what threat do they pose?]]></description>
-            <link>https://www.bbc.co.uk/news/world-58362961?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-58362961</guid>
-            <pubDate>Sat, 28 Aug 2021 14:19:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Week in pictures: 21 - 27 August 2021]]></title>
