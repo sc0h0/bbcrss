@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 29 Aug 2021 11:29:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Aug 2021 11:38:52 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -142,6 +142,13 @@
             <pubDate>Sat, 28 Aug 2021 23:13:22 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Billy Connolly: Challenges of Parkinson's getting worse]]></title>
+            <description><![CDATA[The 78-year old has retired from live performances and says that making TV programmes is getting more difficult.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-58319635?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-58319635</guid>
+            <pubDate>Tue, 24 Aug 2021 12:57:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Strictly: Why are South African dancers so popular?]]></title>
             <description><![CDATA[As Strictly prepares to return to our screens next month another South African dancer has joined the professionals.]]></description>
             <link>https://www.bbc.co.uk/news/entertainment-arts-58363064?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -161,13 +168,6 @@
             <link>https://www.bbc.co.uk/news/entertainment-arts-58336958?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-58336958</guid>
             <pubDate>Wed, 25 Aug 2021 23:01:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[DJ to hold Ministry of Sound fundraiser for twin brother in Covid coma]]></title>
-            <description><![CDATA[The twin of a DJ who fell into a coma after catching Covid is holding a club night to raise money for his care.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-london-58320210?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-london-58320210</guid>
-            <pubDate>Wed, 25 Aug 2021 05:17:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
