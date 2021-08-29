@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 29 Aug 2021 19:43:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Aug 2021 19:53:49 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -226,13 +226,6 @@
             <pubDate>Tue, 24 Aug 2021 12:57:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Watch: Sportscene - Old Firm derby highlights]]></title>
-            <description><![CDATA[Watch highlights of Sunday's three Scottish Premiership matches - including the season's first Old Firm game - with Jonathan Sutherland, Michael Stewart and Neil McCann.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/football/58371814?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/av/football/58371814</guid>
-            <pubDate>Sun, 29 Aug 2021 18:07:43 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[John McGinn: Scotland & Aston Villa midfielder to miss Denmark World Cup qualifier]]></title>
             <description><![CDATA[John McGinn will miss Scotland's World Cup qualifier against Denmark with Covid-19 and James Forrest, Greg Taylor and Nathan Patterson are also set to miss out.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58369233?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -259,6 +252,13 @@
             <link>https://www.bbc.co.uk/sport/football/58377822?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58377822</guid>
             <pubDate>Sun, 29 Aug 2021 17:22:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rangers 1-0 Celtic: Champions 'more recognisable' but Celtic pay the price for unfamiliarity]]></title>
+            <description><![CDATA[Rangers were more like themselves, but Celtic paid for their unfamiliarity in the first Old Firm derby of the season, according to the respective managers.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58377349?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58377349</guid>
+            <pubDate>Sun, 29 Aug 2021 15:04:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
