@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 29 Aug 2021 14:35:55 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Aug 2021 15:08:38 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -177,6 +177,20 @@
             <pubDate>Fri, 27 Aug 2021 23:07:35 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[A country abandoned: BBC's John Simpson on Afghanistan]]></title>
+            <description><![CDATA[As foreign forces end their 20-year campaign, our world affairs editor considers what has been achieved.]]></description>
+            <link>https://www.bbc.co.uk/news/58377984?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/58377984</guid>
+            <pubDate>Sun, 29 Aug 2021 14:36:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Afghanistan: Taxi driver, shopkeeper: UK victims of Kabul attack]]></title>
+            <description><![CDATA[Relatives and friends of Mohammad Niazi and Musa Popal pay tribute after Thursday's blasts.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-58377804?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58377804</guid>
+            <pubDate>Sun, 29 Aug 2021 14:52:08 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Afghanistan: 'I helped the US military, now help me save my family']]></title>
             <description><![CDATA[Afghans living in Texas plead for help to save the lives of loved ones left behind in Afghanistan.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-58349434?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -203,20 +217,6 @@
             <link>https://www.bbc.co.uk/news/uk-58355250?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58355250</guid>
             <pubDate>Fri, 27 Aug 2021 12:38:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['The Taliban killed my brother for protecting my family']]></title>
-            <description><![CDATA[Saba says his family have gone into hiding after the Taliban threatened to kill his nephews.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-london-58331414?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-london-58331414</guid>
-            <pubDate>Sat, 28 Aug 2021 06:59:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Afghanistan: How do the Taliban make money?]]></title>
-            <description><![CDATA[The Taliban maintain a sophisticated financial network and taxation system to generate income.]]></description>
-            <link>https://www.bbc.co.uk/news/world-46554097?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-46554097</guid>
-            <pubDate>Fri, 27 Aug 2021 23:37:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
