@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 29 Aug 2021 21:48:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Aug 2021 22:16:25 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -58,6 +58,13 @@
             <pubDate>Sun, 29 Aug 2021 20:19:15 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Ed Asner: Lou Grant and Up actor dies aged 91]]></title>
+            <description><![CDATA[He'll be remembered for his roles as TV newsman Lou Grant and the lead voice role in Pixar hit Up.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-58380089?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58380089</guid>
+            <pubDate>Sun, 29 Aug 2021 21:54:24 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Yemen war: Drone attack on government airbase kills 30 soldiers]]></title>
             <description><![CDATA[Pro-government forces say Houthi rebels targeted the base with missiles and armed drones.]]></description>
             <link>https://www.bbc.co.uk/news/world-middle-east-58378282?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -79,13 +86,6 @@
             <pubDate>Sun, 29 Aug 2021 16:49:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[NHS blood test tube shortage: Doctors 'facing difficult choices']]></title>
-            <description><![CDATA[Doctors call for more guidance after the NHS in England and Wales stops all non-urgent blood tests.]]></description>
-            <link>https://www.bbc.co.uk/news/health-58374553?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/health-58374553</guid>
-            <pubDate>Sun, 29 Aug 2021 12:23:02 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Staffordshire Covid sceptic Marcus Birks dies in hospital]]></title>
             <description><![CDATA[Marcus Birks, 40, went on to urge other people to get the Covid vaccine after he was hospitalised.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-stoke-staffordshire-58376709?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -100,11 +100,18 @@
             <pubDate>Sun, 29 Aug 2021 14:28:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tottenham Hotspur 1-0 Watford: Son Heung-min winner maintains Spurs' 100% start]]></title>
-            <description><![CDATA[Son Heung-min marks his 200th Premier League appearance with the winning goal as Tottenham maintain their 100% start to the season against Watford.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58295881?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58295881</guid>
-            <pubDate>Sun, 29 Aug 2021 15:41:10 GMT</pubDate>
+            <title><![CDATA[Lionel Messi makes PSG debut in 2-0 win]]></title>
+            <description><![CDATA[Lionel Messi makes his Paris St-Germain debut as a 66th-minute substitute in a 2-0 win at Reims in Ligue 1, with Kylian Mbappe getting both goals.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58375791?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58375791</guid>
+            <pubDate>Sun, 29 Aug 2021 21:40:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Papers: Afghans could fight for UK and Brit troops home]]></title>
+            <description><![CDATA[The continuing fallout from the evacuation of Afghanistan features on most front pages on Monday.]]></description>
+            <link>https://www.bbc.co.uk/news/blogs-the-papers-58380032?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/blogs-the-papers-58380032</guid>
+            <pubDate>Sun, 29 Aug 2021 22:06:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Herat under the Taliban: residents on the new rulers]]></title>
@@ -240,13 +247,6 @@
             <pubDate>Sun, 29 Aug 2021 14:21:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Messi makes PSG debut in 2-0 win as Mbappe scores both goals]]></title>
-            <description><![CDATA[Lionel Messi makes his Paris St-Germain debut as a 66th-minute substitute in a 2-0 win at Reims in Ligue 1, with Kylian Mbappe getting both goals.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58375791?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58375791</guid>
-            <pubDate>Sun, 29 Aug 2021 21:40:13 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA['Routine Old Firm outcome on day when predictions fail to come true']]></title>
             <description><![CDATA[Few of the pre-match predictions came to pass but the goal that won Rangers the Old Firm derby would be wearily familar to Celtic, writes Tom English.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58377822?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -259,6 +259,13 @@
             <link>https://www.bbc.co.uk/sport/cricket/58336156?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/cricket/58336156</guid>
             <pubDate>Sun, 29 Aug 2021 15:19:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Spurs boss Nuno wants government red-list help for World Cup qualifiers]]></title>
+            <description><![CDATA[Tottenham boss Nuno Espirito Santo wants help from football and political bodies over red-list travel in the international break.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58379359?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58379359</guid>
+            <pubDate>Sun, 29 Aug 2021 19:46:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Afghanistan: Taxi driver, shopkeeper: UK victims of Kabul attack]]></title>
