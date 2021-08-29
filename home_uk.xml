@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 29 Aug 2021 22:16:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Aug 2021 22:29:57 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -51,13 +51,6 @@
             <pubDate>Sun, 29 Aug 2021 21:01:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Jamaican soul of reggae Lee 'Scratch' Perry dies aged 85]]></title>
-            <description><![CDATA[Perry, a legendary singer and music producer, is known for his pioneering experiments with dub.]]></description>
-            <link>https://www.bbc.co.uk/news/world-latin-america-58379715?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-latin-america-58379715</guid>
-            <pubDate>Sun, 29 Aug 2021 20:19:15 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Ed Asner: Lou Grant and Up actor dies aged 91]]></title>
             <description><![CDATA[He'll be remembered for his roles as TV newsman Lou Grant and the lead voice role in Pixar hit Up.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-58380089?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -91,6 +84,13 @@
             <link>https://www.bbc.co.uk/news/uk-england-stoke-staffordshire-58376709?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-stoke-staffordshire-58376709</guid>
             <pubDate>Sun, 29 Aug 2021 12:44:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jamaican soul of reggae Lee 'Scratch' Perry dies aged 85]]></title>
+            <description><![CDATA[Perry, a legendary singer and music producer, is known for his pioneering experiments with dub.]]></description>
+            <link>https://www.bbc.co.uk/news/world-latin-america-58379715?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-latin-america-58379715</guid>
+            <pubDate>Sun, 29 Aug 2021 20:19:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Mountain lion: US mother fights off animal attacking her son]]></title>
