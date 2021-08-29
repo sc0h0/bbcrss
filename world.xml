@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 29 Aug 2021 17:14:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Aug 2021 17:32:43 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -37,13 +37,6 @@
             <pubDate>Sun, 29 Aug 2021 15:50:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Afghanistan: Biden says another Kabul airport attack likely]]></title>
-            <description><![CDATA[The US president says commanders have told him another attack could happen within the next 36 hours.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58369922?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58369922</guid>
-            <pubDate>Sun, 29 Aug 2021 06:47:36 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Hurricane Ida: Thousands flee as category four storm bears down on Louisiana]]></title>
             <description><![CDATA[Ida, now a category four storm, is forecast to be one of the strongest to hit Louisiana in 150 years.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-58372746?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -56,6 +49,13 @@
             <link>https://www.bbc.co.uk/news/world-latin-america-58374285?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-latin-america-58374285</guid>
             <pubDate>Sun, 29 Aug 2021 08:38:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Max Verstappen declared winner of aborted rain-hit Belgian Grand Prix]]></title>
+            <description><![CDATA[Red Bull's Max Verstappen declared the winner of a Belgian Grand Prix that lasted only two laps behind the safety car.]]></description>
+            <link>https://www.bbc.co.uk/sport/formula1/58377097?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/formula1/58377097</guid>
+            <pubDate>Sun, 29 Aug 2021 16:51:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Mountain lion: US mother fights off animal attacking her son]]></title>
