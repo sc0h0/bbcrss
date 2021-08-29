@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 29 Aug 2021 22:52:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Aug 2021 23:09:13 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -149,6 +149,13 @@
             <pubDate>Fri, 27 Aug 2021 23:41:53 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Turkey lockdown: Pigeon-keeping in Istanbul on the rise]]></title>
+            <description><![CDATA[The ancient art of pigeon fancying, popular across Asia, enjoyed a revival during the pandemic.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58344157?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58344157</guid>
+            <pubDate>Sun, 29 Aug 2021 23:07:13 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Herat under the Taliban: residents on the new rulers]]></title>
             <description><![CDATA[People in Afghanistan’s third-largest city, Herat, explain how life has changed in recent weeks.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-58346909?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -175,13 +182,6 @@
             <link>https://www.bbc.co.uk/news/entertainment-arts-58363064?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-58363064</guid>
             <pubDate>Sat, 28 Aug 2021 07:30:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cows on the moo-ve from Swiss Alpine meadow]]></title>
-            <description><![CDATA[Some cows are carried by helicopter in a process used by farmers to move the injured ones.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58369772?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58369772</guid>
-            <pubDate>Sat, 28 Aug 2021 13:15:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A country abandoned: BBC's John Simpson on Afghanistan]]></title>
