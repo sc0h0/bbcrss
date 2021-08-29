@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 29 Aug 2021 13:43:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Aug 2021 13:57:46 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -37,18 +37,18 @@
             <pubDate>Sun, 29 Aug 2021 05:31:04 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid-19: Nine more Covid-linked deaths and 1,225 new cases]]></title>
+            <description><![CDATA[The total number of deaths linked to Covid-19 in Northern Ireland since the start of the pandemic is 2,352.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58377517?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58377517</guid>
+            <pubDate>Sun, 29 Aug 2021 13:49:47 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Belfast football tournament integrating ethnic communities]]></title>
             <description><![CDATA[Teams representing 15 nations have been taking part in the second Northern Ireland Confederation Cup.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58370041?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58370041</guid>
             <pubDate>Sun, 29 Aug 2021 06:04:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Belfast: Man arrested after serious sexual assault]]></title>
-            <description><![CDATA[The woman was attacked near Donegall Quay/Queen's Bridge in the early hours of Saturday morning.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58371327?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58371327</guid>
-            <pubDate>Sat, 28 Aug 2021 17:32:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Antrim Coast Half Marathon: Ethiopian Yalemzerf Yehualaw smashes women's world record]]></title>
@@ -79,32 +79,11 @@
             <pubDate>Sat, 28 Aug 2021 17:26:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Ireland's Naval Service marks its 75th anniversary]]></title>
-            <description><![CDATA[BBC News NI talks to Irish Navy personnel as the service marks its 75th anniversary.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58174618?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58174618</guid>
-            <pubDate>Sat, 28 Aug 2021 05:34:15 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Royal Black Institution marks 'Last Saturday' with 28 parades]]></title>
             <description><![CDATA[Normally there would be six parades but the event is once again being affected by the pandemic.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58356074?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58356074</guid>
             <pubDate>Sat, 28 Aug 2021 17:27:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid-19: Six more deaths and 1,430 new cases in NI]]></title>
-            <description><![CDATA[In the Republic of Ireland another 1,997 new cases of Covid-19 have been reported.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58370042?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58370042</guid>
-            <pubDate>Sat, 28 Aug 2021 15:38:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid-19: Surge in children's issues forecast post-pandemic]]></title>
-            <description><![CDATA[There could be a "generation of invisible children" who missed out on healthcare, says a QUB report.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58363177?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58363177</guid>
-            <pubDate>Sat, 28 Aug 2021 05:23:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bethany Firth wins swimming gold in Tokyo]]></title>
@@ -119,6 +98,13 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58367747?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58367747</guid>
             <pubDate>Sat, 28 Aug 2021 08:06:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19: Surge in children's issues forecast post-pandemic]]></title>
+            <description><![CDATA[There could be a "generation of invisible children" who missed out on healthcare, says a QUB report.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58363177?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58363177</guid>
+            <pubDate>Sat, 28 Aug 2021 05:23:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: Another 43 virus-related deaths recorded by Nisra]]></title>
@@ -149,11 +135,11 @@
             <pubDate>Wed, 25 Aug 2021 11:54:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid-19: Samantha Willis' husband speaks of pain of her death]]></title>
-            <description><![CDATA[Josh Willis says he tried to arrange for his wife to hold her newly-born daughter Eviegrace.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58320859?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58320859</guid>
-            <pubDate>Tue, 24 Aug 2021 20:20:05 GMT</pubDate>
+            <title><![CDATA[Irish Navy at 75: 'My wife at home has it much harder']]></title>
+            <description><![CDATA[BBC News NI talks to Irish Navy personnel as the service marks its 75th anniversary.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58174618?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58174618</guid>
+            <pubDate>Sat, 28 Aug 2021 05:34:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Talking points ahead of new Irish Premiership season]]></title>
@@ -177,18 +163,18 @@
             <pubDate>Wed, 25 Aug 2021 05:27:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[High pressure driving dry weather in Northern Ireland]]></title>
-            <description><![CDATA[Dry weather is expected over the next seven days, with warm temperatures set to peak on Wednesday.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58315590?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58315590</guid>
-            <pubDate>Tue, 24 Aug 2021 08:43:48 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Tokyo Paralympics: Meet Northern Ireland's Paralympians]]></title>
             <description><![CDATA[With the Tokyo Paralympics getting underway a year later than planned, meet the seven Northern Irish athletes ready to compete in Tokyo]]></description>
             <link>https://www.bbc.co.uk/sport/disability-sport/58309324?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/disability-sport/58309324</guid>
             <pubDate>Tue, 24 Aug 2021 08:32:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[High pressure driving dry weather in Northern Ireland]]></title>
+            <description><![CDATA[Dry weather is expected over the next seven days, with warm temperatures set to peak on Wednesday.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58315590?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58315590</guid>
+            <pubDate>Tue, 24 Aug 2021 08:43:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Boris Johnson's Irish Sea tunnel vision - roadworthy or pipe dream?]]></title>
