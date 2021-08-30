@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 30 Aug 2021 08:51:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Aug 2021 09:10:13 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -62,7 +62,7 @@
             <description><![CDATA[He'll be remembered for his roles as TV newsman Lou Grant and the lead voice role in Pixar hit Up.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-58380089?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58380089</guid>
-            <pubDate>Sun, 29 Aug 2021 21:54:24 GMT</pubDate>
+            <pubDate>Mon, 30 Aug 2021 09:00:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Affordable uniforms law will miss new school year]]></title>
@@ -191,13 +191,6 @@
             <pubDate>Sun, 29 Aug 2021 21:08:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Golds for Small & Paterson Pine as GB win four medals - Paralympics day six so far]]></title>
-            <description><![CDATA[Andrew Small wins his first Paralympic title in the T33 100m as Phoebe Paterson Pine takes archery gold on her Games debut on day six of Tokyo 2020.]]></description>
-            <link>https://www.bbc.co.uk/sport/disability-sport/58381498?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/disability-sport/58381498</guid>
-            <pubDate>Mon, 30 Aug 2021 07:51:37 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA['A once-in-a-generation player' - who made Garth Crooks' team of the week? ]]></title>
             <description><![CDATA[Who is a once-in-a-generation player? Which forward is not "particularly gifted" but playing the "football of his life"? Find out in Garth Crooks' team of the week.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58330317?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -219,11 +212,18 @@
             <pubDate>Sun, 29 Aug 2021 21:40:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Wolverhampton Wanderers 0-1 Manchester United: Mason Greenwood hits winner]]></title>
-            <description><![CDATA[Mason Greenwood scores as Manchester United, in their first game since announcing an agreement to re-sign Cristiano Ronaldo, beat Wolves.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58295875?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58295875</guid>
-            <pubDate>Sun, 29 Aug 2021 18:02:56 GMT</pubDate>
+            <title><![CDATA[Manchester United v Wolves: Should Paul Pogba have been penalised for foul?]]></title>
+            <description><![CDATA[Match of the Day 2 pundits Jermaine Jenas and Dion Dublin discuss whether Manchester United's winner in their 1-0 victory over Wolves should have been ruled out for a Paul Pogba challenge in the build-up.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/football/58380359?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/av/football/58380359</guid>
+            <pubDate>Sun, 29 Aug 2021 22:46:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wolves 0-1 Manchester United: Ole Gunnar Solskjaer praises 'special' Mason Greenwood in hard-fought victory]]></title>
+            <description><![CDATA[Manchester United manager Ole Gunnar Solskjaer praises "special" Mason Greenwood after he scored their only goal in a 1-0 win at Wolves.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/football/58376129?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/av/football/58376129</guid>
+            <pubDate>Sun, 29 Aug 2021 18:31:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[John Simpson on Afghanistan: A country abandoned]]></title>
@@ -266,6 +266,13 @@
             <link>https://www.bbc.co.uk/news/world-asia-58345901?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58345901</guid>
             <pubDate>Fri, 27 Aug 2021 23:52:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo Paralympics: Wheelchair racer Andrew Small and archer Phoebe Paterson Pine win golds]]></title>
+            <description><![CDATA[Andrew Small wins his first Paralympic title in the T33 100m as Phoebe Paterson Pine takes archery gold on her Games debut on day six of Tokyo 2020.]]></description>
+            <link>https://www.bbc.co.uk/sport/disability-sport/58381498?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/disability-sport/58381498</guid>
+            <pubDate>Mon, 30 Aug 2021 07:51:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Paralympics: Who are Great Britain's medal winners?]]></title>
