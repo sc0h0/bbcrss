@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 30 Aug 2021 21:36:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Aug 2021 21:55:04 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -135,6 +135,20 @@
             <pubDate>Sat, 28 Aug 2021 23:38:33 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Watch moment US military declares final flight out of Afghanistan]]></title>
+            <description><![CDATA[Top US general reveals last US aircraft took off from Hamid Karzai Airport ahead of deadline for withdrawal.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-58389751?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58389751</guid>
+            <pubDate>Mon, 30 Aug 2021 21:44:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gunfire as Taliban celebrate US leaving Afghanistan]]></title>
+            <description><![CDATA[Gunfire rang out as the BBC's Lyse Doucet reported on US troops' departure from Kabul.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58389771?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58389771</guid>
+            <pubDate>Mon, 30 Aug 2021 21:50:35 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Afghanistan drone strike: 'Ten people died here.. including my daughter']]></title>
             <description><![CDATA[A family comb through rubble for remains of relatives they say were killed by a US drone strike.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-58389241?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -154,20 +168,6 @@
             <link>https://www.bbc.co.uk/news/world-us-canada-58379885?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58379885</guid>
             <pubDate>Sun, 29 Aug 2021 19:40:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Turkey lockdown: Pigeon-keeping in Istanbul on the rise]]></title>
-            <description><![CDATA[The ancient art of pigeon fancying, popular across Asia, enjoyed resurgence during the pandemic.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58344157?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58344157</guid>
-            <pubDate>Sun, 29 Aug 2021 23:07:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Possum skin cloaks: Reviving an Aboriginal cultural tradition]]></title>
-            <description><![CDATA[Indigenous people in south-east Australia are reviving an expression of cultural identity.]]></description>
-            <link>https://www.bbc.co.uk/news/world-australia-58338411?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-australia-58338411</guid>
-            <pubDate>Sun, 29 Aug 2021 22:29:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A country abandoned: BBC's John Simpson on Afghanistan]]></title>
