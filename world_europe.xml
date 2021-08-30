@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 30 Aug 2021 01:22:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Aug 2021 02:03:31 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -28,6 +28,13 @@
             <link>https://www.bbc.co.uk/sport/football/58375791?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58375791</guid>
             <pubDate>Sun, 29 Aug 2021 21:40:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Turkey lockdown: Pigeon-keeping in Istanbul on the rise]]></title>
+            <description><![CDATA[The ancient art of pigeon fancying, popular across Asia, enjoyed a revival during the pandemic.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58344157?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58344157</guid>
+            <pubDate>Sun, 29 Aug 2021 23:07:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Austrian ex-far-right leader Strache guilty of corruption]]></title>
@@ -63,13 +70,6 @@
             <link>https://www.bbc.co.uk/news/world-europe-58362752?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58362752</guid>
             <pubDate>Fri, 27 Aug 2021 18:04:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Brexit: Irish support for deal harming NI, says DUP leader]]></title>
-            <description><![CDATA[Sir Jeffrey Donaldson's claim comes after a meeting with Taoiseach Micheál Martin in Dublin.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58348119?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58348119</guid>
-            <pubDate>Fri, 27 Aug 2021 20:45:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Young Afghan mayor who fled Taliban hidden in car]]></title>
@@ -121,13 +121,6 @@
             <pubDate>Tue, 24 Aug 2021 09:42:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Turkey lockdown: Pigeon-keeping in Istanbul on the rise]]></title>
-            <description><![CDATA[The ancient art of pigeon fancying, popular across Asia, enjoyed a revival during the pandemic.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58344157?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58344157</guid>
-            <pubDate>Sun, 29 Aug 2021 23:07:13 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Cows on the moo-ve from Swiss Alpine meadow]]></title>
             <description><![CDATA[Some cows are carried by helicopter in a process used by farmers to move the injured ones.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-58369772?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -154,6 +147,13 @@
             <link>https://www.bbc.co.uk/news/world-58257998?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-58257998</guid>
             <pubDate>Wed, 18 Aug 2021 23:06:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Afghan reporter asks Nato secretary general for help]]></title>
+            <description><![CDATA[Lailuma Sadid, a journalist with Brussels Morning Newspaper, became emotional when asking the Nato secretary general about the Taliban in Afghanistan.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58250062?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58250062</guid>
+            <pubDate>Tue, 17 Aug 2021 16:10:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
