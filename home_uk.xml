@@ -11,23 +11,23 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 30 Aug 2021 07:14:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Aug 2021 07:26:35 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
-        <item>
-            <title><![CDATA[Hurricane Ida: New Orleans loses power as storm strikes]]></title>
-            <description><![CDATA[Forecasters say the storm, which is battering Louisiana with 150mph winds, is extremely dangerous.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-58378788?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58378788</guid>
-            <pubDate>Mon, 30 Aug 2021 04:36:29 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Afghanistan: UK pressure over Taliban safe passage pledge]]></title>
             <description><![CDATA[The government is seeking international support to ensure the militants allow people to leave Afghanistan.]]></description>
             <link>https://www.bbc.co.uk/news/uk-58380167?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58380167</guid>
             <pubDate>Mon, 30 Aug 2021 02:21:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hurricane Ida: New Orleans loses power as storm strikes]]></title>
+            <description><![CDATA[Forecasters say the storm, which is battering Louisiana with 150mph winds, is extremely dangerous.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-58378788?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58378788</guid>
+            <pubDate>Mon, 30 Aug 2021 04:36:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid travel: Latest changes begin as seven countries go green]]></title>
@@ -42,6 +42,13 @@
             <link>https://www.bbc.co.uk/news/world-asia-58380867?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58380867</guid>
             <pubDate>Mon, 30 Aug 2021 05:58:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19: New Zealand woman dies after Pfizer jab, and Sturgeon self-isolating]]></title>
+            <description><![CDATA[Five things you need to know about the coronavirus pandemic this Monday morning.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-58380149?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58380149</guid>
+            <pubDate>Mon, 30 Aug 2021 06:40:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Yongbyon: UN says North Korea appears to restart nuclear reactor]]></title>
@@ -62,7 +69,7 @@
             <description><![CDATA[The first minister said she had been identified as a close contact of someone who had tested positive for Covid-19.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-scotland-politics-58361884?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-scotland-politics-58361884</guid>
-            <pubDate>Mon, 30 Aug 2021 06:11:15 GMT</pubDate>
+            <pubDate>Mon, 30 Aug 2021 07:23:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Affordable uniforms law will miss new school year]]></title>
@@ -91,20 +98,6 @@
             <link>https://www.bbc.co.uk/news/world-latin-america-58379715?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-latin-america-58379715</guid>
             <pubDate>Sun, 29 Aug 2021 20:19:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Man dies after paddleboard rescue off Hampshire coast]]></title>
-            <description><![CDATA[Emergency services were called to the coast near Exbury in the New Forest on Saturday afternoon.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-hampshire-58377223?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-hampshire-58377223</guid>
-            <pubDate>Sun, 29 Aug 2021 16:49:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Belgian Grand Prix a farce, says Lewis Hamilton]]></title>
-            <description><![CDATA[Lewis Hamilton criticises the Belgian Grand Prix as 'a farce' and accused Formula 1 of cynicism in the way it ran the rain-hit race.]]></description>
-            <link>https://www.bbc.co.uk/sport/formula1/58379620?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/formula1/58379620</guid>
-            <pubDate>Sun, 29 Aug 2021 21:08:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Papers: Afghans could fight for UK and British troops home]]></title>
@@ -191,6 +184,13 @@
             <pubDate>Fri, 27 Aug 2021 14:23:14 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Rain-hit Belgian Grand Prix 'a farce' - Hamilton]]></title>
+            <description><![CDATA[Lewis Hamilton criticises the Belgian Grand Prix as 'a farce' and accused Formula 1 of cynicism in the way it ran the rain-hit race.]]></description>
+            <link>https://www.bbc.co.uk/sport/formula1/58379620?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/formula1/58379620</guid>
+            <pubDate>Sun, 29 Aug 2021 21:08:16 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Golds for Small & Paterson Pine as GB win four medals - Paralympics day six so far]]></title>
             <description><![CDATA[Andrew Small wins his first Paralympic title in the T33 100m as Phoebe Paterson Pine takes archery gold on her Games debut on day six of Tokyo 2020.]]></description>
             <link>https://www.bbc.co.uk/sport/disability-sport/58381498?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -226,18 +226,11 @@
             <pubDate>Sun, 29 Aug 2021 17:22:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Buttler to miss fourth India Test for birth of second child]]></title>
-            <description><![CDATA[Jonny Bairstow will keep wicket for England at the Kia Oval as Jos Buttler awaits the birth of his second child.]]></description>
-            <link>https://www.bbc.co.uk/sport/cricket/58336156?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/cricket/58336156</guid>
-            <pubDate>Sun, 29 Aug 2021 15:19:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Manchester United v Wolves: Should Paul Pogba have been penalised for foul?]]></title>
-            <description><![CDATA[Match of the Day 2 pundits Jermaine Jenas and Dion Dublin discuss whether Manchester United's winner in their 1-0 victory over Wolves should have been ruled out for a Paul Pogba challenge in the build-up.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/football/58380359?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/av/football/58380359</guid>
-            <pubDate>Sun, 29 Aug 2021 22:46:16 GMT</pubDate>
+            <title><![CDATA[Youtuber Paul beats ex-UFC champion Woodley by split decision in boxing match]]></title>
+            <description><![CDATA[Jake Paul goes the distance for the first time in his fledgling boxing career with a split decision victory over Tyron Woodley on a glitzy night in Cleveland.]]></description>
+            <link>https://www.bbc.co.uk/sport/boxing/58381950?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/boxing/58381950</guid>
+            <pubDate>Mon, 30 Aug 2021 07:02:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[John Simpson on Afghanistan: A country abandoned]]></title>
