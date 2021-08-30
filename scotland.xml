@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 30 Aug 2021 06:45:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Aug 2021 06:55:33 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -51,18 +51,25 @@
             <pubDate>Sun, 29 Aug 2021 10:45:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Murder probe as Glasgow shooting victim dies]]></title>
-            <description><![CDATA[John McGregor, 44, died in hospital two days after he was gunned down in the Milton area of the city.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58376104?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58376104</guid>
-            <pubDate>Sun, 29 Aug 2021 13:11:26 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Covid travel: Latest changes begin as seven countries go green]]></title>
             <description><![CDATA[People arriving from Canada and Denmark are among those who will not need to isolate for 10 days.]]></description>
             <link>https://www.bbc.co.uk/news/uk-58379063?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58379063</guid>
             <pubDate>Mon, 30 Aug 2021 03:04:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Paramotor pilot shares pictures of John O'Groats-Land's End flight]]></title>
+            <description><![CDATA[Daniel Jones snaps aerial images from John O'Groats to Land's End while on a very personal mission.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-norfolk-58345631?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-norfolk-58345631</guid>
+            <pubDate>Mon, 30 Aug 2021 06:41:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Murder probe as Glasgow shooting victim dies]]></title>
+            <description><![CDATA[John McGregor, 44, died in hospital two days after he was gunned down in the Milton area of the city.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58376104?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58376104</guid>
+            <pubDate>Sun, 29 Aug 2021 13:11:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Nick Nairn restaurant badly damaged by fire]]></title>
@@ -91,13 +98,6 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-scotland-politics-58360337?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-scotland-politics-58360337</guid>
             <pubDate>Sat, 28 Aug 2021 15:35:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Players should get Covid jabs, says Andy Murray]]></title>
-            <description><![CDATA[Andy Murray says tennis players have a responsibility to the public as they travel the world, and should therefore be vaccinated against Covid.]]></description>
-            <link>https://www.bbc.co.uk/sport/tennis/58372107?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/58372107</guid>
-            <pubDate>Sat, 28 Aug 2021 22:02:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid in Scotland: Where are the latest cases?]]></title>
