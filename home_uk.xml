@@ -11,16 +11,16 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 30 Aug 2021 12:56:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Aug 2021 13:22:53 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
             <title><![CDATA[Afghanistan: US investigating civilian deaths in Kabul strike]]></title>
-            <description><![CDATA[The strike aimed to stop a suicide bomber, but killed six children and four adults from one family.]]></description>
+            <description><![CDATA[The strike aimed to stop a suicide bomber, but killed 10 people from one family, relatives say.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-58380791?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58380791</guid>
-            <pubDate>Mon, 30 Aug 2021 11:57:37 GMT</pubDate>
+            <pubDate>Mon, 30 Aug 2021 12:57:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Afghanistan: UK sceptical of Taliban safe passage pledge, says minister]]></title>
@@ -42,6 +42,13 @@
             <link>https://www.bbc.co.uk/news/world-latin-america-58379715?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-latin-america-58379715</guid>
             <pubDate>Mon, 30 Aug 2021 08:20:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid in Scotland: Cases doubling weekly after restrictions eased]]></title>
+            <description><![CDATA[More than 500 people who have tested positive for the virus are in hospital in Scotland.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-58383606?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-58383606</guid>
+            <pubDate>Mon, 30 Aug 2021 13:09:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid travel: Latest changes begin as seven countries go green]]></title>
@@ -184,13 +191,6 @@
             <pubDate>Fri, 27 Aug 2021 14:23:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Rain-hit Belgian Grand Prix 'a farce' - Hamilton]]></title>
-            <description><![CDATA[Lewis Hamilton criticises the Belgian Grand Prix as 'a farce' and accused Formula 1 of cynicism in the way it ran the rain-hit race.]]></description>
-            <link>https://www.bbc.co.uk/sport/formula1/58379620?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/formula1/58379620</guid>
-            <pubDate>Sun, 29 Aug 2021 21:08:16 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The inside story of Tevez & Mascherano's deadline-day move to West Ham]]></title>
             <description><![CDATA[BBC Sport tells how Carlos Tevez's and Javier Mascherano's deadline-day arrival at West Ham 15 years ago became one of football's most controversial deals.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58382795?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -210,6 +210,13 @@
             <link>https://www.bbc.co.uk/sport/football/58383632?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58383632</guid>
             <pubDate>Mon, 30 Aug 2021 10:28:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rain-hit Belgian Grand Prix 'a farce' - Hamilton]]></title>
+            <description><![CDATA[Lewis Hamilton criticises the Belgian Grand Prix as 'a farce' and accused Formula 1 of cynicism in the way it ran the rain-hit race.]]></description>
+            <link>https://www.bbc.co.uk/sport/formula1/58379620?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/formula1/58379620</guid>
+            <pubDate>Sun, 29 Aug 2021 21:08:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['A once-in-a-generation player' - who made Garth Crooks' team of the week? ]]></title>
@@ -279,7 +286,7 @@
             <description><![CDATA[Lee Pearson wins his 14th Paralympic title as Great Britain add eight medals to their Tokyo haul on day six.]]></description>
             <link>https://www.bbc.co.uk/sport/disability-sport/58381498?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/disability-sport/58381498</guid>
-            <pubDate>Mon, 30 Aug 2021 12:53:51 GMT</pubDate>
+            <pubDate>Mon, 30 Aug 2021 13:21:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Paralympics: Who are Great Britain's medal winners?]]></title>

@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 30 Aug 2021 12:51:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Aug 2021 13:23:33 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Knife crime: Cardiff stabbings prompt government help call from MP]]></title>
+            <description><![CDATA[Three men are in hospital after two unrelated stabbing incidents in Cardiff over the weekend.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-58378631?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-58378631</guid>
+            <pubDate>Mon, 30 Aug 2021 13:21:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Hospitality: Bullying, low pay and burn-out blamed for staff shortage]]></title>
             <description><![CDATA[As another popular Welsh restaurant closes its doors, what's next for the hospitality industry?]]></description>
@@ -37,20 +44,6 @@
             <pubDate>Sun, 29 Aug 2021 23:00:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Flood prevention: Swansea University study reveals role of wetlands]]></title>
-            <description><![CDATA[Vegetation can save up to £27m in avoided damage per estuary during a large storm, researchers say.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-58370371?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-58370371</guid>
-            <pubDate>Mon, 30 Aug 2021 06:25:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Police shut major Cardiff road after double stabbing]]></title>
-            <description><![CDATA[A key route in Cardiff city centre is closed on Sunday morning following a stabbing, police say.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-58374949?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-58374949</guid>
-            <pubDate>Sun, 29 Aug 2021 11:57:38 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Aaron Ramsey: Juventus midfielder one of four injury withdrawals from Wales squad]]></title>
             <description><![CDATA[Juventus midfielder Aaron Ramsey, Joe Rodon, Neco Williams and George Thomas withdraw from the Wales squad against Finland, Belarus and Estonia.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58383934?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -65,11 +58,25 @@
             <pubDate>Mon, 30 Aug 2021 09:11:19 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Flood prevention: Swansea University study reveals role of wetlands]]></title>
+            <description><![CDATA[Vegetation can save up to £27m in avoided damage per estuary during a large storm, researchers say.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-58370371?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-58370371</guid>
+            <pubDate>Mon, 30 Aug 2021 06:25:17 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Connor Roberts: Burnley eye Swansea City's Wales defender]]></title>
             <description><![CDATA[Burnley could move for Swansea City's Wales defender Connor Roberts ahead of Tuesday's transfer deadline.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58383682?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58383682</guid>
             <pubDate>Mon, 30 Aug 2021 11:00:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Police shut major Cardiff road after double stabbing]]></title>
+            <description><![CDATA[A key route in Cardiff city centre is closed on Sunday morning following a stabbing, police say.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-58374949?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-58374949</guid>
+            <pubDate>Sun, 29 Aug 2021 11:57:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid cases reach highest level in Wales since January]]></title>
