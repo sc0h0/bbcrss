@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 30 Aug 2021 13:55:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Aug 2021 14:17:38 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -35,6 +35,13 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-scotland-politics-58361884?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-scotland-politics-58361884</guid>
             <pubDate>Mon, 30 Aug 2021 10:49:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid in Scotland: When do school pupils have to self-isolate?]]></title>
+            <description><![CDATA[With the virus surging, we re-examine the new isolation rules and ask whether schools can ask pupils to stay at home.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-58381883?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-58381883</guid>
+            <pubDate>Mon, 30 Aug 2021 14:10:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Queensferry Crossing: Bridge to be cleaned in bid to solve ice problem]]></title>
@@ -65,13 +72,6 @@
             <pubDate>Mon, 30 Aug 2021 11:44:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Paramotor pilot shares pictures of John O'Groats-Land's End flight]]></title>
-            <description><![CDATA[Daniel Jones snaps aerial images from John O'Groats to Land's End while on a very personal mission.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-norfolk-58345631?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-norfolk-58345631</guid>
-            <pubDate>Mon, 30 Aug 2021 06:41:59 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Scotland's papers: 15,000 pupils isolate and Gove's night out]]></title>
             <description><![CDATA[School self-isolation rules and pictures of Michael Gove in an Aberdeen nightclub make the papers.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-58381882?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -98,13 +98,6 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-58384589?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-58384589</guid>
             <pubDate>Mon, 30 Aug 2021 11:04:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Special Olympics winner caught with abuse images for second time]]></title>
-            <description><![CDATA[The man, who has a previous conviction for a similar offence, was given a community sentence.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-tayside-central-58383718?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-tayside-central-58383718</guid>
-            <pubDate>Mon, 30 Aug 2021 11:06:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid in Scotland: Where are the latest cases?]]></title>
@@ -161,6 +154,13 @@
             <link>https://www.bbc.co.uk/news/world-51235105?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-51235105</guid>
             <pubDate>Fri, 27 Aug 2021 10:39:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Paramotor pilot shares pictures of John O'Groats-Land's End flight]]></title>
+            <description><![CDATA[Daniel Jones snaps aerial images from John O'Groats to Land's End while on a very personal mission.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-norfolk-58345631?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-norfolk-58345631</guid>
+            <pubDate>Mon, 30 Aug 2021 06:41:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How Scotland's City of Culture bids stack up]]></title>
