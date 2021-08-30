@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 30 Aug 2021 17:50:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Aug 2021 18:22:35 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -261,6 +261,13 @@
             <pubDate>Mon, 30 Aug 2021 09:02:38 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Listen: Sportsound on BBC Radio Scotland]]></title>
+            <description><![CDATA[Listen to BBC Radio Scotland's Sportsound.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/football/58388472?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/av/football/58388472</guid>
+            <pubDate>Mon, 30 Aug 2021 17:59:40 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Scotland reach Women's T20 World Cup global Qualifier after winning European event]]></title>
             <description><![CDATA[Scotland hammer France to ensure first place in the Women's T20 World Cup European Qualifier event in Spain.]]></description>
             <link>https://www.bbc.co.uk/sport/cricket/58383070?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -280,13 +287,6 @@
             <link>https://www.bbc.co.uk/sport/football/58382160?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58382160</guid>
             <pubDate>Mon, 30 Aug 2021 16:32:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Michael Stewart: Evolving Rangers can afford to lose Tavernier but can Celtic sell Edouard?]]></title>
-            <description><![CDATA[Sportscene pundit Michael stewart gives his verdict on the Old Firm's fortunes following Rangers' 1-0 win at Ibrox on Sunday.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58376296?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58376296</guid>
-            <pubDate>Mon, 30 Aug 2021 10:09:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
