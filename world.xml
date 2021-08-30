@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 30 Aug 2021 20:15:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Aug 2021 21:08:26 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -142,6 +142,13 @@
             <pubDate>Mon, 30 Aug 2021 19:54:27 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Hurricane Ida: Louisiana assesses damage after storm]]></title>
+            <description><![CDATA[A million people in Louisiana are still are without electricity after a devastating storm hit.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-58389521?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58389521</guid>
+            <pubDate>Mon, 30 Aug 2021 20:34:42 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Hurricane Ida's 150mph winds batter Louisiana]]></title>
             <description><![CDATA[Ida makes landfall as a category four hurricane - pilots take us inside the eye of the storm.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-58379885?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -161,13 +168,6 @@
             <link>https://www.bbc.co.uk/news/world-australia-58338411?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-australia-58338411</guid>
             <pubDate>Sun, 29 Aug 2021 22:29:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Herat under the Taliban: residents on the new rulers]]></title>
-            <description><![CDATA[People in Afghanistan’s third-largest city, Herat, explain how life has changed in recent weeks.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58346909?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58346909</guid>
-            <pubDate>Sat, 28 Aug 2021 23:06:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A country abandoned: BBC's John Simpson on Afghanistan]]></title>
@@ -191,6 +191,13 @@
             <pubDate>Sun, 29 Aug 2021 14:52:08 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Herat under the Taliban: residents on the new rulers]]></title>
+            <description><![CDATA[People in Afghanistan’s third-largest city, Herat, explain how life has changed in recent weeks.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58346909?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58346909</guid>
+            <pubDate>Sat, 28 Aug 2021 23:06:53 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Afghanistan: 'I helped the US military, now help me save my family']]></title>
             <description><![CDATA[Afghans living in Texas plead for help to save the lives of loved ones left behind in Afghanistan.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-58349434?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -203,13 +210,6 @@
             <link>https://www.bbc.co.uk/news/world-asia-58345901?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58345901</guid>
             <pubDate>Fri, 27 Aug 2021 23:52:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Victims' relatives still desperately search for news of loved ones]]></title>
-            <description><![CDATA[The BBC's Secunder Kermani reports on the human cost of the Kabul airport attack.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58369771?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58369771</guid>
-            <pubDate>Sat, 28 Aug 2021 13:21:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
