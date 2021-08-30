@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 30 Aug 2021 04:57:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Aug 2021 05:38:33 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -149,6 +149,13 @@
             <pubDate>Sat, 28 Aug 2021 23:38:33 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Hurricane Ida's 150mph winds batter Louisiana]]></title>
+            <description><![CDATA[Ida makes landfall as a category four hurricane as pilots take us inside the eye of the storm.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-58379885?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58379885</guid>
+            <pubDate>Sun, 29 Aug 2021 19:40:24 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Turkey lockdown: Pigeon-keeping in Istanbul on the rise]]></title>
             <description><![CDATA[The ancient art of pigeon fancying, popular across Asia, enjoyed a revival during the pandemic.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-58344157?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -175,13 +182,6 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58274206?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58274206</guid>
             <pubDate>Sat, 28 Aug 2021 23:13:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Strictly: Why are South African dancers so popular?]]></title>
-            <description><![CDATA[As Strictly prepares to return to our screens next month another South African dancer has joined the professionals.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-58363064?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-58363064</guid>
-            <pubDate>Sat, 28 Aug 2021 07:30:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A country abandoned: BBC's John Simpson on Afghanistan]]></title>
