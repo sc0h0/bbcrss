@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 30 Aug 2021 10:40:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Aug 2021 10:53:45 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -51,13 +51,6 @@
             <pubDate>Mon, 30 Aug 2021 03:04:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[First Minister Nicola Sturgeon is self-isolating]]></title>
-            <description><![CDATA[The first minister said she had been identified as a close contact of someone who had tested positive for Covid-19.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-scotland-politics-58361884?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-scotland-politics-58361884</guid>
-            <pubDate>Mon, 30 Aug 2021 07:23:22 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Ed Asner: Lou Grant and Up actor dies aged 91]]></title>
             <description><![CDATA[He'll be remembered for his roles as TV newsman Lou Grant and the lead voice role in Pixar hit Up.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-58380089?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -73,17 +66,17 @@
         </item>
         <item>
             <title><![CDATA[Brazil bank robbers tie hostages to getaway cars]]></title>
-            <description><![CDATA[Armed gang members took hostages as human shields, after a bank robbery in the city of Araçatuba.]]></description>
+            <description><![CDATA[Armed gang members took hostages as human shields, after a bank robbery in Brazil.]]></description>
             <link>https://www.bbc.co.uk/news/world-latin-america-58382410?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-latin-america-58382410</guid>
-            <pubDate>Mon, 30 Aug 2021 09:31:40 GMT</pubDate>
+            <pubDate>Mon, 30 Aug 2021 10:48:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Give UK workers four more bank holidays a year, says TUC]]></title>
-            <description><![CDATA[The trades union body says having just eight public holidays in England and Wales is "stingy" .]]></description>
-            <link>https://www.bbc.co.uk/news/business-58379875?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58379875</guid>
-            <pubDate>Sun, 29 Aug 2021 23:00:28 GMT</pubDate>
+            <title><![CDATA[First Minister Nicola Sturgeon tests negative for Covid-19]]></title>
+            <description><![CDATA[The first minister had been self-isolating after being identified as a close contact of a Covid case.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-scotland-politics-58361884?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-scotland-politics-58361884</guid>
+            <pubDate>Mon, 30 Aug 2021 10:49:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hospitality: Bullying, low pay and burn-out blamed for staff shortage]]></title>
@@ -217,6 +210,13 @@
             <link>https://www.bbc.co.uk/sport/football/58375791?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58375791</guid>
             <pubDate>Sun, 29 Aug 2021 21:40:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Manchester United v Wolves: Should Paul Pogba have been penalised for foul?]]></title>
+            <description><![CDATA[Match of the Day 2 pundits Jermaine Jenas and Dion Dublin discuss whether Manchester United's winner in their 1-0 victory over Wolves should have been ruled out for a Paul Pogba challenge in the build-up.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/football/58380359?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/av/football/58380359</guid>
+            <pubDate>Sun, 29 Aug 2021 22:46:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[John Simpson on Afghanistan: A country abandoned]]></title>
