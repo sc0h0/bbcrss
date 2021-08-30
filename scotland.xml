@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 30 Aug 2021 12:22:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Aug 2021 12:55:21 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -23,6 +23,13 @@
             <pubDate>Mon, 30 Aug 2021 12:05:37 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid in Scotland: Cases doubling weekly after restrictions eased]]></title>
+            <description><![CDATA[More than 500 people who have tested positive for the virus are in hospital in Scotland.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-58383606?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-58383606</guid>
+            <pubDate>Mon, 30 Aug 2021 12:48:23 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[First Minister Nicola Sturgeon tests negative for Covid-19]]></title>
             <description><![CDATA[The first minister had been self-isolating after being identified as a close contact of a Covid case.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-scotland-politics-58361884?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -30,11 +37,11 @@
             <pubDate>Mon, 30 Aug 2021 10:49:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid in Scotland: Record number of cases as NHS faces 'perfect storm']]></title>
-            <description><![CDATA[A total of 7,113 new cases have been recorded in the last 24 hours, topping the previous high from Friday.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-58370841?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-58370841</guid>
-            <pubDate>Sun, 29 Aug 2021 14:19:10 GMT</pubDate>
+            <title><![CDATA[Queensferry Crossing: Bridge to be cleaned in bid to solve ice problem]]></title>
+            <description><![CDATA[The Queensferry Crossing has been closed three times since it opened in 2017, due to the risk of falling ice.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-58384588?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-58384588</guid>
+            <pubDate>Mon, 30 Aug 2021 12:30:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Water warning as reservoir levels hit 18-year low]]></title>
