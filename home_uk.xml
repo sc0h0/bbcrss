@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 30 Aug 2021 14:28:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Aug 2021 14:37:36 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -20,7 +20,7 @@
             <description><![CDATA[The strike aimed to stop a suicide bomber, but killed 10 people from one family, relatives say.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-58380791?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58380791</guid>
-            <pubDate>Mon, 30 Aug 2021 13:30:28 GMT</pubDate>
+            <pubDate>Mon, 30 Aug 2021 14:27:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Afghanistan: UK sceptical of Taliban safe passage pledge, says minister]]></title>
@@ -226,18 +226,18 @@
             <pubDate>Mon, 30 Aug 2021 10:28:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA['A once-in-a-generation player' - who made Garth Crooks' team of the week? ]]></title>
-            <description><![CDATA[Who is a once-in-a-generation player? Which forward is not "particularly gifted" but playing the "football of his life"? Find out in Garth Crooks' team of the week.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58330317?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58330317</guid>
-            <pubDate>Sun, 29 Aug 2021 22:38:07 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Manchester United v Wolves: Should Paul Pogba have been penalised for foul?]]></title>
             <description><![CDATA[Match of the Day 2 pundits Jermaine Jenas and Dion Dublin discuss whether Manchester United's winner in their 1-0 victory over Wolves should have been ruled out for a Paul Pogba challenge in the build-up.]]></description>
             <link>https://www.bbc.co.uk/sport/av/football/58380359?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/av/football/58380359</guid>
             <pubDate>Sun, 29 Aug 2021 22:46:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo Paralympics: Jonnie Peacock wins bronze in thrilling T64 100m final]]></title>
+            <description><![CDATA[Watch GB's Jonnie Peacock share bronze in an incredibly tight men's T64 100m final, with Germany's Felix Streng taking gold.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/disability-sport/58385895?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/av/disability-sport/58385895</guid>
+            <pubDate>Mon, 30 Aug 2021 12:37:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[John Simpson on Afghanistan: A country abandoned]]></title>
@@ -324,6 +324,13 @@
             <pubDate>Tue, 17 Aug 2021 06:58:42 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Afghanistan: The 'undefeated' Panjshir Valley - an hour from Kabul]]></title>
+            <description><![CDATA[The Panjshir Valley has been a flashpoint in Afghanistan's turbulent history - now it's happening again.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58329527?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58329527</guid>
+            <pubDate>Wed, 25 Aug 2021 23:38:02 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Bilal Sarwary: 'The plane hit the tower and all our lives changed']]></title>
             <description><![CDATA[Afghan journalist Bilal Sarwary was selling carpets when 9/11 happened. From that day on, everything changed.]]></description>
             <link>https://www.bbc.co.uk/news/world-south-asia-58071592?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -350,13 +357,6 @@
             <link>https://www.bbc.co.uk/news/stories-58259497?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/stories-58259497</guid>
             <pubDate>Wed, 18 Aug 2021 23:57:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Peter Karlsson: The painful verdict on Swedish ice hockey player's 1995 killing]]></title>
-            <description><![CDATA[Peter Karlsson was stabbed to death in the street. His killer said he was protecting himself - via the so-called 'gay panic' defence.]]></description>
-            <link>https://www.bbc.co.uk/sport/ice-hockey/58101549?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/ice-hockey/58101549</guid>
-            <pubDate>Mon, 16 Aug 2021 23:01:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
