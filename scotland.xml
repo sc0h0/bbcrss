@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 30 Aug 2021 08:40:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Aug 2021 08:50:33 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -51,11 +51,11 @@
             <pubDate>Sun, 29 Aug 2021 10:45:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid travel: Latest changes begin as seven countries go green]]></title>
-            <description><![CDATA[People arriving from Canada and Denmark are among those who will not need to isolate for 10 days.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58379063?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58379063</guid>
-            <pubDate>Mon, 30 Aug 2021 03:04:42 GMT</pubDate>
+            <title><![CDATA[Pedestrian killed in late night A75 accident]]></title>
+            <description><![CDATA[The man was pronounced dead at the scene of the crash on the road between Annan and Dumfries.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-south-scotland-58383075?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-south-scotland-58383075</guid>
+            <pubDate>Mon, 30 Aug 2021 08:39:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Paramotor pilot shares pictures of John O'Groats-Land's End flight]]></title>
@@ -72,6 +72,13 @@
             <pubDate>Sun, 29 Aug 2021 13:11:26 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid travel: Latest changes begin as seven countries go green]]></title>
+            <description><![CDATA[People arriving from Canada and Denmark are among those who will not need to isolate for 10 days.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-58379063?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58379063</guid>
+            <pubDate>Mon, 30 Aug 2021 03:04:42 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Nick Nairn restaurant badly damaged by fire]]></title>
             <description><![CDATA[More than 30 firefighters were called to a blaze in the kitchen of Nick's in Bridge of Allan, near Stirling.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-tayside-central-58372062?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -84,13 +91,6 @@
             <link>https://www.bbc.co.uk/sport/football/58295855?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58295855</guid>
             <pubDate>Sun, 29 Aug 2021 13:07:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Scotland's City of Culture bids stack up]]></title>
-            <description><![CDATA[The case being made for three very different parts of the country to secure the status for 2025.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-south-scotland-58309840?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-south-scotland-58309840</guid>
-            <pubDate>Sat, 28 Aug 2021 21:53:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Scottish Greens back historic government deal]]></title>
@@ -154,6 +154,13 @@
             <link>https://www.bbc.co.uk/news/world-51235105?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-51235105</guid>
             <pubDate>Fri, 27 Aug 2021 10:39:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How Scotland's City of Culture bids stack up]]></title>
+            <description><![CDATA[The case being made for three very different parts of the country to secure the status for 2025.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-south-scotland-58309840?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-south-scotland-58309840</guid>
+            <pubDate>Sat, 28 Aug 2021 21:53:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The deal is done - so what lies ahead?]]></title>
@@ -266,13 +273,6 @@
             <link>https://www.bbc.co.uk/sport/av/football/58377815?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/av/football/58377815</guid>
             <pubDate>Sun, 29 Aug 2021 23:01:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[US Open 2021 preview: Djokovic chases history, Murray & Osaka play, no Williams, Federer, Nadal]]></title>
-            <description><![CDATA[Novak Djokovic is the centre of attention as he bids to win an historic 21st Grand Slam men's title at a US Open missing some of the big-name stars.]]></description>
-            <link>https://www.bbc.co.uk/sport/tennis/58344653?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/58344653</guid>
-            <pubDate>Sun, 29 Aug 2021 22:20:04 GMT</pubDate>
         </item>
     </channel>
 </rss>

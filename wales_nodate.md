@@ -24,5 +24,5 @@
 24. [Croesawu cyhoeddiad ar fesuryddion CO2 mewn ysgolion](https://www.bbc.co.uk/newyddion/58363903?at_medium=RSS&at_campaign=KARANGA) - Bydd y mesuryddion carbon deuocsid yn dangos os oes angen mwy o awyr iach yn yr ystafell ddosbarth.
 25. [Pryder bod pobl yn anwybyddu goleuadau rheilffordd Porthmadog](https://www.bbc.co.uk/newyddion/58375311?at_medium=RSS&at_campaign=KARANGA) - Pryder ym Mhorthmadog fod gyrwyr yn anwybyddu arwyddion croesfannau trenau gan achosi perygl sylweddol.
 26. [Gwlypdiroedd yn 'amddiffyniad natur rhag llifogydd'](https://www.bbc.co.uk/newyddion/58351150?at_medium=RSS&at_campaign=KARANGA) - Mae gwlypdiroedd arfordirol Cymru'n rhoi mwy o ddiogelwch rhag llifogydd na'r hyn a feddyliwyd.
-27. [Doedden nhw'n Ddyddiau Da: Hanner canrif o Hergest](https://www.bbc.co.uk/newyddion/58357416?at_medium=RSS&at_campaign=KARANGA) - Pedwar aelod gwreiddiol y grŵp Hergest sy’n cofio’r blynyddoedd cynnar.
+27. [Cofio'r ciws ar gopa'r Wyddfa... yn 1894](https://www.bbc.co.uk/newyddion/58342959?at_medium=RSS&at_campaign=KARANGA) - Yn ôl yr hanesydd Elin Tomos, mae Cymru yn denu ymwelwyr lu ers Oes Fictoria
 28. [Aur i dîm rygbi cadair olwyn Prydain yn Tokyo](https://www.bbc.co.uk/newyddion/58375317?at_medium=RSS&at_campaign=KARANGA) - Tîm Prydain, dan arweiniad y Cymro Jim Roberts, yn trechu'r UDA i ennill aur yn y Gemau Paralympaidd.
