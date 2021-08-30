@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 30 Aug 2021 10:06:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Aug 2021 10:27:55 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -254,6 +254,13 @@
             <pubDate>Mon, 30 Aug 2021 09:02:38 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Michael Stewart: Evolving Rangers can afford to lose Tavernier but can Celtic sell Edouard?]]></title>
+            <description><![CDATA[Sportscene pundit Michael stewart gives his verdict on the Old Firm's fortunes following Rangers' 1-0 win at Ibrox on Sunday.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58376296?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58376296</guid>
+            <pubDate>Mon, 30 Aug 2021 10:09:13 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Scottish Gossip: Celtic, Rangers, Hibernian, Hearts, Patterson, Jota, Giakoumakis]]></title>
             <description><![CDATA[Rangers reject second approach from Everton for full-back, Celtic close in on two new forwards...]]></description>
             <link>https://www.bbc.co.uk/sport/football/58382160?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -266,13 +273,6 @@
             <link>https://www.bbc.co.uk/sport/football/58377822?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58377822</guid>
             <pubDate>Sun, 29 Aug 2021 17:22:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rangers 1-0 Celtic: Watch the best of the action as Ibrox side earn sixth Old Firm win in seven]]></title>
-            <description><![CDATA[Watch the best of the action as Rangers beat Celtic 1-0 at Ibrox in the Scottish Premiership to earn their sixth Old Firm win in seven.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/football/58377815?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/av/football/58377815</guid>
-            <pubDate>Sun, 29 Aug 2021 23:01:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
