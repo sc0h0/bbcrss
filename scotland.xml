@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 30 Aug 2021 14:34:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Aug 2021 14:41:49 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -51,6 +51,13 @@
             <pubDate>Mon, 30 Aug 2021 14:26:46 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Hearts: Ann Budge signs over shares to Foundation of Hearts]]></title>
+            <description><![CDATA[Ann Budge has signed over her majority shareholding in Hearts to fans group Foundation of Hearts.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58385733?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58385733</guid>
+            <pubDate>Mon, 30 Aug 2021 14:26:47 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Queensferry Crossing: Bridge to be cleaned in bid to solve ice problem]]></title>
             <description><![CDATA[The Queensferry Crossing has been closed three times since it opened in 2017, due to the risk of falling ice.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-58384588?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -77,13 +84,6 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58384844?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58384844</guid>
             <pubDate>Mon, 30 Aug 2021 11:44:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Scotland's papers: 15,000 pupils isolate and Gove's night out]]></title>
-            <description><![CDATA[School self-isolation rules and pictures of Michael Gove in an Aberdeen nightclub make the papers.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-58381882?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-58381882</guid>
-            <pubDate>Mon, 30 Aug 2021 07:20:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Action 'needed now' to cut farming sector emissions]]></title>
@@ -275,18 +275,18 @@
             <pubDate>Mon, 30 Aug 2021 10:29:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Hearts: Ann Budge signs over shares to Foundation of Hearts]]></title>
-            <description><![CDATA[Ann Budge will sign over her majority shareholding in Hearts to fans group Foundation of Hearts at a ceremony at Tynecastle later.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58385733?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58385733</guid>
-            <pubDate>Mon, 30 Aug 2021 14:26:47 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Scottish Gossip: Celtic, Rangers, Hibernian, Hearts, Patterson, Jota, Giakoumakis]]></title>
             <description><![CDATA[Rangers reject second approach from Everton for full-back, Celtic close in on two new forwards...]]></description>
             <link>https://www.bbc.co.uk/sport/football/58382160?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58382160</guid>
             <pubDate>Mon, 30 Aug 2021 07:02:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rangers 1-0 Celtic: 'Familiar Old Firm outcome as predictions falter']]></title>
+            <description><![CDATA[Few of the pre-match predictions came to pass but the goal that won Rangers the Old Firm derby would be wearily familar to Celtic, writes Tom English.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58377822?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58377822</guid>
+            <pubDate>Sun, 29 Aug 2021 17:22:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
