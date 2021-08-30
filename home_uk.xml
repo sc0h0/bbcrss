@@ -11,12 +11,12 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 30 Aug 2021 13:34:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Aug 2021 13:49:23 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
-            <title><![CDATA[Afghanistan: US investigating civilian deaths in Kabul strike]]></title>
+            <title><![CDATA[Afghanistan: US investigates civilian deaths in Kabul strike]]></title>
             <description><![CDATA[The strike aimed to stop a suicide bomber, but killed 10 people from one family, relatives say.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-58380791?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58380791</guid>
@@ -37,25 +37,25 @@
             <pubDate>Mon, 30 Aug 2021 13:32:57 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid in Scotland: Cases doubling weekly after restrictions eased]]></title>
+            <description><![CDATA[More than 500 people who have tested positive for the virus are in hospital in Scotland.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-58383606?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-58383606</guid>
+            <pubDate>Mon, 30 Aug 2021 13:38:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo Paralympics: Two-time champion Jonnie Peacock wins joint bronze in T64 100m]]></title>
+            <description><![CDATA[Jonnie Peacock wins joint bronze in the T64 100m as he misses out on a third consecutive Paralympic sprint title in Tokyo.]]></description>
+            <link>https://www.bbc.co.uk/sport/disability-sport/58382044?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/disability-sport/58382044</guid>
+            <pubDate>Mon, 30 Aug 2021 13:45:07 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Lee 'Scratch' Perry: Tributes paid to the 'true legend' of reggae]]></title>
             <description><![CDATA[Fellow musicians praise the legendary singer and music producer who has died aged 85.]]></description>
             <link>https://www.bbc.co.uk/news/world-latin-america-58379715?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-latin-america-58379715</guid>
             <pubDate>Mon, 30 Aug 2021 08:20:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid in Scotland: Cases doubling weekly after restrictions eased]]></title>
-            <description><![CDATA[More than 500 people who have tested positive for the virus are in hospital in Scotland.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-58383606?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-58383606</guid>
-            <pubDate>Mon, 30 Aug 2021 13:09:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid travel: Latest changes begin as seven countries go green]]></title>
-            <description><![CDATA[People arriving from Canada and Denmark are among those who will not need to isolate for 10 days.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58379063?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58379063</guid>
-            <pubDate>Mon, 30 Aug 2021 03:04:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Milan fire: Flames engulf modern 20-storey block of flats]]></title>
@@ -65,11 +65,11 @@
             <pubDate>Mon, 30 Aug 2021 11:11:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Bank robbers in Brazil tie hostages to getaway cars]]></title>
-            <description><![CDATA[Armed gang members took hostages as human shields, after a bank robbery in Brazil.]]></description>
-            <link>https://www.bbc.co.uk/news/world-latin-america-58382410?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-latin-america-58382410</guid>
-            <pubDate>Mon, 30 Aug 2021 11:12:38 GMT</pubDate>
+            <title><![CDATA[Afghanistan: Pen Farthing sorry for foul-mouthed message to aide]]></title>
+            <description><![CDATA[Pen Farthing says he was "at the lowest point" as he tried to get staff and animals out of Afghanistan.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-essex-58385521?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-essex-58385521</guid>
+            <pubDate>Mon, 30 Aug 2021 13:38:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[China cuts children's online gaming to one hour]]></title>
@@ -91,6 +91,13 @@
             <link>https://www.bbc.co.uk/news/entertainment-arts-58383576?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-58383576</guid>
             <pubDate>Mon, 30 Aug 2021 10:55:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo Paralympics: Ellie Robinson's 'story of triumph not defeat']]></title>
+            <description><![CDATA[Ellie Robinson says her fifth-place finish in the S6 butterfly final at the Tokyo Paralympics was "a story of triumph not defeat".]]></description>
+            <link>https://www.bbc.co.uk/sport/disability-sport/58383911?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/disability-sport/58383911</guid>
+            <pubDate>Mon, 30 Aug 2021 13:16:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hurricane Ida: Striking pictures show storm sweeping Gulf Coast]]></title>
@@ -191,6 +198,13 @@
             <pubDate>Fri, 27 Aug 2021 14:23:14 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[F1 to make changes to prevent repeat of 'farce' in Belgian GP]]></title>
+            <description><![CDATA[Formula 1 is to make rule changes to prevent a recurrence of the events surrounding the controversial abandonment of the Belgian Grand Prix.]]></description>
+            <link>https://www.bbc.co.uk/sport/formula1/58385653?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/formula1/58385653</guid>
+            <pubDate>Mon, 30 Aug 2021 13:26:20 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The inside story of Tevez & Mascherano's deadline-day move to West Ham]]></title>
             <description><![CDATA[BBC Sport tells how Carlos Tevez's and Javier Mascherano's deadline-day arrival at West Ham 15 years ago became one of football's most controversial deals.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58382795?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -210,13 +224,6 @@
             <link>https://www.bbc.co.uk/sport/football/58383632?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58383632</guid>
             <pubDate>Mon, 30 Aug 2021 10:28:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rain-hit Belgian Grand Prix 'a farce' - Hamilton]]></title>
-            <description><![CDATA[Lewis Hamilton criticises the Belgian Grand Prix as 'a farce' and accused Formula 1 of cynicism in the way it ran the rain-hit race.]]></description>
-            <link>https://www.bbc.co.uk/sport/formula1/58379620?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/formula1/58379620</guid>
-            <pubDate>Sun, 29 Aug 2021 21:08:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['A once-in-a-generation player' - who made Garth Crooks' team of the week? ]]></title>
@@ -275,18 +282,11 @@
             <pubDate>Fri, 27 Aug 2021 23:52:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tokyo Paralympics: Two-time champion Jonnie Peacock wins joint bronze in T64 100m]]></title>
-            <description><![CDATA[Jonnie Peacock wins joint bronze in the T64 100m as he misses out on a third consecutive Paralympic sprint title in Tokyo.]]></description>
-            <link>https://www.bbc.co.uk/sport/disability-sport/58382044?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/disability-sport/58382044</guid>
-            <pubDate>Mon, 30 Aug 2021 12:21:13 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Tokyo Paralympics: Lee Pearson, Andrew Small and Phoebe Paterson Pine claim golds as GB win eight medals]]></title>
             <description><![CDATA[Lee Pearson wins his 14th Paralympic title as Great Britain add eight medals to their Tokyo haul on day six.]]></description>
             <link>https://www.bbc.co.uk/sport/disability-sport/58381498?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/disability-sport/58381498</guid>
-            <pubDate>Mon, 30 Aug 2021 13:30:56 GMT</pubDate>
+            <pubDate>Mon, 30 Aug 2021 13:38:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Paralympics: Who are Great Britain's medal winners?]]></title>
