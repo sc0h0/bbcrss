@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 30 Aug 2021 17:20:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Aug 2021 17:32:18 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -177,6 +177,13 @@
             <pubDate>Sun, 29 Aug 2021 12:23:08 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[County Championship: Chris Benjamin and Sam Hain make tons as Warwickshire dominate Lancashire]]></title>
+            <description><![CDATA[Chris Benjamin makes his maiden century and Sam Hain also hits a ton as Warwickshire reach 259-3 against Lancashire.]]></description>
+            <link>https://www.bbc.co.uk/sport/cricket/58376215?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/cricket/58376215</guid>
+            <pubDate>Mon, 30 Aug 2021 17:29:48 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Tokyo Paralympics: Lee Pearson, Andrew Small and Phoebe Paterson Pine claim golds as GB win eight medals]]></title>
             <description><![CDATA[Lee Pearson wins his 14th Paralympic title as Great Britain add eight medals to their Tokyo haul on day six.]]></description>
             <link>https://www.bbc.co.uk/sport/disability-sport/58381498?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -189,13 +196,6 @@
             <link>https://www.bbc.co.uk/sport/rugby-league/58376808?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/rugby-league/58376808</guid>
             <pubDate>Mon, 30 Aug 2021 17:19:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dujon Sterling: Blackpool to sign Chelsea defender on loan]]></title>
-            <description><![CDATA[Chelsea's England youth international defender Dujon Sterling is to sign for Championship side Blackpool on loan.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58376413?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58376413</guid>
-            <pubDate>Mon, 30 Aug 2021 11:02:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
