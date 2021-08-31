@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 31 Aug 2021 09:31:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Aug 2021 09:38:38 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -261,6 +261,13 @@
             <pubDate>Mon, 30 Aug 2021 21:49:27 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[AB Zondagh: Scotland sign up South African attack coach]]></title>
+            <description><![CDATA[Alan-Basson Zondagh joins Gregor Townsend's Scotland coaching team, focusing on attack.]]></description>
+            <link>https://www.bbc.co.uk/sport/rugby-union/58392701?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/rugby-union/58392701</guid>
+            <pubDate>Tue, 31 Aug 2021 09:31:39 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Scottish Gossip: Celtic, Dundee, St Johnstone, Dundee Utd, Hibernian, Christie, Nisbet]]></title>
             <description><![CDATA[Celtic playmaker set for English Championship as Dundee and St Johnstone set up deadline day loans...]]></description>
             <link>https://www.bbc.co.uk/sport/football/58392480?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -273,13 +280,6 @@
             <link>https://www.bbc.co.uk/sport/football/58383073?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58383073</guid>
             <pubDate>Mon, 30 Aug 2021 17:00:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[US Open 2021: Andy Murray 'lost respect' for Stefanos Tsitsipas after bathroom row]]></title>
-            <description><![CDATA[Andy Murray says he "lost respect" for third seed Stefanos Tsitsipas during a feisty US Open match where the Briton accused his opponent of "cheating" by taking lengthy bathroom breaks.]]></description>
-            <link>https://www.bbc.co.uk/sport/tennis/58389189?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/58389189</guid>
-            <pubDate>Tue, 31 Aug 2021 03:28:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
