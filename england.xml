@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 31 Aug 2021 08:41:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Aug 2021 08:54:55 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -128,6 +128,20 @@
             <pubDate>Sat, 28 Aug 2021 07:16:51 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Cristiano Ronaldo: Man Utd complete move to re-sign forward]]></title>
+            <description><![CDATA[Manchester United bring Portugal forward Cristiano Ronaldo back to the club after completing his signing from Juventus.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58367537?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58367537</guid>
+            <pubDate>Tue, 31 Aug 2021 08:49:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jordan Henderson: Liverpool captain signs new deal until 2025]]></title>
+            <description><![CDATA[Liverpool captain Jordan Henderson signs a new contract, keeping him at the club until 2025.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58228977?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58228977</guid>
+            <pubDate>Tue, 31 Aug 2021 08:54:20 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Nikola Vlasic: West Ham sign midfielder from CSKA Moscow]]></title>
             <description><![CDATA[West Ham sign Croatia midfielder Nikola Vlasic from CSKA Moscow on a five-year deal.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58388047?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -135,25 +149,11 @@
             <pubDate>Tue, 31 Aug 2021 08:37:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Daniel James: Leeds close to signing Manchester United and Wales winger for club record £30m]]></title>
-            <description><![CDATA[Leeds United are closing in on a club record £30m deal to sign Manchester United winger Dan James.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58388786?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58388786</guid>
-            <pubDate>Mon, 30 Aug 2021 18:59:46 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Tokyo Paralympics: Sarah Storey becomes Great Britain's joint most successful Paralympian with 16th gold]]></title>
             <description><![CDATA[Sarah Storey becomes Great Britain's joint most successful Paralympian of all time after winning her 16th gold medal in the C5 time trial in Tokyo.]]></description>
             <link>https://www.bbc.co.uk/sport/disability-sport/58390957?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/disability-sport/58390957</guid>
             <pubDate>Tue, 31 Aug 2021 04:51:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Paralympics: Ben Watson wins time trial gold as medals flow on day seven]]></title>
-            <description><![CDATA[Ben Watson wins time trial gold on his Paralympic debut as the medals continue to flow for Great Britain on day seven in Tokyo.]]></description>
-            <link>https://www.bbc.co.uk/sport/disability-sport/58390965?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/disability-sport/58390965</guid>
-            <pubDate>Tue, 31 Aug 2021 07:54:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
