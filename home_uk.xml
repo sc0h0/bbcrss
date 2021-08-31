@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 31 Aug 2021 16:59:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Aug 2021 17:23:39 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -30,13 +30,6 @@
             <pubDate>Tue, 31 Aug 2021 15:28:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[R. Kelly trial: First male accuser testifies to sexual abuse]]></title>
-            <description><![CDATA[An unnamed man says the star promised fame in exchange for sex, while a female witness alleges rape.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-58393119?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-58393119</guid>
-            <pubDate>Tue, 31 Aug 2021 08:50:30 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Fake Banksy NFT sold through artist's website for £244k]]></title>
             <description><![CDATA[Duped buyer says he feels "burned" after apparent hack of Banksy website.]]></description>
             <link>https://www.bbc.co.uk/news/technology-58399338?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -44,18 +37,18 @@
             <pubDate>Tue, 31 Aug 2021 14:54:36 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[NHS blood tube shortage: Supplier ramps up imports]]></title>
+            <description><![CDATA[Becton Dickinson has announced it will deliver 9 million blood test tubes to the NHS this week.]]></description>
+            <link>https://www.bbc.co.uk/news/business-58394899?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58394899</guid>
+            <pubDate>Tue, 31 Aug 2021 16:48:58 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Covid-19: Ryanair predicts travel rebound and Mission: Impossible's Covid lawsuit]]></title>
             <description><![CDATA[Five things you need to know about the coronavirus pandemic this Tuesday evening.]]></description>
             <link>https://www.bbc.co.uk/news/uk-58395353?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58395353</guid>
             <pubDate>Tue, 31 Aug 2021 16:42:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[PC Harper's widow vows to continue push for law change]]></title>
-            <description><![CDATA[Lissie Harper says she will not allow her Harper's Law campaign to be 'kicked into the long grass'.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-berkshire-58393735?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-berkshire-58393735</guid>
-            <pubDate>Tue, 31 Aug 2021 09:00:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Paralympics: Sarah Storey becomes Great Britain's joint most successful Paralympian with 16th gold]]></title>
@@ -70,6 +63,13 @@
             <link>https://www.bbc.co.uk/news/uk-england-dorset-58391555?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-dorset-58391555</guid>
             <pubDate>Tue, 31 Aug 2021 06:30:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[R. Kelly trial: First male accuser testifies to sexual abuse]]></title>
+            <description><![CDATA[An unnamed man says the star promised fame in exchange for sex, while a female witness alleges rape.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-58393119?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-58393119</guid>
+            <pubDate>Tue, 31 Aug 2021 08:50:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Brent petrol murder: Man guilty of killing wife in arson attack]]></title>
@@ -202,7 +202,7 @@
             <description><![CDATA[Explore the data on coronavirus in the UK and find out how many cases there are in your area.]]></description>
             <link>https://www.bbc.co.uk/news/uk-51768274?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-51768274</guid>
-            <pubDate>Mon, 30 Aug 2021 15:25:01 GMT</pubDate>
+            <pubDate>Tue, 31 Aug 2021 17:17:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: Which children are being vaccinated and why?]]></title>
@@ -247,11 +247,11 @@
             <pubDate>Tue, 31 Aug 2021 07:49:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Gunfire as Taliban celebrate US leaving Afghanistan]]></title>
-            <description><![CDATA[Gunfire rang out as the BBC's Lyse Doucet reported on US troops' departure from Kabul.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58389771?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58389771</guid>
-            <pubDate>Mon, 30 Aug 2021 21:50:35 GMT</pubDate>
+            <title><![CDATA[Afghanistan: How can the West stop terror bases?]]></title>
+            <description><![CDATA[The foreign secretary says the UK will fight ISIS by all means available - but what does that mean?]]></description>
+            <link>https://www.bbc.co.uk/news/uk-58395371?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58395371</guid>
+            <pubDate>Tue, 31 Aug 2021 17:02:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Afghanistan: 'Struggle to survive or race to escape' on streets of Kabul]]></title>
