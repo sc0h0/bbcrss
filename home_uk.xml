@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 31 Aug 2021 21:11:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Aug 2021 21:23:01 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Afghanistan: UK and Taliban in talks over further evacuations]]></title>
+            <description><![CDATA[A UK official is in Qatar for talks to secure the exit of both UK and Afghan nationals, No 10 says.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-58403050?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58403050</guid>
+            <pubDate>Tue, 31 Aug 2021 21:18:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Amid violent reprisals, Afghans fear the Taliban's 'amnesty' was empty]]></title>
             <description><![CDATA[Reports suggest the Taliban are searching for, and allegedly killing, people they pledged to leave in peace.]]></description>
@@ -35,13 +42,6 @@
             <link>https://www.bbc.co.uk/news/technology-58399338?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/technology-58399338</guid>
             <pubDate>Tue, 31 Aug 2021 14:54:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid-19: Ryanair predicts travel rebound and Mission: Impossible's Covid lawsuit]]></title>
-            <description><![CDATA[Five things you need to know about the coronavirus pandemic this Tuesday evening.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58395353?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58395353</guid>
-            <pubDate>Tue, 31 Aug 2021 16:42:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Lorry drivers told to take care after bridge struck]]></title>
@@ -230,7 +230,7 @@
             <description><![CDATA[British teenager Emma Raducanu again shows her talent and maturity on the Grand Slam stage as she eases to victory on her US Open main-draw debut.]]></description>
             <link>https://www.bbc.co.uk/sport/tennis/58390546?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/58390546</guid>
-            <pubDate>Tue, 31 Aug 2021 19:58:18 GMT</pubDate>
+            <pubDate>Tue, 31 Aug 2021 21:18:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Parris scores early opener as Arsenal beat Slavia]]></title>

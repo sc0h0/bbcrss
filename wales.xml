@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 31 Aug 2021 21:12:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Aug 2021 21:26:32 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -100,6 +100,13 @@
             <pubDate>Mon, 30 Aug 2021 23:04:30 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid: The doctor busting Covid vaccine myths on social media]]></title>
+            <description><![CDATA[Dr Bnar Talabani has been trying to encourage young people on TikTok to get jabbed.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-58400711?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-58400711</guid>
+            <pubDate>Tue, 31 Aug 2021 21:14:01 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Rugby: Mixed ability club in Llanelli marks 25 years]]></title>
             <description><![CDATA[About half of the club's players are registered disabled and most have learning disabilities.]]></description>
             <link>https://www.bbc.co.uk/news/uk-wales-58396068?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -133,13 +140,6 @@
             <link>https://www.bbc.co.uk/news/uk-wales-58351077?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-58351077</guid>
             <pubDate>Fri, 27 Aug 2021 14:31:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Scrapping theory tests could cut HGV driver shortage, says instructor]]></title>
-            <description><![CDATA[One lorry driving instructor said it can take up to 16 months to train up new drivers.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-58348870?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-58348870</guid>
-            <pubDate>Thu, 26 Aug 2021 21:11:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jamal Lowe: Bournemouth sign Swansea City forward for undisclosed fee]]></title>
@@ -205,11 +205,11 @@
             <pubDate>Tue, 31 Aug 2021 10:29:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Morgannwg yn wynebu colled yn erbyn Essex]]></title>
-            <description><![CDATA[Batio difrifol yn rhoi Morgannwg mewn sefyllfa wan iawn ar ail ddiwrnod eu gêm bencampwriaeth.]]></description>
-            <link>https://www.bbc.co.uk/newyddion/58402881?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/newyddion/58402881</guid>
-            <pubDate>Tue, 31 Aug 2021 18:20:42 GMT</pubDate>
+            <title><![CDATA[Canlyniadau nos Fawrth yn y Cymru Premier]]></title>
+            <description><![CDATA[Chwech gêm yn cael eu chwarae nos Fawrth yn y Cymru Premier.]]></description>
+            <link>https://www.bbc.co.uk/newyddion/58403057?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/newyddion/58403057</guid>
+            <pubDate>Tue, 31 Aug 2021 21:20:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
