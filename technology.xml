@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 31 Aug 2021 15:13:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Aug 2021 15:31:21 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -21,6 +21,13 @@
             <link>https://www.bbc.co.uk/news/technology-58399338?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/technology-58399338</guid>
             <pubDate>Tue, 31 Aug 2021 14:54:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coinbase users fear hacking after erroneous emails]]></title>
+            <description><![CDATA[Some users panicked after 125,000 emails were sent mistakenly warning of changed security settings.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-58384458?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/technology-58384458</guid>
+            <pubDate>Tue, 31 Aug 2021 14:10:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[YouTube signs Twitch video-game streamer Dr Lupo]]></title>
@@ -77,13 +84,6 @@
             <link>https://www.bbc.co.uk/news/business-58352098?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58352098</guid>
             <pubDate>Fri, 27 Aug 2021 03:16:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Peloton cuts price of bike as sales growth slows]]></title>
-            <description><![CDATA[The fitness company's losses have widened as people head back to gyms to exercise.]]></description>
-            <link>https://www.bbc.co.uk/news/business-58351462?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58351462</guid>
-            <pubDate>Thu, 26 Aug 2021 22:18:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Data protection 'shake-up' takes aim at cookie pop-ups]]></title>
