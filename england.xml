@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 31 Aug 2021 10:11:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Aug 2021 10:26:12 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Geronimo the alpaca: Defra officials arrive at farm]]></title>
+            <description><![CDATA[A destruction order is expected to be carried out on an alpaca that tested positive for bovine TB.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-bristol-58255378?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-bristol-58255378</guid>
+            <pubDate>Tue, 31 Aug 2021 10:21:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Maddie Durdant-Hollamby: Tributes to Kettering murder victim]]></title>
             <description><![CDATA[Maddie Durdant-Hollamby, 22, was discovered dead at a house where the body of a man was also found.]]></description>
@@ -37,18 +44,18 @@
             <pubDate>Tue, 31 Aug 2021 09:19:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Mass rescue of 17 caught in rip current off Bournemouth]]></title>
-            <description><![CDATA[The group were seen by lifeguards being pulled out to sea in a powerful rip current on Monday.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-dorset-58391555?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-dorset-58391555</guid>
-            <pubDate>Tue, 31 Aug 2021 06:30:39 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Limited train service after lorry hits railway bridge in Plymouth]]></title>
             <description><![CDATA[Passengers are being warned to face disruption until Wednesday evening at the earliest.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-devon-58392944?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-devon-58392944</guid>
             <pubDate>Tue, 31 Aug 2021 10:10:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mass rescue of 17 caught in rip current off Bournemouth]]></title>
+            <description><![CDATA[The group were seen by lifeguards being pulled out to sea in a powerful rip current on Monday.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-dorset-58391555?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-dorset-58391555</guid>
+            <pubDate>Tue, 31 Aug 2021 06:30:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Four men pulled from water as wave sinks boat off Southsea]]></title>
@@ -70,13 +77,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-wiltshire-58345386?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-wiltshire-58345386</guid>
             <pubDate>Tue, 31 Aug 2021 05:10:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gloucestershire hospitals in £100m upgrade to improve specialist care]]></title>
-            <description><![CDATA[The two-year plan for two Gloucestershire hospitals aims to provide 'the next generation of care'.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-gloucestershire-58356778?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-gloucestershire-58356778</guid>
-            <pubDate>Tue, 31 Aug 2021 05:25:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Cambridgeshire python: Snake's tree rescue 'like a scene from Jungle Book']]></title>
@@ -121,11 +121,18 @@
             <pubDate>Sat, 28 Aug 2021 07:16:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Cristiano Ronaldo: Man Utd complete move to re-sign forward]]></title>
-            <description><![CDATA[Cristiano Ronaldo returns to Manchester United after more than a decade away as he completes his move from Italian club Juventus.]]></description>
+            <title><![CDATA[Gloucestershire hospitals in £100m upgrade to improve specialist care]]></title>
+            <description><![CDATA[The two-year plan for two Gloucestershire hospitals aims to provide 'the next generation of care'.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-gloucestershire-58356778?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-gloucestershire-58356778</guid>
+            <pubDate>Tue, 31 Aug 2021 05:25:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cristiano Ronaldo says he is 'back where I belong' and dedicates return to Sir Alex Ferguson]]></title>
+            <description><![CDATA[Cristiano Ronaldo says he is "back where I belong" at Manchester United and dedicates his return to the club to former boss Sir Alex Ferguson.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58367537?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58367537</guid>
-            <pubDate>Tue, 31 Aug 2021 09:15:47 GMT</pubDate>
+            <pubDate>Tue, 31 Aug 2021 10:17:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jordan Henderson: Liverpool captain signs new deal until 2025]]></title>
