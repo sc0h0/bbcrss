@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 31 Aug 2021 07:55:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Aug 2021 08:18:11 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -28,6 +28,13 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-58387017?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-58387017</guid>
             <pubDate>Tue, 31 Aug 2021 07:18:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Brexit: What next for the Northern Ireland Protocol?]]></title>
+            <description><![CDATA[Decisions will have to be made, with some significant grace periods due to expire soon.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58356075?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58356075</guid>
+            <pubDate>Tue, 31 Aug 2021 05:54:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The remarkable rise of the independent councillors]]></title>
@@ -51,18 +58,18 @@
             <pubDate>Sun, 29 Aug 2021 11:06:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[First Minister Nicola Sturgeon tests negative for Covid-19]]></title>
-            <description><![CDATA[The first minister had been self-isolating after being identified as a close contact of a Covid case.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-scotland-politics-58361884?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-scotland-politics-58361884</guid>
-            <pubDate>Mon, 30 Aug 2021 10:49:35 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Government plans to lift football standing ban]]></title>
             <description><![CDATA[Some clubs will trial designated safe standing areas before the end of the season, the BBC understands.]]></description>
             <link>https://www.bbc.co.uk/news/uk-politics-58357046?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-politics-58357046</guid>
             <pubDate>Sun, 29 Aug 2021 01:45:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[First Minister Nicola Sturgeon tests negative for Covid-19]]></title>
+            <description><![CDATA[The first minister had been self-isolating after being identified as a close contact of a Covid case.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-scotland-politics-58361884?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-scotland-politics-58361884</guid>
+            <pubDate>Mon, 30 Aug 2021 10:49:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Afghanistan: Ministers try to reassure MPs over missed evacuees]]></title>
@@ -72,11 +79,11 @@
             <pubDate>Sat, 28 Aug 2021 02:30:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Afghanistan: British nationals killed in Kabul airport attack]]></title>
-            <description><![CDATA[Two British nationals and the child of another are among the victims of Thursday's attack, the government says.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58360592?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58360592</guid>
-            <pubDate>Fri, 27 Aug 2021 17:00:14 GMT</pubDate>
+            <title><![CDATA[Government to ban single-use plastic cutlery]]></title>
+            <description><![CDATA[Plastic plates and polystyrene cups will also be banned in England in what ministers call a "war on plastic".]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-58360064?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-politics-58360064</guid>
+            <pubDate>Sat, 28 Aug 2021 07:56:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Afghanistan: Every effort was made to destroy Kabul staff details, says Foreign Office]]></title>
@@ -93,11 +100,11 @@
             <pubDate>Sat, 28 Aug 2021 20:27:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Government to ban single-use plastic cutlery]]></title>
-            <description><![CDATA[Plastic plates and polystyrene cups will also be banned in England in what ministers call a "war on plastic".]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-58360064?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-politics-58360064</guid>
-            <pubDate>Sat, 28 Aug 2021 07:56:30 GMT</pubDate>
+            <title><![CDATA[Afghanistan: British nationals killed in Kabul airport attack]]></title>
+            <description><![CDATA[Two British nationals and the child of another are among the victims of Thursday's attack, the government says.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-58360592?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58360592</guid>
+            <pubDate>Fri, 27 Aug 2021 17:00:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Afghanistan: Starmer calls for help for those left behind]]></title>
@@ -240,6 +247,20 @@
             <pubDate>Wed, 25 Aug 2021 16:39:49 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Dominic Raab defends his position as foreign secretary]]></title>
+            <description><![CDATA[Dominic Raab says criticisms of him by an anonymous government insider are "ridiculous".]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-58393241?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-politics-58393241</guid>
+            <pubDate>Tue, 31 Aug 2021 08:01:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Afghanistan: UK's next steps for Afghanistan after withdrawal]]></title>
+            <description><![CDATA[The UK says the international community has to take the next steps in its relationship with Afghanistan.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-58393242?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-politics-58393242</guid>
+            <pubDate>Tue, 31 Aug 2021 08:08:57 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Afghanistan: 'A mission unlike anything we've seen in our lifetimes']]></title>
             <description><![CDATA[The final UK troops, diplomats and officials have left Kabul, Downing Street has confirmed.]]></description>
             <link>https://www.bbc.co.uk/news/uk-58374759?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -259,20 +280,6 @@
             <link>https://www.bbc.co.uk/news/uk-58353647?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58353647</guid>
             <pubDate>Fri, 27 Aug 2021 07:29:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Raab: With hindsight I wouldn't have gone on holiday]]></title>
-            <description><![CDATA[The foreign secretary says he was focused on Afghanistan, despite being abroad when Kabul fell.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58327704?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58327704</guid>
-            <pubDate>Wed, 25 Aug 2021 07:28:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Afghanistan evacuation: 'We'll use every remaining hour and day' - Raab]]></title>
-            <description><![CDATA[UK Foreign Secretary Dominic Raab gives an update on the evacuations from Afghanistan.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58328004?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58328004</guid>
-            <pubDate>Wed, 25 Aug 2021 08:18:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Universal credit: When will the £20 increase stop?]]></title>
