@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 31 Aug 2021 05:03:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Aug 2021 05:19:34 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Troubles pensions scheme to open for applications]]></title>
+            <description><![CDATA[It offers payments to people injured during the Troubles but is more than a year behind schedule.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58388323?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58388323</guid>
+            <pubDate>Tue, 31 Aug 2021 05:07:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Covid-19: Northern Ireland's A&Es remain under 'extreme pressure']]></title>
             <description><![CDATA[People are urged to only attend emergency departments for serious urgent matters for the second day in a row.]]></description>
@@ -91,13 +98,6 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58382711?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58382711</guid>
             <pubDate>Mon, 30 Aug 2021 10:19:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Derry: Man released over masked men mural gunfire]]></title>
-            <description><![CDATA[The 30-year-old man was arrested under the Terrorism Act in Londonderry on Saturday evening.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58382092?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58382092</guid>
-            <pubDate>Mon, 30 Aug 2021 06:30:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: Surge in children's issues forecast post-pandemic]]></title>
@@ -205,11 +205,11 @@
             <pubDate>Fri, 27 Aug 2021 12:10:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Derry: Man arrested after shots fired at republican mural]]></title>
-            <description><![CDATA[The 30-year-old man was arrested under the Terrorism Act on Saturday evening.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58371328?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58371328</guid>
-            <pubDate>Sat, 28 Aug 2021 21:11:00 GMT</pubDate>
+            <title><![CDATA[Derry: Man released over masked men mural gunfire]]></title>
+            <description><![CDATA[The 30-year-old man was arrested under the Terrorism Act in Londonderry on Saturday evening.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58382092?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58382092</guid>
+            <pubDate>Mon, 30 Aug 2021 06:30:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sinn Féin needed shake up in Foyle, says McDonald]]></title>
