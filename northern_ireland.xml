@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 31 Aug 2021 18:46:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Aug 2021 18:58:40 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -254,6 +254,13 @@
             <pubDate>Thu, 26 Aug 2021 14:35:04 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Irish society 'can begin to hope again', says Micheál Martin]]></title>
+            <description><![CDATA[The Taoiseach (Irish prime minister) announces plan to end most Covid-19 restrictions by 22 October.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58402941?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58402941</guid>
+            <pubDate>Tue, 31 Aug 2021 18:20:35 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Irish population tops 5m for first time since 1851 census]]></title>
             <description><![CDATA[There were also 742,300 people living in the Republic Ireland aged 65 and over in April, figures show.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-58399880?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -280,20 +287,6 @@
             <link>https://www.bbc.co.uk/news/world-58342210?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-58342210</guid>
             <pubDate>Thu, 26 Aug 2021 13:43:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Afghanistan: Irish emergency mission helps 36 people out of country]]></title>
-            <description><![CDATA[The Irish government says it will continue its effort to help Irish citizens in crisis-hit Kabul.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58348628?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58348628</guid>
-            <pubDate>Thu, 26 Aug 2021 17:15:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Beacon Hospital: School 'did not solicit' Covid vaccines]]></title>
-            <description><![CDATA[The Beacon Hospital in Dublin had administered 20 Covid-19 vaccines to teachers at a private school.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58327568?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58327568</guid>
-            <pubDate>Wed, 25 Aug 2021 08:12:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
