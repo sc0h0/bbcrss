@@ -11,16 +11,23 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 31 Aug 2021 21:49:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Aug 2021 21:59:04 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Afghanistan: Joe Biden defends US pull-out as Taliban claim victory]]></title>
+            <description><![CDATA[Staying in Afghanistan was not an option, the US president says, as Taliban militants celebrate.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58403735?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58403735</guid>
+            <pubDate>Tue, 31 Aug 2021 21:12:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Afghanistan: UK and Taliban in talks over further evacuations]]></title>
             <description><![CDATA[A UK official is in Qatar for talks to secure the exit of both UK and Afghan nationals, No 10 says.]]></description>
             <link>https://www.bbc.co.uk/news/uk-58403050?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58403050</guid>
-            <pubDate>Tue, 31 Aug 2021 21:44:28 GMT</pubDate>
+            <pubDate>Tue, 31 Aug 2021 21:49:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Amid violent reprisals, Afghans fear the Taliban's 'amnesty' was empty]]></title>
@@ -37,13 +44,6 @@
             <pubDate>Tue, 31 Aug 2021 21:30:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Geronimo the alpaca killed as legal row ends]]></title>
-            <description><![CDATA[A destruction order is carried out on the alpaca that tested positive for bovine TB.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-bristol-58255378?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-bristol-58255378</guid>
-            <pubDate>Tue, 31 Aug 2021 15:28:14 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Fake Banksy NFT sold through artist's website for £244k]]></title>
             <description><![CDATA[Duped buyer says he feels "burned" after apparent hack of Banksy website.]]></description>
             <link>https://www.bbc.co.uk/news/technology-58399338?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -56,6 +56,13 @@
             <link>https://www.bbc.co.uk/news/uk-england-devon-58402488?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-devon-58402488</guid>
             <pubDate>Tue, 31 Aug 2021 19:26:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Geronimo the alpaca killed as legal row ends]]></title>
+            <description><![CDATA[A destruction order is carried out on the alpaca that tested positive for bovine TB.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-bristol-58255378?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-bristol-58255378</guid>
+            <pubDate>Tue, 31 Aug 2021 15:28:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Brent petrol murder: Man guilty of killing wife in arson attack]]></title>
