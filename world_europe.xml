@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 31 Aug 2021 05:18:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Aug 2021 05:30:02 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -51,18 +51,18 @@
             <pubDate>Mon, 30 Aug 2021 11:11:55 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Greta Thunberg: Scotland 'not a world leader on climate change']]></title>
+            <description><![CDATA[Swedish activist Greta Thunberg says she does not think Glasgow's COP26 summit will lead to "much results".]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-58387017?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-58387017</guid>
+            <pubDate>Tue, 31 Aug 2021 05:12:44 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Wife of murdered Greek ambassador jailed over his death in Brazil]]></title>
             <description><![CDATA[Françoise de Souza Oliveira was found guilty of planning the murder with her lover, who confessed.]]></description>
             <link>https://www.bbc.co.uk/news/world-latin-america-58374285?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-latin-america-58374285</guid>
             <pubDate>Sun, 29 Aug 2021 08:38:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Afghanistan: Interpreter's family granted refugee status in Ireland]]></title>
-            <description><![CDATA[Bilal, who worked with British troops in Helmand in 2012, says his emotions are "out of this world".]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58382925?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58382925</guid>
-            <pubDate>Mon, 30 Aug 2021 09:27:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Nigerian students amass degrees to stay in Europe]]></title>
@@ -107,6 +107,13 @@
             <pubDate>Wed, 25 Aug 2021 23:35:50 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Feminist Collages London: Tackling violence against women with slogan posters]]></title>
+            <description><![CDATA[A movement that started in Paris, has now spread into locations across the globe.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-58322865?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58322865</guid>
+            <pubDate>Mon, 30 Aug 2021 23:08:49 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Turkey lockdown: Pigeon-keeping in Istanbul on the rise]]></title>
             <description><![CDATA[The ancient art of pigeon fancying, popular across Asia, enjoyed resurgence during the pandemic.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-58344157?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -133,13 +140,6 @@
             <link>https://www.bbc.co.uk/news/world-europe-58320618?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58320618</guid>
             <pubDate>Tue, 24 Aug 2021 23:01:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Afghan para-athlete Nilofar Bayat welcomed by new team in Spain]]></title>
-            <description><![CDATA[Nilofar Bayat, Afghan wheelchair basketball women's captain, is in Bilbao after fleeing the Taliban.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58318043?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58318043</guid>
-            <pubDate>Tue, 24 Aug 2021 10:53:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
