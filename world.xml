@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 31 Aug 2021 11:07:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Aug 2021 11:35:19 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -142,6 +142,13 @@
             <pubDate>Sun, 29 Aug 2021 22:45:01 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Afghanistan: Taliban enter Kabul airport and celebrate by posing in aircraft]]></title>
+            <description><![CDATA[The group entered the Afghan capital's airport hours after the last US soldier left the country.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58393243?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58393243</guid>
+            <pubDate>Tue, 31 Aug 2021 11:28:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The last US soldier leaves Afghanistan]]></title>
             <description><![CDATA[Major General Chris Donahue was last aboard the final flight before the Taliban took Kabul airport.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-58390310?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -168,13 +175,6 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-58388980?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-58388980</guid>
             <pubDate>Tue, 31 Aug 2021 05:12:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hurricane Ida: Louisiana assesses damage after storm]]></title>
-            <description><![CDATA[A million people in Louisiana are still are without electricity after a devastating storm hit.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-58389521?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58389521</guid>
-            <pubDate>Mon, 30 Aug 2021 20:34:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Afghan left behind by UK: I'm fighting to stay alive]]></title>
