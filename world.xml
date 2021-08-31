@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 31 Aug 2021 22:30:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Aug 2021 23:10:35 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -58,6 +58,13 @@
             <pubDate>Tue, 31 Aug 2021 16:01:43 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Image of bird at US-Mexico border wall wins contest]]></title>
+            <description><![CDATA[The winning image by Mexican photographer Alejandro Prieto shows a roadrunner at the border wall.]]></description>
+            <link>https://www.bbc.co.uk/news/world-latin-america-58404382?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-latin-america-58404382</guid>
+            <pubDate>Tue, 31 Aug 2021 23:07:48 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[YouTube signs Twitch video-game streamer Dr Lupo]]></title>
             <description><![CDATA[Twitch says it wishes the American, 34, "nothing but the best in everything that comes next".]]></description>
             <link>https://www.bbc.co.uk/news/technology-58396812?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -65,11 +72,11 @@
             <pubDate>Tue, 31 Aug 2021 12:43:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[R. Kelly trial: First male accuser testifies to sexual abuse]]></title>
-            <description><![CDATA[An unnamed man says the star promised fame in exchange for sex, while a female witness alleges rape.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-58393119?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-58393119</guid>
-            <pubDate>Tue, 31 Aug 2021 08:50:30 GMT</pubDate>
+            <title><![CDATA[FBI hate crime reports spike to 12-year high in 2020]]></title>
+            <description><![CDATA[According to an FBI report, black and Asian Americans saw the biggest surges in targeted offences.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-58402839?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58402839</guid>
+            <pubDate>Tue, 31 Aug 2021 22:58:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Cyprus on alert as Syrian oil slick spreads across Mediterranean]]></title>
@@ -86,18 +93,11 @@
             <pubDate>Tue, 31 Aug 2021 14:54:36 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Nike is giving its head office staff a week's break]]></title>
-            <description><![CDATA[The sports shoe giant is giving US head office staff this week off after a "traumatic" year.]]></description>
-            <link>https://www.bbc.co.uk/news/business-58388796?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58388796</guid>
-            <pubDate>Mon, 30 Aug 2021 22:32:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Paralympics: Afghanistan athlete Hossain Rasouli makes debut after evacuation]]></title>
-            <description><![CDATA[Afghanistan evacuee Hossain Rasouli finally gets his chance to compete at the Tokyo Paralympics - and his opponents can't "help but feel joy".]]></description>
-            <link>https://www.bbc.co.uk/sport/disability-sport/58394964?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/disability-sport/58394964</guid>
-            <pubDate>Tue, 31 Aug 2021 10:55:15 GMT</pubDate>
+            <title><![CDATA[R. Kelly trial: First male accuser testifies to sexual abuse]]></title>
+            <description><![CDATA[An unnamed man says the star promised fame in exchange for sex, while a female witness alleges rape.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-58393119?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-58393119</guid>
+            <pubDate>Tue, 31 Aug 2021 08:50:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Theranos scandal: Who is Elizabeth Holmes and why is she on trial?]]></title>
@@ -149,13 +149,6 @@
             <pubDate>Tue, 31 Aug 2021 20:17:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Caldor Fire: Thousands flee as Lake Tahoe under threat]]></title>
-            <description><![CDATA[Traffic clogs evacuation routes as residents and tourists flee from the encroaching Caldor Fire.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-58402381?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58402381</guid>
-            <pubDate>Tue, 31 Aug 2021 18:06:45 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Afghanistan: Taliban enter Kabul airport and celebrate by posing in aircraft]]></title>
             <description><![CDATA[The group entered the Afghan capital's airport hours after the last US soldier left the country.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-58393243?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -163,18 +156,25 @@
             <pubDate>Tue, 31 Aug 2021 11:28:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Caldor Fire: Thousands flee as Lake Tahoe under threat]]></title>
+            <description><![CDATA[Traffic clogs evacuation routes as residents and tourists flee from the encroaching Caldor Fire.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-58402381?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58402381</guid>
+            <pubDate>Tue, 31 Aug 2021 18:06:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why was this athlete 'too tall' to race?]]></title>
+            <description><![CDATA[Blake Leeper fought to compete with able-bodied athletes, but his blades were deemed too long.]]></description>
+            <link>https://www.bbc.co.uk/news/disability-58398944?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/disability-58398944</guid>
+            <pubDate>Tue, 31 Aug 2021 23:08:29 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The last US soldier leaves Afghanistan]]></title>
             <description><![CDATA[Major General Chris Donahue was last aboard the final flight before the Taliban took Kabul airport.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-58390310?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58390310</guid>
             <pubDate>Tue, 31 Aug 2021 01:24:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[From Bush to Biden: One war, four US presidents on Afghanistan]]></title>
-            <description><![CDATA[Two decades of conflict in Afghanistan shaped the legacies of each of these commanders-in-chief.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-58352128?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58352128</guid>
-            <pubDate>Mon, 30 Aug 2021 22:03:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Female journalist who interviewed Taliban flees]]></title>
@@ -205,11 +205,11 @@
             <pubDate>Mon, 30 Aug 2021 18:27:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Afghanistan drone strike: 'Ten people died here.. including my daughter']]></title>
-            <description><![CDATA[A family comb through rubble for remains of relatives they say were killed by a US drone strike.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58389241?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58389241</guid>
-            <pubDate>Mon, 30 Aug 2021 19:54:27 GMT</pubDate>
+            <title><![CDATA[From Bush to Biden: One war, four US presidents on Afghanistan]]></title>
+            <description><![CDATA[Two decades of conflict in Afghanistan shaped the legacies of each of these commanders-in-chief.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-58352128?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58352128</guid>
+            <pubDate>Mon, 30 Aug 2021 22:03:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
