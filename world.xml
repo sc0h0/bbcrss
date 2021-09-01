@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 01 Sep 2021 10:02:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Sep 2021 10:11:13 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -163,6 +163,13 @@
             <pubDate>Tue, 31 Aug 2021 01:24:45 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Afghanistan: Taliban asked if there will be a place for women in new government]]></title>
+            <description><![CDATA[In a BBC Pashto interview, the leadership was questioned about how the group intend to govern the country.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58407424?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58407424</guid>
+            <pubDate>Wed, 01 Sep 2021 09:30:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Amid violent reprisals, Afghans fear the Taliban's 'amnesty' was empty]]></title>
             <description><![CDATA[Reports suggest the Taliban are searching for, and allegedly killing, people they pledged to leave in peace.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-58395954?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -189,13 +196,6 @@
             <link>https://www.bbc.co.uk/news/world-asia-58375243?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58375243</guid>
             <pubDate>Mon, 30 Aug 2021 18:27:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[From Bush to Biden: One war, four US presidents on Afghanistan]]></title>
-            <description><![CDATA[Two decades of conflict in Afghanistan shaped the legacies of each of these commanders-in-chief.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-58352128?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58352128</guid>
-            <pubDate>Mon, 30 Aug 2021 22:03:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
