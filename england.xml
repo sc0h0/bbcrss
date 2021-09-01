@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 01 Sep 2021 06:48:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Sep 2021 08:11:52 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -128,6 +128,13 @@
             <pubDate>Sun, 29 Aug 2021 06:30:14 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Tokyo Paralympics: Gordon Reid and Alfie Hewett reach semi-finals as GB win two more bronzes]]></title>
+            <description><![CDATA[Gordon Reid and Alfie Hewett reach the men's singles semi-finals at the Tokyo Paralympics while Great Britain win two more bronzes.]]></description>
+            <link>https://www.bbc.co.uk/sport/disability-sport/58405624?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/disability-sport/58405624</guid>
+            <pubDate>Wed, 01 Sep 2021 07:09:20 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Harry Kane: England captain has 'clear conscience' after Manchester City transfer saga]]></title>
             <description><![CDATA[England captain Harry Kane says he has a "clear conscience" after a potential move to Manchester City from Tottenham Hotspur failed to materialise.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58400262?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -154,13 +161,6 @@
             <link>https://www.bbc.co.uk/sport/football/58367537?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58367537</guid>
             <pubDate>Tue, 31 Aug 2021 10:17:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[County Championship: Josh Bohannon leads Lancashire response against Warwickshire]]></title>
-            <description><![CDATA[Josh Bohannon hits his sixth County Championship half-century of the summer as dogged Lancashire reply to Warwickshire's 371.]]></description>
-            <link>https://www.bbc.co.uk/sport/cricket/58396746?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/cricket/58396746</guid>
-            <pubDate>Tue, 31 Aug 2021 18:33:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
