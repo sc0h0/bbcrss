@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 01 Sep 2021 10:28:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Sep 2021 10:43:41 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -37,6 +37,13 @@
             <pubDate>Wed, 01 Sep 2021 09:01:21 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Logan Mwangi: Cause of death not yet known, inquest hears]]></title>
+            <description><![CDATA[Inquest opens into death of five-year-old Logan Mwangi's whose body was found in a river by police.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-58409382?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-58409382</guid>
+            <pubDate>Wed, 01 Sep 2021 10:34:32 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Hospitality: Plea to allow outdoor seating after Gwynedd Council ban]]></title>
             <description><![CDATA[Dining marquees are taking up parking spaces and the council says others have complained.]]></description>
             <link>https://www.bbc.co.uk/news/uk-wales-58402361?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -51,13 +58,6 @@
             <pubDate>Wed, 01 Sep 2021 10:22:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[COP26: Climate change summit is 'make or break' for the planet, says MP]]></title>
-            <description><![CDATA[An environmental campaigner turned MP says Wales needs to move faster in transport and energy.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-58398254?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-58398254</guid>
-            <pubDate>Wed, 01 Sep 2021 06:08:42 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Anglesey sea defence plans branded 'environmental vandalism']]></title>
             <description><![CDATA[Three councillors say works would cause "irreparable damage" to the beach at Penmon.]]></description>
             <link>https://www.bbc.co.uk/news/uk-wales-58406883?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -65,18 +65,18 @@
             <pubDate>Wed, 01 Sep 2021 09:52:45 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[COP26: Climate change summit is 'make or break' for the planet, says MP]]></title>
+            <description><![CDATA[An environmental campaigner turned MP says Wales needs to move faster in transport and energy.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-58398254?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-58398254</guid>
+            <pubDate>Wed, 01 Sep 2021 06:08:42 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Injury-hit Wales without host of players for Finland friendly in Helsinki]]></title>
             <description><![CDATA[Wales will be severely depleted for Wednesday's friendly in Finland after being hit by a spate of withdrawals.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58325438?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58325438</guid>
             <pubDate>Wed, 01 Sep 2021 05:27:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[UK minister rejects call to maintain benefit boost]]></title>
-            <description><![CDATA[The work and pensions secretary rejects a call from UK politicians to maintain a £20 universal credit top up.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-58400997?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-politics-58400997</guid>
-            <pubDate>Wed, 01 Sep 2021 07:39:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: Doctor blames misinformation for hospital admissions rise]]></title>
@@ -195,7 +195,7 @@
             <description><![CDATA[Cafodd yr heol a lein y rheilffordd eu cau wrth i'r cerbyd daro yn erbyn pont y rheilffordd.]]></description>
             <link>https://www.bbc.co.uk/newyddion/58409037?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/newyddion/58409037</guid>
-            <pubDate>Wed, 01 Sep 2021 09:43:09 GMT</pubDate>
+            <pubDate>Wed, 01 Sep 2021 10:31:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bardd y Mis: Pum munud gyda Kayley Sydenham]]></title>

@@ -11,23 +11,23 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 01 Sep 2021 10:27:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Sep 2021 10:37:49 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Colin Pitchfork: Double child murderer released from prison]]></title>
+            <description><![CDATA[Colin Pitchfork was jailed in 1988 for raping and murdering two 15-year-old girls in Leicestershire.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-leicestershire-58408210?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-leicestershire-58408210</guid>
+            <pubDate>Wed, 01 Sep 2021 10:37:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Westminster double murder: Lee Peacock appears at Old Bailey]]></title>
             <description><![CDATA[Sharon Pickles and Clinton Ashmore were both fatally stabbed in central London in August.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-london-58409001?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-london-58409001</guid>
             <pubDate>Wed, 01 Sep 2021 10:02:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Child abuse investigations: Met Police warned it could be putting children in danger]]></title>
-            <description><![CDATA[The force does not identify at-risk children quickly enough in its investigations, a report finds.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-london-58401320?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-london-58401320</guid>
-            <pubDate>Wed, 01 Sep 2021 05:13:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Syed Taalay Ahmed: Hartlepool journalist killed in Ghana armed robbery]]></title>
@@ -56,6 +56,13 @@
             <link>https://www.bbc.co.uk/news/uk-england-cambridgeshire-58401594?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-cambridgeshire-58401594</guid>
             <pubDate>Wed, 01 Sep 2021 09:37:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Child abuse investigations: Met Police warned it could be putting children in danger]]></title>
+            <description><![CDATA[The force does not identify at-risk children quickly enough in its investigations, a report finds.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-58401320?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-london-58401320</guid>
+            <pubDate>Wed, 01 Sep 2021 05:13:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Aya Hachem: Blackburn award to honour woman shot in drive-by]]></title>
@@ -140,13 +147,6 @@
             <link>https://www.bbc.co.uk/sport/tennis/58390546?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/58390546</guid>
             <pubDate>Wed, 01 Sep 2021 01:20:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Harry Kane: England captain has 'clear conscience' after Manchester City transfer saga]]></title>
-            <description><![CDATA[Harry Kane says he has a "clear conscience" after a potential move to Manchester City from Tottenham failed to materialise.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58400262?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58400262</guid>
-            <pubDate>Tue, 31 Aug 2021 19:35:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
