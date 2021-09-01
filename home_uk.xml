@@ -11,16 +11,23 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 01 Sep 2021 14:20:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Sep 2021 14:30:54 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Afghanistan: Number of people eligible to come to UK left behind unknown, says Dominic Raab]]></title>
+            <description><![CDATA[Dominic Raab believes the majority of eligible people have been evacuated to the UK - but cannot be precise.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-58411322?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-politics-58411322</guid>
+            <pubDate>Wed, 01 Sep 2021 14:25:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Scots to need vaccine passports for large events]]></title>
             <description><![CDATA[Nicola Sturgeon tells MSPs that vaccine passports will be introduced in Scotland later in September.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-58412832?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-58412832</guid>
-            <pubDate>Wed, 01 Sep 2021 14:08:09 GMT</pubDate>
+            <pubDate>Wed, 01 Sep 2021 14:27:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Colin Pitchfork: Double child murderer released from prison]]></title>
@@ -56,13 +63,6 @@
             <link>https://www.bbc.co.uk/news/uk-58402721?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58402721</guid>
             <pubDate>Wed, 01 Sep 2021 08:45:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[JoJo Maman Bebe hikes prices for first time in 5 years]]></title>
-            <description><![CDATA[The baby goods retailer tells the BBC that it has raised prices for the first time in five years.]]></description>
-            <link>https://www.bbc.co.uk/news/business-58407316?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58407316</guid>
-            <pubDate>Wed, 01 Sep 2021 09:13:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Texas passes law banning abortion after six weeks]]></title>
@@ -254,6 +254,20 @@
             <pubDate>Wed, 01 Sep 2021 12:57:54 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Afghanistan: How can the West stop terror bases?]]></title>
+            <description><![CDATA[The foreign secretary says the UK will fight ISIS-K by all means available - but what does that mean?]]></description>
+            <link>https://www.bbc.co.uk/news/uk-58395371?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58395371</guid>
+            <pubDate>Wed, 01 Sep 2021 12:26:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Afghanistan: Rescued animals 'in amazing condition' in UK]]></title>
+            <description><![CDATA[Most of the 150 animals rescued by "Pen" Farthing's charity are to be adopted by veterans.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-essex-58409613?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-essex-58409613</guid>
+            <pubDate>Wed, 01 Sep 2021 14:18:04 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Amid violent reprisals, Afghans fear the Taliban's 'amnesty' was empty]]></title>
             <description><![CDATA[Reports suggest the Taliban are searching for, and allegedly killing, people they pledged to leave in peace.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-58395954?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -280,13 +294,6 @@
             <link>https://www.bbc.co.uk/news/uk-58403047?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58403047</guid>
             <pubDate>Tue, 31 Aug 2021 21:30:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Afghanistan: How can the West stop terror bases?]]></title>
-            <description><![CDATA[The foreign secretary says the UK will fight ISIS-K by all means available - but what does that mean?]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58395371?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58395371</guid>
-            <pubDate>Wed, 01 Sep 2021 12:26:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What equipment was left behind by US forces?]]></title>
