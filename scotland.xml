@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 01 Sep 2021 22:21:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Sep 2021 22:33:30 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -233,13 +233,6 @@
             <pubDate>Wed, 25 Aug 2021 14:17:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Watch: Sportscene highlights of Denmark v Scotland]]></title>
-            <description><![CDATA[Derek McInnes and Callum Davidson join Steven Thompson for highlights of Scotland's World Cup qualifier in Denmark.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/football/58415998?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/av/football/58415998</guid>
-            <pubDate>Wed, 01 Sep 2021 21:26:09 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Tokyo Paralympics: Wheelchair racer Sammi Kinghorn wins bronze]]></title>
             <description><![CDATA[Scottish wheelchair racer Sami Kinghorn vowed "one day I will win gold" after earning her first Paralympic medal with bronze in the T53 100m.]]></description>
             <link>https://www.bbc.co.uk/sport/disability-sport/58407037?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -259,6 +252,20 @@
             <link>https://www.bbc.co.uk/sport/boxing/58410151?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/boxing/58410151</guid>
             <pubDate>Wed, 01 Sep 2021 14:03:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Servette Women 1-1 Glasgow City: Clare Shine goal maintains Champions League hopes]]></title>
+            <description><![CDATA[Glasgow City's hopes of reaching the Women's Champions League group stages are very much alive after a battling draw against Servette in Geneva.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58386315?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58386315</guid>
+            <pubDate>Wed, 01 Sep 2021 19:17:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo Paralympics: Gordon Reid and Alfie Hewett reach semi-finals]]></title>
+            <description><![CDATA[Defending champion Gordon Reid and Rio silver medallist Alfie Hewett both made it into to the men's singles semi-finals.]]></description>
+            <link>https://www.bbc.co.uk/sport/disability-sport/58405628?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/disability-sport/58405628</guid>
+            <pubDate>Wed, 01 Sep 2021 17:30:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
