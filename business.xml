@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 01 Sep 2021 16:18:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Sep 2021 17:41:28 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Portugal changes vaccine rules for UK visitors]]></title>
+            <description><![CDATA[UK visitors no longer need to quarantine for 14 days if they can't prove they are fully vaccinated.]]></description>
+            <link>https://www.bbc.co.uk/news/business-58415127?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58415127</guid>
+            <pubDate>Wed, 01 Sep 2021 17:36:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Wetherspoons runs low on beer amid driver shortage]]></title>
             <description><![CDATA[The pub chain and a Coca-Cola bottler are among firms affected by a shortage of UK lorry drivers.]]></description>
@@ -93,34 +100,6 @@
             <pubDate>Tue, 31 Aug 2021 20:06:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Ryanair predicts rapid rebound in airline travel]]></title>
-            <description><![CDATA[The budget carrier will launch 14 new routes from London airports this winter, creating 500 new jobs.]]></description>
-            <link>https://www.bbc.co.uk/news/business-58394898?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58394898</guid>
-            <pubDate>Tue, 31 Aug 2021 14:04:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mission: Impossible Covid shutdowns prompt lawsuit]]></title>
-            <description><![CDATA[Film maker Paramount alleges insurance payout for the latest Tom Cruise installment does not cover losses.]]></description>
-            <link>https://www.bbc.co.uk/news/business-58200891?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58200891</guid>
-            <pubDate>Tue, 31 Aug 2021 10:15:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[YouTube signs Twitch video-game streamer Dr Lupo]]></title>
-            <description><![CDATA[Twitch says it wishes the American, 34, "nothing but the best in everything that comes next".]]></description>
-            <link>https://www.bbc.co.uk/news/technology-58396812?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/technology-58396812</guid>
-            <pubDate>Tue, 31 Aug 2021 12:43:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo 2020: Toyota restarts driverless vehicles after accident]]></title>
-            <description><![CDATA[A visually impaired athlete from Japan's judo team was hit by one of the e-Palette pods on Thursday.]]></description>
-            <link>https://www.bbc.co.uk/news/business-58390290?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58390290</guid>
-            <pubDate>Tue, 31 Aug 2021 06:20:43 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[CEO Secrets: 'I was making money, but had no money']]></title>
             <description><![CDATA[Honey boss Scott Davies says cash flow problems meant though he was profitable he "had no money".]]></description>
             <link>https://www.bbc.co.uk/news/business-58319314?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -161,13 +140,6 @@
             <link>https://www.bbc.co.uk/news/business-58309026?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58309026</guid>
             <pubDate>Tue, 24 Aug 2021 23:08:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to keep your cool when the office heats up]]></title>
-            <description><![CDATA[Buildings that are too hot are bad for your health and productivity but simple measures can help.]]></description>
-            <link>https://www.bbc.co.uk/news/business-58055140?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58055140</guid>
-            <pubDate>Mon, 23 Aug 2021 23:01:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
