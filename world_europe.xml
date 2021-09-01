@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 01 Sep 2021 20:48:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Sep 2021 21:11:15 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -51,6 +51,13 @@
             <pubDate>Wed, 01 Sep 2021 18:46:29 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Ronaldo breaks men's international goal record ]]></title>
+            <description><![CDATA[Cristiano Ronaldo breaks the world record for goals scored in men's international football with two headers against the Republic of Ireland.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58412201?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58412201</guid>
+            <pubDate>Wed, 01 Sep 2021 20:51:04 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Marseille drugs: Child victims of French city's vicious gang war]]></title>
             <description><![CDATA[A 14-year-old is the latest victim of Marseille's gang war, prompting a key visit from President Macron.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-58395124?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -63,13 +70,6 @@
             <link>https://www.bbc.co.uk/sport/football/58404657?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58404657</guid>
             <pubDate>Wed, 01 Sep 2021 10:55:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cyprus on alert as Syrian oil slick spreads across Mediterranean]]></title>
-            <description><![CDATA[Modelling suggests fuel that leaked from a power plant last week will soon reach northern Cyprus.]]></description>
-            <link>https://www.bbc.co.uk/news/world-middle-east-58394430?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-middle-east-58394430</guid>
-            <pubDate>Tue, 31 Aug 2021 13:50:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sarah Rainsford: My last despatch before Russian expulsion]]></title>
