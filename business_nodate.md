@@ -1,4 +1,4 @@
-1. [Wetherspoon runs low on beer amid driver shortage](https://www.bbc.co.uk/news/business-58395401?at_medium=RSS&at_campaign=KARANGA) - The pub chain and a Coca-Cola bottler are among firms affected by a shortage of UK lorry drivers.
+1. [Wetherspoons runs low on beer amid driver shortage](https://www.bbc.co.uk/news/business-58395401?at_medium=RSS&at_campaign=KARANGA) - The pub chain and a Coca-Cola bottler are among firms affected by a shortage of UK lorry drivers.
 2. [Amazon to recruit 55,000 staff for expansion drive](https://www.bbc.co.uk/news/business-58383038?at_medium=RSS&at_campaign=KARANGA) - About 2,500 jobs will be created in the UK, with another 40,000 in the US.
 3. [New eco-petrol baffles a quarter of motorists](https://www.bbc.co.uk/news/business-58398606?at_medium=RSS&at_campaign=KARANGA) - E10 is set to become the new standard petrol, but 24% of drivers are unaware of it, says the RAC.
 4. [JoJo Maman Bebe hikes prices for first time in 5 years](https://www.bbc.co.uk/news/business-58407316?at_medium=RSS&at_campaign=KARANGA) - The baby goods retailer tells the BBC that it has raised prices for the first time in five years.
