@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 01 Sep 2021 08:53:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Sep 2021 09:09:32 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -65,6 +65,13 @@
             <pubDate>Tue, 31 Aug 2021 20:48:47 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Republic of Ireland: Stephen Kenny faces defining week as World Cup hopes hang by a thread]]></title>
+            <description><![CDATA[Republic of Ireland manager Stephen Kenny faces a crucial week with his side needing nine points from three games to keep their World Cup hopes alive.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58384911?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58384911</guid>
+            <pubDate>Tue, 31 Aug 2021 10:34:55 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Deputy First Minister Michelle O'Neill tests positive for Covid-19]]></title>
             <description><![CDATA[A meeting of the Stormont Executive on Wednesday to discuss restrictions has been postponed until next week.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58393886?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -93,13 +100,6 @@
             <pubDate>Tue, 31 Aug 2021 10:23:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[NI hospitals: 400 emergency patients wait over 12 hours for bed]]></title>
-            <description><![CDATA[A senior doctor says many of those waiting for beds are "our most vulnerable patients".]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58393877?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58393877</guid>
-            <pubDate>Tue, 31 Aug 2021 09:00:09 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Covid-19: Economy minister calls for plans to end restrictions]]></title>
             <description><![CDATA[Economy Minister Gordon Lyons says the NI Executive needs to "start moving on these issues".]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58397189?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -114,6 +114,13 @@
             <pubDate>Tue, 31 Aug 2021 16:19:58 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[NI hospitals: 400 emergency patients wait over 12 hours for bed]]></title>
+            <description><![CDATA[A senior doctor says many of those waiting for beds are "our most vulnerable patients".]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58393877?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58393877</guid>
+            <pubDate>Tue, 31 Aug 2021 09:00:09 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[New destinations added to Northern Ireland travel green list]]></title>
             <description><![CDATA[Seven more locations including Canada, Denmark and Switzerland are now on the green list.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58356522?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -121,39 +128,11 @@
             <pubDate>Sun, 29 Aug 2021 23:00:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid-19: Surge in children's issues forecast post-pandemic]]></title>
-            <description><![CDATA[There could be a "generation of invisible children" who missed out on healthcare, says a QUB report.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58363177?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58363177</guid>
-            <pubDate>Sat, 28 Aug 2021 05:23:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid-19: Another 43 virus-related deaths recorded by Nisra]]></title>
-            <description><![CDATA[The agency's total number of Covid-19 related deaths in Northern Ireland now stands at 3,129.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58356054?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58356054</guid>
-            <pubDate>Fri, 27 Aug 2021 09:14:15 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Covid-19: NI pupils in contact with coronavirus case can stay in class]]></title>
             <description><![CDATA[Staff who are fully vaccinated will also not have to self isolate if they are a close contact.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58342215?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58342215</guid>
             <pubDate>Thu, 26 Aug 2021 14:55:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid-19: Pandemic had severe impact on young people, says report]]></title>
-            <description><![CDATA[Insufficient consideration was given to the effect on children and young people, says a report.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58334583?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58334583</guid>
-            <pubDate>Thu, 26 Aug 2021 13:23:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[High Street voucher scheme to launch after 12 September]]></title>
-            <description><![CDATA[Every adult in Northern Ireland will be eligible for a £100 pre-paid card.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58329517?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58329517</guid>
-            <pubDate>Wed, 25 Aug 2021 11:54:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Troubles pensions scheme opens for applications]]></title>
