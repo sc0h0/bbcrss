@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 01 Sep 2021 15:45:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Sep 2021 15:56:08 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Children's Code: What is it and how will it work?]]></title>
+            <description><![CDATA[The ICO's Children's Code will make technology companies reassess how they offer services to children.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-58396004?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/technology-58396004</guid>
+            <pubDate>Wed, 01 Sep 2021 14:55:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Fake Banksy NFT sold through artist's website for £244k]]></title>
             <description><![CDATA[Duped buyer says he feels "burned" after apparent hack of Banksy website.]]></description>
@@ -84,13 +91,6 @@
             <link>https://www.bbc.co.uk/news/technology-58356200?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/technology-58356200</guid>
             <pubDate>Fri, 27 Aug 2021 10:24:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Apple chief executive Tim Cook gets $750m payout]]></title>
-            <description><![CDATA[The award of more than five million Apple shares comes as Mr Cook marks a decade as the firm's boss.]]></description>
-            <link>https://www.bbc.co.uk/news/business-58352098?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58352098</guid>
-            <pubDate>Fri, 27 Aug 2021 03:16:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Breast cancer: The AI tool trained to spot the disease]]></title>
