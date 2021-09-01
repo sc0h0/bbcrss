@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 01 Sep 2021 16:58:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Sep 2021 17:26:06 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -212,6 +212,13 @@
             <pubDate>Wed, 25 Aug 2021 14:17:55 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[SPFL: Neil Doncaster says vaccine passports will have 'significant consequences']]></title>
+            <description><![CDATA[The Scottish government's plans to introduce vaccine passports for events will have "significant unintended consequences" for clubs, says SPFL chief executive Neil Doncaster.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58414952?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58414952</guid>
+            <pubDate>Wed, 01 Sep 2021 17:15:18 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Tokyo Paralympics: Wheelchair racer Sammi Kinghorn wins bronze]]></title>
             <description><![CDATA[Scottish wheelchair racer Sami Kinghorn vowed "one day I will win gold" after earning her first Paralympic medal with bronze in the T53 100m.]]></description>
             <link>https://www.bbc.co.uk/sport/disability-sport/58407037?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -224,20 +231,6 @@
             <link>https://www.bbc.co.uk/sport/football/58410154?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58410154</guid>
             <pubDate>Wed, 01 Sep 2021 12:46:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Josh Taylor: Undisputed world champion to face Jack Catterall in Glasgow]]></title>
-            <description><![CDATA[Undisputed world champion Josh Taylor is relishing a Scottish homecoming fight in front of a full house after his "tainted" triumph over Jose Ramirez in Las Vegas.]]></description>
-            <link>https://www.bbc.co.uk/sport/boxing/58410151?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/boxing/58410151</guid>
-            <pubDate>Wed, 01 Sep 2021 14:03:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Paralympics: Gordon Reid and Alfie Hewett reach semi-finals]]></title>
-            <description><![CDATA[Defending champion Gordon Reid and Rio silver medallist Alfie Hewett both made it into to the men's singles semi-finals.]]></description>
-            <link>https://www.bbc.co.uk/sport/disability-sport/58405628?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/disability-sport/58405628</guid>
-            <pubDate>Wed, 01 Sep 2021 14:00:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
