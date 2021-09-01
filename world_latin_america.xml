@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 01 Sep 2021 08:38:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Sep 2021 08:52:53 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -107,6 +107,13 @@
             <pubDate>Thu, 12 Aug 2021 13:26:50 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Daniel Dias: History's greatest para-swimmer]]></title>
+            <description><![CDATA[Daniel Dias has won more than 25 medals for Brazil over the past four Paralympic Games but will be retiring after Tokyo.]]></description>
+            <link>https://www.bbc.co.uk/news/disability-58347474?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/disability-58347474</guid>
+            <pubDate>Thu, 26 Aug 2021 23:06:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Haiti earthquake: Rescue efforts continue in Les Cayes]]></title>
             <description><![CDATA[The death toll from the 7.2-magnitude quake is now over 2,000, with many still missing in towns like Les Cayes.]]></description>
             <link>https://www.bbc.co.uk/news/world-latin-america-58274326?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -140,13 +147,6 @@
             <link>https://www.bbc.co.uk/sport/av/olympics/58075391?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/av/olympics/58075391</guid>
             <pubDate>Tue, 03 Aug 2021 13:31:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid vaccines: Tourists head to the US to get vaccinated]]></title>
-            <description><![CDATA[Some tourists are spending thousands of dollars to travel to the US to get a coronavirus vaccine.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-58004253?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58004253</guid>
-            <pubDate>Wed, 28 Jul 2021 23:05:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
