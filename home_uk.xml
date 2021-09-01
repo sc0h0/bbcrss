@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 01 Sep 2021 08:12:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Sep 2021 08:33:27 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -37,13 +37,6 @@
             <pubDate>Wed, 01 Sep 2021 06:53:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Afghan refugees: Those who worked for UK can stay permanently]]></title>
-            <description><![CDATA[Evacuees who worked for the British military and UK government will be given indefinite leave to remain.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58402721?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58402721</guid>
-            <pubDate>Wed, 01 Sep 2021 07:14:10 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[New eco-petrol baffles a quarter of motorists]]></title>
             <description><![CDATA[E10 is set to become the new standard petrol, but 24% of drivers are unaware of it, says the RAC.]]></description>
             <link>https://www.bbc.co.uk/news/business-58398606?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -51,18 +44,18 @@
             <pubDate>Wed, 01 Sep 2021 08:02:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Afghan refugees: Those who worked for UK can stay permanently]]></title>
+            <description><![CDATA[Evacuees who worked for the British military and UK government will be given indefinite leave to remain.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-58402721?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58402721</guid>
+            <pubDate>Wed, 01 Sep 2021 07:14:10 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Climate change: Big increase in weather disasters over the past five decades]]></title>
             <description><![CDATA[Floods, storms and extreme events increase five-fold but the number of people dying in them fell.]]></description>
             <link>https://www.bbc.co.uk/news/science-environment-58396975?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/science-environment-58396975</guid>
             <pubDate>Wed, 01 Sep 2021 07:04:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Afghanistan: The questions facing Foreign Secretary Dominic Raab]]></title>
-            <description><![CDATA[The foreign secretary will be grilled by MPs on the UK's withdrawal from Afghanistan.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-58393309?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-politics-58393309</guid>
-            <pubDate>Tue, 31 Aug 2021 23:07:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Texas passes law banning abortion after six weeks]]></title>
@@ -170,6 +163,13 @@
             <pubDate>Tue, 31 Aug 2021 23:17:59 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Afghanistan: The questions facing Foreign Secretary Dominic Raab]]></title>
+            <description><![CDATA[The foreign secretary will be grilled by MPs on the UK's withdrawal from Afghanistan.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-58393309?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-politics-58393309</guid>
+            <pubDate>Tue, 31 Aug 2021 23:07:59 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[E10 petrol: What is it and can my car run it?]]></title>
             <description><![CDATA[A more eco-friendly petrol is coming to filling stations - but it's not suitable for all cars.]]></description>
             <link>https://www.bbc.co.uk/news/business-57585105?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -245,6 +245,13 @@
             <link>https://www.bbc.co.uk/sport/football/58391936?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58391936</guid>
             <pubDate>Tue, 31 Aug 2021 07:47:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Transfer Deadline Day: Daniel James' best Premier League goals for Manchester United]]></title>
+            <description><![CDATA[Watch some of Daniel James' best Premier League goals for Manchester United, as the Wales forward moves from Old Trafford to Leeds United.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/football/58396852?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/av/football/58396852</guid>
+            <pubDate>Tue, 31 Aug 2021 15:21:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Amid violent reprisals, Afghans fear the Taliban's 'amnesty' was empty]]></title>
