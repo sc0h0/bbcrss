@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 01 Sep 2021 16:31:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Sep 2021 17:01:31 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -30,6 +30,13 @@
             <pubDate>Wed, 01 Sep 2021 12:10:07 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[French police car crashes after officer fires Taser at driver]]></title>
+            <description><![CDATA[A lawyers says the officers were "having fun" when one fired her Taser and the driver lost control.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58407794?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58407794</guid>
+            <pubDate>Wed, 01 Sep 2021 16:22:30 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[International Space Station facing irreparable failures, Russia warns]]></title>
             <description><![CDATA[The majority of in-flight systems on the ISS have passed their expiry date, an official warns.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-58408911?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -44,13 +51,6 @@
             <pubDate>Tue, 31 Aug 2021 23:19:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Cyprus on alert as Syrian oil slick spreads across Mediterranean]]></title>
-            <description><![CDATA[Modelling suggests fuel that leaked from a power plant last week will soon reach northern Cyprus.]]></description>
-            <link>https://www.bbc.co.uk/news/world-middle-east-58394430?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-middle-east-58394430</guid>
-            <pubDate>Tue, 31 Aug 2021 13:50:31 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Barcelona sign Sevilla's Luuk de Jong as Antoine Griezmann rejoins Atletico Madrid]]></title>
             <description><![CDATA[Summer of upheaval ends at Barcelona as Antoine Griezmann rejoins La Liga champions Atletico Madrid and striker Luuk de Jong join from Sevilla.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58404657?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -58,11 +58,11 @@
             <pubDate>Wed, 01 Sep 2021 10:55:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Irish population tops 5m for first time since 1851 census]]></title>
-            <description><![CDATA[There were also 742,300 people living in the Republic Ireland aged 65 and over in April, figures show.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58399880?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58399880</guid>
-            <pubDate>Tue, 31 Aug 2021 15:56:44 GMT</pubDate>
+            <title><![CDATA[Cyprus on alert as Syrian oil slick spreads across Mediterranean]]></title>
+            <description><![CDATA[Modelling suggests fuel that leaked from a power plant last week will soon reach northern Cyprus.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-58394430?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-middle-east-58394430</guid>
+            <pubDate>Tue, 31 Aug 2021 13:50:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sarah Rainsford: My last despatch before Russian expulsion]]></title>
