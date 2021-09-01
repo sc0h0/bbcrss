@@ -25,4 +25,4 @@
 25. [Dyn o Wrecsam methu dod adref oherwydd diffyg gofalwyr](https://www.bbc.co.uk/newyddion/58403060?at_medium=RSS&at_campaign=KARANGA) - Mae prinder difrifol o staff gofal cartref ar hyn o bryd, sy'n cael effaith ar draws Cymru, meddai'r cyngor.
 26. [Profi peiriannau oson ysgolion wedi pryderon diogelwch](https://www.bbc.co.uk/newyddion/58411191?at_medium=RSS&at_campaign=KARANGA) - Peiriannau sydd wedi eu dylunio i ddiheintio ystafelloedd dosbarth i gael eu profi ymhellach cyn i weinidogion eu prynu.
 27. [300fed gêm i un o Ryfelwyr Llanelli](https://www.bbc.co.uk/newyddion/58396862?at_medium=RSS&at_campaign=KARANGA) - Mae Gwilym Lewis newydd chwarae ei 300fed gêm i Ryfelwyr Llanelli wrth iddynt ddathlu 25 mlynedd
-28. [Morgannwg yn colli ar fore'r trydydd diwrnod](https://www.bbc.co.uk/newyddion/58410403?at_medium=RSS&at_campaign=KARANGA) - Cricedwyr Morgannwg yn cael eu chwalu gan Essex ym Mhencampwriaeth y Siroedd.
+28. [Chwarae da ond dim goliau i Gymru yn erbyn Y Ffindir](https://www.bbc.co.uk/newyddion/58415167?at_medium=RSS&at_campaign=KARANGA) - Methodd Harry Wilson gic o'r smotyn wrth i Gymru baratoi ar gyfer gemau nesaf ymgyrch Cwpan y Byd 2022.
