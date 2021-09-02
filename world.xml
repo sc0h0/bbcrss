@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 02 Sep 2021 10:40:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Sep 2021 10:45:38 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -170,6 +170,13 @@
             <pubDate>Wed, 01 Sep 2021 23:01:08 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Halo Trust resumes Afghanistan explosive clearance work]]></title>
+            <description><![CDATA[The Halo Trust, which has its HQ in Scotland, resumes its clearance operations under Taliban rule.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-south-scotland-58421031?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-south-scotland-58421031</guid>
+            <pubDate>Thu, 02 Sep 2021 10:16:13 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Afghanistan: British passport delay blamed for baby stranded in Kabul]]></title>
             <description><![CDATA["We want to hug her, kiss her", say her parents, who had to return to the UK to replace travel documents.]]></description>
             <link>https://www.bbc.co.uk/news/uk-58410574?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -189,13 +196,6 @@
             <link>https://www.bbc.co.uk/news/58412530?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/58412530</guid>
             <pubDate>Wed, 01 Sep 2021 18:07:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Afghanistan: Rescued animals 'in amazing condition' in UK]]></title>
-            <description><![CDATA[Most of the 150 animals rescued by "Pen" Farthing's charity are to be adopted by veterans.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-essex-58409613?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-essex-58409613</guid>
-            <pubDate>Wed, 01 Sep 2021 14:18:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
