@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 02 Sep 2021 08:02:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Sep 2021 08:24:00 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -135,6 +135,13 @@
             <pubDate>Wed, 01 Sep 2021 17:58:40 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Spain hit with severe flooding after storm]]></title>
+            <description><![CDATA[Homes in north and central Spain are left isolated and without electricity as roads are forced to close.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58417789?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58417789</guid>
+            <pubDate>Thu, 02 Sep 2021 03:40:52 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Paralympics: How hand-cycling saved my life]]></title>
             <description><![CDATA[In preparation for the Paralympics, South Korean hand-cycling champion, Doyeon Lee has been riding more than 300km every week.]]></description>
             <link>https://www.bbc.co.uk/news/disability-58411394?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -161,13 +168,6 @@
             <link>https://www.bbc.co.uk/news/world-us-canada-58403601?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58403601</guid>
             <pubDate>Tue, 31 Aug 2021 20:17:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Afghanistan: 'Struggle to survive or race to escape' on streets of Kabul]]></title>
-            <description><![CDATA[The BBC's Lyse Doucet reports from the Afghan capital, a day after the last US troops left.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58393245?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58393245</guid>
-            <pubDate>Tue, 31 Aug 2021 13:49:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Afghanistan: Joe Biden speech on withdrawal fact-checked]]></title>
