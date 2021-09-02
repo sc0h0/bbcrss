@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 02 Sep 2021 14:44:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Sep 2021 15:10:53 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -23,18 +23,18 @@
             <pubDate>Thu, 02 Sep 2021 11:13:10 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Review bid after right-wing extremist 'told to read classic books']]></title>
+            <description><![CDATA[As part of his sentence, Ben John is reportedly told to read classics such as Pride and Prejudice.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-leicestershire-58425648?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-leicestershire-58425648</guid>
+            <pubDate>Thu, 02 Sep 2021 14:57:28 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Dying Gateshead woman's letters urge family to probe cancer delay]]></title>
             <description><![CDATA[Sheila Brown died after her cancer spread having written "things like this should not happen".]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-tyne-58408890?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-tyne-58408890</guid>
             <pubDate>Thu, 02 Sep 2021 14:20:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Milton Keynes lake rescue: Mum tracks down pair who saved son]]></title>
-            <description><![CDATA[Her seven-year-old fell into a lake and was rescued by strangers who she says "saved his life".]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-58320026?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-58320026</guid>
-            <pubDate>Thu, 02 Sep 2021 06:25:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Driffield mural divides opinion over lack of diversity]]></title>
@@ -51,11 +51,11 @@
             <pubDate>Thu, 02 Sep 2021 12:34:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[RSPCA rescue kitten found in car engine after trip from Wales to Leeds]]></title>
-            <description><![CDATA[Tom the six-week-old kitten is lucky not to have been badly injured says the RSPCA.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-leeds-58422786?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-leeds-58422786</guid>
-            <pubDate>Thu, 02 Sep 2021 12:05:43 GMT</pubDate>
+            <title><![CDATA[Milton Keynes lake rescue: Mum tracks down pair who saved son]]></title>
+            <description><![CDATA[Her seven-year-old fell into a lake and was rescued by strangers who she says "saved his life".]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-58320026?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-58320026</guid>
+            <pubDate>Thu, 02 Sep 2021 06:25:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Amputee gets blue badge after 'leg will not re-grow' letter]]></title>
@@ -79,11 +79,11 @@
             <pubDate>Thu, 02 Sep 2021 09:23:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Isle of Wight sea eagles: 12 more birds of prey released]]></title>
-            <description><![CDATA[The 12 young white-tailed eagles are the latest to be released as part of an on-going project.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-hampshire-58419639?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-hampshire-58419639</guid>
-            <pubDate>Thu, 02 Sep 2021 11:35:18 GMT</pubDate>
+            <title><![CDATA[RSPCA rescue kitten found in car engine after trip from Wales to Leeds]]></title>
+            <description><![CDATA[Tom the six-week-old kitten is lucky not to have been badly injured says the RSPCA.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-leeds-58422786?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-leeds-58422786</guid>
+            <pubDate>Thu, 02 Sep 2021 12:05:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Pocklington rugby player's feet too big for his boots]]></title>
@@ -91,6 +91,20 @@
             <link>https://www.bbc.co.uk/news/uk-england-humber-58410166?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-humber-58410166</guid>
             <pubDate>Thu, 02 Sep 2021 11:28:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Isle of Wight sea eagles: 12 more birds of prey released]]></title>
+            <description><![CDATA[The 12 young white-tailed eagles are the latest to be released as part of an on-going project.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-hampshire-58419639?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-hampshire-58419639</guid>
+            <pubDate>Thu, 02 Sep 2021 11:35:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cristiano Ronaldo superfan relishes Manchester United return]]></title>
+            <description><![CDATA[Dominic Urbani is so obsessed with Cristiano Ronaldo that he studied for a degree in Portuguese.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-manchester-58424043?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-manchester-58424043</guid>
+            <pubDate>Thu, 02 Sep 2021 14:25:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['Wheelyboat gives me freedom out on the water']]></title>
@@ -119,13 +133,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-nottinghamshire-58400193?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-nottinghamshire-58400193</guid>
             <pubDate>Wed, 01 Sep 2021 05:17:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Childcare costs: London parents call for review]]></title>
-            <description><![CDATA[Childcare costs are 30% higher in inner London than the national average, a study found.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-london-58401337?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-london-58401337</guid>
-            <pubDate>Tue, 31 Aug 2021 23:01:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tameside tram crash: Cyclist, 10, suffers serious head injuries]]></title>
