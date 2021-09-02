@@ -1,4 +1,4 @@
-1. [WhatsApp fined €225m for privacy breaches](https://www.bbc.co.uk/news/technology-58422465?at_medium=RSS&at_campaign=KARANGA) - The Irish data watchdog has handed WhatsApp the second-highest ever GDPR fine.
+1. [WhatsApp issued second-largest GDPR fine of €225m](https://www.bbc.co.uk/news/technology-58422465?at_medium=RSS&at_campaign=KARANGA) - The Irish data watchdog has handed WhatsApp the second-highest ever GDPR fine.
 2. [Afghanistan: Facebook says it helped people flee, including staff](https://www.bbc.co.uk/news/business-58417231?at_medium=RSS&at_campaign=KARANGA) - The flight arrived in Mexico City on Wednesday, with 175 Afghan citizens on board, including 75 children.
 3. [Twitter tests safety mode feature to silence abuse](https://www.bbc.co.uk/news/technology-58408781?at_medium=RSS&at_campaign=KARANGA) - Once enabled in settings, the new feature will automatically sniff out abusive tweets.
 4. [Investigation into hacked "map" of UK gun owners](https://www.bbc.co.uk/news/technology-58413847?at_medium=RSS&at_campaign=KARANGA) - Animal rights activists have published a "map" of thousands of gun owners and their addresses.
