@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 02 Sep 2021 06:23:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Sep 2021 06:36:42 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -21,6 +21,13 @@
             <link>https://www.bbc.co.uk/news/uk-england-northamptonshire-58416135?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-northamptonshire-58416135</guid>
             <pubDate>Wed, 01 Sep 2021 20:10:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Warning over cuts to NHS services without £10bn extra funding]]></title>
+            <description><![CDATA[Without the extra funding for England patients could be put at risk, NHS organisations warn.]]></description>
+            <link>https://www.bbc.co.uk/news/health-58417076?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/health-58417076</guid>
+            <pubDate>Thu, 02 Sep 2021 06:12:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Declan Donnelly: Men admit plot to steal presenter's car]]></title>
@@ -56,13 +63,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-sussex-58412812?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-sussex-58412812</guid>
             <pubDate>Wed, 01 Sep 2021 17:27:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Andover A303 crash: Recovery driver 'died helping motorist']]></title>
-            <description><![CDATA[Tom Watson, 30, died along with two women in the four-vehicle crash near Andover last week.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-hampshire-58409754?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-hampshire-58409754</guid>
-            <pubDate>Wed, 01 Sep 2021 14:57:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Male suicide: Mike McCarthy sets up support group after son's death]]></title>
@@ -157,7 +157,7 @@
         </item>
         <item>
             <title><![CDATA[Ballance ton gives Yorkshire victory chance at Hampshire]]></title>
-            <description><![CDATA[Gary Ballance's century gives Yorkshire a chance of a final-day County Championship victory against Hampshire at The Ageas Bowl.]]></description>
+            <description><![CDATA[Gary Ballance's century gives Yorkshire hope of a final-day County Championship win against Hampshire at The Ageas Bowl.]]></description>
             <link>https://www.bbc.co.uk/sport/cricket/58401318?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/cricket/58401318</guid>
             <pubDate>Wed, 01 Sep 2021 17:53:28 GMT</pubDate>

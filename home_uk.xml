@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 02 Sep 2021 06:27:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Sep 2021 06:45:04 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -254,13 +254,6 @@
             <pubDate>Wed, 01 Sep 2021 23:15:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Scotland beaten comfortably by vibrant Denmark in World Cup qualifier]]></title>
-            <description><![CDATA[Scotland's World Cup hopes were dealt a serious blow as they were taken apart by a vibrant Denmark side in Copenhagen to slip seven points behind the Group F leaders.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58325431?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58325431</guid>
-            <pubDate>Wed, 01 Sep 2021 20:40:45 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[England mull pace options for fourth Test against India]]></title>
             <description><![CDATA[England are mulling over their pace options for the crucial fourth Test against India at the Oval, beginning on Thursday.]]></description>
             <link>https://www.bbc.co.uk/sport/cricket/58376390?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -275,6 +268,13 @@
             <pubDate>Thu, 02 Sep 2021 02:28:44 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Scotland beaten comfortably by vibrant Denmark in World Cup qualifier]]></title>
+            <description><![CDATA[Scotland's World Cup hopes were dealt a serious blow as they were taken apart by a vibrant Denmark side in Copenhagen to slip seven points behind the Group F leaders.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58325431?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58325431</guid>
+            <pubDate>Wed, 01 Sep 2021 20:40:45 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Sarah Storey 'has carried on being the best she can' - Tanni Grey-Thompson]]></title>
             <description><![CDATA[In her latest BBC Sport column, Tanni Grey-Thompson remembers meeting a 14-year-old Sarah Storey for the first time at the 1992 Paralympics.]]></description>
             <link>https://www.bbc.co.uk/sport/disability-sport/58406025?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -287,13 +287,6 @@
             <link>https://www.bbc.co.uk/sport/tennis/58414957?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/58414957</guid>
             <pubDate>Wed, 01 Sep 2021 20:30:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[England v New Zealand T20: Brilliant Tammy Beaumont hits 97 in England win]]></title>
-            <description><![CDATA[Watch the best moments from Tammy Beaumont's brilliant 97 as England beat New Zealand by 46 runs.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/cricket/58416610?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/av/cricket/58416610</guid>
-            <pubDate>Wed, 01 Sep 2021 21:20:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Afghanistan women's cricket team: Players hiding in Kabul fear Taliban rule]]></title>
