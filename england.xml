@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 02 Sep 2021 11:48:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Sep 2021 12:23:17 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -44,11 +44,18 @@
             <pubDate>Thu, 02 Sep 2021 10:18:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Bournemouth Air Festival expected to attract one million visitors]]></title>
-            <description><![CDATA[The four-day Bournemouth Air Festival is held on 1.5 miles of beach and clifftop in the seaside town.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-dorset-58406713?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-dorset-58406713</guid>
-            <pubDate>Thu, 02 Sep 2021 08:27:46 GMT</pubDate>
+            <title><![CDATA[M25: Fourth person dies after lorry, minibus and car crash]]></title>
+            <description><![CDATA[Lisa Gardiner and three other minibus passengers were killed in a crash with a lorry and car.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-essex-58422899?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-essex-58422899</guid>
+            <pubDate>Thu, 02 Sep 2021 11:28:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[RSPCA rescue kitten found in car engine after trip from Wales to Leeds]]></title>
+            <description><![CDATA[Tom the six-week-old kitten is lucky not to have been badly injured says the RSPCA.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-leeds-58422786?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-leeds-58422786</guid>
+            <pubDate>Thu, 02 Sep 2021 12:05:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Murder arrest after father dies on Birmingham night out]]></title>
@@ -58,13 +65,6 @@
             <pubDate>Thu, 02 Sep 2021 09:23:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Plymouth shooting: Tributes to victims to be moved]]></title>
-            <description><![CDATA[Messages and flowers left for five people killed in a mass shooting will be moved to preserve them.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-devon-58411139?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-devon-58411139</guid>
-            <pubDate>Thu, 02 Sep 2021 08:56:07 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Tameside tram crash: Cyclist, 10, suffers serious head injuries]]></title>
             <description><![CDATA[The boy was taken to hospital by air ambulance with "life-threatening injuries", police say.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-manchester-58402900?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -72,18 +72,32 @@
             <pubDate>Thu, 02 Sep 2021 07:23:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Maddie Durdant-Hollamby: Woman found in house was stabbed to death]]></title>
-            <description><![CDATA[Maddie Durdant-Hollamby was stabbed while Benjamin Green's injuries were self-inflicted, police say.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-northamptonshire-58416135?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-northamptonshire-58416135</guid>
-            <pubDate>Wed, 01 Sep 2021 20:10:09 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Frome Town FC's win-a-car draw halted after thousands of free entries]]></title>
             <description><![CDATA[Frome Town FC say one man entered its charity draw for free 2,001 times, with the club losing money.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-somerset-58413707?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-somerset-58413707</guid>
             <pubDate>Thu, 02 Sep 2021 08:42:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Isle of Wight sea eagles: 12 more birds of prey released]]></title>
+            <description><![CDATA[The 12 young white-tailed eagles are the latest to be released as part of an on-going project.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-hampshire-58419639?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-hampshire-58419639</guid>
+            <pubDate>Thu, 02 Sep 2021 11:35:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pocklington rugby player's feet too big for his boots]]></title>
+            <description><![CDATA[Two-metre tall Oliver, 17, is unable to find a replacement pair after outgrowing his size 15 studs.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-humber-58410166?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-humber-58410166</guid>
+            <pubDate>Thu, 02 Sep 2021 11:28:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Wheelyboat gives me freedom out on the water']]></title>
+            <description><![CDATA[A specially designed boat with wheelchair access is allowing disabled anglers to go fishing.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-northamptonshire-58423442?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-northamptonshire-58423442</guid>
+            <pubDate>Thu, 02 Sep 2021 11:50:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid shielder gets private opera performance in back garden]]></title>
@@ -114,11 +128,18 @@
             <pubDate>Tue, 31 Aug 2021 23:01:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Football fan credits daughter with changing his racist beliefs]]></title>
-            <description><![CDATA[Football fan Neil says he changed his attitude with the help of his daughter, Millie.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58330286?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58330286</guid>
-            <pubDate>Tue, 31 Aug 2021 23:00:18 GMT</pubDate>
+            <title><![CDATA[Premier League clubs could be banned from picking players not released for internationals]]></title>
+            <description><![CDATA[Premier League clubs could be stopped from picking players for their next game after refusing to release them for World Cup qualifiers.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58418702?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58418702</guid>
+            <pubDate>Thu, 02 Sep 2021 12:07:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[WSL 2021-22: How can you follow coverage on the BBC?]]></title>
+            <description><![CDATA[The BBC will broadcast the first-ever domestic women's game on network television this season.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58421339?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58421339</guid>
+            <pubDate>Thu, 02 Sep 2021 12:19:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Gareth Southgate says England must look at themselves before judging other countries' behaviour]]></title>
@@ -126,13 +147,6 @@
             <link>https://www.bbc.co.uk/sport/football/58418699?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58418699</guid>
             <pubDate>Thu, 02 Sep 2021 07:10:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sarah Storey wins 17th gold to become Britain's most successful Paralympian]]></title>
-            <description><![CDATA[Sarah Storey wins her 17th Paralympic gold to become Great Britain's most successful Paralympian of all time.]]></description>
-            <link>https://www.bbc.co.uk/sport/disability-sport/58417160?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/disability-sport/58417160</guid>
-            <pubDate>Thu, 02 Sep 2021 08:54:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
