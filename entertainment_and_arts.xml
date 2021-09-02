@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 02 Sep 2021 06:59:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Sep 2021 07:18:19 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -114,6 +114,20 @@
             <pubDate>Thu, 26 Aug 2021 23:12:10 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Piers Morgan speaks after Ofcom clears ITV over Meghan comments]]></title>
+            <description><![CDATA[Piers Morgan has spoken out after Ofcom cleared ITV over his criticism of Meghan Markle on Good Morning Britain.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-58415588?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-58415588</guid>
+            <pubDate>Wed, 01 Sep 2021 19:37:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid shielder gets private opera performance in back garden]]></title>
+            <description><![CDATA[Ceinwen Giles is shielding from Covid due to her cancer treatment, so an opera was brought to her garden.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-58414445?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-london-58414445</guid>
+            <pubDate>Thu, 02 Sep 2021 06:10:02 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Dave Grohl performs with Nandi Bushell, 11, at Foo Fighters gig]]></title>
             <description><![CDATA[Nandi Bushell joins the American rock band on stage in Los Angeles.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-suffolk-58398324?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -140,20 +154,6 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-58319635?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-58319635</guid>
             <pubDate>Tue, 24 Aug 2021 12:57:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Strictly: Why are South African dancers so popular?]]></title>
-            <description><![CDATA[As Strictly prepares to return to our screens next month another South African dancer has joined the professionals.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-58363064?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-58363064</guid>
-            <pubDate>Sat, 28 Aug 2021 07:30:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The UK's first all-black, all-female theatre company is shaking up Shakespeare]]></title>
-            <description><![CDATA[Mawa Theatre Company is a UK first and aims to make Shakespeare's work more accessible.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-58285815?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-58285815</guid>
-            <pubDate>Fri, 27 Aug 2021 16:07:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
