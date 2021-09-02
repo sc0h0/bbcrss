@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 02 Sep 2021 07:27:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Sep 2021 07:38:33 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -49,6 +49,13 @@
             <link>https://www.bbc.co.uk/news/health-58410354?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/health-58410354</guid>
             <pubDate>Thu, 02 Sep 2021 03:19:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Driver shortage: 'I got a big pay rise overnight']]></title>
+            <description><![CDATA[As the UK's shortage of lorry drivers continues, those with the right skills are very much in demand.]]></description>
+            <link>https://www.bbc.co.uk/news/business-58394903?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58394903</guid>
+            <pubDate>Wed, 01 Sep 2021 23:14:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Warning over cuts to NHS services without £10bn extra funding]]></title>
@@ -91,13 +98,6 @@
             <link>https://www.bbc.co.uk/news/uk-58417074?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58417074</guid>
             <pubDate>Thu, 02 Sep 2021 05:20:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[School funding warning as pupils return to class in England]]></title>
-            <description><![CDATA[As pupils return to class in England, there's a warning of a funding dip ahead.]]></description>
-            <link>https://www.bbc.co.uk/news/education-58407953?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/education-58407953</guid>
-            <pubDate>Thu, 02 Sep 2021 02:55:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[US podcast host Joe Rogan says he has Covid  ]]></title>
@@ -191,13 +191,6 @@
             <pubDate>Thu, 02 Sep 2021 05:13:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Driver shortage: 'I got a big pay rise overnight']]></title>
-            <description><![CDATA[As the UK's shortage of lorry drivers continues, those with the right skills are very much in demand.]]></description>
-            <link>https://www.bbc.co.uk/news/business-58394903?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58394903</guid>
-            <pubDate>Wed, 01 Sep 2021 23:14:27 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Canada federal election: How much trouble is Trudeau in?]]></title>
             <description><![CDATA[Canada's leader called a snap election, but midway through the campaign his party is struggling.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-58389802?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -212,6 +205,13 @@
             <pubDate>Wed, 01 Sep 2021 23:40:36 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Children's Code: What is it and how will it work?]]></title>
+            <description><![CDATA[The ICO's Children's Code will make technology companies reassess how they offer services to children.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-58396004?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/technology-58396004</guid>
+            <pubDate>Wed, 01 Sep 2021 14:55:13 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Texas abortion law: What women make of six-week abortion ban]]></title>
             <description><![CDATA[Anti-abortion activists celebrate but a doctor who could be targeted by new law fears for the future.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-58416037?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -224,13 +224,6 @@
             <link>https://www.bbc.co.uk/news/entertainment-arts-58228429?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-58228429</guid>
             <pubDate>Thu, 02 Sep 2021 02:23:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Children's Code: What is it and how will it work?]]></title>
-            <description><![CDATA[The ICO's Children's Code will make technology companies reassess how they offer services to children.]]></description>
-            <link>https://www.bbc.co.uk/news/technology-58396004?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/technology-58396004</guid>
-            <pubDate>Wed, 01 Sep 2021 14:55:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Beaten and humiliated by Hindu mobs for being a Muslim in India]]></title>

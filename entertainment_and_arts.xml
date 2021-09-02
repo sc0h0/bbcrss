@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 02 Sep 2021 07:22:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Sep 2021 07:41:09 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -72,13 +72,6 @@
             <pubDate>Wed, 01 Sep 2021 09:08:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Daniel Mays: Anthony Hopkins 'way off the mark' about drama schools]]></title>
-            <description><![CDATA[Actor Daniel Mays says he "wholeheartedly" disagrees with Anthony Hopkins’ views on drama schools.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-58414816?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-58414816</guid>
-            <pubDate>Wed, 01 Sep 2021 16:00:06 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Birmingham Hippodrome full audiences 'like coming home']]></title>
             <description><![CDATA[Nick Hayes says there is a "huge sense of gratitude" among the cast, who are "so happy" to be back.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-birmingham-58408168?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -121,6 +114,13 @@
             <pubDate>Wed, 01 Sep 2021 19:37:17 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Daniel Mays: Anthony Hopkins 'way off the mark' about drama schools]]></title>
+            <description><![CDATA[Actor Daniel Mays says he "wholeheartedly" disagrees with Anthony Hopkins’ views on drama schools.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-58414816?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-58414816</guid>
+            <pubDate>Wed, 01 Sep 2021 16:00:06 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Covid shielder gets private opera performance in back garden]]></title>
             <description><![CDATA[Ceinwen Giles is shielding from Covid due to her cancer treatment, so an opera was brought to her garden.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-london-58414445?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -147,13 +147,6 @@
             <link>https://www.bbc.co.uk/news/world-asia-58355795?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58355795</guid>
             <pubDate>Sat, 28 Aug 2021 23:13:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Billy Connolly: Challenges of Parkinson's getting worse]]></title>
-            <description><![CDATA[The 78-year old has retired from live performances and says that making TV programmes is getting more difficult.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-58319635?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-58319635</guid>
-            <pubDate>Tue, 24 Aug 2021 12:57:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
