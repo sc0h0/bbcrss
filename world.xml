@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 02 Sep 2021 08:28:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Sep 2021 09:04:51 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -100,6 +100,13 @@
             <pubDate>Thu, 02 Sep 2021 00:04:25 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Afghanistan: Qatar and Turkey become Taliban's lifeline to the outside world]]></title>
+            <description><![CDATA[Qatar and Turkey emerge as key channels between Afghanistan's new rulers and the outside world.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-58394438?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-middle-east-58394438</guid>
+            <pubDate>Thu, 02 Sep 2021 08:56:48 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Inger Stoejberg: Danish ex-immigration minister faces impeachment trial]]></title>
             <description><![CDATA[Inger Stoejberg is accused of unlawfully ordering the separation of young asylum-seeking couples.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-58408471?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -126,13 +133,6 @@
             <link>https://www.bbc.co.uk/news/stories-58388333?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/stories-58388333</guid>
             <pubDate>Thu, 02 Sep 2021 00:00:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Canada federal election: How much trouble is Trudeau in?]]></title>
-            <description><![CDATA[Canada's leader called a snap election, but midway through the campaign his party is struggling.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-58389802?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58389802</guid>
-            <pubDate>Wed, 01 Sep 2021 17:58:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[New York City declares state of emergency after record rainfall]]></title>
@@ -170,13 +170,6 @@
             <pubDate>Wed, 01 Sep 2021 13:22:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Afghanistan: Joe Biden speech on withdrawal fact-checked]]></title>
-            <description><![CDATA[How consistent is President Biden in his comments on Afghanistan following the final US troop withdrawal?]]></description>
-            <link>https://www.bbc.co.uk/news/58412530?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/58412530</guid>
-            <pubDate>Wed, 01 Sep 2021 18:07:59 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Afghanistan women's cricket team: Players hiding in Kabul fear Taliban rule]]></title>
             <description><![CDATA[Members of Afghanistan's women's cricket team are hiding in Kabul, fearing for their safety following the Taliban's return to power.]]></description>
             <link>https://www.bbc.co.uk/sport/cricket/58396310?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -184,11 +177,11 @@
             <pubDate>Wed, 01 Sep 2021 23:01:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Afghanistan: Rescued animals 'in amazing condition' in UK]]></title>
-            <description><![CDATA[Most of the 150 animals rescued by "Pen" Farthing's charity are to be adopted by veterans.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-essex-58409613?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-essex-58409613</guid>
-            <pubDate>Wed, 01 Sep 2021 14:18:04 GMT</pubDate>
+            <title><![CDATA[Afghanistan: British passport delay blamed for baby stranded in Kabul]]></title>
+            <description><![CDATA["We want to hug her, kiss her", say her parents, who had to return to the UK to replace travel documents.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-58410574?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58410574</guid>
+            <pubDate>Wed, 01 Sep 2021 17:28:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Female journalist who interviewed Taliban flees]]></title>
@@ -198,11 +191,18 @@
             <pubDate>Tue, 31 Aug 2021 18:10:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Afghanistan: How can the West stop terror bases?]]></title>
-            <description><![CDATA[The foreign secretary says the UK will fight ISIS-K by all means available - but what does that mean?]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58395371?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58395371</guid>
-            <pubDate>Wed, 01 Sep 2021 12:26:25 GMT</pubDate>
+            <title><![CDATA[Afghanistan: Joe Biden speech on withdrawal fact-checked]]></title>
+            <description><![CDATA[How consistent is President Biden in his comments on Afghanistan following the final US troop withdrawal?]]></description>
+            <link>https://www.bbc.co.uk/news/58412530?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/58412530</guid>
+            <pubDate>Wed, 01 Sep 2021 18:07:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Afghanistan: Rescued animals 'in amazing condition' in UK]]></title>
+            <description><![CDATA[Most of the 150 animals rescued by "Pen" Farthing's charity are to be adopted by veterans.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-essex-58409613?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-essex-58409613</guid>
+            <pubDate>Wed, 01 Sep 2021 14:18:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
