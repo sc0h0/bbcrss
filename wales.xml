@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 02 Sep 2021 11:23:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Sep 2021 11:33:48 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -21,6 +21,13 @@
             <link>https://www.bbc.co.uk/news/uk-wales-58409551?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-58409551</guid>
             <pubDate>Thu, 02 Sep 2021 05:09:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Firefighters tackle blaze at Caerphilly recycling plant]]></title>
+            <description><![CDATA[Residents are asked to close windows and doors because of "an accumulation of smoke".]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-58422416?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-58422416</guid>
+            <pubDate>Thu, 02 Sep 2021 11:26:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: Pupils return to Wales' schools amid concerns]]></title>
@@ -51,13 +58,6 @@
             <pubDate>Thu, 02 Sep 2021 05:23:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Carer shortage leaves Wrexham man, 89, stuck in hospital]]></title>
-            <description><![CDATA[He is unable to leave after five weeks in hospital due to a lack of community carers, his wife says.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-58413657?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-58413657</guid>
-            <pubDate>Wed, 01 Sep 2021 16:42:36 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Lorry hits bridge in Machynlleth, closing A487 and railway]]></title>
             <description><![CDATA[Traffic Wales says motorists should plan ahead as the road is expected to be closed for some time.]]></description>
             <link>https://www.bbc.co.uk/news/uk-wales-58406885?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -65,18 +65,18 @@
             <pubDate>Wed, 01 Sep 2021 10:47:30 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Carer shortage leaves Wrexham man, 89, stuck in hospital]]></title>
+            <description><![CDATA[He is unable to leave after five weeks in hospital due to a lack of community carers, his wife says.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-58413657?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-58413657</guid>
+            <pubDate>Wed, 01 Sep 2021 16:42:36 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Covid: Ministers accused of U-turn over ozone machines]]></title>
             <description><![CDATA[Schools were promised 1,000 devices to disinfect classrooms, but plans now appear to be on hold.]]></description>
             <link>https://www.bbc.co.uk/news/uk-wales-politics-58410956?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-politics-58410956</guid>
             <pubDate>Wed, 01 Sep 2021 19:21:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Third Covid jab advised for most vulnerable 1%]]></title>
-            <description><![CDATA[More than 400,000 people in the UK are eligible - but plans for further boosters are yet to be confirmed.]]></description>
-            <link>https://www.bbc.co.uk/news/health-58407643?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/health-58407643</guid>
-            <pubDate>Wed, 01 Sep 2021 17:17:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Logan Mwangi: Cause of death not yet known, inquest hears]]></title>
