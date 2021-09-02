@@ -11,30 +11,23 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 02 Sep 2021 11:08:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Sep 2021 13:21:19 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
-            <title><![CDATA[Storm Ida: Flash flooding in New York and New Jersey kills nine]]></title>
-            <description><![CDATA[A two-year-old boy is among the victims, while others were trapped in their flooded basements.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-58417442?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58417442</guid>
-            <pubDate>Thu, 02 Sep 2021 10:39:26 GMT</pubDate>
+            <title><![CDATA[Afghan evacuee boy who ate poisonous mushrooms dies in Poland]]></title>
+            <description><![CDATA[The five year old ate the mushrooms at a refugee centre near Warsaw after his evacuation from Kabul.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58421631?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58421631</guid>
+            <pubDate>Thu, 02 Sep 2021 12:53:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Texas abortion law: Supreme Court votes not to block ban]]></title>
-            <description><![CDATA[The court said legal challenges to the law banning abortions for most women could still proceed.]]></description>
+            <title><![CDATA[Texas abortion law: US Supreme Court votes not to block ban]]></title>
+            <description><![CDATA[The court also accepts that its ruling could face more legal challenges at a constitutional level.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-58416805?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58416805</guid>
-            <pubDate>Thu, 02 Sep 2021 06:48:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Texas abortion law: What women make of six-week abortion ban]]></title>
-            <description><![CDATA[Anti-abortion activists celebrate but a doctor who could be targeted by new law fears for the future.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-58416037?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58416037</guid>
-            <pubDate>Wed, 01 Sep 2021 20:02:10 GMT</pubDate>
+            <pubDate>Thu, 02 Sep 2021 13:18:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Siddharth Shukla: Indian TV actor dies at 40]]></title>
@@ -49,6 +42,13 @@
             <link>https://www.bbc.co.uk/news/world-asia-58405211?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58405211</guid>
             <pubDate>Thu, 02 Sep 2021 03:26:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[WhatsApp issued second-largest GDPR fine of €225m]]></title>
+            <description><![CDATA[The Irish data watchdog has handed WhatsApp the second-highest ever GDPR fine.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-58422465?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/technology-58422465</guid>
+            <pubDate>Thu, 02 Sep 2021 12:32:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Yves de M'Bella: Ivory Coast TV host sentenced for promoting rape]]></title>
@@ -72,13 +72,6 @@
             <pubDate>Thu, 02 Sep 2021 09:38:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Afghanistan: Facebook says it helped people flee, including staff]]></title>
-            <description><![CDATA[The flight arrived in Mexico City on Wednesday, with 175 Afghan citizens on board, including 75 children.]]></description>
-            <link>https://www.bbc.co.uk/news/business-58417231?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58417231</guid>
-            <pubDate>Thu, 02 Sep 2021 02:33:41 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[McDonald’s hiring 14-year-olds in Oregon amid labour shortage]]></title>
             <description><![CDATA[An Oregon branch sees flood of applications after failing to recruit older workers.]]></description>
             <link>https://www.bbc.co.uk/news/business-58414597?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -98,6 +91,13 @@
             <link>https://www.bbc.co.uk/news/world-middle-east-58394438?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-middle-east-58394438</guid>
             <pubDate>Thu, 02 Sep 2021 08:56:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Texas abortion law: What women make of six-week abortion ban]]></title>
+            <description><![CDATA[Anti-abortion activists celebrate but a doctor who could be targeted by new law fears for the future.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-58416037?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58416037</guid>
+            <pubDate>Wed, 01 Sep 2021 20:02:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Inger Stoejberg: Danish ex-immigration minister faces impeachment trial]]></title>
