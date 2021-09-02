@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 01 Sep 2021 23:41:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Sep 2021 00:06:09 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -65,6 +65,20 @@
             <pubDate>Wed, 01 Sep 2021 20:50:36 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[China steps in to regulate brutal '996' work culture]]></title>
+            <description><![CDATA[Workers in China are fed up with the brutal 12-hour work days once seen as a key driver of success.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-china-58381538?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-china-58381538</guid>
+            <pubDate>Wed, 01 Sep 2021 23:56:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Viewpoint: Algerian blame games expose deep political crisis]]></title>
+            <description><![CDATA[Algerians are clamouring for democratic reforms and the weakening the influence of the military.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-58383947?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-africa-58383947</guid>
+            <pubDate>Thu, 02 Sep 2021 00:04:25 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Climate change: Big increase in weather disasters over the past five decades]]></title>
             <description><![CDATA[Floods, storms and extreme events increase five-fold but the number of people dying in them fell.]]></description>
             <link>https://www.bbc.co.uk/news/science-environment-58396975?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -93,20 +107,6 @@
             <pubDate>Wed, 01 Sep 2021 22:01:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[International Space Station facing irreparable failures, Russia warns]]></title>
-            <description><![CDATA[The majority of in-flight systems on the ISS have passed their expiry date, an official warns.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58408911?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58408911</guid>
-            <pubDate>Wed, 01 Sep 2021 12:45:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[French police car crashes after officer fires Taser at driver]]></title>
-            <description><![CDATA[A lawyers says the officers were "having fun" when one fired her Taser and the driver lost control.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58407794?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58407794</guid>
-            <pubDate>Wed, 01 Sep 2021 16:22:30 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Inger Stoejberg: Danish ex-immigration minister faces impeachment trial]]></title>
             <description><![CDATA[Inger Stoejberg is accused of unlawfully ordering the separation of young asylum-seeking couples.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-58408471?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -128,32 +128,18 @@
             <pubDate>Wed, 01 Sep 2021 23:26:41 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Kabul make-up artist: 'Women like me are Taliban targets']]></title>
+            <description><![CDATA[A make-up artist in hiding explains how much Afghanistan's beauty industry has meant to women.]]></description>
+            <link>https://www.bbc.co.uk/news/stories-58388333?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/stories-58388333</guid>
+            <pubDate>Thu, 02 Sep 2021 00:00:34 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Canada federal election: How much trouble is Trudeau in?]]></title>
             <description><![CDATA[Canada's leader called a snap election, but midway through the campaign his party is struggling.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-58389802?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58389802</guid>
             <pubDate>Wed, 01 Sep 2021 17:58:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[One in three trees face extinction in wild, says new report]]></title>
-            <description><![CDATA[Experts say 17,500 tree species are at risk around the world, including magnolias, oaks and maples.]]></description>
-            <link>https://www.bbc.co.uk/news/science-environment-58394215?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/science-environment-58394215</guid>
-            <pubDate>Tue, 31 Aug 2021 23:41:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hurricane Ida: Before and after images reveal devastation]]></title>
-            <description><![CDATA[Aerial photographs reveal damage and flooding in parts of Louisiana following Hurricane Ida.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-58409267?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58409267</guid>
-            <pubDate>Wed, 01 Sep 2021 13:54:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gulf Sky: 'Our ship was hijacked and taken to Iran']]></title>
-            <description><![CDATA[Former crew of the oil tanker Gulf Sky talk publically for the first time about the ship's disappearance.]]></description>
-            <link>https://www.bbc.co.uk/news/world-middle-east-56950323?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-middle-east-56950323</guid>
-            <pubDate>Tue, 31 Aug 2021 23:17:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Paralympics: How hand-cycling saved my life]]></title>
