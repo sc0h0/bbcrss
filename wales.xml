@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 02 Sep 2021 17:52:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Sep 2021 18:13:37 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -65,6 +65,13 @@
             <pubDate>Thu, 02 Sep 2021 12:05:43 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Rossett Roman villa archaeological dig gets under way]]></title>
+            <description><![CDATA[It will last three weeks at what is called the first of its kind to be found in north-east Wales.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-58427470?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-58427470</guid>
+            <pubDate>Thu, 02 Sep 2021 18:05:59 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Covid: Pupils return to Wales' schools amid concerns]]></title>
             <description><![CDATA[With Wales at alert level zero, the Welsh government says it will keep an eye on Covid cases.]]></description>
             <link>https://www.bbc.co.uk/news/uk-wales-58413690?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -91,13 +98,6 @@
             <link>https://www.bbc.co.uk/news/business-58414875?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58414875</guid>
             <pubDate>Thu, 02 Sep 2021 12:00:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Winnie-the-Pooh: Collectable coins to mark bear's 95th anniversary]]></title>
-            <description><![CDATA[The Royal Mint commemorate the world's favourite fictional bear's 95th birthday with nine-piece set.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-58410507?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-58410507</guid>
-            <pubDate>Thu, 02 Sep 2021 05:23:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Caerphilly fire: Firefighters tackle blaze at recycling plant]]></title>
