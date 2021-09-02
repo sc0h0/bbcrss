@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 02 Sep 2021 08:25:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Sep 2021 08:40:50 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -20,7 +20,7 @@
             <description><![CDATA[A controversial review of policing in south Armagh led to calls for Simon Byrne to resign.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58414711?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58414711</guid>
-            <pubDate>Thu, 02 Sep 2021 07:39:12 GMT</pubDate>
+            <pubDate>Thu, 02 Sep 2021 08:28:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Afghanistan: Londonderry-based man's sister 'taken' in Kabul]]></title>
@@ -98,13 +98,6 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58398845?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58398845</guid>
             <pubDate>Wed, 01 Sep 2021 12:48:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid-19: Irish Cabinet agrees to end most restrictions by 22 October]]></title>
-            <description><![CDATA[Ministers met on Tuesday to agree on a plan to ease most Covid-19 restrictions by 22 October.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58400777?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58400777</guid>
-            <pubDate>Tue, 31 Aug 2021 20:57:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Deputy First Minister Michelle O'Neill tests positive for Covid-19]]></title>
@@ -240,6 +233,13 @@
             <pubDate>Mon, 30 Aug 2021 06:30:06 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid-19: Irish Cabinet agrees to end most restrictions by 22 October]]></title>
+            <description><![CDATA[Ministers met on Tuesday to agree on a plan to ease most Covid-19 restrictions by 22 October.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58400777?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58400777</guid>
+            <pubDate>Tue, 31 Aug 2021 20:57:25 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Irish society 'can begin to hope again', says Micheál Martin]]></title>
             <description><![CDATA[The Taoiseach (Irish prime minister) announces plan to end most Covid-19 restrictions by 22 October.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-58402941?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -266,13 +266,6 @@
             <link>https://www.bbc.co.uk/news/world-europe-58371326?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58371326</guid>
             <pubDate>Sat, 28 Aug 2021 16:02:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ireland and France links never been stronger, says Martin after Macron visit]]></title>
-            <description><![CDATA[French President Emmanuel Macron meets the Irish president and the taoiseach on a visit to Dublin.]]></description>
-            <link>https://www.bbc.co.uk/news/world-58342210?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-58342210</guid>
-            <pubDate>Thu, 26 Aug 2021 13:43:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
