@@ -1,4 +1,4 @@
-1. [Pat Hume has died](https://www.bbc.co.uk/news/uk-northern-ireland-58382715?at_medium=RSS&at_campaign=KARANGA) - Pat Hume, the widow of former SDLP leader and Nobel prize winner John Hume, has died.
+1. [Pat Hume, widow of John Hume, has died](https://www.bbc.co.uk/news/uk-northern-ireland-58382715?at_medium=RSS&at_campaign=KARANGA) - Pat Hume, the widow of former SDLP leader and Nobel prize winner John Hume, has died.
 2. [Police chief says 'we are not removing memorials'](https://www.bbc.co.uk/news/uk-northern-ireland-58414711?at_medium=RSS&at_campaign=KARANGA) - A review of policing in south Armagh led to calls from some unionists for Simon Byrne to resign.
 3. [Covid-19: Twelve more Covid-linked deaths and 793 new cases](https://www.bbc.co.uk/news/uk-northern-ireland-58423061?at_medium=RSS&at_campaign=KARANGA) - The total number of deaths linked to Covid-19 in NI since the start of the pandemic is 2,385.
 4. [WhatsApp issued second-largest GDPR fine of €225m](https://www.bbc.co.uk/news/technology-58422465?at_medium=RSS&at_campaign=KARANGA) - The Irish data watchdog has handed WhatsApp the second-highest ever GDPR fine.
