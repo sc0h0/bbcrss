@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 02 Sep 2021 02:10:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Sep 2021 02:36:39 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -191,18 +191,25 @@
             <pubDate>Wed, 01 Sep 2021 23:40:36 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Beaten and humiliated for being a Muslim in India]]></title>
-            <description><![CDATA[Attacks on Muslims by Hindu mobs have risen in India, with little apparent official condemnation.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-india-58406194?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-india-58406194</guid>
-            <pubDate>Wed, 01 Sep 2021 23:26:41 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Children's Code: What is it and how will it work?]]></title>
             <description><![CDATA[The ICO's Children's Code will make technology companies reassess how they offer services to children.]]></description>
             <link>https://www.bbc.co.uk/news/technology-58396004?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/technology-58396004</guid>
             <pubDate>Wed, 01 Sep 2021 14:55:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Simon Amstell: How the comedian is peeling away the layers of shame]]></title>
+            <description><![CDATA[The stand-up comedian and writer on how telling the truth on-stage and on-screen sets him free.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-58228429?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-58228429</guid>
+            <pubDate>Thu, 02 Sep 2021 02:23:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Beaten and humiliated for being a Muslim in India]]></title>
+            <description><![CDATA[Attacks on Muslims by Hindu mobs have risen in India, with little apparent official condemnation.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-india-58406194?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-india-58406194</guid>
+            <pubDate>Wed, 01 Sep 2021 23:26:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[China steps in to regulate brutal '996' work culture]]></title>
