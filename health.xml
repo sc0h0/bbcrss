@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 03 Sep 2021 23:13:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Sep 2021 23:28:55 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -324,6 +324,13 @@
             <pubDate>Sat, 14 Mar 2020 01:04:25 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA['My parents won't let me get the Covid vaccine']]></title>
+            <description><![CDATA[In some countries, the Covid-19 vaccine can be given to all teenagers over the age of 12 but not all are allowed.]]></description>
+            <link>https://www.bbc.co.uk/news/health-58437672?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/health-58437672</guid>
+            <pubDate>Fri, 03 Sep 2021 23:08:35 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Mental Health: The ambulance workers feeding callers]]></title>
             <description><![CDATA[A Merseyside mental health ambulance team is offering food support for its most in need patients.]]></description>
             <link>https://www.bbc.co.uk/news/stories-58412481?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -350,13 +357,6 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-58319635?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-58319635</guid>
             <pubDate>Tue, 24 Aug 2021 12:57:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Autism and anxiety: One man 'failed by the system']]></title>
-            <description><![CDATA[Autistic teen posted a video about lack of support in health and social care system before he died.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58334061?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58334061</guid>
-            <pubDate>Thu, 26 Aug 2021 23:01:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
