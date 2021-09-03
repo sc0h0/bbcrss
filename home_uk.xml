@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 03 Sep 2021 13:42:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Sep 2021 14:00:43 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -37,6 +37,20 @@
             <pubDate>Fri, 03 Sep 2021 12:20:37 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Storm Ida: Before and after images of north-east devastation]]></title>
+            <description><![CDATA[Before and after satellite images of the devastation caused by Storm Ida in the north-east US.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-58434171?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58434171</guid>
+            <pubDate>Fri, 03 Sep 2021 13:45:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Storm Ida aftermath: 'I can't even count my losses from the flooding right now']]></title>
+            <description><![CDATA[Residents in the US north-east assess the scale of the devastation caused by Tropical Storm Ida.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-58432047?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58432047</guid>
+            <pubDate>Fri, 03 Sep 2021 12:11:08 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[EU and AstraZeneca reach deal to end vaccine row]]></title>
             <description><![CDATA[AstraZeneca agrees to deliver 200 million doses by next spring, ending the threat of court action.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-58426880?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -49,20 +63,6 @@
             <link>https://www.bbc.co.uk/news/uk-politics-58426795?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-politics-58426795</guid>
             <pubDate>Fri, 03 Sep 2021 11:29:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hungary v England: Fifa investigating racial abuse aimed at players at Puskas Arena]]></title>
-            <description><![CDATA[Fifa is investigating racial abuse aimed at England players during Thursday's 4-0 win over Hungary in a World Cup qualifier in Budapest.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58432092?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58432092</guid>
-            <pubDate>Fri, 03 Sep 2021 13:20:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Storm Ida aftermath: 'I can't even count my losses from the flooding right now']]></title>
-            <description><![CDATA[Residents in the US north-east assess the scale of the devastation caused by Tropical Storm Ida.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-58432047?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58432047</guid>
-            <pubDate>Fri, 03 Sep 2021 12:11:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Arrest after woman falls to death from Arthur's Seat]]></title>
@@ -93,6 +93,13 @@
             <pubDate>Fri, 03 Sep 2021 12:11:16 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Partially-shredded Banksy back under the hammer at Sotheby's]]></title>
+            <description><![CDATA[The artwork, re-titled Love Is In The Bin, will appear at a Sotheby's auction in October.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-bristol-58433852?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-bristol-58433852</guid>
+            <pubDate>Fri, 03 Sep 2021 13:15:29 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Student spends 400 days in hospital recovering from 2020 car crash]]></title>
             <description><![CDATA[Macy, 21, tells Newsbeat how she stays positive after 400 days in hospital from a car crash in 2020.]]></description>
             <link>https://www.bbc.co.uk/news/newsbeat-58418427?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -105,13 +112,6 @@
             <link>https://www.bbc.co.uk/news/business-58423924?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58423924</guid>
             <pubDate>Thu, 02 Sep 2021 23:44:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How 94-year-old Bob tackled his lockdown loneliness]]></title>
-            <description><![CDATA[A 94-year-old's diary of life at a care home during the pandemic is turned into a book.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-58424222?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-58424222</guid>
-            <pubDate>Fri, 03 Sep 2021 04:58:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Drake credits The Beatles on Certified Lover Boy]]></title>
@@ -268,11 +268,25 @@
             <pubDate>Thu, 02 Sep 2021 21:27:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Fifa investigates racist abuse of England players in Hungary]]></title>
+            <description><![CDATA[Fifa is investigating racial abuse aimed at England players during Thursday's 4-0 win over Hungary in a World Cup qualifier in Budapest.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58432092?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58432092</guid>
+            <pubDate>Fri, 03 Sep 2021 13:20:43 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[England v India: Mohammed Siraj traps Jonny Bairstow lbw for 37]]></title>
             <description><![CDATA[India's Mohammed Siraj piles the pressure on England by removing Jonny Bairstow lbw for 37 during the fourth Test against India at the Oval.]]></description>
             <link>https://www.bbc.co.uk/sport/av/cricket/58437530?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/av/cricket/58437530</guid>
             <pubDate>Fri, 03 Sep 2021 13:21:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Football Focus: Everton's Izzy Christiansen & Lucy Graham say WSL now 'on another level']]></title>
+            <description><![CDATA[Football Focus meets Everton's Izzy Christiansen and Lucy Graham before the Women's Super League season, which they say will be "on another level".]]></description>
+            <link>https://www.bbc.co.uk/sport/av/football/58436182?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/av/football/58436182</guid>
+            <pubDate>Fri, 03 Sep 2021 10:33:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[England v India: Ollie Pope hits Shardul Thakur for three fours in an over]]></title>

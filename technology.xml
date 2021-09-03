@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 03 Sep 2021 13:46:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Sep 2021 14:00:00 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -93,6 +93,13 @@
             <pubDate>Tue, 31 Aug 2021 14:10:01 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Meet Digit, the workplace robot, and other news]]></title>
+            <description><![CDATA[BBC Click's Marc Cieslak looks at the best of the week's technology news.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-58438225?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/technology-58438225</guid>
+            <pubDate>Fri, 03 Sep 2021 12:39:24 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Breast cancer: The AI tool trained to spot the disease]]></title>
             <description><![CDATA[Artificial intelligence trained to spot the disease is tested at Nottingham University Hospital.]]></description>
             <link>https://www.bbc.co.uk/news/technology-58158657?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -119,13 +126,6 @@
             <link>https://www.bbc.co.uk/news/technology-58245604?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/technology-58245604</guid>
             <pubDate>Fri, 20 Aug 2021 13:44:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The NI inventor who saved thousands of lives]]></title>
-            <description><![CDATA[The plane ejector seat was invented by James Martin, from Crossgar in County Down, in 1944.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58274204?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58274204</guid>
-            <pubDate>Sat, 21 Aug 2021 23:14:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How to back up your data and keep it safe]]></title>
