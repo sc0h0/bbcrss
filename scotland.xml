@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 03 Sep 2021 07:20:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Sep 2021 07:34:31 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -205,18 +205,25 @@
             <pubDate>Wed, 25 Aug 2021 14:17:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tokyo Paralympics: Fin Graham and Sammi Kinghorn add to medals as Gordon Reid falls short]]></title>
-            <description><![CDATA[Scotland's Fin Graham and Sammi Kinghorn secure their second medals on day nine of the Tokyo Paralympics.]]></description>
-            <link>https://www.bbc.co.uk/sport/disability-sport/58423632?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/disability-sport/58423632</guid>
-            <pubDate>Thu, 02 Sep 2021 14:44:27 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Austria v Scotland: Actions, not words, needed as Steve Clarke's side face World Cup showdown]]></title>
             <description><![CDATA[Scotland's whole continues to look less than the sum of its parts as they face a World Cup showdown in Austria, writes Tom English.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58422025?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58422025</guid>
             <pubDate>Thu, 02 Sep 2021 13:16:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Scottish Gossip: Rangers, Celtic, Man Utd, Mata, Aribo, Morelos, Griffiths, Katic, Hibs, Dundee, Ntcham, Hendry,]]></title>
+            <description><![CDATA[Rangers' Joe Aribo was late for Nigeria training after "transfer talks", while Manchester United's Juan Mata is spotted at Celtic players' hotel amid speculation over his future.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58432172?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58432172</guid>
+            <pubDate>Fri, 03 Sep 2021 07:23:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo Paralympics: Fin Graham and Sammi Kinghorn add to medals as Gordon Reid falls short]]></title>
+            <description><![CDATA[Scotland's Fin Graham and Sammi Kinghorn secure their second medals on day nine of the Tokyo Paralympics.]]></description>
+            <link>https://www.bbc.co.uk/sport/disability-sport/58423632?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/disability-sport/58423632</guid>
+            <pubDate>Thu, 02 Sep 2021 14:44:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Rangers: Ibrox club ban three fans indefinitely as police make sectarian singing arrests]]></title>
@@ -231,13 +238,6 @@
             <link>https://www.bbc.co.uk/sport/av/disability-sport/58421054?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/av/disability-sport/58421054</guid>
             <pubDate>Thu, 02 Sep 2021 09:57:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Scotland v Moldova: Pick your starting line-up for Hampden clash]]></title>
-            <description><![CDATA[With John McGinn, Nathan Patterson, Stephen O'Donnell, and Kevin Nisbet set to return, does that change your preferred starting line-up Saturday's clash with Moldova?]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58415617?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58415617</guid>
-            <pubDate>Thu, 02 Sep 2021 18:07:35 GMT</pubDate>
         </item>
     </channel>
 </rss>

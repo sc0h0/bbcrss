@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 03 Sep 2021 07:18:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Sep 2021 07:35:27 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -51,13 +51,6 @@
             <pubDate>Wed, 01 Sep 2021 07:04:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[One in three trees face extinction in wild, says new report]]></title>
-            <description><![CDATA[Experts say 17,500 tree species are at risk around the world, including magnolias, oaks and maples.]]></description>
-            <link>https://www.bbc.co.uk/news/science-environment-58394215?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/science-environment-58394215</guid>
-            <pubDate>Tue, 31 Aug 2021 23:41:29 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Hurricane Ida: Before and after images reveal devastation]]></title>
             <description><![CDATA[Aerial photographs reveal damage and flooding in parts of Louisiana following Hurricane Ida.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-58409267?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -72,11 +65,11 @@
             <pubDate>Tue, 31 Aug 2021 23:37:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Majestic birds caught by the camera]]></title>
-            <description><![CDATA[A selection of the winners in this year's Bird Photographer of the Year competition.]]></description>
-            <link>https://www.bbc.co.uk/news/in-pictures-58396228?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/in-pictures-58396228</guid>
-            <pubDate>Wed, 01 Sep 2021 08:49:35 GMT</pubDate>
+            <title><![CDATA[One in three trees face extinction in wild, says new report]]></title>
+            <description><![CDATA[Experts say 17,500 tree species are at risk around the world, including magnolias, oaks and maples.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-58394215?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/science-environment-58394215</guid>
+            <pubDate>Tue, 31 Aug 2021 23:41:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Greta Thunberg: Scotland not a world leader on climate change]]></title>
@@ -154,6 +147,13 @@
             <link>https://www.bbc.co.uk/news/science-environment-57971910?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/science-environment-57971910</guid>
             <pubDate>Tue, 03 Aug 2021 09:20:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Majestic birds caught by the camera]]></title>
+            <description><![CDATA[A selection of the winners in this year's Bird Photographer of the Year competition.]]></description>
+            <link>https://www.bbc.co.uk/news/in-pictures-58396228?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/in-pictures-58396228</guid>
+            <pubDate>Wed, 01 Sep 2021 08:49:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Comedy Wildlife Photography Awards 2021 finalists revealed]]></title>
