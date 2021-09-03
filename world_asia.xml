@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 03 Sep 2021 04:23:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Sep 2021 04:47:23 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[New Zealand police shoot man dead after supermarket stabbing incident]]></title>
+            <description><![CDATA[Videos online show panicked shoppers running out of the Countdown supermarket at LynnMall.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58405213?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58405213</guid>
+            <pubDate>Fri, 03 Sep 2021 04:35:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Afghanistan Panjshir: Fighting intensifies over holdout Afghan valley]]></title>
             <description><![CDATA[The Panjshir Valley, near Kabul, is the only area of Afghanistan that has not fallen to the Taliban.]]></description>
@@ -23,25 +30,25 @@
             <pubDate>Fri, 03 Sep 2021 03:12:44 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[North Korea: Kim Jong-un asks officials to tackle food shortage]]></title>
+            <description><![CDATA[The country's economy has been battered by sanctions and restrictions to prevent the spread of Covid.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58431010?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58431010</guid>
+            <pubDate>Fri, 03 Sep 2021 04:36:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Yoshihide Suga to step down as Japan's prime minister]]></title>
+            <description><![CDATA[Mr Suga had been appointed to the role just a year ago following the resignation of Shinzo Abe.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58405212?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58405212</guid>
+            <pubDate>Fri, 03 Sep 2021 04:20:39 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[China set to open new stock exchange in Beijing]]></title>
             <description><![CDATA[The announcement comes as Chinese firms come under intense scrutiny both at home and in the US.]]></description>
             <link>https://www.bbc.co.uk/news/business-58417235?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58417235</guid>
             <pubDate>Fri, 03 Sep 2021 03:22:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How North Korea’s founding father, Kim Il-sung, came to power]]></title>
-            <description><![CDATA[Professor Kim Hyung-suk had breakfast with the man who would rule North Korea for nearly 50 years]]></description>
-            <link>https://www.bbc.co.uk/news/stories-58422385?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/stories-58422385</guid>
-            <pubDate>Thu, 02 Sep 2021 23:02:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Shang-Chi: Why Marvel's first Asian superhero is empowering change]]></title>
-            <description><![CDATA[Shang-Chi And The Legend Of The Ten Rings sees Simu Liu front an Asian-led cast. Why does it matter?]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-58361669?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-58361669</guid>
-            <pubDate>Fri, 03 Sep 2021 00:08:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[TCS: India's largest private employer returns to office]]></title>
@@ -93,11 +100,18 @@
             <pubDate>Thu, 02 Sep 2021 03:26:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[North Korea rejects offer of almost three million Covid-19 jabs]]></title>
-            <description><![CDATA[The country asked that the shots offered under the Covax scheme be redirected to harder hit nations.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58408913?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58408913</guid>
-            <pubDate>Wed, 01 Sep 2021 22:01:19 GMT</pubDate>
+            <title><![CDATA[How North Korea’s founding father, Kim Il-sung, came to power]]></title>
+            <description><![CDATA[Professor Kim Hyung-suk had breakfast with the man who would rule North Korea for nearly 50 years]]></description>
+            <link>https://www.bbc.co.uk/news/stories-58422385?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/stories-58422385</guid>
+            <pubDate>Thu, 02 Sep 2021 23:02:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Shang-Chi: Why Marvel's first Asian superhero is empowering change]]></title>
+            <description><![CDATA[Shang-Chi And The Legend Of The Ten Rings sees Simu Liu front an Asian-led cast. Why does it matter?]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-58361669?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-58361669</guid>
+            <pubDate>Fri, 03 Sep 2021 00:08:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[China steps in to regulate brutal '996' work culture]]></title>
@@ -126,13 +140,6 @@
             <link>https://www.bbc.co.uk/sport/cricket/58396310?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/cricket/58396310</guid>
             <pubDate>Wed, 01 Sep 2021 23:01:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Afghanistan: Qatar and Turkey become Taliban's lifeline to the outside world]]></title>
-            <description><![CDATA[Qatar and Turkey emerge as key channels between Afghanistan's new rulers and the outside world.]]></description>
-            <link>https://www.bbc.co.uk/news/world-middle-east-58394438?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-middle-east-58394438</guid>
-            <pubDate>Thu, 02 Sep 2021 08:56:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
