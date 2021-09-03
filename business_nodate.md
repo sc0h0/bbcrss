@@ -1,4 +1,4 @@
-1. [Lorry driver shortage prompts food price rise fear](https://www.bbc.co.uk/news/business-58432347?at_medium=RSS&at_campaign=KARANGA) - Wholesalers are facing a "perfect storm" of adverse effects, warns one leading industry figure.
+1. [Food price rise fears amid staff shortages](https://www.bbc.co.uk/news/business-58432347?at_medium=RSS&at_campaign=KARANGA) - Wholesalers are facing a "perfect storm" of adverse effects, warns one leading industry figure.
 2. [Buy Now Pay Later: 'I'm stressed over debt'](https://www.bbc.co.uk/news/business-58423924?at_medium=RSS&at_campaign=KARANGA) - One in ten Buy Now Pay Later shoppers have been chased by debt collectors, Citizen's Advice says.
 3. [Councils hit by bin collection delays due to driver shortage](https://www.bbc.co.uk/news/business-58424343?at_medium=RSS&at_campaign=KARANGA) - Some 18 councils across the UK are suffering waste collection delays due to a lack of bin lorry drivers.
 4. [China set to open new stock exchange in Beijing](https://www.bbc.co.uk/news/business-58417235?at_medium=RSS&at_campaign=KARANGA) - The announcement comes as Chinese firms are under intense scrutiny both at home and in the US.
