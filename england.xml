@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 03 Sep 2021 13:35:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Sep 2021 13:43:52 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -51,6 +51,20 @@
             <pubDate>Fri, 03 Sep 2021 12:33:21 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Fenwick Colchester: Funeral held for boy, 5, fatally injured in shop]]></title>
+            <description><![CDATA[Tributes are paid at the service for Freddie Farrow, who was hit by a mirror in a department store.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-essex-58435449?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-essex-58435449</guid>
+            <pubDate>Fri, 03 Sep 2021 12:10:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Partially-shredded Banksy back under the hammer at Sotheby's]]></title>
+            <description><![CDATA[The artwork, re-titled Love Is In The Bin, will appear at a Sotheby's auction in October.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-bristol-58433852?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-bristol-58433852</guid>
+            <pubDate>Fri, 03 Sep 2021 13:15:29 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Leeds to Carlisle trains suspended after bull killed on track]]></title>
             <description><![CDATA[A train struck and killed a bull near Ribblehead, causing service suspensions.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-58433460?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -72,25 +86,11 @@
             <pubDate>Fri, 03 Sep 2021 11:08:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Leeds Festival: Victim attacked with acid during Post Malone set]]></title>
-            <description><![CDATA[Olly Spencer-Littlewood says he feared he would be scarred for life after the attack.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-leeds-58432828?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-leeds-58432828</guid>
-            <pubDate>Fri, 03 Sep 2021 09:41:12 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[FA Youth Cup footballer in hospital after collapse in Nottinghamshire]]></title>
             <description><![CDATA[The young player was treated with a defibrillator after becoming "seriously unwell".]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-nottinghamshire-58359112?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-nottinghamshire-58359112</guid>
             <pubDate>Fri, 03 Sep 2021 10:24:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Reading stabbings: Bravery awards for police who tackled terrorist]]></title>
-            <description><![CDATA[The officers are honoured for apprehending a man who murdered three people in Reading in June 2020.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-berkshire-58423422?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-berkshire-58423422</guid>
-            <pubDate>Fri, 03 Sep 2021 04:59:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Austin Mitchell: Funeral of former Grimsby MP takes place in Bradford]]></title>
@@ -135,6 +135,20 @@
             <pubDate>Thu, 02 Sep 2021 06:10:02 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Leeds Festival: Victim attacked with acid during Post Malone set]]></title>
+            <description><![CDATA[Olly Spencer-Littlewood says he feared he would be scarred for life after the attack.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-leeds-58432828?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-leeds-58432828</guid>
+            <pubDate>Fri, 03 Sep 2021 09:41:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Reading stabbings: Bravery awards for police who tackled terrorist]]></title>
+            <description><![CDATA[The officers are honoured for apprehending a man who murdered three people in Reading in June 2020.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-berkshire-58423422?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-berkshire-58423422</guid>
+            <pubDate>Fri, 03 Sep 2021 04:59:18 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Manchester Arena bomb: Three PCs on duty face internal investigations]]></title>
             <description><![CDATA[Three officers are to face internal investigations over their actions on the night of the atrocity.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-manchester-58428898?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -163,11 +177,11 @@
             <pubDate>Fri, 03 Sep 2021 13:20:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tokyo Paralympics: Great Britain win more golds and pass the 100-medal mark]]></title>
-            <description><![CDATA[Great Britain win three more golds and pass the 100-medal mark at the Tokyo Paralympics]]></description>
+            <title><![CDATA[Tokyo Paralympics: Great Britain win three golds and pass 100-medal mark]]></title>
+            <description><![CDATA[Great Britain win three more golds on day 10 and pass the 100-medal mark at the Tokyo Paralympics.]]></description>
             <link>https://www.bbc.co.uk/sport/disability-sport/58431290?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/disability-sport/58431290</guid>
-            <pubDate>Fri, 03 Sep 2021 12:56:17 GMT</pubDate>
+            <pubDate>Fri, 03 Sep 2021 13:41:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
