@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 03 Sep 2021 02:44:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Sep 2021 02:56:33 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -44,6 +44,13 @@
             <pubDate>Thu, 02 Sep 2021 22:26:45 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Coin hoarding at home leads to charity plea]]></title>
+            <description><![CDATA[UK residents are hoarding an estimated £50m in loose change, according to UK Finance.]]></description>
+            <link>https://www.bbc.co.uk/news/business-58421192?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58421192</guid>
+            <pubDate>Thu, 02 Sep 2021 23:20:23 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Councils hit by bin collection delays due to driver shortage]]></title>
             <description><![CDATA[Some 18 councils across the UK are suffering waste collection delays due to a lack of bin lorry drivers.]]></description>
             <link>https://www.bbc.co.uk/news/business-58424343?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -70,13 +77,6 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58382715?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58382715</guid>
             <pubDate>Thu, 02 Sep 2021 22:10:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Afghanistan: Kabul airport could reopen for evacuation flights soon, says Dominic Raab]]></title>
-            <description><![CDATA[Kabul airport could reopen "in the near future" the UK's foreign secretary says, after talks in Qatar.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58417078?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58417078</guid>
-            <pubDate>Thu, 02 Sep 2021 17:17:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Climate-above-all plea by US fails to stir China]]></title>
@@ -184,7 +184,7 @@
             <pubDate>Fri, 03 Sep 2021 00:00:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Afghanistan crisis: How Europe soured on Joe Biden]]></title>
+            <title><![CDATA[How Europe turned sour on Joe Biden]]></title>
             <description><![CDATA[In many EU circles, the honeymoon period for Donald Trump's successor may be coming to an end.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-58416848?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58416848</guid>
@@ -217,6 +217,13 @@
             <link>https://www.bbc.co.uk/news/newsbeat-58409888?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/newsbeat-58409888</guid>
             <pubDate>Fri, 03 Sep 2021 01:01:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Buy Now Pay Later: 'I'm stressed over debt']]></title>
+            <description><![CDATA[One in ten Buy Now Pay Later shoppers have been chased by debt collectors, Citizen's Advice says.]]></description>
+            <link>https://www.bbc.co.uk/news/business-58423924?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58423924</guid>
+            <pubDate>Thu, 02 Sep 2021 23:44:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Driver shortage: 'I got a big pay rise overnight']]></title>
