@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 03 Sep 2021 22:02:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Sep 2021 22:22:26 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -51,13 +51,6 @@
             <pubDate>Fri, 03 Sep 2021 17:18:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid: What Israel tells us about the way out of the pandemic]]></title>
-            <description><![CDATA[Third jabs given as part of a booster programme are beginning to dampen the latest Covid surge.]]></description>
-            <link>https://www.bbc.co.uk/news/health-58432776?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/health-58432776</guid>
-            <pubDate>Fri, 03 Sep 2021 16:28:04 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Afghanistan: Fate of Panjshir Valley in balance amid heavy fighting]]></title>
             <description><![CDATA[Reports of heavy fighting continue in Panjshir Valley, as both sides claim to have the upper hand.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-58443679?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -93,6 +86,13 @@
             <pubDate>Fri, 03 Sep 2021 18:05:26 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Dan Evans battles into US Open fourth round]]></title>
+            <description><![CDATA[Dan Evans produces a gritty comeback from two sets down to beat Alexei Popyrin in a gruelling match and reach the US Open fourth round.]]></description>
+            <link>https://www.bbc.co.uk/sport/tennis/58442799?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/58442799</guid>
+            <pubDate>Fri, 03 Sep 2021 21:44:49 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Strictly's Ballas lights up Blackpool Illuminations]]></title>
             <description><![CDATA[Shirley Ballas leads a star-studded line-up to start an extended run for Blackpool's famous lights.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-lancashire-58440257?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -100,11 +100,11 @@
             <pubDate>Fri, 03 Sep 2021 20:56:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Dan Evans battles into US Open fourth round]]></title>
-            <description><![CDATA[Dan Evans produces a gritty comeback from two sets down to beat Alexei Popyrin in a gruelling match and reach the US Open fourth round.]]></description>
-            <link>https://www.bbc.co.uk/sport/tennis/58442799?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/58442799</guid>
-            <pubDate>Fri, 03 Sep 2021 21:44:49 GMT</pubDate>
+            <title><![CDATA[Man Utd beat Reading in WSL season opener]]></title>
+            <description><![CDATA[Manchester United open the new Women's Super League season with victory over Reading in manager Marc Skinner's first game in charge.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58351961?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58351961</guid>
+            <pubDate>Fri, 03 Sep 2021 22:15:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Rave reviews for Kristen Stewart as Princess Diana in new film Spencer]]></title>
@@ -177,7 +177,14 @@
             <pubDate>Fri, 03 Sep 2021 06:33:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Prince Andrew, Bob Dylan, Catholic priests and the Child Victims Act]]></title>
+            <title><![CDATA[Covid: What Israel tells us about the way out of the pandemic]]></title>
+            <description><![CDATA[Third jabs given as part of a booster programme are beginning to dampen the latest Covid surge.]]></description>
+            <link>https://www.bbc.co.uk/news/health-58432776?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/health-58432776</guid>
+            <pubDate>Fri, 03 Sep 2021 16:28:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Child sex abuse cases find prince and priests]]></title>
             <description><![CDATA[Prince Andrew, Bob Dylan, Catholic priests and others face suits after a change in New York law.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-58322592?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58322592</guid>
@@ -282,13 +289,6 @@
             <pubDate>Fri, 03 Sep 2021 17:45:36 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Man Utd win WSL opener as Reading rue lack of technology after 'ghost goal']]></title>
-            <description><![CDATA[Manchester United open the new Women's Super League season with victory over Reading in manager Marc Skinner's first game in charge.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58351961?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58351961</guid>
-            <pubDate>Fri, 03 Sep 2021 21:54:25 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Brussels Diamond League: Christine Mboma beats Dina Asher-Smith in 200m]]></title>
             <description><![CDATA[Christine Mboma produces a powerful late surge to edge out Shericka Jackson in a star-studded women's 200m race at the Brussels Diamond League.]]></description>
             <link>https://www.bbc.co.uk/sport/athletics/58442621?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -308,6 +308,13 @@
             <link>https://www.bbc.co.uk/sport/av/athletics/58443441?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/av/athletics/58443441</guid>
             <pubDate>Fri, 03 Sep 2021 19:25:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Football Focus: Everton's Izzy Christiansen & Lucy Graham say WSL now 'on another level']]></title>
+            <description><![CDATA[Football Focus meets Everton's Izzy Christiansen and Lucy Graham before the Women's Super League season, which they say will be "on another level".]]></description>
+            <link>https://www.bbc.co.uk/sport/av/football/58436182?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/av/football/58436182</guid>
+            <pubDate>Fri, 03 Sep 2021 10:33:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Afghanistan women's cricket team: Players hiding in Kabul fear Taliban rule]]></title>
