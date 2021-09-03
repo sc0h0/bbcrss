@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 03 Sep 2021 09:57:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Sep 2021 10:18:49 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -27,7 +27,7 @@
             <description><![CDATA[The justice secretary does not deny reports that ministers plan to increase national insurance rates.]]></description>
             <link>https://www.bbc.co.uk/news/uk-politics-58430364?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-politics-58430364</guid>
-            <pubDate>Fri, 03 Sep 2021 08:44:46 GMT</pubDate>
+            <pubDate>Fri, 03 Sep 2021 09:58:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Afghanistan: Leaked document warns of refugee funding shortfall]]></title>
@@ -51,11 +51,11 @@
             <pubDate>Fri, 03 Sep 2021 09:15:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Afghanistan: Dominic Raab visits Pakistan in push to help fleeing Afghans]]></title>
-            <description><![CDATA[The foreign secretary's regional tour is focused on securing safe passage for those fleeing Afghanistan.]]></description>
+            <title><![CDATA[Afghanistan: Dominic Raab says the UK has shared interest in a stable country]]></title>
+            <description><![CDATA[The foreign secretary says the UK will give £30m in aid to countries bordering Afghanistan.]]></description>
             <link>https://www.bbc.co.uk/news/uk-58427808?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58427808</guid>
-            <pubDate>Fri, 03 Sep 2021 04:25:21 GMT</pubDate>
+            <pubDate>Fri, 03 Sep 2021 10:12:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Islamic State 'Beatle' Alexanda Kotey pleads guilty over US hostage deaths]]></title>
@@ -100,6 +100,20 @@
             <pubDate>Thu, 02 Sep 2021 17:00:10 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Paddle boarder's close encounter with two curious whales]]></title>
+            <description><![CDATA[A drone filmed what the paddle boarder, out on the water on her birthday, calls a "magical moment".]]></description>
+            <link>https://www.bbc.co.uk/news/world-latin-america-58430264?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-latin-america-58430264</guid>
+            <pubDate>Thu, 02 Sep 2021 23:27:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: 'Baking boom saw them fighting over my flour']]></title>
+            <description><![CDATA[Nigel Moon, 69, has dedicated much of his life to restoring and running Whissendine Windmill.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-leicestershire-58358636?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-leicestershire-58358636</guid>
+            <pubDate>Thu, 02 Sep 2021 23:02:27 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Bristol's Love Saves the Day and Idles attracts crowds of 60,000]]></title>
             <description><![CDATA[Bristol's Team Love describe the past 18 months as they plan for 60k people on The Downs this weekend.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-bristol-58398648?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -126,20 +140,6 @@
             <link>https://www.bbc.co.uk/news/blogs-the-papers-58429723?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/blogs-the-papers-58429723</guid>
             <pubDate>Fri, 03 Sep 2021 05:08:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Paddle boarder's close encounter with two curious whales]]></title>
-            <description><![CDATA[A drone filmed what the paddle boarder, out on the water on her birthday, calls a "magical moment".]]></description>
-            <link>https://www.bbc.co.uk/news/world-latin-america-58430264?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-latin-america-58430264</guid>
-            <pubDate>Thu, 02 Sep 2021 23:27:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Coronavirus: 'Baking boom saw them fighting over my flour']]></title>
-            <description><![CDATA[Nigel Moon, 69, has dedicated much of his life to restoring and running Whissendine Windmill.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-leicestershire-58358636?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-leicestershire-58358636</guid>
-            <pubDate>Thu, 02 Sep 2021 23:02:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The moment when flash floods hit NY subway]]></title>
@@ -272,7 +272,7 @@
             <description><![CDATA[Great Britain win three more golds and pass the 100-medal mark at the Tokyo Paralympics]]></description>
             <link>https://www.bbc.co.uk/sport/disability-sport/58431290?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/disability-sport/58431290</guid>
-            <pubDate>Fri, 03 Sep 2021 09:53:18 GMT</pubDate>
+            <pubDate>Fri, 03 Sep 2021 10:10:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[England v India: Watch highlights as wickets tumble on see-saw opening day of fourth Test]]></title>
