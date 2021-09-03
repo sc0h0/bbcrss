@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 03 Sep 2021 10:55:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Sep 2021 11:00:44 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -149,6 +149,13 @@
             <pubDate>Fri, 03 Sep 2021 06:07:48 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Lewis Hamilton top as Dutch Grand Prix first practice delayed by Vettel car problem]]></title>
+            <description><![CDATA[Lewis Hamilton headed title rival Max Verstappen in a bizarrely truncated first practice session at the Dutch Grand Prix.]]></description>
+            <link>https://www.bbc.co.uk/sport/formula1/58435027?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/formula1/58435027</guid>
+            <pubDate>Fri, 03 Sep 2021 10:45:18 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[US Open 2021: Emma Raducanu beats Zhang Shuai to reach third round]]></title>
             <description><![CDATA[British teenager Emma Raducanu delivers another impressive display as she sweeps aside China's Zhang Shuai to reach the US Open third round.]]></description>
             <link>https://www.bbc.co.uk/sport/tennis/58427963?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -168,13 +175,6 @@
             <link>https://www.bbc.co.uk/sport/cricket/58428353?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/cricket/58428353</guid>
             <pubDate>Thu, 02 Sep 2021 18:56:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cristiano Ronaldo: Manchester United forward to wear number seven]]></title>
-            <description><![CDATA[Cristiano Ronaldo will wear the number seven shirt for Manchester United, the club confirms.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58426526?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58426526</guid>
-            <pubDate>Thu, 02 Sep 2021 19:30:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
