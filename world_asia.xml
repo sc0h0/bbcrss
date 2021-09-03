@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 03 Sep 2021 06:09:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Sep 2021 06:35:02 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -23,11 +23,25 @@
             <pubDate>Fri, 03 Sep 2021 05:49:02 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[NZ Prime Minister Jacinda Ardern's response to Auckland terror attack]]></title>
+            <description><![CDATA[Jacinda Ardern says a stabbing attack in Auckland was carried out by a person who was a "known threat ".]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58432042?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58432042</guid>
+            <pubDate>Fri, 03 Sep 2021 06:06:41 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Afghanistan Panjshir: Fighting intensifies over holdout Afghan valley]]></title>
             <description><![CDATA[The Panjshir Valley, near Kabul, is the only area of Afghanistan that has not fallen to the Taliban.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-58430255?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58430255</guid>
             <pubDate>Fri, 03 Sep 2021 03:12:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Panjshir - the valley trying to hold off the Taliban]]></title>
+            <description><![CDATA[The last bastion of resistance is still holding out just north-east of the capital, Kabul.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58420859?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58420859</guid>
+            <pubDate>Thu, 02 Sep 2021 19:03:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[North Korea: Kim Jong-un asks officials to tackle food shortage]]></title>
@@ -91,20 +105,6 @@
             <link>https://www.bbc.co.uk/news/business-58417231?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58417231</guid>
             <pubDate>Thu, 02 Sep 2021 02:33:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Afghan evacuee boy who ate poisonous mushrooms dies in Poland]]></title>
-            <description><![CDATA[The five year old ate the mushrooms at a refugee centre near Warsaw after his evacuation from Kabul.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58421631?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58421631</guid>
-            <pubDate>Thu, 02 Sep 2021 12:53:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo 2020: Anger after Paralympian is stripped of gold medal for being late]]></title>
-            <description><![CDATA[Muhammad Ziyad Zolkefli won his shot put event but had his title revoked because he was three minutes late.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58405211?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58405211</guid>
-            <pubDate>Thu, 02 Sep 2021 03:26:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Syed Ali Shah Geelani: The man who fought for Kashmir’s freedom]]></title>
