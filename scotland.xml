@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 03 Sep 2021 15:53:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Sep 2021 16:30:04 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -21,6 +21,13 @@
             <link>https://www.bbc.co.uk/news/health-58438669?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/health-58438669</guid>
             <pubDate>Fri, 03 Sep 2021 15:30:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid in Scotland: Infection rate reaches highest level]]></title>
+            <description><![CDATA[Figures from the Office for National Statistics suggest one in 75 people had Covid-19 last week.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-58437868?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-58437868</guid>
+            <pubDate>Fri, 03 Sep 2021 16:24:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid in Scotland: Where are the latest cases?]]></title>
@@ -51,13 +58,6 @@
             <pubDate>Fri, 03 Sep 2021 14:50:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Care home staff shortage adding pressure on NHS]]></title>
-            <description><![CDATA[A recruitment crisis in Scotland's care sector will see more people unnecessarily hospitalised, the industry warns.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-58434804?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-58434804</guid>
-            <pubDate>Fri, 03 Sep 2021 10:51:15 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Man arrested after woman's body found in car in Fife]]></title>
             <description><![CDATA[The 48-year-old was found dead in the vehicle in Glenrothes on 9 August.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-58435264?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -65,11 +65,11 @@
             <pubDate>Fri, 03 Sep 2021 10:58:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Three more charged after sectarian singing in Glasgow]]></title>
-            <description><![CDATA[A total of six people have now been arrested after videos circulated on social media of the incident on 29 August.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58436732?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58436732</guid>
-            <pubDate>Fri, 03 Sep 2021 11:19:54 GMT</pubDate>
+            <title><![CDATA[Care home staff shortage adding pressure on NHS]]></title>
+            <description><![CDATA[A recruitment crisis in Scotland's care sector will see more people unnecessarily hospitalised, the industry warns.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-58434804?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-58434804</guid>
+            <pubDate>Fri, 03 Sep 2021 10:51:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Outlander fans' concerns for future of old kirk]]></title>
@@ -79,18 +79,25 @@
             <pubDate>Fri, 03 Sep 2021 15:25:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Breeding seabird numbers in Scotland almost halved since 1980s]]></title>
-            <description><![CDATA[A new study by NatureScot looked at 11 species of breeding birds in Scotland over the last 35 years.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-tayside-central-58414580?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-tayside-central-58414580</guid>
-            <pubDate>Fri, 03 Sep 2021 11:40:02 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Asian gold targeted in housebreakings across Scotland]]></title>
             <description><![CDATA[Homes were targeted in Bathgate, Beith, Stranraer, Cambuslang, Paisley, Stepps, East Kilbride and Glasgow.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-58435259?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-58435259</guid>
             <pubDate>Fri, 03 Sep 2021 11:13:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Three more charged after sectarian singing in Glasgow]]></title>
+            <description><![CDATA[A total of six people have now been arrested after videos circulated on social media of the incident on 29 August.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58436732?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58436732</guid>
+            <pubDate>Fri, 03 Sep 2021 11:19:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Breeding seabird numbers in Scotland almost halved since 1980s]]></title>
+            <description><![CDATA[A new study by NatureScot looked at 11 species of breeding birds in Scotland over the last 35 years.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-tayside-central-58414580?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-tayside-central-58414580</guid>
+            <pubDate>Fri, 03 Sep 2021 11:40:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: How will Scotland's vaccine certificate change?]]></title>
@@ -226,11 +233,11 @@
             <pubDate>Fri, 03 Sep 2021 14:04:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Scotland v Moldova: John McGinn eyes another 'goals flurry' to rekindle World Cup dream]]></title>
-            <description><![CDATA[John McGinn is aiming to help revive Scotland's World Cup finals bid as the midfielder returns from Covid-19 infection to face Moldova.]]></description>
+            <title><![CDATA[Scotland v Moldova: 'Pivotal, must-win' moment for World Cup hopes - Steve Clarke]]></title>
+            <description><![CDATA[Steve Clarke says his Scotland players realise they have reached a critical stage in their World Cup qualifying campaign as they host Moldova on Saturday.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58365963?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58365963</guid>
-            <pubDate>Fri, 03 Sep 2021 12:42:56 GMT</pubDate>
+            <pubDate>Fri, 03 Sep 2021 15:54:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Paralympics: Gordon Reid 'heartbroken' after doubles finals defeat]]></title>
