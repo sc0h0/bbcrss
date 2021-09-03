@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 03 Sep 2021 11:41:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Sep 2021 11:44:55 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -93,13 +93,6 @@
             <pubDate>Thu, 02 Sep 2021 19:18:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Mr Zelensky (finally) goes to Washington]]></title>
-            <description><![CDATA[The Ukrainian president pressed by Donald Trump gets his White House visit - and a new set of worries.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-58414184?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58414184</guid>
-            <pubDate>Wed, 01 Sep 2021 21:43:31 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Dontae Sharpe: 'My 26-year fight to prove my innocence']]></title>
             <description><![CDATA[After two decades wrongfully behind bars, Dontae Sharpe is finally free but there's one more battle to fight.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-58413322?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -112,6 +105,13 @@
             <link>https://www.bbc.co.uk/news/world-us-canada-58416037?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58416037</guid>
             <pubDate>Thu, 02 Sep 2021 21:24:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mr Zelensky (finally) goes to Washington]]></title>
+            <description><![CDATA[The Ukrainian president pressed by Donald Trump gets his White House visit - and a new set of worries.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-58414184?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58414184</guid>
+            <pubDate>Wed, 01 Sep 2021 21:43:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Theranos scandal: Who is Elizabeth Holmes and why is she on trial?]]></title>
