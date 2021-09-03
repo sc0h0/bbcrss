@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 03 Sep 2021 22:57:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Sep 2021 23:16:11 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -23,7 +23,14 @@
             <pubDate>Fri, 03 Sep 2021 21:31:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA['We must continue': In Kabul, Afghans adjust to a new and uncertain fate]]></title>
+            <title><![CDATA[Beijing 2022: China readies for Winter Olympics as pressure grows]]></title>
+            <description><![CDATA[The upcoming Games are already proving controversial with calls for a boycott growing.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-china-58196467?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-china-58196467</guid>
+            <pubDate>Fri, 03 Sep 2021 23:07:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Life in Kabul under Taliban: Where is your male escort?]]></title>
             <description><![CDATA[Lyse Doucet takes the temperature on the streets of the Afghan capital as the Taliban tighten their grip.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-58437713?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58437713</guid>
@@ -91,20 +98,6 @@
             <link>https://www.bbc.co.uk/news/world-asia-china-58430856?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-china-58430856</guid>
             <pubDate>Fri, 03 Sep 2021 04:08:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[China set to open new stock exchange in Beijing]]></title>
-            <description><![CDATA[The announcement comes as Chinese firms are under intense scrutiny both at home and in the US.]]></description>
-            <link>https://www.bbc.co.uk/news/business-58417235?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58417235</guid>
-            <pubDate>Fri, 03 Sep 2021 03:22:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TCS: India's largest private employer returns to office]]></title>
-            <description><![CDATA[IT services giant TCS says it's ready to go back to the office after 18 months - how will that work?]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-india-58339646?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-india-58339646</guid>
-            <pubDate>Thu, 02 Sep 2021 23:51:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Afghanistan: What rise of Taliban means for Pakistan]]></title>
