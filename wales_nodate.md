@@ -1,4 +1,4 @@
-1. [M4 closed between Swansea and Llanelli after 'serious incident'](https://www.bbc.co.uk/news/uk-wales-58435904?at_medium=RSS&at_campaign=KARANGA) - An air ambulance is at the scene and motorists are being advised to use alternative routes.
+1. [M4 closed between Swansea and Llanelli after 'serious incident'](https://www.bbc.co.uk/news/uk-wales-58435904?at_medium=RSS&at_campaign=KARANGA) - Motorists are being advised to use different routes while emergency services are at the scene.
 2. [Recycling: Bin delays blamed on Covid and driver shortage](https://www.bbc.co.uk/news/uk-wales-58429145?at_medium=RSS&at_campaign=KARANGA) - Some people across Wales are complaining their bins have not been collected for weeks.
 3. [Climate change: M4 drivers asked for views on tolls for older cars](https://www.bbc.co.uk/news/uk-wales-58424221?at_medium=RSS&at_campaign=KARANGA) - A Welsh Government survey asks for views on tolls for older cars on two of Wales' busiest roads.
 4. [Dyfed-Powys Police officer stole van battery after crash](https://www.bbc.co.uk/news/uk-wales-58433144?at_medium=RSS&at_campaign=KARANGA) - Oliver George West, 31, stole the battery from the scene of the crash and took it home.
@@ -23,5 +23,5 @@
 23. [Codi tollau ffyrdd yn cael 'effaith andwyol ar y tlotaf'](https://www.bbc.co.uk/newyddion/58425536?at_medium=RSS&at_campaign=KARANGA) - Pryder am effaith codi tollau ar rannau o ffyrdd ger Pontypridd a Chasnewydd ar bobl difreintiedig cymdeithas.
 24. [Ymchwiliad llofruddiaeth wedi 'marwolaeth annisgwyl'](https://www.bbc.co.uk/newyddion/58434706?at_medium=RSS&at_campaign=KARANGA) - Mae dyn 53 oed wedi cael ei arestio ar amheuaeth o lofruddiaeth wedi marwolaeth dyn yn Y Barri.
 25. [Cynllun i droi hen ysgol yn llety gwyliau'n codi cynnen](https://www.bbc.co.uk/newyddion/58426003?at_medium=RSS&at_campaign=KARANGA) - Trigolion lleol yn gwrthwynebu cais i droi hen ysgol Rowen yn llety gwyliau moethus.
-26. [Oriel: Cerdded 870 milltir o gwmpas Cymru](https://www.bbc.co.uk/newyddion/58401087?at_medium=RSS&at_campaign=KARANGA) - Mae Catrin Wyn Davies wedi treulio 79 diwrnod yn cwblhau Llwybr Arfordir Cymru
+26. [3 Llun: Lluniau pwysicaf bywyd Iolo Williams](https://www.bbc.co.uk/newyddion/58341555?at_medium=RSS&at_campaign=KARANGA) - Pa ffotograffau yw'r rhai mwyaf arwyddocaol i'r naturiaethwr?
 27. [Chwarae da ond dim goliau i Gymru yn erbyn Y Ffindir](https://www.bbc.co.uk/newyddion/58415167?at_medium=RSS&at_campaign=KARANGA) - Methodd Harry Wilson gic o'r smotyn wrth i Gymru baratoi ar gyfer gemau nesaf ymgyrch Cwpan y Byd 2022.
