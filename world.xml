@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 03 Sep 2021 21:50:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Sep 2021 22:34:19 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -184,6 +184,13 @@
             <pubDate>Thu, 02 Sep 2021 23:02:32 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Afghanistan: What rise of Taliban means for Pakistan]]></title>
+            <description><![CDATA[Some Western powers hope that Pakistan could play a role as a mediator with the new Taliban government.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58443839?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58443839</guid>
+            <pubDate>Fri, 03 Sep 2021 22:29:42 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Afghanistan: Dominic Raab says the UK has shared interest in a stable country]]></title>
             <description><![CDATA[The foreign secretary says the UK will give £30m in aid to countries bordering Afghanistan.]]></description>
             <link>https://www.bbc.co.uk/news/uk-58427808?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -203,13 +210,6 @@
             <link>https://www.bbc.co.uk/news/uk-politics-58426588?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-politics-58426588</guid>
             <pubDate>Thu, 02 Sep 2021 18:28:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Afghanistan: Qatar and Turkey become Taliban's lifeline to the outside world]]></title>
-            <description><![CDATA[Qatar and Turkey emerge as key channels between Afghanistan's new rulers and the outside world.]]></description>
-            <link>https://www.bbc.co.uk/news/world-middle-east-58394438?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-middle-east-58394438</guid>
-            <pubDate>Thu, 02 Sep 2021 08:56:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
