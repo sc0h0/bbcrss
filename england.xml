@@ -11,13 +11,13 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 04 Sep 2021 17:09:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Sep 2021 17:28:00 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
             <title><![CDATA[Two injured after plane crashes into sea in Bournemouth]]></title>
-            <description><![CDATA[The bi-plane is understood to have formed part of a wing-walkers display.]]></description>
+            <description><![CDATA[The bi-plane is understood to have formed part of a wing-walker display.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-dorset-58448700?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-dorset-58448700</guid>
             <pubDate>Sat, 04 Sep 2021 17:00:27 GMT</pubDate>
@@ -27,7 +27,7 @@
             <description><![CDATA[The divers were exploring a former Royal Navy frigate which was sunk to create an offshore reef.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-cornwall-58443729?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-cornwall-58443729</guid>
-            <pubDate>Sat, 04 Sep 2021 12:42:22 GMT</pubDate>
+            <pubDate>Sat, 04 Sep 2021 17:11:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Church abuse: Batley vicar jailed for assaulting three-year-old]]></title>
@@ -37,13 +37,6 @@
             <pubDate>Sat, 04 Sep 2021 08:45:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[M62 crash: Police officer seriously injured in collision]]></title>
-            <description><![CDATA[West Yorkshire Police were trying to stop a car on the M62 when the crash happened.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-58447179?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-58447179</guid>
-            <pubDate>Sat, 04 Sep 2021 15:58:35 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Attenborough ATM raid: Thieves wreck machine but flee empty-handed]]></title>
             <description><![CDATA[Police say they left the scene in a getaway car after abandoning the cash machine and stolen van.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-nottinghamshire-58448325?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -51,11 +44,18 @@
             <pubDate>Sat, 04 Sep 2021 15:21:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Stamford Hill: Man in court over unprovoked attacks]]></title>
-            <description><![CDATA[Abdullah Qureshi appears in court charged over a series of attacks in Stamford Hill, north London.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-london-58447120?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-london-58447120</guid>
-            <pubDate>Sat, 04 Sep 2021 14:50:14 GMT</pubDate>
+            <title><![CDATA[Police name woman who died in Arthur's Seat fall in Edinburgh]]></title>
+            <description><![CDATA[A man is charged after Fawziyah Javed, 31, died following a cliff fall in Edinburgh on Thursday evening.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-58450378?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-58450378</guid>
+            <pubDate>Sat, 04 Sep 2021 17:14:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[M62 crash: Police officer seriously injured in collision]]></title>
+            <description><![CDATA[West Yorkshire Police were trying to stop a car on the M62 when the crash happened.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-58447179?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-58447179</guid>
+            <pubDate>Sat, 04 Sep 2021 15:58:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Singing Leicestershire plumber lands record deal on job]]></title>
@@ -63,6 +63,13 @@
             <link>https://www.bbc.co.uk/news/uk-england-leicestershire-58438715?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-leicestershire-58438715</guid>
             <pubDate>Sat, 04 Sep 2021 06:52:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Stamford Hill: Man in court over unprovoked attacks]]></title>
+            <description><![CDATA[Abdullah Qureshi appears in court charged over a series of attacks in Stamford Hill, north London.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-58447120?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-london-58447120</guid>
+            <pubDate>Sat, 04 Sep 2021 14:50:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Heathrow criticises Border Force for 'unacceptable' queues]]></title>
@@ -181,7 +188,7 @@
             <description><![CDATA[Rohit Sharma's imperious century gives India the edge over England after three days of a fascinating fourth Test at The Oval.]]></description>
             <link>https://www.bbc.co.uk/sport/cricket/58443010?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/cricket/58443010</guid>
-            <pubDate>Sat, 04 Sep 2021 17:07:54 GMT</pubDate>
+            <pubDate>Sat, 04 Sep 2021 17:10:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Chelsea boss Hayes raring to go for new WSL season]]></title>
