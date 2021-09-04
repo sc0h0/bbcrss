@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 04 Sep 2021 01:42:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Sep 2021 02:19:22 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -107,6 +107,13 @@
             <pubDate>Fri, 03 Sep 2021 22:15:10 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The Papers: Child jabs decision 'chaos', and royal funeral leak]]></title>
+            <description><![CDATA[Dominating Saturday's papers are reports that plans to vaccinate 12-15-year-olds are due to go ahead.]]></description>
+            <link>https://www.bbc.co.uk/news/blogs-the-papers-58443809?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/blogs-the-papers-58443809</guid>
+            <pubDate>Fri, 03 Sep 2021 23:18:59 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Rave reviews for Kristen Stewart as Princess Diana in new film Spencer]]></title>
             <description><![CDATA[The Twilight star "will be instantly and justifiably awards-tipped" for Spencer, some critics say.]]></description>
             <link>https://www.bbc.co.uk/news/entertainment-arts-58438955?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -177,6 +184,34 @@
             <pubDate>Fri, 03 Sep 2021 06:33:47 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[What's it like to be in the 1% of female lorry drivers?]]></title>
+            <description><![CDATA[The chronic shortage of lorry drivers has led haulage firms to try to attract more women to the role.]]></description>
+            <link>https://www.bbc.co.uk/news/business-58401238?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58401238</guid>
+            <pubDate>Fri, 03 Sep 2021 21:03:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['I've eaten the same breakfast for the last 22 years']]></title>
+            <description><![CDATA[A veteran hotel inspector reveals the highs and lows of working undercover in Scotland.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-scotland-business-58323888?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-scotland-business-58323888</guid>
+            <pubDate>Fri, 03 Sep 2021 21:47:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why has Australia switched tack on Covid zero?]]></title>
+            <description><![CDATA[Australia is racing to vaccinate its population ahead of a huge shift in its pandemic strategy.]]></description>
+            <link>https://www.bbc.co.uk/news/world-australia-58406526?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-australia-58406526</guid>
+            <pubDate>Fri, 03 Sep 2021 14:50:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Beijing 2022: China readies for Winter Olympics as pressure grows]]></title>
+            <description><![CDATA[The upcoming Games are already proving controversial with calls for a boycott growing.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-china-58196467?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-china-58196467</guid>
+            <pubDate>Fri, 03 Sep 2021 23:07:17 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Then and now: Why deforestation is such a hot topic]]></title>
             <description><![CDATA[Trees are part of the solution for climate change, but are we felling more than we are planting?]]></description>
             <link>https://www.bbc.co.uk/news/science-environment-58399809?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -191,6 +226,13 @@
             <pubDate>Thu, 02 Sep 2021 10:40:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[German election: Who could succeed Angela Merkel as chancellor?]]></title>
+            <description><![CDATA[A lacklustre lead candidate and a surprisingly strong Social Democrat have blown the race wide open.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-56821462?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-56821462</guid>
+            <pubDate>Fri, 03 Sep 2021 15:44:29 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Why China's bitcoin miners are moving to Texas]]></title>
             <description><![CDATA[Beijing's crackdown on cryptocurrency sends bitcoin entrepreneurs moving to the wild wild west.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-58414555?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -198,60 +240,11 @@
             <pubDate>Fri, 03 Sep 2021 23:13:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Papers: Child jabs decision 'chaos', and royal funeral leak]]></title>
-            <description><![CDATA[Dominating Saturday's papers are reports that plans to vaccinate 12-15-year-olds are due to go ahead.]]></description>
-            <link>https://www.bbc.co.uk/news/blogs-the-papers-58443809?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/blogs-the-papers-58443809</guid>
-            <pubDate>Fri, 03 Sep 2021 23:18:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Will Hurricane Ida cause a spike in Covid-19? ]]></title>
-            <description><![CDATA[Residents and experts fear the storm's damage will go beyond destruction from floods and winds.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-58439863?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58439863</guid>
-            <pubDate>Fri, 03 Sep 2021 21:06:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: What Israel tells us about the way out of the pandemic]]></title>
-            <description><![CDATA[Third jabs given as part of a booster programme are beginning to dampen the latest Covid surge.]]></description>
-            <link>https://www.bbc.co.uk/news/health-58432776?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/health-58432776</guid>
-            <pubDate>Fri, 03 Sep 2021 16:28:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Child sex abuse cases find prince and priests]]></title>
-            <description><![CDATA[Prince Andrew, Bob Dylan, Catholic priests and others face suits after a change in New York law.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-58322592?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58322592</guid>
-            <pubDate>Thu, 02 Sep 2021 23:00:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Europe turned sour on Joe Biden]]></title>
-            <description><![CDATA[In many EU circles, the honeymoon period for Donald Trump's successor may be coming to an end.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58416848?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58416848</guid>
-            <pubDate>Thu, 02 Sep 2021 23:05:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['I'm living my childhood dream as a theme park designer']]></title>
-            <description><![CDATA[Bitten by the funfair bug when just three in Aberdeen, Iona Jost now works in America designing attractions.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-58308830?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-58308830</guid>
-            <pubDate>Fri, 03 Sep 2021 05:11:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to back up your data and keep it safe]]></title>
-            <description><![CDATA[Experts recommend using three drives to back up your data and using cloud-based services.]]></description>
-            <link>https://www.bbc.co.uk/news/business-58050387?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58050387</guid>
-            <pubDate>Thu, 02 Sep 2021 23:48:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Molly-Mae: 'I’m not just an influencer any more']]></title>
-            <description><![CDATA[The former Love Island contestant is taking on a new job as a creative director in fashion.]]></description>
-            <link>https://www.bbc.co.uk/news/newsbeat-58409888?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/newsbeat-58409888</guid>
-            <pubDate>Fri, 03 Sep 2021 01:01:08 GMT</pubDate>
+            <title><![CDATA[Sahel jihadists: West Africa faces up to policing its terror triangle]]></title>
+            <description><![CDATA[New tactics are being used in the fight against jihadists as Chad and France reduce their military roles.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-58438905?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-africa-58438905</guid>
+            <pubDate>Fri, 03 Sep 2021 23:11:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[England-India Test finely poised after see-saw day - highlights & report]]></title>
@@ -265,7 +258,14 @@
             <description><![CDATA[Hannah Cockroft wins her seventh Paralympic gold medal as British team-mate Kare Adenegan takes silver in the women's T34 800m at Tokyo 2020.]]></description>
             <link>https://www.bbc.co.uk/sport/disability-sport/58445274?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/disability-sport/58445274</guid>
-            <pubDate>Sat, 04 Sep 2021 01:24:24 GMT</pubDate>
+            <pubDate>Sat, 04 Sep 2021 02:16:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Canadian teenager Fernandez shocks defending champion Osaka]]></title>
+            <description><![CDATA[Naomi Osaka's US Open title defence is over as she falls in the third round to a stunning performance by Canadian teenager Leylah Fernandez.]]></description>
+            <link>https://www.bbc.co.uk/sport/tennis/58442969?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/58442969</guid>
+            <pubDate>Sat, 04 Sep 2021 02:11:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Brussels Diamond League: Christine Mboma beats Dina Asher-Smith in 200m]]></title>
@@ -294,13 +294,6 @@
             <link>https://www.bbc.co.uk/sport/av/cricket/58440844?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/av/cricket/58440844</guid>
             <pubDate>Fri, 03 Sep 2021 18:03:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Diamond League: Christine Mboma wins 200m as Dina Asher-Smith third in Brussels]]></title>
-            <description><![CDATA[Namibian Christine Mboma wins the women's 200m in a time of 21.84 seconds as Great Britain's Dina Asher-Smith finishes in third at the Diamond League in Brussels.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/athletics/58443441?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/av/athletics/58443441</guid>
-            <pubDate>Fri, 03 Sep 2021 19:25:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Afghanistan: Despair of Brits and UK allies stuck behind Taliban lines]]></title>
