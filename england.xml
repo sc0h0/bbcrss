@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 04 Sep 2021 15:59:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Sep 2021 16:35:46 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Crash reported at Bournemouth Air Festival]]></title>
+            <description><![CDATA[The crew are being "looked after by emergency services" after an incident in Bournemouth.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-dorset-58448700?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-dorset-58448700</guid>
+            <pubDate>Sat, 04 Sep 2021 16:33:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Two missing divers presumed dead off Cornwall coast]]></title>
             <description><![CDATA[The divers were exploring a former Royal Navy frigate which was sunk to create an offshore reef.]]></description>
@@ -44,13 +51,6 @@
             <pubDate>Sat, 04 Sep 2021 15:21:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Heathrow criticises Border Force for 'unacceptable' queues]]></title>
-            <description><![CDATA[The airport says too few staff were on duty at passport control as families returned from holiday.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58448565?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58448565</guid>
-            <pubDate>Sat, 04 Sep 2021 14:17:20 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Stamford Hill: Man in court over unprovoked attacks]]></title>
             <description><![CDATA[Abdullah Qureshi appears in court charged over a series of attacks in Stamford Hill, north London.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-london-58447120?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -63,6 +63,13 @@
             <link>https://www.bbc.co.uk/news/uk-england-leicestershire-58438715?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-leicestershire-58438715</guid>
             <pubDate>Sat, 04 Sep 2021 06:52:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Heathrow criticises Border Force for 'unacceptable' queues]]></title>
+            <description><![CDATA[The airport says too few staff were on duty at passport control as families returned from holiday.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-58448565?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58448565</guid>
+            <pubDate>Sat, 04 Sep 2021 14:17:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Essex baby given £1.79m drug makes 'huge progress']]></title>
@@ -175,6 +182,20 @@
             <link>https://www.bbc.co.uk/sport/football/58366049?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58366049</guid>
             <pubDate>Sat, 04 Sep 2021 15:31:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Verstappen beats Hamilton to pole position ]]></title>
+            <description><![CDATA[Max Verstappen beats Lewis Hamilton to pole position at the Dutch Grand Prix by just 0.038 seconds, sending his devoted home fans wild.]]></description>
+            <link>https://www.bbc.co.uk/sport/formula1/58447720?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/formula1/58447720</guid>
+            <pubDate>Sat, 04 Sep 2021 14:27:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jadon Sancho: Man Utd winger out of England squad because of 'minor knock']]></title>
+            <description><![CDATA[Manchester United winger Jadon Sancho has left the England squad after sustaining a "minor knock".]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58447062?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58447062</guid>
+            <pubDate>Sat, 04 Sep 2021 11:26:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
