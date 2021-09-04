@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 04 Sep 2021 12:16:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Sep 2021 12:43:48 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Twinbrook: Man suffers stab wounds to head in Belfast attack]]></title>
+            <description><![CDATA[One man is arrested over the attack which happened in the Twinbrook estate in west Belfast.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58448515?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58448515</guid>
+            <pubDate>Sat, 04 Sep 2021 12:36:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Covid-19: Testing term ahead as pupils returned to school]]></title>
             <description><![CDATA[Concerns are raised about self-isolation advice and how the school return may affect case numbers.]]></description>
@@ -58,13 +65,6 @@
             <pubDate>Sat, 04 Sep 2021 10:21:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Scientists not backing Covid jabs for 12 to 15-year-olds]]></title>
-            <description><![CDATA[But 200,000 extra children with underlying conditions will now be eligible for two doses.]]></description>
-            <link>https://www.bbc.co.uk/news/health-58438669?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/health-58438669</guid>
-            <pubDate>Fri, 03 Sep 2021 17:49:03 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Toome: Arrest after millions of suspected counterfeit cigarettes seized]]></title>
             <description><![CDATA[HMRC says the discovery near Toome, County Antrim, represents a £3m loss in duty and taxes.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58441327?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -100,6 +100,13 @@
             <pubDate>Fri, 03 Sep 2021 11:54:23 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Scientists not backing Covid jabs for 12 to 15-year-olds]]></title>
+            <description><![CDATA[But 200,000 extra children with underlying conditions will now be eligible for two doses.]]></description>
+            <link>https://www.bbc.co.uk/news/health-58438669?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/health-58438669</guid>
+            <pubDate>Fri, 03 Sep 2021 17:49:03 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Covid-19: Nine more Covid-linked deaths and 1,248 new cases]]></title>
             <description><![CDATA[The total number of deaths linked to Covid-19 in NI since the start of the pandemic is 2,394.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58437735?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -126,13 +133,6 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58397189?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58397189</guid>
             <pubDate>Tue, 31 Aug 2021 16:38:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NI hospitals: 400 emergency patients wait over 12 hours for bed]]></title>
-            <description><![CDATA[A senior doctor says many of those waiting for beds are "our most vulnerable patients".]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58393877?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58393877</guid>
-            <pubDate>Tue, 31 Aug 2021 09:00:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Northern Ireland weather: Third-warmest summer since records began]]></title>
