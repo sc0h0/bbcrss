@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 04 Sep 2021 17:39:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Sep 2021 17:49:31 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -51,18 +51,18 @@
             <pubDate>Sat, 04 Sep 2021 14:26:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Car driver dies in crash with lorry in Gorebridge]]></title>
-            <description><![CDATA[The 52-year-old man was pronounced dead at the scene of the crash which happened in Gorebridge on Friday.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-58447165?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-58447165</guid>
-            <pubDate>Sat, 04 Sep 2021 09:09:26 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA['I've eaten the same breakfast for the last 22 years']]></title>
             <description><![CDATA[A veteran hotel inspector reveals the highs and lows of working undercover in Scotland.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-scotland-business-58323888?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-scotland-business-58323888</guid>
             <pubDate>Sat, 04 Sep 2021 08:10:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Car driver dies in crash with lorry in Gorebridge]]></title>
+            <description><![CDATA[The 52-year-old man was pronounced dead at the scene of the crash which happened in Gorebridge on Friday.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-58447165?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-58447165</guid>
+            <pubDate>Sat, 04 Sep 2021 09:09:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid in Scotland: What do we know about the vaccine passport?]]></title>
@@ -84,13 +84,6 @@
             <link>https://www.bbc.co.uk/sport/disability-sport/58448220?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/disability-sport/58448220</guid>
             <pubDate>Sat, 04 Sep 2021 11:23:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid in Scotland: Infection rate reaches highest level]]></title>
-            <description><![CDATA[Figures from the Office for National Statistics suggest one in 75 people had Covid-19 last week.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-58437868?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-58437868</guid>
-            <pubDate>Fri, 03 Sep 2021 16:24:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why vaccinating all teens is a difficult decision]]></title>
@@ -224,6 +217,13 @@
             <link>https://www.bbc.co.uk/sport/football/58447302?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58447302</guid>
             <pubDate>Sat, 04 Sep 2021 09:31:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Scotland v Moldova: Who made your starting XI at Hampden?]]></title>
+            <description><![CDATA[Scotland are back at Hampden for Saturday's crucial World Cup qualifier against Moldova, so who made BBC Sport website users' XI for the match?]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58415617?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58415617</guid>
+            <pubDate>Sat, 04 Sep 2021 09:59:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
