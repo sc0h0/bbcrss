@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 04 Sep 2021 12:46:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Sep 2021 13:10:49 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -65,6 +65,13 @@
             <pubDate>Sat, 04 Sep 2021 05:37:57 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Church abuse: Batley vicar jailed for assaulting three-year-old]]></title>
+            <description><![CDATA[A judge slams "hypocrite" Gordon Newton, who admitted a series of assaults on the child.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-leeds-58437999?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-leeds-58437999</guid>
+            <pubDate>Sat, 04 Sep 2021 08:45:13 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[M62 crash: Police officer seriously injured in collision]]></title>
             <description><![CDATA[West Yorkshire Police were trying to stop a car on the M62 when the crash happened.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-58447179?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -79,18 +86,11 @@
             <pubDate>Sat, 04 Sep 2021 06:52:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Hardys wine owner warns of Christmas shortage risk]]></title>
-            <description><![CDATA[The firm behind Echo Falls says continued staff shortages could definitely hit the festive season.]]></description>
-            <link>https://www.bbc.co.uk/news/business-58428800?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58428800</guid>
-            <pubDate>Fri, 03 Sep 2021 18:05:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['My parents won't let me get the Covid vaccine']]></title>
-            <description><![CDATA[In some countries, the Covid-19 vaccine can be given to all teenagers over the age of 12 but not all are allowed.]]></description>
-            <link>https://www.bbc.co.uk/news/health-58437672?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/health-58437672</guid>
-            <pubDate>Fri, 03 Sep 2021 23:08:35 GMT</pubDate>
+            <title><![CDATA[Covid: What do parents think about vaccinating children?]]></title>
+            <description><![CDATA[Parents share their thoughts on the prospect of offering Covid vaccines to all 12 to 15-year-olds.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-58447040?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58447040</guid>
+            <pubDate>Sat, 04 Sep 2021 12:21:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Afghanistan: British Army officers tell of 'chaotic' evacuation operation]]></title>
@@ -121,18 +121,25 @@
             <pubDate>Fri, 03 Sep 2021 05:05:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Papers: Child jabs decision 'chaos', and royal funeral leak]]></title>
-            <description><![CDATA[Dominating Saturday's papers are reports that plans to vaccinate 12-15-year-olds are due to go ahead.]]></description>
-            <link>https://www.bbc.co.uk/news/blogs-the-papers-58443809?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/blogs-the-papers-58443809</guid>
-            <pubDate>Sat, 04 Sep 2021 05:19:45 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The ATMs that dispense green fuel]]></title>
             <description><![CDATA[How a start-up in Kenya is changing the way people cook.]]></description>
             <link>https://www.bbc.co.uk/news/stories-58425184?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/stories-58425184</guid>
             <pubDate>Fri, 03 Sep 2021 23:15:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['My parents won't let me get the Covid vaccine']]></title>
+            <description><![CDATA[In some countries, the Covid-19 vaccine can be given to all teenagers over the age of 12 but not all are allowed.]]></description>
+            <link>https://www.bbc.co.uk/news/health-58437672?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/health-58437672</guid>
+            <pubDate>Fri, 03 Sep 2021 23:08:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Papers: Child jabs decision 'chaos', and royal funeral leak]]></title>
+            <description><![CDATA[Dominating Saturday's papers are reports that plans to vaccinate 12-15-year-olds are due to go ahead.]]></description>
+            <link>https://www.bbc.co.uk/news/blogs-the-papers-58443809?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/blogs-the-papers-58443809</guid>
+            <pubDate>Sat, 04 Sep 2021 05:19:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Strictly's Ballas lights up Blackpool Illuminations]]></title>
@@ -198,13 +205,6 @@
             <pubDate>Thu, 02 Sep 2021 10:40:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Life under the Taliban: Where is your male escort?]]></title>
-            <description><![CDATA[Lyse Doucet takes the temperature on the streets of the Afghan capital as the Taliban tighten their grip.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58437713?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58437713</guid>
-            <pubDate>Fri, 03 Sep 2021 14:34:33 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[German election: Who could succeed Angela Merkel as chancellor?]]></title>
             <description><![CDATA[A lacklustre lead candidate and a surprisingly strong Social Democrat have blown the race wide open.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-56821462?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -259,6 +259,13 @@
             <link>https://www.bbc.co.uk/news/uk-58434887?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58434887</guid>
             <pubDate>Sat, 04 Sep 2021 00:25:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Life under the Taliban: Where is your male escort?]]></title>
+            <description><![CDATA[Lyse Doucet takes the temperature on the streets of the Afghan capital as the Taliban tighten their grip.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58437713?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58437713</guid>
+            <pubDate>Fri, 03 Sep 2021 14:34:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Kabul drone strike: The key questions about a US attack]]></title>
@@ -356,7 +363,7 @@
             <description><![CDATA[British athletes Hannah Cockroft and Aled Sion Davies retain their Paralympic titles, as canoeists Charlotte Henshaw and Laura Sugar also triumph on day 11 in Tokyo.]]></description>
             <link>https://www.bbc.co.uk/sport/disability-sport/58445274?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/disability-sport/58445274</guid>
-            <pubDate>Sat, 04 Sep 2021 12:13:14 GMT</pubDate>
+            <pubDate>Sat, 04 Sep 2021 12:56:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Which country has won most golds?]]></title>
@@ -370,7 +377,7 @@
             <description><![CDATA[A list of the Great Britain medal winners from the Tokyo 2020 Paralympics.]]></description>
             <link>https://www.bbc.co.uk/sport/disability-sport/58267875?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/disability-sport/58267875</guid>
-            <pubDate>Fri, 03 Sep 2021 14:35:24 GMT</pubDate>
+            <pubDate>Sat, 04 Sep 2021 13:03:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Paralympics: Great Britain win three golds and pass 100-medal mark]]></title>
