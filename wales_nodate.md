@@ -24,4 +24,4 @@
 24. [Plaid Cymru: 'Byddai'n synhwyrol brechu plant dros 12'](https://www.bbc.co.uk/newyddion/58438336?at_medium=RSS&at_campaign=KARANGA) - Mae'r Cyd-bwyllgor ar Imiwneiddio a Brechu wedi dweud nad oes digon o dystiolaeth i frechu plant iach.
 25. [Medal aur arall i Aled Siôn Davies](https://www.bbc.co.uk/newyddion/58446894?at_medium=RSS&at_campaign=KARANGA) - Y Cymro o Ben-y-bont yn ennill ei drydedd fedal aur wrth gystadlu yn y taflu pwysau F63.
 26. [71 achos o Covid wedi'u cysylltu â Gŵyl y Dyn Gwyrdd](https://www.bbc.co.uk/newyddion/58450363?at_medium=RSS&at_campaign=KARANGA) - Dywed Iechyd Cyhoeddus Cymru nad yw'r achosion, o reidrwydd, wedi cael eu trosglwyddo yn ystod yr ŵyl.
-27. [Chwarae da ond dim goliau i Gymru yn erbyn Y Ffindir](https://www.bbc.co.uk/newyddion/58415167?at_medium=RSS&at_campaign=KARANGA) - Methodd Harry Wilson gic o'r smotyn wrth i Gymru baratoi ar gyfer gemau nesaf ymgyrch Cwpan y Byd 2022.
+27. [Y Gynghrair Genedlaethol: Southend 2-2 Wrecsam](https://www.bbc.co.uk/newyddion/58432413?at_medium=RSS&at_campaign=KARANGA) - Wrecsam yn parhau'n ddiguro wedi iddynt gael gêm gyfartal oddi cartref yn erbyn Southend.
