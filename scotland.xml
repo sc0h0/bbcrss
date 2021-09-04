@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 04 Sep 2021 21:56:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Sep 2021 22:19:12 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -35,6 +35,13 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-58450378?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-58450378</guid>
             <pubDate>Sat, 04 Sep 2021 17:14:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Scotland 1-0 Moldova: Lyndon Dykes goal keeps Steve Clarke's side in World Cup hunt]]></title>
+            <description><![CDATA[Scotland keep their World Cup qualification dream alive with a narrow but deserved win over Moldova thanks to Lyndon Dykes' first-half tap-in.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58365963?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58365963</guid>
+            <pubDate>Sat, 04 Sep 2021 20:36:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Scottish Episcopal Church considers bullying report]]></title>
@@ -205,13 +212,6 @@
             <pubDate>Sat, 04 Sep 2021 21:28:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Scotland 1-0 Moldova: Lyndon Dykes goal keeps Steve Clarke's side in World Cup hunt]]></title>
-            <description><![CDATA[Scotland keep their World Cup qualification dream alive with a narrow but deserved win over Moldova thanks to Lyndon Dykes' first-half tap-in.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58365963?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58365963</guid>
-            <pubDate>Sat, 04 Sep 2021 20:36:42 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Tokyo Paralympics: Gordon Reid 'sorry' he had to play Alfie Hewett]]></title>
             <description><![CDATA[Gordon Reid says his Paralympic wheelchair tennis singles bronze-medal win against close friend and doubles partner Alfie Hewett was "the most difficult match" he has played.]]></description>
             <link>https://www.bbc.co.uk/sport/disability-sport/58449246?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -226,11 +226,18 @@
             <pubDate>Sat, 04 Sep 2021 09:31:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Scottish Gossip: Scotland, McGinn, Clarke, Gilmour, Celtic, Hearts]]></title>
-            <description><![CDATA[Scotland's John McGinn defends manager as Billy Gilmour is tipped to shine at Hampden.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58446809?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58446809</guid>
-            <pubDate>Sat, 04 Sep 2021 07:39:30 GMT</pubDate>
+            <title><![CDATA[World Cup 2022: How far are Scotland from qualifying for Qatar?]]></title>
+            <description><![CDATA[How are Scotland's prospects of making it to Qatar 2022 after defeating Moldova?]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58215232?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58215232</guid>
+            <pubDate>Sat, 04 Sep 2021 21:59:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Shinty: Lovat reach fourth Camanachd Cup final in six seasons]]></title>
+            <description><![CDATA[Lovat reached their fourth Camanachd Cup final in six seasons after defeating favourites Kingussie 3-2 in a pulsating semi-final at Fort William.]]></description>
+            <link>https://www.bbc.co.uk/sport/scotland/58451397?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/scotland/58451397</guid>
+            <pubDate>Sat, 04 Sep 2021 22:07:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
