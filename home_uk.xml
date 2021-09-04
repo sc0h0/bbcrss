@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 03 Sep 2021 23:53:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Sep 2021 00:49:22 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -205,13 +205,6 @@
             <pubDate>Thu, 02 Sep 2021 23:00:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tokyo 2020: The Paralympic dream that started at the supermarket]]></title>
-            <description><![CDATA[Aruba had never had a Paralympic team until a student in her 20s decided to make it happen.]]></description>
-            <link>https://www.bbc.co.uk/news/disability-57837062?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/disability-57837062</guid>
-            <pubDate>Fri, 03 Sep 2021 00:00:46 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[How Europe turned sour on Joe Biden]]></title>
             <description><![CDATA[In many EU circles, the honeymoon period for Donald Trump's successor may be coming to an end.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-58416848?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -345,6 +338,20 @@
             <pubDate>Fri, 03 Sep 2021 21:59:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Afghanistan: Despair of Brits and UK allies stuck behind Taliban lines]]></title>
+            <description><![CDATA[An NHS worker, a teacher and families trapped in Afghanistan tell the BBC about their plans now.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-58434887?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58434887</guid>
+            <pubDate>Sat, 04 Sep 2021 00:25:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kabul drone strike: The key questions about a US attack]]></title>
+            <description><![CDATA[Ten Afghan civilians died when the US targeted a vehicle it says was linked to an imminent bombing.]]></description>
+            <link>https://www.bbc.co.uk/news/58401027?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/58401027</guid>
+            <pubDate>Fri, 03 Sep 2021 23:21:02 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Afghanistan women's cricket team: Players hiding in Kabul fear Taliban rule]]></title>
             <description><![CDATA[Members of Afghanistan's women's cricket team are hiding in Kabul, fearing for their safety following the Taliban's return to power.]]></description>
             <link>https://www.bbc.co.uk/sport/cricket/58396310?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -429,11 +436,11 @@
             <pubDate>Mon, 30 Aug 2021 21:02:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tokyo Paralympics: Great Britain win three golds and pass 100-medal mark]]></title>
-            <description><![CDATA[Great Britain win three more golds on day 10 and pass the 100-medal mark at the Tokyo Paralympics.]]></description>
-            <link>https://www.bbc.co.uk/sport/disability-sport/58431290?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/disability-sport/58431290</guid>
-            <pubDate>Fri, 03 Sep 2021 15:15:15 GMT</pubDate>
+            <title><![CDATA[Which country has won most golds?]]></title>
+            <description><![CDATA[Which country is leading the medal table for the Tokyo 2020 Paralympics? How are Great Britain getting on?]]></description>
+            <link>https://www.bbc.co.uk/sport/disability-sport/58267874?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/disability-sport/58267874</guid>
+            <pubDate>Fri, 03 Sep 2021 14:56:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Paralympics: Who are Great Britain's medal winners?]]></title>
@@ -443,11 +450,18 @@
             <pubDate>Fri, 03 Sep 2021 14:35:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Which country has won most golds?]]></title>
-            <description><![CDATA[Which country is leading the medal table for the Tokyo 2020 Paralympics? How are Great Britain getting on?]]></description>
-            <link>https://www.bbc.co.uk/sport/disability-sport/58267874?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/disability-sport/58267874</guid>
-            <pubDate>Fri, 03 Sep 2021 14:56:33 GMT</pubDate>
+            <title><![CDATA[Tokyo Paralympics: Great Britain win three golds and pass 100-medal mark]]></title>
+            <description><![CDATA[Great Britain win three more golds on day 10 and pass the 100-medal mark at the Tokyo Paralympics.]]></description>
+            <link>https://www.bbc.co.uk/sport/disability-sport/58431290?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/disability-sport/58431290</guid>
+            <pubDate>Fri, 03 Sep 2021 15:15:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo 2020: The Paralympic dream that started at the supermarket]]></title>
+            <description><![CDATA[Aruba had never had a Paralympic team until a student in her 20s decided to make it happen.]]></description>
+            <link>https://www.bbc.co.uk/news/disability-57837062?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/disability-57837062</guid>
+            <pubDate>Fri, 03 Sep 2021 00:00:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Paralympics: What you need to know about Paralympic classification]]></title>
