@@ -11,12 +11,12 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 04 Sep 2021 09:46:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Sep 2021 10:06:58 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
-            <title><![CDATA[Coved in Scotland: 'Still a chance' healthy teens could be vaccinated]]></title>
+            <title><![CDATA[Covid in Scotland: 'Still a chance' healthy teens could be vaccinated]]></title>
             <description><![CDATA[Advice from chief medical officers could see 12 to 15-year-olds get the jab soon, says national clinical director.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-58439024?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-58439024</guid>
@@ -205,13 +205,6 @@
             <pubDate>Fri, 27 Aug 2021 22:02:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Scottish Gossip: Scotland, McGinn, Clarke, Gilmour, Celtic, Hearts]]></title>
-            <description><![CDATA[Scotland's John McGinn defends manager as Billy Gilmour is tipped to shine at Hampden.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58446809?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58446809</guid>
-            <pubDate>Sat, 04 Sep 2021 07:39:30 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Scotland v Moldova: 'Pivotal, must-win' moment for World Cup hopes - Steve Clarke]]></title>
             <description><![CDATA[Steve Clarke says his Scotland players realise they have reached a critical stage in their World Cup qualifying campaign as they host Moldova on Saturday.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58365963?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -219,11 +212,11 @@
             <pubDate>Fri, 03 Sep 2021 15:54:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Five more charged after sectarian singing in Glasgow]]></title>
-            <description><![CDATA[A total of eight people have now been arrested after videos circulated on social media of the incident on 29 August.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58436732?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58436732</guid>
-            <pubDate>Fri, 03 Sep 2021 19:10:17 GMT</pubDate>
+            <title><![CDATA[Scottish Gossip: Scotland, McGinn, Clarke, Gilmour, Celtic, Hearts]]></title>
+            <description><![CDATA[Scotland's John McGinn defends manager as Billy Gilmour is tipped to shine at Hampden.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58446809?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58446809</guid>
+            <pubDate>Sat, 04 Sep 2021 07:39:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[SWPL: Can 14-in-a-row champions Glasgow City do it again as league returns?]]></title>
@@ -231,6 +224,13 @@
             <link>https://www.bbc.co.uk/sport/football/58447302?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58447302</guid>
             <pubDate>Sat, 04 Sep 2021 09:31:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Scotland v Moldova: Who made your starting XI at Hampden?]]></title>
+            <description><![CDATA[Scotland are back at Hampden for Saturday's crucial World Cup qualifier against Moldova, so who made BBC Sport website users' XI for the match?]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58415617?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58415617</guid>
+            <pubDate>Sat, 04 Sep 2021 09:59:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
