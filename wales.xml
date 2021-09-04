@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 04 Sep 2021 15:48:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Sep 2021 16:11:51 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -51,8 +51,15 @@
             <pubDate>Sat, 04 Sep 2021 15:02:33 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Man arrested after woman found unconscious in Tonyrefail]]></title>
+            <description><![CDATA[The 33-year-old woman has been taken to hospital with serious injuries, police say.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-58448720?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-58448720</guid>
+            <pubDate>Sat, 04 Sep 2021 16:08:34 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Awel y Môr: Consultation for wind farm off Wales' coast launched]]></title>
-            <description><![CDATA[About 100 turbines could be constructed off the north Wales coast, with the ability to power 900,000 homes.]]></description>
+            <description><![CDATA[About 100 turbines could be constructed, with the ability to power 900,000 homes.]]></description>
             <link>https://www.bbc.co.uk/news/uk-wales-58434313?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-58434313</guid>
             <pubDate>Sat, 04 Sep 2021 15:41:33 GMT</pubDate>
@@ -65,18 +72,18 @@
             <pubDate>Sat, 04 Sep 2021 13:28:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Adran Leagues: A new era begins for Welsh women's football]]></title>
-            <description><![CDATA[A new era in Welsh women's domestic football begins this weekend as the Adran Leagues kick off.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58448865?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58448865</guid>
-            <pubDate>Sat, 04 Sep 2021 14:44:51 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Borth Fire: High Street blaze ‘coming to an end’]]></title>
             <description><![CDATA[Some 45 firefighters were at the scene at the height of the blaze.]]></description>
             <link>https://www.bbc.co.uk/news/uk-wales-58439503?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-58439503</guid>
             <pubDate>Sat, 04 Sep 2021 08:25:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Adran Leagues: A new era begins for Welsh women's football]]></title>
+            <description><![CDATA[A new era in Welsh women's domestic football begins this weekend as the Adran Leagues kick off.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58448865?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58448865</guid>
+            <pubDate>Sat, 04 Sep 2021 14:44:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[M4 reopens after road closed near Cardiff due to crash]]></title>
@@ -91,13 +98,6 @@
             <link>https://www.bbc.co.uk/news/health-58446539?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/health-58446539</guid>
             <pubDate>Sat, 04 Sep 2021 07:53:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Carmarthenshire council support worker jailed for sexual assaults]]></title>
-            <description><![CDATA[He carried out assaults on visually impaired women while visiting them at home in his council role.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-58439502?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-58439502</guid>
-            <pubDate>Fri, 03 Sep 2021 16:10:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Borth fire: Flames and black smoke billow from blaze]]></title>
@@ -156,28 +156,28 @@
             <pubDate>Sat, 04 Sep 2021 09:59:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Newport County v Leyton Orient]]></title>
-            <description><![CDATA[Live coverage of Saturday's League Two game between Newport County and Leyton Orient.]]></description>
+            <title><![CDATA[Newport County 2-2 Leyton Orient: Telford strike denies O's]]></title>
+            <description><![CDATA[Substitute Dom Telford denies Leyton Orient the win in Newport's first home league match of the season.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58365721?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58365721</guid>
-            <pubDate>Sat, 04 Sep 2021 10:37:43 GMT</pubDate>
+            <pubDate>Sat, 04 Sep 2021 15:56:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Southend United 2-2 Wrexham: Parkinson's unbeaten Reds fight back for point]]></title>
+            <description><![CDATA[Wrexham's unbeaten start to the season continues as they come back from 2-0 down to draw 2-2 at Southend United.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58366075?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58366075</guid>
+            <pubDate>Sat, 04 Sep 2021 15:53:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Welsh Cup: Bala put 17 goals past Brymbo in Welsh Cup]]></title>
-            <description><![CDATA[Bala Town equal the record for the biggest win in the Welsh Cup tie with a 17-1 victory over Brymbo.]]></description>
+            <description><![CDATA[Bala Town equal the record for the biggest margin of victory in the Welsh Cup tie with a 17-1 win over Brymbo.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58425084?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58425084</guid>
             <pubDate>Sat, 04 Sep 2021 15:33:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Connor Roberts: Wales defender's tears on leaving Swansea for Burnley]]></title>
-            <description><![CDATA[Wales defender Connor Roberts says he felt "emotional" leaving Swansea City for Burnley but added he could not turn down a Premier League move.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58443169?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58443169</guid>
-            <pubDate>Fri, 03 Sep 2021 20:13:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Disgwyl penderfyniad ar frechu plant ymhen dyddiau]]></title>
+            <title><![CDATA[Plaid Cymru: 'Byddai'n synhwyrol brechu plant dros 12']]></title>
             <description><![CDATA[Mae'r Cyd-bwyllgor ar Imiwneiddio a Brechu wedi dweud nad oes digon o dystiolaeth i frechu plant iach.]]></description>
             <link>https://www.bbc.co.uk/newyddion/58438336?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/newyddion/58438336</guid>
