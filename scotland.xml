@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 05 Sep 2021 07:49:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Sep 2021 08:15:01 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -28,6 +28,13 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-58450663?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-58450663</guid>
             <pubDate>Sat, 04 Sep 2021 17:37:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Scotland's papers: Vaccine passports' red card and 'cold caller queen']]></title>
+            <description><![CDATA[The SFA and SPFL reaction to the vaccine passport plan and a probe into an influencer make the front pages.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-58453550?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-58453550</guid>
+            <pubDate>Sun, 05 Sep 2021 08:03:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Police name woman who died in Arthur's Seat fall in Edinburgh]]></title>
@@ -49,13 +56,6 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-58448658?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-58448658</guid>
             <pubDate>Sat, 04 Sep 2021 17:51:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid in Scotland: Where are the latest cases?]]></title>
-            <description><![CDATA[A daily update on the number and location of coronavirus cases in Scotland.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-53511877?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-53511877</guid>
-            <pubDate>Sat, 04 Sep 2021 14:26:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Pride march returns to Glasgow after Covid pause]]></title>
@@ -91,6 +91,13 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-58435264?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-58435264</guid>
             <pubDate>Sat, 04 Sep 2021 09:23:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid in Scotland: Where are the latest cases?]]></title>
+            <description><![CDATA[A daily update on the number and location of coronavirus cases in Scotland.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-53511877?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-53511877</guid>
+            <pubDate>Sat, 04 Sep 2021 14:26:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why vaccinating all teens is a difficult decision]]></title>
@@ -205,6 +212,20 @@
             <pubDate>Tue, 31 Aug 2021 05:12:07 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Scotland 1-0 Moldova: Nathan Patterson 'a big player for us' after first start - Steve Clarke]]></title>
+            <description><![CDATA[Head coach Steve Clarke hails Nathan Patterson "a big player for us" after the right-back set up the winning goal against Moldova on his first Scotland start.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58451400?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58451400</guid>
+            <pubDate>Sat, 04 Sep 2021 22:43:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Scottish Gossip: Scotland, Clarke, Gilmour, Dykes, Hanely, Lennon, Sakala]]></title>
+            <description><![CDATA[Steve Clarke not worried by Scotland's lack of cutting edge as Austria are dealt injury blow.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58448837?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58448837</guid>
+            <pubDate>Sun, 05 Sep 2021 07:52:18 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Lobs, volleys & thunderbolts - best SWPL goals from last season]]></title>
             <description><![CDATA[As the new SWPL season gets under way, watch some of the best goals from last term including memorable strikes from champions Glasgow City, Rangers and Celtic]]></description>
             <link>https://www.bbc.co.uk/sport/av/football/58440938?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -217,27 +238,6 @@
             <link>https://www.bbc.co.uk/sport/disability-sport/58449246?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/disability-sport/58449246</guid>
             <pubDate>Sat, 04 Sep 2021 14:41:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[SWPL: Can 14-in-a-row champions Glasgow City do it again as league returns?]]></title>
-            <description><![CDATA[BBC Scotland previews the new SWPL1 season as Glasgow City mount their 14th successive title defence.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58447302?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58447302</guid>
-            <pubDate>Sat, 04 Sep 2021 09:31:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[World Cup 2022: How far are Scotland from qualifying for Qatar?]]></title>
-            <description><![CDATA[How are Scotland's prospects of making it to Qatar 2022 after defeating Moldova?]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58215232?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58215232</guid>
-            <pubDate>Sat, 04 Sep 2021 21:59:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Scotland 1-0 Moldova: Nathan Patterson 'a big player for us' after first start - Steve Clarke]]></title>
-            <description><![CDATA[Head coach Steve Clarke hails Nathan Patterson "a big player for us" after the right-back set up the winning goal against Moldova on his first Scotland start.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58451400?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58451400</guid>
-            <pubDate>Sat, 04 Sep 2021 22:43:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
