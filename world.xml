@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 05 Sep 2021 13:58:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Sep 2021 14:24:33 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Afghanistan: Taliban accused of murdering female police officer]]></title>
+            <description><![CDATA[The killing comes amid increasing reports of escalating repression of women in Afghanistan.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58455826?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58455826</guid>
+            <pubDate>Sun, 05 Sep 2021 14:14:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Afghanistan: Taliban break up women's rights protest in Kabul]]></title>
             <description><![CDATA[The women say the Taliban used tear gas and pepper spray to disperse the latest such protest.]]></description>
@@ -23,18 +30,11 @@
             <pubDate>Sun, 05 Sep 2021 09:45:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Afghanistan: Former vice-president tells BBC he's in Panjshir Valley]]></title>
-            <description><![CDATA[Amrullah Saleh, in the Panjshir Valley, tells the BBC that fighters face a "difficult" situation.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58446881?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58446881</guid>
-            <pubDate>Sat, 04 Sep 2021 11:45:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Yemen war: Saudis intercept Houthi missiles - defence ministry]]></title>
-            <description><![CDATA[Two children are injured by shrapnel, Riyadh says, in an attack the Houthis say targeted Saudi oil.]]></description>
-            <link>https://www.bbc.co.uk/news/world-middle-east-58454674?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-middle-east-58454674</guid>
-            <pubDate>Sun, 05 Sep 2021 11:22:28 GMT</pubDate>
+            <title><![CDATA[Guinea capital Conakry rocked by reports of coup attempt]]></title>
+            <description><![CDATA[An unverified video shows the president detained, while some say an attempted coup was thwarted.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-58453778?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-africa-58453778</guid>
+            <pubDate>Sun, 05 Sep 2021 14:16:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Moment boy cuts ribbon too soon at opening ceremony in Turkey]]></title>
@@ -44,11 +44,11 @@
             <pubDate>Sun, 05 Sep 2021 11:22:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Guinea capital Conakry rocked by heavy gunfire]]></title>
-            <description><![CDATA[President Alpha Condé is said to be unharmed while soldiers are seen near the presidential palace.]]></description>
-            <link>https://www.bbc.co.uk/news/world-africa-58453778?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-africa-58453778</guid>
-            <pubDate>Sun, 05 Sep 2021 13:43:31 GMT</pubDate>
+            <title><![CDATA[Yemen war: Saudis intercept Houthi missiles - defence ministry]]></title>
+            <description><![CDATA[Two children are injured by shrapnel, Riyadh says, in an attack the Houthis say targeted Saudi oil.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-58454674?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-middle-east-58454674</guid>
+            <pubDate>Sun, 05 Sep 2021 11:22:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Montenegro clashes as Serb Orthodox Church leader installed]]></title>
@@ -65,8 +65,15 @@
             <pubDate>Sun, 05 Sep 2021 10:06:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Ethiopia: Thousands reported killed in clashes]]></title>
-            <description><![CDATA[Both the Tigray rebels and Ethiopian military claim to have inflicted thousands of casualties.]]></description>
+            <title><![CDATA[Rush to contain large oil spill in Gulf of Mexico after Storm Ida]]></title>
+            <description><![CDATA[Clean-up crews and the US Coast Guard are trying to locate the source of a miles-long slick.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-58446271?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58446271</guid>
+            <pubDate>Sun, 05 Sep 2021 13:32:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ethiopia's Tigray conflict: Thousands reported killed in clashes]]></title>
+            <description><![CDATA[Both the Tigray rebels and Ethiopian military say they have inflicted thousands of casualties.]]></description>
             <link>https://www.bbc.co.uk/news/world-africa-58450223?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-africa-58450223</guid>
             <pubDate>Sun, 05 Sep 2021 13:57:08 GMT</pubDate>
@@ -91,13 +98,6 @@
             <link>https://www.bbc.co.uk/sport/tennis/58450803?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/58450803</guid>
             <pubDate>Sun, 05 Sep 2021 05:27:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ivermectin: Oklahoma doctor warns against using drug for Covid treatment]]></title>
-            <description><![CDATA[People are arriving at US hospitals after overdosing in the unproven belief it can treat Covid.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-58449876?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58449876</guid>
-            <pubDate>Sat, 04 Sep 2021 19:48:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Paralympics: ‘We the disabled community are here to stay’]]></title>
