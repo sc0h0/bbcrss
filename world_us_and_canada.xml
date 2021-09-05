@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 05 Sep 2021 18:29:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Sep 2021 18:42:02 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Planes stranded at Mazar-i-Sharif airport waiting to leave]]></title>
+            <description><![CDATA[A US lawmaker accuses the Taliban of not letting several planes of Afghans and Americans leave.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58455959?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58455959</guid>
+            <pubDate>Sun, 05 Sep 2021 18:31:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Storm Ida: Before and after images of US flooding]]></title>
             <description><![CDATA[Before and after satellite images of the devastation caused by Storm Ida in the north-east US.]]></description>
@@ -56,13 +63,6 @@
             <link>https://www.bbc.co.uk/news/business-58432350?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58432350</guid>
             <pubDate>Fri, 03 Sep 2021 16:53:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Theodore McCarrick: Defrocked US cardinal pleads not guilty to sexual assault]]></title>
-            <description><![CDATA[Theodore McCarrick is believed to be the highest-ranking US Catholic to face criminal abuse charges.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-58441172?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58441172</guid>
-            <pubDate>Fri, 03 Sep 2021 16:31:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why China's bitcoin miners are moving to Texas]]></title>
