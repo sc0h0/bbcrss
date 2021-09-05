@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 05 Sep 2021 16:12:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Sep 2021 17:00:13 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Young footballer dies after West Bridgford match collapse]]></title>
+            <description><![CDATA[Dylan Rich, 17, is suspected to have suffered a cardiac arrest during the game in Nottinghamshire.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-nottinghamshire-58457214?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-nottinghamshire-58457214</guid>
+            <pubDate>Sun, 05 Sep 2021 16:34:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Covid-19: Vaccine passports to start in England this month]]></title>
             <description><![CDATA[The scheme for nightclubs and other venues from the end of September aims to ensure they stay open.]]></description>
@@ -30,13 +37,6 @@
             <pubDate>Sun, 05 Sep 2021 13:34:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Windermere: Holocaust survivor's daughter thanks rescuer]]></title>
-            <description><![CDATA[Bela Rosenthal was one of 300 young children brought to Windermere in 1945 to start a new life.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-cumbria-58454557?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-cumbria-58454557</guid>
-            <pubDate>Sun, 05 Sep 2021 14:16:55 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Essex man called 999 to demand a lift after missing bus]]></title>
             <description><![CDATA[Another man used the emergency line to complain about being thrown out of a pub, Essex Police says.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-essex-58454926?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -44,11 +44,18 @@
             <pubDate>Sun, 05 Sep 2021 15:24:10 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Windermere: Holocaust survivor's daughter thanks rescuer]]></title>
+            <description><![CDATA[Bela Rosenthal was one of 300 young children brought to Windermere in 1945 to start a new life.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-cumbria-58454557?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-cumbria-58454557</guid>
+            <pubDate>Sun, 05 Sep 2021 14:16:55 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Bournemouth Air Festival resumes after plane crashes into sea]]></title>
             <description><![CDATA[The crash at Bournemouth Air Festival involving a wing-walker biplane left two people injured.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-dorset-58451074?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-dorset-58451074</guid>
-            <pubDate>Sun, 05 Sep 2021 14:09:51 GMT</pubDate>
+            <pubDate>Sun, 05 Sep 2021 16:40:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Cornwall cycling hub 'to form Tour of Britain legacy']]></title>
@@ -58,11 +65,11 @@
             <pubDate>Sun, 05 Sep 2021 12:54:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Jordan Sinnott: Charity match to honour killed footballer]]></title>
-            <description><![CDATA[Matlock Town midfielder Jordan Sinnott died after being attacked on a night out.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-nottinghamshire-58438024?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-nottinghamshire-58438024</guid>
-            <pubDate>Sun, 05 Sep 2021 16:12:03 GMT</pubDate>
+            <title><![CDATA[Channel Migrants: First group since August reaches Dover]]></title>
+            <description><![CDATA[The first group of people since August are brought ashore by the UK Border Force on Sunday.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-kent-58456993?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-kent-58456993</guid>
+            <pubDate>Sun, 05 Sep 2021 15:55:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Soldiers' plea to evacuate Afghan interpreter and family from Taliban]]></title>
@@ -70,6 +77,13 @@
             <link>https://www.bbc.co.uk/news/uk-england-derbyshire-58426486?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-derbyshire-58426486</guid>
             <pubDate>Sun, 05 Sep 2021 06:31:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jordan Sinnott: Charity match to honour killed footballer]]></title>
+            <description><![CDATA[Matlock Town midfielder Jordan Sinnott died after being attacked on a night out.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-nottinghamshire-58438024?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-nottinghamshire-58438024</guid>
+            <pubDate>Sun, 05 Sep 2021 16:12:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Man in his 60s dies in house blaze]]></title>
