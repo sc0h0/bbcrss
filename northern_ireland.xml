@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 05 Sep 2021 09:23:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Sep 2021 09:39:50 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -37,6 +37,13 @@
             <pubDate>Sun, 05 Sep 2021 05:47:59 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[North Belfast: Police investigate 'hate crimes' at football match]]></title>
+            <description><![CDATA[Detectives say a man was hurt after an object was thrown and other people reported sectarian abuse.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58447966?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58447966</guid>
+            <pubDate>Sun, 05 Sep 2021 09:34:52 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Brexit: Lord Frost warns of 'cold mistrust' if NI Protocol swept away]]></title>
             <description><![CDATA[The UK's Brexit minister however repeats calls for the EU to accept "substantial change".]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58450393?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -44,18 +51,18 @@
             <pubDate>Sat, 04 Sep 2021 17:21:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid-19: NI records seven coronavirus-linked deaths, 1,812 cases]]></title>
-            <description><![CDATA[The total number of deaths linked to coronavirus in NI since the start of the pandemic is 2,401.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58449446?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58449446</guid>
-            <pubDate>Sat, 04 Sep 2021 15:05:12 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Tyrone 'attack-minded' ahead of All-Ireland final]]></title>
             <description><![CDATA[Niall Sludden says the arrival of Tyrone joint-managers Brian Dooher and Feargal Logan has led the players to "back ourselves more']]></description>
             <link>https://www.bbc.co.uk/sport/gaelic-games/58449306?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/gaelic-games/58449306</guid>
             <pubDate>Sun, 05 Sep 2021 08:51:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19: NI records seven coronavirus-linked deaths, 1,812 cases]]></title>
+            <description><![CDATA[The total number of deaths linked to coronavirus in NI since the start of the pandemic is 2,401.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58449446?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58449446</guid>
+            <pubDate>Sat, 04 Sep 2021 15:05:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['I found out I had five siblings when I was 73']]></title>
@@ -77,13 +84,6 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58439447?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58439447</guid>
             <pubDate>Sat, 04 Sep 2021 05:32:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[World Cup qualifying: Late Duffy header saves Republic of Ireland from Azerbaijan defeat]]></title>
-            <description><![CDATA[Shane Duffy spares the Republic of Ireland's blushes with a late header to earn a World Cup qualifying draw with Azerbaijan in Dublin.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58434755?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58434755</guid>
-            <pubDate>Sat, 04 Sep 2021 17:56:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Katie Taylor: Irishwoman beats Jennifer Han to remain undisputed lightweight champion]]></title>
@@ -226,6 +226,13 @@
             <pubDate>Thu, 02 Sep 2021 09:16:21 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[World Cup qualifying: Late Duffy header saves Republic of Ireland from Azerbaijan defeat]]></title>
+            <description><![CDATA[Shane Duffy spares the Republic of Ireland's blushes with a late header to earn a World Cup qualifying draw with Azerbaijan in Dublin.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58434755?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58434755</guid>
+            <pubDate>Sat, 04 Sep 2021 17:56:15 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Irish Leaving Certificate grades up 2.4% on 2020]]></title>
             <description><![CDATA[The increase is on top of a significant jump in results the year before.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-58439517?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -252,13 +259,6 @@
             <link>https://www.bbc.co.uk/sport/football/58416948?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58416948</guid>
             <pubDate>Wed, 01 Sep 2021 22:43:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Irish cabinet agrees to ease most Covid-19 rules]]></title>
-            <description><![CDATA[Ministers met on Tuesday to agree on a plan to ease most Covid-19 restrictions by 22 October.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58400777?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58400777</guid>
-            <pubDate>Tue, 31 Aug 2021 20:57:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
