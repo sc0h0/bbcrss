@@ -1,4 +1,4 @@
-1. [Sexism in the workplace: Women scared to speak out in NHS](https://www.bbc.co.uk/news/uk-wales-58408550?at_medium=RSS&at_campaign=KARANGA) - A recent report sound 88% of doctors in Wales thought the NHS had a sexism problem.
+1. [Sexism in the workplace: Women scared to speak out in NHS](https://www.bbc.co.uk/news/uk-wales-58408550?at_medium=RSS&at_campaign=KARANGA) - A recent report found about 91% of female doctors in the UK had experienced sexism at work.
 2. [Blaenavon fire: Crews tackle large blaze at recycling plant](https://www.bbc.co.uk/news/uk-wales-58453650?at_medium=RSS&at_campaign=KARANGA) - Residents in the area were told to keep doors and windows shut due to a large smoke plume.
 3. [Tom Hardy: Can a star's posts give locations a tourism boost?](https://www.bbc.co.uk/news/uk-wales-58409878?at_medium=RSS&at_campaign=KARANGA) - Tom Hardy, Lin-Manuel Miranda and Forest Whitaker have all been seen enjoying Wales while filming.
 4. [Man in hospital after being hit by car on A465 near Neath](https://www.bbc.co.uk/news/uk-wales-58453652?at_medium=RSS&at_campaign=KARANGA) - A pedestrian was involved in a collision with a Ford Fiesta, police say.
