@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 05 Sep 2021 17:00:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Sep 2021 17:42:05 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -189,6 +189,13 @@
             <link>https://www.bbc.co.uk/sport/football/58373001?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58373001</guid>
             <pubDate>Sun, 05 Sep 2021 13:55:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Charlotte Edwards Cup: South East Stars beat Northern Diamonds by five wickets in final]]></title>
+            <description><![CDATA[South East Stars win the first Charlotte Edwards Cup as they beat Northern Diamonds by five wickets in the T20 final.]]></description>
+            <link>https://www.bbc.co.uk/sport/cricket/58455066?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/cricket/58455066</guid>
+            <pubDate>Sun, 05 Sep 2021 17:36:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
