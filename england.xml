@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 06 Sep 2021 20:38:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Sep 2021 21:05:20 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -212,6 +212,13 @@
             <pubDate>Mon, 06 Sep 2021 05:29:23 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[US Open 2021: Emma Raducanu into quarter-finals after beating Shelby Rogers]]></title>
+            <description><![CDATA[British teenager Emma Raducanu puts in another devastating performance to reach the US Open quarter-finals as her dream New York debut continues.]]></description>
+            <link>https://www.bbc.co.uk/sport/tennis/58469496?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/58469496</guid>
+            <pubDate>Mon, 06 Sep 2021 21:02:14 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[England v India: Jasprit Bumrah sets up tourists' 157-run win at Oval]]></title>
             <description><![CDATA[England's batting disintegrates in the face of an inspired India, who win the fourth Test by 157 runs to take a 2-1 lead in the series.]]></description>
             <link>https://www.bbc.co.uk/sport/cricket/58466419?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -233,11 +240,11 @@
             <pubDate>Mon, 06 Sep 2021 14:54:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[County Championship: Brett Hutton puts Notts on top against Lancashire]]></title>
-            <description><![CDATA[Brett Hutton takes 5-62 as Notts reach 127-5 in their second innings to build a lead of 231 runs against Lancashire.]]></description>
-            <link>https://www.bbc.co.uk/sport/cricket/58465300?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/cricket/58465300</guid>
-            <pubDate>Mon, 06 Sep 2021 17:39:23 GMT</pubDate>
+            <title><![CDATA[Manchester United to have Covid-19 spot-checks at Old Trafford starting with Newcastle game]]></title>
+            <description><![CDATA[Manchester United are to introduce Covid-19 spot-checks on matchdays at Old Trafford, starting with Saturday's game against Newcastle.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58469827?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58469827</guid>
+            <pubDate>Mon, 06 Sep 2021 21:03:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
