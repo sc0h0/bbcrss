@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 06 Sep 2021 16:34:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Sep 2021 17:02:50 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -48,7 +48,7 @@
             <description><![CDATA[Boris Johnson promises help for them to leave safely - but is accused of not showing leadership.]]></description>
             <link>https://www.bbc.co.uk/news/uk-politics-58467874?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-politics-58467874</guid>
-            <pubDate>Mon, 06 Sep 2021 15:58:05 GMT</pubDate>
+            <pubDate>Mon, 06 Sep 2021 16:37:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Arthur's Seat death: Man charged with murder of Fawziyah Javed]]></title>
@@ -72,18 +72,18 @@
             <pubDate>Mon, 06 Sep 2021 14:51:36 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid-19: UK passes 7 million confirmed Covid cases]]></title>
+            <description><![CDATA[The milestone comes as another 41,000 daily cases are recorded, but the real total is likely to be higher.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-58468557?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58468557</guid>
+            <pubDate>Mon, 06 Sep 2021 16:41:14 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Covid: Tube rush hour busiest since start of pandemic]]></title>
             <description><![CDATA[Passenger numbers are rising, but remain below pre-lockdown levels, Transport for London says.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-london-58461911?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-london-58461911</guid>
             <pubDate>Mon, 06 Sep 2021 14:28:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[England v India: Jasprit Bumrah sets up tourists' win at Kia Oval]]></title>
-            <description><![CDATA[England's batting disintegrates in the face of an inspired India, who win the fourth Test by 157 runs to take a 2-1 lead in the series.]]></description>
-            <link>https://www.bbc.co.uk/sport/cricket/58466419?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/cricket/58466419</guid>
-            <pubDate>Mon, 06 Sep 2021 16:04:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Rapper Wiley charged with east London assault and burglary]]></title>
@@ -98,6 +98,13 @@
             <link>https://www.bbc.co.uk/sport/football/58463792?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58463792</guid>
             <pubDate>Mon, 06 Sep 2021 11:37:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tottenham v Chelsea: Premier League tie to be first net zero carbon football match]]></title>
+            <description><![CDATA[Fans will be urged to travel to the stadium via bicycle or public transport and eat only vegan food when Spurs host Chelsea later this month.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58463458?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58463458</guid>
+            <pubDate>Mon, 06 Sep 2021 12:53:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Spider season: Why your home might feel full of arachnids right now]]></title>
@@ -170,11 +177,11 @@
             <pubDate>Mon, 06 Sep 2021 06:39:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Social care: What would a National Insurance rise mean for me?]]></title>
-            <description><![CDATA[The government could raise National Insurance to help pay for social care in England.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-58436009?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-politics-58436009</guid>
-            <pubDate>Mon, 06 Sep 2021 12:01:52 GMT</pubDate>
+            <title><![CDATA[Building supplies shortages: 'I can't see it getting better any time soon']]></title>
+            <description><![CDATA[Builders are struggling to get hold of key supplies, and the shortages are pushing prices higher.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-norfolk-58462451?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-norfolk-58462451</guid>
+            <pubDate>Mon, 06 Sep 2021 15:49:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['A hotel without linen is not a hotel']]></title>
@@ -182,6 +189,13 @@
             <link>https://www.bbc.co.uk/news/business-58465953?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58465953</guid>
             <pubDate>Mon, 06 Sep 2021 15:44:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Social care: What would a National Insurance rise mean for me?]]></title>
+            <description><![CDATA[The government could raise National Insurance to help pay for social care in England.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-58436009?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-politics-58436009</guid>
+            <pubDate>Mon, 06 Sep 2021 12:01:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Feria: Rural memoirs stir longing for Spain's past]]></title>
@@ -219,6 +233,13 @@
             <pubDate>Sat, 04 Sep 2021 23:02:15 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[England crumble as inspired India sweep to victory]]></title>
+            <description><![CDATA[England's batting disintegrates in the face of an inspired India, who win the fourth Test by 157 runs to take a 2-1 lead in the series.]]></description>
+            <link>https://www.bbc.co.uk/sport/cricket/58466419?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/cricket/58466419</guid>
+            <pubDate>Mon, 06 Sep 2021 16:04:52 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Brazil v Argentina: Fifa 'regrets' scenes leading to match suspension]]></title>
             <description><![CDATA[Fifa says it "regrets" the scenes leading to the suspension of Brazil and Argentina's World Cup qualifier on Sunday.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58464728?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -230,7 +251,7 @@
             <description><![CDATA[Valtteri Bottas is to move to Alfa Romeo from Mercedes next season.]]></description>
             <link>https://www.bbc.co.uk/sport/formula1/58457384?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/formula1/58457384</guid>
-            <pubDate>Mon, 06 Sep 2021 11:59:48 GMT</pubDate>
+            <pubDate>Mon, 06 Sep 2021 16:55:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Erasmus video rant could set dangerous precedent - Jones]]></title>
@@ -238,13 +259,6 @@
             <link>https://www.bbc.co.uk/sport/rugby-union/58464907?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/rugby-union/58464907</guid>
             <pubDate>Mon, 06 Sep 2021 12:42:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[England v India: Joe Root bowled for 36 as tourists close in on victory]]></title>
-            <description><![CDATA[Joe Root is bowled for 36 by Shardul Thakur as India reduce England to 182-7, just three wickets from victory with a lead of 186 in the fourth Test at The Oval.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/cricket/58466412?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/av/cricket/58466412</guid>
-            <pubDate>Mon, 06 Sep 2021 14:39:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Afghanistan: Rural areas welcome peace and end of war]]></title>
@@ -345,11 +359,11 @@
             <pubDate>Wed, 01 Sep 2021 09:10:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid passport: How do I prove my vaccine status with the NHS Covid Pass?]]></title>
-            <description><![CDATA[Vaccine passports will be required from the end of September in crowded indoor venues in England.]]></description>
+            <title><![CDATA[Covid passports: Nightclubs, concerts and festivals... where will I need one?]]></title>
+            <description><![CDATA[Covid passports to prove vaccination will be required from the end of September in crowded indoor venues in England.]]></description>
             <link>https://www.bbc.co.uk/news/explainers-55718553?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/explainers-55718553</guid>
-            <pubDate>Mon, 06 Sep 2021 12:13:19 GMT</pubDate>
+            <pubDate>Mon, 06 Sep 2021 16:54:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What are the holiday rules for travel to green, amber and red list countries?]]></title>
