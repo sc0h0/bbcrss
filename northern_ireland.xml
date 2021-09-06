@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 06 Sep 2021 19:39:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Sep 2021 19:53:03 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -44,18 +44,11 @@
             <pubDate>Mon, 06 Sep 2021 14:01:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[First lady chief justice in NI history 'honoured' to be role model]]></title>
-            <description><![CDATA[Dame Siobhan Keegan wants more women and people from ethnic backgrounds represented on the bench.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58464755?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58464755</guid>
-            <pubDate>Mon, 06 Sep 2021 13:18:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[West Belfast: Man, 20, in custody over attempted murder of brother]]></title>
-            <description><![CDATA[Padraig Smedley allegedly stabbed his brother Sean Smedley twice in the head with a carving knife.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58467742?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58467742</guid>
-            <pubDate>Mon, 06 Sep 2021 15:35:46 GMT</pubDate>
+            <title><![CDATA[Sport NI receives no confidence vote from staff]]></title>
+            <description><![CDATA[Sport NI has been given an emphatic vote of no confidence from its own staff during an ongoing restructuring at the public body]]></description>
+            <link>https://www.bbc.co.uk/sport/northern-ireland/58458203?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/northern-ireland/58458203</guid>
+            <pubDate>Mon, 06 Sep 2021 18:27:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What are Northern Ireland's Covid-19 rules now?]]></title>
@@ -65,11 +58,25 @@
             <pubDate>Mon, 06 Sep 2021 18:27:44 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[West Belfast: Man, 20, in custody over attempted murder of brother]]></title>
+            <description><![CDATA[Padraig Smedley allegedly stabbed his brother Sean Smedley twice in the head with a carving knife.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58467742?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58467742</guid>
+            <pubDate>Mon, 06 Sep 2021 15:35:46 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Ballykelly: RAF flypast honours bomber crew 80 years on]]></title>
             <description><![CDATA[Relatives of the airmen pay tribute to the Foyle College students who located the crash site.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58467772?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58467772</guid>
             <pubDate>Mon, 06 Sep 2021 17:46:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[First lady chief justice in NI history 'honoured' to be role model]]></title>
+            <description><![CDATA[Dame Siobhan Keegan wants more women and people from ethnic backgrounds represented on the bench.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58464755?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58464755</guid>
+            <pubDate>Mon, 06 Sep 2021 13:18:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: NI records nine coronavirus-linked deaths, 1,764 cases]]></title>
@@ -84,13 +91,6 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58461993?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58461993</guid>
             <pubDate>Mon, 06 Sep 2021 14:34:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lagan College: Northern Ireland's oldest integrated school marks 40 years]]></title>
-            <description><![CDATA[Lagan College educates more than 1,400 pupils in the Castlereagh area of Belfast.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58457098?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58457098</guid>
-            <pubDate>Mon, 06 Sep 2021 14:15:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Paralympics: The golden girl, heartbreak & the end of an era - How did NI's Paralympians fare in Tokyo?]]></title>
@@ -135,11 +135,11 @@
             <pubDate>Tue, 31 Aug 2021 16:59:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Holy Cross: Remembering a school run like no other]]></title>
-            <description><![CDATA[BBC News NI's Gareth Gordon reflects on the 20th anniversary of Belfast's Holy Cross school dispute.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58437288?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58437288</guid>
-            <pubDate>Sun, 05 Sep 2021 05:39:36 GMT</pubDate>
+            <title><![CDATA[Lagan College: Northern Ireland's oldest integrated school marks 40 years]]></title>
+            <description><![CDATA[Lagan College educates more than 1,400 pupils in the Castlereagh area of Belfast.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58457098?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58457098</guid>
+            <pubDate>Mon, 06 Sep 2021 14:15:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Latest Northern Ireland weather forecast]]></title>
@@ -147,6 +147,13 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-26018439?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-26018439</guid>
             <pubDate>Mon, 06 Sep 2021 05:31:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Holy Cross: Remembering a school run like no other]]></title>
+            <description><![CDATA[BBC News NI's Gareth Gordon reflects on the 20th anniversary of Belfast's Holy Cross school dispute.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58437288?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58437288</guid>
+            <pubDate>Sun, 05 Sep 2021 05:39:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['I found out I had five siblings when I was 73']]></title>
@@ -161,13 +168,6 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58439447?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58439447</guid>
             <pubDate>Sat, 04 Sep 2021 05:32:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Northern Ireland weather: Third-warmest summer since records began]]></title>
-            <description><![CDATA[The average temperature was 15.06C, setting this summer behind 2006 and 1995 on the all-time list.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58414526?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58414526</guid>
-            <pubDate>Thu, 02 Sep 2021 17:34:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Lagan College: The day the world's press came to a school picnic]]></title>
