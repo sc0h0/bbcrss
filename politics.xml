@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 06 Sep 2021 14:01:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Sep 2021 14:20:55 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -247,6 +247,13 @@
             <pubDate>Tue, 31 Aug 2021 14:48:39 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Inside Big Ben's restoration as it nears finish]]></title>
+            <description><![CDATA[The restoration of Elizabeth Tower, which will ultimately cost at least £80 million, draws to a close.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-58463439?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58463439</guid>
+            <pubDate>Mon, 06 Sep 2021 14:05:42 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Tony Blair on 9/11 and UK troops leaving Afghanistan]]></title>
             <description><![CDATA[Recalling the 9/11 attacks of 20 years ago, Tony Blair says Islamism is a "first order security threat".]]></description>
             <link>https://www.bbc.co.uk/news/uk-politics-58463996?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -273,13 +280,6 @@
             <link>https://www.bbc.co.uk/news/world-europe-58453617?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58453617</guid>
             <pubDate>Sun, 05 Sep 2021 12:09:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tom Tugendhat: I haven't slept much since Taliban takeover]]></title>
-            <description><![CDATA[The chair of the Foreign Affairs Committee says he received a call at 02:00 from desperate Afghans.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-58441878?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-politics-58441878</guid>
-            <pubDate>Fri, 03 Sep 2021 16:25:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Social care: What would a National Insurance rise mean for me?]]></title>
