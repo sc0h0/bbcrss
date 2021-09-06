@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 06 Sep 2021 07:50:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Sep 2021 08:05:51 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -31,7 +31,7 @@
         </item>
         <item>
             <title><![CDATA[Australian boy, 3, rescued after four days lost in bush]]></title>
-            <description><![CDATA[Anthony "AJ" Elfalak was spotted by a helicopter drinking water from a creek near his home.]]></description>
+            <description><![CDATA[Anthony "AJ" Elfalak was spotted by a helicopter, drinking water from a creek near his home.]]></description>
             <link>https://www.bbc.co.uk/news/world-australia-58458983?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-australia-58458983</guid>
             <pubDate>Mon, 06 Sep 2021 07:44:18 GMT</pubDate>
@@ -72,18 +72,18 @@
             <pubDate>Mon, 06 Sep 2021 03:34:43 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[US Open: Teenager Leylah Fernandez stuns Angelique Kerber to reach quarter-finals]]></title>
+            <description><![CDATA[Canadian teenager Leylah Fernandez continues her remarkable US Open run as she beats 2016 champion Angelique Kerber to reach the quarter-finals.]]></description>
+            <link>https://www.bbc.co.uk/sport/tennis/58457863?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/58457863</guid>
+            <pubDate>Mon, 06 Sep 2021 05:19:48 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Brazil v Argentina abandoned five minutes after kick-off after visiting players accused of Covid violation]]></title>
             <description><![CDATA[Brazil and Argentina's World Cup qualifier is abandoned after Brazilian health officials walked onto the pitch minutes after kick off to object to the participation of three Argentine players.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58431607?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58431607</guid>
             <pubDate>Sun, 05 Sep 2021 23:10:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rush to contain large oil spill in Gulf of Mexico after Storm Ida]]></title>
-            <description><![CDATA[Clean-up crews and the US Coast Guard are trying to locate the source of a miles-long slick.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-58446271?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58446271</guid>
-            <pubDate>Sun, 05 Sep 2021 13:32:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Khalid Sheikh Mohammed: How '9/11 mastermind' slipped through FBI's fingers]]></title>
@@ -128,6 +128,13 @@
             <pubDate>Sat, 04 Sep 2021 23:41:55 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Israeli conjoined twins see each other for first time after surgery]]></title>
+            <description><![CDATA[The Israeli twin girls were joined at the head but have been separated after a rare operation.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-58460842?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-middle-east-58460842</guid>
+            <pubDate>Mon, 06 Sep 2021 08:03:29 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Afghanistan: Rural areas welcome peace and end of war]]></title>
             <description><![CDATA[In more rural areas of Afghanistan, people welcome the end of a war that has killed tens of thousands.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-58456955?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -154,13 +161,6 @@
             <link>https://www.bbc.co.uk/news/uk-58449866?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58449866</guid>
             <pubDate>Sat, 04 Sep 2021 15:14:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['My parents won't let me get the Covid vaccine']]></title>
-            <description><![CDATA[In some countries, the Covid-19 vaccine can be given to all teenagers over the age of 12 but not all are allowed.]]></description>
-            <link>https://www.bbc.co.uk/news/health-58437672?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/health-58437672</guid>
-            <pubDate>Fri, 03 Sep 2021 23:08:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Afghanistan: Taliban accused of killing pregnant police officer]]></title>
