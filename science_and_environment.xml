@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 06 Sep 2021 10:42:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Sep 2021 10:50:54 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -51,27 +51,6 @@
             <pubDate>Fri, 03 Sep 2021 11:40:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Climate-above-all plea by US fails to stir China]]></title>
-            <description><![CDATA[Envoy John Kerry's 'it's more important than politics' appeal falls on deaf ears.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58427519?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58427519</guid>
-            <pubDate>Thu, 02 Sep 2021 18:54:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[International Space Station facing irreparable failures, Russia warns]]></title>
-            <description><![CDATA[The majority of in-flight systems on the ISS have passed their expiry date, an official warns.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58408911?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58408911</guid>
-            <pubDate>Wed, 01 Sep 2021 12:45:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hurricane Ida: Before and after images reveal devastation]]></title>
-            <description><![CDATA[Aerial photographs reveal damage and flooding in parts of Louisiana following Hurricane Ida.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-58409267?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58409267</guid>
-            <pubDate>Wed, 01 Sep 2021 13:54:31 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Then and now: Why deforestation is such a hot topic]]></title>
             <description><![CDATA[Trees are part of the solution for climate change, but are we felling more than we are planting?]]></description>
             <link>https://www.bbc.co.uk/news/science-environment-58399809?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -79,11 +58,25 @@
             <pubDate>Sat, 04 Sep 2021 01:28:47 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Climate-above-all plea by US fails to stir China]]></title>
+            <description><![CDATA[Envoy John Kerry's 'it's more important than politics' appeal falls on deaf ears.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58427519?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58427519</guid>
+            <pubDate>Thu, 02 Sep 2021 18:54:03 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[One in three trees face extinction in wild, says new report]]></title>
             <description><![CDATA[Experts say 17,500 tree species are at risk around the world, including magnolias, oaks and maples.]]></description>
             <link>https://www.bbc.co.uk/news/science-environment-58394215?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/science-environment-58394215</guid>
             <pubDate>Tue, 31 Aug 2021 23:41:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hurricane Ida: Before and after images reveal devastation]]></title>
+            <description><![CDATA[Aerial photographs reveal damage and flooding in parts of Louisiana following Hurricane Ida.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-58409267?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58409267</guid>
+            <pubDate>Wed, 01 Sep 2021 13:54:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Greta Thunberg: Scotland not a world leader on climate change]]></title>
@@ -107,32 +100,11 @@
             <pubDate>Thu, 26 Aug 2021 23:09:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Climate change: Europe's extreme rains made more likely by humans]]></title>
-            <description><![CDATA[Heavy rainfall that led to deadly floods in Germany and Belgium was influenced by human induced warming.]]></description>
-            <link>https://www.bbc.co.uk/news/science-environment-58309900?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/science-environment-58309900</guid>
-            <pubDate>Mon, 23 Aug 2021 23:03:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Could this solar farm be a climate change solution?]]></title>
-            <description><![CDATA[UN experts say rapid innovative solutions are needed to end our dependency on fossil fuels. Could this new project provide an answer?]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58320618?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58320618</guid>
-            <pubDate>Tue, 24 Aug 2021 23:01:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Madagascar on the brink of climate change-induced famine]]></title>
-            <description><![CDATA[The country is on the brink of experiencing the world's first "climate change famine", the UN says.]]></description>
-            <link>https://www.bbc.co.uk/news/world-africa-58303792?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-africa-58303792</guid>
-            <pubDate>Tue, 24 Aug 2021 23:35:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Climate change: Will I still be able to fly in a net zero world?]]></title>
-            <description><![CDATA[A new study asks if lifestyle changes including an end to flying will be necessary to reach net zero?]]></description>
-            <link>https://www.bbc.co.uk/news/science-environment-58284257?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/science-environment-58284257</guid>
-            <pubDate>Fri, 20 Aug 2021 15:21:14 GMT</pubDate>
+            <title><![CDATA[International Space Station facing irreparable failures, Russia warns]]></title>
+            <description><![CDATA[The majority of in-flight systems on the ISS have passed their expiry date, an official warns.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58408911?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58408911</guid>
+            <pubDate>Wed, 01 Sep 2021 12:45:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Pulsar discoverer awarded Royal Society's highest prize]]></title>
@@ -161,6 +133,13 @@
             <link>https://www.bbc.co.uk/news/science-environment-57971910?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/science-environment-57971910</guid>
             <pubDate>Tue, 03 Aug 2021 09:20:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Spider season: Why your home might feel full of arachnids right now]]></title>
+            <description><![CDATA[They're not coming through the windows - they were already inside.]]></description>
+            <link>https://www.bbc.co.uk/news/newsbeat-49730011?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/newsbeat-49730011</guid>
+            <pubDate>Mon, 06 Sep 2021 08:34:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Wildlife photo: Is this the world's most beautiful mosquito?]]></title>
@@ -203,41 +182,6 @@
             <link>https://www.bbc.co.uk/news/world-us-canada-58361211?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58361211</guid>
             <pubDate>Fri, 27 Aug 2021 20:55:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Theranos scandal: Who is Elizabeth Holmes and why is she on trial?]]></title>
-            <description><![CDATA[The former boss of blood testing company Theranos is accused of fraud and could face years in jail.]]></description>
-            <link>https://www.bbc.co.uk/news/business-58336998?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58336998</guid>
-            <pubDate>Mon, 30 Aug 2021 23:37:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[From earrings to tiles – what you can do with plastic waste]]></title>
-            <description><![CDATA[How people around the world are recycling plastic waste themselves and turning it into cool stuff.]]></description>
-            <link>https://www.bbc.co.uk/news/stories-58305686?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/stories-58305686</guid>
-            <pubDate>Mon, 23 Aug 2021 23:55:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[US lab stands on threshold of key nuclear fusion goal]]></title>
-            <description><![CDATA[A US science institute is on the verge of achieving a longstanding goal in nuclear fusion research.]]></description>
-            <link>https://www.bbc.co.uk/news/science-environment-58252784?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/science-environment-58252784</guid>
-            <pubDate>Tue, 17 Aug 2021 23:59:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The zero-power sewage plant inspired by cows]]></title>
-            <description><![CDATA[Fifty sustainable sewage treatment plants have been built that work in similar way to a cow's stomach.]]></description>
-            <link>https://www.bbc.co.uk/news/science-environment-58017501?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/science-environment-58017501</guid>
-            <pubDate>Sun, 15 Aug 2021 23:03:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Search for Covid's origins stalled, scientists say]]></title>
-            <description><![CDATA["The window of opportunity" for crucial studies into how the Covid-19 pandemic started is closing, scientists say.]]></description>
-            <link>https://www.bbc.co.uk/news/science-environment-58331657?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/science-environment-58331657</guid>
-            <pubDate>Wed, 25 Aug 2021 15:30:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
