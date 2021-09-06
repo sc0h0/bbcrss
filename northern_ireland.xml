@@ -11,16 +11,30 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 06 Sep 2021 16:58:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Sep 2021 17:24:07 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Covid-19: Northern Ireland Executive agrees changes to rules]]></title>
+            <description><![CDATA[Up to 15 people are now allowed indoors in homes while hospitality table service rules are removed.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58458086?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58458086</guid>
+            <pubDate>Mon, 06 Sep 2021 17:12:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Coronavirus: More than half of Larne High School pupils out of class]]></title>
             <description><![CDATA[At least 400 pupils from Larne High School in County Antrim could not come to class on Monday.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58461525?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58461525</guid>
             <pubDate>Mon, 06 Sep 2021 16:51:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NI Protocol: Further delays for Irish Sea border checks]]></title>
+            <description><![CDATA[The UK's Brexit minister says the move will "provide space for further discussions" with the EU.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58461991?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58461991</guid>
+            <pubDate>Mon, 06 Sep 2021 17:12:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Pat Hume: Peacemaker was pure of heart, mourners told]]></title>
@@ -44,13 +58,6 @@
             <pubDate>Mon, 06 Sep 2021 15:35:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid-19: Executive to consider easing hospitality rules]]></title>
-            <description><![CDATA[The hospitality sector is calling for a rule changes on social distancing and table service.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58458086?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58458086</guid>
-            <pubDate>Mon, 06 Sep 2021 05:18:19 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Covid-19: NI records nine coronavirus-linked deaths, 1,764 cases]]></title>
             <description><![CDATA[The total number of deaths linked to coronavirus in NI since the start of the pandemic is 2,417.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58464759?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -63,13 +70,6 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58461993?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58461993</guid>
             <pubDate>Mon, 06 Sep 2021 14:34:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NI Protocol: Further delay expected for Irish Sea border checks]]></title>
-            <description><![CDATA[An EU source says an announcement on grace periods for some products is likely on Tuesday.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58461991?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58461991</guid>
-            <pubDate>Mon, 06 Sep 2021 09:05:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Lagan College: Northern Ireland's oldest integrated school marks 40 years]]></title>
@@ -91,34 +91,6 @@
             <link>https://www.bbc.co.uk/sport/disability-sport/58454605?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/disability-sport/58454605</guid>
             <pubDate>Mon, 06 Sep 2021 07:03:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Baraclough wants 'a night to remember' from NI]]></title>
-            <description><![CDATA[Ian Baraclough wants to give Northern Ireland supporters "a night to remember" by winning Wednesday's World Cup qualifier at home to Switzerland.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58455932?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58455932</guid>
-            <pubDate>Mon, 06 Sep 2021 07:01:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[West Belfast: Man charged with attempted murder over stabbing]]></title>
-            <description><![CDATA[A man in his 20s is charged after a stabbing incident in the Twinbrook estate in west Belfast.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58454281?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58454281</guid>
-            <pubDate>Sun, 05 Sep 2021 09:05:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dundonald: Man escapes out of window after arson attack]]></title>
-            <description><![CDATA[The victim heard a large thud and saw flames and black smoke coming up the stairs.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58455861?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58455861</guid>
-            <pubDate>Sun, 05 Sep 2021 17:11:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Brexit: 'Proportionate' response needed for Northern Ireland Protocol talks]]></title>
-            <description><![CDATA[An open letter from business leaders and academics calls for solutions to post-Brexit tensions.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58455856?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58455856</guid>
-            <pubDate>Sun, 05 Sep 2021 14:43:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: Some schools 'not following pupils close contact advice']]></title>
