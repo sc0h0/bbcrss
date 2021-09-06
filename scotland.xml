@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 06 Sep 2021 18:54:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Sep 2021 19:10:46 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -219,13 +219,6 @@
             <pubDate>Mon, 06 Sep 2021 18:29:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Listen: Sportsound on BBC Radio Scotland]]></title>
-            <description><![CDATA[Listen to BBC Radio Scotland's Sportsound with former Scotland midfielder John Collins among Kenny Macintyre's guests.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/football/58455383?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/av/football/58455383</guid>
-            <pubDate>Mon, 06 Sep 2021 17:53:16 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Austria v Scotland: Fraser, McLean & Patterson out, Paul McGinn in]]></title>
             <description><![CDATA[Ryan Fraser, Kenny McLean and Nathan Patterson are out of Scotland's World Cup qualifier against Austria, with Paul McGinn called up.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58462235?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -238,6 +231,13 @@
             <link>https://www.bbc.co.uk/sport/football/58458621?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58458621</guid>
             <pubDate>Mon, 06 Sep 2021 15:09:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Chris Duncan: Scottish MMA fighter ready to grasp UFC chance]]></title>
+            <description><![CDATA["I feel this is my time," says Scottish MMA fighter Chris Duncan as he vows to grasp his chance to secure a UFC place.]]></description>
+            <link>https://www.bbc.co.uk/sport/mixed-martial-arts/58463178?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/mixed-martial-arts/58463178</guid>
+            <pubDate>Mon, 06 Sep 2021 12:52:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
