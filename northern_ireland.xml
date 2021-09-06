@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 06 Sep 2021 14:34:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Sep 2021 14:39:07 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -51,18 +51,25 @@
             <pubDate>Mon, 06 Sep 2021 05:18:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Lagan College: Northern Ireland's oldest integrated school marks 40 years]]></title>
-            <description><![CDATA[Lagan College educates more than 1,400 pupils in the Castlereagh area of Belfast.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58457098?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58457098</guid>
-            <pubDate>Mon, 06 Sep 2021 14:15:23 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Covid-19: NI records nine coronavirus-linked deaths, 1,764 cases]]></title>
             <description><![CDATA[The total number of deaths linked to coronavirus in NI since the start of the pandemic is 2,417.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58464759?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58464759</guid>
             <pubDate>Mon, 06 Sep 2021 13:47:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Barry's Amusements in Portrush sold and closed, owners confirm]]></title>
+            <description><![CDATA[The Trufelli family have owned the north coast attraction since it opened in 1926.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58461993?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58461993</guid>
+            <pubDate>Mon, 06 Sep 2021 14:34:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lagan College: Northern Ireland's oldest integrated school marks 40 years]]></title>
+            <description><![CDATA[Lagan College educates more than 1,400 pupils in the Castlereagh area of Belfast.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58457098?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58457098</guid>
+            <pubDate>Mon, 06 Sep 2021 14:15:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Coronavirus: Republic of Ireland eases gathering and wedding restrictions]]></title>
