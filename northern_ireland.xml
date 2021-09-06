@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 06 Sep 2021 08:52:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Sep 2021 09:11:16 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -21,6 +21,13 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58458086?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58458086</guid>
             <pubDate>Mon, 06 Sep 2021 05:18:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NI Protocol: Further delay expected for Irish Sea border checks]]></title>
+            <description><![CDATA[An EU source says an announcement on grace periods for some products is expected as early as Tuesday.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58461991?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58461991</guid>
+            <pubDate>Mon, 06 Sep 2021 09:05:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Lagan College: Northern Ireland's oldest integrated school marks 40 years]]></title>
@@ -49,13 +56,6 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58455861?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58455861</guid>
             <pubDate>Sun, 05 Sep 2021 17:11:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid-19: NI records seven coronavirus-linked deaths, 1,232 cases]]></title>
-            <description><![CDATA[The total number of deaths linked to coronavirus in NI since the start of the pandemic is 2,408.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58455860?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58455860</guid>
-            <pubDate>Sun, 05 Sep 2021 14:45:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo Paralympics: The golden girl, heartbreak & the end of an era - How did NI's Paralympians fare in Tokyo?]]></title>
@@ -98,6 +98,13 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58447966?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58447966</guid>
             <pubDate>Sun, 05 Sep 2021 09:34:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19: NI records seven coronavirus-linked deaths, 1,232 cases]]></title>
+            <description><![CDATA[The total number of deaths linked to coronavirus in NI since the start of the pandemic is 2,408.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58455860?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58455860</guid>
+            <pubDate>Sun, 05 Sep 2021 14:45:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[NI Covid-19 restrictions: Your questions answered]]></title>
