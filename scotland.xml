@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 06 Sep 2021 17:51:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Sep 2021 18:11:04 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -212,6 +212,20 @@
             <pubDate>Thu, 02 Sep 2021 16:33:03 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Watch: Sportscene highlights of SWPL1 matches - round one 2021-22]]></title>
+            <description><![CDATA[Jane Lewis brings you all the action and reaction from the top flight of the Scottish Women’s Premier League.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/football/58468587?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/av/football/58468587</guid>
+            <pubDate>Mon, 06 Sep 2021 17:53:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Listen: Sportsound on BBC Radio Scotland]]></title>
+            <description><![CDATA[Listen to BBC Radio Scotland's Sportsound with former Scotland midfielder John Collins among Kenny Macintyre's guests.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/football/58455383?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/av/football/58455383</guid>
+            <pubDate>Mon, 06 Sep 2021 17:53:16 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Austria v Scotland: Fraser, McLean & Patterson out, Paul McGinn in]]></title>
             <description><![CDATA[Ryan Fraser, Kenny McLean and Nathan Patterson are out of Scotland's World Cup qualifier against Austria, with Paul McGinn called up.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58462235?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -224,20 +238,6 @@
             <link>https://www.bbc.co.uk/sport/football/58458621?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58458621</guid>
             <pubDate>Mon, 06 Sep 2021 15:09:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Chris Duncan: Scottish MMA fighter ready to grasp UFC chance]]></title>
-            <description><![CDATA["I feel this is my time," says Scottish MMA fighter Chris Duncan as he vows to grasp his chance to secure a UFC place.]]></description>
-            <link>https://www.bbc.co.uk/sport/mixed-martial-arts/58463178?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/mixed-martial-arts/58463178</guid>
-            <pubDate>Mon, 06 Sep 2021 12:52:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[SWPL: Glasgow City off to flyer in defence of title as Celtic, Hibs and Hamilton Accies also win]]></title>
-            <description><![CDATA[Glasgow City make a winning start to the defence of the Scottish title with a 6-0 thrashing of Motherwell as Celtic, Hibernian and Hamilton Academical also win.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58456697?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58456697</guid>
-            <pubDate>Sun, 05 Sep 2021 18:48:27 GMT</pubDate>
         </item>
     </channel>
 </rss>

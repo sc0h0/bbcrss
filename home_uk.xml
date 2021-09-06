@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 06 Sep 2021 17:49:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Sep 2021 18:08:45 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -24,10 +24,10 @@
         </item>
         <item>
             <title><![CDATA[NHS to get £5.4bn extra to deal with Covid backlog]]></title>
-            <description><![CDATA[Boris Johnson says the money will "go straight to the frontline" in England over the next six months.]]></description>
+            <description><![CDATA[Boris Johnson says the money will "go straight to the front line" in England over the next six months.]]></description>
             <link>https://www.bbc.co.uk/news/uk-politics-58463493?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-politics-58463493</guid>
-            <pubDate>Mon, 06 Sep 2021 17:13:24 GMT</pubDate>
+            <pubDate>Mon, 06 Sep 2021 18:06:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[MH17 plane crash: Trial hears trauma of relatives demanding justice]]></title>
@@ -65,20 +65,6 @@
             <pubDate>Mon, 06 Sep 2021 14:05:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[French film great Jean-Paul Belmondo dies at 88]]></title>
-            <description><![CDATA[Star of Breathless, Jean-Paul Belmondo was one of France's most popular actors.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-11811293?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-11811293</guid>
-            <pubDate>Mon, 06 Sep 2021 14:51:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Social care reform plans facing Tory tax backlash]]></title>
-            <description><![CDATA[The PM is in talks on how to fund changes, but Conservative MPs warn against a National Insurance hike.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-58458292?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-politics-58458292</guid>
-            <pubDate>Mon, 06 Sep 2021 14:23:34 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Covid-19: UK passes 7 million confirmed Covid cases]]></title>
             <description><![CDATA[The milestone comes as another 41,000 daily cases are recorded, but the real total is likely to be higher.]]></description>
             <link>https://www.bbc.co.uk/news/uk-58468557?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -86,11 +72,25 @@
             <pubDate>Mon, 06 Sep 2021 17:28:19 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[NI Protocol: Further delays for Irish Sea border checks]]></title>
+            <description><![CDATA[The UK's Brexit minister says the move will "provide space for further discussions" with the EU.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58461991?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58461991</guid>
+            <pubDate>Mon, 06 Sep 2021 17:37:35 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Covid: Tube rush hour busiest since start of pandemic]]></title>
             <description><![CDATA[Passenger numbers are rising, but remain below pre-lockdown levels, Transport for London says.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-london-58461911?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-london-58461911</guid>
             <pubDate>Mon, 06 Sep 2021 14:28:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19: Northern Ireland Executive agrees changes to rules]]></title>
+            <description><![CDATA[Up to 15 people are now allowed indoors in homes while hospitality table service rules are removed.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58458086?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58458086</guid>
+            <pubDate>Mon, 06 Sep 2021 17:24:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Rapper Wiley charged with east London assault and burglary]]></title>
@@ -170,6 +170,13 @@
             <pubDate>Sun, 05 Sep 2021 23:20:24 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Jean-Paul Belmondo: Cool rebel of French cinema]]></title>
+            <description><![CDATA[Star of Breathless, Jean-Paul Belmondo was one of France's most popular actors.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-11811293?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-11811293</guid>
+            <pubDate>Mon, 06 Sep 2021 14:51:36 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Sarah Harding: She was always going at 100mph]]></title>
             <description><![CDATA[The team behind Girls Aloud's biggest hits remember Sarah Harding who's died at the age of 39.]]></description>
             <link>https://www.bbc.co.uk/news/newsbeat-58457843?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -247,18 +254,18 @@
             <pubDate>Mon, 06 Sep 2021 17:33:44 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Olympic champion Bencic through to US Open quarter-finals]]></title>
+            <description><![CDATA[Olympic champion Belinda Bencic beats Iga Swiatek to reach the US Open quarter-finals in humid New York conditions.]]></description>
+            <link>https://www.bbc.co.uk/sport/tennis/58469167?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/58469167</guid>
+            <pubDate>Mon, 06 Sep 2021 17:45:27 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Bottas to drive for Alfa Romeo with Russell expected to replace him at Mercedes]]></title>
             <description><![CDATA[Valtteri Bottas is to move to Alfa Romeo from Mercedes next season.]]></description>
             <link>https://www.bbc.co.uk/sport/formula1/58457384?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/formula1/58457384</guid>
             <pubDate>Mon, 06 Sep 2021 16:55:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Erasmus video rant could set dangerous precedent - Jones]]></title>
-            <description><![CDATA[Rassie Erasmus' video rant against referees could set a dangerous precedent for the grassroots game, says England head coach Eddie Jones.]]></description>
-            <link>https://www.bbc.co.uk/sport/rugby-union/58464907?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/rugby-union/58464907</guid>
-            <pubDate>Mon, 06 Sep 2021 12:42:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Afghanistan: Rural areas welcome peace and end of war]]></title>
