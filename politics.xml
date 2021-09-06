@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 06 Sep 2021 09:37:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Sep 2021 09:50:05 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -45,10 +45,17 @@
         </item>
         <item>
             <title><![CDATA[NI Protocol: Further delay expected for Irish Sea border checks]]></title>
-            <description><![CDATA[An EU source says an announcement on grace periods for some products is expected as early as Tuesday.]]></description>
+            <description><![CDATA[An EU source says an announcement on grace periods for some products is likely on Tuesday.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58461991?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58461991</guid>
             <pubDate>Mon, 06 Sep 2021 09:05:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Commons Speaker Sir Lindsay Hoyle: I've received death threats]]></title>
+            <description><![CDATA[Sir Lindsay Hoyle urges fellow MPs to be "careful" but not to be deterred from doing their job.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-58462131?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-politics-58462131</guid>
+            <pubDate>Mon, 06 Sep 2021 09:48:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: Vaccine passports to start in England this month]]></title>
