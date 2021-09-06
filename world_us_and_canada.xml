@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 06 Sep 2021 02:03:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Sep 2021 02:39:02 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Khalid Sheikh Mohammed: How '9/11 mastermind' slipped through FBI's fingers]]></title>
+            <description><![CDATA[Could the man accused of hatching the plot to fly planes into US landmarks 20 years ago have been stopped?]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-58393231?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58393231</guid>
+            <pubDate>Sun, 05 Sep 2021 23:20:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Planes stranded at Mazar-i-Sharif airport waiting to leave]]></title>
             <description><![CDATA[A US lawmaker accuses the Taliban of not letting several planes of Afghans and Americans leave.]]></description>
@@ -28,13 +35,6 @@
             <link>https://www.bbc.co.uk/news/world-us-canada-58434171?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58434171</guid>
             <pubDate>Fri, 03 Sep 2021 13:45:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ivermectin: Oklahoma doctor warns against using drug for Covid treatment]]></title>
-            <description><![CDATA[People are arriving at US hospitals after overdosing in the unproven belief it can treat Covid.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-58449876?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58449876</guid>
-            <pubDate>Sat, 04 Sep 2021 19:48:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Will deadly hurricane cause a spike in Covid-19?]]></title>
@@ -63,13 +63,6 @@
             <link>https://www.bbc.co.uk/news/business-58432350?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58432350</guid>
             <pubDate>Fri, 03 Sep 2021 16:53:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Khalid Sheikh Mohammed: How '9/11 mastermind' slipped through FBI's fingers]]></title>
-            <description><![CDATA[Could the man accused of hatching the plot to fly planes into US landmarks 20 years ago have been stopped?]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-58393231?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58393231</guid>
-            <pubDate>Sun, 05 Sep 2021 23:20:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why China's bitcoin miners are moving to Texas]]></title>
