@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 06 Sep 2021 21:23:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Sep 2021 21:32:55 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -21,6 +21,13 @@
             <link>https://www.bbc.co.uk/news/uk-wales-58465087?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-58465087</guid>
             <pubDate>Mon, 06 Sep 2021 15:53:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Army's Ajax vehicle noise prompts 310 soldier hearing tests]]></title>
+            <description><![CDATA[Trials of the Ajax armoured vehicle have been halted twice after complaints about noise.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-58470143?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-58470143</guid>
+            <pubDate>Mon, 06 Sep 2021 21:23:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[City Road: Suspected ammonia attack injures five in Cardiff]]></title>
@@ -65,13 +72,6 @@
             <pubDate>Mon, 06 Sep 2021 15:07:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Gambling: Campaign group wants advert ban]]></title>
-            <description><![CDATA[A group is on a UK-wide tour to raise awareness of the impact gambling can have on people's lives.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-58466612?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-58466612</guid>
-            <pubDate>Mon, 06 Sep 2021 17:06:51 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Stereophonics and Sir Tom Jones to play festive Cardiff show]]></title>
             <description><![CDATA[The rockers will be joined by Sir Tom Jones and Catfish And The Bottlemen in all-Welsh concert.]]></description>
             <link>https://www.bbc.co.uk/news/uk-wales-58459802?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -93,11 +93,11 @@
             <pubDate>Mon, 06 Sep 2021 12:28:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Cardiff’s Castle Street: Work to begin for return of cars]]></title>
-            <description><![CDATA[The council says the closure has increased pollution nearby but green groups want it to stay closed.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-58424596?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-58424596</guid>
-            <pubDate>Mon, 06 Sep 2021 05:10:59 GMT</pubDate>
+            <title><![CDATA[Gambling: Campaign group wants advert ban]]></title>
+            <description><![CDATA[A group is on a UK-wide tour to raise awareness of the impact gambling can have on people's lives.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-58466612?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-58466612</guid>
+            <pubDate>Mon, 06 Sep 2021 17:06:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Wheelchair Moto Cross: Teen's push for Paralympic recognition]]></title>
