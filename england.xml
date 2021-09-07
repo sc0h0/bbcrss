@@ -11,16 +11,30 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 07 Sep 2021 11:50:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Sep 2021 12:27:00 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Boris Johnson outlines health and social care tax to pay for reforms]]></title>
+            <description><![CDATA[Boris Johnson says it is a "responsible decision" but Labour calls the plan a "sticking plaster".]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-58476632?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-politics-58476632</guid>
+            <pubDate>Tue, 07 Sep 2021 12:10:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Whitehaven coal mine: Planning inquiry risks being 'hijacked']]></title>
             <description><![CDATA[The planning inspectorate is told objections to the scheme amount to "emissions offshoring".]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-cumbria-58467209?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-cumbria-58467209</guid>
-            <pubDate>Tue, 07 Sep 2021 11:33:38 GMT</pubDate>
+            <pubDate>Tue, 07 Sep 2021 12:26:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: Unvaccinated frontline NHS staff at Southampton hospital to be redeployed]]></title>
+            <description><![CDATA[Southampton trust says it wants to keep patients safe but one staff member says she feels "bullied".]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-hampshire-58408971?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-hampshire-58408971</guid>
+            <pubDate>Tue, 07 Sep 2021 12:05:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[London Underground: Man died after falling into gap, RAIB finds]]></title>
@@ -30,25 +44,11 @@
             <pubDate>Tue, 07 Sep 2021 11:48:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Foster carer approval 'like winning the lottery']]></title>
-            <description><![CDATA[Matt and Trish say they were initially terrified but "worries and fears" soon disappear.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-birmingham-58428668?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-birmingham-58428668</guid>
-            <pubDate>Tue, 07 Sep 2021 05:22:33 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Andover A303 crash: Tributes to three killed in crash]]></title>
             <description><![CDATA[Tina Ince, Alex Britton and Tom Watson died in the four-vehicle crash near Andover.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-hampshire-58474155?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-hampshire-58474155</guid>
             <pubDate>Tue, 07 Sep 2021 11:26:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Brenda Venables: Husband denies Kempsey septic tank murder]]></title>
-            <description><![CDATA[David Venables faces trial following the discovery of wife Brenda's remains 37 years after disappearing.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-hereford-worcester-58476373?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-hereford-worcester-58476373</guid>
-            <pubDate>Tue, 07 Sep 2021 10:58:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bournemouth Air Festival crash pilot and wing-walker 'returning to work']]></title>
@@ -58,18 +58,25 @@
             <pubDate>Tue, 07 Sep 2021 11:39:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[More migrants cross English Channel in small boats]]></title>
+            <title><![CDATA[Foster carer approval 'like winning the lottery']]></title>
+            <description><![CDATA[Matt and Trish say they were initially terrified but "worries and fears" soon disappear.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-birmingham-58428668?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-birmingham-58428668</guid>
+            <pubDate>Tue, 07 Sep 2021 05:22:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dozens more migrants cross English Channel in small boats]]></title>
             <description><![CDATA[Weather conditions have become more favourable for those making the journey.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-kent-58473698?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-kent-58473698</guid>
-            <pubDate>Tue, 07 Sep 2021 09:15:45 GMT</pubDate>
+            <pubDate>Tue, 07 Sep 2021 12:10:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid: Funfair potential superspreader event, health boss warns]]></title>
-            <description><![CDATA[People "squashed together" at next month's Hull Fair could drive up infections, a health boss says.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-humber-58442660?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-humber-58442660</guid>
-            <pubDate>Tue, 07 Sep 2021 10:36:05 GMT</pubDate>
+            <title><![CDATA[Brenda Venables: Husband denies Kempsey septic tank murder]]></title>
+            <description><![CDATA[David Venables faces trial following the discovery of wife Brenda's remains 37 years after disappearing.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-hereford-worcester-58476373?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-hereford-worcester-58476373</guid>
+            <pubDate>Tue, 07 Sep 2021 10:58:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Roy 'Chubby' Brown: Sheffield cancellation sparks backlash]]></title>
@@ -84,13 +91,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-hereford-worcester-58473454?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-hereford-worcester-58473454</guid>
             <pubDate>Tue, 07 Sep 2021 09:18:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Muppets creator Jim Henson's Hampstead home given blue plaque]]></title>
-            <description><![CDATA[The plaque is on the Hampstead house where Jim Henson lived for more than a decade.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-london-58467017?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-london-58467017</guid>
-            <pubDate>Tue, 07 Sep 2021 00:45:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['Why not have festivals that only women can attend?']]></title>
@@ -128,6 +128,13 @@
             <pubDate>Sat, 04 Sep 2021 23:02:11 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid: Funfair potential superspreader event, health boss warns]]></title>
+            <description><![CDATA[People "squashed together" at next month's Hull Fair could drive up infections, a health boss says.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-humber-58442660?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-humber-58442660</guid>
+            <pubDate>Tue, 07 Sep 2021 10:36:05 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Redcar speedway racer from Norfolk retrieves stolen bikes]]></title>
             <description><![CDATA[Ryan Kinsley's three bikes and equipment worth up to £20,000 were stolen from outside a hotel.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-norfolk-58473624?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -156,11 +163,11 @@
             <pubDate>Tue, 07 Sep 2021 09:34:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[‘Rare’ Bath city-centre parking space sold for £115,000]]></title>
-            <description><![CDATA[The spot in the middle of Bath was sold just two days after being listed online.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-somerset-58466556?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-somerset-58466556</guid>
-            <pubDate>Mon, 06 Sep 2021 16:55:33 GMT</pubDate>
+            <title><![CDATA[Muppets creator Jim Henson's Hampstead home given blue plaque]]></title>
+            <description><![CDATA[The plaque is on the Hampstead house where Jim Henson lived for more than a decade.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-58467017?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-london-58467017</guid>
+            <pubDate>Tue, 07 Sep 2021 00:45:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[George Russell: Mercedes sign British F1 driver to partner Lewis Hamilton from 2022]]></title>
