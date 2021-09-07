@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 07 Sep 2021 14:38:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Sep 2021 14:51:45 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -30,18 +30,11 @@
             <pubDate>Tue, 07 Sep 2021 09:56:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Universal Credit reduction 'will hit Northern Ireland hardest']]></title>
-            <description><![CDATA[A leading economist says almost one in four working age families in Northern Ireland will lose out.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58475377?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58475377</guid>
-            <pubDate>Tue, 07 Sep 2021 13:26:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Soaring shipping costs hit Northern Ireland traders]]></title>
-            <description><![CDATA[Logistics UK says the cost of bringing shipping containers from China has risen by up to 800%.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58474305?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58474305</guid>
-            <pubDate>Tue, 07 Sep 2021 09:37:13 GMT</pubDate>
+            <title><![CDATA[Covid-19: NI records seven coronavirus-linked deaths, 1,748 cases]]></title>
+            <description><![CDATA[The total number of deaths linked to coronavirus in NI since the start of the pandemic is 2,424.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58476033?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58476033</guid>
+            <pubDate>Tue, 07 Sep 2021 13:27:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Stormont to receive £180m in extra funding]]></title>
@@ -58,11 +51,18 @@
             <pubDate>Tue, 07 Sep 2021 11:46:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid-19: NI records seven coronavirus-linked deaths, 1,748 cases]]></title>
-            <description><![CDATA[The total number of deaths linked to coronavirus in NI since the start of the pandemic is 2,424.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58476033?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58476033</guid>
-            <pubDate>Tue, 07 Sep 2021 13:27:56 GMT</pubDate>
+            <title><![CDATA[Universal Credit reduction 'will hit Northern Ireland hardest']]></title>
+            <description><![CDATA[A leading economist says almost one in four working age families in Northern Ireland will lose out.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58475377?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58475377</guid>
+            <pubDate>Tue, 07 Sep 2021 13:26:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Soaring shipping costs hit Northern Ireland traders]]></title>
+            <description><![CDATA[Logistics UK says the cost of bringing shipping containers from China has risen by up to 800%.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58474305?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58474305</guid>
+            <pubDate>Tue, 07 Sep 2021 09:37:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What are Northern Ireland's Covid-19 rules now?]]></title>
@@ -238,6 +238,13 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58441321?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58441321</guid>
             <pubDate>Fri, 03 Sep 2021 17:07:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Republic of Ireland to ban the sale of polluting solid fuels]]></title>
+            <description><![CDATA[The new rules, which will make Ireland a low-smoke zone, are expected to be in place within a year.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58478718?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58478718</guid>
+            <pubDate>Tue, 07 Sep 2021 14:38:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Coronavirus: Republic of Ireland eases gathering and wedding restrictions]]></title>
