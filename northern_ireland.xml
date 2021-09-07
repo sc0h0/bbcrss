@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 07 Sep 2021 08:59:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Sep 2021 09:19:11 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -28,6 +28,13 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58466697?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58466697</guid>
             <pubDate>Tue, 07 Sep 2021 07:48:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: NI school policy may need 'other options']]></title>
+            <description><![CDATA[The test and trace strategy may need a rethink amid high absence levels, the first minister says.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58472316?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58472316</guid>
+            <pubDate>Tue, 07 Sep 2021 09:00:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[US law firm Ogletree Deakins to create 78 new jobs in Belfast]]></title>
@@ -51,13 +58,6 @@
             <pubDate>Mon, 06 Sep 2021 18:21:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Sport NI receives no confidence vote from staff]]></title>
-            <description><![CDATA[Sport NI has been given an emphatic vote of no confidence from its own staff during an ongoing restructuring at the public body]]></description>
-            <link>https://www.bbc.co.uk/sport/northern-ireland/58458203?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/northern-ireland/58458203</guid>
-            <pubDate>Mon, 06 Sep 2021 18:27:36 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[What are Northern Ireland's Covid-19 rules now?]]></title>
             <description><![CDATA[How do restrictions here compare to other parts of the UK and the Republic of Ireland?]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58175159?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -70,6 +70,13 @@
             <link>https://www.bbc.co.uk/sport/golf/58470233?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/golf/58470233</guid>
             <pubDate>Tue, 07 Sep 2021 00:11:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sport NI receives no confidence vote from staff]]></title>
+            <description><![CDATA[Sport NI has been given an emphatic vote of no confidence from its own staff during an ongoing restructuring at the public body]]></description>
+            <link>https://www.bbc.co.uk/sport/northern-ireland/58458203?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/northern-ireland/58458203</guid>
+            <pubDate>Mon, 06 Sep 2021 18:27:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Coronavirus: More than half of Larne High School pupils out of class]]></title>
