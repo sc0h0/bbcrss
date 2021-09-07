@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 07 Sep 2021 11:13:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Sep 2021 11:17:55 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -37,6 +37,20 @@
             <pubDate>Tue, 07 Sep 2021 05:22:33 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[London Underground: Man died after falling into gap, RAIB finds]]></title>
+            <description><![CDATA[He fell between the train and the platform while alighting and was not seen by the driver.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-58407238?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-london-58407238</guid>
+            <pubDate>Tue, 07 Sep 2021 10:51:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Brenda Venables: Husband denies Kempsey septic tank murder]]></title>
+            <description><![CDATA[David Venables faces trial following the discovery of wife Brenda's remains 37 years after disappearing.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-hereford-worcester-58476373?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-hereford-worcester-58476373</guid>
+            <pubDate>Tue, 07 Sep 2021 10:58:10 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[More migrants cross English Channel in small boats]]></title>
             <description><![CDATA[Weather conditions have become more favourable for those making the journey.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-kent-58473698?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -58,13 +72,6 @@
             <pubDate>Tue, 07 Sep 2021 07:36:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tokyo Paralympics: How many medals did your region win?]]></title>
-            <description><![CDATA[At this year's Paralympics the North West of England and East Midlands tied for the most gold medals.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-58465814?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-58465814</guid>
-            <pubDate>Tue, 07 Sep 2021 10:22:59 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Only Fools and Horses star John Challis cancels tour due to ill health]]></title>
             <description><![CDATA[Herefordshire actor John Challis' tour is cancelled due to ill health, promoters say.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-hereford-worcester-58473454?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -77,13 +84,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-london-58467017?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-london-58467017</guid>
             <pubDate>Tue, 07 Sep 2021 00:45:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Farnborough 1952 air show crash victims remembered after 69 years]]></title>
-            <description><![CDATA[Thirty-one people died when a De Havilland jet broke up over the Farnborough Air Show.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-hampshire-58468613?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-hampshire-58468613</guid>
-            <pubDate>Tue, 07 Sep 2021 06:01:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['Why not have festivals that only women can attend?']]></title>
@@ -133,6 +133,13 @@
             <link>https://www.bbc.co.uk/news/uk-england-northamptonshire-58473593?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-northamptonshire-58473593</guid>
             <pubDate>Tue, 07 Sep 2021 09:29:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo Paralympics: How many medals did your region win?]]></title>
+            <description><![CDATA[At this year's Paralympics the North West of England and East Midlands tied for the most gold medals.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-58465814?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-58465814</guid>
+            <pubDate>Tue, 07 Sep 2021 10:22:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tributes after Staffordshire nurse dies from Covid-19]]></title>
