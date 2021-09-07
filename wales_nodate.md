@@ -1,4 +1,4 @@
-1. [Social care: Wales to get extra cash from Boris Johnson overhaul](https://www.bbc.co.uk/news/uk-wales-politics-58474786?at_medium=RSS&at_campaign=KARANGA) - Up to £700m a year will be given to Wales by 2025, the UK government says.
+1. [Wales to get extra cash from new NHS and social care tax](https://www.bbc.co.uk/news/uk-wales-politics-58474786?at_medium=RSS&at_campaign=KARANGA) - Up to £700m a year will be given to Wales by 2025, the UK government says.
 2. [Carmarthen: Doctor jailed after paedophile hunter sting](https://www.bbc.co.uk/news/uk-wales-58472335?at_medium=RSS&at_campaign=KARANGA) - Jamil Rehman was caught by paedophile hunters after travelling to meet a 15-year-old girl.
 3. [Wales basks in September sun - but will it last?](https://www.bbc.co.uk/news/uk-wales-58473018?at_medium=RSS&at_campaign=KARANGA) - It may officially be autumn - but Wales will bask in sunshine as temperatures soar on Tuesday.
 4. [Rare angelshark filmed in Welsh waters 'for first time'](https://www.bbc.co.uk/news/uk-wales-58479544?at_medium=RSS&at_campaign=KARANGA) - Angelsharks are an endangered species but the young spotting proves they are breeding in the UK
@@ -24,4 +24,4 @@
 24. [Carcharu meddyg a drefnodd gwrdd â merch 15 oed](https://www.bbc.co.uk/newyddion/58477090?at_medium=RSS&at_campaign=KARANGA) - Cafodd Dr Jamil Rehman ei ddal wrth geisio cyfarfod gyda phlentyn yng Nghaerfyrddin.
 25. [Glaw, mellt a tharanau i ddilyn y gwres yng Nghymru](https://www.bbc.co.uk/newyddion/58474000?at_medium=RSS&at_campaign=KARANGA) - Yn dilyn tridiau o dywydd braf mae tywydd llai ffafriol ar ei ffordd, gan ddechrau yn siroedd y de.
 26. [7 cwestiwn i Dafydd Meredydd](https://www.bbc.co.uk/newyddion/58474678?at_medium=RSS&at_campaign=KARANGA) - Dyma ddod i adnabod Dafydd Meredydd, Pennaeth Gwasanaethau Cymraeg newydd BBC Cymru, ychydig yn well.
-27. [Morgannwg yn atal Durham am ddiwrnod arall](https://www.bbc.co.uk/newyddion/58480184?at_medium=RSS&at_campaign=KARANGA) - Morgannwg yn llwyddo i atal Durham rhag sicrhau'r fuddugoliaeth ar y trydydd diwrnod yn Chester-le-Street.
+27. [Rhagbrofol Euro dan-21 2023: Bwlgaria 0-4 Cymru](https://www.bbc.co.uk/newyddion/58480183?at_medium=RSS&at_campaign=KARANGA) - Hwb i obeithion tîm dan-21 Cymru i gyrraedd Euro 2023 gyda buddugoliaeth swmpus oddi cartref.
