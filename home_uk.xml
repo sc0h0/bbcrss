@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 07 Sep 2021 15:41:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Sep 2021 15:55:00 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -37,13 +37,6 @@
             <pubDate>Tue, 07 Sep 2021 15:37:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Police Scotland fined £100,000 over M9 crash death failures]]></title>
-            <description><![CDATA[The force admitted that failures in its call-handling system "materially contributed" to a young woman's death.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-tayside-central-58474385?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-tayside-central-58474385</guid>
-            <pubDate>Tue, 07 Sep 2021 15:10:01 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Scottish government to restart work on case for independence]]></title>
             <description><![CDATA[The Scottish government had paused its indyref2 plans because of the Covid pandemic.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-scotland-politics-58478187?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -51,18 +44,18 @@
             <pubDate>Tue, 07 Sep 2021 14:23:55 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Police Scotland fined £100,000 over M9 crash death failures]]></title>
+            <description><![CDATA[The force admitted that failures in its call-handling system "materially contributed" to a young woman's death.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-tayside-central-58474385?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-tayside-central-58474385</guid>
+            <pubDate>Tue, 07 Sep 2021 15:10:01 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Covid: No plans for October lockdown, says government]]></title>
             <description><![CDATA[Officials deny a newspaper report saying new rules could come in around England's half-term holiday.]]></description>
             <link>https://www.bbc.co.uk/news/uk-58474536?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58474536</guid>
-            <pubDate>Tue, 07 Sep 2021 15:14:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Michael K Williams: The Wire star remembered as 'a fine man and a rare talent']]></title>
-            <description><![CDATA[Tributes are paid to Michael K Williams, best known for the HBO series, who has died at the age of 54.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-58470253?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58470253</guid>
-            <pubDate>Tue, 07 Sep 2021 15:40:20 GMT</pubDate>
+            <pubDate>Tue, 07 Sep 2021 15:42:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sexually transmitted infections fall during pandemic]]></title>
@@ -167,7 +160,7 @@
             <description><![CDATA[A new health and social care tax is being introduced, Boris Johnson has announced.]]></description>
             <link>https://www.bbc.co.uk/news/uk-politics-58436009?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-politics-58436009</guid>
-            <pubDate>Tue, 07 Sep 2021 14:58:33 GMT</pubDate>
+            <pubDate>Tue, 07 Sep 2021 15:52:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Social care changes at-a-glance]]></title>
@@ -247,18 +240,18 @@
             <pubDate>Tue, 07 Sep 2021 13:48:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[George Russell: Mercedes sign British F1 driver to partner Lewis Hamilton from 2022]]></title>
-            <description><![CDATA[Mercedes announce British driver George Russell will partner Lewis Hamilton from next season.]]></description>
-            <link>https://www.bbc.co.uk/sport/formula1/58474646?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/formula1/58474646</guid>
-            <pubDate>Tue, 07 Sep 2021 09:00:34 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[I should have been banned forever, says online troll who sent racist message to England's Saka]]></title>
             <description><![CDATA[One racist troll tracked down by the BBC says social media companies should have banned him for longer.]]></description>
             <link>https://www.bbc.co.uk/news/uk-58466849?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58466849</guid>
             <pubDate>Tue, 07 Sep 2021 08:15:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[George Russell: Mercedes sign British F1 driver to partner Lewis Hamilton from 2022]]></title>
+            <description><![CDATA[Mercedes announce British driver George Russell will partner Lewis Hamilton from next season.]]></description>
+            <link>https://www.bbc.co.uk/sport/formula1/58474646?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/formula1/58474646</guid>
+            <pubDate>Tue, 07 Sep 2021 09:00:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: Will I need a jab and what will university be like this term?]]></title>
@@ -279,7 +272,7 @@
             <description><![CDATA[The progress made in vaccinating the country's population, as more than 48 million people have received at least one dose.]]></description>
             <link>https://www.bbc.co.uk/news/health-55274833?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/health-55274833</guid>
-            <pubDate>Fri, 03 Sep 2021 16:27:50 GMT</pubDate>
+            <pubDate>Tue, 07 Sep 2021 15:52:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Universal credit: When will the £20 increase stop?]]></title>
@@ -314,7 +307,7 @@
             <description><![CDATA[Explore the data on coronavirus in the UK and find out how many cases there are in your area.]]></description>
             <link>https://www.bbc.co.uk/news/uk-51768274?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-51768274</guid>
-            <pubDate>Mon, 06 Sep 2021 15:48:08 GMT</pubDate>
+            <pubDate>Tue, 07 Sep 2021 15:39:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: How is furlough changing and when will it end?]]></title>

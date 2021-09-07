@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 07 Sep 2021 15:42:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Sep 2021 15:51:41 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -51,7 +51,7 @@
             <pubDate>Tue, 07 Sep 2021 11:46:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Universal Credit reduction 'will hit Northern Ireland hardest']]></title>
+            <title><![CDATA[Universal Credit reduction 'will hit Northern Ireland hard']]></title>
             <description><![CDATA[A leading economist says almost one in four working age families in Northern Ireland will lose out.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58475377?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58475377</guid>
@@ -63,6 +63,13 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58474305?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58474305</guid>
             <pubDate>Tue, 07 Sep 2021 09:37:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rainbow crossing: NI's first rainbow crossing unveiled in Londonderry]]></title>
+            <description><![CDATA[It links the Guildhall to the Peace Bridge and aims to support the city's LGBTQ+ community.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58480610?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58480610</guid>
+            <pubDate>Tue, 07 Sep 2021 15:49:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What are Northern Ireland's Covid-19 rules now?]]></title>
@@ -91,13 +98,6 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58467776?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58467776</guid>
             <pubDate>Tue, 07 Sep 2021 08:29:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sport NI receives no confidence vote from staff]]></title>
-            <description><![CDATA[Sport NI has been given an emphatic vote of no confidence from its own staff during an ongoing restructuring at the public body]]></description>
-            <link>https://www.bbc.co.uk/sport/northern-ireland/58458203?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/northern-ireland/58458203</guid>
-            <pubDate>Mon, 06 Sep 2021 18:27:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: Table service rules over for NI pubs and restaurants]]></title>
