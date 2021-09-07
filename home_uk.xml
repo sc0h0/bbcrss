@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 07 Sep 2021 17:39:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Sep 2021 17:49:31 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -170,20 +170,6 @@
             <pubDate>Tue, 07 Sep 2021 00:34:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[National insurance: What’s the new Health and Social Care tax and how will it affect me?]]></title>
-            <description><![CDATA[A new health and social care tax is being introduced, Boris Johnson has announced.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-58436009?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-politics-58436009</guid>
-            <pubDate>Tue, 07 Sep 2021 15:52:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Social care changes at-a-glance]]></title>
-            <description><![CDATA[The government's promising to restrict costs for families - but what is changing and how will it be funded?]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-58473787?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-politics-58473787</guid>
-            <pubDate>Tue, 07 Sep 2021 13:12:53 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[US Open: Why it is right to be excited about 'wise' & 'fearless' Emma Raducanu]]></title>
             <description><![CDATA[As British teenager Emma Raducanu reaches the US Open quarter-finals, BBC Sport looks at why it is right to be excited by her journey.]]></description>
             <link>https://www.bbc.co.uk/sport/tennis/58469895?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -266,6 +252,34 @@
             <link>https://www.bbc.co.uk/sport/rugby-union/58476455?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/rugby-union/58476455</guid>
             <pubDate>Tue, 07 Sep 2021 13:48:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What will the new tax cost me?]]></title>
+            <description><![CDATA[A new health and social care tax is being introduced, Boris Johnson has announced.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-58436009?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-politics-58436009</guid>
+            <pubDate>Tue, 07 Sep 2021 15:52:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Are the Tories still the low tax party?']]></title>
+            <description><![CDATA[The BBC's political editor, Laura Kuenssberg, asked the prime minister if the Conservatives are still a low tax party.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-58481425?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-politics-58481425</guid>
+            <pubDate>Tue, 07 Sep 2021 16:29:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Social care changes at-a-glance]]></title>
+            <description><![CDATA[The government's promising to restrict costs for families - but what is changing and how will it be funded?]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-58473787?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-politics-58473787</guid>
+            <pubDate>Tue, 07 Sep 2021 13:12:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Business bosses warn new tax could hit jobs]]></title>
+            <description><![CDATA[Lobby groups have described a new health and social care tax as "ill-timed" and "illogical".]]></description>
+            <link>https://www.bbc.co.uk/news/business-58473810?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58473810</guid>
+            <pubDate>Tue, 07 Sep 2021 16:32:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: Will I need a jab and what will university be like this term?]]></title>
