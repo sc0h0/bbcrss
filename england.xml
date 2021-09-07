@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 06 Sep 2021 22:33:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Sep 2021 05:28:40 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Social care: PM to unveil overhaul of sector in England]]></title>
+            <description><![CDATA[Boris Johnson will set out plans on Tuesday, amid a Tory backlash to tax rises to cover costs.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-58469872?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-politics-58469872</guid>
+            <pubDate>Tue, 07 Sep 2021 01:34:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Dylan Rich: Young footballer who died was much-loved, says head]]></title>
             <description><![CDATA[Dylan Rich, 17, is suspected to have had a cardiac arrest during a game in Nottinghamshire.]]></description>
@@ -23,11 +30,18 @@
             <pubDate>Mon, 06 Sep 2021 16:57:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Channel migrants: Children among those brought ashore at Dungeness]]></title>
-            <description><![CDATA[A steady stream of crossings is thought to be have taken place amid calm waters and sunny skies.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-kent-58468897?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-kent-58468897</guid>
-            <pubDate>Mon, 06 Sep 2021 18:46:55 GMT</pubDate>
+            <title><![CDATA[Muppets creator Jim Henson's Hampstead home given blue plaque]]></title>
+            <description><![CDATA[The plaque is on the Hampstead house where Jim Henson lived for more than a decade.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-58467017?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-london-58467017</guid>
+            <pubDate>Tue, 07 Sep 2021 00:45:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why social workers are being embedded in schools]]></title>
+            <description><![CDATA[A new project is embedding social workers in schools. How is it improving family life?]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-57978625?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-london-57978625</guid>
+            <pubDate>Tue, 07 Sep 2021 00:51:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Kickboxer Saeideh Aletaha: Brothers feared fatal fight was unfair]]></title>
@@ -51,13 +65,6 @@
             <pubDate>Mon, 06 Sep 2021 17:02:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Red Funnel Southampton check-in kiosk flattened by lorry]]></title>
-            <description><![CDATA[Staff members and passengers rush to help three people working inside a ferry kiosk in Southampton.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-hampshire-58467000?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-hampshire-58467000</guid>
-            <pubDate>Mon, 06 Sep 2021 16:04:44 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Plymouth shooting: Hundreds mourn toddler and dad]]></title>
             <description><![CDATA[Sophie Martyn was walking with her father Lee, 43, when they were shot dead by Jake Davison.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-devon-58464958?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -65,11 +72,18 @@
             <pubDate>Mon, 06 Sep 2021 14:53:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Rapper Wiley charged with east London assault and burglary]]></title>
-            <description><![CDATA[Wiley is accused of assault by beating and burglary with intent to cause criminal damage.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-london-58467014?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-london-58467014</guid>
-            <pubDate>Mon, 06 Sep 2021 15:03:35 GMT</pubDate>
+            <title><![CDATA[Red Funnel Southampton check-in kiosk flattened by lorry]]></title>
+            <description><![CDATA[Staff members and passengers rush to help three people working inside a ferry kiosk in Southampton.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-hampshire-58467000?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-hampshire-58467000</guid>
+            <pubDate>Mon, 06 Sep 2021 16:04:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Channel migrants: Children among those brought ashore at Dungeness]]></title>
+            <description><![CDATA[A steady stream of crossings is thought to be have taken place amid calm waters and sunny skies.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-kent-58468897?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-kent-58468897</guid>
+            <pubDate>Mon, 06 Sep 2021 18:46:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Newcastle mayor 'infuriated' by mosque firework attack]]></title>
@@ -84,6 +98,13 @@
             <link>https://www.bbc.co.uk/news/uk-england-somerset-58466556?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-somerset-58466556</guid>
             <pubDate>Mon, 06 Sep 2021 16:55:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rapper Wiley charged with east London assault and burglary]]></title>
+            <description><![CDATA[Wiley is accused of assault by beating and burglary with intent to cause criminal damage.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-58467014?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-london-58467014</guid>
+            <pubDate>Mon, 06 Sep 2021 15:03:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Roy 'Chubby' Brown: Sheffield cancellation sparks backlash]]></title>
