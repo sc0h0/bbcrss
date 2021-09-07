@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 07 Sep 2021 19:17:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Sep 2021 19:56:54 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -23,18 +23,18 @@
             <pubDate>Tue, 07 Sep 2021 18:21:49 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Napier Barracks: Call for end to asylum seekers' detention]]></title>
+            <description><![CDATA[The call comes after the Home Office said Napier Barracks in Kent could be used for five more years.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-kent-58478166?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-kent-58478166</guid>
+            <pubDate>Tue, 07 Sep 2021 19:29:56 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Leamington Spa fire: Tributes to worker presumed dead]]></title>
             <description><![CDATA[Police name the missing man as David Boswell who will be sorely missed, his parents say.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-coventry-warwickshire-58481247?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-coventry-warwickshire-58481247</guid>
             <pubDate>Tue, 07 Sep 2021 17:04:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Richard Okorogheye death: Met Police officers face misconduct probe]]></title>
-            <description><![CDATA[The body of Richard Okorogheye was found two weeks after he went missing from his west London home.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-london-58478688?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-london-58478688</guid>
-            <pubDate>Tue, 07 Sep 2021 13:59:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ambulance delay caused Manchester doctor's death, claims son]]></title>
@@ -65,6 +65,13 @@
             <pubDate>Tue, 07 Sep 2021 15:51:30 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Richard Okorogheye death: Met Police officers face misconduct probe]]></title>
+            <description><![CDATA[The body of Richard Okorogheye was found two weeks after he went missing from his west London home.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-58478688?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-london-58478688</guid>
+            <pubDate>Tue, 07 Sep 2021 13:59:14 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Crawley mayor Shahzad Malik resigns after brawl]]></title>
             <description><![CDATA[Shahzad Malik says he is leaving his role with "deep sadness".]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-sussex-58478157?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -91,13 +98,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-manchester-58479507?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-manchester-58479507</guid>
             <pubDate>Tue, 07 Sep 2021 15:46:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Wareham Forest: More heathland destroyed as fire breaks out]]></title>
-            <description><![CDATA[A devastating blaze destroyed more than 550 acres (220 hectares) of the forest last year.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-dorset-58479215?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-dorset-58479215</guid>
-            <pubDate>Tue, 07 Sep 2021 14:46:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Dartmoor tor conquered with rescue team's help]]></title>
@@ -135,6 +135,13 @@
             <pubDate>Mon, 06 Sep 2021 05:29:23 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Wareham Forest: More heathland destroyed as fire breaks out]]></title>
+            <description><![CDATA[A devastating blaze destroyed more than 550 acres (220 hectares) of the forest last year.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-dorset-58479215?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-dorset-58479215</guid>
+            <pubDate>Tue, 07 Sep 2021 14:46:24 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Covid: Unvaccinated frontline NHS staff at Southampton hospital to be redeployed]]></title>
             <description><![CDATA[Southampton trust says it wants to keep patients safe but one staff member says she feels "bullied".]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-hampshire-58408971?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -161,13 +168,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-london-58407238?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-london-58407238</guid>
             <pubDate>Tue, 07 Sep 2021 11:48:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sophie Moss death: Sam Pybus jailed for choking woman]]></title>
-            <description><![CDATA[Sophie Moss, a mother of two boys, was found unconscious at her flat and later died in hospital.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-tees-58474727?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-tees-58474727</guid>
-            <pubDate>Tue, 07 Sep 2021 12:36:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[George Russell: Mercedes sign British F1 driver to partner Lewis Hamilton from 2022]]></title>
