@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 07 Sep 2021 15:05:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Sep 2021 15:29:25 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -27,7 +27,7 @@
             <description><![CDATA[Jamil Rehman was caught by paedophile hunters after travelling to meet a 15-year-old girl.]]></description>
             <link>https://www.bbc.co.uk/news/uk-wales-58472335?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-58472335</guid>
-            <pubDate>Tue, 07 Sep 2021 13:56:23 GMT</pubDate>
+            <pubDate>Tue, 07 Sep 2021 15:27:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Wales basks in September sun - but will it last?]]></title>
@@ -44,6 +44,13 @@
             <pubDate>Tue, 07 Sep 2021 13:00:15 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid in Wales: Hospital numbers continue to rise]]></title>
+            <description><![CDATA[There has been a spike in hospital Covid patients, with one consultant saying many are unvaccinated.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-58475641?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-58475641</guid>
+            <pubDate>Tue, 07 Sep 2021 15:17:13 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Pet dementia: 85% of cases in dogs and cats undiagnosed, say vets]]></title>
             <description><![CDATA[Poppy was a lively Staffie-cross, but vets say she is among the one in four dogs to get dementia.]]></description>
             <link>https://www.bbc.co.uk/news/uk-wales-58465588?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -51,11 +58,11 @@
             <pubDate>Tue, 07 Sep 2021 11:04:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Barry death: Man in court charged with grandfather's murder]]></title>
-            <description><![CDATA[A 53-year-old appears in court accused of murdering Robert Farley, 61, at his south Wales home.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-58473024?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-58473024</guid>
-            <pubDate>Tue, 07 Sep 2021 11:36:46 GMT</pubDate>
+            <title><![CDATA[Caerphilly recycling fire: Barriers protecting wildlife vandalised]]></title>
+            <description><![CDATA[Sandbags and pipes to stop oil and petrol polluting streams have been damaged, officials say.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-58472327?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-58472327</guid>
+            <pubDate>Tue, 07 Sep 2021 15:15:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Iron Age hillfort is being lost to the sea in Gwynedd]]></title>
@@ -65,25 +72,18 @@
             <pubDate>Tue, 07 Sep 2021 14:49:15 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Drugs: Major Welsh bust recovers large cannabis haul]]></title>
+            <description><![CDATA[Cannabis and cocaine are seized in an operation across mid and south Wales.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-58477906?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-58477906</guid>
+            <pubDate>Tue, 07 Sep 2021 14:33:10 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Cyclist taken to hospital after Bike Park Wales incident]]></title>
             <description><![CDATA[The man was hurt after an incident at a mountain biking circuit in south Wales.]]></description>
             <link>https://www.bbc.co.uk/news/uk-wales-58472326?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-58472326</guid>
             <pubDate>Tue, 07 Sep 2021 10:26:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Plastic pollution: Could recycling PPE reduce the problem?]]></title>
-            <description><![CDATA[It is estimated 19 billion single-use face masks have been used in the UK this year.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-57687261?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-57687261</guid>
-            <pubDate>Tue, 07 Sep 2021 07:52:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Perpetuus: Security review ordered into takeover of graphene firm]]></title>
-            <description><![CDATA[UK business secretary intervenes in a takeover of Perpetuus over links to a Chinese academic.]]></description>
-            <link>https://www.bbc.co.uk/news/business-58424348?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58424348</guid>
-            <pubDate>Tue, 07 Sep 2021 10:46:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Dementia in dogs 'heartbreaking', says Wrexham woman]]></title>
@@ -142,6 +142,13 @@
             <pubDate>Tue, 07 Sep 2021 12:38:53 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Chris Llewellyn steps down as Swansea City Ladies boss after less than month in job]]></title>
+            <description><![CDATA[Chris Llewellyn steps down as head coach of Swansea City Ladies after less than a month in the job.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58480118?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58480118</guid>
+            <pubDate>Tue, 07 Sep 2021 15:17:09 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Wales add Tottenham's Joe Rodon to squad for Estonia but Aaron Ramsey ruled out]]></title>
             <description><![CDATA[Wales add centre-back Joe Rodon to their squad for Wednesday's World Cup qualifier against Estonia, but Aaron Ramsey will not feature.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58463428?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -154,13 +161,6 @@
             <link>https://www.bbc.co.uk/sport/commonwealth-games/58474651?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/commonwealth-games/58474651</guid>
             <pubDate>Tue, 07 Sep 2021 12:40:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gareth Bale summons spirit of Andorra and Euro 2016 to save Wales against Belarus]]></title>
-            <description><![CDATA[Gareth Bale summons the spirit of Andorra and Euro 2016 to save Wales once again against Belarus.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58457163?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58457163</guid>
-            <pubDate>Sun, 05 Sep 2021 17:06:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Gofal cymdeithasol: 'Cymru i gael arian ychwanegol']]></title>
