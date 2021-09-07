@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 07 Sep 2021 12:21:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Sep 2021 12:45:47 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -149,6 +149,13 @@
             <pubDate>Sun, 05 Sep 2021 23:20:24 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Taliban fire shots to disperse protest in Kabul]]></title>
+            <description><![CDATA[Hundreds of protesters took to the streets on Tuesday to demand women's rights and denounce Taliban rule.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58476890?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58476890</guid>
+            <pubDate>Tue, 07 Sep 2021 11:51:32 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Mexico: Flash flooding sweeps away cars after heavy rain]]></title>
             <description><![CDATA[Heavy rain in central Mexico sparked flash floods in Ecatepec and Nexahualcóyotl.]]></description>
             <link>https://www.bbc.co.uk/news/world-latin-america-58476138?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -175,13 +182,6 @@
             <link>https://www.bbc.co.uk/news/world-asia-58456955?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58456955</guid>
             <pubDate>Sun, 05 Sep 2021 20:44:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Saving Australian frog species on the brink of extinction]]></title>
-            <description><![CDATA[Scientists fear four species are already extinct but say urgent action can save others.]]></description>
-            <link>https://www.bbc.co.uk/news/world-australia-58419552?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-australia-58419552</guid>
-            <pubDate>Sun, 05 Sep 2021 23:07:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Afghanistan: The pledge binding al-Qaeda to the Taliban]]></title>

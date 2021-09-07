@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 07 Sep 2021 12:27:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Sep 2021 12:58:01 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -20,14 +20,7 @@
             <description><![CDATA[Boris Johnson says it is a "responsible decision" but Labour calls the plan a "sticking plaster".]]></description>
             <link>https://www.bbc.co.uk/news/uk-politics-58476632?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-politics-58476632</guid>
-            <pubDate>Tue, 07 Sep 2021 12:10:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Whitehaven coal mine: Planning inquiry risks being 'hijacked']]></title>
-            <description><![CDATA[The planning inspectorate is told objections to the scheme amount to "emissions offshoring".]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-cumbria-58467209?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-cumbria-58467209</guid>
-            <pubDate>Tue, 07 Sep 2021 12:26:35 GMT</pubDate>
+            <pubDate>Tue, 07 Sep 2021 12:40:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: Unvaccinated frontline NHS staff at Southampton hospital to be redeployed]]></title>
@@ -37,11 +30,18 @@
             <pubDate>Tue, 07 Sep 2021 12:05:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[London Underground: Man died after falling into gap, RAIB finds]]></title>
-            <description><![CDATA[He fell between the train and the platform while alighting and was not seen by the driver.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-london-58407238?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-london-58407238</guid>
-            <pubDate>Tue, 07 Sep 2021 11:48:58 GMT</pubDate>
+            <title><![CDATA[Whitehaven coal mine: Planning inquiry risks being 'hijacked']]></title>
+            <description><![CDATA[The planning inspectorate is told objections to the scheme amount to "emissions offshoring".]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-cumbria-58467209?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-cumbria-58467209</guid>
+            <pubDate>Tue, 07 Sep 2021 12:26:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sophie Moss death: Sam Pybus jailed for choking woman]]></title>
+            <description><![CDATA[Sophie Moss, a mother of two boys, was found unconscious at her flat and later died in hospital.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-tees-58474727?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-tees-58474727</guid>
+            <pubDate>Tue, 07 Sep 2021 12:36:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Andover A303 crash: Tributes to three killed in crash]]></title>
@@ -58,18 +58,11 @@
             <pubDate>Tue, 07 Sep 2021 11:39:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Foster carer approval 'like winning the lottery']]></title>
-            <description><![CDATA[Matt and Trish say they were initially terrified but "worries and fears" soon disappear.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-birmingham-58428668?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-birmingham-58428668</guid>
-            <pubDate>Tue, 07 Sep 2021 05:22:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dozens more migrants cross English Channel in small boats]]></title>
-            <description><![CDATA[Weather conditions have become more favourable for those making the journey.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-kent-58473698?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-kent-58473698</guid>
-            <pubDate>Tue, 07 Sep 2021 12:10:20 GMT</pubDate>
+            <title><![CDATA[London Underground: Man died after falling into gap, RAIB finds]]></title>
+            <description><![CDATA[He fell between the train and the platform while alighting and was not seen by the driver.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-58407238?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-london-58407238</guid>
+            <pubDate>Tue, 07 Sep 2021 11:48:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Brenda Venables: Husband denies Kempsey septic tank murder]]></title>
@@ -77,6 +70,13 @@
             <link>https://www.bbc.co.uk/news/uk-england-hereford-worcester-58476373?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-hereford-worcester-58476373</guid>
             <pubDate>Tue, 07 Sep 2021 10:58:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Foster carer approval 'like winning the lottery']]></title>
+            <description><![CDATA[Matt and Trish say they were initially terrified but "worries and fears" soon disappear.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-birmingham-58428668?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-birmingham-58428668</guid>
+            <pubDate>Tue, 07 Sep 2021 05:22:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Roy 'Chubby' Brown: Sheffield cancellation sparks backlash]]></title>
@@ -135,6 +135,13 @@
             <pubDate>Tue, 07 Sep 2021 10:36:05 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Dozens more migrants cross English Channel in small boats]]></title>
+            <description><![CDATA[Weather conditions have become more favourable for those making the journey.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-kent-58473698?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-kent-58473698</guid>
+            <pubDate>Tue, 07 Sep 2021 12:10:20 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Redcar speedway racer from Norfolk retrieves stolen bikes]]></title>
             <description><![CDATA[Ryan Kinsley's three bikes and equipment worth up to £20,000 were stolen from outside a hotel.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-norfolk-58473624?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -154,20 +161,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-58465814?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-58465814</guid>
             <pubDate>Tue, 07 Sep 2021 10:22:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tributes after Staffordshire nurse dies from Covid-19]]></title>
-            <description><![CDATA[Staff at County Hospital in Stafford remember Veronica Guy as an "advocate for patients".]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-stoke-staffordshire-58474275?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-stoke-staffordshire-58474275</guid>
-            <pubDate>Tue, 07 Sep 2021 09:34:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Muppets creator Jim Henson's Hampstead home given blue plaque]]></title>
-            <description><![CDATA[The plaque is on the Hampstead house where Jim Henson lived for more than a decade.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-london-58467017?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-london-58467017</guid>
-            <pubDate>Tue, 07 Sep 2021 00:45:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[George Russell: Mercedes sign British F1 driver to partner Lewis Hamilton from 2022]]></title>

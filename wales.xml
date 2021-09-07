@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 07 Sep 2021 12:30:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Sep 2021 12:55:16 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -20,7 +20,7 @@
             <description><![CDATA[Boris Johnson's social care spending plans for England to raise more money for Wales.]]></description>
             <link>https://www.bbc.co.uk/news/uk-wales-politics-58474786?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-politics-58474786</guid>
-            <pubDate>Tue, 07 Sep 2021 12:28:21 GMT</pubDate>
+            <pubDate>Tue, 07 Sep 2021 12:31:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Wales basks in September sun - but will it last?]]></title>
@@ -86,13 +86,6 @@
             <pubDate>Mon, 06 Sep 2021 12:54:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid: Visits by carer with suspected coronavirus 'gobsmacking']]></title>
-            <description><![CDATA[Samantha Gould carried out home visits after being told to self-isolate, a tribunal hears.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-58466607?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-58466607</guid>
-            <pubDate>Mon, 06 Sep 2021 16:15:23 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Dementia in dogs 'heartbreaking', says Wrexham woman]]></title>
             <description><![CDATA[Staffie cross Poppy is one of the 10% of dogs with dementia who get a diagnosis.]]></description>
             <link>https://www.bbc.co.uk/news/uk-wales-58470012?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -139,7 +132,14 @@
             <description><![CDATA[The Football Association of Wales has confirmed Wales fans will be allowed to travel to October's World Cup Qualifiers in Czech Republic and Estonia.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58471928?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58471928</guid>
-            <pubDate>Tue, 07 Sep 2021 05:48:46 GMT</pubDate>
+            <pubDate>Tue, 07 Sep 2021 12:38:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rugby Union: New World 12s tournament proposed to launch in August 2022]]></title>
+            <description><![CDATA[Plans are unveiled for a new 12-a-side rugby competition proposed to take place in England next August.]]></description>
+            <link>https://www.bbc.co.uk/sport/rugby-union/58476455?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/rugby-union/58476455</guid>
+            <pubDate>Tue, 07 Sep 2021 12:45:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Wales add Tottenham's Joe Rodon to squad for Estonia but Aaron Ramsey ruled out]]></title>
@@ -149,11 +149,11 @@
             <pubDate>Mon, 06 Sep 2021 14:55:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Birmingham 2022 Commonwealth Games considering vaccine passports to enable full stadiums]]></title>
-            <description><![CDATA[The use of vaccine passports is being considered for the Birmingham 2022 Commonwealth Games in order to have capacity crowds, say organisers.]]></description>
+            <title><![CDATA[Birmingham 2022 Commonwealth Games confident of full stadiums at a "Covid-friendly" event]]></title>
+            <description><![CDATA[Birmingham 2022 Commonwealth Games organisers say they are confident of hosting capacity crowds at a "Covid-friendly games".]]></description>
             <link>https://www.bbc.co.uk/sport/commonwealth-games/58474651?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/commonwealth-games/58474651</guid>
-            <pubDate>Tue, 07 Sep 2021 11:31:18 GMT</pubDate>
+            <pubDate>Tue, 07 Sep 2021 12:40:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Gareth Bale summons spirit of Andorra and Euro 2016 to save Wales against Belarus]]></title>
@@ -163,25 +163,18 @@
             <pubDate>Sun, 05 Sep 2021 17:06:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tokyo Paralympics: Aled Sion Davies has sights set on Paris 2024]]></title>
-            <description><![CDATA[Wales' triple Paralympic champion Aled Sion Davies will be aiming for further success at Paris 2024.]]></description>
-            <link>https://www.bbc.co.uk/sport/disability-sport/58469862?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/disability-sport/58469862</guid>
-            <pubDate>Mon, 06 Sep 2021 18:58:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Boris Johnson yn debygol o godi yswiriant gwladol]]></title>
-            <description><![CDATA[Disgwyl i Gymru gael cyfran o arian ychwanegol drwy fformiwla Barnett yn sgil y cynnydd.]]></description>
+            <title><![CDATA[Gofal cymdeithasol: 'Cymru i gael arian ychwanegol']]></title>
+            <description><![CDATA[Cymru i gael cyfran o arian ychwanegol yn sgil cynnydd mewn yswiriant gwladol, yn ôl Prif Weinidog y DU.]]></description>
             <link>https://www.bbc.co.uk/newyddion/58468358?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/newyddion/58468358</guid>
-            <pubDate>Tue, 07 Sep 2021 10:51:48 GMT</pubDate>
+            <pubDate>Tue, 07 Sep 2021 12:33:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Gofal babanod angen gwella yn Ysbyty Tywysog Charles]]></title>
             <description><![CDATA[Adroddiad yn dweud fod gwendidau yn yr uned newydd-anedig yn effeithio ar y ddarpariaeth o ofal diogel.]]></description>
             <link>https://www.bbc.co.uk/newyddion/58463500?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/newyddion/58463500</guid>
-            <pubDate>Tue, 07 Sep 2021 11:47:10 GMT</pubDate>
+            <pubDate>Tue, 07 Sep 2021 12:35:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Cwmni'n toddi hen offer PPE i greu masgiau newydd]]></title>
