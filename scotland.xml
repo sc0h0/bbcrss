@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 07 Sep 2021 20:42:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Sep 2021 20:52:13 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -233,11 +233,18 @@
             <pubDate>Sat, 04 Sep 2021 08:10:45 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Austria 0-1 Scotland: Lyndon Dykes penalty earns huge away win]]></title>
+            <description><![CDATA[Scotland impressively revive their World Cup hopes with a momentous victory over Austria to climb into the Group F play-off spot.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58386792?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58386792</guid>
+            <pubDate>Tue, 07 Sep 2021 20:45:07 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Austria v Scotland: Rate the players in the World Cup qualifier]]></title>
             <description><![CDATA[Rate the players in the World Cup qualifier between Austria and Scotland.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58478591?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58478591</guid>
-            <pubDate>Tue, 07 Sep 2021 19:33:36 GMT</pubDate>
+            <pubDate>Tue, 07 Sep 2021 20:45:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Solheim Cup 2021: Catriona Matthew says no to third captaincy stint in Spain]]></title>
@@ -259,13 +266,6 @@
             <link>https://www.bbc.co.uk/sport/football/58476363?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58476363</guid>
             <pubDate>Tue, 07 Sep 2021 13:09:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Austria v Scotland: 'Must-not-lose' game, says Callum McGregor]]></title>
-            <description><![CDATA[Scotland's World Cup qualifying visit to Austria is a "must-not-lose game, rather than must-win", according to midfielder Callum McGregor.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58386792?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58386792</guid>
-            <pubDate>Mon, 06 Sep 2021 18:29:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
