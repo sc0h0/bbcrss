@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 07 Sep 2021 22:20:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Sep 2021 22:35:01 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -105,6 +105,13 @@
             <link>https://www.bbc.co.uk/news/entertainment-arts-58479375?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-58479375</guid>
             <pubDate>Tue, 07 Sep 2021 16:43:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The papers: PM's social care gamble and highest tax since war]]></title>
+            <description><![CDATA[The announcement of a tax rise to pay for social care leads all of the morning papers.]]></description>
+            <link>https://www.bbc.co.uk/news/blogs-the-papers-58483020?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/blogs-the-papers-58483020</guid>
+            <pubDate>Tue, 07 Sep 2021 22:21:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Australian bush rescue: Mother's reunion with boy lost for four days]]></title>
@@ -275,6 +282,13 @@
             <pubDate>Tue, 07 Sep 2021 21:06:49 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Team GB Olympic players dominate new manager Wiegman's first England squad]]></title>
+            <description><![CDATA[Sarina Wiegman includes 16 members of the British Tokyo Olympics team in her first England squad since becoming manager.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58480913?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58480913</guid>
+            <pubDate>Tue, 07 Sep 2021 17:27:28 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[What will the new tax cost me?]]></title>
             <description><![CDATA[A new health and social care tax is being introduced, Boris Johnson has announced.]]></description>
             <link>https://www.bbc.co.uk/news/uk-politics-58436009?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -366,11 +380,39 @@
             <pubDate>Mon, 06 Sep 2021 09:27:09 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Afghanistan: Who's who in the Taliban leadership]]></title>
+            <description><![CDATA[What we know about the top figures in the militant group that has taken control of Afghanistan.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58235639?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58235639</guid>
+            <pubDate>Tue, 07 Sep 2021 21:14:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Afghanistan: The pledge binding al-Qaeda to the Taliban]]></title>
+            <description><![CDATA[The history of the complex relationship between the two groups.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58473574?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58473574</guid>
+            <pubDate>Tue, 07 Sep 2021 10:02:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Afghanistan: Dentist fears for family in hiding from Taliban]]></title>
+            <description><![CDATA[Suleyman Sakha says his in-laws, who worked for a humanitarian organisation, are living in dread.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-cumbria-58474735?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-cumbria-58474735</guid>
+            <pubDate>Tue, 07 Sep 2021 16:55:38 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Afghanistan: Rural areas welcome peace and end of war]]></title>
             <description><![CDATA[In more rural areas of Afghanistan, people welcome the end of a war that has killed tens of thousands.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-58456955?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58456955</guid>
             <pubDate>Sun, 05 Sep 2021 20:44:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Taliban embrace social media: 'We too want to change perceptions']]></title>
+            <description><![CDATA[Famed for their shunning of technology, the Taliban are realising they need to be on social media too.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58466939?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58466939</guid>
+            <pubDate>Mon, 06 Sep 2021 15:12:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[US Senator Lindsey Graham: 'We will be going back into Afghanistan']]></title>
@@ -392,48 +434,6 @@
             <link>https://www.bbc.co.uk/news/world-asia-58434735?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58434735</guid>
             <pubDate>Sat, 04 Sep 2021 23:58:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Afghanistan: Despair of Brits and UK allies stuck behind Taliban lines]]></title>
-            <description><![CDATA[An NHS worker, a teacher and families trapped in Afghanistan tell the BBC about their plans now.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58434887?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58434887</guid>
-            <pubDate>Sat, 04 Sep 2021 00:25:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Afghanistan women's cricket team: Players hiding in Kabul fear Taliban rule]]></title>
-            <description><![CDATA[Members of Afghanistan's women's cricket team are hiding in Kabul, fearing for their safety following the Taliban's return to power.]]></description>
-            <link>https://www.bbc.co.uk/sport/cricket/58396310?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/cricket/58396310</guid>
-            <pubDate>Wed, 01 Sep 2021 23:01:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[British soldier describes caring for Kabul airport baby]]></title>
-            <description><![CDATA[Lt Col Ben Caesar helped look after the baby who was pulled over the airport wall in Afghanistan.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58449866?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58449866</guid>
-            <pubDate>Sat, 04 Sep 2021 15:14:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Life under the Taliban: Where is your male escort?]]></title>
-            <description><![CDATA[Lyse Doucet takes the temperature on the streets of the Afghan capital as the Taliban tighten their grip.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58437713?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58437713</guid>
-            <pubDate>Fri, 03 Sep 2021 14:34:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kabul drone strike: The key questions about a US attack]]></title>
-            <description><![CDATA[Ten Afghan civilians died when the US targeted a vehicle it says was linked to an imminent bombing.]]></description>
-            <link>https://www.bbc.co.uk/news/58401027?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/58401027</guid>
-            <pubDate>Fri, 03 Sep 2021 23:21:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Afghanistan: Taliban parade captured equipment in Kandahar]]></title>
-            <description><![CDATA[The militant group showcased the kit captured during their takeover of Afghanistan.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58413817?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58413817</guid>
-            <pubDate>Wed, 01 Sep 2021 15:09:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The hard men removing squatters in Spain]]></title>
