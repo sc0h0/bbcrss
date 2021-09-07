@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 07 Sep 2021 06:14:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Sep 2021 06:37:10 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -28,6 +28,13 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-58464439?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-58464439</guid>
             <pubDate>Tue, 07 Sep 2021 05:30:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Scotland's papers: Covid-style flu tests and police officer gun plea]]></title>
+            <description><![CDATA[A new way of detecting flu cases and a survey suggesting support for all police officers to carry guns make the front pages.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-58472174?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-58472174</guid>
+            <pubDate>Tue, 07 Sep 2021 06:04:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['I can't get a driving test until next year']]></title>
@@ -70,13 +77,6 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-south-scotland-58383506?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-south-scotland-58383506</guid>
             <pubDate>Mon, 06 Sep 2021 05:29:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Scotland's papers: Covid-style flu tests and police officer gun plea]]></title>
-            <description><![CDATA[A new way of detecting flu cases and a survey suggesting support for all police officers to carry guns make the front pages.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-58472174?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-58472174</guid>
-            <pubDate>Tue, 07 Sep 2021 06:04:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Scots Paralympians win praise for 21 medals]]></title>
@@ -233,6 +233,13 @@
             <pubDate>Thu, 02 Sep 2021 16:33:03 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Solheim Cup 2021: Catriona Matthew says no to third captaincy stint in Spain]]></title>
+            <description><![CDATA[Victorious Solheim Cup captain Catriona Matthew says she will not be leading the team for a third time in 2023 after lifting the trophy in Ohio.]]></description>
+            <link>https://www.bbc.co.uk/sport/golf/58470674?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/golf/58470674</guid>
+            <pubDate>Mon, 06 Sep 2021 23:50:40 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Austria v Scotland: 'Must-not-lose' game, says Callum McGregor]]></title>
             <description><![CDATA[Scotland's World Cup qualifying visit to Austria is a "must-not-lose game, rather than must-win", according to midfielder Callum McGregor.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58386792?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -259,13 +266,6 @@
             <link>https://www.bbc.co.uk/sport/tennis/58469490?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/58469490</guid>
             <pubDate>Mon, 06 Sep 2021 22:30:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Watch: All the goals from week one in SWPL1]]></title>
-            <description><![CDATA[There were opening day wins for champions Glasgow City, Celtic, Hibernian and Hamilton Academical.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/football/58466451?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/av/football/58466451</guid>
-            <pubDate>Mon, 06 Sep 2021 22:12:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
