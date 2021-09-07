@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 07 Sep 2021 15:28:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Sep 2021 15:31:57 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -51,6 +51,13 @@
             <pubDate>Tue, 07 Sep 2021 14:32:26 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[CCTV records car driving down Birmingham railway tracks]]></title>
+            <description><![CDATA[Police say the act has resulted in damage to the railway totalling more than £23,000.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-birmingham-58480470?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-birmingham-58480470</guid>
+            <pubDate>Tue, 07 Sep 2021 15:28:04 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Sarah Harding helps fund breast cancer research for women in 30s]]></title>
             <description><![CDATA[Money raised by the late Girls Aloud star will fund research into cancer among women in their 30s.]]></description>
             <link>https://www.bbc.co.uk/news/entertainment-arts-58476756?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -70,13 +77,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-london-58407238?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-london-58407238</guid>
             <pubDate>Tue, 07 Sep 2021 11:48:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Andover A303 crash: Tributes to three killed in crash]]></title>
-            <description><![CDATA[Tina Ince, Alex Britton and Tom Watson died in the four-vehicle crash near Andover.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-hampshire-58474155?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-hampshire-58474155</guid>
-            <pubDate>Tue, 07 Sep 2021 11:26:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Wareham Forest: More heathland destroyed as fire breaks out]]></title>
@@ -128,6 +128,13 @@
             <pubDate>Sat, 04 Sep 2021 23:02:11 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Andover A303 crash: Tributes to three killed in crash]]></title>
+            <description><![CDATA[Tina Ince, Alex Britton and Tom Watson died in the four-vehicle crash near Andover.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-hampshire-58474155?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-hampshire-58474155</guid>
+            <pubDate>Tue, 07 Sep 2021 11:26:03 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Brenda Venables: Husband denies Kempsey septic tank murder]]></title>
             <description><![CDATA[David Venables faces trial following the discovery of wife Brenda's remains 37 years after disappearing.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-hereford-worcester-58476373?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -149,18 +156,18 @@
             <pubDate>Tue, 07 Sep 2021 09:18:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Redcar speedway racer from Norfolk retrieves stolen bikes]]></title>
-            <description><![CDATA[Ryan Kinsley's three bikes and equipment worth up to £20,000 were stolen from outside a hotel.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-norfolk-58473624?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-norfolk-58473624</guid>
-            <pubDate>Tue, 07 Sep 2021 08:58:19 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Tokyo Paralympics: How many medals did your region win?]]></title>
             <description><![CDATA[At this year's Paralympics the North West of England and East Midlands tied for the most gold medals.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-58465814?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-58465814</guid>
             <pubDate>Tue, 07 Sep 2021 10:22:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Redcar speedway racer from Norfolk retrieves stolen bikes]]></title>
+            <description><![CDATA[Ryan Kinsley's three bikes and equipment worth up to £20,000 were stolen from outside a hotel.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-norfolk-58473624?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-norfolk-58473624</guid>
+            <pubDate>Tue, 07 Sep 2021 08:58:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[George Russell: Mercedes sign British F1 driver to partner Lewis Hamilton from 2022]]></title>
