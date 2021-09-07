@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 07 Sep 2021 13:22:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Sep 2021 13:38:19 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -30,13 +30,6 @@
             <pubDate>Tue, 07 Sep 2021 13:12:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Nicola Sturgeon to set out plans for Holyrood year ahead]]></title>
-            <description><![CDATA[Scotland's first minister will announce her "programme for government" for the coming year at Holyrood.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-scotland-politics-58464674?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-scotland-politics-58464674</guid>
-            <pubDate>Tue, 07 Sep 2021 05:29:47 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Afghanistan: PM pledges not to abandon UK allies left behind]]></title>
             <description><![CDATA[Boris Johnson promises help for them to leave safely - but is accused of not showing leadership.]]></description>
             <link>https://www.bbc.co.uk/news/uk-politics-58467874?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -49,6 +42,13 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58461991?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58461991</guid>
             <pubDate>Mon, 06 Sep 2021 18:29:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nicola Sturgeon to set out plans for Holyrood year ahead]]></title>
+            <description><![CDATA[Scotland's first minister will announce her "programme for government" for the coming year at Holyrood.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-scotland-politics-58464674?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-scotland-politics-58464674</guid>
+            <pubDate>Tue, 07 Sep 2021 05:29:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Marcus Rashford says child food poverty 'devastatingly' worse]]></title>
@@ -72,18 +72,18 @@
             <pubDate>Mon, 06 Sep 2021 09:48:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Afghanistan: Minister apologises over 'inaccurate' veteran suicide claim]]></title>
-            <description><![CDATA[James Heappey corrects himself after mistakenly saying a British Afghan veteran had taken their own life.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58460511?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58460511</guid>
-            <pubDate>Mon, 06 Sep 2021 09:30:22 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Pensions: What is the triple lock and how does it work?]]></title>
             <description><![CDATA[Speculation is mounting that the chancellor will change the policy governing state pension rises, but why?]]></description>
             <link>https://www.bbc.co.uk/news/business-53082530?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/business-53082530</guid>
             <pubDate>Mon, 06 Sep 2021 11:35:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Afghanistan: Minister apologises over 'inaccurate' veteran suicide claim]]></title>
+            <description><![CDATA[James Heappey corrects himself after mistakenly saying a British Afghan veteran had taken their own life.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-58460511?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58460511</guid>
+            <pubDate>Mon, 06 Sep 2021 09:30:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: Vaccine passports to start in England this month]]></title>
@@ -254,11 +254,11 @@
             <pubDate>Mon, 06 Sep 2021 15:16:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Social care: What would a National Insurance rise mean for me?]]></title>
-            <description><![CDATA[The government could raise National Insurance to help pay for social care in England.]]></description>
+            <title><![CDATA[What’s the new health and social care tax and how will it affect me?]]></title>
+            <description><![CDATA[A new health and social care tax is being introduced, Boris Johnson has announced.]]></description>
             <link>https://www.bbc.co.uk/news/uk-politics-58436009?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-politics-58436009</guid>
-            <pubDate>Tue, 07 Sep 2021 12:37:08 GMT</pubDate>
+            <pubDate>Tue, 07 Sep 2021 13:23:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Universal credit £20 drop: 'I'm used to hunger pains']]></title>

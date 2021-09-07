@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 07 Sep 2021 13:24:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Sep 2021 13:40:00 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -107,13 +107,6 @@
             <pubDate>Tue, 07 Sep 2021 10:47:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The papers: NHS tax-rise anger and October firebreak plan]]></title>
-            <description><![CDATA[A "manifesto-busting" tax rise to help pay for the NHS is among a mix of stories leading the papers.]]></description>
-            <link>https://www.bbc.co.uk/news/blogs-the-papers-58470183?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/blogs-the-papers-58470183</guid>
-            <pubDate>Tue, 07 Sep 2021 04:01:25 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Esports: Why are there so few professional women gamers?]]></title>
             <description><![CDATA[There are no female players in the top 300 earners in esports, according to research shared with BBC News.]]></description>
             <link>https://www.bbc.co.uk/news/technology-58466374?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -163,11 +156,18 @@
             <pubDate>Tue, 07 Sep 2021 00:34:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Why social workers are being embedded in schools]]></title>
-            <description><![CDATA[A new project is embedding social workers in schools. How is it improving family life?]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-london-57978625?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-london-57978625</guid>
-            <pubDate>Tue, 07 Sep 2021 00:51:19 GMT</pubDate>
+            <title><![CDATA[National insurance: What’s the new health and social care tax and how will it affect me?]]></title>
+            <description><![CDATA[A new health and social care tax is being introduced, Boris Johnson has announced.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-58436009?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-politics-58436009</guid>
+            <pubDate>Tue, 07 Sep 2021 13:39:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Social care changes at-a-glance]]></title>
+            <description><![CDATA[The government's promising to restrict costs for families - but what is changing and how will it be funded?]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-58473787?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-politics-58473787</guid>
+            <pubDate>Tue, 07 Sep 2021 13:12:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[US Open: Why it is right to be excited about 'wise' & 'fearless' Emma Raducanu]]></title>
@@ -182,6 +182,13 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-58464439?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-58464439</guid>
             <pubDate>Tue, 07 Sep 2021 05:30:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why social workers are being embedded in schools]]></title>
+            <description><![CDATA[A new project is embedding social workers in schools. How is it improving family life?]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-57978625?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-london-57978625</guid>
+            <pubDate>Tue, 07 Sep 2021 00:51:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[India jewellery ad starring trans model wins hearts]]></title>

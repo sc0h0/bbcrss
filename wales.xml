@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 07 Sep 2021 13:19:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Sep 2021 13:37:23 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -20,7 +20,7 @@
             <description><![CDATA[Up to £700m by 2025 will be ringfenced for health and social care in Wales, the UK government says.]]></description>
             <link>https://www.bbc.co.uk/news/uk-wales-politics-58474786?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-politics-58474786</guid>
-            <pubDate>Tue, 07 Sep 2021 13:18:22 GMT</pubDate>
+            <pubDate>Tue, 07 Sep 2021 13:34:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Wales basks in September sun - but will it last?]]></title>
@@ -35,6 +35,13 @@
             <link>https://www.bbc.co.uk/news/uk-wales-58473026?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-58473026</guid>
             <pubDate>Tue, 07 Sep 2021 13:00:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Drugs: Major Welsh bust recovers large cocaine haul]]></title>
+            <description><![CDATA[Cocaine worth millions of pounds on the streets seized in an operation across mid and south Wales.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-58477906?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-58477906</guid>
+            <pubDate>Tue, 07 Sep 2021 13:23:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Pet dementia: 85% of cases in dogs and cats undiagnosed, say vets]]></title>
@@ -79,13 +86,6 @@
             <pubDate>Mon, 06 Sep 2021 21:23:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Borth fire: Neighbour alerted grandchild to house fire]]></title>
-            <description><![CDATA[A neighbour says three generations of the same family were in the house when the flames took hold.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-58460357?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-58460357</guid>
-            <pubDate>Mon, 06 Sep 2021 12:54:29 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Dementia in dogs 'heartbreaking', says Wrexham woman]]></title>
             <description><![CDATA[Staffie cross Poppy is one of the 10% of dogs with dementia who get a diagnosis.]]></description>
             <link>https://www.bbc.co.uk/news/uk-wales-58470012?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -128,11 +128,11 @@
             <pubDate>Fri, 03 Sep 2021 18:37:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Wales: FAW confirms fans can travel to October away qualifiers]]></title>
-            <description><![CDATA[The Football Association of Wales has confirmed Wales fans will be allowed to travel to October's World Cup Qualifiers in Czech Republic and Estonia.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58471928?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58471928</guid>
-            <pubDate>Tue, 07 Sep 2021 12:38:53 GMT</pubDate>
+            <title><![CDATA[Gareth Bale: Wales aiming for top spot in World Cup qualifying, says captain]]></title>
+            <description><![CDATA[Gareth Bale says Wales believe they can topple the world's number-one ranked team Belgium and qualify for their first World Cup since 1958.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58474986?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58474986</guid>
+            <pubDate>Tue, 07 Sep 2021 13:23:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Rugby Union: New World 12s tournament proposed to launch in August 2022]]></title>
@@ -140,6 +140,13 @@
             <link>https://www.bbc.co.uk/sport/rugby-union/58476455?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/rugby-union/58476455</guid>
             <pubDate>Tue, 07 Sep 2021 12:45:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wales: FAW confirms fans can travel to October away qualifiers]]></title>
+            <description><![CDATA[The Football Association of Wales has confirmed Wales fans will be allowed to travel to October's World Cup Qualifiers in Czech Republic and Estonia.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58471928?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58471928</guid>
+            <pubDate>Tue, 07 Sep 2021 12:38:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Wales add Tottenham's Joe Rodon to squad for Estonia but Aaron Ramsey ruled out]]></title>
@@ -156,18 +163,11 @@
             <pubDate>Tue, 07 Sep 2021 12:40:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Gareth Bale summons spirit of Andorra and Euro 2016 to save Wales against Belarus]]></title>
-            <description><![CDATA[Gareth Bale summons the spirit of Andorra and Euro 2016 to save Wales once again against Belarus.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58457163?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58457163</guid>
-            <pubDate>Sun, 05 Sep 2021 17:06:56 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Gofal cymdeithasol: 'Cymru i gael arian ychwanegol']]></title>
             <description><![CDATA[Cymru i gael cyfran o arian ychwanegol yn sgil cynnydd mewn yswiriant gwladol, yn ôl Prif Weinidog y DU.]]></description>
             <link>https://www.bbc.co.uk/newyddion/58468358?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/newyddion/58468358</guid>
-            <pubDate>Tue, 07 Sep 2021 12:33:33 GMT</pubDate>
+            <pubDate>Tue, 07 Sep 2021 13:35:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Gofal babanod angen gwella yn Ysbyty Tywysog Charles]]></title>
