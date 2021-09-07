@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 07 Sep 2021 07:32:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Sep 2021 07:46:48 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -30,20 +30,6 @@
             <pubDate>Tue, 07 Sep 2021 02:50:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Wire star Michael K Williams found dead]]></title>
-            <description><![CDATA[The 54-year-old died from a suspected drug overdose in his New York flat, media reports say.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-58470253?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58470253</guid>
-            <pubDate>Tue, 07 Sep 2021 03:15:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Texas abortion clinics will be protected, Justice Department says]]></title>
-            <description><![CDATA[US Justice Department's pledge comes after a near-total ban on abortions took effect in the state.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-58470259?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58470259</guid>
-            <pubDate>Tue, 07 Sep 2021 03:47:39 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Justin Trudeau hit by stones on campaign trail]]></title>
             <description><![CDATA[The Canadian leader's campaign has been disrupted by protesters angry at a planned vaccine mandate.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-58472456?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -51,11 +37,25 @@
             <pubDate>Tue, 07 Sep 2021 06:46:05 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The Wire star Michael K Williams found dead]]></title>
+            <description><![CDATA[The 54-year-old died from a suspected drug overdose in his New York flat, media reports say.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-58470253?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58470253</guid>
+            <pubDate>Tue, 07 Sep 2021 03:15:05 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Covid-19: Recovery funding for NHS and hope over post-furlough job cuts]]></title>
             <description><![CDATA[Five things you need to know about the coronavirus pandemic this Tuesday morning.]]></description>
             <link>https://www.bbc.co.uk/news/uk-58469750?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58469750</guid>
             <pubDate>Tue, 07 Sep 2021 06:42:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Texas abortion clinics will be protected, Justice Department says]]></title>
+            <description><![CDATA[US Justice Department's pledge comes after a near-total ban on abortions took effect in the state.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-58470259?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58470259</guid>
+            <pubDate>Tue, 07 Sep 2021 03:47:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Nicola Sturgeon to set out plans for Holyrood year ahead]]></title>
@@ -72,6 +72,13 @@
             <pubDate>Mon, 06 Sep 2021 23:01:12 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[BBC's director of news Fran Unsworth to leave the corporation]]></title>
+            <description><![CDATA[Fran Unsworth, who oversees all news and current affairs output, will leave at the start of 2022.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-58473208?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-58473208</guid>
+            <pubDate>Tue, 07 Sep 2021 07:30:22 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[UK fires up coal power plant as gas prices soar]]></title>
             <description><![CDATA[The country has had to bring an old plant back online after a spike in the price of natural gas.]]></description>
             <link>https://www.bbc.co.uk/news/business-58469238?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -79,25 +86,11 @@
             <pubDate>Mon, 06 Sep 2021 21:03:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Prince Charles has 'no knowledge' of aide honours claim]]></title>
-            <description><![CDATA[The Prince of Wales fully supports an investigation by his foundation, Clarence House says.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58471040?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58471040</guid>
-            <pubDate>Tue, 07 Sep 2021 02:57:02 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Bolsonaro: New bill will limit tech giants' power to remove content]]></title>
             <description><![CDATA[Brazil's president signs a decree requiring firms to provide "just cause" before removing posts.]]></description>
             <link>https://www.bbc.co.uk/news/world-latin-america-58470093?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-latin-america-58470093</guid>
             <pubDate>Mon, 06 Sep 2021 22:54:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cookie banners: G7 urged to consider solution to pop-up notices]]></title>
-            <description><![CDATA[Information commissioner Elizabeth Denham believes the issue needs to be solved collectively.]]></description>
-            <link>https://www.bbc.co.uk/news/technology-58464747?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/technology-58464747</guid>
-            <pubDate>Tue, 07 Sep 2021 00:27:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Muppets creator Jim Henson's Hampstead home given blue plaque]]></title>
@@ -226,6 +219,13 @@
             <pubDate>Tue, 07 Sep 2021 05:07:57 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA['Must-not-lose' for Scotland in Austria, says McGregor]]></title>
+            <description><![CDATA[Scotland's World Cup qualifying visit to Austria is a "must-not-lose game, rather than must-win", according to midfielder Callum McGregor.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58386792?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58386792</guid>
+            <pubDate>Mon, 06 Sep 2021 18:29:50 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[World number one Djokovic battles into US Open quarter-finals]]></title>
             <description><![CDATA[Novak Djokovic is again made to fight hard to beat Jenson Brooksby in the US Open fourth round and keep his calendar Grand Slam hopes alive.]]></description>
             <link>https://www.bbc.co.uk/sport/tennis/58469174?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -233,25 +233,18 @@
             <pubDate>Tue, 07 Sep 2021 05:31:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA['Clubs will be nervous to release players' - Villa's Purslow on Brazil v Argentina row]]></title>
-            <description><![CDATA[Aston Villa chief executive Christian Purslow says the controversy surrounding Brazil and Argentina's World Cup qualifier will make clubs "incredibly nervous" about releasing players.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58467766?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58467766</guid>
-            <pubDate>Tue, 07 Sep 2021 06:05:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[British teenager Raducanu dominates Rogers to reach US Open quarter-finals]]></title>
-            <description><![CDATA[British teenager Emma Raducanu puts in another devastating performance to reach the US Open quarter-finals as her dream New York debut continues.]]></description>
-            <link>https://www.bbc.co.uk/sport/tennis/58469496?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/58469496</guid>
-            <pubDate>Mon, 06 Sep 2021 22:32:38 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[England v India highlights: Tourists seal fourth Test victory with superb bowling display]]></title>
             <description><![CDATA[England's batting folds under an inspired spell of bowling from India, who sweep to a 157-run victory on the final day at The Oval to take a 2-1 lead in the series.]]></description>
             <link>https://www.bbc.co.uk/sport/av/cricket/58466415?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/av/cricket/58466415</guid>
             <pubDate>Mon, 06 Sep 2021 16:41:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Solheim Cup: Europe win the Solheim Cup]]></title>
+            <description><![CDATA[Watch as Matilda Castren's putt on the 18th hole seals Europe's Solheim victory over the United States in Ohio.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/golf/58470524?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/av/golf/58470524</guid>
+            <pubDate>Mon, 06 Sep 2021 22:15:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: Will I need a jab and what will university be like this term?]]></title>
