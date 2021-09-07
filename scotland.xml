@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 07 Sep 2021 21:58:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Sep 2021 22:18:44 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -254,6 +254,13 @@
             <pubDate>Tue, 07 Sep 2021 21:39:20 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Austria 0-1 Scotland: Steve Clarke says he 'believes in group' after priceless win]]></title>
+            <description><![CDATA[Scotland head coach Steve Clarke made an impassioned defence of his players after a crucial World Cup qualification win in Austria, saying "some people don't believe in this group but I do."]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58483103?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58483103</guid>
+            <pubDate>Tue, 07 Sep 2021 22:08:36 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Austria 0-1 Scotland: How did the players rate in the World Cup qualifier?]]></title>
             <description><![CDATA[How did the players rate in Scotland's impressive World Cup qualification win in Austria?]]></description>
             <link>https://www.bbc.co.uk/sport/football/58478591?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -266,13 +273,6 @@
             <link>https://www.bbc.co.uk/sport/golf/58470674?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/golf/58470674</guid>
             <pubDate>Mon, 06 Sep 2021 23:50:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Turkey U21 1-1 Scotland U21: Young Scots surrender one-goal lead to draw opening Euro 2023 qualifier]]></title>
-            <description><![CDATA[Scotland Under-21s surrendered a one-goal lead against Turkey in their opening Euro 2023 qualifier in Bursa.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58455035?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58455035</guid>
-            <pubDate>Tue, 07 Sep 2021 18:29:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
