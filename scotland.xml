@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 08 Sep 2021 12:32:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Sep 2021 12:59:26 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -23,8 +23,8 @@
             <pubDate>Wed, 08 Sep 2021 10:43:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Ferry passengers avoiding masks despite Covid surge]]></title>
-            <description><![CDATA[Calmac says some passengers are ignoring advice to wear masks as Covid outbreaks on ferries cause disruption.]]></description>
+            <title><![CDATA[Mask avoidance on ferries sees Covid surge, claims CalMac boss]]></title>
+            <description><![CDATA[Calmac says some passengers are ignoring advice to wear face coverings as Covid outbreaks on ferries cause disruption.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-highlands-islands-58487363?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-highlands-islands-58487363</guid>
             <pubDate>Wed, 08 Sep 2021 10:08:33 GMT</pubDate>
@@ -247,6 +247,13 @@
             <pubDate>Sat, 04 Sep 2021 08:10:45 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Austria 0-1 Scotland: 'Mood shifts with World Cup destiny in Steve Clarke's side's hands']]></title>
+            <description><![CDATA[Winning in Austria has not only put Scotland in control of their World Cup hopes, it has altered perceptions too, writes Tom English.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58488393?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58488393</guid>
+            <pubDate>Wed, 08 Sep 2021 12:36:52 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Austria 0-1 Scotland: Steve Clarke says he 'believes in group' after priceless win]]></title>
             <description><![CDATA[Scotland head coach Steve Clarke made an impassioned defence of his players after a crucial World Cup qualification win in Austria, saying "some people don't believe in this group but I do".]]></description>
             <link>https://www.bbc.co.uk/sport/football/58483103?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -266,13 +273,6 @@
             <link>https://www.bbc.co.uk/sport/football/58455072?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58455072</guid>
             <pubDate>Tue, 07 Sep 2021 16:28:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[World Cup 2022: How far are Scotland from qualifying for Qatar?]]></title>
-            <description><![CDATA[How are Scotland's prospects of making it to Qatar 2022 after statement win in Austria?]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58215232?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58215232</guid>
-            <pubDate>Tue, 07 Sep 2021 22:39:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
