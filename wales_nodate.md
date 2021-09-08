@@ -25,4 +25,4 @@
 25. ['Anfoesol' ac 'annoeth' troi eglwys ger mynwent ym Môn yn dŷ](https://www.bbc.co.uk/newyddion/58482206?at_medium=RSS&at_campaign=KARANGA) - "Faswn i ddim yn licio meddwl y bydd rhywun yn byw yma ac o bosib yn cynnal partïon ganol nos."
 26. ['Dim cynlluniau' am gyfnod clo byr i Gymru yn yr hydref](https://www.bbc.co.uk/newyddion/58485377?at_medium=RSS&at_campaign=KARANGA) - Ond undeb addysg yn cydnabod y byddai'n "un mesur posib" os ydy sefyllfa Covid yn cyfiawnhau hynny.
 27. [7 cwestiwn i Dafydd Meredydd](https://www.bbc.co.uk/newyddion/58474678?at_medium=RSS&at_campaign=KARANGA) - Dyma ddod i adnabod Dafydd Meredydd, Pennaeth Gwasanaethau Cymraeg newydd BBC Cymru, ychydig yn well.
-28. [Rhagbrofol Euro dan-21 2023: Bwlgaria 0-4 Cymru](https://www.bbc.co.uk/newyddion/58480183?at_medium=RSS&at_campaign=KARANGA) - Hwb i obeithion tîm dan-21 Cymru i gyrraedd Euro 2023 gyda buddugoliaeth swmpus oddi cartref.
+28. [Crasfa arall i Forgannwg yn erbyn Durham](https://www.bbc.co.uk/newyddion/58488756?at_medium=RSS&at_campaign=KARANGA) - Y tîm cartref yn selio'r fuddugoliaeth ar y diwrnod olaf, oedd yn edrych yn anochel ers rhai dyddiau.
