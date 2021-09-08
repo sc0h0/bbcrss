@@ -11,10 +11,24 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 08 Sep 2021 06:06:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Sep 2021 06:34:52 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Bitcoin crashes on first day as El Salvador's legal tender]]></title>
+            <description><![CDATA[Technological glitches plagued the first day of El Salvador accepting Bitcoin as legal tender.]]></description>
+            <link>https://www.bbc.co.uk/news/business-58459098?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58459098</guid>
+            <pubDate>Wed, 08 Sep 2021 05:01:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Flooding hits Mexico hospital, killing 17 patients]]></title>
+            <description><![CDATA[A river bursts its banks in the town of Tula, cutting power and oxygen at the facility, officials say.]]></description>
+            <link>https://www.bbc.co.uk/news/world-latin-america-58482986?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-latin-america-58482986</guid>
+            <pubDate>Wed, 08 Sep 2021 01:27:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Mexico decriminalises abortion in landmark ruling]]></title>
             <description><![CDATA[The Supreme Court rules that prosecuting women for terminating pregnancies is unconstitutional.]]></description>
@@ -28,20 +42,6 @@
             <link>https://www.bbc.co.uk/news/world-latin-america-58479028?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-latin-america-58479028</guid>
             <pubDate>Tue, 07 Sep 2021 16:20:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Flooding hits Mexico hospital, killing 17 patients]]></title>
-            <description><![CDATA[A river bursts its banks in the town of Tula, cutting power and oxygen at the facility, officials say.]]></description>
-            <link>https://www.bbc.co.uk/news/world-latin-america-58482986?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-latin-america-58482986</guid>
-            <pubDate>Wed, 08 Sep 2021 01:27:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fear and excitement in El Salvador as Bitcoin becomes legal tender]]></title>
-            <description><![CDATA[Millions of Salvadorians are expected to download a digital wallet app with $30 of free Bitcoin.]]></description>
-            <link>https://www.bbc.co.uk/news/technology-58473260?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/technology-58473260</guid>
-            <pubDate>Tue, 07 Sep 2021 08:06:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bolsonaro: New bill will limit tech giants' power to remove content]]></title>
@@ -63,13 +63,6 @@
             <link>https://www.bbc.co.uk/news/world-latin-america-58462071?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-latin-america-58462071</guid>
             <pubDate>Mon, 06 Sep 2021 10:15:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Brazil v Argentina abandoned five minutes after kick-off after visiting players accused of Covid violation]]></title>
-            <description><![CDATA[Brazil and Argentina's World Cup qualifier is abandoned after Brazilian health officials walked onto the pitch minutes after kick off to object to the participation of three Argentine players.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58431607?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58431607</guid>
-            <pubDate>Mon, 06 Sep 2021 12:04:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo 2020: The Paralympic dream that started at the supermarket]]></title>
