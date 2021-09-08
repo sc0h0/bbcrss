@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 08 Sep 2021 10:12:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Sep 2021 10:29:12 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -28,13 +28,6 @@
             <link>https://www.bbc.co.uk/news/world-europe-58486391?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58486391</guid>
             <pubDate>Wed, 08 Sep 2021 09:47:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[António Guterres says Taliban need UN's humanitarian aid]]></title>
-            <description><![CDATA[In return, the new regime must provide conditions for the UN to work in Afghanistan, secretary general tells BBC.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-58482840?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58482840</guid>
-            <pubDate>Tue, 07 Sep 2021 20:41:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Flooding hits Mexico hospital, killing 17 patients]]></title>
@@ -198,6 +191,13 @@
             <pubDate>Wed, 08 Sep 2021 00:42:55 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Taliban need UN's humanitarian aid - UN boss]]></title>
+            <description><![CDATA[In return, the new regime must provide conditions for the UN to work in Afghanistan, secretary general tells BBC.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-58482840?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58482840</guid>
+            <pubDate>Tue, 07 Sep 2021 20:41:44 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Afghanistan: The pledge binding al-Qaeda to the Taliban]]></title>
             <description><![CDATA[The history of the complex relationship between the two groups.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-58473574?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -217,13 +217,6 @@
             <link>https://www.bbc.co.uk/news/world-us-canada-58456953?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58456953</guid>
             <pubDate>Sun, 05 Sep 2021 23:07:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Afghanistan: Rural areas welcome peace and end of war]]></title>
-            <description><![CDATA[In more rural areas of Afghanistan, people welcome the end of a war that has killed tens of thousands.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58456955?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58456955</guid>
-            <pubDate>Sun, 05 Sep 2021 20:44:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
