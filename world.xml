@@ -11,23 +11,23 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 08 Sep 2021 21:02:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Sep 2021 22:46:05 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Afghanistan: A new order begins under the Taliban's governance]]></title>
+            <description><![CDATA[The Taliban's new ministers have taken office - but are they any different this time around?]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58495112?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58495112</guid>
+            <pubDate>Wed, 08 Sep 2021 20:08:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Paris attacks 2015: Accused complains of conditions]]></title>
             <description><![CDATA[Salah Abdeslam and 19 other defendants are accused of involvement in France's worst post-WWII attack.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-58486391?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58486391</guid>
             <pubDate>Wed, 08 Sep 2021 19:26:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Afghanistan: Women protest against all-male Taliban government]]></title>
-            <description><![CDATA[Dozens of women march in Kabul and in Badakhshan province, angry at the new Taliban government.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58490819?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58490819</guid>
-            <pubDate>Wed, 08 Sep 2021 18:58:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Russian emergencies minister Zinichev dies on Arctic drill]]></title>
@@ -44,18 +44,11 @@
             <pubDate>Wed, 08 Sep 2021 14:49:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Philippines President Rodrigo Duterte to stand as vice-president]]></title>
-            <description><![CDATA[Rivals accuse the president, barred from a second term, of seeking to cling on to power.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58492921?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58492921</guid>
-            <pubDate>Wed, 08 Sep 2021 16:33:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[West African leaders suspend Guinea from Ecowas following coup]]></title>
-            <description><![CDATA[The military junta has released prisoners detained during deposed President Alpha Condé's rule.]]></description>
-            <link>https://www.bbc.co.uk/news/world-africa-58487925?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-africa-58487925</guid>
-            <pubDate>Wed, 08 Sep 2021 18:53:03 GMT</pubDate>
+            <title><![CDATA[Afghanistan: Women protest against all-male Taliban government]]></title>
+            <description><![CDATA[Dozens of women march in Kabul and in Badakhshan province, angry at the new Taliban government.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58490819?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58490819</guid>
+            <pubDate>Wed, 08 Sep 2021 18:58:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Nxivm sex cult co-founder Nancy Salzman sentenced to prison]]></title>
@@ -65,11 +58,25 @@
             <pubDate>Wed, 08 Sep 2021 19:49:51 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[West African leaders suspend Guinea from Ecowas following coup]]></title>
+            <description><![CDATA[The military junta has released prisoners detained during deposed President Alpha Condé's rule.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-58487925?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-africa-58487925</guid>
+            <pubDate>Wed, 08 Sep 2021 18:53:03 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Israeli troops make arrests over Palestinian prison break]]></title>
             <description><![CDATA[Several relatives of the six inmates who escaped Gilboa prison are reportedly taken into custody.]]></description>
             <link>https://www.bbc.co.uk/news/world-middle-east-58489309?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-middle-east-58489309</guid>
             <pubDate>Wed, 08 Sep 2021 16:08:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Philippines President Rodrigo Duterte to stand as vice-president]]></title>
+            <description><![CDATA[Rivals accuse the president, barred from a second term, of seeking to cling on to power.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58492921?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58492921</guid>
+            <pubDate>Wed, 08 Sep 2021 16:33:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[India: One dead and many missing after boats collide in Assam]]></title>
@@ -93,11 +100,11 @@
             <pubDate>Wed, 08 Sep 2021 18:18:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Brazil's Bolsonaro: Only God will remove me from power]]></title>
-            <description><![CDATA[With his approval rating at a low, Brazil's leader strikes a defiant note on independence day.]]></description>
-            <link>https://www.bbc.co.uk/news/world-latin-america-58479028?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-latin-america-58479028</guid>
-            <pubDate>Wed, 08 Sep 2021 10:02:44 GMT</pubDate>
+            <title><![CDATA[Afghanistan: Women beaten for demanding their rights]]></title>
+            <description><![CDATA[Women in Afghanistan demanding their rights say they have been beaten by the Taliban.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58491747?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58491747</guid>
+            <pubDate>Wed, 08 Sep 2021 20:44:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Paris attacks: Historic day of reckoning for night of terror]]></title>
@@ -105,13 +112,6 @@
             <link>https://www.bbc.co.uk/news/world-europe-58472506?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58472506</guid>
             <pubDate>Wed, 08 Sep 2021 00:18:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Afghanistan: A new order begins under the Taliban's governance]]></title>
-            <description><![CDATA[The Taliban's new ministers have taken office - but are they any different this time around?]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58495112?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58495112</guid>
-            <pubDate>Wed, 08 Sep 2021 20:08:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Afghanistan: Could Pakistani drones hit the Panjshir Valley?]]></title>
@@ -140,13 +140,6 @@
             <link>https://www.bbc.co.uk/news/world-asia-58466939?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58466939</guid>
             <pubDate>Mon, 06 Sep 2021 15:12:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nizar Banat: The death shaking the Palestinian leadership]]></title>
-            <description><![CDATA[The killing of Nizar Banat in Palestinian custody has fuelled rare protests calling for change.]]></description>
-            <link>https://www.bbc.co.uk/news/world-middle-east-58400442?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-middle-east-58400442</guid>
-            <pubDate>Tue, 07 Sep 2021 00:04:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Mexico earthquake: Lights seen in sky during tremor near Acapulco]]></title>
@@ -182,13 +175,6 @@
             <link>https://www.bbc.co.uk/news/technology-58466374?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/technology-58466374</guid>
             <pubDate>Mon, 06 Sep 2021 23:13:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Afghanistan: Women beaten for demanding their rights]]></title>
-            <description><![CDATA[Women in Afghanistan demanding their rights say they have been beaten by the Taliban.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58491747?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58491747</guid>
-            <pubDate>Wed, 08 Sep 2021 20:44:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Chaos and confusion: The frenzied final hours of the Afghan government]]></title>
