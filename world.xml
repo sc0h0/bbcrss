@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 08 Sep 2021 23:19:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Sep 2021 23:24:00 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -44,18 +44,18 @@
             <pubDate>Wed, 08 Sep 2021 13:29:47 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Lebanon: A country plunged into darkness]]></title>
+            <description><![CDATA[Lebanon’s ongoing crisis has plunged the country into darkness, with some experiencing power cuts for 20 hours a day.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-58494832?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-middle-east-58494832</guid>
+            <pubDate>Wed, 08 Sep 2021 23:17:52 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Robert E Lee statue: Virginia removes contentious memorial as crowds cheer]]></title>
             <description><![CDATA[The statue became a focal point for the protests following the death of George Floyd last spring.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-58491967?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58491967</guid>
             <pubDate>Wed, 08 Sep 2021 14:49:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Afghanistan: Women protest against all-male Taliban government]]></title>
-            <description><![CDATA[Dozens of women march in Kabul and in Badakhshan province, angry at the new Taliban government.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58490819?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58490819</guid>
-            <pubDate>Wed, 08 Sep 2021 18:58:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Nxivm sex cult co-founder Nancy Salzman sentenced to prison]]></title>
@@ -79,11 +79,11 @@
             <pubDate>Wed, 08 Sep 2021 16:08:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Philippines President Rodrigo Duterte to stand as vice-president]]></title>
-            <description><![CDATA[Rivals accuse the president, barred from a second term, of seeking to cling on to power.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58492921?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58492921</guid>
-            <pubDate>Wed, 08 Sep 2021 16:33:54 GMT</pubDate>
+            <title><![CDATA[Afghanistan: Women protest against all-male Taliban government]]></title>
+            <description><![CDATA[Dozens of women march in Kabul and in Badakhshan province, angry at the new Taliban government.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58490819?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58490819</guid>
+            <pubDate>Wed, 08 Sep 2021 18:58:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[India: One dead and many missing after boats collide in Assam]]></title>
@@ -149,13 +149,6 @@
             <pubDate>Wed, 08 Sep 2021 23:09:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Lebanon: A country plunged into darkness]]></title>
-            <description><![CDATA[Lebanon’s ongoing crisis has plunged the country into darkness, with some experiencing power cuts for 20 hours a day.]]></description>
-            <link>https://www.bbc.co.uk/news/world-middle-east-58494832?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-middle-east-58494832</guid>
-            <pubDate>Wed, 08 Sep 2021 23:17:52 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Mexico earthquake: Lights seen in sky during tremor near Acapulco]]></title>
             <description><![CDATA[The magnitude-seven quake struck the country's Pacific coast, near the resort of Acapulco.]]></description>
             <link>https://www.bbc.co.uk/news/world-latin-america-58489038?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -175,6 +168,13 @@
             <link>https://www.bbc.co.uk/news/world-australia-58472030?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-australia-58472030</guid>
             <pubDate>Tue, 07 Sep 2021 05:39:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mexico: Flash flooding sweeps away cars after heavy rain]]></title>
+            <description><![CDATA[Heavy rain in central Mexico sparked flash floods in Ecatepec and Nexahualcóyotl.]]></description>
+            <link>https://www.bbc.co.uk/news/world-latin-america-58476138?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-latin-america-58476138</guid>
+            <pubDate>Tue, 07 Sep 2021 10:47:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Chaos and confusion: The frenzied final hours of the Afghan government]]></title>

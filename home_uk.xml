@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 08 Sep 2021 23:22:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Sep 2021 23:33:30 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -261,13 +261,6 @@
             <pubDate>Wed, 08 Sep 2021 21:28:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Wales' automatic qualification hopes look slim after Estonia draw]]></title>
-            <description><![CDATA[Wales' hopes of qualifying automatically for the World Cup are all but over after they are held to a goalless draw by group minnows Estonia.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58404781?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58404781</guid>
-            <pubDate>Wed, 08 Sep 2021 20:40:33 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Emma Raducanu: British great Virginia Wade says teenager 'in that handful who will be dominating tennis']]></title>
             <description><![CDATA[Three-time major winner Virginia Wade says Emma Raducanu has what it takes to become a dominant force in tennis and believes the US Open quarter-finalist can win a Grand Slam one day.]]></description>
             <link>https://www.bbc.co.uk/sport/av/tennis/58488566?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -275,18 +268,25 @@
             <pubDate>Wed, 08 Sep 2021 11:08:59 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Fourth seed Zverev sweeps into US Open semis... and has to mop the court too]]></title>
+            <description><![CDATA[Olympic champion Alexander Zverev moves into the US Open semi-finals with a straight-set victory over Lloyd Harris.]]></description>
+            <link>https://www.bbc.co.uk/sport/tennis/58495323?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/58495323</guid>
+            <pubDate>Wed, 08 Sep 2021 21:10:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wales' automatic qualification hopes look slim after Estonia draw]]></title>
+            <description><![CDATA[Wales' hopes of qualifying automatically for the World Cup are all but over after they are held to a goalless draw by group minnows Estonia.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58404781?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58404781</guid>
+            <pubDate>Wed, 08 Sep 2021 20:40:33 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Peacock-Farrell saves another penalty as Northern Ireland draw with Switzerland]]></title>
             <description><![CDATA[Goalkeeper Bailey Peacock-Farrell saves another penalty as Northern Ireland are held to a goalless draw by Switzerland in their World Cup qualifier.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58404778?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58404778</guid>
             <pubDate>Wed, 08 Sep 2021 20:41:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Man City target domestic success after Champions League exit to Real]]></title>
-            <description><![CDATA[Manchester City boss Gareth Taylor targets success in domestic competitions after his side's failure to reach the Women's Champions League group stage.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58468779?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58468779</guid>
-            <pubDate>Wed, 08 Sep 2021 21:55:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Social care: Will people still have to sell their homes?]]></title>
