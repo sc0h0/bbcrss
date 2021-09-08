@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 08 Sep 2021 10:53:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Sep 2021 11:03:29 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -51,11 +51,25 @@
             <pubDate>Wed, 08 Sep 2021 08:45:29 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Spanish bishop quit for love for erotic writer]]></title>
+            <description><![CDATA[Xavier Novell was a traditional and controversial bishop who resigned for "personal reasons".]]></description>
+            <link>https://www.bbc.co.uk/news/58486790?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/58486790</guid>
+            <pubDate>Wed, 08 Sep 2021 10:48:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Brazil's Bolsonaro: Only God will remove me from power]]></title>
             <description><![CDATA[With his approval rating at a low, Brazil's leader strikes a defiant note on independence day.]]></description>
             <link>https://www.bbc.co.uk/news/world-latin-america-58479028?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-latin-america-58479028</guid>
             <pubDate>Wed, 08 Sep 2021 10:02:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[India paves way for more women in armed forces]]></title>
+            <description><![CDATA[The government says women can join military colleges and be eligible for permanent commissions.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-india-58486771?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-india-58486771</guid>
+            <pubDate>Wed, 08 Sep 2021 10:30:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Climate change: Vulnerable nations call for 'emergency pact']]></title>
@@ -84,13 +98,6 @@
             <link>https://www.bbc.co.uk/news/world-us-canada-58483461?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58483461</guid>
             <pubDate>Wed, 08 Sep 2021 00:36:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin crashes on first day as El Salvador's legal tender]]></title>
-            <description><![CDATA[Technological glitches plagued the first day of El Salvador accepting Bitcoin as legal tender.]]></description>
-            <link>https://www.bbc.co.uk/news/business-58459098?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58459098</guid>
-            <pubDate>Wed, 08 Sep 2021 05:01:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Paris attacks: Historic day of reckoning for night of terror]]></title>
