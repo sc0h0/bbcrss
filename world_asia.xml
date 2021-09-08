@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 08 Sep 2021 11:32:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Sep 2021 11:41:51 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -51,13 +51,6 @@
             <pubDate>Wed, 08 Sep 2021 03:30:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Chinese social media site Weibo suspends 22 K-pop accounts]]></title>
-            <description><![CDATA[The social media site says 22 fan accounts have been suspended for "irrational celebrity support”.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-58479375?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-58479375</guid>
-            <pubDate>Tue, 07 Sep 2021 16:43:04 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Hong Kong: Tiananmen vigil organisers arrested]]></title>
             <description><![CDATA[Members of a pro-democracy organisation have been detained under a controversial security law.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-58483848?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -84,6 +77,13 @@
             <link>https://www.bbc.co.uk/news/science-environment-58477926?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/science-environment-58477926</guid>
             <pubDate>Wed, 08 Sep 2021 00:09:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Chinese social media site Weibo suspends 22 K-pop accounts]]></title>
+            <description><![CDATA[The social media site says 22 fan accounts have been suspended for "irrational celebrity support”.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-58479375?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-58479375</guid>
+            <pubDate>Tue, 07 Sep 2021 16:43:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Vietnam: Man gets five years in jail for spreading Covid]]></title>
