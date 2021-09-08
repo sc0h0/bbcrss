@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 08 Sep 2021 05:14:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Sep 2021 05:24:31 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -65,6 +65,13 @@
             <pubDate>Tue, 07 Sep 2021 21:57:09 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Australia media can be sued for social media comments, court rules]]></title>
+            <description><![CDATA[A landmark court ruling finds publishers can be sued for comments posted on their social media.]]></description>
+            <link>https://www.bbc.co.uk/news/world-australia-58484205?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-australia-58484205</guid>
+            <pubDate>Wed, 08 Sep 2021 04:49:22 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Boeing: Directors to face investor lawsuit over fatal crashes]]></title>
             <description><![CDATA[Shareholders can sue Boeing over claims it ignored safety warnings about its 737 Max plane, a US judge rules.]]></description>
             <link>https://www.bbc.co.uk/news/business-58483150?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -91,13 +98,6 @@
             <link>https://www.bbc.co.uk/news/world-us-canada-58404050?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58404050</guid>
             <pubDate>Tue, 07 Sep 2021 20:01:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Spanish woman sues after DNA test reveals birth swap error]]></title>
-            <description><![CDATA[Health authorities admit the woman was mistakenly switched with another baby at a hospital in 2002.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58474478?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58474478</guid>
-            <pubDate>Tue, 07 Sep 2021 16:32:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Paris attacks: Historic day of reckoning for night of terror]]></title>
