@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 08 Sep 2021 08:56:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Sep 2021 09:19:17 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -37,13 +37,6 @@
             <pubDate>Wed, 08 Sep 2021 05:09:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Scotland's papers: 'Justice for Lamara' and social care tax hike]]></title>
-            <description><![CDATA[Police Scotland's £100,000 fine over the M9 crash and a new health and social care tax make the front pages.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-58483195?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-58483195</guid>
-            <pubDate>Wed, 08 Sep 2021 06:47:47 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[What does tax rise mean for Scotland?]]></title>
             <description><![CDATA[Scotland and England face challenges in funding social care but the responses are increasingly divergent.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-58473158?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -56,6 +49,13 @@
             <link>https://www.bbc.co.uk/sport/football/58386792?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58386792</guid>
             <pubDate>Tue, 07 Sep 2021 20:45:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Scotland's papers: 'Justice for Lamara' and social care tax hike]]></title>
+            <description><![CDATA[Police Scotland's £100,000 fine over the M9 crash and a new health and social care tax make the front pages.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-58483195?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-58483195</guid>
+            <pubDate>Wed, 08 Sep 2021 06:47:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Police Scotland fined £100,000 over M9 crash death failures]]></title>
@@ -77,6 +77,13 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-scotland-politics-58478187?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-scotland-politics-58478187</guid>
             <pubDate>Tue, 07 Sep 2021 14:23:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[John Swinney tests negative for Covid-19]]></title>
+            <description><![CDATA[The deputy first minister had been self-isolating after being told he was a close contact of someone with the virus.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-58472175?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-58472175</guid>
+            <pubDate>Wed, 08 Sep 2021 08:59:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Man arrested after lorry crashes into house in East Kilbride]]></title>
@@ -261,18 +268,18 @@
             <pubDate>Tue, 07 Sep 2021 16:28:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Scottish Gossip: Celtic, Rangers, Jota, Hearts, Hibs, Benfica, Hagi, Kyogo, Ajer, Boyle, McKay, St Johnstone, Brentford, MacPherson]]></title>
-            <description><![CDATA[New Celtic loan signing Filipe Jota will not think of a permanent move until the end of the season as Hearts say they beat Hibs to Barrie McKay's signature.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58485255?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58485255</guid>
-            <pubDate>Wed, 08 Sep 2021 06:59:13 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[World Cup 2022: How far are Scotland from qualifying for Qatar?]]></title>
             <description><![CDATA[How are Scotland's prospects of making it to Qatar 2022 after statement win in Austria?]]></description>
             <link>https://www.bbc.co.uk/sport/football/58215232?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58215232</guid>
             <pubDate>Tue, 07 Sep 2021 22:39:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Scottish Gossip: Celtic, Rangers, Jota, Hearts, Hibs, Benfica, Hagi, Kyogo, Ajer, Boyle, McKay, St Johnstone, Brentford, MacPherson]]></title>
+            <description><![CDATA[New Celtic loan signing Filipe Jota will not think of a permanent move until the end of the season as Hearts say they beat Hibs to Barrie McKay's signature.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58485255?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58485255</guid>
+            <pubDate>Wed, 08 Sep 2021 06:59:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
