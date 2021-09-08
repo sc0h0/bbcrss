@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 08 Sep 2021 17:38:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Sep 2021 17:53:32 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -86,13 +86,6 @@
             <pubDate>Tue, 07 Sep 2021 21:33:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Holy Cross dispute: The terror and the trauma recalled 20 years on]]></title>
-            <description><![CDATA[A teacher, priest and minister recall the dispute outside Holy Cross Primary School in Belfast in 2001.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58465148?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58465148</guid>
-            <pubDate>Wed, 08 Sep 2021 05:36:49 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Holy Cross: 'I was in the school and we heard an explosion']]></title>
             <description><![CDATA[Two decades on from the Holy Cross dispute some of those present remember the tension and fear.]]></description>
             <link>https://www.bbc.co.uk/news/58478882?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -140,6 +133,13 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-54117810?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-54117810</guid>
             <pubDate>Thu, 29 Jul 2021 20:09:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Holy Cross dispute: The terror and the trauma recalled 20 years on]]></title>
+            <description><![CDATA[A teacher, priest and minister recall the dispute outside Holy Cross Primary School in Belfast in 2001.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58465148?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58465148</guid>
+            <pubDate>Wed, 08 Sep 2021 05:36:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Latest Northern Ireland weather forecast]]></title>
