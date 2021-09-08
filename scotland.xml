@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 08 Sep 2021 08:41:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Sep 2021 08:56:23 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -247,13 +247,6 @@
             <pubDate>Tue, 07 Sep 2021 22:08:36 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Austria 0-1 Scotland: How did the players rate in the World Cup qualifier?]]></title>
-            <description><![CDATA[How did the players rate in Scotland's impressive World Cup qualification win in Austria?]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58478591?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58478591</guid>
-            <pubDate>Tue, 07 Sep 2021 20:45:16 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[US Open 2021: Britain's Joe Salisbury & Jamie Murray both reach doubles semi-finals]]></title>
             <description><![CDATA[Britain's Jamie Murray and Joe Salisbury both go through to the men's doubles semi-finals at the US Open.]]></description>
             <link>https://www.bbc.co.uk/sport/tennis/58483371?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -261,11 +254,25 @@
             <pubDate>Wed, 08 Sep 2021 05:39:13 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Glasgow City v Servette Women]]></title>
+            <description><![CDATA[Glasgow City aim to avoid extra-time in their Champions League play-off with Servette, says Lee Alexander.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58455072?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58455072</guid>
+            <pubDate>Tue, 07 Sep 2021 16:28:25 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Scottish Gossip: Celtic, Rangers, Jota, Hearts, Hibs, Benfica, Hagi, Kyogo, Ajer, Boyle, McKay, St Johnstone, Brentford, MacPherson]]></title>
             <description><![CDATA[New Celtic loan signing Filipe Jota will not think of a permanent move until the end of the season as Hearts say they beat Hibs to Barrie McKay's signature.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58485255?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58485255</guid>
             <pubDate>Wed, 08 Sep 2021 06:59:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[World Cup 2022: How far are Scotland from qualifying for Qatar?]]></title>
+            <description><![CDATA[How are Scotland's prospects of making it to Qatar 2022 after statement win in Austria?]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58215232?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58215232</guid>
+            <pubDate>Tue, 07 Sep 2021 22:39:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
