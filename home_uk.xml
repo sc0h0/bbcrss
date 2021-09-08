@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 08 Sep 2021 19:25:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Sep 2021 19:35:07 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -30,13 +30,6 @@
             <pubDate>Wed, 08 Sep 2021 18:43:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Sophie Moss death: MP says strangling sentence too lenient]]></title>
-            <description><![CDATA[Campaigners say the sentence given to Sophie Moss's killer sends a "dreadful message".]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-tees-58492328?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-tees-58492328</guid>
-            <pubDate>Wed, 08 Sep 2021 17:18:29 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Covid: Boris Johnson concerned over unvaccinated hospital patients]]></title>
             <description><![CDATA[Boris Johnson says a "higher proportion" of younger people are being affected by the virus.]]></description>
             <link>https://www.bbc.co.uk/news/uk-58494842?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -51,11 +44,25 @@
             <pubDate>Wed, 08 Sep 2021 17:09:27 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Attenborough to Climate Assembly: 'You've given me a lot of hope']]></title>
+            <description><![CDATA[Sir David Attenborough met with members in Parliament to discuss action on climate change.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-58495142?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/science-environment-58495142</guid>
+            <pubDate>Wed, 08 Sep 2021 19:08:02 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Green and amber lists could go in travel rules shake-up]]></title>
             <description><![CDATA[The BBC has been told that the green and amber categories could be removed and replaced with a new system.]]></description>
             <link>https://www.bbc.co.uk/news/business-58491245?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58491245</guid>
             <pubDate>Wed, 08 Sep 2021 14:27:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sophie Moss death: MP says strangling sentence too lenient]]></title>
+            <description><![CDATA[Campaigners say the sentence given to Sophie Moss's killer sends a "dreadful message".]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-tees-58492328?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-tees-58492328</guid>
+            <pubDate>Wed, 08 Sep 2021 17:18:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Government to shorten HGV driver testing process]]></title>
@@ -79,18 +86,11 @@
             <pubDate>Wed, 08 Sep 2021 17:01:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Amazon pays £492m in UK tax as sales surge to £20.6bn]]></title>
-            <description><![CDATA[The online retail giant saw UK sales rise by 50% last year amid a Covid-driven hike in demand.]]></description>
-            <link>https://www.bbc.co.uk/news/business-58485816?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58485816</guid>
-            <pubDate>Wed, 08 Sep 2021 12:55:27 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Paris attacks 2015: Accused complains of conditions]]></title>
             <description><![CDATA[Salah Abdeslam and 19 other defendants are accused of involvement in France's worst post-WWII attack.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-58486391?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58486391</guid>
-            <pubDate>Wed, 08 Sep 2021 17:51:48 GMT</pubDate>
+            <pubDate>Wed, 08 Sep 2021 19:26:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Fortnite gamer's mum becomes pro herself]]></title>
@@ -156,6 +156,13 @@
             <pubDate>Tue, 07 Sep 2021 23:00:44 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[A new order begins under the Taliban's governance]]></title>
+            <description><![CDATA[The Taliban's new ministers have taken office - but are they any different this time around?]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58495112?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58495112</guid>
+            <pubDate>Wed, 08 Sep 2021 19:28:01 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Covid-19 in the UK: How many coronavirus cases are there in my area?]]></title>
             <description><![CDATA[Explore the data on coronavirus in the UK and find out how many cases there are in your area.]]></description>
             <link>https://www.bbc.co.uk/news/uk-51768274?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -203,62 +210,6 @@
             <link>https://www.bbc.co.uk/news/entertainment-arts-58462521?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-58462521</guid>
             <pubDate>Tue, 07 Sep 2021 00:34:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Paris attacks: Historic day of reckoning for night of terror]]></title>
-            <description><![CDATA[Survivors and families attend the long-awaited trial of 20 men accused of the deadly 2015 attacks.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58472506?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58472506</guid>
-            <pubDate>Wed, 08 Sep 2021 00:18:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[US Open: Why it is right to be excited about 'wise' & 'fearless' Emma Raducanu]]></title>
-            <description><![CDATA[As British teenager Emma Raducanu reaches the US Open quarter-finals, BBC Sport looks at why it is right to be excited by her journey.]]></description>
-            <link>https://www.bbc.co.uk/sport/tennis/58469895?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/58469895</guid>
-            <pubDate>Tue, 07 Sep 2021 02:35:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Climate change: Shetland's power struggle between oil and wind]]></title>
-            <description><![CDATA[The row over plans for a new oil field at Cambo has placed Shetland in the heart of the debate over energy production.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-58464439?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-58464439</guid>
-            <pubDate>Tue, 07 Sep 2021 05:30:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pensions: What is the triple lock and why has it been 'suspended'?]]></title>
-            <description><![CDATA[The government has changed a policy which determines the annual rise in the state pension.]]></description>
-            <link>https://www.bbc.co.uk/news/business-53082530?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-53082530</guid>
-            <pubDate>Tue, 07 Sep 2021 14:59:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[India jewellery ad starring trans model wins hearts]]></title>
-            <description><![CDATA[The ad is being praised in India where popular culture still portrays transgender people as caricatures.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-india-58449746?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-india-58449746</guid>
-            <pubDate>Mon, 06 Sep 2021 23:51:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nizar Banat: The death shaking the Palestinian leadership]]></title>
-            <description><![CDATA[The killing of Nizar Banat in Palestinian custody has fuelled rare protests calling for change.]]></description>
-            <link>https://www.bbc.co.uk/news/world-middle-east-58400442?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-middle-east-58400442</guid>
-            <pubDate>Tue, 07 Sep 2021 00:04:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why social workers are being embedded in schools]]></title>
-            <description><![CDATA[A new project is embedding social workers in schools. How is it improving family life?]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-london-57978625?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-london-57978625</guid>
-            <pubDate>Tue, 07 Sep 2021 00:51:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why coders love the AI that could put them out of a job]]></title>
-            <description><![CDATA[Artificial intelligence is getting better at penning code but still a long way from working alone.]]></description>
-            <link>https://www.bbc.co.uk/news/business-57914432?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-57914432</guid>
-            <pubDate>Mon, 06 Sep 2021 23:01:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Emma Raducanu: British great Virginia Wade says teenager 'in that handful who will be dominating tennis']]></title>
