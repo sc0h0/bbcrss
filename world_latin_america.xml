@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 08 Sep 2021 15:55:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Sep 2021 16:28:58 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -142,6 +142,13 @@
             <pubDate>Wed, 18 Aug 2021 20:40:59 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Mexico earthquake: Lights seen in sky during tremor near Acapulco]]></title>
+            <description><![CDATA[The magnitude-seven quake struck the country's Pacific coast, near the resort of Acapulco.]]></description>
+            <link>https://www.bbc.co.uk/news/world-latin-america-58489038?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-latin-america-58489038</guid>
+            <pubDate>Wed, 08 Sep 2021 15:25:55 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Mexico: Flash flooding sweeps away cars after heavy rain]]></title>
             <description><![CDATA[Heavy rain in central Mexico sparked flash floods in Ecatepec and Nexahualcóyotl.]]></description>
             <link>https://www.bbc.co.uk/news/world-latin-america-58476138?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -175,13 +182,6 @@
             <link>https://www.bbc.co.uk/news/world-us-canada-58320708?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58320708</guid>
             <pubDate>Wed, 25 Aug 2021 01:07:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Haiti earthquake: Rescue efforts continue in Les Cayes]]></title>
-            <description><![CDATA[The death toll from the 7.2-magnitude quake is now over 2,000, with many still missing in towns like Les Cayes.]]></description>
-            <link>https://www.bbc.co.uk/news/world-latin-america-58274326?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-latin-america-58274326</guid>
-            <pubDate>Thu, 19 Aug 2021 16:18:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
