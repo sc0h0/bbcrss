@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 08 Sep 2021 07:03:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Sep 2021 07:18:10 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Mexico: Powerful earthquake hits Acapulco]]></title>
+            <description><![CDATA[The magnitude-seven quake was felt strongly around 370 km away in Mexico City.]]></description>
+            <link>https://www.bbc.co.uk/news/world-latin-america-58484951?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-latin-america-58484951</guid>
+            <pubDate>Wed, 08 Sep 2021 07:07:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitcoin crashes on first day as El Salvador's legal tender]]></title>
             <description><![CDATA[Technological glitches plagued the first day of El Salvador accepting Bitcoin as legal tender.]]></description>
@@ -56,13 +63,6 @@
             <link>https://www.bbc.co.uk/sport/football/58468087?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58468087</guid>
             <pubDate>Mon, 06 Sep 2021 19:24:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mexico City to swap Columbus statue for one of indigenous woman]]></title>
-            <description><![CDATA[Mexico City's mayor said a statue of an Olmeca woman would replace that of the Italian explorer.]]></description>
-            <link>https://www.bbc.co.uk/news/world-latin-america-58462071?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-latin-america-58462071</guid>
-            <pubDate>Mon, 06 Sep 2021 10:15:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tokyo 2020: The Paralympic dream that started at the supermarket]]></title>
