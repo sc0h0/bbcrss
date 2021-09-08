@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 08 Sep 2021 09:33:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Sep 2021 10:12:39 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -20,7 +20,14 @@
             <description><![CDATA[The all-men interim cabinet includes names of people on the US and UN most-wanted lists.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-58484155?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58484155</guid>
-            <pubDate>Wed, 08 Sep 2021 09:04:23 GMT</pubDate>
+            <pubDate>Wed, 08 Sep 2021 10:12:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Paris attacks 2015: Historic trial of 20 suspects to open in France]]></title>
+            <description><![CDATA[Twenty men are going on trial in Paris accused of involvement in France's worst post-WWII atrocity.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58486391?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58486391</guid>
+            <pubDate>Wed, 08 Sep 2021 09:47:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[António Guterres says Taliban need UN's humanitarian aid]]></title>
@@ -28,13 +35,6 @@
             <link>https://www.bbc.co.uk/news/world-us-canada-58482840?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58482840</guid>
             <pubDate>Tue, 07 Sep 2021 20:41:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Paris attacks: Historic day of reckoning for night of terror]]></title>
-            <description><![CDATA[Survivors and families attend the long-awaited trial of 20 men accused of the deadly 2015 attacks.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58472506?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58472506</guid>
-            <pubDate>Wed, 08 Sep 2021 00:18:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Flooding hits Mexico hospital, killing 17 patients]]></title>
@@ -58,11 +58,11 @@
             <pubDate>Wed, 08 Sep 2021 08:45:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Mexico decriminalises abortion in landmark ruling]]></title>
-            <description><![CDATA[The Supreme Court rules that prosecuting women for terminating pregnancies is unconstitutional.]]></description>
-            <link>https://www.bbc.co.uk/news/world-latin-america-58482850?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-latin-america-58482850</guid>
-            <pubDate>Tue, 07 Sep 2021 21:57:09 GMT</pubDate>
+            <title><![CDATA[Brazil's Bolsonaro: Only God will remove me from power]]></title>
+            <description><![CDATA[With his approval rating at a low, Brazil's leader strikes a defiant note on independence day.]]></description>
+            <link>https://www.bbc.co.uk/news/world-latin-america-58479028?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-latin-america-58479028</guid>
+            <pubDate>Wed, 08 Sep 2021 10:02:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Climate change: Vulnerable nations call for 'emergency pact']]></title>
@@ -93,18 +93,18 @@
             <pubDate>Wed, 08 Sep 2021 02:44:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Boeing: Directors to face investor lawsuit over fatal crashes]]></title>
-            <description><![CDATA[Shareholders can sue Boeing over claims it ignored safety warnings about its 737 Max plane, a US judge rules.]]></description>
-            <link>https://www.bbc.co.uk/news/business-58483150?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58483150</guid>
-            <pubDate>Wed, 08 Sep 2021 00:04:17 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Bitcoin crashes on first day as El Salvador's legal tender]]></title>
             <description><![CDATA[Technological glitches plagued the first day of El Salvador accepting Bitcoin as legal tender.]]></description>
             <link>https://www.bbc.co.uk/news/business-58459098?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58459098</guid>
             <pubDate>Wed, 08 Sep 2021 05:01:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Paris attacks: Historic day of reckoning for night of terror]]></title>
+            <description><![CDATA[Survivors and families attend the long-awaited trial of 20 men accused of the deadly 2015 attacks.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58472506?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58472506</guid>
+            <pubDate>Wed, 08 Sep 2021 00:18:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Somali feminist: Facebook is being used to silence me]]></title>
