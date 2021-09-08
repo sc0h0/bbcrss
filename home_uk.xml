@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 08 Sep 2021 20:46:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Sep 2021 20:54:59 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -77,6 +77,13 @@
             <link>https://www.bbc.co.uk/news/world-asia-58490819?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58490819</guid>
             <pubDate>Wed, 08 Sep 2021 18:58:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Poland 1-1 England: Three Lions drop their first points in World Cup qualifying]]></title>
+            <description><![CDATA[Substitute Damian Szymanski scores a stoppage-time equaliser to deny England victory in their World Cup qualifying game away to Poland.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58404777?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58404777</guid>
+            <pubDate>Wed, 08 Sep 2021 20:47:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Stamford auction house surprise as Ru ware fetches £320,000]]></title>
@@ -212,13 +219,6 @@
             <pubDate>Tue, 07 Sep 2021 00:34:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Poland 1-1 England: Three Lions drop their first points in World Cup qualifying]]></title>
-            <description><![CDATA[Substitute Damian Szymanski scores a stoppage-time equaliser to deny England victory in their World Cup qualifying game away to Poland.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58404777?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58404777</guid>
-            <pubDate>Wed, 08 Sep 2021 20:41:38 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Wales' automatic qualification hopes look slim after draw against Estonia]]></title>
             <description><![CDATA[Wales' hopes of qualifying automatically for the World Cup are all but over after they are held to a goalless draw by group minnows Estonia.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58404781?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -226,7 +226,7 @@
             <pubDate>Wed, 08 Sep 2021 20:40:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[World Cup qualifying: Northern Ireland held to goal-less draw by Switzerland]]></title>
+            <title><![CDATA[Peacock-Farrell saves another penalty as Northern Ireland draw with Switzerland]]></title>
             <description><![CDATA[Goalkeeper Bailey Peacock-Farrell saves another penalty as Northern Ireland are held to a goal-less draw by Switzerland in their World Cup qualifier.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58404778?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58404778</guid>

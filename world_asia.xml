@@ -11,16 +11,23 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 08 Sep 2021 20:45:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Sep 2021 20:52:36 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
-            <title><![CDATA[Afghanistan: Women protest against all-male Taliban government]]></title>
-            <description><![CDATA[Dozens of women march in Kabul and in Badakhshan province, angry at the new Taliban government.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58490819?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58490819</guid>
-            <pubDate>Wed, 08 Sep 2021 18:58:59 GMT</pubDate>
+            <title><![CDATA[Afghanistan: A new order begins under the Taliban's governance]]></title>
+            <description><![CDATA[The Taliban's new ministers have taken office - but are they any different this time around?]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58495112?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58495112</guid>
+            <pubDate>Wed, 08 Sep 2021 20:08:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Afghanistan: Women beaten for demanding their rights]]></title>
+            <description><![CDATA[Women in Afghanistan demanding their rights say they have been beaten by the Taliban.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58491747?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58491747</guid>
+            <pubDate>Wed, 08 Sep 2021 20:44:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Afghanistan: Could Pakistani drones hit the Panjshir Valley?]]></title>
@@ -28,13 +35,6 @@
             <link>https://www.bbc.co.uk/news/58480299?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/58480299</guid>
             <pubDate>Wed, 08 Sep 2021 16:52:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Chaos and confusion: The frenzied final hours of the Afghan government]]></title>
-            <description><![CDATA[Through interviews with insiders, BBC News has pieced together an account of how Afghanistan’s government unravelled.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58477131?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58477131</guid>
-            <pubDate>Wed, 08 Sep 2021 00:42:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Philippines President Rodrigo Duterte to stand as vice-president]]></title>
@@ -51,13 +51,6 @@
             <pubDate>Wed, 08 Sep 2021 17:51:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Indonesia prison fire: Tangerang jail blaze kills 41 inmates]]></title>
-            <description><![CDATA[All of the dead, including two foreigners, were inmates, with guards unable to unlock doors in time.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58483850?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58483850</guid>
-            <pubDate>Wed, 08 Sep 2021 08:45:29 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[India: One dead and many missing after boats collide in Assam]]></title>
             <description><![CDATA[A massive rescue operation is under way in Assam to find at least 30 people still missing.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-india-58484955?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -65,11 +58,25 @@
             <pubDate>Wed, 08 Sep 2021 16:20:53 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Chaos and confusion: The frenzied final hours of the Afghan government]]></title>
+            <description><![CDATA[Through interviews with insiders, BBC News has pieced together an account of how Afghanistan’s government unravelled.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58477131?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58477131</guid>
+            <pubDate>Wed, 08 Sep 2021 00:42:55 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Ai Weiwei: Credit Suisse closed bank account over China]]></title>
             <description><![CDATA[The Chinese artist says Credit Suisse closed his foundation's bank account over his "criminal record".]]></description>
             <link>https://www.bbc.co.uk/news/business-58484447?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58484447</guid>
             <pubDate>Wed, 08 Sep 2021 09:33:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Indonesia prison fire: Tangerang jail blaze kills 41 inmates]]></title>
+            <description><![CDATA[All of the dead, including two foreigners, were inmates, with guards unable to unlock doors in time.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58483850?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58483850</guid>
+            <pubDate>Wed, 08 Sep 2021 08:45:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hong Kong: Tiananmen vigil organisers arrested]]></title>
