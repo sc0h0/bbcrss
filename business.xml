@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 08 Sep 2021 02:55:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Sep 2021 05:15:01 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Bitcoin crashes on first day as El Salvador's legal tender]]></title>
+            <description><![CDATA[Technological glitches plagued the first day of El Salvador accepting Bitcoin as legal tender.]]></description>
+            <link>https://www.bbc.co.uk/news/business-58459098?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58459098</guid>
+            <pubDate>Wed, 08 Sep 2021 05:01:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Boeing: Directors to face investor lawsuit over fatal crashes]]></title>
             <description><![CDATA[Shareholders can sue Boeing over claims it ignored safety warnings about its 737 Max plane, a US judge rules.]]></description>
