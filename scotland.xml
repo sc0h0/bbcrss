@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 08 Sep 2021 05:37:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Sep 2021 05:49:08 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -37,11 +37,11 @@
             <pubDate>Wed, 08 Sep 2021 05:09:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[What does Boris Johnson's tax rise mean for Scotland and social care?]]></title>
-            <description><![CDATA[Scotland and England face challenges in funding social care but the responses are increasingly divergent.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-58473158?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-58473158</guid>
-            <pubDate>Tue, 07 Sep 2021 18:30:19 GMT</pubDate>
+            <title><![CDATA[Scotland's papers: 'Justice for Lamara' and social care tax hike]]></title>
+            <description><![CDATA[Police Scotland's £100,000 fine over the M9 crash and a new health and social care tax make the front pages.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-58483195?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-58483195</guid>
+            <pubDate>Wed, 08 Sep 2021 05:44:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Dykes winner boosts Scotland World Cup dream]]></title>
@@ -51,11 +51,25 @@
             <pubDate>Tue, 07 Sep 2021 20:45:07 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[What does tax rise mean for Scotland?]]></title>
+            <description><![CDATA[Scotland and England face challenges in funding social care but the responses are increasingly divergent.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-58473158?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-58473158</guid>
+            <pubDate>Tue, 07 Sep 2021 18:30:19 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Police Scotland fined £100,000 over M9 crash death failures]]></title>
             <description><![CDATA[The force admitted that failures in its call-handling system "materially contributed" to a young woman's death.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-tayside-central-58474385?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-tayside-central-58474385</guid>
             <pubDate>Tue, 07 Sep 2021 20:07:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Inmate, 20, dies at Polmont Young Offenders Institution]]></title>
+            <description><![CDATA[Jack McKenzie died on Friday at Polmont Young Offenders Institution, the Scottish Prison Service confirms.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-58484856?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-58484856</guid>
+            <pubDate>Wed, 08 Sep 2021 05:46:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Scottish government to restart work on case for independence]]></title>
@@ -77,20 +91,6 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-highlands-islands-58475118?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-highlands-islands-58475118</guid>
             <pubDate>Tue, 07 Sep 2021 14:11:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Climate change: Green groups call for COP26 postponement]]></title>
-            <description><![CDATA[Vaccine inequality and travel challenges risk excluding many delegates from poorer nations.]]></description>
-            <link>https://www.bbc.co.uk/news/science-environment-58472566?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/science-environment-58472566</guid>
-            <pubDate>Tue, 07 Sep 2021 08:13:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Falling tree warning months before Perthshire train crash]]></title>
-            <description><![CDATA[An area of track in Perthshire was identified as being at risk of falling trees months before a train crash there.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-tayside-central-58474236?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-tayside-central-58474236</guid>
-            <pubDate>Tue, 07 Sep 2021 12:59:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid in Scotland: Where are the latest cases?]]></title>
@@ -255,10 +255,10 @@
         </item>
         <item>
             <title><![CDATA[US Open 2021: Britain's Joe Salisbury & Jamie Murray both reach doubles semi-finals]]></title>
-            <description><![CDATA[Britain's Jamie Murray and Joe Salisbury both progress through to the men's doubles semi-finals at the US Open.]]></description>
+            <description><![CDATA[Britain's Jamie Murray and Joe Salisbury both go through to the men's doubles semi-finals at the US Open.]]></description>
             <link>https://www.bbc.co.uk/sport/tennis/58483371?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/58483371</guid>
-            <pubDate>Wed, 08 Sep 2021 01:09:16 GMT</pubDate>
+            <pubDate>Wed, 08 Sep 2021 05:39:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Solheim Cup 2021: Catriona Matthew says no to third captaincy stint in Spain]]></title>
