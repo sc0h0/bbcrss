@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 08 Sep 2021 18:44:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Sep 2021 19:02:28 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -37,18 +37,25 @@
             <pubDate>Wed, 08 Sep 2021 17:18:29 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid: Boris Johnson concerned over unvaccinated hospital patients]]></title>
+            <description><![CDATA[Boris Johnson says a "higher proportion" of younger people are being affected by the virus.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-58494842?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58494842</guid>
+            <pubDate>Wed, 08 Sep 2021 18:46:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Carl Bean, singer of LGBT pride anthem I Was Born This Way, dies aged 77]]></title>
+            <description><![CDATA[Carl Bean was also a prominent Aids activist who founded a network of LGBT churches.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-58493076?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-58493076</guid>
+            <pubDate>Wed, 08 Sep 2021 17:09:27 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Green and amber lists could go in travel rules shake-up]]></title>
             <description><![CDATA[The BBC has been told that the green and amber categories could be removed and replaced with a new system.]]></description>
             <link>https://www.bbc.co.uk/news/business-58491245?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58491245</guid>
             <pubDate>Wed, 08 Sep 2021 14:27:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: Green and amber travel lists could go and Scotland surge 'slowing']]></title>
-            <description><![CDATA[Five things you need to know about the coronavirus pandemic this Wednesday evening.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58489190?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58489190</guid>
-            <pubDate>Wed, 08 Sep 2021 16:02:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Government to shorten HGV driver testing process]]></title>
@@ -62,7 +69,7 @@
             <description><![CDATA[Dozens of women march in Kabul and in Badakhshan province, angry at the new Taliban government.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-58490819?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58490819</guid>
-            <pubDate>Wed, 08 Sep 2021 16:13:08 GMT</pubDate>
+            <pubDate>Wed, 08 Sep 2021 18:58:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Stamford auction house surprise as Ru ware fetches £320,000]]></title>
@@ -70,13 +77,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-lincolnshire-58489566?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-lincolnshire-58489566</guid>
             <pubDate>Wed, 08 Sep 2021 17:01:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Carl Bean, singer of LGBT pride anthem I Was Born This Way, dies aged 77]]></title>
-            <description><![CDATA[Carl Bean was also a prominent Aids activist who founded a network of LGBT churches.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-58493076?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-58493076</guid>
-            <pubDate>Wed, 08 Sep 2021 17:09:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Amazon pays £492m in UK tax as sales surge to £20.6bn]]></title>
@@ -259,6 +259,13 @@
             <link>https://www.bbc.co.uk/news/business-57914432?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/business-57914432</guid>
             <pubDate>Mon, 06 Sep 2021 23:01:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Emma Raducanu: British great Virginia Wade says teenager 'in that handful who will be dominating tennis']]></title>
+            <description><![CDATA[Three-time major winner Virginia Wade says Emma Raducanu has what it takes to become a dominant force in tennis and believes the US Open quarter-finalist can win a Grand Slam one day.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/tennis/58488566?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/av/tennis/58488566</guid>
+            <pubDate>Wed, 08 Sep 2021 11:08:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[PL clubs hope players banned by Fifa will be cleared to play this weekend]]></title>
