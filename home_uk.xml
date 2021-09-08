@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 08 Sep 2021 22:02:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Sep 2021 22:25:56 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -42,13 +42,6 @@
             <link>https://www.bbc.co.uk/news/entertainment-arts-58493076?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-58493076</guid>
             <pubDate>Wed, 08 Sep 2021 17:09:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Attenborough to Climate Assembly: 'You've given me a lot of hope']]></title>
-            <description><![CDATA[Sir David Attenborough met with members in Parliament to discuss action on climate change.]]></description>
-            <link>https://www.bbc.co.uk/news/science-environment-58495142?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/science-environment-58495142</guid>
-            <pubDate>Wed, 08 Sep 2021 19:08:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sophie Moss death: MP says strangling sentence too lenient]]></title>
@@ -86,11 +79,18 @@
             <pubDate>Wed, 08 Sep 2021 18:58:59 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Edinburgh sex attacker who raped four women 'checked pulse of victim']]></title>
+            <description><![CDATA[Dillon Anderson raped four young women in a series of attacks, the first when he was 14.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-58493947?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-58493947</guid>
+            <pubDate>Wed, 08 Sep 2021 17:46:19 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Poland 1-1 England: Three Lions drop their first points in World Cup qualifying]]></title>
             <description><![CDATA[Substitute Damian Szymanski scores a stoppage-time equaliser to deny England victory in their World Cup qualifying game away to Poland.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58404777?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58404777</guid>
-            <pubDate>Wed, 08 Sep 2021 21:17:58 GMT</pubDate>
+            <pubDate>Wed, 08 Sep 2021 22:23:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Paris attacks 2015: Accused complains of conditions]]></title>
@@ -112,6 +112,13 @@
             <link>https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-58488046?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-58488046</guid>
             <pubDate>Wed, 08 Sep 2021 16:47:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Attenborough to Climate Assembly: 'You've given me a lot of hope']]></title>
+            <description><![CDATA[Sir David Attenborough met with members in Parliament to discuss action on climate change.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-58495142?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/science-environment-58495142</guid>
+            <pubDate>Wed, 08 Sep 2021 19:08:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Fortnite gamer's mum becomes pro herself]]></title>
@@ -247,14 +254,14 @@
             <pubDate>Wed, 08 Sep 2021 20:36:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Man City lose to Real on aggregate and fail to reach Champions League]]></title>
+            <title><![CDATA[Man City target domestic success after Champions League exit to Real]]></title>
             <description><![CDATA[Manchester City boss Gareth Taylor targets success in domestic competitions after his side's failure to reach the Women's Champions League group stage.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58468779?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58468779</guid>
             <pubDate>Wed, 08 Sep 2021 21:55:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Qualifying for World Cup 2022 - the state of play]]></title>
+            <title><![CDATA[The big names shining & the minnows causing a shock - World Cup qualifying state of play]]></title>
             <description><![CDATA[Who is close to securing their place at next year's World Cup in Qatar? BBC Sport takes a look at the state of play in qualifying as we pass the halfway stage.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58482743?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58482743</guid>
@@ -331,6 +338,27 @@
             <pubDate>Tue, 07 Sep 2021 19:48:31 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid rules: What's changing in Wales, Scotland, England and Northern Ireland?]]></title>
+            <description><![CDATA[Lockdown rules are changing across the UK, but some restrictions remain in place.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-52530518?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/explainers-52530518</guid>
+            <pubDate>Tue, 07 Sep 2021 09:21:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What are the travel rules for Spain, Portugal, Malta and other holiday hotspots?]]></title>
+            <description><![CDATA[What you need to know about going to Portugal, Spain, Greece, France, Malta, Italy and Turkey.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-56997931?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/explainers-56997931</guid>
+            <pubDate>Wed, 08 Sep 2021 16:42:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Back to school: How are pupils being kept Covid-safe?]]></title>
+            <description><![CDATA[Many children are returning to school after the holidays, while Scottish pupils already returned.]]></description>
+            <link>https://www.bbc.co.uk/news/education-51643556?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/education-51643556</guid>
+            <pubDate>Thu, 02 Sep 2021 10:40:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Covid: Will I need a jab and what will university be like this term?]]></title>
             <description><![CDATA[Many Covid restrictions have been lifted for students going to university this term.]]></description>
             <link>https://www.bbc.co.uk/news/explainers-52753913?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -371,13 +399,6 @@
             <link>https://www.bbc.co.uk/news/health-57888429?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/health-57888429</guid>
             <pubDate>Mon, 06 Sep 2021 09:04:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Back to school: How are pupils being kept Covid-safe?]]></title>
-            <description><![CDATA[Many children are returning to school after the holidays, while Scottish pupils already returned.]]></description>
-            <link>https://www.bbc.co.uk/news/education-51643556?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/education-51643556</guid>
-            <pubDate>Thu, 02 Sep 2021 10:40:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: How is furlough changing and when will it end?]]></title>
