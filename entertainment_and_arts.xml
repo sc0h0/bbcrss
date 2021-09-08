@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 08 Sep 2021 07:33:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Sep 2021 07:43:02 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -86,13 +86,6 @@
             <pubDate>Tue, 07 Sep 2021 00:45:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[French film great Jean-Paul Belmondo dies at 88]]></title>
-            <description><![CDATA[Star of Breathless, Jean-Paul Belmondo was one of France's most popular actors.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-11811293?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-11811293</guid>
-            <pubDate>Mon, 06 Sep 2021 14:51:36 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Baby Queen: Meet pop's boldest, sharpest new voice]]></title>
             <description><![CDATA["I have a problem releasing music that doesn't feel significant," says Bella Latham, aka Baby Queen.]]></description>
             <link>https://www.bbc.co.uk/news/entertainment-arts-58462521?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -107,6 +100,13 @@
             <pubDate>Mon, 06 Sep 2021 06:39:57 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The charm of French film great Jean-Paul Belmondo]]></title>
+            <description><![CDATA[Star of Breathless, Jean-Paul Belmondo was one of France's most popular actors.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-11811293?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-11811293</guid>
+            <pubDate>Mon, 06 Sep 2021 14:51:36 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA['An irrepressible and immensely likeable pop star']]></title>
             <description><![CDATA[The late singer was an irrepressible and immensely likeable pop star with a "wild child" reputation.]]></description>
             <link>https://www.bbc.co.uk/news/entertainment-arts-54703955?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -114,18 +114,18 @@
             <pubDate>Sun, 05 Sep 2021 13:17:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Girls Aloud singer Sarah Harding - her life in pictures]]></title>
-            <description><![CDATA[From Popstars: The Rivals to chart-topping, award-winning success and a Celebrity Big Brother win.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-54717608?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-54717608</guid>
-            <pubDate>Sun, 05 Sep 2021 13:23:47 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA['Abba saved 2021' - why the Swedish band have not gone out of fashion]]></title>
             <description><![CDATA[Forty years after their last album, a new generation of fans is hungry for the pop legends' music.]]></description>
             <link>https://www.bbc.co.uk/news/entertainment-arts-58433351?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-58433351</guid>
             <pubDate>Fri, 03 Sep 2021 12:11:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Girls Aloud singer Sarah Harding - her life in pictures]]></title>
+            <description><![CDATA[From Popstars: The Rivals to chart-topping, award-winning success and a Celebrity Big Brother win.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-54717608?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-54717608</guid>
+            <pubDate>Sun, 05 Sep 2021 13:23:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Shang-Chi: Why the MCU's first Asian superhero is empowering change]]></title>
@@ -140,13 +140,6 @@
             <link>https://www.bbc.co.uk/news/entertainment-arts-58423458?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-58423458</guid>
             <pubDate>Thu, 02 Sep 2021 17:00:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bristol's Love Saves the Day and Idles attracts crowds of 60,000]]></title>
-            <description><![CDATA[Bristol's Team Love describe the past 18 months as they plan for 60k people on The Downs this weekend.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-bristol-58398648?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-bristol-58398648</guid>
-            <pubDate>Fri, 03 Sep 2021 05:05:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sarah Harding dies: The Girls Aloud icon's life in video]]></title>
