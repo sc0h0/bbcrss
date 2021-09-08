@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 08 Sep 2021 16:31:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Sep 2021 16:59:37 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -37,6 +37,13 @@
             <pubDate>Wed, 08 Sep 2021 14:20:18 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[What’s blocking public service reform?]]></title>
+            <description><![CDATA[Ten years ago the Christie Report set out a blueprint for Scottish public service reform. Why has it not happened?]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-58490102?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-58490102</guid>
+            <pubDate>Wed, 08 Sep 2021 16:55:21 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[SNP to oppose new health and social care tax]]></title>
             <description><![CDATA[The UK government say the proposals would raise an estimated £1.1bn a year for the Scottish health service.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-scotland-politics-58487834?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -58,25 +65,18 @@
             <pubDate>Wed, 08 Sep 2021 10:08:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid in Scotland: Can in-person GP appointments ever fully return?]]></title>
-            <description><![CDATA[Community doctors say demand is so high they cannot see a complete return to business as usual.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-58481878?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-58481878</guid>
-            <pubDate>Wed, 08 Sep 2021 05:08:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid in Scotland: 'I'm double-vaccinated but can't show the proof']]></title>
-            <description><![CDATA[A woman who got one jab in England and one in Scotland says her vaccine certificate only confirms a single dose.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-58475922?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-58475922</guid>
-            <pubDate>Wed, 08 Sep 2021 05:09:21 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Campbeltown wind turbine factory closes permanently]]></title>
             <description><![CDATA[Owners CS Wind say there are "no prospects of any recovery" in the market for manufacturing wind towers.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-58488135?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-58488135</guid>
             <pubDate>Wed, 08 Sep 2021 13:24:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rail services to return to East Lothian village for first time since 1964]]></title>
+            <description><![CDATA[An original station opened in East Linton in 1846 but the last services stopped 57 years ago.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-58488144?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-58488144</guid>
+            <pubDate>Wed, 08 Sep 2021 16:34:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Motorcyclist, 63, killed in Ayrshire road crash]]></title>
@@ -86,13 +86,6 @@
             <pubDate>Wed, 08 Sep 2021 10:51:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Toddler in hospital after fall from flat window in Barrhead]]></title>
-            <description><![CDATA[The two-year-old is said to be in a stable condition after the fall from a flat in Barrhead.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58484799?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58484799</guid>
-            <pubDate>Wed, 08 Sep 2021 13:13:53 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Care inspectors seek to cancel Lockerbie home's registration]]></title>
             <description><![CDATA[It comes after "serious and significant concerns" were raised over provision at the Lockerbie site.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-south-scotland-58487257?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -100,11 +93,11 @@
             <pubDate>Wed, 08 Sep 2021 14:06:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Inmate, 20, dies at Polmont Young Offenders Institution]]></title>
-            <description><![CDATA[Jack McKenzie died on Friday at Polmont Young Offenders Institution, the Scottish Prison Service confirms.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-58484856?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-58484856</guid>
-            <pubDate>Wed, 08 Sep 2021 05:46:40 GMT</pubDate>
+            <title><![CDATA[Covid in Scotland: 'I'm double-vaccinated but can't show the proof']]></title>
+            <description><![CDATA[A woman who got one jab in England and one in Scotland says her vaccine certificate only confirms a single dose.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-58475922?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-58475922</guid>
+            <pubDate>Wed, 08 Sep 2021 05:09:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid in Scotland: Opposition increasing towards vaccine passports]]></title>
@@ -133,13 +126,6 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-57519070?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-57519070</guid>
             <pubDate>Wed, 01 Sep 2021 17:55:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid in Scotland: When do school pupils have to self-isolate?]]></title>
-            <description><![CDATA[With the virus surging, we re-examine the new isolation rules and ask whether schools can ask pupils to stay at home.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-58381883?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-58381883</guid>
-            <pubDate>Mon, 30 Aug 2021 17:41:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid in Scotland: Is the drive to get young people jabbed working?]]></title>
@@ -175,6 +161,13 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-58473158?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-58473158</guid>
             <pubDate>Tue, 07 Sep 2021 18:30:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid in Scotland: Can in-person GP appointments ever fully return?]]></title>
+            <description><![CDATA[Community doctors say demand is so high they cannot see a complete return to business as usual.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-58481878?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-58481878</guid>
+            <pubDate>Wed, 08 Sep 2021 05:08:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Climate change: Shetland's power struggle between oil and wind]]></title>
