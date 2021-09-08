@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 08 Sep 2021 19:27:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Sep 2021 19:55:24 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -37,13 +37,6 @@
             <pubDate>Wed, 08 Sep 2021 13:29:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Ethiopia's Tigray crisis: Mass graves found - Amhara officials]]></title>
-            <description><![CDATA[The bodies of some 119 civilians are found by local officials - rebel forces deny responsibility.]]></description>
-            <link>https://www.bbc.co.uk/news/world-africa-58487928?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-africa-58487928</guid>
-            <pubDate>Wed, 08 Sep 2021 18:18:29 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Robert E Lee statue: Virginia removes contentious memorial as crowds cheer]]></title>
             <description><![CDATA[The statue became a focal point for the protests following the death of George Floyd last spring.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-58491967?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -58,25 +51,25 @@
             <pubDate>Wed, 08 Sep 2021 16:33:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Israeli troops make arrests over Palestinian prison break]]></title>
-            <description><![CDATA[Several relatives of the six inmates who escaped Gilboa prison are reportedly taken into custody.]]></description>
-            <link>https://www.bbc.co.uk/news/world-middle-east-58489309?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-middle-east-58489309</guid>
-            <pubDate>Wed, 08 Sep 2021 16:08:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Spanish bishop quit for love for erotic writer]]></title>
-            <description><![CDATA[Xavier Novell was a traditional and controversial bishop who resigned for "personal reasons".]]></description>
-            <link>https://www.bbc.co.uk/news/58486790?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/58486790</guid>
-            <pubDate>Wed, 08 Sep 2021 10:48:51 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[West African leaders suspend Guinea from Ecowas following coup]]></title>
             <description><![CDATA[The military junta has released prisoners detained during deposed President Alpha Condé's rule]]></description>
             <link>https://www.bbc.co.uk/news/world-africa-58487925?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-africa-58487925</guid>
             <pubDate>Wed, 08 Sep 2021 18:53:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nxivm sex cult co-founder Nancy Salzman sentenced to prison]]></title>
+            <description><![CDATA[Nancy Salzman will spend 42 months in prison for her role in the "manipulative" New York sex cult.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-58495543?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58495543</guid>
+            <pubDate>Wed, 08 Sep 2021 19:49:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Israeli troops make arrests over Palestinian prison break]]></title>
+            <description><![CDATA[Several relatives of the six inmates who escaped Gilboa prison are reportedly taken into custody.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-58489309?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-middle-east-58489309</guid>
+            <pubDate>Wed, 08 Sep 2021 16:08:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[India: One dead and many missing after boats collide in Assam]]></title>
@@ -86,18 +79,25 @@
             <pubDate>Wed, 08 Sep 2021 16:20:53 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Spanish bishop quit for love for erotic writer]]></title>
+            <description><![CDATA[Xavier Novell was a traditional and controversial bishop who resigned for "personal reasons".]]></description>
+            <link>https://www.bbc.co.uk/news/58486790?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/58486790</guid>
+            <pubDate>Wed, 08 Sep 2021 10:48:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ethiopia's Tigray crisis: Mass graves found - Amhara officials]]></title>
+            <description><![CDATA[The bodies of some 119 civilians are found by local officials - rebel forces deny responsibility.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-58487928?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-africa-58487928</guid>
+            <pubDate>Wed, 08 Sep 2021 18:18:29 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Brazil's Bolsonaro: Only God will remove me from power]]></title>
             <description><![CDATA[With his approval rating at a low, Brazil's leader strikes a defiant note on independence day.]]></description>
             <link>https://www.bbc.co.uk/news/world-latin-america-58479028?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-latin-america-58479028</guid>
             <pubDate>Wed, 08 Sep 2021 10:02:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Denmark tells some migrants to work for benefits]]></title>
-            <description><![CDATA[The prime minister says the new rules are aimed at women from non-Western backgrounds.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58484953?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58484953</guid>
-            <pubDate>Wed, 08 Sep 2021 11:04:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Paris attacks: Historic day of reckoning for night of terror]]></title>
