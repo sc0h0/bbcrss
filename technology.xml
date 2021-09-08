@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 08 Sep 2021 12:58:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Sep 2021 13:21:55 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Twitter tests bigger pictures in timeline]]></title>
+            <description><![CDATA[Twitter's latest test to change its core experience makes photos and videos fill a mobile screen.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-58490048?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/technology-58490048</guid>
+            <pubDate>Wed, 08 Sep 2021 13:15:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Email company under fire over police data handover]]></title>
             <description><![CDATA[The encrypted-email service has just recruited web founder Sir Tim Berners-Lee.]]></description>
@@ -91,13 +98,6 @@
             <link>https://www.bbc.co.uk/news/business-58465954?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58465954</guid>
             <pubDate>Mon, 06 Sep 2021 23:01:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Netflix to continue with BBFC age ratings after successful trial]]></title>
-            <description><![CDATA[The streaming giant and the regulator will work together long term after a successful trial.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-58466154?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-58466154</guid>
-            <pubDate>Tue, 07 Sep 2021 00:18:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Meet Digit, the workplace robot, and other news]]></title>
