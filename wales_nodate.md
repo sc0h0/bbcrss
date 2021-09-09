@@ -24,5 +24,5 @@
 24. [Cwnstabl yn cydnabod 'Pump Caerdydd' fel 'dioddefwyr'](https://www.bbc.co.uk/newyddion/58493881?at_medium=RSS&at_campaign=KARANGA) - Cafodd y pump o ddynion eu carcharu ôl cael eu cyhuddo ar gam o ladd Lynette White yn 1988.
 25. [Annog pobl i 'stopio am funud a meddwl' cyn ffonio 999](https://www.bbc.co.uk/newyddion/58494802?at_medium=RSS&at_campaign=KARANGA) - Mae Mary Davies wedi bod yn ateb galwadau brys ers dros 50 mlynedd, ac mae'r gwaith yn brysurach nag erioed.
 26. [Cofnodi naw marwolaeth Covid a 2,297 achos newydd](https://www.bbc.co.uk/newyddion/58415017?at_medium=RSS&at_campaign=KARANGA) - Mae'r gyfradd achosion fesul 100,000 o bobl dros y saith diwrnod diwethaf wedi codi i dros 500.
-27. [3 Llun: Lluniau pwysicaf bywyd Caryl Parry Jones](https://www.bbc.co.uk/newyddion/58309295?at_medium=RSS&at_campaign=KARANGA) - Y gantores sydd yn rhannu'r lluniau sydd agosaf at ei chalon.
+27. [Sut mae cynaeafu mêl?](https://www.bbc.co.uk/newyddion/58502547?at_medium=RSS&at_campaign=KARANGA) - Carys Edwards o Ganllwyd sy'n ein tywys trwy'r broses.
 28. [Cyhoeddi carfan gref i ddechrau ymgyrch Cwpan y Byd 2023](https://www.bbc.co.uk/newyddion/58500097?at_medium=RSS&at_campaign=KARANGA) - Mae Hannah Cain wedi'i chynnwys am y tro cyntaf ar ôl penderfynu cynrychioli Cymru'n hytrach na Lloegr.

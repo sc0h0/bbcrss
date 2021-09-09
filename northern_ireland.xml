@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 09 Sep 2021 14:20:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Sep 2021 14:32:49 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Brexit: Maros Sefcovic urges politicians to 'dial down' NI Protocol rhetoric]]></title>
+            <description><![CDATA[European Commission vice-president Maros Sefcovic calls for calm as he visits Northern Ireland.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58493841?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58493841</guid>
+            <pubDate>Thu, 09 Sep 2021 14:20:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[NI Protocol: DUP could quit from Stormont 'within weeks']]></title>
             <description><![CDATA[Sir Jeffrey Donaldson also says his party will now boycott most north-south ministerial meetings over the NI Protocol.]]></description>
@@ -79,13 +86,6 @@
             <pubDate>Thu, 09 Sep 2021 08:36:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Brexit: EU's Maros Sefcovic hears views on protocol on NI visit]]></title>
-            <description><![CDATA[The European Commission vice-president is in Newry as he starts a two-day visit to Northern Ireland.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58493841?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58493841</guid>
-            <pubDate>Thu, 09 Sep 2021 12:03:39 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[NI manager Baraclough 'back where he started']]></title>
             <description><![CDATA[It was an international window with a similar narrative throughout for Northern Ireland, but Ian Baraclough knows what his key talking point was.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58496577?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -105,27 +105,6 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58480550?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58480550</guid>
             <pubDate>Wed, 08 Sep 2021 18:09:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sinn Féin selects Pádraig Delargy and Ciara Ferguson as new Foyle MLAs]]></title>
-            <description><![CDATA[They succeed Martina Anderson and Karen Mullan who stood down after a party restructure in Foyle.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58495303?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58495303</guid>
-            <pubDate>Wed, 08 Sep 2021 20:37:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Leona Maguire: 'Incredible' homecoming for star Irish golfer]]></title>
-            <description><![CDATA[County Cavan turns out to welcome home Leona Maguire who helped Europe win the Solheim Cup.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58492675?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58492675</guid>
-            <pubDate>Wed, 08 Sep 2021 21:56:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Social care tax rise: NI MPs vote against tax hike]]></title>
-            <description><![CDATA[However, the government still won Wednesday's vote in the House of Commons by 319 to 248.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58492674?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58492674</guid>
-            <pubDate>Wed, 08 Sep 2021 19:59:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What are Northern Ireland's Covid-19 rules now?]]></title>
@@ -240,6 +219,13 @@
             <pubDate>Wed, 08 Sep 2021 16:32:44 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Sinn Féin selects Pádraig Delargy and Ciara Ferguson as new Foyle MLAs]]></title>
+            <description><![CDATA[They succeed Martina Anderson and Karen Mullan who stood down after a party restructure in Foyle.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58495303?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58495303</guid>
+            <pubDate>Wed, 08 Sep 2021 20:37:57 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Donegal engineering firm to be sold for £1.4bn]]></title>
             <description><![CDATA[E&I Engineering, founded by Derry City chairman Philip O'Doherty, is being sold to a US-based company.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58488998?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -261,11 +247,11 @@
             <pubDate>Tue, 07 Sep 2021 08:29:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Pat Hume: Peacemaker was pure of heart, mourners told]]></title>
-            <description><![CDATA[Mourners gathered for the funeral of the peace campaigner and wife of politician John Hume.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58457093?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58457093</guid>
-            <pubDate>Mon, 06 Sep 2021 14:01:51 GMT</pubDate>
+            <title><![CDATA[Leona Maguire: 'Incredible' homecoming for star Irish golfer]]></title>
+            <description><![CDATA[County Cavan turns out to welcome home Leona Maguire who helped Europe win the Solheim Cup.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58492675?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58492675</guid>
+            <pubDate>Wed, 08 Sep 2021 21:56:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[County Kerry: Criminal investigation launched after three found dead]]></title>

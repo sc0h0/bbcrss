@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 09 Sep 2021 14:19:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Sep 2021 14:32:19 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -30,13 +30,6 @@
             <pubDate>Thu, 09 Sep 2021 14:01:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Rio Ferdinand says football is 'sliding backwards' because of racist abuse online]]></title>
-            <description><![CDATA[Rio Ferdinand says football is "sliding backwards" and racism is being normalised by the prevalence of racist abuse online.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58497685?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58497685</guid>
-            <pubDate>Thu, 09 Sep 2021 13:46:28 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Minister: Doubts continue over Army's troubled Ajax armoured vehicles]]></title>
             <description><![CDATA[The defence ministers tells MPs he hopes noise and vibrations problems can be resolved but gives no deadline.]]></description>
             <link>https://www.bbc.co.uk/news/uk-politics-58502779?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -51,11 +44,25 @@
             <pubDate>Thu, 09 Sep 2021 08:45:47 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Boris Johnson accuses charity of airbrushing Winston Churchill]]></title>
+            <description><![CDATA[His criticism came after the Winston Churchill Memorial Trust renamed itself The Churchill Fellowship.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-58505194?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-politics-58505194</guid>
+            <pubDate>Thu, 09 Sep 2021 14:22:15 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Starmer should be inspired by Biden over workers' rights - TUC leader]]></title>
             <description><![CDATA[Frances O'Grady urges Labour to follow the US president in making workers' rights central to its pitch.]]></description>
             <link>https://www.bbc.co.uk/news/uk-politics-58463491?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-politics-58463491</guid>
             <pubDate>Thu, 09 Sep 2021 00:00:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rio Ferdinand says football is 'sliding backwards' because of racist abuse online]]></title>
+            <description><![CDATA[Rio Ferdinand says football is "sliding backwards" and racism is being normalised by the prevalence of racist abuse online.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58497685?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58497685</guid>
+            <pubDate>Thu, 09 Sep 2021 13:46:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[MSPs to vote on Scottish vaccine passport scheme]]></title>
