@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 09 Sep 2021 18:46:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Sep 2021 19:00:00 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -114,6 +114,13 @@
             <pubDate>Thu, 09 Sep 2021 11:19:46 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Mysterious band tipped to win Mercury prize]]></title>
+            <description><![CDATA[Arlo Parks, Sault and Laura Mvula are the bookmakers' tips to be named album of the year later.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-58499065?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-58499065</guid>
+            <pubDate>Thu, 09 Sep 2021 08:55:04 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Ray-Ban Stories: Facebook reveals its video camera glasses]]></title>
             <description><![CDATA[Facebook and eyewear brand Ray-Ban have revealed a pair of glasses that contain two cameras.]]></description>
             <link>https://www.bbc.co.uk/news/technology-58488235?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -126,13 +133,6 @@
             <link>https://www.bbc.co.uk/news/world-us-canada-58503095?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58503095</guid>
             <pubDate>Thu, 09 Sep 2021 13:49:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mercury Prize: Sault and Arlo Parks among favourites to win album award]]></title>
-            <description><![CDATA[Arlo Parks, Sault and Laura Mvula are the bookmakers' tips to be named album of the year later.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-58499065?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-58499065</guid>
-            <pubDate>Thu, 09 Sep 2021 08:55:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Great Yarmouth and the man who has holidayed there for 75 years]]></title>
@@ -255,10 +255,10 @@
         </item>
         <item>
             <title><![CDATA[India cancel training after fresh Covid case among coaching staff]]></title>
-            <description><![CDATA[India cancel Thursday's optional training session after another positive Covid-19 test result among their coaching staff.]]></description>
+            <description><![CDATA[The fifth Test between England and India is set to go ahead after no further positive Covid-19 tests were returned by the tourists.]]></description>
             <link>https://www.bbc.co.uk/sport/cricket/58500916?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/cricket/58500916</guid>
-            <pubDate>Thu, 09 Sep 2021 13:53:54 GMT</pubDate>
+            <pubDate>Thu, 09 Sep 2021 18:58:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['Too late for a comeback - but I still have that itch' ]]></title>
@@ -273,6 +273,13 @@
             <link>https://www.bbc.co.uk/sport/tennis/58496385?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/58496385</guid>
             <pubDate>Thu, 09 Sep 2021 09:26:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Purists will say it's ridiculous, but boxing is evolving' - Haye, 40, defends comeback]]></title>
+            <description><![CDATA[David Haye believes "boxing is evolving" for the better as he prepares to make his comeback aged 40.]]></description>
+            <link>https://www.bbc.co.uk/sport/boxing/58478985?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/boxing/58478985</guid>
+            <pubDate>Thu, 09 Sep 2021 14:42:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: How do I get the vaccine and will I need a booster?]]></title>
