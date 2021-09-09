@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 09 Sep 2021 04:31:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Sep 2021 04:48:41 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -37,6 +37,13 @@
             <pubDate>Wed, 08 Sep 2021 22:46:54 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Afghanistan: Ex-President Ashraf Ghani apologises for fleeing]]></title>
+            <description><![CDATA[Ashraf Ghani, who has sought refuge in the UAE, says he left Kabul to avoid "horrific" violence.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58496410?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58496410</guid>
+            <pubDate>Thu, 09 Sep 2021 04:16:27 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Climate change: Fossil fuels must stay underground, scientists say]]></title>
             <description><![CDATA[Almost 60% of oil and gas and 90% of coal must stay in the ground to keep global warming below 1.5°C.]]></description>
             <link>https://www.bbc.co.uk/news/science-environment-58494391?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -51,18 +58,18 @@
             <pubDate>Wed, 08 Sep 2021 23:24:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Afghan Special Forces commander faced race against time to flee]]></title>
-            <description><![CDATA[An Afghan Special Forces commander says he owes his life to members of the Parachute Regiment who helped him escape.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58490568?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58490568</guid>
-            <pubDate>Wed, 08 Sep 2021 23:10:45 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Social care tax rise: Boris Johnson wins Commons vote]]></title>
             <description><![CDATA[Boris Johnson wins a House of Commons vote on his plan to increase National Insurance tax.]]></description>
             <link>https://www.bbc.co.uk/news/uk-politics-58492169?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-politics-58492169</guid>
             <pubDate>Wed, 08 Sep 2021 21:45:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: Sydney reveals plan to end months-long lockdown]]></title>
+            <description><![CDATA[Australia's biggest city is likely to exit lockdown from next month, provided vaccinations continue.]]></description>
+            <link>https://www.bbc.co.uk/news/world-australia-58496667?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-australia-58496667</guid>
+            <pubDate>Thu, 09 Sep 2021 03:57:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Theranos founder Elizabeth Holmes 'lied and cheated', trial hears]]></title>
@@ -79,25 +86,18 @@
             <pubDate>Wed, 08 Sep 2021 23:04:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Robert E Lee statue: Virginia removes contentious memorial as crowds cheer]]></title>
-            <description><![CDATA[The statue became a focal point for the protests following the death of George Floyd last spring.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-58491967?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58491967</guid>
-            <pubDate>Thu, 09 Sep 2021 00:16:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Edinburgh sex attacker who raped four women 'checked pulse of victim']]></title>
-            <description><![CDATA[Dillon Anderson raped four young women in a series of attacks, the first when he was 14.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-58493947?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-58493947</guid>
-            <pubDate>Wed, 08 Sep 2021 17:46:19 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Covid: North Macedonia hospital fire kills at least 10]]></title>
             <description><![CDATA[Footage shows a building in flames and clouds of black smoke billowing into the air in the city of Tetovo.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-58496405?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58496405</guid>
             <pubDate>Thu, 09 Sep 2021 04:21:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Robert E Lee statue: Virginia removes contentious memorial as crowds cheer]]></title>
+            <description><![CDATA[The statue became a focal point for the protests following the death of George Floyd last spring.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-58491967?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58491967</guid>
+            <pubDate>Thu, 09 Sep 2021 00:16:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Poland 1-1 England: Three Lions drop their first points in World Cup qualifying]]></title>
@@ -112,6 +112,13 @@
             <link>https://www.bbc.co.uk/news/blogs-the-papers-58495934?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/blogs-the-papers-58495934</guid>
             <pubDate>Wed, 08 Sep 2021 22:30:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Afghan Special Forces commander faced race against time to flee]]></title>
+            <description><![CDATA[An Afghan Special Forces commander says he owes his life to members of the Parachute Regiment who helped him escape.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58490568?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58490568</guid>
+            <pubDate>Wed, 08 Sep 2021 23:10:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Leicestershire sisters on track for Olympic glory]]></title>
