@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 09 Sep 2021 02:46:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Sep 2021 02:56:43 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -30,11 +30,18 @@
             <pubDate>Wed, 08 Sep 2021 22:15:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Social care tax rise: Boris Johnson wins Commons vote]]></title>
-            <description><![CDATA[Boris Johnson wins a House of Commons vote on his plan to increase National Insurance tax.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-58492169?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-politics-58492169</guid>
-            <pubDate>Wed, 08 Sep 2021 21:45:36 GMT</pubDate>
+            <title><![CDATA['My flight home was booked for two weeks ago']]></title>
+            <description><![CDATA[British teenager Emma Raducanu expresses her surprise at her run to the US Open semi-finals, having had flights back to the UK booked a fortnight ago.]]></description>
+            <link>https://www.bbc.co.uk/sport/tennis/58495531?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/58495531</guid>
+            <pubDate>Wed, 08 Sep 2021 22:46:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Climate change: Fossil fuels must stay underground, scientists say]]></title>
+            <description><![CDATA[Almost 60% of oil and gas and 90% of coal must stay in the ground to keep global warming below 1.5°C.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-58494391?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/science-environment-58494391</guid>
+            <pubDate>Wed, 08 Sep 2021 23:03:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Facebook accused of allowing sexist job advertising]]></title>
@@ -51,11 +58,11 @@
             <pubDate>Wed, 08 Sep 2021 23:10:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[British teenager Raducanu reaches US Open semis]]></title>
-            <description><![CDATA[British teenager Emma Raducanu reaches the US Open semi-finals with a superb straight-set win over Swiss 11th seed Belinda Bencic.]]></description>
-            <link>https://www.bbc.co.uk/sport/tennis/58493663?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/58493663</guid>
-            <pubDate>Thu, 09 Sep 2021 01:36:02 GMT</pubDate>
+            <title><![CDATA[Social care tax rise: Boris Johnson wins Commons vote]]></title>
+            <description><![CDATA[Boris Johnson wins a House of Commons vote on his plan to increase National Insurance tax.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-58492169?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-politics-58492169</guid>
+            <pubDate>Wed, 08 Sep 2021 21:45:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Theranos founder Elizabeth Holmes 'lied and cheated', trial hears]]></title>
@@ -63,13 +70,6 @@
             <link>https://www.bbc.co.uk/news/business-58494912?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58494912</guid>
             <pubDate>Wed, 08 Sep 2021 21:01:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Climate change: Fossil fuels must stay underground, scientists say]]></title>
-            <description><![CDATA[Almost 60% of oil and gas and 90% of coal must stay in the ground to keep global warming below 1.5°C.]]></description>
-            <link>https://www.bbc.co.uk/news/science-environment-58494391?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/science-environment-58494391</guid>
-            <pubDate>Wed, 08 Sep 2021 23:03:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[DUP leader Donaldson to issue NI Protocol warning]]></title>
@@ -233,13 +233,6 @@
             <pubDate>Wed, 08 Sep 2021 23:16:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA['I didn't expect to be here' - US Open semi-finalist Raducanu had return flight for fortnight ago]]></title>
-            <description><![CDATA[British teenager Emma Raducanu expresses her surprise at her run to the US Open semi-finals, having had flights back to the UK booked a fortnight ago.]]></description>
-            <link>https://www.bbc.co.uk/sport/tennis/58495531?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/58495531</guid>
-            <pubDate>Wed, 08 Sep 2021 22:46:54 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Poland 1-1 England: Painful final minutes for England but they edge closer to Qatar 2022]]></title>
             <description><![CDATA[England concede late on as their World Cup qualifier with Poland finishes 1-1, but edge closer to Qatar 2022 with the group in their hands.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58492134?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -280,6 +273,13 @@
             <link>https://www.bbc.co.uk/sport/football/58404778?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58404778</guid>
             <pubDate>Wed, 08 Sep 2021 20:41:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Man City target domestic success after Champions League exit to Real]]></title>
+            <description><![CDATA[Manchester City boss Gareth Taylor targets success in domestic competitions after his side's failure to reach the Women's Champions League group stage.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58468779?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58468779</guid>
+            <pubDate>Wed, 08 Sep 2021 21:55:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid rules: What's changing in Wales, Scotland, England and Northern Ireland?]]></title>
