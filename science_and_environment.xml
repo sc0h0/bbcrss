@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 09 Sep 2021 11:23:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Sep 2021 11:32:51 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -21,6 +21,13 @@
             <link>https://www.bbc.co.uk/news/science-environment-58494391?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/science-environment-58494391</guid>
             <pubDate>Wed, 08 Sep 2021 23:03:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[UK 'cut climate pledges' to clinch Australia trade deal]]></title>
+            <description><![CDATA[Government ministers agreed to cut climate commitments to clinch the deal it has emerged.]]></description>
+            <link>https://www.bbc.co.uk/news/business-58493481?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58493481</guid>
+            <pubDate>Wed, 08 Sep 2021 23:06:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[International Space Station: Smoke triggers alert on board]]></title>
@@ -58,39 +65,11 @@
             <pubDate>Sun, 05 Sep 2021 23:03:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Saving Australian frog species on the brink of extinction]]></title>
-            <description><![CDATA[Scientists fear four species are already extinct but say urgent action can save others.]]></description>
-            <link>https://www.bbc.co.uk/news/world-australia-58419552?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-australia-58419552</guid>
-            <pubDate>Sun, 05 Sep 2021 23:07:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tuna bounce back, but sharks in 'desperate' decline]]></title>
-            <description><![CDATA[Extinction list update reveals mixed news for marine life, as world conservation summit open in France.]]></description>
-            <link>https://www.bbc.co.uk/news/science-environment-58441142?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/science-environment-58441142</guid>
-            <pubDate>Sat, 04 Sep 2021 13:20:57 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Climate change: Arctic warming linked to colder winters]]></title>
             <description><![CDATA[A new study connects the heating of the Arctic region to extreme winter weather in the US.]]></description>
             <link>https://www.bbc.co.uk/news/science-environment-58425526?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/science-environment-58425526</guid>
             <pubDate>Thu, 02 Sep 2021 21:50:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Paddle boarder's close encounter with two curious whales]]></title>
-            <description><![CDATA[A drone filmed what the paddle boarder, out on the water on her birthday, calls a "magical moment".]]></description>
-            <link>https://www.bbc.co.uk/news/world-latin-america-58430264?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-latin-america-58430264</guid>
-            <pubDate>Thu, 02 Sep 2021 23:27:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Breeding seabird numbers in Scotland almost halved since 1980s]]></title>
-            <description><![CDATA[A new study by NatureScot looked at 11 species of breeding birds in Scotland over the last 35 years.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-tayside-central-58414580?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-tayside-central-58414580</guid>
-            <pubDate>Fri, 03 Sep 2021 11:40:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Then and now: Why deforestation is such a hot topic]]></title>
@@ -142,13 +121,6 @@
             <pubDate>Thu, 26 Aug 2021 23:09:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[International Space Station facing irreparable failures, Russia warns]]></title>
-            <description><![CDATA[The majority of in-flight systems on the ISS have passed their expiry date, an official warns.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58408911?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58408911</guid>
-            <pubDate>Wed, 01 Sep 2021 12:45:36 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Pulsar discoverer awarded Royal Society's highest prize]]></title>
             <description><![CDATA[Astrophysicist Dame Jocelyn Bell Burnell is only the second woman to be awarded the Copley Medal.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58318024?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -177,11 +149,25 @@
             <pubDate>Tue, 03 Aug 2021 09:20:12 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Saving Australian frog species on the brink of extinction]]></title>
+            <description><![CDATA[Scientists fear four species are already extinct but say urgent action can save others.]]></description>
+            <link>https://www.bbc.co.uk/news/world-australia-58419552?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-australia-58419552</guid>
+            <pubDate>Sun, 05 Sep 2021 23:07:52 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Spider season: Why your home might feel full of arachnids right now]]></title>
             <description><![CDATA[They're not coming through the windows - they were already inside.]]></description>
             <link>https://www.bbc.co.uk/news/newsbeat-49730011?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/newsbeat-49730011</guid>
             <pubDate>Mon, 06 Sep 2021 08:34:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tuna bounce back, but sharks in 'desperate' decline]]></title>
+            <description><![CDATA[Extinction list update reveals mixed news for marine life, as world conservation summit open in France.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-58441142?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/science-environment-58441142</guid>
+            <pubDate>Sat, 04 Sep 2021 13:20:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Wildlife photo: Is this the world's most beautiful mosquito?]]></title>
@@ -217,13 +203,6 @@
             <link>https://www.bbc.co.uk/news/world-europe-58362752?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58362752</guid>
             <pubDate>Fri, 27 Aug 2021 18:04:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid origin: US spy agencies publish 'inconclusive' report]]></title>
-            <description><![CDATA[The office that oversees US spy agencies could not establish how the coronavirus pandemic began.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-58361211?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58361211</guid>
-            <pubDate>Fri, 27 Aug 2021 20:55:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
