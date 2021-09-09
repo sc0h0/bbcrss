@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 09 Sep 2021 13:16:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Sep 2021 13:32:43 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -30,11 +30,18 @@
             <pubDate>Thu, 09 Sep 2021 12:44:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Derbyshire boy's racist group included terrorism plot member]]></title>
+            <description><![CDATA[The teenager ran the right-wing extremist group when he was 14 on an encrypted app, a court hears.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-derbyshire-58504074?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-derbyshire-58504074</guid>
+            <pubDate>Thu, 09 Sep 2021 13:27:26 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Cressida Dick: Prime minister urged to replace Met Police commissioner]]></title>
-            <description><![CDATA[Paul Gambaccini and the brother of murdered investigator Daniel Morgan are among those demanding change.]]></description>
+            <description><![CDATA[Paul Gambaccini and brother of murdered investigator Daniel Morgan are among those demanding change.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-london-58490698?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-london-58490698</guid>
-            <pubDate>Thu, 09 Sep 2021 12:01:17 GMT</pubDate>
+            <pubDate>Thu, 09 Sep 2021 13:30:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Kidnapper dubbed 'every woman's nightmare' jailed]]></title>
@@ -79,13 +86,6 @@
             <pubDate>Thu, 09 Sep 2021 11:10:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tottenham Hotspur Stadium wins RIBA architecture prize]]></title>
-            <description><![CDATA[The arena is a "tour de force in stadium design", the Royal Institute of British Architects says.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-london-58499897?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-london-58499897</guid>
-            <pubDate>Thu, 09 Sep 2021 10:48:42 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Richard Dunn: Boxer's family sent rare fight footage after appeal]]></title>
             <description><![CDATA[Richard Dunn's relatives are able to replay his European title victory after rare footage is found.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-58501497?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -128,6 +128,13 @@
             <pubDate>Wed, 08 Sep 2021 17:04:42 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Tottenham Hotspur Stadium wins RIBA architecture prize]]></title>
+            <description><![CDATA[The arena is a "tour de force in stadium design", the Royal Institute of British Architects says.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-58499897?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-london-58499897</guid>
+            <pubDate>Thu, 09 Sep 2021 10:48:42 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Eden Project North: Plans for £125m project submitted]]></title>
             <description><![CDATA[The application is the latest milestone for the £125m project on Morecambe Bay's seafront.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-lancashire-58497950?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -149,18 +156,18 @@
             <pubDate>Thu, 09 Sep 2021 06:26:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA['Unbelievable' Only Fools legacy lives on]]></title>
-            <description><![CDATA[John Challis, who played Boycie, said it was "amazing" the show was finding new fans 40 years on.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-bristol-58495222?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-bristol-58495222</guid>
-            <pubDate>Thu, 09 Sep 2021 05:25:55 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Global Teacher Prize: Two teachers in England up for $1m award]]></title>
             <description><![CDATA[Teachers from Liverpool and Sevenoaks are in the last 50 in the hunt for the world's best teacher.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-58499137?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-58499137</guid>
             <pubDate>Thu, 09 Sep 2021 10:01:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Unbelievable' Only Fools legacy lives on]]></title>
+            <description><![CDATA[John Challis, who played Boycie, said it was "amazing" the show was finding new fans 40 years on.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-bristol-58495222?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-bristol-58495222</guid>
+            <pubDate>Thu, 09 Sep 2021 05:25:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Emma Raducanu shock at reaching US Open semi-finals in New York]]></title>

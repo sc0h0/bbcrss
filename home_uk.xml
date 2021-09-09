@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 09 Sep 2021 13:23:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Sep 2021 13:40:00 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -24,10 +24,10 @@
         </item>
         <item>
             <title><![CDATA[Cressida Dick: Prime minister urged to replace Met Police commissioner]]></title>
-            <description><![CDATA[Paul Gambaccini and the brother of murdered investigator Daniel Morgan are among those demanding change.]]></description>
+            <description><![CDATA[Paul Gambaccini and brother of murdered investigator Daniel Morgan are among those demanding change.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-london-58490698?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-london-58490698</guid>
-            <pubDate>Thu, 09 Sep 2021 12:01:17 GMT</pubDate>
+            <pubDate>Thu, 09 Sep 2021 13:30:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Channel crossings: Migrant boats could be turned back in new UK move]]></title>
@@ -58,13 +58,6 @@
             <pubDate>Thu, 09 Sep 2021 11:39:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Minister: Doubts continue over Army's troubled Ajax armoured vehicles]]></title>
-            <description><![CDATA[The defence ministers tells MPs he hopes noise and vibrations problems can be resolved but gives no deadline.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-58502779?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-politics-58502779</guid>
-            <pubDate>Thu, 09 Sep 2021 12:45:13 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Bristol petrol station siege: Man arrested and another injured]]></title>
             <description><![CDATA[Staff are seen fleeing to a safe room and loud bangs are heard in the stand-off in Bristol.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-bristol-58500077?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -72,11 +65,18 @@
             <pubDate>Thu, 09 Sep 2021 12:44:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Three brings in EU roaming charges and ends global scheme]]></title>
-            <description><![CDATA[Three is the third UK network to bring back roaming charges for the EU post-Brexit.]]></description>
-            <link>https://www.bbc.co.uk/news/technology-58501527?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/technology-58501527</guid>
-            <pubDate>Thu, 09 Sep 2021 10:05:44 GMT</pubDate>
+            <title><![CDATA[Costa gives 5% pay rise to some staff and recruits 2,000]]></title>
+            <description><![CDATA[Costa said the 5% pay rise was to reward 14,500 staff for their hard work during the pandemic.]]></description>
+            <link>https://www.bbc.co.uk/news/business-58504123?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58504123</guid>
+            <pubDate>Thu, 09 Sep 2021 13:16:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: Pfizer and AstraZeneca approved as booster vaccines]]></title>
+            <description><![CDATA[The UK regulator's decision paves the way for a rollout ahead of winter to millions of people.]]></description>
+            <link>https://www.bbc.co.uk/news/health-58499863?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/health-58499863</guid>
+            <pubDate>Thu, 09 Sep 2021 13:16:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[London transport staff warned of anti-vaccination posters with razor blades]]></title>
@@ -86,11 +86,11 @@
             <pubDate>Thu, 09 Sep 2021 13:03:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[PayPal raises fees between UK and Europe]]></title>
-            <description><![CDATA[PayPal is bringing in a new fee for commercial transactions between the UK and EEA.]]></description>
-            <link>https://www.bbc.co.uk/news/technology-58492953?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/technology-58492953</guid>
-            <pubDate>Thu, 09 Sep 2021 10:50:18 GMT</pubDate>
+            <title><![CDATA[Minister: Doubts continue over Army's troubled Ajax armoured vehicles]]></title>
+            <description><![CDATA[The defence ministers tells MPs he hopes noise and vibrations problems can be resolved but gives no deadline.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-58502779?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-politics-58502779</guid>
+            <pubDate>Thu, 09 Sep 2021 12:45:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Mercury Prize: Sault and Arlo Parks among favourites to win album award]]></title>
@@ -98,6 +98,13 @@
             <link>https://www.bbc.co.uk/news/entertainment-arts-58499065?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-58499065</guid>
             <pubDate>Thu, 09 Sep 2021 08:55:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rio Ferdinand: 'I have to explain the monkey emoji to my kids']]></title>
+            <description><![CDATA[Former England footballer Rio Ferdinand tells MPs about his experience of online hate and racism.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-58503093?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58503093</guid>
+            <pubDate>Thu, 09 Sep 2021 11:19:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Great Yarmouth and the man who has holidayed there for 75 years]]></title>
@@ -108,7 +115,7 @@
         </item>
         <item>
             <title><![CDATA[McDonald's plant burger launch late to vegan party]]></title>
-            <description><![CDATA[The chain announced its McPlant burger would be on offer nationwide next year, after years of research.]]></description>
+            <description><![CDATA[The chain announces its McPlant burger will be on offer nationwide next year, after years of research.]]></description>
             <link>https://www.bbc.co.uk/news/business-58498859?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58498859</guid>
             <pubDate>Thu, 09 Sep 2021 12:46:25 GMT</pubDate>
@@ -261,18 +268,18 @@
             <pubDate>Thu, 09 Sep 2021 09:26:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA['Why disrupt it?' Southgate on lack of substitutions before Poland equaliser]]></title>
-            <description><![CDATA[Boss Gareth Southgate did not make any substitutions before Poland's late equaliser in their World Cup qualifier as he felt confident England were in control.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58496177?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58496177</guid>
-            <pubDate>Wed, 08 Sep 2021 23:11:51 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[India cancel training after fresh Covid case among coaching staff]]></title>
             <description><![CDATA[India cancel Thursday's optional training session after another positive Covid-19 test result among their coaching staff.]]></description>
             <link>https://www.bbc.co.uk/sport/cricket/58500916?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/cricket/58500916</guid>
             <pubDate>Thu, 09 Sep 2021 12:50:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Why disrupt it?' Southgate on lack of substitutions before Poland equaliser]]></title>
+            <description><![CDATA[Boss Gareth Southgate did not make any substitutions before Poland's late equaliser in their World Cup qualifier as he felt confident England were in control.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58496177?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58496177</guid>
+            <pubDate>Wed, 08 Sep 2021 23:11:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['Too late for a comeback - but I still have that itch' ]]></title>
