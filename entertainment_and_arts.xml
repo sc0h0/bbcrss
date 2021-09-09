@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 09 Sep 2021 18:32:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Sep 2021 18:46:36 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -128,6 +128,13 @@
             <pubDate>Thu, 09 Sep 2021 13:44:12 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The rapper giving away school uniforms to kids on free school meals]]></title>
+            <description><![CDATA[Inspired by Marcus Rashford, Jords has donated over 100 blazers to children on free school meals.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-58494041?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-london-58494041</guid>
+            <pubDate>Thu, 09 Sep 2021 12:23:38 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[JLS comeback: 'The energy is still there']]></title>
             <description><![CDATA[The hit boy band tell Radio 1 Newsbeat why they're back after an eight-year break.]]></description>
             <link>https://www.bbc.co.uk/news/newsbeat-58466089?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -154,13 +161,6 @@
             <link>https://www.bbc.co.uk/news/entertainment-arts-58428407?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-58428407</guid>
             <pubDate>Thu, 02 Sep 2021 17:06:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Piers Morgan speaks after Ofcom clears ITV over Meghan comments]]></title>
-            <description><![CDATA[Piers Morgan has spoken out after Ofcom cleared ITV over his criticism of Meghan Markle on Good Morning Britain.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-58415588?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-58415588</guid>
-            <pubDate>Wed, 01 Sep 2021 19:37:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
