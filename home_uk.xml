@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 09 Sep 2021 10:31:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Sep 2021 10:41:25 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -23,6 +23,13 @@
             <pubDate>Thu, 09 Sep 2021 10:00:17 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Cressida Dick: Prime minister urged to replace Met Police commissioner]]></title>
+            <description><![CDATA[Paul Gambaccini and the brother of murdered reporter Daniel Jones are among those demanding change.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-58490698?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-london-58490698</guid>
+            <pubDate>Thu, 09 Sep 2021 10:20:15 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Channel crossings: Migrant boats could be turned back in new UK move]]></title>
             <description><![CDATA[Border Force officials would be able to use the new tactic but only in limited circumstances.]]></description>
             <link>https://www.bbc.co.uk/news/uk-58495948?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -30,11 +37,11 @@
             <pubDate>Thu, 09 Sep 2021 10:09:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Cressida Dick: Prime minister urged to replace Met Police commissioner]]></title>
-            <description><![CDATA[Paul Gambaccini and the brother of murdered reporter Daniel Jones are among those demanding change.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-london-58490698?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-london-58490698</guid>
-            <pubDate>Thu, 09 Sep 2021 10:20:15 GMT</pubDate>
+            <title><![CDATA[Long waits for ambulances continue in England]]></title>
+            <description><![CDATA[It took an average of more than eight minutes to respond to urgent call-outs, NHS figures show.]]></description>
+            <link>https://www.bbc.co.uk/news/health-58499857?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/health-58499857</guid>
+            <pubDate>Thu, 09 Sep 2021 10:27:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Afghanistan: Protesters defy Taliban intimidation]]></title>
@@ -65,18 +72,11 @@
             <pubDate>Thu, 09 Sep 2021 08:21:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Bristol petrol station siege: One person injured]]></title>
+            <title><![CDATA[Bristol petrol station siege: Man arrested as another injured]]></title>
             <description><![CDATA[Staff are seen fleeing to a safe room and loud bangs are heard in the stand-off in Bristol.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-bristol-58500077?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-bristol-58500077</guid>
             <pubDate>Thu, 09 Sep 2021 10:24:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['My flight home was booked for two weeks ago']]></title>
-            <description><![CDATA[British teenager Emma Raducanu expresses her surprise at her run to the US Open semi-finals, having had flights back to the UK booked a fortnight ago.]]></description>
-            <link>https://www.bbc.co.uk/sport/tennis/58495531?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/58495531</guid>
-            <pubDate>Wed, 08 Sep 2021 22:46:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Mercury Prize: Sault and Arlo Parks among favourites to win album award]]></title>
@@ -86,11 +86,11 @@
             <pubDate>Thu, 09 Sep 2021 08:55:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The papers: Tax sparks spending concern and migrant-row anger]]></title>
-            <description><![CDATA[Health and social care reform as well as a dispute with France over migrant crossings lead the papers.]]></description>
-            <link>https://www.bbc.co.uk/news/blogs-the-papers-58495934?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/blogs-the-papers-58495934</guid>
-            <pubDate>Thu, 09 Sep 2021 04:54:24 GMT</pubDate>
+            <title><![CDATA['My flight home was booked for two weeks ago']]></title>
+            <description><![CDATA[British teenager Emma Raducanu expresses her surprise at her run to the US Open semi-finals, having had flights back to the UK booked a fortnight ago.]]></description>
+            <link>https://www.bbc.co.uk/sport/tennis/58495531?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/58495531</guid>
+            <pubDate>Wed, 08 Sep 2021 22:46:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Afghan Special Forces commander faced race against time to flee]]></title>
@@ -119,6 +119,13 @@
             <link>https://www.bbc.co.uk/news/world-africa-58492598?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-africa-58492598</guid>
             <pubDate>Wed, 08 Sep 2021 23:09:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The papers: Tax sparks spending concern and migrant-row anger]]></title>
+            <description><![CDATA[Health and social care reform as well as a dispute with France over migrant crossings lead the papers.]]></description>
+            <link>https://www.bbc.co.uk/news/blogs-the-papers-58495934?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/blogs-the-papers-58495934</guid>
+            <pubDate>Thu, 09 Sep 2021 04:54:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Terry Abraham looks back on his Life of a Mountain trilogy]]></title>
@@ -254,11 +261,18 @@
             <pubDate>Thu, 09 Sep 2021 08:35:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid rules: What's changing in Wales, Scotland, England and Northern Ireland?]]></title>
-            <description><![CDATA[Lockdown rules are changing across the UK, but some restrictions remain in place.]]></description>
-            <link>https://www.bbc.co.uk/news/explainers-52530518?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/explainers-52530518</guid>
-            <pubDate>Tue, 07 Sep 2021 09:21:37 GMT</pubDate>
+            <title><![CDATA[Covid: How do I get the vaccine and will I need a booster?]]></title>
+            <description><![CDATA[A third dose is being offered to up to half a million people in the UK with weakened immune systems.]]></description>
+            <link>https://www.bbc.co.uk/news/health-55045639?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/health-55045639</guid>
+            <pubDate>Thu, 09 Sep 2021 08:53:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid passports: Will I need one for nightclubs, concerts and festivals?]]></title>
+            <description><![CDATA[People in Scotland may need to be fully vaccinated to go to nightclubs, sporting events and concerts.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-55718553?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/explainers-55718553</guid>
+            <pubDate>Thu, 09 Sep 2021 09:38:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What are the travel rules for Spain, Portugal, Malta and other holiday hotspots?]]></title>
@@ -282,13 +296,6 @@
             <pubDate>Mon, 06 Sep 2021 11:38:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid passports: Will I need one for nightclubs, concerts and festivals?]]></title>
-            <description><![CDATA[People in Scotland may need to be fully vaccinated to go to nightclubs, sporting events and concerts.]]></description>
-            <link>https://www.bbc.co.uk/news/explainers-55718553?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/explainers-55718553</guid>
-            <pubDate>Thu, 09 Sep 2021 09:38:46 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Covid-19 in the UK: How many coronavirus cases are there in my area?]]></title>
             <description><![CDATA[Explore the data on coronavirus in the UK and find out how many cases there are in your area.]]></description>
             <link>https://www.bbc.co.uk/news/uk-51768274?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -301,6 +308,13 @@
             <link>https://www.bbc.co.uk/news/health-55274833?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/health-55274833</guid>
             <pubDate>Tue, 07 Sep 2021 15:52:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid rules: What's changing in Wales, Scotland, England and Northern Ireland?]]></title>
+            <description><![CDATA[Lockdown rules are changing across the UK, but some restrictions remain in place.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-52530518?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/explainers-52530518</guid>
+            <pubDate>Tue, 07 Sep 2021 09:21:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Universal credit: When will the £20 increase stop?]]></title>
