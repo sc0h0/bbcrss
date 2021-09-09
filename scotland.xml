@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 09 Sep 2021 12:29:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Sep 2021 13:00:41 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -233,6 +233,13 @@
             <pubDate>Wed, 08 Sep 2021 18:51:16 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Vaccine passports: Scottish football fans group 'concerned' some supporters excluded]]></title>
+            <description><![CDATA[A Scottish fans group are "concerned" that introducing Covid-19 vaccine certification for football matches will exclude some supporters from games.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58503213?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58503213</guid>
+            <pubDate>Thu, 09 Sep 2021 12:33:18 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[St Johnstone: What now for cup double winners after Kerr & McCann departures?]]></title>
             <description><![CDATA[Can St Johnstone cope with the loss of key players Jason Kerr and Ali McCann as they bid to live up to the highs of last season?]]></description>
             <link>https://www.bbc.co.uk/sport/football/58426475?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -245,13 +252,6 @@
             <link>https://www.bbc.co.uk/sport/football/58498312?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58498312</guid>
             <pubDate>Thu, 09 Sep 2021 06:45:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Austria 0-1 Scotland: 'Mood shifts with World Cup destiny in Steve Clarke's side's hands']]></title>
-            <description><![CDATA[Winning in Austria has not only put Scotland in control of their World Cup hopes, it has altered perceptions too, writes Tom English.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58488393?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58488393</guid>
-            <pubDate>Wed, 08 Sep 2021 12:36:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
