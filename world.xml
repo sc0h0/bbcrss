@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 09 Sep 2021 03:07:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Sep 2021 03:44:06 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -23,18 +23,18 @@
             <pubDate>Wed, 08 Sep 2021 21:01:30 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[China offers $31m in emergency aid to Afghanistan]]></title>
+            <description><![CDATA[Taliban officials had earlier described China as Afghanistan's most important partner.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-china-58496867?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-china-58496867</guid>
+            <pubDate>Thu, 09 Sep 2021 03:25:08 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Paris attacks 2015: Accused complains of conditions]]></title>
             <description><![CDATA[Salah Abdeslam and 19 other defendants are accused of involvement in France's worst post-WWII attack.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-58486391?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58486391</guid>
             <pubDate>Wed, 08 Sep 2021 19:26:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Afghanistan: A new order begins under the Taliban's governance]]></title>
-            <description><![CDATA[The Taliban's new ministers have taken office - but are they any different this time around?]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58495112?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58495112</guid>
-            <pubDate>Wed, 08 Sep 2021 20:08:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: North Macedonia hospital fire kills at least 10]]></title>
@@ -170,6 +170,13 @@
             <pubDate>Mon, 06 Sep 2021 23:13:55 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Afghanistan: A new order begins under the Taliban's governance]]></title>
+            <description><![CDATA[The Taliban's new ministers have taken office - but are they any different this time around?]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58495112?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58495112</guid>
+            <pubDate>Wed, 08 Sep 2021 20:08:53 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Afghanistan: Could Pakistani drones hit the Panjshir Valley?]]></title>
             <description><![CDATA[There are claims that Pakistan has used drones against anti-Taliban forces in Afghanistan.]]></description>
             <link>https://www.bbc.co.uk/news/58480299?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -196,13 +203,6 @@
             <link>https://www.bbc.co.uk/news/world-asia-58466939?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58466939</guid>
             <pubDate>Mon, 06 Sep 2021 15:12:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Afghanistan: The pledge binding al-Qaeda to the Taliban]]></title>
-            <description><![CDATA[The history of the complex relationship between the two groups.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58473574?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58473574</guid>
-            <pubDate>Tue, 07 Sep 2021 10:02:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
