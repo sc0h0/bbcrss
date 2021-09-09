@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 09 Sep 2021 22:17:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Sep 2021 22:34:50 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -100,18 +100,18 @@
             <pubDate>Wed, 08 Sep 2021 14:24:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid in Scotland: 'I'm double-vaccinated but can't show the proof']]></title>
-            <description><![CDATA[A woman who got one jab in England and one in Scotland says her vaccine certificate only confirms a single dose.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-58475922?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-58475922</guid>
-            <pubDate>Wed, 08 Sep 2021 05:09:21 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Covid in Scotland: Where are the latest cases?]]></title>
             <description><![CDATA[A daily update on the number and location of coronavirus cases in Scotland.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-53511877?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-53511877</guid>
             <pubDate>Thu, 09 Sep 2021 14:10:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid in Scotland: 'I'm double-vaccinated but can't show the proof']]></title>
+            <description><![CDATA[A woman who got one jab in England and one in Scotland says her vaccine certificate only confirms a single dose.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-58475922?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-58475922</guid>
+            <pubDate>Wed, 08 Sep 2021 05:09:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why vaccinating all teens is a difficult decision]]></title>
