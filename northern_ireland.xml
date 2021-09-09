@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 09 Sep 2021 05:29:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Sep 2021 05:43:23 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -30,6 +30,13 @@
             <pubDate>Thu, 09 Sep 2021 05:26:40 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Queen's offers students £1,500 not to take up university accommodation]]></title>
+            <description><![CDATA[The university says it is taking the action due to "unprecedented" demand for rooms in its halls.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58494206?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58494206</guid>
+            <pubDate>Thu, 09 Sep 2021 05:40:29 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Public Health Agency to take over contact tracing in schools]]></title>
             <description><![CDATA[Principals' representatives and teaching unions are expected to be consulted on the plan later.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58464304?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -44,13 +51,6 @@
             <pubDate>Wed, 08 Sep 2021 12:48:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid-19: NI records six coronavirus-linked deaths, 1,210 cases]]></title>
-            <description><![CDATA[The total number of deaths linked to coronavirus in NI since the start of the pandemic is 2,430.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58492668?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58492668</guid>
-            <pubDate>Wed, 08 Sep 2021 17:19:31 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[World Cup qualifying: Northern Ireland held to goalless draw by Switzerland]]></title>
             <description><![CDATA[Goalkeeper Bailey Peacock-Farrell saves another penalty as Northern Ireland are held to a goalless draw by Switzerland in their World Cup qualifier.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58404778?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -63,13 +63,6 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58480550?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58480550</guid>
             <pubDate>Wed, 08 Sep 2021 18:09:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cancer nurse 'became my surrogate family during lockdown']]></title>
-            <description><![CDATA[A woman diagnosed with cancer tells of the benefits of having a clinical nurse specialist to support her.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58494461?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58494461</guid>
-            <pubDate>Wed, 08 Sep 2021 16:32:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sinn Féin selects Pádraig Delargy and Ciara Ferguson as new Foyle MLAs]]></title>
@@ -114,6 +107,13 @@
             <pubDate>Wed, 08 Sep 2021 12:03:20 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid-19: NI records six coronavirus-linked deaths, 1,210 cases]]></title>
+            <description><![CDATA[The total number of deaths linked to coronavirus in NI since the start of the pandemic is 2,430.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58492668?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58492668</guid>
+            <pubDate>Wed, 08 Sep 2021 17:19:31 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[What are Northern Ireland's Covid-19 rules now?]]></title>
             <description><![CDATA[How do restrictions here compare to other parts of the UK and the Republic of Ireland?]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58175159?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -135,13 +135,6 @@
             <pubDate>Mon, 06 Sep 2021 18:21:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid-19: Some schools 'not following pupils close contact advice']]></title>
-            <description><![CDATA[A teachers' organisation says there are concerns the guidance could lead to more Covid cases.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58457095?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58457095</guid>
-            <pubDate>Sun, 05 Sep 2021 19:19:31 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Covid-19: Nisra records highest weekly death toll since February]]></title>
             <description><![CDATA[Covid-19 is mentioned on the death certificates of 53 people in the week leading up to 27 August.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58431986?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -160,7 +153,7 @@
             <description><![CDATA[The weather forecast in Northern Ireland.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-26018439?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-26018439</guid>
-            <pubDate>Wed, 08 Sep 2021 16:10:08 GMT</pubDate>
+            <pubDate>Thu, 09 Sep 2021 05:34:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Holy Cross dispute: The terror and the trauma recalled 20 years on]]></title>
@@ -198,18 +191,18 @@
             <pubDate>Wed, 08 Sep 2021 06:55:27 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Cancer nurse 'became my surrogate family during lockdown']]></title>
+            <description><![CDATA[A woman diagnosed with cancer tells of the benefits of having a clinical nurse specialist to support her.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58494461?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58494461</guid>
+            <pubDate>Wed, 08 Sep 2021 16:32:44 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Universal Credit: 'I'm living hand-to-mouth']]></title>
             <description><![CDATA[Megan Potts from Bangor in County Down says she is already living "hand-to-mouth" on Universal Credit.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58478878?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58478878</guid>
             <pubDate>Tue, 07 Sep 2021 13:26:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid-19: 'Without the vaccine we would have been on our knees']]></title>
-            <description><![CDATA[BBC News NI is given access to Belfast City Hospital's intensive care unit, where a consultant warns the system is "one step from chaos".]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58475238?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58475238</guid>
-            <pubDate>Tue, 07 Sep 2021 09:33:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Donegal engineering firm to be sold for £1.4bn]]></title>
