@@ -11,23 +11,23 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 09 Sep 2021 16:37:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Sep 2021 17:01:14 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Scotland to launch vaccine passports on 1 October]]></title>
+            <description><![CDATA[Plans to only allow fully vaccinated people into nightclubs and other large events are approved by MSPs.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-scotland-politics-58506013?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-scotland-politics-58506013</guid>
+            <pubDate>Thu, 09 Sep 2021 16:52:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Cawston Park: Vulnerable patient deaths prompt hospitals warning]]></title>
             <description><![CDATA[A series of failings was found in the care offered to three adults with learning disabilities.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-norfolk-58466839?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-norfolk-58466839</guid>
             <pubDate>Thu, 09 Sep 2021 15:39:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Channel crossings: France and UK clash over Border Force tactic plans]]></title>
-            <description><![CDATA[France says turning boats away would break maritime law, but No 10 says all its actions are legal.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58504016?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58504016</guid>
-            <pubDate>Thu, 09 Sep 2021 15:42:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Afghanistan: Journalists tell of beatings by Taliban]]></title>
@@ -42,6 +42,13 @@
             <link>https://www.bbc.co.uk/news/uk-58503093?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58503093</guid>
             <pubDate>Thu, 09 Sep 2021 11:19:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Channel crossings: France and UK clash over Border Force tactic plans]]></title>
+            <description><![CDATA[France says turning boats away would break maritime law, but No 10 says all its actions are legal.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-58504016?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58504016</guid>
+            <pubDate>Thu, 09 Sep 2021 15:42:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Boris Johnson accuses charity of airbrushing Winston Churchill]]></title>
@@ -77,13 +84,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-tyne-58499963?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-tyne-58499963</guid>
             <pubDate>Thu, 09 Sep 2021 16:17:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: Pfizer and AstraZeneca approved as booster vaccines]]></title>
-            <description><![CDATA[The UK regulator's decision paves the way for a rollout ahead of winter to millions of people.]]></description>
-            <link>https://www.bbc.co.uk/news/health-58499863?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/health-58499863</guid>
-            <pubDate>Thu, 09 Sep 2021 13:39:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Costa gives 5% pay rise to some staff and recruits 2,000]]></title>
@@ -252,13 +252,6 @@
             <link>https://www.bbc.co.uk/sport/boxing/58478985?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/boxing/58478985</guid>
             <pubDate>Thu, 09 Sep 2021 14:42:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why is Ronaldo's Man Utd return not on UK TV?]]></title>
-            <description><![CDATA[Cristiano Ronaldo's return to English football will not be broadcast on UK TV - and here is why.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58503185?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58503185</guid>
-            <pubDate>Thu, 09 Sep 2021 15:24:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: How do I get the vaccine and will I need a booster?]]></title>

@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 09 Sep 2021 16:34:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Sep 2021 17:02:01 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Scotland to launch vaccine passports on 1 October]]></title>
+            <description><![CDATA[Plans to only allow fully vaccinated people into nightclubs and other large events are approved by MSPs.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-scotland-politics-58506013?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-scotland-politics-58506013</guid>
+            <pubDate>Thu, 09 Sep 2021 16:52:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Covid in Scotland: Where are the latest cases?]]></title>
             <description><![CDATA[A daily update on the number and location of coronavirus cases in Scotland.]]></description>
@@ -65,20 +72,6 @@
             <pubDate>Thu, 09 Sep 2021 13:02:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid in Scotland: Surge in cases 'may be slowing down']]></title>
-            <description><![CDATA[The first minister says the country still has a "very high level of infection" - but there are signs of it slowing down.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-58491737?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-58491737</guid>
-            <pubDate>Wed, 08 Sep 2021 14:24:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MSPs to vote on Scottish vaccine passport scheme]]></title>
-            <description><![CDATA[The move will mean only fully vaccinated people will be allowed into nightclubs and many large events.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-scotland-politics-58492663?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-scotland-politics-58492663</guid>
-            <pubDate>Thu, 09 Sep 2021 09:38:28 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Germany: Flight home forced to stop in Edinburgh on return from Iceland victory]]></title>
             <description><![CDATA[Cups of coffee are the order of the day for Germany after their plane from Iceland is forced to stop in Edinburgh]]></description>
             <link>https://www.bbc.co.uk/sport/football/58501227?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -86,25 +79,11 @@
             <pubDate>Thu, 09 Sep 2021 10:06:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Scotland's papers: Covid spread slows and virus court 'con']]></title>
-            <description><![CDATA[Claims that fake Covid alerts are being used to dodge court appearances and a slowdown in case numbers make the front pages.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-58495961?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-58495961</guid>
-            <pubDate>Thu, 09 Sep 2021 06:47:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[SNP vote against new health and social care tax]]></title>
-            <description><![CDATA[The proposals would raise about £1.1bn a year for the Scottish health service, according to the UK government.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-scotland-politics-58487834?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-scotland-politics-58487834</guid>
-            <pubDate>Wed, 08 Sep 2021 18:49:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: New Aberdeen vaccine base to open on Monday]]></title>
-            <description><![CDATA[A new site is to open at the former John Lewis building in the city centre on Monday morning.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-58501207?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-58501207</guid>
-            <pubDate>Thu, 09 Sep 2021 09:49:18 GMT</pubDate>
+            <title><![CDATA[Covid in Scotland: Surge in cases 'may be slowing down']]></title>
+            <description><![CDATA[The first minister says the country still has a "very high level of infection" - but there are signs of it slowing down.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-58491737?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-58491737</guid>
+            <pubDate>Wed, 08 Sep 2021 14:24:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid in Scotland: 'I'm double-vaccinated but can't show the proof']]></title>
