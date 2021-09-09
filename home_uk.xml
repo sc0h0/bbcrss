@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 09 Sep 2021 17:53:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Sep 2021 18:12:01 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -27,7 +27,7 @@
             <description><![CDATA[Dozens of people, including 13 UK citizens, take a plane from Kabul to Qatar's capital Doha.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-58497904?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58497904</guid>
-            <pubDate>Thu, 09 Sep 2021 17:09:59 GMT</pubDate>
+            <pubDate>Thu, 09 Sep 2021 17:56:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Afghanistan: Journalists tell of beatings by Taliban]]></title>
@@ -72,20 +72,6 @@
             <pubDate>Thu, 09 Sep 2021 17:37:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Channel crossings: France and UK clash over Border Force tactic plans]]></title>
-            <description><![CDATA[France says turning boats away would break maritime law, but No 10 says all its actions are legal.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58504016?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58504016</guid>
-            <pubDate>Thu, 09 Sep 2021 15:42:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Universities told to give students face-to-face teaching]]></title>
-            <description><![CDATA[Education Secretary Gavin Williamson says students should expect in-person teaching for new term.]]></description>
-            <link>https://www.bbc.co.uk/news/education-58504263?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/education-58504263</guid>
-            <pubDate>Thu, 09 Sep 2021 13:31:39 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Comedian dropped from Covid ads over tweets]]></title>
             <description><![CDATA[The Glasgow comedian admitted the tweets, from several years ago, had "terrible, horrific undertones".]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-58505151?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -93,18 +79,32 @@
             <pubDate>Thu, 09 Sep 2021 17:36:10 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Hong Kong: Police raid Tiananmen Square museum]]></title>
+            <description><![CDATA[The raid comes a day after four members of the group that ran the venue were arrested.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-china-58506598?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-china-58506598</guid>
+            <pubDate>Thu, 09 Sep 2021 17:47:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Channel crossings: France and UK clash over Border Force tactic plans]]></title>
+            <description><![CDATA[France says turning boats away would break maritime law, but No 10 says all its actions are legal.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-58504016?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58504016</guid>
+            <pubDate>Thu, 09 Sep 2021 15:42:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Predatory paedophile' headteacher jailed for abuse]]></title>
+            <description><![CDATA[Duggie Speight sexually abused a 15-year-old boy and filmed youngsters at a swimming baths.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-58503313?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-58503313</guid>
+            <pubDate>Thu, 09 Sep 2021 17:50:28 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Medomsley detention centre abuse victims share £7m payout]]></title>
             <description><![CDATA[Medomsley detention centre, which shut in 1988, housed teenagers who had committed minor crimes.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-tyne-58499963?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-tyne-58499963</guid>
             <pubDate>Thu, 09 Sep 2021 16:17:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Boris Johnson accuses charity of airbrushing Winston Churchill]]></title>
-            <description><![CDATA[But Sir Winston Churchill's grandson says his family "unreservedly support" the organisation.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-58505194?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-politics-58505194</guid>
-            <pubDate>Thu, 09 Sep 2021 17:17:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Rio Ferdinand: 'I have to explain the monkey emoji to my kids']]></title>
@@ -259,13 +259,6 @@
             <link>https://www.bbc.co.uk/sport/tennis/58496385?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/58496385</guid>
             <pubDate>Thu, 09 Sep 2021 09:26:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['Purists will say it's ridiculous, but boxing is evolving' - Haye, 40, defends comeback]]></title>
-            <description><![CDATA[David Haye believes "boxing is evolving" for the better as he prepares to make his comeback aged 40.]]></description>
-            <link>https://www.bbc.co.uk/sport/boxing/58478985?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/boxing/58478985</guid>
-            <pubDate>Thu, 09 Sep 2021 14:42:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: How do I get the vaccine and will I need a booster?]]></title>
