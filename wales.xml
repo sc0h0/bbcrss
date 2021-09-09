@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 09 Sep 2021 09:51:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Sep 2021 10:10:04 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -142,6 +142,13 @@
             <pubDate>Mon, 06 Sep 2021 21:56:20 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Hannah Cain: Leicester forward switches from England to Wales]]></title>
+            <description><![CDATA[Wales manager Gemma Grainger includes Leicester City's Hannah Cain as she names a strong 26-player squad to begin World Cup qualifying.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58491857?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58491857</guid>
+            <pubDate>Thu, 09 Sep 2021 10:00:07 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[2022 World Cup in Qatar: Wales' various qualification routes explained]]></title>
             <description><![CDATA[With Wales halfway through their World Cup qualifying campaign, BBC Sport Wales examines their various routes to Qatar.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58463435?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -170,13 +177,6 @@
             <pubDate>Wed, 08 Sep 2021 14:01:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Jade Knight: Scrum-half calls time on Wales career]]></title>
-            <description><![CDATA[Wales and Saracens scrum-half Jade Knight retires from international rugby citing a lack of support as a mother.]]></description>
-            <link>https://www.bbc.co.uk/sport/rugby-union/58491059?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/rugby-union/58491059</guid>
-            <pubDate>Wed, 08 Sep 2021 15:51:02 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Cwnstabl yn cydnabod 'Pump Caerdydd' fel 'dioddefwyr']]></title>
             <description><![CDATA[Cafodd y pump o ddynion eu carcharu ôl cael eu cyhuddo ar gam o ladd Lynette White yn 1988.]]></description>
             <link>https://www.bbc.co.uk/newyddion/58493881?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -198,18 +198,18 @@
             <pubDate>Thu, 09 Sep 2021 06:34:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA['Y Gymraeg yn iaith amlethnig erioed']]></title>
-            <description><![CDATA[Mewn llyfr newydd mae Simon Brooks yn dweud fod lleiafrifoedd ethnig Cymraeg wedi bodoli ers canrifoedd.]]></description>
-            <link>https://www.bbc.co.uk/newyddion/58467129?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/newyddion/58467129</guid>
-            <pubDate>Wed, 08 Sep 2021 13:36:34 GMT</pubDate>
+            <title><![CDATA[3 Llun: Lluniau pwysicaf bywyd Caryl Parry Jones]]></title>
+            <description><![CDATA[Y gantores sydd yn rhannu'r lluniau sydd agosaf at ei chalon.]]></description>
+            <link>https://www.bbc.co.uk/newyddion/58309295?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/newyddion/58309295</guid>
+            <pubDate>Thu, 09 Sep 2021 09:50:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Rhagbrofol Cwpan y Byd 2022: Cymru 0-0 Estonia]]></title>
-            <description><![CDATA[Gêm gyfartal, ddi-sgôr siomedig i Gymru yn erbyn Estonia yn Stadiwm Dinas Caerdydd nos Fercher.]]></description>
-            <link>https://www.bbc.co.uk/newyddion/58493882?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/newyddion/58493882</guid>
-            <pubDate>Wed, 08 Sep 2021 21:23:30 GMT</pubDate>
+            <title><![CDATA[Cyhoeddi carfan gref i ddechrau ymgyrch Cwpan y Byd 2023]]></title>
+            <description><![CDATA[Mae Hannah Cain wedi'i chynnwys am y tro cyntaf ar ôl penderfynu cynrychioli Cymru'n hytrach na Lloegr.]]></description>
+            <link>https://www.bbc.co.uk/newyddion/58500097?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/newyddion/58500097</guid>
+            <pubDate>Thu, 09 Sep 2021 10:01:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
