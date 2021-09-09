@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 09 Sep 2021 06:25:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Sep 2021 06:44:19 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Lebanon: A country plunged into darkness]]></title>
+            <description><![CDATA[Lebanon’s ongoing crisis has plunged the country into darkness, with some experiencing power cuts for 20 hours a day.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-58494832?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-middle-east-58494832</guid>
+            <pubDate>Wed, 08 Sep 2021 23:17:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Israeli troops make arrests over Palestinian prison break]]></title>
             <description><![CDATA[Several relatives of the six inmates who escaped Gilboa prison are reportedly taken into custody.]]></description>
@@ -142,13 +149,6 @@
             <pubDate>Sun, 01 Aug 2021 23:03:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Lebanon: A country plunged into darkness]]></title>
-            <description><![CDATA[Lebanon’s ongoing crisis has plunged the country into darkness, with some experiencing power cuts for 20 hours a day.]]></description>
-            <link>https://www.bbc.co.uk/news/world-middle-east-58494832?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-middle-east-58494832</guid>
-            <pubDate>Wed, 08 Sep 2021 23:17:52 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Why Palestinians are protesting against their own government]]></title>
             <description><![CDATA[Protests against the Palestinian Authority erupted after a popular activist died in custody.]]></description>
             <link>https://www.bbc.co.uk/news/world-middle-east-58466597?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -175,6 +175,13 @@
             <link>https://www.bbc.co.uk/news/world-middle-east-58201218?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-middle-east-58201218</guid>
             <pubDate>Sun, 15 Aug 2021 23:01:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Beirut blast: ‘The day our city exploded’]]></title>
+            <description><![CDATA[One year on from the blast that rocked Beirut, no one has yet been made accountable.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-58076999?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-middle-east-58076999</guid>
+            <pubDate>Tue, 03 Aug 2021 23:01:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
