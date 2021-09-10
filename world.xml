@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 10 Sep 2021 23:16:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Sep 2021 23:45:57 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -21,6 +21,13 @@
             <link>https://www.bbc.co.uk/news/world-asia-58520146?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58520146</guid>
             <pubDate>Fri, 10 Sep 2021 19:38:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Afghanistan: BBC catches up with Afghan journalist who fled Kabul]]></title>
+            <description><![CDATA[Wahida Faizi spoke to a reporter in August saying she feared the Taliban would kill her for her work.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58523543?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58523543</guid>
+            <pubDate>Fri, 10 Sep 2021 23:11:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Agnès Buzyn: France ex-health minister under investigation]]></title>
@@ -35,13 +42,6 @@
             <link>https://www.bbc.co.uk/news/world-us-canada-58523448?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58523448</guid>
             <pubDate>Fri, 10 Sep 2021 18:17:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nord Stream 2: Gazprom says new pipeline to Germany is ready]]></title>
-            <description><![CDATA[Nord Stream 2 will double Moscow's natural gas exports to Germany, bypassing Ukraine.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58520563?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58520563</guid>
-            <pubDate>Fri, 10 Sep 2021 15:36:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Two of six Palestinian prison escapees recaptured - Israel]]></title>
@@ -86,18 +86,18 @@
             <pubDate>Fri, 10 Sep 2021 14:46:42 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Nord Stream 2: Gazprom says new pipeline to Germany is ready]]></title>
+            <description><![CDATA[Nord Stream 2 will double Moscow's natural gas exports to Germany, bypassing Ukraine.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58520563?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58520563</guid>
+            <pubDate>Fri, 10 Sep 2021 15:36:50 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Why Don't We: US boy band accuse manager of mental and financial abuse]]></title>
             <description><![CDATA[US group Why Don't We claim they were made "hostages in our own home" and had their food restricted.]]></description>
             <link>https://www.bbc.co.uk/news/entertainment-arts-58520199?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-58520199</guid>
             <pubDate>Fri, 10 Sep 2021 17:28:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[COP26: Poorest countries fear not reaching UK for climate summit]]></title>
-            <description><![CDATA[Twenty of the world's poorest countries face hotel quarantine before the event in Glasgow.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58360996?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58360996</guid>
-            <pubDate>Fri, 10 Sep 2021 16:00:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[MH17: One father's testimony marked by despair and a rucksack]]></title>
@@ -107,11 +107,11 @@
             <pubDate>Fri, 10 Sep 2021 16:57:36 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Africa's week in pictures: 3 - 9 September 2021]]></title>
-            <description><![CDATA[A selection of the best photos from the African continent and beyond.]]></description>
-            <link>https://www.bbc.co.uk/news/world-africa-58501478?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-africa-58501478</guid>
-            <pubDate>Fri, 10 Sep 2021 00:31:49 GMT</pubDate>
+            <title><![CDATA[Ethiopia: The country where a year lasts 13 months]]></title>
+            <description><![CDATA[Five things you may not know about Ethiopia's unique calendar and cultural heritage.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-57443424?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-africa-57443424</guid>
+            <pubDate>Fri, 10 Sep 2021 23:44:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[11 September 2001: The conspiracy theories still spreading after 20 years]]></title>
@@ -149,13 +149,6 @@
             <pubDate>Wed, 08 Sep 2021 23:08:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Afghanistan: BBC catches up with Afghan journalist who fled Kabul]]></title>
-            <description><![CDATA[Wahida Faizi spoke to a reporter in August saying she feared the Taliban would kill her for her work.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58523543?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58523543</guid>
-            <pubDate>Fri, 10 Sep 2021 23:11:49 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Ros Atkins on... lorry driver shortages]]></title>
             <description><![CDATA[Ros Atkins looks at why there's a lack of drivers and how it's affecting UK businesses.]]></description>
             <link>https://www.bbc.co.uk/news/uk-58521211?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -182,6 +175,13 @@
             <link>https://www.bbc.co.uk/news/world-us-canada-58507368?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58507368</guid>
             <pubDate>Thu, 09 Sep 2021 23:10:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US: Colorado City will pay $3m to a woman with dementia injured by police]]></title>
+            <description><![CDATA[Bodycam footage shows the moment Colorado City officers detained and injured 75-year-old Karen Garner.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-58503095?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58503095</guid>
+            <pubDate>Thu, 09 Sep 2021 13:49:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Former member of Afghan parliament: 'The Taliban would've killed me if they found me']]></title>
