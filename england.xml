@@ -11,13 +11,13 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 10 Sep 2021 12:46:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Sep 2021 13:19:54 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
             <title><![CDATA[Bernadette Walker: Stepdad jailed for murdering teen over abuse claim]]></title>
-            <description><![CDATA[Scott Walker is jailed for a minimum of 32 years for killing Bernadette Walker, who called him "Dad".]]></description>
+            <description><![CDATA[Scott Walker is jailed for at least 32 years for killing Bernadette Walker, who has never been found.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-cambridgeshire-58515731?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-cambridgeshire-58515731</guid>
             <pubDate>Fri, 10 Sep 2021 12:27:21 GMT</pubDate>
@@ -28,6 +28,13 @@
             <link>https://www.bbc.co.uk/news/uk-england-birmingham-58515401?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-birmingham-58515401</guid>
             <pubDate>Fri, 10 Sep 2021 12:11:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cressida Dick: Met commissioner given two-year contract extension]]></title>
+            <description><![CDATA[Dame Cressida Dick has come under fire from victims of police injustice who called for her to go.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-58518146?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-london-58518146</guid>
+            <pubDate>Fri, 10 Sep 2021 13:09:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Leicestershire Police apology after stab victim's blood left at scene]]></title>
@@ -44,6 +51,13 @@
             <pubDate>Fri, 10 Sep 2021 11:06:36 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Brierley Hill murders: Killer jailed over Range Rover shooting]]></title>
+            <description><![CDATA[Jonathan Houseman is jailed for life over the "executions" of Will Henry and Brian McIntosh.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-birmingham-58518183?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-birmingham-58518183</guid>
+            <pubDate>Fri, 10 Sep 2021 12:56:05 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Metal detectorist's Bronze Age find on display for first time]]></title>
             <description><![CDATA[The sun pendant is one of the most important finds of the last 100 years, the British Museum says.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-shropshire-58508163?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -51,25 +65,11 @@
             <pubDate>Fri, 10 Sep 2021 11:09:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Cressida Dick: Police Federation backs Met commissioner]]></title>
-            <description><![CDATA[The Police Federation says "it is easy to comment and criticise from the side-lines".]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-london-58516367?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-london-58516367</guid>
-            <pubDate>Fri, 10 Sep 2021 11:15:03 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Greater Manchester Police: New chief blames leadership failures]]></title>
             <description><![CDATA[Greater Manchester Police's new boss vows to tackle "too many criminals getting away with it".]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-manchester-58513978?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-manchester-58513978</guid>
             <pubDate>Fri, 10 Sep 2021 12:23:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Old Trafford stabbing: Boy, 16, dies after being attacked in street]]></title>
-            <description><![CDATA[Two unknown males stabbed the teenager in Norton Street, Old Trafford on Thursday, police say.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-manchester-58511775?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-manchester-58511775</guid>
-            <pubDate>Fri, 10 Sep 2021 05:56:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Patients verbally abused in front of inspectors]]></title>
@@ -121,6 +121,13 @@
             <pubDate>Wed, 08 Sep 2021 11:39:23 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Old Trafford stabbing: Boy, 16, dies after being attacked in street]]></title>
+            <description><![CDATA[Two unknown males stabbed the teenager in Norton Street, Old Trafford on Thursday, police say.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-manchester-58511775?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-manchester-58511775</guid>
+            <pubDate>Fri, 10 Sep 2021 05:56:10 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Plea to religious leaders follows fiancé's suicide]]></title>
             <description><![CDATA[The partner of a gay man from a religious family who killed himself is trying to spark change.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-london-58499900?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -140,13 +147,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-wiltshire-58498833?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-wiltshire-58498833</guid>
             <pubDate>Fri, 10 Sep 2021 05:48:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bury St Edmunds mental health unit 'failed' man who took own life]]></title>
-            <description><![CDATA[Insufficient staffing levels contributed to the 25-year-old's death, an inquest jury finds.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-suffolk-58505628?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-suffolk-58505628</guid>
-            <pubDate>Fri, 10 Sep 2021 05:09:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Newcastle goalkeeper Karl Darlow urges players to get vaccinated for Covid-19]]></title>
@@ -184,11 +184,11 @@
             <pubDate>Fri, 10 Sep 2021 11:38:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Emma Raducanu: The making of Great Britain's US Open finalist]]></title>
-            <description><![CDATA[As British teenager Emma Raducanu reached the US Open final, BBC Sport charts her rapid rise - with the help of a host of experts.]]></description>
-            <link>https://www.bbc.co.uk/sport/tennis/58510368?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/58510368</guid>
-            <pubDate>Fri, 10 Sep 2021 09:53:08 GMT</pubDate>
+            <title><![CDATA[Premier League: Jurgen Klopp says players and clubs punished by potential ban]]></title>
+            <description><![CDATA[Jurgen Klopp says the "only people who get punished are players and clubs" as Liverpool's Brazil players face a ban this weekend over Covid-19 protocols.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58512628?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58512628</guid>
+            <pubDate>Fri, 10 Sep 2021 13:19:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
