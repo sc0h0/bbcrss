@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 10 Sep 2021 00:18:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Sep 2021 00:56:04 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -37,6 +37,13 @@
             <pubDate>Thu, 09 Sep 2021 14:12:26 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[9/11 anniversary: How the world reacted to terror attacks]]></title>
+            <description><![CDATA[Two decades on, four people from around the world reflect on that day, and what's changed since.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-58509703?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58509703</guid>
+            <pubDate>Thu, 09 Sep 2021 23:33:19 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Biden administration sues Texas over restrictive abortion law]]></title>
             <description><![CDATA[The Texas law effectively bans abortions from as early as six weeks into a pregnancy.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-58507206?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -44,18 +51,18 @@
             <pubDate>Thu, 09 Sep 2021 20:12:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Hong Kong: Police raid Tiananmen Square museum]]></title>
-            <description><![CDATA[The raid comes a day after four members of the group that ran the venue were arrested.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-china-58506598?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-china-58506598</guid>
-            <pubDate>Thu, 09 Sep 2021 17:47:22 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Austria man kept dead mother in cellar for pension, police say]]></title>
             <description><![CDATA[The suspect is said to have "mummified" the corpse in order to continue receiving her pension.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-58510192?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58510192</guid>
             <pubDate>Fri, 10 Sep 2021 00:04:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hong Kong: Police raid Tiananmen Square museum]]></title>
+            <description><![CDATA[The raid comes a day after four members of the group that ran the venue were arrested.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-china-58506598?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-china-58506598</guid>
+            <pubDate>Thu, 09 Sep 2021 17:47:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Top US court halts Texas execution of inmate seeking pastor's touch]]></title>
@@ -79,13 +86,6 @@
             <pubDate>Thu, 09 Sep 2021 14:28:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[North Korea: Military parade features hazmat suits, gas masks]]></title>
-            <description><![CDATA[Their inclusion may be a sign that a special force was created to prevent the spread of Covid-19.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58497157?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58497157</guid>
-            <pubDate>Thu, 09 Sep 2021 04:37:11 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Covid-19 vaccines in South Africa: Free football tickets for fans with jabs]]></title>
             <description><![CDATA[The government is concerned about growing anti-vaccine sentiment in the country.]]></description>
             <link>https://www.bbc.co.uk/news/world-africa-58499691?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -93,18 +93,39 @@
             <pubDate>Thu, 09 Sep 2021 16:05:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Afghanistan: A new order begins under the Taliban's governance]]></title>
-            <description><![CDATA[The Taliban's new ministers have taken office - but are they any different this time around?]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58495112?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58495112</guid>
-            <pubDate>Wed, 08 Sep 2021 20:08:53 GMT</pubDate>
+            <title><![CDATA[Africa's week in pictures: 3 - 9 September 2021]]></title>
+            <description><![CDATA[A selection of the best photos from the African continent and beyond.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-58501478?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-africa-58501478</guid>
+            <pubDate>Fri, 10 Sep 2021 00:31:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Inspirational Afghan robotics team begin new chapter]]></title>
-            <description><![CDATA[The BBC speaks to the women's robotics team about their ordeal trying to leave Afghanistan.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58496148?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58496148</guid>
-            <pubDate>Thu, 09 Sep 2021 14:11:31 GMT</pubDate>
+            <title><![CDATA[11 September 2001: The conspiracy theories still spreading after 20 years]]></title>
+            <description><![CDATA[Conspiracy theories about 9/11 continue to gain traction online, two decades after the attacks.]]></description>
+            <link>https://www.bbc.co.uk/news/58469600?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/58469600</guid>
+            <pubDate>Fri, 10 Sep 2021 00:38:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Crazy love: Behind China's crackdown on K-pop and other fan clubs]]></title>
+            <description><![CDATA[Chinese authorities have made it clear that they are not tolerant of overzealous celebrity fans.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-china-58459318?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-china-58459318</guid>
+            <pubDate>Thu, 09 Sep 2021 23:40:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Elizabeth Holmes: Has the Theranos scandal changed Silicon Valley?]]></title>
+            <description><![CDATA[Could a Theranos scandal happen again or has Silicon Valley learnt its lesson?]]></description>
+            <link>https://www.bbc.co.uk/news/technology-58469882?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/technology-58469882</guid>
+            <pubDate>Fri, 10 Sep 2021 00:38:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['I'll be at front of queue to change my slave name']]></title>
+            <description><![CDATA[Descendants of African slaves welcome a Dutch city's decision to scrap fees for changing names.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58492848?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58492848</guid>
+            <pubDate>Fri, 10 Sep 2021 00:08:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[‘Havana syndrome ’ and the mystery of the microwaves]]></title>
@@ -112,34 +133,6 @@
             <link>https://www.bbc.co.uk/news/world-58396698?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-58396698</guid>
             <pubDate>Wed, 08 Sep 2021 23:08:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Respect: Jennifer Hudson on embodying soul legend Aretha Franklin]]></title>
-            <description><![CDATA[The singer was personally selected by soul legend Franklin to play her in the new biopic Respect.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-57867411?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-57867411</guid>
-            <pubDate>Wed, 08 Sep 2021 23:14:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How a monkey launched the pop-it toy craze]]></title>
-            <description><![CDATA[Why it took a TikTok primate to turn a forty-year-old idea into a global hit]]></description>
-            <link>https://www.bbc.co.uk/news/business-58408570?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58408570</guid>
-            <pubDate>Wed, 08 Sep 2021 23:16:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why people in Eswatini are protesting]]></title>
-            <description><![CDATA[Eswatini is Africa’s last absolute monarchy, which means the king controls everything.]]></description>
-            <link>https://www.bbc.co.uk/news/world-africa-58492598?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-africa-58492598</guid>
-            <pubDate>Wed, 08 Sep 2021 23:09:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Kenyans who are helping the world to cheat]]></title>
-            <description><![CDATA[Some Kenyans try to escape poverty by helping foreign students to fake their academic work.]]></description>
-            <link>https://www.bbc.co.uk/news/blogs-trending-58465189?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/blogs-trending-58465189</guid>
-            <pubDate>Wed, 08 Sep 2021 23:09:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The rare Indian swimming camels under threat]]></title>
@@ -163,6 +156,13 @@
             <pubDate>Thu, 09 Sep 2021 13:49:35 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Why people in Eswatini are protesting]]></title>
+            <description><![CDATA[Eswatini is Africa’s last absolute monarchy, which means the king controls everything.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-58492598?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-africa-58492598</guid>
+            <pubDate>Wed, 08 Sep 2021 23:09:10 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Lebanon: A country plunged into darkness]]></title>
             <description><![CDATA[Lebanon’s ongoing crisis has plunged the country into darkness, with some experiencing power cuts for 20 hours a day.]]></description>
             <link>https://www.bbc.co.uk/news/world-middle-east-58494832?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -170,39 +170,39 @@
             <pubDate>Wed, 08 Sep 2021 23:17:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Mexico earthquake: Lights seen in sky during tremor near Acapulco]]></title>
-            <description><![CDATA[The magnitude-seven quake struck the country's Pacific coast, near the resort of Acapulco.]]></description>
-            <link>https://www.bbc.co.uk/news/world-latin-america-58489038?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-latin-america-58489038</guid>
-            <pubDate>Wed, 08 Sep 2021 15:25:55 GMT</pubDate>
+            <title><![CDATA[Afghanistan: What has changed in 20 years]]></title>
+            <description><![CDATA[Women's education and independent media have been the success stories, but all this might change now.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58505044?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58505044</guid>
+            <pubDate>Fri, 10 Sep 2021 00:37:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Afghan Special Forces commander faced race against time to flee]]></title>
-            <description><![CDATA[An Afghan Special Forces commander says he owes his life to members of the Parachute Regiment who helped him escape.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58490568?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58490568</guid>
-            <pubDate>Wed, 08 Sep 2021 23:10:45 GMT</pubDate>
+            <title><![CDATA[Afghan robotics team: Inspirational women begin new chapter]]></title>
+            <description><![CDATA[The BBC speaks to the women's robotics team about their ordeal trying to leave Afghanistan.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58496148?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58496148</guid>
+            <pubDate>Thu, 09 Sep 2021 14:11:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Afghanistan: Could Pakistani drones hit the Panjshir Valley?]]></title>
-            <description><![CDATA[There are claims that Pakistan has used drones against anti-Taliban forces in Afghanistan.]]></description>
-            <link>https://www.bbc.co.uk/news/58480299?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/58480299</guid>
-            <pubDate>Wed, 08 Sep 2021 16:52:34 GMT</pubDate>
+            <title><![CDATA[Afghanistan: A new order begins under the Taliban's governance]]></title>
+            <description><![CDATA[The Taliban's new ministers have taken office - but are they any different this time around?]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58495112?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58495112</guid>
+            <pubDate>Wed, 08 Sep 2021 20:08:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Afghanistan: Women beaten for demanding their rights]]></title>
-            <description><![CDATA[Women in Afghanistan demanding their rights say they have been beaten by the Taliban.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58491747?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58491747</guid>
-            <pubDate>Wed, 08 Sep 2021 20:44:15 GMT</pubDate>
+            <title><![CDATA[Afghanistan crisis: Five lessons learned (or not) since 9/11]]></title>
+            <description><![CDATA[Some fatal mistakes have undermined the fight against terror, says the BBC's Frank Gardner.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58502199?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58502199</guid>
+            <pubDate>Thu, 09 Sep 2021 22:57:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Australia may cancel Afghan match if women banned]]></title>
-            <description><![CDATA[Cricket Australia (CA) will cancel its men's Test match with Afghanistan if reports that the women's team cannot play under Taliban rule are true.]]></description>
-            <link>https://www.bbc.co.uk/sport/cricket/58497681?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/cricket/58497681</guid>
-            <pubDate>Thu, 09 Sep 2021 07:14:56 GMT</pubDate>
+            <title><![CDATA[Chaos and confusion: The frenzied final hours of the Afghan government]]></title>
+            <description><![CDATA[Through interviews with insiders, BBC News has pieced together an account of how Afghanistan’s government unravelled.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58477131?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58477131</guid>
+            <pubDate>Wed, 08 Sep 2021 00:42:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
