@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 10 Sep 2021 19:07:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Sep 2021 19:16:35 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -51,6 +51,13 @@
             <pubDate>Fri, 10 Sep 2021 18:23:58 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Man in court on Dundee murder charge]]></title>
+            <description><![CDATA[The 27-year-old is accused of killing Lee Small in the Douglas area of the city on Wednesday.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-tayside-central-58514895?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-tayside-central-58514895</guid>
+            <pubDate>Fri, 10 Sep 2021 16:14:23 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Pensioner accused of raping and murdering woman in Girvan flat]]></title>
             <description><![CDATA[The 71-year-old man has gone on trial over the death of Patricia Henry at her South Ayrshire home in 2017.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58519299?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -65,11 +72,18 @@
             <pubDate>Fri, 10 Sep 2021 14:56:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Local Hero phone box in Pennan to be kept in service]]></title>
-            <description><![CDATA[Aberdeenshire Council says Pennan as well as Crovie and Portsoy will now retain their working phone boxes.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-58516327?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-58516327</guid>
-            <pubDate>Fri, 10 Sep 2021 15:24:34 GMT</pubDate>
+            <title><![CDATA[COP26: Poorest countries fear not reaching UK for climate summit]]></title>
+            <description><![CDATA[Twenty of the world's poorest countries face hotel quarantine before the event in Glasgow.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-58360996?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58360996</guid>
+            <pubDate>Fri, 10 Sep 2021 16:00:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dawnfresh to close Uddingston plant and expand Arbroath operation]]></title>
+            <description><![CDATA[Dawnfresh will close its Uddingston plant with workers offered roles in an expanded operation in Arbroath.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-tayside-central-58514901?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-tayside-central-58514901</guid>
+            <pubDate>Fri, 10 Sep 2021 15:12:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid in Scotland: Health boards 'under pressure' due to cases]]></title>
@@ -79,11 +93,11 @@
             <pubDate>Fri, 10 Sep 2021 16:09:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Dawnfresh to close Uddingston plant and expand Arbroath operation]]></title>
-            <description><![CDATA[Dawnfresh will close its Uddingston plant with workers offered roles in an expanded operation in Arbroath.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-tayside-central-58514901?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-tayside-central-58514901</guid>
-            <pubDate>Fri, 10 Sep 2021 15:12:51 GMT</pubDate>
+            <title><![CDATA[Local Hero phone box in Pennan to be kept in service]]></title>
+            <description><![CDATA[Aberdeenshire Council says Pennan as well as Crovie and Portsoy will now retain their working phone boxes.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-58516327?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-58516327</guid>
+            <pubDate>Fri, 10 Sep 2021 15:24:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid in Scotland: What do we know about the vaccine passport?]]></title>
@@ -252,13 +266,6 @@
             <link>https://www.bbc.co.uk/sport/football/58513391?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58513391</guid>
             <pubDate>Fri, 10 Sep 2021 12:14:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Scottish Premiership things to watch this weekend]]></title>
-            <description><![CDATA[A top-of-the-table Edinburgh derby, new forwards at Celtic and a chance for Aberdeen to get back on track.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58513390?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58513390</guid>
-            <pubDate>Fri, 10 Sep 2021 12:16:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
