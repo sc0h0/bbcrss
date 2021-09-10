@@ -11,16 +11,23 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 10 Sep 2021 05:48:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Sep 2021 06:18:21 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[UK economic growth slows sharply in July]]></title>
+            <description><![CDATA[The UK economy grew just 0.1% in July as the last Covid restrictions were lifted in England.]]></description>
+            <link>https://www.bbc.co.uk/news/business-58502593?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58502593</guid>
+            <pubDate>Fri, 10 Sep 2021 06:17:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Covid: Biden orders employees of big businesses to be vaccinated or face testing]]></title>
             <description><![CDATA[The US president is using his executive power to require that big companies vaccinate employees.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-58508547?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58508547</guid>
-            <pubDate>Fri, 10 Sep 2021 02:29:12 GMT</pubDate>
+            <pubDate>Fri, 10 Sep 2021 05:58:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Rail industry urges workers not to spurn the train]]></title>
