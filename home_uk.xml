@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 10 Sep 2021 23:44:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Sep 2021 23:57:36 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -184,6 +184,13 @@
             <pubDate>Fri, 10 Sep 2021 18:57:54 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Ethiopia: The country where a year lasts 13 months]]></title>
+            <description><![CDATA[Five things you may not know about Ethiopia's unique calendar and cultural heritage.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-57443424?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-africa-57443424</guid>
+            <pubDate>Fri, 10 Sep 2021 23:44:27 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Covid: President Biden's comments on vaccines fact-checked]]></title>
             <description><![CDATA[The US president said he was "frustrated" with the nearly 80 million Americans still not vaccinated]]></description>
             <link>https://www.bbc.co.uk/news/58516873?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -210,41 +217,6 @@
             <link>https://www.bbc.co.uk/news/stories-58465559?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/stories-58465559</guid>
             <pubDate>Thu, 09 Sep 2021 23:49:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Who rescues migrants in the Channel?]]></title>
-            <description><![CDATA[The number of migrants crossing the English Channel is increasing, but who is responsible for them?]]></description>
-            <link>https://www.bbc.co.uk/news/uk-46758600?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-46758600</guid>
-            <pubDate>Thu, 09 Sep 2021 14:41:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[11 September 2001: The conspiracy theories still spreading after 20 years]]></title>
-            <description><![CDATA[Conspiracy theories about 9/11 continue to gain traction online, two decades after the attacks.]]></description>
-            <link>https://www.bbc.co.uk/news/58469600?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/58469600</guid>
-            <pubDate>Fri, 10 Sep 2021 00:38:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Crazy love: Behind China's crackdown on K-pop and other fan clubs]]></title>
-            <description><![CDATA[Chinese authorities have made it clear that they are not tolerant of overzealous celebrity fans.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-china-58459318?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-china-58459318</guid>
-            <pubDate>Thu, 09 Sep 2021 23:40:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Elizabeth Holmes: Has the Theranos scandal changed Silicon Valley?]]></title>
-            <description><![CDATA[Could a Theranos scandal happen again or has Silicon Valley learnt its lesson?]]></description>
-            <link>https://www.bbc.co.uk/news/technology-58469882?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/technology-58469882</guid>
-            <pubDate>Fri, 10 Sep 2021 00:38:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['I'll be at front of queue to change my slave name']]></title>
-            <description><![CDATA[Descendants of African slaves welcome a Dutch city's decision to scrap fees for changing names.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58492848?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58492848</guid>
-            <pubDate>Fri, 10 Sep 2021 00:08:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Can Raducanu end 44-year drought? Briton and fellow teenager Fernandez set for US Open final]]></title>
@@ -289,74 +261,32 @@
             <pubDate>Fri, 10 Sep 2021 20:15:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Afghanistan: What has changed in 20 years]]></title>
-            <description><![CDATA[Women's education and independent media have been the success stories, but all this might change now.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58505044?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58505044</guid>
-            <pubDate>Fri, 10 Sep 2021 00:37:05 GMT</pubDate>
+            <title><![CDATA[September 11 attacks: What happened on 9/11?]]></title>
+            <description><![CDATA[How the devastating 2001 plane attacks on America unfolded and how they shaped our age.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-57698668?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-57698668</guid>
+            <pubDate>Tue, 03 Aug 2021 11:14:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Afghanistan: A new order begins under the Taliban's governance]]></title>
-            <description><![CDATA[The Taliban's new ministers have taken office - but are they any different this time around?]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58495112?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58495112</guid>
-            <pubDate>Wed, 08 Sep 2021 20:08:53 GMT</pubDate>
+            <title><![CDATA[9/11 anniversary: Left without a parent after that day]]></title>
+            <description><![CDATA[How the terror attacks affected those whose parents died or were injured in the attacks.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-58508260?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58508260</guid>
+            <pubDate>Fri, 10 Sep 2021 23:50:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Afghan robotics team: Inspirational women begin new chapter]]></title>
-            <description><![CDATA[The BBC speaks to the women's robotics team about their ordeal trying to leave Afghanistan.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58496148?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58496148</guid>
-            <pubDate>Thu, 09 Sep 2021 14:11:31 GMT</pubDate>
+            <title><![CDATA[September 11: The heroes of the forgotten maritime rescue mission]]></title>
+            <description><![CDATA[On 11 September, 2001, nearly 500,000 people were evacuated by boat from southern Manhattan.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-58463014?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58463014</guid>
+            <pubDate>Tue, 07 Sep 2021 23:56:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Afghanistan crisis: Five lessons learned (or not) since 9/11]]></title>
-            <description><![CDATA[Some fatal mistakes have undermined the fight against terror, says the BBC's Frank Gardner.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58502199?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58502199</guid>
-            <pubDate>Thu, 09 Sep 2021 22:57:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Chaos and confusion: The frenzied final hours of the Afghan government]]></title>
-            <description><![CDATA[Through interviews with insiders, BBC News has pieced together an account of how Afghanistan’s government unravelled.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58477131?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58477131</guid>
-            <pubDate>Wed, 08 Sep 2021 00:42:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Afghanistan: Could Pakistani drones hit the Panjshir Valley?]]></title>
-            <description><![CDATA[There are claims that Pakistan has used drones against anti-Taliban forces in Afghanistan.]]></description>
-            <link>https://www.bbc.co.uk/news/58480299?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/58480299</guid>
-            <pubDate>Wed, 08 Sep 2021 16:52:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Afghanistan: The pledge binding al-Qaeda to the Taliban]]></title>
-            <description><![CDATA[The history of the complex relationship between the two groups.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58473574?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58473574</guid>
-            <pubDate>Tue, 07 Sep 2021 10:02:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Afghanistan: Who's who in the Taliban leadership]]></title>
-            <description><![CDATA[What we know about the top figures in the militant group that has taken control of Afghanistan.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58235639?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58235639</guid>
-            <pubDate>Tue, 07 Sep 2021 21:14:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Taliban embrace social media: 'We too want to change perceptions']]></title>
-            <description><![CDATA[Famed for their shunning of technology, the Taliban are realising they need to be on social media too.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58466939?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58466939</guid>
-            <pubDate>Mon, 06 Sep 2021 15:12:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Afghanistan: What's life like since the Taliban took over?]]></title>
-            <description><![CDATA[People around the country tell the BBC they have lost basic freedoms and are struggling to survive.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58434735?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58434735</guid>
-            <pubDate>Sat, 04 Sep 2021 23:58:06 GMT</pubDate>
+            <title><![CDATA[9/11 anniversary: How the world reacted to terror attacks]]></title>
+            <description><![CDATA[Two decades on, four people from around the world reflect on that day, and what's changed since.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-58509703?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58509703</guid>
+            <pubDate>Thu, 09 Sep 2021 23:33:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Flu jab 2021: Who’s eligible for a free vaccine?]]></title>
