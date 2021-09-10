@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 10 Sep 2021 03:25:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Sep 2021 03:47:15 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -58,6 +58,13 @@
             <pubDate>Fri, 10 Sep 2021 00:04:36 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Twitter to label 'good' bot accounts]]></title>
+            <description><![CDATA[Twitter wants "good" bot accounts to label themselves as non-human.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-58510594?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/technology-58510594</guid>
+            <pubDate>Fri, 10 Sep 2021 00:50:56 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Hong Kong: Police raid Tiananmen Square museum]]></title>
             <description><![CDATA[The raid comes a day after four members of the group that ran the venue were arrested.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-china-58506598?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -84,13 +91,6 @@
             <link>https://www.bbc.co.uk/news/world-europe-58496405?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58496405</guid>
             <pubDate>Thu, 09 Sep 2021 14:28:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid-19 vaccines in South Africa: Free football tickets for fans with jabs]]></title>
-            <description><![CDATA[The government is concerned about growing anti-vaccine sentiment in the country.]]></description>
-            <link>https://www.bbc.co.uk/news/world-africa-58499691?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-africa-58499691</guid>
-            <pubDate>Thu, 09 Sep 2021 16:05:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Africa's week in pictures: 3 - 9 September 2021]]></title>
