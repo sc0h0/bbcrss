@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 10 Sep 2021 21:49:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Sep 2021 23:16:22 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -51,18 +51,18 @@
             <pubDate>Fri, 10 Sep 2021 19:53:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[9/11 anniversary: How the world reacted to terror attacks]]></title>
-            <description><![CDATA[Two decades on, four people from around the world reflect on that day, and what's changed since.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-58509703?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58509703</guid>
-            <pubDate>Thu, 09 Sep 2021 23:33:19 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Alpha Condé: Guinea's ousted president in good health, Ecowas says]]></title>
             <description><![CDATA[West African envoys meet Alpha Condé, who was detained during a coup last Sunday.]]></description>
             <link>https://www.bbc.co.uk/news/world-africa-58519347?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-africa-58519347</guid>
             <pubDate>Fri, 10 Sep 2021 18:39:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[All of Disney's 2021 movies to debut exclusively in cinemas]]></title>
+            <description><![CDATA[All films set to come out 2021 will be released in cinemas, handing a boost to struggling venues.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-58524893?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58524893</guid>
+            <pubDate>Fri, 10 Sep 2021 23:04:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Lebanon gets new government amid deepening crisis]]></title>
@@ -149,6 +149,20 @@
             <pubDate>Wed, 08 Sep 2021 23:08:29 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Afghanistan: BBC catches up with Afghan journalist who fled Kabul]]></title>
+            <description><![CDATA[Wahida Faizi spoke to a reporter in August saying she feared the Taliban would kill her for her work.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58523543?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58523543</guid>
+            <pubDate>Fri, 10 Sep 2021 23:11:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ros Atkins on... lorry driver shortages]]></title>
+            <description><![CDATA[Ros Atkins looks at why there's a lack of drivers and how it's affecting UK businesses.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-58521211?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58521211</guid>
+            <pubDate>Fri, 10 Sep 2021 23:11:32 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Afghanistan: Former US ambassador says leaving 'pulled the plumbing' of Afghan forces]]></title>
             <description><![CDATA[A former US ambassador says Afghan security forces were developed to rely on US intelligence and communications.]]></description>
             <link>https://www.bbc.co.uk/news/world-58514816?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -168,20 +182,6 @@
             <link>https://www.bbc.co.uk/news/world-us-canada-58507368?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58507368</guid>
             <pubDate>Thu, 09 Sep 2021 23:10:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[US: Colorado City will pay $3m to a woman with dementia injured by police]]></title>
-            <description><![CDATA[Bodycam footage shows the moment Colorado City officers detained and injured 75-year-old Karen Garner.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-58503095?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58503095</guid>
-            <pubDate>Thu, 09 Sep 2021 13:49:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why people in Eswatini are protesting]]></title>
-            <description><![CDATA[Eswatini is Africa’s last absolute monarchy, which means the king controls everything.]]></description>
-            <link>https://www.bbc.co.uk/news/world-africa-58492598?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-africa-58492598</guid>
-            <pubDate>Wed, 08 Sep 2021 23:09:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Former member of Afghan parliament: 'The Taliban would've killed me if they found me']]></title>
