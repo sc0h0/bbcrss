@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 10 Sep 2021 16:30:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Sep 2021 16:57:20 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -28,6 +28,13 @@
             <link>https://www.bbc.co.uk/news/uk-wales-58521289?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-58521289</guid>
             <pubDate>Fri, 10 Sep 2021 15:20:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Four men who died during Severn Bridge works honoured with plaque]]></title>
+            <description><![CDATA[Kevin Hoskins, John Short, Eric Sullivan and Robin Phelps died while working on the bridge.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-bristol-58512223?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-bristol-58512223</guid>
+            <pubDate>Fri, 10 Sep 2021 16:23:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[9/11: Husband of Welsh victim to be played in Netflix film]]></title>
@@ -86,13 +93,6 @@
             <pubDate>Thu, 09 Sep 2021 17:37:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[South Wales Police worker arrested after fatal Cyprus crash]]></title>
-            <description><![CDATA[Christopher Browning was arrested following an accident near Esentepe, north Cyprus.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-58502962?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-58502962</guid>
-            <pubDate>Thu, 09 Sep 2021 15:15:21 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Covid in Wales: No vaccine passports needed for public services]]></title>
             <description><![CDATA[The Welsh government is considering whether vaccine passports should be introduced in some settings.]]></description>
             <link>https://www.bbc.co.uk/news/uk-wales-58521379?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -149,13 +149,6 @@
             <pubDate>Fri, 10 Sep 2021 10:24:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[World Cup of Darts: Wales' Gerwyn Price and Jonny Clayton beat Finland in round one]]></title>
-            <description><![CDATA[Gerwyn Price and Jonny Clayton make a successful start to their World Cup of Darts defence with a 5-2 victory over Finland in Jena, Germany.]]></description>
-            <link>https://www.bbc.co.uk/sport/darts/58479355?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/darts/58479355</guid>
-            <pubDate>Thu, 09 Sep 2021 20:39:46 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Wrexham: The world's most famous non-league team]]></title>
             <description><![CDATA[Wrexham who have become the world's most famous non-league team, will feature on the the best-selling sports video game franchise in the world.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58232725?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -163,11 +156,18 @@
             <pubDate>Fri, 10 Sep 2021 14:31:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Late drama as Scarlets win 29-24 in warm-up at Leicester]]></title>
-            <description><![CDATA[Scarlets continue their build-up to the start of the inaugural United Rugby Championship with a dramatic 29-24 win at Leicester Tigers.]]></description>
-            <link>https://www.bbc.co.uk/sport/rugby-union/58506819?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/rugby-union/58506819</guid>
-            <pubDate>Thu, 09 Sep 2021 20:28:58 GMT</pubDate>
+            <title><![CDATA[World Rally Championship: Elfyn Evans title hopes hit by gearbox trouble in Greece]]></title>
+            <description><![CDATA[Elfyn Evans World Rally Championship title hopes have been severely dented by gearbox trouble on the second day of the Acropolis Rally Greece.]]></description>
+            <link>https://www.bbc.co.uk/sport/motorsport/58516185?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/motorsport/58516185</guid>
+            <pubDate>Fri, 10 Sep 2021 16:47:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Glamorgan Cricket: All-rounder Ruaidhri Smith gets new contract]]></title>
+            <description><![CDATA[Glamorgan all-rounder Ruaidhri Smith has signed a new one-year contract after returning to fitness following an injury-hit season.]]></description>
+            <link>https://www.bbc.co.uk/sport/cricket/58514153?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/cricket/58514153</guid>
+            <pubDate>Fri, 10 Sep 2021 09:00:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Pwysau'r pandemig yn cynyddu unwaith yn rhagor ar y GIG]]></title>
@@ -184,11 +184,11 @@
             <pubDate>Fri, 10 Sep 2021 07:52:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Dirwy o £100,000 i gwmni am dorri rheolau diogelwch]]></title>
-            <description><![CDATA[Cafodd Gwyn Woodland anafiadau pan ddisgynnodd to pwll glo Danygraig arno yn 2017.]]></description>
-            <link>https://www.bbc.co.uk/newyddion/58520905?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/newyddion/58520905</guid>
-            <pubDate>Fri, 10 Sep 2021 15:32:54 GMT</pubDate>
+            <title><![CDATA[Beiciwr modur wedi marw mewn gwrthdrawiad yng Ngwynedd]]></title>
+            <description><![CDATA[Bu farw'r dyn yn ei 70au yn dilyn gwrthdrawiad gyda char ar yr A493 rhwng Dolgellau a Thywyn.]]></description>
+            <link>https://www.bbc.co.uk/newyddion/58521427?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/newyddion/58521427</guid>
+            <pubDate>Fri, 10 Sep 2021 16:47:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Al Lewis: Y galar a'r gân]]></title>
