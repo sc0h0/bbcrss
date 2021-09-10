@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 10 Sep 2021 01:38:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Sep 2021 02:14:40 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -23,13 +23,6 @@
             <pubDate>Thu, 09 Sep 2021 23:40:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Scotland to launch vaccine passports on 1 October]]></title>
-            <description><![CDATA[Plans to only allow fully vaccinated people into nightclubs and other large events are approved by MSPs.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-scotland-politics-58506013?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-scotland-politics-58506013</guid>
-            <pubDate>Thu, 09 Sep 2021 17:21:28 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Covid: Boosters not needed for all, says Oxford jab creator]]></title>
             <description><![CDATA[Prof Dame Sarah Gilbert says immunity from two doses of a Covid vaccine is "lasting well".]]></description>
             <link>https://www.bbc.co.uk/news/uk-58507436?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -37,18 +30,18 @@
             <pubDate>Fri, 10 Sep 2021 00:33:04 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Scotland to launch vaccine passports on 1 October]]></title>
+            <description><![CDATA[Plans to only allow fully vaccinated people into nightclubs and other large events are approved by MSPs.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-scotland-politics-58506013?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-scotland-politics-58506013</guid>
+            <pubDate>Thu, 09 Sep 2021 17:21:28 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Amazon offers to pay college fees for 750,000 US staff]]></title>
             <description><![CDATA[The online shopping giant says all US frontline workers will be eligible as it fights to attract new employees.]]></description>
             <link>https://www.bbc.co.uk/news/business-58509932?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58509932</guid>
             <pubDate>Thu, 09 Sep 2021 21:57:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[National Television Awards 2021: Ant and Dec 'overwhelmed' by 20th win]]></title>
-            <description><![CDATA[The duo have won the TV presenting prize at the National Television Awards every year since 2001.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-58509117?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-58509117</guid>
-            <pubDate>Thu, 09 Sep 2021 21:54:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Mercury Prize 2021: Arlo Parks wins for Collapsed In Sunbeams]]></title>
@@ -65,13 +58,6 @@
             <pubDate>Thu, 19 Aug 2021 19:17:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Teenager Raducanu prepares for US Open semi]]></title>
-            <description><![CDATA[Emma Raducanu says it is a "weird feeling" to be one of the few remaining players in the locker room after reaching the US Open semi-finals.]]></description>
-            <link>https://www.bbc.co.uk/sport/tennis/58496167?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/58496167</guid>
-            <pubDate>Thu, 09 Sep 2021 15:02:29 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Comedian dropped from Covid ads over tweets]]></title>
             <description><![CDATA[The Glasgow comedian admitted the tweets, from several years ago, had "terrible, horrific undertones".]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-58505151?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -84,6 +70,13 @@
             <link>https://www.bbc.co.uk/news/uk-politics-58504744?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-politics-58504744</guid>
             <pubDate>Thu, 09 Sep 2021 21:20:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[National Television Awards 2021: Ant and Dec 'overwhelmed' by 20th win]]></title>
+            <description><![CDATA[The duo have won the TV presenting prize at the National Television Awards every year since 2001.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-58509117?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-58509117</guid>
+            <pubDate>Thu, 09 Sep 2021 21:54:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Austria man kept dead mother in cellar for pension, police say]]></title>
@@ -266,6 +259,13 @@
             <link>https://www.bbc.co.uk/news/business-58408570?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58408570</guid>
             <pubDate>Wed, 08 Sep 2021 23:16:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Teenager Fernandez stuns Sabalenka to reach US Open final]]></title>
+            <description><![CDATA[Canadian teenager Leylah Fernandez shocks Belarusian second seed Aryna Sabalenka to reach the US Open final - where she could face 18-year-old Briton Emma Raducanu.]]></description>
+            <link>https://www.bbc.co.uk/sport/tennis/58496283?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/58496283</guid>
+            <pubDate>Fri, 10 Sep 2021 02:07:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Teenager Hodgkinson caps stunning year by claiming Diamond League title - video & report]]></title>
