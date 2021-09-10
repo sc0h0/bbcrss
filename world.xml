@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 10 Sep 2021 17:08:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Sep 2021 17:42:48 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -44,6 +44,13 @@
             <pubDate>Fri, 10 Sep 2021 14:46:42 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Hong Kong Tiananmen vigil organisers charged under national security law]]></title>
+            <description><![CDATA[Three members of a pro-democracy group appeared in court on Friday charged with subversion.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-china-58522326?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-china-58522326</guid>
+            <pubDate>Fri, 10 Sep 2021 17:10:44 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Lebanon gets new government amid deepening crisis]]></title>
             <description><![CDATA[The country's richest man becomes prime minister, ending more than a year of political paralysis.]]></description>
             <link>https://www.bbc.co.uk/news/world-middle-east-58516034?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -56,6 +63,13 @@
             <link>https://www.bbc.co.uk/news/world-europe-58518606?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58518606</guid>
             <pubDate>Fri, 10 Sep 2021 16:57:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why Don't We: US boy band accuse manager of mental and financial abuse]]></title>
+            <description><![CDATA[US group Why Don't We claim they were made "hostages in our own home" and had their food restricted.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-58520199?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-58520199</guid>
+            <pubDate>Fri, 10 Sep 2021 17:28:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[COP26: Poorest countries fear not reaching UK for climate summit]]></title>
@@ -77,20 +91,6 @@
             <link>https://www.bbc.co.uk/news/world-europe-58510192?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58510192</guid>
             <pubDate>Fri, 10 Sep 2021 00:04:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[US Biden and China's Xi hold first call in seven months]]></title>
-            <description><![CDATA[The two agree competition must not "veer into conflict" in their second call since Biden took office.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-china-58511173?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-china-58511173</guid>
-            <pubDate>Fri, 10 Sep 2021 08:24:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Former member of Afghan parliament: 'The Taliban would've killed me if they found me']]></title>
-            <description><![CDATA[Naheed Farid says she left Afghanistan over fears the Taliban could kill her and for the safety of her children.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58513998?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58513998</guid>
-            <pubDate>Fri, 10 Sep 2021 12:46:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Africa's week in pictures: 3 - 9 September 2021]]></title>
@@ -170,6 +170,13 @@
             <pubDate>Wed, 08 Sep 2021 23:09:10 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Former member of Afghan parliament: 'The Taliban would've killed me if they found me']]></title>
+            <description><![CDATA[Naheed Farid says she left Afghanistan over fears the Taliban could kill her and for the safety of her children.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58513998?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58513998</guid>
+            <pubDate>Fri, 10 Sep 2021 12:46:20 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Afghanistan: What has changed in 20 years]]></title>
             <description><![CDATA[Women's education and independent media have been the success stories, but all this might change now.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-58505044?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -196,13 +203,6 @@
             <link>https://www.bbc.co.uk/news/world-asia-58502199?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58502199</guid>
             <pubDate>Thu, 09 Sep 2021 22:57:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Chaos and confusion: The frenzied final hours of the Afghan government]]></title>
-            <description><![CDATA[Through interviews with insiders, BBC News has pieced together an account of how Afghanistan’s government unravelled.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58477131?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58477131</guid>
-            <pubDate>Wed, 08 Sep 2021 00:42:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
