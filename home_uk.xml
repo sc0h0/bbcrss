@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 10 Sep 2021 04:09:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Sep 2021 04:42:29 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Emma Raducanu reaches US Open final in New York]]></title>
+            <description><![CDATA[British teenager Emma Raducanu reaches the US Open final after her meteoric rise continues with a stunning straight-set win over Greece's Maria Sakkari.]]></description>
+            <link>https://www.bbc.co.uk/sport/tennis/58511033?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/58511033</guid>
+            <pubDate>Fri, 10 Sep 2021 04:39:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Covid: Biden orders employees of big businesses to be vaccinated or face testing]]></title>
             <description><![CDATA[The US president is using his executive power to require that big companies vaccinate employees.]]></description>
@@ -30,11 +37,11 @@
             <pubDate>Fri, 10 Sep 2021 00:33:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Car use back to levels seen before first lockdown]]></title>
-            <description><![CDATA[The data is likely to intensify debate about how to get people out of vehicles and on to public transport.]]></description>
-            <link>https://www.bbc.co.uk/news/business-58274806?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58274806</guid>
-            <pubDate>Thu, 19 Aug 2021 19:17:38 GMT</pubDate>
+            <title><![CDATA[Rail industry urges workers not to spurn the train]]></title>
+            <description><![CDATA[City centres and High Streets could suffer unless workers start taking the train again, the industry warns.]]></description>
+            <link>https://www.bbc.co.uk/news/business-58502589?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58502589</guid>
+            <pubDate>Fri, 10 Sep 2021 01:25:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Amazon offers to pay college fees for 750,000 US staff]]></title>
@@ -101,10 +108,10 @@
         </item>
         <item>
             <title><![CDATA[The Papers: Mass booster warning and anger over benefit cuts]]></title>
-            <description><![CDATA[The Oxford jab creator's rejection of third doses and Universal Credit concerns lead the papers.]]></description>
+            <description><![CDATA[The Oxford jab creator's doubts about third doses and Universal Credit concerns lead the papers.]]></description>
             <link>https://www.bbc.co.uk/news/blogs-the-papers-58509832?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/blogs-the-papers-58509832</guid>
-            <pubDate>Thu, 09 Sep 2021 23:11:44 GMT</pubDate>
+            <pubDate>Fri, 10 Sep 2021 04:18:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[9/11 anniversary: How the world reacted to terror attacks]]></title>
@@ -261,13 +268,6 @@
             <pubDate>Wed, 08 Sep 2021 23:16:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Britain's Raducanu becomes first qualifier to reach Grand Slam final  ]]></title>
-            <description><![CDATA[British teenager Emma Raducanu reaches the US Open final after her meteoric rise continues with a stunning straight-set win over Greece's Maria Sakkari.]]></description>
-            <link>https://www.bbc.co.uk/sport/tennis/58511033?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/58511033</guid>
-            <pubDate>Fri, 10 Sep 2021 04:01:05 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Teenager Fernandez stuns Sabalenka to reach US Open final]]></title>
             <description><![CDATA[Canadian teenager Leylah Fernandez shocks Belarusian second seed Aryna Sabalenka to reach the US Open final - where she will face 18-year-old Briton Emma Raducanu.]]></description>
             <link>https://www.bbc.co.uk/sport/tennis/58496283?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -308,6 +308,13 @@
             <link>https://www.bbc.co.uk/sport/football/58508195?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58508195</guid>
             <pubDate>Thu, 09 Sep 2021 18:41:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Purists will say it's ridiculous, but boxing is evolving' - Haye, 40, defends comeback]]></title>
+            <description><![CDATA[David Haye believes "boxing is evolving" for the better as he prepares to make his comeback aged 40.]]></description>
+            <link>https://www.bbc.co.uk/sport/boxing/58478985?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/boxing/58478985</guid>
+            <pubDate>Thu, 09 Sep 2021 14:42:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Afghanistan: What has changed in 20 years]]></title>
