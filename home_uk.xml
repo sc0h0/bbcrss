@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 10 Sep 2021 19:50:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Sep 2021 20:06:00 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Prince Andrew served with papers, accuser's team claims]]></title>
+            <description><![CDATA[Legal documents were served to a police officer in Windsor last month, US court papers say.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-58523119?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58523119</guid>
+            <pubDate>Fri, 10 Sep 2021 19:51:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[MI5: 31 late-stage terror plots foiled in four years in UK]]></title>
             <description><![CDATA[The terror threat to the UK remains "a real and enduring thing", the head of the security service says.]]></description>
@@ -44,13 +51,6 @@
             <pubDate>Fri, 10 Sep 2021 12:11:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Driver shortage: 50,000 more HGV driving tests promised a year]]></title>
-            <description><![CDATA[The government will make it quicker to get an HGV driver licence, amid an industry-wide shortage.]]></description>
-            <link>https://www.bbc.co.uk/news/business-58521779?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58521779</guid>
-            <pubDate>Fri, 10 Sep 2021 17:09:28 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Emma Raducanu - the making of a US Open finalist]]></title>
             <description><![CDATA[As British teenager Emma Raducanu reached the US Open final, BBC Sport charts her rapid rise - with the help of a host of experts.]]></description>
             <link>https://www.bbc.co.uk/sport/tennis/58510368?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -58,11 +58,11 @@
             <pubDate>Fri, 10 Sep 2021 13:33:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid: No 10 defends booster jabs and Houseparty app to close]]></title>
-            <description><![CDATA[Five things you need to know about the coronavirus pandemic this Friday evening.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58517851?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58517851</guid>
-            <pubDate>Fri, 10 Sep 2021 16:30:20 GMT</pubDate>
+            <title><![CDATA[Driver shortage: 50,000 more HGV driving tests promised a year]]></title>
+            <description><![CDATA[The government will make it quicker to get an HGV driver licence, amid an industry-wide shortage.]]></description>
+            <link>https://www.bbc.co.uk/news/business-58521779?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58521779</guid>
+            <pubDate>Fri, 10 Sep 2021 17:09:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[More people trying to give up their lockdown dogs, says charity]]></title>
