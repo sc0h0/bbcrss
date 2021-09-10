@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 09 Sep 2021 23:49:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Sep 2021 00:34:24 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Covid: Biden orders employees of big businesses to be vaccinated or face testing]]></title>
+            <description><![CDATA[The US president is using his executive power to require that big companies vaccinate employees.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-58508547?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58508547</guid>
+            <pubDate>Thu, 09 Sep 2021 23:40:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Scotland to launch vaccine passports on 1 October]]></title>
             <description><![CDATA[Plans to only allow fully vaccinated people into nightclubs and other large events are approved by MSPs.]]></description>
@@ -23,18 +30,11 @@
             <pubDate>Thu, 09 Sep 2021 17:21:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid: Biden requires employees of big businesses to be vaccinated or face testing]]></title>
-            <description><![CDATA[President Biden is using his executive power to require that big companies vaccinate employees.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-58508547?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58508547</guid>
-            <pubDate>Thu, 09 Sep 2021 23:40:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Thirteen UK citizens leave Kabul as flights resume]]></title>
-            <description><![CDATA[Dozens of people, including 13 UK citizens, take a plane from Kabul to Qatar's capital Doha.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58497904?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58497904</guid>
-            <pubDate>Thu, 09 Sep 2021 21:01:56 GMT</pubDate>
+            <title><![CDATA[Covid: Boosters not needed for all, says Oxford jab creator]]></title>
+            <description><![CDATA[Prof Dame Sarah Gilbert says immunity from two doses of a Covid vaccine is "lasting well".]]></description>
+            <link>https://www.bbc.co.uk/news/uk-58507436?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58507436</guid>
+            <pubDate>Fri, 10 Sep 2021 00:33:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Amazon offers to pay college fees for 750,000 US staff]]></title>
@@ -56,13 +56,6 @@
             <link>https://www.bbc.co.uk/news/entertainment-arts-58509085?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-58509085</guid>
             <pubDate>Thu, 09 Sep 2021 21:11:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Grenfell risk assessor reckless over cladding, inquiry hears]]></title>
-            <description><![CDATA[An expert witness criticises the decision to sign off the tower's cladding as safe without evidence.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58507434?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58507434</guid>
-            <pubDate>Thu, 09 Sep 2021 18:16:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Biden administration sues Texas over restrictive abortion law]]></title>
@@ -93,6 +86,13 @@
             <pubDate>Thu, 09 Sep 2021 21:20:51 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Austria man kept dead mother in cellar for pension, police say]]></title>
+            <description><![CDATA[The suspect is said to have "mummified" the corpse in order to continue receiving her pension.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58510192?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58510192</guid>
+            <pubDate>Fri, 10 Sep 2021 00:04:36 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[First UK LGBT business champion appointed]]></title>
             <description><![CDATA[Iain Anderson says he will work to "build a bridge" between the government and LGBT community.]]></description>
             <link>https://www.bbc.co.uk/news/business-58503264?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -100,18 +100,18 @@
             <pubDate>Thu, 09 Sep 2021 23:10:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Hong Kong: Police raid Tiananmen Square museum]]></title>
-            <description><![CDATA[The raid comes a day after four members of the group that ran the venue were arrested.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-china-58506598?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-china-58506598</guid>
-            <pubDate>Thu, 09 Sep 2021 17:47:22 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The Papers: Mass booster warning and anger over benefit cuts]]></title>
             <description><![CDATA[The Oxford jab creator's rejection of third doses and Universal Credit concerns lead the papers.]]></description>
             <link>https://www.bbc.co.uk/news/blogs-the-papers-58509832?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/blogs-the-papers-58509832</guid>
             <pubDate>Thu, 09 Sep 2021 23:11:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[9/11 anniversary: How the world reacted to terror attacks]]></title>
+            <description><![CDATA[Two decades on, four people from around the world reflect on that day, and what's changed since.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-58509703?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58509703</guid>
+            <pubDate>Thu, 09 Sep 2021 23:33:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[From council house to royal palace: My life as the Queen’s piper]]></title>
@@ -135,18 +135,18 @@
             <pubDate>Thu, 09 Sep 2021 23:05:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[WW2 pilot has 100th birthday flight over Shropshire]]></title>
-            <description><![CDATA[John Trotman, twice awarded the Distinguished Flying Cross, has got behind the controls once more.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-shropshire-58506749?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-shropshire-58506749</guid>
-            <pubDate>Thu, 09 Sep 2021 17:03:38 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[National Television Awards: Stars hit the red carpet]]></title>
             <description><![CDATA[It's the first big awards night for British TV since the pandemic began.]]></description>
             <link>https://www.bbc.co.uk/news/entertainment-arts-58508240?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-58508240</guid>
             <pubDate>Thu, 09 Sep 2021 20:19:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[WW2 pilot has 100th birthday flight over Shropshire]]></title>
+            <description><![CDATA[John Trotman, twice awarded the Distinguished Flying Cross, has got behind the controls once more.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-shropshire-58506749?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-shropshire-58506749</guid>
+            <pubDate>Thu, 09 Sep 2021 17:03:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Deutsche Börse Photography Foundation Prize 2021 winner revealed]]></title>
@@ -156,81 +156,11 @@
             <pubDate>Thu, 09 Sep 2021 19:31:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Genesis: Tour ‘putting it to bed’ after 54 years]]></title>
-            <description><![CDATA[The singer is returning on tour with Genesis despite ongoing health problems.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-58508715?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-58508715</guid>
-            <pubDate>Thu, 09 Sep 2021 18:45:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rio Ferdinand: 'I have to explain the monkey emoji to my kids']]></title>
-            <description><![CDATA[Former England footballer Rio Ferdinand tells MPs about his experience of online hate and racism.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58503093?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58503093</guid>
-            <pubDate>Thu, 09 Sep 2021 11:19:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ray-Ban Stories: Facebook reveals its video camera glasses]]></title>
-            <description><![CDATA[Facebook and eyewear brand Ray-Ban have revealed a pair of glasses that contain two cameras.]]></description>
-            <link>https://www.bbc.co.uk/news/technology-58488235?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/technology-58488235</guid>
-            <pubDate>Thu, 09 Sep 2021 16:00:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[US: Colorado City will pay $3m to a woman with dementia injured by police]]></title>
-            <description><![CDATA[Bodycam footage shows the moment Colorado City officers detained and injured 75-year-old Karen Garner.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-58503095?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58503095</guid>
-            <pubDate>Thu, 09 Sep 2021 13:49:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Great Yarmouth and the man who has holidayed there for 75 years]]></title>
-            <description><![CDATA[George Bennett first visited Great Yarmouth at the age of four and has been back each year since.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-norfolk-58487394?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-norfolk-58487394</guid>
-            <pubDate>Thu, 09 Sep 2021 08:30:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[McDonald's plant burger launch late to vegan party]]></title>
-            <description><![CDATA[The chain announces its McPlant burger will be on offer nationwide next year, after years of research.]]></description>
-            <link>https://www.bbc.co.uk/news/business-58498859?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58498859</guid>
-            <pubDate>Thu, 09 Sep 2021 12:46:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['My flight home was booked for two weeks ago']]></title>
-            <description><![CDATA[British teenager Emma Raducanu expresses her surprise at her run to the US Open semi-finals, having had flights back to the UK booked a fortnight ago.]]></description>
-            <link>https://www.bbc.co.uk/sport/tennis/58495531?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/58495531</guid>
-            <pubDate>Wed, 08 Sep 2021 22:46:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Afghan Special Forces commander faced race against time to flee]]></title>
-            <description><![CDATA[An Afghan Special Forces commander says he owes his life to members of the Parachute Regiment who helped him escape.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58490568?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58490568</guid>
-            <pubDate>Wed, 08 Sep 2021 23:10:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Leicestershire sisters on track for Olympic glory]]></title>
-            <description><![CDATA[Indienne and Shaikira have both recently been crowned national champions.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-leicestershire-58270963?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-leicestershire-58270963</guid>
-            <pubDate>Wed, 08 Sep 2021 23:12:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lebanon: A country plunged into darkness]]></title>
-            <description><![CDATA[Lebanon’s ongoing crisis has plunged the country into darkness, with some experiencing power cuts for 20 hours a day.]]></description>
-            <link>https://www.bbc.co.uk/news/world-middle-east-58494832?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-middle-east-58494832</guid>
-            <pubDate>Wed, 08 Sep 2021 23:17:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why people in Eswatini are protesting]]></title>
-            <description><![CDATA[Eswatini is Africa’s last absolute monarchy, which means the king controls everything.]]></description>
-            <link>https://www.bbc.co.uk/news/world-africa-58492598?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-africa-58492598</guid>
-            <pubDate>Wed, 08 Sep 2021 23:09:10 GMT</pubDate>
+            <title><![CDATA['How falling from a roof inspired me to become a musician']]></title>
+            <description><![CDATA[When Tony Kofi had a near-fatal accident, he had a vision of himself playing a musical instrument. It would change his life forever.]]></description>
+            <link>https://www.bbc.co.uk/news/stories-58465559?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/stories-58465559</guid>
+            <pubDate>Thu, 09 Sep 2021 23:49:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Who rescues migrants in the Channel?]]></title>
@@ -240,11 +170,32 @@
             <pubDate>Thu, 09 Sep 2021 14:41:33 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Crazy love: Behind China's crackdown on K-pop and other fan clubs]]></title>
+            <description><![CDATA[Chinese authorities have made it clear that they are not tolerant of overzealous celebrity fans.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-china-58459318?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-china-58459318</guid>
+            <pubDate>Thu, 09 Sep 2021 23:40:08 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Elizabeth Holmes: Has the Theranos scandal changed Silicon Valley?]]></title>
             <description><![CDATA[Could a Theranos scandal happen again or has Silicon Valley learnt its lesson?]]></description>
             <link>https://www.bbc.co.uk/news/technology-58469882?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/technology-58469882</guid>
             <pubDate>Thu, 09 Sep 2021 23:04:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['I'll be at front of queue to change my slave name']]></title>
+            <description><![CDATA[Descendants of African slaves welcome a Dutch city's decision to scrap fees for changing names.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58492848?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58492848</guid>
+            <pubDate>Fri, 10 Sep 2021 00:08:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[London's Oyster card: Are its days numbered?]]></title>
+            <description><![CDATA[Passengers prefer paying by contactless which means Oyster card usage is dwindling. What next?]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-58197631?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-london-58197631</guid>
+            <pubDate>Thu, 09 Sep 2021 23:59:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[‘Havana syndrome ’ and the mystery of the microwaves]]></title>
