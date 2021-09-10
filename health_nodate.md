@@ -1,4 +1,4 @@
-1. [Covid: Boosters not needed for all, says Oxford jab creator](https://www.bbc.co.uk/news/uk-58507436?at_medium=RSS&at_campaign=KARANGA) - Prof Dame Sarah Gilbert says immunity from two doses of a Covid vaccine is "lasting well".
+1. [Covid: Vaccine protection still strong - Oxford jab creator](https://www.bbc.co.uk/news/uk-58507436?at_medium=RSS&at_campaign=KARANGA) - Prof Dame Sarah Gilbert said offering a booster dose this autumn was "a complex decision".
 2. [Long waits for ambulances continue in England](https://www.bbc.co.uk/news/health-58499857?at_medium=RSS&at_campaign=KARANGA) - It took an average of more than eight minutes to respond to urgent call-outs, NHS figures show.
 3. [Covid: Pfizer and AstraZeneca approved as booster vaccines](https://www.bbc.co.uk/news/health-58499863?at_medium=RSS&at_campaign=KARANGA) - The UK regulator's decision paves the way for a rollout ahead of winter to millions of people.
 4. [Social care tax rise: Boris Johnson wins Commons vote](https://www.bbc.co.uk/news/uk-politics-58492169?at_medium=RSS&at_campaign=KARANGA) - Boris Johnson wins a House of Commons vote on his plan to increase National Insurance tax.
