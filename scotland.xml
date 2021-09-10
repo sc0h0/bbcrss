@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 10 Sep 2021 06:54:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Sep 2021 07:14:03 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -79,18 +79,18 @@
             <pubDate>Thu, 09 Sep 2021 14:34:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Call for Highland holiday lets to need planning permission]]></title>
-            <description><![CDATA[A Highland councillor says in some areas people struggle to find homes due high numbers of short-term lets.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-highlands-islands-58475117?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-highlands-islands-58475117</guid>
-            <pubDate>Thu, 09 Sep 2021 14:56:19 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Covid in Scotland: New £10m long Covid fund for health boards]]></title>
             <description><![CDATA[It comes after calls for the Scottish government to improve patient access to a support service.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-58503003?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-58503003</guid>
             <pubDate>Thu, 09 Sep 2021 13:02:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Call for Highland holiday lets to need planning permission]]></title>
+            <description><![CDATA[A Highland councillor says in some areas people struggle to find homes due high numbers of short-term lets.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-highlands-islands-58475117?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-highlands-islands-58475117</guid>
+            <pubDate>Thu, 09 Sep 2021 14:56:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid in Scotland: Where are the latest cases?]]></title>
@@ -247,6 +247,13 @@
             <pubDate>Thu, 09 Sep 2021 12:33:18 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Scottish Gossip: Celtic, Dundee United, Dundee, St Johnstone, vaccination passports, Hampden, Strachan]]></title>
+            <description><![CDATA[Celtic forward could miss next seven games, Dundee United goalkeeper pushing for quicker than expected return, Hampden refurbishment to be examined...]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58512357?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58512357</guid>
+            <pubDate>Fri, 10 Sep 2021 07:09:28 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[St Johnstone: What now for cup double winners after Kerr & McCann departures?]]></title>
             <description><![CDATA[Can St Johnstone cope with the loss of key players Jason Kerr and Ali McCann as they bid to live up to the highs of last season?]]></description>
             <link>https://www.bbc.co.uk/sport/football/58426475?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -259,13 +266,6 @@
             <link>https://www.bbc.co.uk/sport/golf/58490924?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/golf/58490924</guid>
             <pubDate>Wed, 08 Sep 2021 18:51:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Diamond League: Great Britain's Keely Hodgkinson wins 800m with Jemma Reekie fourth]]></title>
-            <description><![CDATA[Watch Great Britain's Keely Hodgkinson win the women's 800m at the Diamond League in Zurich with fellow Briton Jemma Reekie finishing fourth.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/athletics/58509422?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/av/athletics/58509422</guid>
-            <pubDate>Thu, 09 Sep 2021 19:56:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
