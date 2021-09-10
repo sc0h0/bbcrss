@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 10 Sep 2021 11:51:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Sep 2021 12:23:13 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -44,6 +44,13 @@
             <pubDate>Fri, 10 Sep 2021 10:43:35 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Bernadette Walker murder: Family 'kept going to police']]></title>
+            <description><![CDATA[The brother of a girl who is missing-presumed-dead says her killer had a history of violence.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-cambridgeshire-58495533?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-cambridgeshire-58495533</guid>
+            <pubDate>Fri, 10 Sep 2021 11:56:32 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA['Pingdemic' dents UK economic growth in July]]></title>
             <description><![CDATA[The UK economy grew just 0.1% in July, with Covid self-isolation keeping many workers at home.]]></description>
             <link>https://www.bbc.co.uk/news/business-58502593?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -58,18 +65,11 @@
             <pubDate>Fri, 10 Sep 2021 01:25:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[National Television Awards 2021: Ant and Dec 'overwhelmed' by 20th win]]></title>
-            <description><![CDATA[The duo have won the TV presenting prize at the National Television Awards every year since 2001.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-58509117?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-58509117</guid>
-            <pubDate>Thu, 09 Sep 2021 21:54:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: Biden orders employees of big businesses to be vaccinated or face testing]]></title>
-            <description><![CDATA[The US president is using his executive power to require that big companies vaccinate employees.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-58508547?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58508547</guid>
-            <pubDate>Fri, 10 Sep 2021 06:52:51 GMT</pubDate>
+            <title><![CDATA[West Midlands Police sorry for failing domestic abuse victim]]></title>
+            <description><![CDATA[Suzanne Van Hagen's family say they have fought for more than eight years to get the truth.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-birmingham-58515401?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-birmingham-58515401</guid>
+            <pubDate>Fri, 10 Sep 2021 12:11:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Cressida Dick: Police Federation backs Met commissioner]]></title>
@@ -107,13 +107,6 @@
             <pubDate>Thu, 09 Sep 2021 23:33:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Papers: Mass booster warning and anger over benefit cuts]]></title>
-            <description><![CDATA[The Oxford jab creator's doubts about third doses and Universal Credit concerns lead the papers.]]></description>
-            <link>https://www.bbc.co.uk/news/blogs-the-papers-58509832?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/blogs-the-papers-58509832</guid>
-            <pubDate>Fri, 10 Sep 2021 04:18:08 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[From council house to royal palace: My life as the Queen’s piper]]></title>
             <description><![CDATA[Pipe Major Scott Methven held one of the most prestigious jobs in the piping world, a role which dates back to Queen Victoria’s reign.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-58476253?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -126,6 +119,13 @@
             <link>https://www.bbc.co.uk/news/world-58472583?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-58472583</guid>
             <pubDate>Thu, 09 Sep 2021 13:42:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Barbados to Rotherham: Lizard's 4,000-mile trip hidden in bra]]></title>
+            <description><![CDATA[A Rotherham woman finds she has brought more home from the Caribbean than just a tan.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-south-yorkshire-58516337?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-south-yorkshire-58516337</guid>
+            <pubDate>Fri, 10 Sep 2021 11:40:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The rare Indian swimming camels under threat]]></title>
@@ -254,13 +254,6 @@
             <pubDate>Fri, 10 Sep 2021 09:28:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[NFL: Tom Brady throws four touchdowns, two to Rob Gronkowski, as Tampa Bay Buccaneers win]]></title>
-            <description><![CDATA[Tom Brady throws four touchdowns as the defending Super Bowl champions beat the Dallas Cowboys 31-29 in the NFL season opener.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/american-football/58513770?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/av/american-football/58513770</guid>
-            <pubDate>Fri, 10 Sep 2021 08:01:48 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Afghanistan: What has changed in 20 years]]></title>
             <description><![CDATA[Women's education and independent media have been the success stories, but all this might change now.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-58505044?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -338,11 +331,11 @@
             <pubDate>Fri, 10 Sep 2021 08:34:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid passports: Will I need one for nightclubs, concerts and festivals?]]></title>
+            <title><![CDATA[Covid passports: How do I get one and when will I need it?]]></title>
             <description><![CDATA[People in Scotland will need to be fully vaccinated to go to clubs, sporting events and concerts.]]></description>
             <link>https://www.bbc.co.uk/news/explainers-55718553?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/explainers-55718553</guid>
-            <pubDate>Thu, 09 Sep 2021 17:03:53 GMT</pubDate>
+            <pubDate>Fri, 10 Sep 2021 11:51:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Long Covid: What is it and what are the symptoms?]]></title>
