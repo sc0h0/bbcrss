@@ -25,4 +25,4 @@
 25. [Pwysau'r pandemig yn cynyddu unwaith yn rhagor ar y GIG](https://www.bbc.co.uk/newyddion/58516490?at_medium=RSS&at_campaign=KARANGA) - Wrth i bwysau ar ysbytai gynyddu, mae'r prif weinidog wedi apelio ar bobl i gymryd pob cam posib i atal y feirws.
 26. [Ffoaduriaid cyntaf o Afghanistan yn cyrraedd Cymru](https://www.bbc.co.uk/newyddion/58505064?at_medium=RSS&at_campaign=KARANGA) - Mae llawer wedi rhoi cefnogaeth uniongyrchol i unedau'r lluoedd arfog Cymreig yn eu mamwlad ers 2001.
 27. [Al Lewis: Y galar a'r gân](https://www.bbc.co.uk/newyddion/58506559?at_medium=RSS&at_campaign=KARANGA) - "Mi oedd hi fel bo' Dad 'mond wedi marw wythnos d'wetha, dyna sut ma'r galar yn medru'ch taro chi weithie."
-28. [Canlyniad nos Wener yn y Cymru Premier](https://www.bbc.co.uk/newyddion/58523748?at_medium=RSS&at_campaign=KARANGA) - Canlyniad yr unig gêm yn y Cymru Premier nos Wener, wrth i Derwyddon Cefn deithio i herio Caernarfon.
+28. [Adran Dau: Harrogate 2-2 Casnewydd](https://www.bbc.co.uk/newyddion/58523747?at_medium=RSS&at_campaign=KARANGA) - Casnewydd a Harrogate yn gorfod bodloni ar bwynt yr un yn dilyn gêm gyfartal yng ngogledd Lloegr.
