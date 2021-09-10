@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 10 Sep 2021 07:31:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Sep 2021 07:59:24 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -128,6 +128,13 @@
             <pubDate>Wed, 08 Sep 2021 11:39:23 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[England v India 2021: Fifth Test at Old Trafford cancelled amid Covid-19 concerns]]></title>
+            <description><![CDATA[England's fifth Test against India at Old Trafford is cancelled after a number of the tourists' backroom staff tested positive for Covid-19.]]></description>
+            <link>https://www.bbc.co.uk/sport/cricket/58512624?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/cricket/58512624</guid>
+            <pubDate>Fri, 10 Sep 2021 07:57:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Emma Raducanu reaches US Open final in New York]]></title>
             <description><![CDATA[British teenager Emma Raducanu reaches the US Open final as her meteoric rise continues with a stunning straight-set win over Greece's Maria Sakkari.]]></description>
             <link>https://www.bbc.co.uk/sport/tennis/58511033?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -154,13 +161,6 @@
             <link>https://www.bbc.co.uk/sport/football/58509903?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58509903</guid>
             <pubDate>Thu, 09 Sep 2021 21:35:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[England v New Zealand: Sophia Dunkley sees England home to win T20 series]]></title>
-            <description><![CDATA[England win the decisive final match against New Zealand by four wickets with one ball to spare at Taunton, to win the women's Twenty20 international series 2-1.]]></description>
-            <link>https://www.bbc.co.uk/sport/cricket/58509065?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/cricket/58509065</guid>
-            <pubDate>Thu, 09 Sep 2021 21:16:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
