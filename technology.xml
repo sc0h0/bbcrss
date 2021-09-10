@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 10 Sep 2021 09:37:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Sep 2021 09:47:19 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -28,6 +28,13 @@
             <link>https://www.bbc.co.uk/news/technology-58488235?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/technology-58488235</guid>
             <pubDate>Thu, 09 Sep 2021 16:00:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Playstation Showcase 2021: What we learned]]></title>
+            <description><![CDATA[Sony attempts to turn fan frustration into excitement about new games.]]></description>
+            <link>https://www.bbc.co.uk/news/newsbeat-58513874?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/newsbeat-58513874</guid>
+            <pubDate>Fri, 10 Sep 2021 08:52:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Twitter to label 'good' bot accounts]]></title>
@@ -84,13 +91,6 @@
             <link>https://www.bbc.co.uk/news/business-58494912?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58494912</guid>
             <pubDate>Wed, 08 Sep 2021 21:01:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Twitter tests bigger pictures in timeline]]></title>
-            <description><![CDATA[Twitter's latest test to change its core experience makes photos and videos fill a mobile screen.]]></description>
-            <link>https://www.bbc.co.uk/news/technology-58490048?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/technology-58490048</guid>
-            <pubDate>Wed, 08 Sep 2021 13:15:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Is this the era of a more shopping focused social media?]]></title>
@@ -175,20 +175,6 @@
             <link>https://www.bbc.co.uk/news/business-58260533?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58260533</guid>
             <pubDate>Mon, 30 Aug 2021 23:12:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why is there a chip shortage?]]></title>
-            <description><![CDATA[The big chip crunch is really biting now, leaving even the most unexpected industries in crisis.]]></description>
-            <link>https://www.bbc.co.uk/news/business-58230388?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58230388</guid>
-            <pubDate>Thu, 26 Aug 2021 23:03:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why phone scams are so difficult to tackle]]></title>
-            <description><![CDATA[Phone fraud, both via calls and text messages, has soared during the pandemic.]]></description>
-            <link>https://www.bbc.co.uk/news/business-58254354?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58254354</guid>
-            <pubDate>Sun, 22 Aug 2021 23:13:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
