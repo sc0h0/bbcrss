@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 11 Sep 2021 16:41:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Sep 2021 16:59:26 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -170,6 +170,13 @@
             <pubDate>Fri, 10 Sep 2021 18:55:05 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Terfysgwr Finsbury Park 'bron yn ddall' wedi ymosodiad]]></title>
+            <description><![CDATA[Cafodd Darren Osborne, o Gaerdydd, ei drywanu yn ei dalcen gan garcharor arall y llynedd.]]></description>
+            <link>https://www.bbc.co.uk/newyddion/58531121?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/newyddion/58531121</guid>
+            <pubDate>Sat, 11 Sep 2021 16:41:27 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Colli budd-dal: 'Pobl yn gorfod dewis rhwng bwyd a gwres']]></title>
             <description><![CDATA[Elusen yn rhybuddio y bydd teuluoedd yn dioddef os ydy'r toriad i gredyd cynhwysol yn mynd yn ei flaen.]]></description>
             <link>https://www.bbc.co.uk/newyddion/58521419?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -184,13 +191,6 @@
             <pubDate>Sat, 11 Sep 2021 11:02:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Blodau gwyllt, prin ger stadau tai yn achosi ffrae]]></title>
-            <description><![CDATA[Dywed un ddynes fod llygoden wedi cnoi ei ffordd i mewn i lofft un o'r trigolion am fod y blodau mor agos.]]></description>
-            <link>https://www.bbc.co.uk/newyddion/58515839?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/newyddion/58515839</guid>
-            <pubDate>Sat, 11 Sep 2021 11:28:51 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[9/11: Stori dau fu yng nghanol y dinistr]]></title>
             <description><![CDATA[Dyn tân a gohebydd sy'n dweud eu stori bersonol nhw am fod yng nghanol yr ymosodiadau terfysgol ar Efrog Newydd 20 mlynedd yn ôl.]]></description>
             <link>https://www.bbc.co.uk/newyddion/58488106?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -198,11 +198,11 @@
             <pubDate>Sat, 11 Sep 2021 07:10:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Cymro yn ennill Ras Cefn y Ddraig 2021]]></title>
+            <title><![CDATA[Cymro yn ennill Ras Cefn y Ddraig am y tro cyntaf]]></title>
             <description><![CDATA[Rhedwr o Bontypridd yn ennill y ras 380km o hyd, sy'n esgyn bron ddwywaith uchder Everest.]]></description>
             <link>https://www.bbc.co.uk/newyddion/58531120?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/newyddion/58531120</guid>
-            <pubDate>Sat, 11 Sep 2021 14:59:24 GMT</pubDate>
+            <pubDate>Sat, 11 Sep 2021 16:51:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
