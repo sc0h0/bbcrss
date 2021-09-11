@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 11 Sep 2021 12:49:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Sep 2021 13:04:42 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -35,6 +35,13 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58528575?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58528575</guid>
             <pubDate>Sat, 11 Sep 2021 11:18:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Aberdeen Nine' allowed to stand for re-election]]></title>
+            <description><![CDATA[Nine Labour councillors suspended from the party after forming a coalition with the Tories can stand for re-election.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-58530013?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-58530013</guid>
+            <pubDate>Sat, 11 Sep 2021 12:57:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid in Scotland: Infection rate jumps to record one in 45]]></title>
@@ -77,13 +84,6 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58519299?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58519299</guid>
             <pubDate>Fri, 10 Sep 2021 13:41:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Man in court on Dundee murder charge]]></title>
-            <description><![CDATA[The 27-year-old is accused of killing Lee Small in the Douglas area of the city on Wednesday.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-tayside-central-58514895?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-tayside-central-58514895</guid>
-            <pubDate>Fri, 10 Sep 2021 16:14:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Local Hero phone box in Pennan to be kept in service]]></title>
@@ -247,13 +247,6 @@
             <pubDate>Sat, 04 Sep 2021 16:20:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Listen: Off the Ball with Stuart Cosgrove & Tam Cowan]]></title>
-            <description><![CDATA[Stuart Cosgrove and Tam Cowan kick off the day's Scottish football coverage on Off the Ball on BBC Radio Scotland.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/football/58455557?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/av/football/58455557</guid>
-            <pubDate>Sat, 11 Sep 2021 12:33:49 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Scottish Gossip: Celtic, McKay, Aberdeen, Ferguson, Hearts, St Johnstone]]></title>
             <description><![CDATA[Dominic McKay jumped before he was pushed at Celtic as former players weigh in on chief executive's exit.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58478659?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -261,18 +254,18 @@
             <pubDate>Sat, 11 Sep 2021 07:53:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Steven Gerrard: Rangers manager hails club unity during Covid absences]]></title>
-            <description><![CDATA[Steven Gerrard is proud of the way his Rangers players "all stuck together" during his Covid-enforced absence to come through key matches.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58513392?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58513392</guid>
-            <pubDate>Fri, 10 Sep 2021 15:24:06 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[BMW Championship: Robert MacIntyre's missed cut means he needs Ryder Cup wildcard]]></title>
             <description><![CDATA[Robert MacIntyre bemoans his recent form struggles after his bid for automatic Ryder Cup qualification falls short at the BMW PGA Championship.]]></description>
             <link>https://www.bbc.co.uk/sport/golf/58509046?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/golf/58509046</guid>
             <pubDate>Fri, 10 Sep 2021 17:41:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Scottish Premiership things to watch this weekend]]></title>
+            <description><![CDATA[A top-of-the-table Edinburgh derby, new forwards at Celtic and a chance for Aberdeen to get back on track.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58513390?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58513390</guid>
+            <pubDate>Sat, 11 Sep 2021 12:06:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
