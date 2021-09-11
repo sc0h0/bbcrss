@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 11 Sep 2021 07:48:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Sep 2021 08:15:00 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -30,18 +30,18 @@
             <pubDate>Fri, 10 Sep 2021 22:07:15 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Scotland's papers: Celtic's 'Domshell' and record Covid rates]]></title>
+            <description><![CDATA[The resignation of Celtic's chief executive and the highest ever Covid infection rate makes the front pages.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-58524625?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-58524625</guid>
+            <pubDate>Sat, 11 Sep 2021 08:06:52 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Covid in Scotland: Infection rate jumps to record one in 45]]></title>
             <description><![CDATA[Scotland has the highest rates across the UK nations, according to the Office for National Statistics.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-58515312?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-58515312</guid>
             <pubDate>Fri, 10 Sep 2021 16:17:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nicola Sturgeon: Indyref2 timetable is realistic despite Covid]]></title>
-            <description><![CDATA[Scotland's first minister says a referendum could be held within two years despite Covid making "everything harder".]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-scotland-politics-58517369?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-scotland-politics-58517369</guid>
-            <pubDate>Fri, 10 Sep 2021 16:05:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Celtic: Dominic McKay steps down as chief executive after two months for personal reasons]]></title>
@@ -56,6 +56,13 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58515511?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58515511</guid>
             <pubDate>Fri, 10 Sep 2021 18:23:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nicola Sturgeon: Indyref2 timetable is realistic despite Covid]]></title>
+            <description><![CDATA[Scotland's first minister says a referendum could be held within two years despite Covid making "everything harder".]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-scotland-politics-58517369?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-scotland-politics-58517369</guid>
+            <pubDate>Fri, 10 Sep 2021 16:05:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Pensioner accused of raping and murdering woman in Girvan flat]]></title>
@@ -84,13 +91,6 @@
             <link>https://www.bbc.co.uk/news/uk-58360996?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58360996</guid>
             <pubDate>Fri, 10 Sep 2021 16:00:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dawnfresh to close Uddingston plant and expand Arbroath operation]]></title>
-            <description><![CDATA[Dawnfresh will close its Uddingston plant with workers offered roles in an expanded operation in Arbroath.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-tayside-central-58514901?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-tayside-central-58514901</guid>
-            <pubDate>Fri, 10 Sep 2021 15:12:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Local Hero phone box in Pennan to be kept in service]]></title>
@@ -254,6 +254,13 @@
             <pubDate>Sat, 04 Sep 2021 16:20:40 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Scottish Gossip: Celtic, McKay, Aberdeen, Ferguson, Hearts, St Johnstone]]></title>
+            <description><![CDATA[Dominic McKay jumped before he was pushed at Celtic as former players weigh in on chief executive's exit.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58478659?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58478659</guid>
+            <pubDate>Sat, 11 Sep 2021 07:53:34 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Steven Gerrard: Rangers manager hails club unity during Covid absences]]></title>
             <description><![CDATA[Steven Gerrard is proud of the way his Rangers players "all stuck together" during his Covid-enforced absence to come through key matches.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58513392?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -273,13 +280,6 @@
             <link>https://www.bbc.co.uk/sport/football/58513391?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58513391</guid>
             <pubDate>Fri, 10 Sep 2021 12:14:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Scottish Premiership things to watch this weekend]]></title>
-            <description><![CDATA[A top-of-the-table Edinburgh derby, new forwards at Celtic and a chance for Aberdeen to get back on track.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58513390?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58513390</guid>
-            <pubDate>Fri, 10 Sep 2021 12:16:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
