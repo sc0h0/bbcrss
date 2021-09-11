@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 11 Sep 2021 13:06:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Sep 2021 13:24:42 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[9/11 anniversary: Official commemorations under way]]></title>
+            <description><![CDATA[A minute's silence will mark the exact times the hijacked planes crashed in three states.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-58530073?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58530073</guid>
+            <pubDate>Sat, 11 Sep 2021 13:19:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[9/11 anniversary: Queen tells Biden the victims are in her prayers]]></title>
             <description><![CDATA[In a message to the US president, the Queen also pays tribute to communities who joined together to rebuild.]]></description>
@@ -37,18 +44,18 @@
             <pubDate>Sat, 11 Sep 2021 12:42:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Raducanu looks to make British tennis history]]></title>
-            <description><![CDATA[Emma Raducanu seeks to become the first British woman to win a Grand Slam singles title in 44 years when she takes on fellow teenager Leylah Fernandez in the US Open final.]]></description>
-            <link>https://www.bbc.co.uk/sport/tennis/58524261?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/58524261</guid>
-            <pubDate>Fri, 10 Sep 2021 23:26:27 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Red carpet debut for 'Bennifer' 2.0 in Venice]]></title>
             <description><![CDATA[Ben Affleck and Jennifer Lopez arrive in Venice for the premiere of The Last Duel.]]></description>
             <link>https://www.bbc.co.uk/news/entertainment-arts-58527312?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-58527312</guid>
             <pubDate>Sat, 11 Sep 2021 03:58:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Emma Raducanu: Channel 4 to show US Open final against Leylah Fernandez live]]></title>
+            <description><![CDATA[British teenager Emma Raducanu's history-making US Open final against Leylah Fernandez will be shown live on Channel 4]]></description>
+            <link>https://www.bbc.co.uk/sport/tennis/58514875?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/58514875</guid>
+            <pubDate>Sat, 11 Sep 2021 08:50:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Coronavirus: PM set to unveil Covid Winter Plan for England]]></title>
@@ -58,11 +65,11 @@
             <pubDate>Sat, 11 Sep 2021 12:14:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[GPs say shortage of doctors puts safe care at risk]]></title>
-            <description><![CDATA[The Royal College of GPs says a failure to recruit enough doctors has put services under pressure.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58524559?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58524559</guid>
-            <pubDate>Sat, 11 Sep 2021 01:08:14 GMT</pubDate>
+            <title><![CDATA[Didsbury Mosque: Police investigate fire as hate crime]]></title>
+            <description><![CDATA[Mosque leaders says they are "so grateful" to neighbours who tried to put out the blaze with coats.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-manchester-58528886?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-manchester-58528886</guid>
+            <pubDate>Sat, 11 Sep 2021 11:14:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tax on landlords could help pay for social care, says Keir Starmer]]></title>
@@ -72,18 +79,11 @@
             <pubDate>Fri, 10 Sep 2021 21:32:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Fraud warning for young: 'I had £700 stolen']]></title>
-            <description><![CDATA[An anti-fraud charity says banks are not doing enough to warn young adults about the dangers of fraud.]]></description>
-            <link>https://www.bbc.co.uk/news/business-58499998?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58499998</guid>
-            <pubDate>Fri, 10 Sep 2021 23:48:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[All of Disney's 2021 movies to debut exclusively in cinemas]]></title>
-            <description><![CDATA[All films set to come out 2021 will be released in cinemas, handing a boost to struggling venues.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-58524893?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58524893</guid>
-            <pubDate>Fri, 10 Sep 2021 23:04:26 GMT</pubDate>
+            <title><![CDATA[GPs say shortage of doctors puts safe care at risk]]></title>
+            <description><![CDATA[The Royal College of GPs says a failure to recruit enough doctors has put services under pressure.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-58524559?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58524559</guid>
+            <pubDate>Sat, 11 Sep 2021 01:08:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Proms season draws to a close with a tango]]></title>
@@ -98,13 +98,6 @@
             <link>https://www.bbc.co.uk/news/world-asia-58523543?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58523543</guid>
             <pubDate>Fri, 10 Sep 2021 23:11:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Papers: 'Andrew served' in abuse claim case and PM Covid warning]]></title>
-            <description><![CDATA[The papers cover a court case against the Duke of York and the risk of tighter virus restrictions.]]></description>
-            <link>https://www.bbc.co.uk/news/blogs-the-papers-58524541?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/blogs-the-papers-58524541</guid>
-            <pubDate>Sat, 11 Sep 2021 04:15:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ros Atkins on... lorry driver shortages]]></title>
@@ -205,6 +198,20 @@
             <pubDate>Thu, 09 Sep 2021 23:49:20 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Can Raducanu end 44-year drought? Briton and fellow teenager Fernandez set for US Open final]]></title>
+            <description><![CDATA[Emma Raducanu seeks to become the first British woman to win a Grand Slam singles title in 44 years when she takes on fellow teenager Leylah Fernandez in the US Open final.]]></description>
+            <link>https://www.bbc.co.uk/sport/tennis/58524261?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/58524261</guid>
+            <pubDate>Fri, 10 Sep 2021 23:26:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cristiano Ronaldo starts for Man Utd v Newcastle Utd]]></title>
+            <description><![CDATA[Cristiano Ronaldo is named in Manchester United's side against Newcastle - his first appearance for the club for 12 years.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58437003?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58437003</guid>
+            <pubDate>Sat, 11 Sep 2021 13:03:40 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Late Allen header earns Villa point at West Ham in WSL]]></title>
             <description><![CDATA[Remi Allen's late equaliser earns Aston Villa a point at West Ham in the Women's Super League.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58444980?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -226,25 +233,11 @@
             <pubDate>Fri, 10 Sep 2021 20:42:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Raducanu v Fernandez in US Open final to be shown live on Channel 4]]></title>
-            <description><![CDATA[British teenager Emma Raducanu's history-making US Open final against Leylah Fernandez will be shown live on Channel 4]]></description>
-            <link>https://www.bbc.co.uk/sport/tennis/58514875?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/58514875</guid>
-            <pubDate>Sat, 11 Sep 2021 08:50:34 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Highlights: Emma Raducanu beats Leylah Fernandez at Wimbledon 2018]]></title>
             <description><![CDATA[Watch highlights from Emma Raducanu's last meeting with US Open final opponent Leylah Fernandez in the second round of the girls' singles at Wimbledon 2018.]]></description>
             <link>https://www.bbc.co.uk/sport/av/tennis/58522608?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/av/tennis/58522608</guid>
             <pubDate>Sat, 11 Sep 2021 05:13:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Football Focus: 'I watch games thinking we're going to lose' - Fans discuss Mikel Arteta's Arsenal]]></title>
-            <description><![CDATA[Arsenal fans discuss the club's poor start to the season which sees the sit club at the bottom of the Premier League after three consecutive defeats.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/football/58524441?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/av/football/58524441</guid>
-            <pubDate>Fri, 10 Sep 2021 20:15:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[September 11 attacks: What happened on 9/11?]]></title>
