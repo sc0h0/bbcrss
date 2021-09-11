@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 11 Sep 2021 23:22:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Sep 2021 23:32:01 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -72,6 +72,13 @@
             <pubDate>Fri, 10 Sep 2021 17:28:09 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Keeping up with the Californians: Recall vote 2021]]></title>
+            <description><![CDATA[A ragtag bunch of 46 challengers hope voters will remove the governor and let them run California.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-58504324?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58504324</guid>
+            <pubDate>Sat, 11 Sep 2021 23:23:29 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Canada election: What is your 'ballot box' issue?]]></title>
             <description><![CDATA[Three voters tell the BBC what issues are at stake and who they are voting for.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-58523450?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -112,27 +119,6 @@
             <link>https://www.bbc.co.uk/news/world-us-canada-58496145?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58496145</guid>
             <pubDate>Wed, 08 Sep 2021 21:18:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why China's bitcoin miners are moving to Texas]]></title>
-            <description><![CDATA[Beijing's crackdown on cryptocurrency sends bitcoin entrepreneurs moving to the wild wild west.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-58414555?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58414555</guid>
-            <pubDate>Fri, 03 Sep 2021 23:13:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Afghanistan crisis: How Europe's relationship with Joe Biden turned sour]]></title>
-            <description><![CDATA[In many EU circles, the honeymoon period for Donald Trump's successor may be coming to an end.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58416848?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58416848</guid>
-            <pubDate>Thu, 02 Sep 2021 23:05:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Theranos scandal: Who is Elizabeth Holmes and why is she on trial?]]></title>
-            <description><![CDATA[The former boss of blood testing company Theranos is accused of fraud and could face years in jail.]]></description>
-            <link>https://www.bbc.co.uk/news/business-58336998?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58336998</guid>
-            <pubDate>Mon, 30 Aug 2021 23:37:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['Black national anthem' makes its debut at the NFL]]></title>
