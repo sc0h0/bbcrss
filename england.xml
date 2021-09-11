@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 11 Sep 2021 15:03:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Sep 2021 15:11:43 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -184,6 +184,13 @@
             <pubDate>Fri, 10 Sep 2021 14:47:37 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Cristiano Ronaldo scores for Man Utd v Newcastle Utd]]></title>
+            <description><![CDATA[Cristiano Ronaldo scores for Manchester United against Newcastle United - his first goal for the club for 12 years.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58437003?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58437003</guid>
+            <pubDate>Sat, 11 Sep 2021 15:02:55 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[US Open 2021: Emma Raducanu faces fellow teenager Leylah Fernandez in final]]></title>
             <description><![CDATA[Emma Raducanu seeks to become the first British woman to win a Grand Slam singles title in 44 years when she takes on fellow teenager Leylah Fernandez in the US Open final.]]></description>
             <link>https://www.bbc.co.uk/sport/tennis/58524261?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -196,13 +203,6 @@
             <link>https://www.bbc.co.uk/sport/football/58436965?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58436965</guid>
             <pubDate>Sat, 11 Sep 2021 14:14:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[West Ham United Women 1-1 Aston Villa Women: Remi Allen rescues point for visitors]]></title>
-            <description><![CDATA[Remi Allen's late equaliser earns Aston Villa a point at West Ham in the Women's Super League.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58444980?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58444980</guid>
-            <pubDate>Sat, 11 Sep 2021 12:34:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
