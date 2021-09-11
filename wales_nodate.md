@@ -24,4 +24,4 @@
 24. [Apêl heddlu ar ôl difrod i gofeb Hedd Wyn, Trawsfynydd](https://www.bbc.co.uk/newyddion/58528141?at_medium=RSS&at_campaign=KARANGA) - Heddlu'n cyhoeddi dau lun yn gysylltiedig â difrod i gofeb Hedd Wyn ynghanol Trawsfynydd.
 25. [Blodau gwyllt, prin ger stadau tai yn achosi ffrae](https://www.bbc.co.uk/newyddion/58515839?at_medium=RSS&at_campaign=KARANGA) - Dywed un ddynes fod llygoden wedi cnoi ei ffordd i mewn i lofft un o'r trigolion am fod y blodau mor agos.
 26. [9/11: Stori dau fu yng nghanol y dinistr](https://www.bbc.co.uk/newyddion/58488106?at_medium=RSS&at_campaign=KARANGA) - Dyn tân a gohebydd sy'n dweud eu stori bersonol nhw am fod yng nghanol yr ymosodiadau terfysgol ar Efrog Newydd 20 mlynedd yn ôl.
-27. [Adran Dau: Harrogate 2-2 Casnewydd](https://www.bbc.co.uk/newyddion/58523747?at_medium=RSS&at_campaign=KARANGA) - Casnewydd a Harrogate yn gorfod bodloni ar bwynt yr un yn dilyn gêm gyfartal yng ngogledd Lloegr.
+27. [Cymro yn ennill Ras Cefn y Ddraig 2021](https://www.bbc.co.uk/newyddion/58531120?at_medium=RSS&at_campaign=KARANGA) - Rhedwr o Bontypridd yn ennill y ras 380km o hyd, sy'n esgyn bron ddwywaith uchder Everest.
