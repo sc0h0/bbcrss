@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 11 Sep 2021 18:33:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Sep 2021 18:51:46 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -198,11 +198,11 @@
             <pubDate>Fri, 10 Sep 2021 23:26:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Arsenal 1-0 Norwich City: Aubameyang scores winner as Arsenal beat Norwich]]></title>
-            <description><![CDATA[Arsenal lift the pressure on manager Mikel Arteta as they secure their first points of the Premier League season with victory over Norwich City at Emirates Stadium.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58436972?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58436972</guid>
-            <pubDate>Sat, 11 Sep 2021 16:16:10 GMT</pubDate>
+            <title><![CDATA[Chelsea 3-0 Aston Villa: Lukaku scores first ever goals at Stamford Bridge as Blues maintain unbeaten start]]></title>
+            <description><![CDATA[Romelu Lukaku scores his first ever goal at Stamford Bridge as Chelsea beat Aston Villa to maintain their unbeaten start.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58437034?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58437034</guid>
+            <pubDate>Sat, 11 Sep 2021 18:35:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hamilton to start fourth at Italian Grand Prix as Verstappen takes pole]]></title>
@@ -210,6 +210,13 @@
             <link>https://www.bbc.co.uk/sport/formula1/58530561?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/formula1/58530561</guid>
             <pubDate>Sat, 11 Sep 2021 16:37:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Arsenal 1-0 Norwich City: Aubameyang scores winner as Arsenal beat Norwich]]></title>
+            <description><![CDATA[Arsenal lift the pressure on manager Mikel Arteta as they secure their first points of the Premier League season with victory over Norwich City at Emirates Stadium.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58436972?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58436972</guid>
+            <pubDate>Sat, 11 Sep 2021 16:16:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
