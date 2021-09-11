@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 11 Sep 2021 07:18:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Sep 2021 07:29:04 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -44,13 +44,6 @@
             <pubDate>Fri, 10 Sep 2021 14:37:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Brexit: EU 'not looking for political victory' on protocol]]></title>
-            <description><![CDATA[Maros Sefcovic ends his two-day visit to Northern Ireland saying he wanted a "win-win" for all.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58509239?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58509239</guid>
-            <pubDate>Fri, 10 Sep 2021 16:11:04 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Claudy bomb: Families reach settlement with PSNI and government]]></title>
             <description><![CDATA[Nine people were killed when three bombs exploded in the County Londonderry village in July 1972.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58512319?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -65,6 +58,13 @@
             <pubDate>Fri, 10 Sep 2021 23:09:46 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[All-Ireland final: Tyrone awash with colour ahead of clash with Mayo]]></title>
+            <description><![CDATA[Local businesses have seen an upsurge in trade, as Tyrone fans buy kit and souvenirs.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58516237?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58516237</guid>
+            <pubDate>Fri, 10 Sep 2021 11:46:08 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[All-Ireland Football Final: Tyrone unchanged with McShane kept in reserve as Mayo make two changes]]></title>
             <description><![CDATA[Tyrone opt to keep Cathal McShane in reserve after naming an unchanged team for Saturday's All-Ireland Football Final as Mayo make two changes.]]></description>
             <link>https://www.bbc.co.uk/sport/gaelic-games/58515212?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -72,11 +72,11 @@
             <pubDate>Fri, 10 Sep 2021 16:19:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[All-Ireland final: Tyrone awash with colour ahead of clash with Mayo]]></title>
-            <description><![CDATA[Local businesses have seen an upsurge in trade, as Tyrone fans buy kit and souvenirs.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58516237?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58516237</guid>
-            <pubDate>Fri, 10 Sep 2021 11:46:08 GMT</pubDate>
+            <title><![CDATA[Brexit: EU 'not looking for political victory' on protocol]]></title>
+            <description><![CDATA[Maros Sefcovic ends his two-day visit to Northern Ireland saying he wanted a "win-win" for all.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58509239?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58509239</guid>
+            <pubDate>Fri, 10 Sep 2021 16:11:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: Schools safe for children and staff, says CMO]]></title>
