@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 11 Sep 2021 23:02:26 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Sep 2021 23:19:23 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Last Night Of The Proms: Accordion tangos end season on a joyous note]]></title>
+            <description><![CDATA[The Last Night concert ended with a tribute to the "healing and uplifting power of music".]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-58533541?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-58533541</guid>
+            <pubDate>Sat, 11 Sep 2021 23:13:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Venice Film Festival: Abortion drama wins top prize]]></title>
             <description><![CDATA[Audrey Diwan's Happening is set in 1960s France but comes amid debate over strict new laws in Texas.]]></description>
@@ -156,6 +163,13 @@
             <pubDate>Fri, 10 Sep 2021 09:52:45 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Photographer's images 'like ghosts coming out the mist']]></title>
+            <description><![CDATA[Guy Bellingham uses a 170-year-old technique to produce striking photos in remarkable detail.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-bristol-58505275?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-bristol-58505275</guid>
+            <pubDate>Sat, 11 Sep 2021 23:05:03 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Red carpet debut for 'Bennifer' 2.0 in Venice]]></title>
             <description><![CDATA[Ben Affleck and Jennifer Lopez arrive in Venice for the premiere of The Last Duel.]]></description>
             <link>https://www.bbc.co.uk/news/entertainment-arts-58527312?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -189,13 +203,6 @@
             <link>https://www.bbc.co.uk/sport/av/athletics/58504620?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/av/athletics/58504620</guid>
             <pubDate>Thu, 09 Sep 2021 13:44:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The rapper giving away school uniforms to kids on free school meals]]></title>
-            <description><![CDATA[Inspired by Marcus Rashford, Jords has donated over 100 blazers to children on free school meals.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-london-58494041?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-london-58494041</guid>
-            <pubDate>Thu, 09 Sep 2021 12:23:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
