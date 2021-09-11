@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 11 Sep 2021 17:48:26 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Sep 2021 18:02:15 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -23,25 +23,18 @@
             <pubDate>Sat, 11 Sep 2021 16:25:51 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Finsbury Park mosque attacker fears eye loss after prison stabbing]]></title>
+            <description><![CDATA[The Finsbury Park mosque attacker was stabbed by an inmate while serving a life sentence for murder.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-58530744?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-58530744</guid>
+            <pubDate>Sat, 11 Sep 2021 17:56:21 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Runner airlifted to hospital after Anglesey cliff fall]]></title>
             <description><![CDATA[A major search and rescue operation was launched to rescue the woman after her fall.]]></description>
             <link>https://www.bbc.co.uk/news/uk-wales-mid-wales-58532208?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-mid-wales-58532208</guid>
             <pubDate>Sat, 11 Sep 2021 17:30:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Barmouth Bridge: 'Triggers' broom' bridge to get £30m upgrade]]></title>
-            <description><![CDATA[Like Trigger's Broom from Only Fools and Horses, the bridge doesn't have much from its first build.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-58517351?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-58517351</guid>
-            <pubDate>Sat, 11 Sep 2021 17:22:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Universal Credit: Families must choose food or fuel in benefits cut]]></title>
-            <description><![CDATA[Mothers on strict budgets and a poverty charity call for the universal credit boost to remain.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-58501219?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-58501219</guid>
-            <pubDate>Sat, 11 Sep 2021 11:03:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Rare wild flowers growing in Ruthin meadows, council says]]></title>
@@ -51,18 +44,25 @@
             <pubDate>Sat, 11 Sep 2021 14:27:10 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Barmouth Bridge: 'Trigger's broom' bridge to get £30m upgrade]]></title>
+            <description><![CDATA[Like Trigger's Broom from Only Fools and Horses, the bridge doesn't have much from its first build.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-58517351?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-58517351</guid>
+            <pubDate>Sat, 11 Sep 2021 17:59:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Universal Credit: Families must choose food or fuel in benefits cut]]></title>
+            <description><![CDATA[Mothers on strict budgets and a poverty charity call for the universal credit boost to remain.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-58501219?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-58501219</guid>
+            <pubDate>Sat, 11 Sep 2021 11:03:16 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Covid: Wales vaccine passport decision due next week]]></title>
             <description><![CDATA[It comes as Wales' first minister warns daily Covid hospital admissions could more than double.]]></description>
             <link>https://www.bbc.co.uk/news/uk-wales-58515771?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-58515771</guid>
             <pubDate>Fri, 10 Sep 2021 12:36:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Four men who died during Severn Bridge works honoured with plaque]]></title>
-            <description><![CDATA[Kevin Hoskins, John Short, Eric Sullivan and Robin Phelps died while working on the bridge.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-bristol-58512223?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-bristol-58512223</guid>
-            <pubDate>Fri, 10 Sep 2021 16:23:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Motorcyclist dies following crash with car on A493]]></title>
@@ -170,11 +170,11 @@
             <pubDate>Sat, 11 Sep 2021 16:41:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Colli budd-dal: 'Pobl yn gorfod dewis rhwng bwyd a gwres']]></title>
-            <description><![CDATA[Elusen yn rhybuddio y bydd teuluoedd yn dioddef os ydy'r toriad i gredyd cynhwysol yn mynd yn ei flaen.]]></description>
-            <link>https://www.bbc.co.uk/newyddion/58521419?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/newyddion/58521419</guid>
-            <pubDate>Sat, 11 Sep 2021 07:02:49 GMT</pubDate>
+            <title><![CDATA[Dynes wedi disgyn oddi ar glogwyn tra'n rhedeg ym Môn]]></title>
+            <description><![CDATA[Rhedwr wedi cael ei chludo mewn awyren i'r ysbyty ar ôl cwympo oddi ar glogwyn ym Môn.]]></description>
+            <link>https://www.bbc.co.uk/newyddion/58531125?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/newyddion/58531125</guid>
+            <pubDate>Sat, 11 Sep 2021 17:59:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Apêl heddlu ar ôl difrod i gofeb Hedd Wyn, Trawsfynydd]]></title>
