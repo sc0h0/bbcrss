@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 11 Sep 2021 10:35:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Sep 2021 10:44:05 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -30,13 +30,6 @@
             <pubDate>Fri, 10 Sep 2021 22:07:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Scotland's papers: Celtic's 'Domshell' and record Covid rates]]></title>
-            <description><![CDATA[The resignation of Celtic's chief executive and the highest ever Covid infection rate makes the front pages.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-58524625?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-58524625</guid>
-            <pubDate>Sat, 11 Sep 2021 08:59:03 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Teenage pedestrian killed in Glasgow incident]]></title>
             <description><![CDATA[Police say the 18-year-old man was hit on Crow Road in Glasgow by a vehicle in the early hours of Saturday.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58528575?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -49,6 +42,13 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-58515312?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-58515312</guid>
             <pubDate>Fri, 10 Sep 2021 16:17:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Scotland's papers: Celtic's 'Domshell' and record Covid rates]]></title>
+            <description><![CDATA[The resignation of Celtic's chief executive and the highest ever Covid infection rate makes the front pages.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-58524625?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-58524625</guid>
+            <pubDate>Sat, 11 Sep 2021 08:59:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Celtic: Dominic McKay steps down as chief executive after two months for personal reasons]]></title>
@@ -266,6 +266,13 @@
             <link>https://www.bbc.co.uk/sport/golf/58509046?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/golf/58509046</guid>
             <pubDate>Fri, 10 Sep 2021 17:41:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Scottish Premiership things to watch this weekend]]></title>
+            <description><![CDATA[A top-of-the-table Edinburgh derby, new forwards at Celtic and a chance for Aberdeen to get back on track.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58513390?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58513390</guid>
+            <pubDate>Fri, 10 Sep 2021 12:16:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
