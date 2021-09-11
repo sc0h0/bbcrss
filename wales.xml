@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 11 Sep 2021 15:44:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Sep 2021 15:59:26 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -135,6 +135,13 @@
             <pubDate>Wed, 08 Sep 2021 10:55:34 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Swansea City 0-0 Hull City: Tigers dig in to leave Swans frustrated]]></title>
+            <description><![CDATA[Swansea City are held to a goalless draw by Hull City, leaving Russell Martin still waiting for a first home league win at his new club.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58444598?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58444598</guid>
+            <pubDate>Sat, 11 Sep 2021 15:53:25 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Dragons consider fresh name change - chairman Buttress]]></title>
             <description><![CDATA[Dragons chairman David Buttress says they are considering a name change in the wake of Cardiff Blues becoming Cardiff Rugby.]]></description>
             <link>https://www.bbc.co.uk/sport/rugby-union/58529060?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -149,25 +156,18 @@
             <pubDate>Fri, 10 Sep 2021 20:52:06 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Wrexham v Woking]]></title>
+            <description><![CDATA[Live coverage of Saturday's National League game between Wrexham and Woking.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58445011?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58445011</guid>
+            <pubDate>Sat, 11 Sep 2021 11:27:44 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Gareth Anscombe: Wales fly-half makes Ospreys debut at Northampton]]></title>
             <description><![CDATA[Wales fly-half Gareth Anscombe finally returns after his 25-month knee injury in Ospreys' pre-season friendly at Northampton on Friday.]]></description>
             <link>https://www.bbc.co.uk/sport/rugby-union/58503832?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/rugby-union/58503832</guid>
             <pubDate>Fri, 10 Sep 2021 18:55:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Swansea City v Hull City]]></title>
-            <description><![CDATA[Live coverage of Saturday's Championship game between Swansea City and Hull City.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58444598?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58444598</guid>
-            <pubDate>Sat, 11 Sep 2021 11:42:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cardiff City: Mick McCarthy delighted to keep Kieffer Moore]]></title>
-            <description><![CDATA[Cardiff City manager Mick McCarthy admits he is surprised that Wales and Bluebirds forward Kieffer Moore remains with the Championship club.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58515815?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58515815</guid>
-            <pubDate>Fri, 10 Sep 2021 10:19:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Colli budd-dal: 'Pobl yn gorfod dewis rhwng bwyd a gwres']]></title>
