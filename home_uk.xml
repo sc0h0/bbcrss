@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 11 Sep 2021 10:03:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Sep 2021 10:23:26 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -37,6 +37,13 @@
             <pubDate>Sat, 11 Sep 2021 07:11:10 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Six men arrested in £160m cocaine haul off Plymouth coast]]></title>
+            <description><![CDATA[A British man is among six arrested on a luxury yacht carrying more than two tonnes of cocaine.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-devon-58528515?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-devon-58528515</guid>
+            <pubDate>Sat, 11 Sep 2021 09:35:56 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Raducanu looks to make British tennis history]]></title>
             <description><![CDATA[Emma Raducanu seeks to become the first British woman to win a Grand Slam singles title in 44 years when she takes on fellow teenager Leylah Fernandez in the US Open final.]]></description>
             <link>https://www.bbc.co.uk/sport/tennis/58524261?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -44,11 +51,11 @@
             <pubDate>Fri, 10 Sep 2021 23:26:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Ms Great Britain contestant to compete make-up free]]></title>
-            <description><![CDATA[Elle Seline hopes to inspire the next generation to be more comfortable in their own skin.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-58346534?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-58346534</guid>
-            <pubDate>Sat, 11 Sep 2021 06:19:38 GMT</pubDate>
+            <title><![CDATA[Red carpet debut for 'Bennifer' 2.0 in Venice]]></title>
+            <description><![CDATA[Ben Affleck and Jennifer Lopez arrive in Venice for the premiere of The Last Duel.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-58527312?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-58527312</guid>
+            <pubDate>Sat, 11 Sep 2021 03:58:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: Ambulance boss apology and France ex-health minister under investigation]]></title>
@@ -56,6 +63,13 @@
             <link>https://www.bbc.co.uk/news/uk-58521713?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58521713</guid>
             <pubDate>Sat, 11 Sep 2021 08:14:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ms Great Britain contestant to compete make-up free]]></title>
+            <description><![CDATA[Elle Seline hopes to inspire the next generation to be more comfortable in their own skin.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-58346534?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-58346534</guid>
+            <pubDate>Sat, 11 Sep 2021 06:19:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[GPs say shortage of doctors puts safe care at risk]]></title>
@@ -70,20 +84,6 @@
             <link>https://www.bbc.co.uk/news/uk-politics-58516799?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-politics-58516799</guid>
             <pubDate>Fri, 10 Sep 2021 21:32:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Red carpet debut for 'Bennifer' 2.0 in Venice]]></title>
-            <description><![CDATA[Ben Affleck and Jennifer Lopez arrive in Venice for the premiere of The Last Duel.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-58527312?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-58527312</guid>
-            <pubDate>Sat, 11 Sep 2021 03:58:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Six men arrested in £160m cocaine haul off Plymouth coast]]></title>
-            <description><![CDATA[A British man is among six arrested on a luxury yacht carrying more than two tonnes of cocaine.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-devon-58528515?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-devon-58528515</guid>
-            <pubDate>Sat, 11 Sep 2021 09:35:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Fraud warning for young: 'I had £700 stolen']]></title>
@@ -227,7 +227,7 @@
         </item>
         <item>
             <title><![CDATA[Raducanu v Fernandez in US Open final to be shown live on Channel 4]]></title>
-            <description><![CDATA[British teenager Emma Raducanu's history-making US Open final against Leylah Fernandez will be shown on Channel 4]]></description>
+            <description><![CDATA[British teenager Emma Raducanu's history-making US Open final against Leylah Fernandez will be shown live on Channel 4]]></description>
             <link>https://www.bbc.co.uk/sport/tennis/58514875?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/58514875</guid>
             <pubDate>Sat, 11 Sep 2021 08:50:34 GMT</pubDate>
@@ -240,18 +240,18 @@
             <pubDate>Fri, 10 Sep 2021 20:20:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA['He has that something extra' - Old Trafford awaits Ronaldo return]]></title>
-            <description><![CDATA[After a "mind-boggling" debut 18 years ago, BBC Sport looks ahead to Cristiano Ronaldo's Manchester United return.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58503638?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58503638</guid>
-            <pubDate>Fri, 10 Sep 2021 05:16:57 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Postponed Test earmarked for summer 2022 as ECB denies IPL affected call-off]]></title>
             <description><![CDATA[The postponed England-India Test could take place in the summer of 2022, says England and Wales Cricket Board chief Tom Harrison.]]></description>
             <link>https://www.bbc.co.uk/sport/cricket/58520503?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/cricket/58520503</guid>
             <pubDate>Fri, 10 Sep 2021 22:24:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Highlights: Emma Raducanu beats Leylah Fernandez at Wimbledon 2018]]></title>
+            <description><![CDATA[Watch highlights from Emma Raducanu's last meeting with US Open final opponent Leylah Fernandez in the second round of the girls' singles at Wimbledon 2018.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/tennis/58522608?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/av/tennis/58522608</guid>
+            <pubDate>Sat, 11 Sep 2021 05:13:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[September 11 attacks: What happened on 9/11?]]></title>
