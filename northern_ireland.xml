@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 11 Sep 2021 05:47:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Sep 2021 06:07:15 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -21,6 +21,13 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58521369?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58521369</guid>
             <pubDate>Sat, 11 Sep 2021 05:44:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[9/11 anniversary: Irish NYPD officer recalls horror of aftermath]]></title>
+            <description><![CDATA[Paul McCormack, originally from Ballybofey, describes the horrific scenes that met first responders.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58512318?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58512318</guid>
+            <pubDate>Sat, 11 Sep 2021 05:53:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Brexit: EU 'not looking for political victory' on protocol]]></title>
@@ -49,20 +56,6 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58512257?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58512257</guid>
             <pubDate>Fri, 10 Sep 2021 06:20:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid-19: 90% of adults in Republic of Ireland now fully vaccinated]]></title>
-            <description><![CDATA[The vaccine rollout is to continue across the country, with children 12 and over able to receive a jab.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58522792?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58522792</guid>
-            <pubDate>Fri, 10 Sep 2021 16:57:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid-19: NI records six coronavirus-linked deaths, 1,687 cases]]></title>
-            <description><![CDATA[The total number of deaths linked to coronavirus in NI since the start of the pandemic is 2,444.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58513890?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58513890</guid>
-            <pubDate>Fri, 10 Sep 2021 17:14:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[All-Ireland final: Tyrone awash with colour ahead of clash with Mayo]]></title>
@@ -105,6 +98,13 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58513887?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58513887</guid>
             <pubDate>Fri, 10 Sep 2021 13:23:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19: NI records six coronavirus-linked deaths, 1,687 cases]]></title>
+            <description><![CDATA[The total number of deaths linked to coronavirus in NI since the start of the pandemic is 2,444.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58513890?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58513890</guid>
+            <pubDate>Fri, 10 Sep 2021 17:14:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: Nisra records 64 more coronavirus-linked deaths]]></title>
@@ -245,6 +245,13 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58480610?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58480610</guid>
             <pubDate>Tue, 07 Sep 2021 15:49:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19: 90% of adults in Republic of Ireland now fully vaccinated]]></title>
+            <description><![CDATA[The vaccine rollout is to continue across the country, with children 12 and over able to receive a jab.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58522792?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58522792</guid>
+            <pubDate>Fri, 10 Sep 2021 16:57:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[County Kerry: Gardaí continues investigation into Ballyreahan deaths]]></title>
