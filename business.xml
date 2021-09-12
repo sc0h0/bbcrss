@@ -11,23 +11,37 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 12 Sep 2021 22:50:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Sep 2021 23:19:17 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[UK must prepare for more economic shocks, says TUC]]></title>
+            <description><![CDATA[The Covid pandemic will not be a one-off, with climate chaos already a reality, says Frances O'Grady.]]></description>
+            <link>https://www.bbc.co.uk/news/business-58538887?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58538887</guid>
+            <pubDate>Sun, 12 Sep 2021 23:02:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: Legal action begins over quarantine hotel rules]]></title>
+            <description><![CDATA[A law firm representing travellers is taking the government to court over the UK's quarantine hotel policy.]]></description>
+            <link>https://www.bbc.co.uk/news/business-58538885?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58538885</guid>
+            <pubDate>Sun, 12 Sep 2021 23:02:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The epicentre of Britain's pandemic house price boom]]></title>
+            <description><![CDATA[House prices have surged in many parts of the UK - and in one district they have risen by 29% in a year.]]></description>
+            <link>https://www.bbc.co.uk/news/business-58502618?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58502618</guid>
+            <pubDate>Sun, 12 Sep 2021 23:05:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Ryanair: Holiday prices likely to rise sharply soon]]></title>
             <description><![CDATA[Ryanair boss Michael O'Leary says fewer flights amid spiking demand will lead to higher prices.]]></description>
             <link>https://www.bbc.co.uk/news/business-58537030?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58537030</guid>
             <pubDate>Sun, 12 Sep 2021 13:26:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TUC: Jobs at risk if UK fails to hit carbon emissions target]]></title>
-            <description><![CDATA[Trade bodies and unions say the UK is slipping behind other nations on green investment.]]></description>
-            <link>https://www.bbc.co.uk/news/business-58519996?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58519996</guid>
-            <pubDate>Sun, 12 Sep 2021 07:26:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[England vaccine passport plans ditched, Sajid Javid says]]></title>
@@ -44,6 +58,13 @@
             <pubDate>Sun, 12 Sep 2021 19:03:32 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[TUC: Jobs at risk if UK fails to hit carbon emissions target]]></title>
+            <description><![CDATA[Trade bodies and unions say the UK is slipping behind other nations on green investment.]]></description>
+            <link>https://www.bbc.co.uk/news/business-58519996?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58519996</guid>
+            <pubDate>Sun, 12 Sep 2021 07:26:20 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Fraud warning for young: 'I had £700 stolen']]></title>
             <description><![CDATA[An anti-fraud charity says banks are not doing enough to warn young adults about the dangers of fraud.]]></description>
             <link>https://www.bbc.co.uk/news/business-58499998?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -51,18 +72,18 @@
             <pubDate>Fri, 10 Sep 2021 23:48:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Delays in state pension payments 'causing anxiety']]></title>
-            <description><![CDATA[Hundreds of new state pension claimants failed to get payments due to Covid and staffing problems.]]></description>
-            <link>https://www.bbc.co.uk/news/business-58519458?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58519458</guid>
-            <pubDate>Fri, 10 Sep 2021 21:33:01 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[What is 'individual transport' and why is it important?]]></title>
             <description><![CDATA[At the first major car sector event since Covid environmentally-friendly mobility was the hot topic.]]></description>
             <link>https://www.bbc.co.uk/news/business-58520094?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58520094</guid>
             <pubDate>Fri, 10 Sep 2021 21:57:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Delays in state pension payments 'causing anxiety']]></title>
+            <description><![CDATA[Hundreds of new state pension claimants failed to get payments due to Covid and staffing problems.]]></description>
+            <link>https://www.bbc.co.uk/news/business-58519458?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58519458</guid>
+            <pubDate>Fri, 10 Sep 2021 21:33:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Driver shortage: 50,000 more HGV driving tests promised a year]]></title>
@@ -91,20 +112,6 @@
             <link>https://www.bbc.co.uk/news/business-58514414?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58514414</guid>
             <pubDate>Fri, 10 Sep 2021 14:05:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Emma Raducanu set to be best-paid British sportswoman]]></title>
-            <description><![CDATA[The teenage tennis star's potential earnings skyrocket as she reaches the US Open final.]]></description>
-            <link>https://www.bbc.co.uk/news/business-58508806?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58508806</guid>
-            <pubDate>Fri, 10 Sep 2021 11:31:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['Pingdemic' dents UK economic growth in July]]></title>
-            <description><![CDATA[The UK economy grew just 0.1% in July, with Covid self-isolation keeping many workers at home.]]></description>
-            <link>https://www.bbc.co.uk/news/business-58502593?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58502593</guid>
-            <pubDate>Fri, 10 Sep 2021 09:26:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Could a reboot make social media a nicer place?]]></title>

@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 12 Sep 2021 22:52:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Sep 2021 23:16:26 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -170,6 +170,13 @@
             <pubDate>Fri, 10 Sep 2021 09:52:45 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The Biff, Chip and Kipper books adapted into TV show]]></title>
+            <description><![CDATA[From the classroom to the small screen; meet the actors playing Biff, Chip and Kipper.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-58506089?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-58506089</guid>
+            <pubDate>Sun, 12 Sep 2021 23:11:13 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Photographer's images 'like ghosts coming out the mist']]></title>
             <description><![CDATA[Guy Bellingham uses a 170-year-old technique to produce striking photos in remarkable detail.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-bristol-58505275?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -203,13 +210,6 @@
             <link>https://www.bbc.co.uk/news/entertainment-arts-58508715?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-58508715</guid>
             <pubDate>Thu, 09 Sep 2021 18:45:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Usain Bolt talks about his new music career]]></title>
-            <description><![CDATA[Eight-time Olympic champion Usain Bolt talks to BBC Sport's Ade Adedoyin about his ambitions for a career in music, Tokyo 2020, the women's 100m world record, and Cristiano Ronaldo's return to Manchester United.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/athletics/58504620?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/av/athletics/58504620</guid>
-            <pubDate>Thu, 09 Sep 2021 13:44:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
