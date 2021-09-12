@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 12 Sep 2021 19:15:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Sep 2021 19:24:12 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -79,6 +79,13 @@
             <pubDate>Sun, 12 Sep 2021 13:26:26 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Cressida Dick: Tech giants make it impossible to stop terrorists]]></title>
+            <description><![CDATA[Pressure on tech firms intensifies as Priti Patel unveils fund for technologies to keep children safe.]]></description>
+            <link>https://www.bbc.co.uk/news/business-58537599?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58537599</guid>
+            <pubDate>Sun, 12 Sep 2021 19:03:32 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Priti Patel: Labour demands probe after home secretary meets hotel boss]]></title>
             <description><![CDATA[The party says she has "questions to answer" after attending a lunch without civil servants present.]]></description>
             <link>https://www.bbc.co.uk/news/uk-politics-58536126?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -98,13 +105,6 @@
             <link>https://www.bbc.co.uk/news/uk-wales-58537844?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-58537844</guid>
             <pubDate>Sun, 12 Sep 2021 19:05:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[World's largest container ship arrives at Felixstowe]]></title>
-            <description><![CDATA[The Ever Ace, which is 400m-long (1,300ft) and can carry 23,992 containers, is on her maiden voyage.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-suffolk-58521299?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-suffolk-58521299</guid>
-            <pubDate>Sun, 12 Sep 2021 10:39:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[In pictures: Silence and tears as US remembers 9/11 attacks]]></title>
@@ -245,6 +245,13 @@
             <link>https://www.bbc.co.uk/news/uk-58539735?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58539735</guid>
             <pubDate>Sun, 12 Sep 2021 17:44:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Emma Raducanu: Where does teenager's win rank among British triumphs?]]></title>
+            <description><![CDATA[Where does teenager Emma Raducanu's historic US Open victory rank among great British sporting moments?]]></description>
+            <link>https://www.bbc.co.uk/sport/tennis/58534133?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/58534133</guid>
+            <pubDate>Sun, 12 Sep 2021 19:09:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[It means everything - Raducanu on US Open win]]></title>
