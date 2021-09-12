@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 12 Sep 2021 20:36:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Sep 2021 20:46:24 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -38,10 +38,10 @@
         </item>
         <item>
             <title><![CDATA[Afghanistan: Taliban announce new rules for female students]]></title>
-            <description><![CDATA[Students will be segregated by gender and have to observe an Islamic dress code.]]></description>
+            <description><![CDATA[Students will be segregated by gender and have to observe a dress code.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-58537081?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58537081</guid>
-            <pubDate>Sun, 12 Sep 2021 20:07:56 GMT</pubDate>
+            <pubDate>Sun, 12 Sep 2021 20:44:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Paris residents alarmed by air force drill on 9/11 anniversary]]></title>
@@ -51,18 +51,18 @@
             <pubDate>Sun, 12 Sep 2021 14:16:47 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Cressida Dick: Tech giants make it impossible to stop terrorists]]></title>
+            <description><![CDATA[Pressure on tech firms intensifies as Priti Patel unveils fund for technologies to keep children safe.]]></description>
+            <link>https://www.bbc.co.uk/news/business-58537599?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58537599</guid>
+            <pubDate>Sun, 12 Sep 2021 19:03:32 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Great North Run 2021: Thousands take part as event returns]]></title>
             <description><![CDATA[The 40th edition of the world's biggest half-marathon sees 57,000 take on the route in Tyneside.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-tyne-58519044?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-tyne-58519044</guid>
             <pubDate>Sun, 12 Sep 2021 13:15:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ricciardo wins after Hamilton and Verstappen crash]]></title>
-            <description><![CDATA[McLaren's Daniel Ricciardo won the Italian Grand Prix after a harrowing crash between title rivals Lewis Hamilton and Max Verstappen.]]></description>
-            <link>https://www.bbc.co.uk/sport/formula1/58537637?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/formula1/58537637</guid>
-            <pubDate>Sun, 12 Sep 2021 17:00:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Health tax could increase family breakdown, tax authority warns]]></title>
@@ -79,18 +79,11 @@
             <pubDate>Sun, 12 Sep 2021 13:26:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Cressida Dick: Tech giants make it impossible to stop terrorists]]></title>
-            <description><![CDATA[Pressure on tech firms intensifies as Priti Patel unveils fund for technologies to keep children safe.]]></description>
-            <link>https://www.bbc.co.uk/news/business-58537599?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58537599</guid>
-            <pubDate>Sun, 12 Sep 2021 19:03:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Priti Patel: Labour demands probe after home secretary meets hotel boss]]></title>
-            <description><![CDATA[The party says she has "questions to answer" after attending a lunch without civil servants present.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-58536126?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-politics-58536126</guid>
-            <pubDate>Sun, 12 Sep 2021 16:06:43 GMT</pubDate>
+            <title><![CDATA[Ricciardo wins after Hamilton and Verstappen crash]]></title>
+            <description><![CDATA[McLaren's Daniel Ricciardo won the Italian Grand Prix after a harrowing crash between title rivals Lewis Hamilton and Max Verstappen.]]></description>
+            <link>https://www.bbc.co.uk/sport/formula1/58537637?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/formula1/58537637</guid>
+            <pubDate>Sun, 12 Sep 2021 17:00:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ferraris sale worth £8.5m help fund Pwllheli RNLI boathouse]]></title>
