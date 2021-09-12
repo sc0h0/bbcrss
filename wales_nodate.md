@@ -25,4 +25,4 @@
 25. [Rhedwr wedi disgyn 60 troedfedd oddi ar glogwyn ym Môn](https://www.bbc.co.uk/newyddion/58531125?at_medium=RSS&at_campaign=KARANGA) - Cafodd y ddynes ei chludo i'r ysbyty ar ôl cwympo 60 troedfedd oddi ar glogwyn mewn ras ym Môn.
 26. [Teithwyr o Gymru i gael defnyddio profion PCR preifat yn fuan](https://www.bbc.co.uk/newyddion/58531126?at_medium=RSS&at_campaign=KARANGA) - Gall teithwyr tramor o Gymru ddefnyddio dewis ehangach o gwmnïau profi Covid o 21 Medi.
 27. [Oriel: Ras fynydd 'anoddaf yn y byd'](https://www.bbc.co.uk/newyddion/58488105?at_medium=RSS&at_campaign=KARANGA) - Dim ond chwarter o gystadleuwyr Ras Cefn y Ddraig orffennodd y ras - a does ryfedd o weld y lluniau yma!
-28. [Y Bencampwriaeth: Nottingham Forest 1-2 Caerdydd](https://www.bbc.co.uk/newyddion/58538687?at_medium=RSS&at_campaign=KARANGA) - Y Cymro ifanc, Rubin Colwill, yn dod oddi ar y fainc i sgorio ddwywaith i ennill y gêm i'r Adar Gleision.
+28. [Diwrnod 1: Morgannwg 246-6 yn erbyn Caerloyw](https://www.bbc.co.uk/newyddion/58538054?at_medium=RSS&at_campaign=KARANGA) - Morgannwg 246-6 yn erbyn Caerloyw ym Mhencampwriaeth y Siroedd ar ddiwedd y diwrnod cyntaf.
