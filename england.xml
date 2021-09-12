@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 12 Sep 2021 17:54:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Sep 2021 18:25:31 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -217,6 +217,13 @@
             <link>https://www.bbc.co.uk/sport/football/58451984?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58451984</guid>
             <pubDate>Sun, 12 Sep 2021 14:45:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Woakes helps Bears fight back against Yorkshire]]></title>
+            <description><![CDATA[England's Chris Woakes takes 3-40 on his first Championship start in three years to help Warwickshire fight back at Yorkshire.]]></description>
+            <link>https://www.bbc.co.uk/sport/cricket/58536491?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/cricket/58536491</guid>
+            <pubDate>Sun, 12 Sep 2021 17:18:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
