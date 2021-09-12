@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 12 Sep 2021 13:18:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Sep 2021 13:32:19 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Hospital pressure to continue for a month, health minister says]]></title>
+            <description><![CDATA[The prediction comes as a further eight deaths and 2,317 new Covid cases are recorded in Wales.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-58535611?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-58535611</guid>
+            <pubDate>Sun, 12 Sep 2021 13:30:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Covid: Travellers from Wales can soon use private PCR tests]]></title>
             <description><![CDATA[There was criticism people in Wales had to pay for NHS tests while those in England could "shop around".]]></description>
@@ -44,13 +51,6 @@
             <pubDate>Sun, 12 Sep 2021 10:21:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Finsbury Park mosque attacker fears eye loss after prison stabbing]]></title>
-            <description><![CDATA[The Finsbury Park mosque attacker was stabbed by an inmate while serving a life sentence for murder.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-58530744?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-58530744</guid>
-            <pubDate>Sat, 11 Sep 2021 21:20:02 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[TUC: Jobs at risk if UK fails to hit carbon emissions target]]></title>
             <description><![CDATA[Trade bodies and unions say the UK is slipping behind other nations on green investment.]]></description>
             <link>https://www.bbc.co.uk/news/business-58519996?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -63,6 +63,13 @@
             <link>https://www.bbc.co.uk/news/uk-wales-politics-58491726?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-politics-58491726</guid>
             <pubDate>Sun, 12 Sep 2021 06:04:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Finsbury Park mosque attacker fears eye loss after prison stabbing]]></title>
+            <description><![CDATA[The Finsbury Park mosque attacker was stabbed by an inmate while serving a life sentence for murder.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-58530744?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-58530744</guid>
+            <pubDate>Sat, 11 Sep 2021 21:20:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid third wave 'perfect storm' for care in Hywel Dda]]></title>
@@ -84,13 +91,6 @@
             <link>https://www.bbc.co.uk/news/uk-wales-58501219?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-58501219</guid>
             <pubDate>Sat, 11 Sep 2021 11:03:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: Wales vaccine passport decision due next week]]></title>
-            <description><![CDATA[It comes as Wales' first minister warns daily Covid hospital admissions could more than double.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-58515771?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-58515771</guid>
-            <pubDate>Fri, 10 Sep 2021 12:36:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Motorcyclist dies following crash with car on A493]]></title>
