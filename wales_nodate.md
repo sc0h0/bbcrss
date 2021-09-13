@@ -25,4 +25,4 @@
 25. [Carcharu cyn-hyfforddwr nofio am ymosodiadau rhyw ar blant](https://www.bbc.co.uk/newyddion/58545858?at_medium=RSS&at_campaign=KARANGA) - Mae Tom Piggot wedi'i ddedfrydu i naw mlynedd o garchar am ymosodiadau rhyw ar dri o blant.
 26. [Y cyn-flaenwr Owain Williams wedi marw yn 56 oed](https://www.bbc.co.uk/newyddion/58542211?at_medium=RSS&at_campaign=KARANGA) - Mae teyrngedau wedi eu rhoi i "un o'r blaenwyr rheng-ôl gorau y cafodd Caerdydd erioed".
 27. ['Da chi byth yn rhy hen i drio rhywbeth newydd!'](https://www.bbc.co.uk/newyddion/58491665?at_medium=RSS&at_campaign=KARANGA) - Rhian Cadwaladr a'i her i gyrraedd 60 copa cyn troi'n 60
-28. [Y Raducanu nesaf? Chwaraewr o Gymru 'ymysg y gorau'](https://www.bbc.co.uk/newyddion/58463506?at_medium=RSS&at_campaign=KARANGA) - Mae Mimi Xu o Abertawe yn 13 mlwydd oed ac yn anelu at gyrraedd brig y byd tennis.
+28. [Batwyr Sir Gaerloyw yn creu argraff yng Nghaerdydd](https://www.bbc.co.uk/newyddion/58551887?at_medium=RSS&at_campaign=KARANGA) - Chris Dent a Graeme van Buuren gafodd y gorau o'r ail ddiwrnod yn erbyn Morgannwg ddydd Llun.
