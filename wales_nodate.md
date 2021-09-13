@@ -24,5 +24,5 @@
 24. ['Dim atebion' ddegawd wedi marwolaeth Glyn Summers](https://www.bbc.co.uk/newyddion/58463505?at_medium=RSS&at_campaign=KARANGA) - Roedd Glyn Summers, 17, ar drip addysgol yn Sbaen pan gwympodd oddi ar falconi gwesty yn Barcelona.
 25. ['Angen gwell adnoddau misglwyf mewn gwyliau cerddorol'](https://www.bbc.co.uk/newyddion/58512995?at_medium=RSS&at_campaign=KARANGA) - Mae'r berfformwraig, Francesca Dimech, yn dweud bod gwyliau cerddorol 'yn anodd' i ferched adeg eu misglwyf.
 26. [Hydrogen: Cyfle i greu miloedd o swyddi i Gymru](https://www.bbc.co.uk/newyddion/58515837?at_medium=RSS&at_campaign=KARANGA) - Gobaith y gallai datblygiadau ynni hydrogen ddod â'r un budd i'r economi ac y gwnaeth olew a nwy yn y gorffennol.
-27. [Oriel: Ras fynydd 'anoddaf yn y byd'](https://www.bbc.co.uk/newyddion/58488105?at_medium=RSS&at_campaign=KARANGA) - Dim ond chwarter o gystadleuwyr Ras Cefn y Ddraig orffennodd y ras - a does ryfedd o weld y lluniau yma!
+27. [Ateb y Galw: Yr artist Meirion Jones](https://www.bbc.co.uk/newyddion/58500467?at_medium=RSS&at_campaign=KARANGA) - Yr artist Meirion Jones sy'n ateb cwestiynau Cymru Fyw yr wythnos yma.
 28. [Y Raducanu nesaf? Chwaraewr o Gymru 'ymysg y gorau'](https://www.bbc.co.uk/newyddion/58463506?at_medium=RSS&at_campaign=KARANGA) - Mae Mimi Xu o Abertawe yn 13 mlwydd oed ac yn anelu at gyrraedd brig y byd tennis.
