@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 13 Sep 2021 13:05:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Sep 2021 13:29:20 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Covid: Vaccine should be given to 12 to 15-year-olds]]></title>
+            <description><![CDATA[Move will help reduce school disruption - but only one dose to be offered, top doctors say.]]></description>
+            <link>https://www.bbc.co.uk/news/health-58547659?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/health-58547659</guid>
+            <pubDate>Mon, 13 Sep 2021 13:21:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Covid: More than 300,000 suspected of breaking quarantine rules]]></title>
             <description><![CDATA[It comes as the prime minister prepares to announce his winter Covid plan, including for booster jabs.]]></description>
@@ -77,13 +84,6 @@
             <link>https://www.bbc.co.uk/news/business-58542840?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58542840</guid>
             <pubDate>Mon, 13 Sep 2021 10:58:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Eitan Biran: Italy investigates 'kidnap' of cable car crash survivor]]></title>
-            <description><![CDATA[Eitan Biran, 6, the only survivor of May's disaster, is taken to Israel by his grandfather.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58541644?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58541644</guid>
-            <pubDate>Mon, 13 Sep 2021 10:34:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Warning on teachers' lack of Holocaust knowledge]]></title>
@@ -217,6 +217,13 @@
             <link>https://www.bbc.co.uk/sport/football/58545066?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58545066</guid>
             <pubDate>Mon, 13 Sep 2021 11:36:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I need to fight Fury, boxing needs it - Joshua]]></title>
+            <description><![CDATA[Anthony Joshua says he needs to fight heavyweight rival Tyson Fury before he retires.]]></description>
+            <link>https://www.bbc.co.uk/sport/boxing/58545296?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/boxing/58545296</guid>
+            <pubDate>Mon, 13 Sep 2021 13:11:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Raikkonen fit to return for Russian Grand Prix]]></title>

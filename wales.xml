@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 13 Sep 2021 13:01:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Sep 2021 13:29:56 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Covid: Vaccine should be given to 12 to 15-year-olds]]></title>
+            <description><![CDATA[Move will help reduce school disruption - but only one dose to be offered, top doctors say.]]></description>
+            <link>https://www.bbc.co.uk/news/health-58547659?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/health-58547659</guid>
+            <pubDate>Mon, 13 Sep 2021 13:21:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Periods: Festivals need facilities at live events, says singer]]></title>
             <description><![CDATA[Having a period at festivals can be dehumanising due to a lack of facilities, festival-goers say.]]></description>
@@ -58,6 +65,13 @@
             <pubDate>Mon, 13 Sep 2021 10:23:36 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Welsh government opposes voter ID at UK elections]]></title>
+            <description><![CDATA[The Welsh government says it could cause confusion with no plans to do the same at Senedd votes.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-politics-58545316?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-politics-58545316</guid>
+            <pubDate>Mon, 13 Sep 2021 13:13:23 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Wales forward Owain Williams dies aged 56]]></title>
             <description><![CDATA[Owain Williams' death follows that of elder brother and former Wales and Lions back-row forward Gareth in 2018.]]></description>
             <link>https://www.bbc.co.uk/sport/rugby-union/58330110?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -84,20 +98,6 @@
             <link>https://www.bbc.co.uk/sport/football/58538941?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58538941</guid>
             <pubDate>Sun, 12 Sep 2021 17:28:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Woman airlifted to hospital in rescue operation after cliff fall]]></title>
-            <description><![CDATA[A doctor had to be helped down the cliff to treat the woman, who had multiple injuries.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-58535604?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-58535604</guid>
-            <pubDate>Sun, 12 Sep 2021 15:11:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: Travellers from Wales can soon use private PCR tests]]></title>
-            <description><![CDATA[There was criticism people in Wales had to pay for NHS tests while those in England could "shop around".]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-58532433?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-58532433</guid>
-            <pubDate>Sun, 12 Sep 2021 16:41:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Festivals: Period facilities are needed at live events]]></title>
@@ -177,11 +177,11 @@
             <pubDate>Mon, 13 Sep 2021 03:47:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA['Dim atebion' ddegawd wedi marwolaeth Glyn Summers]]></title>
-            <description><![CDATA[Roedd Glyn Summers, 17, ar drip addysgol yn Sbaen pan gwympodd oddi ar falconi gwesty yn Barcelona.]]></description>
-            <link>https://www.bbc.co.uk/newyddion/58463505?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/newyddion/58463505</guid>
-            <pubDate>Mon, 13 Sep 2021 05:42:27 GMT</pubDate>
+            <title><![CDATA[Swyddogion meddygol o blaid brechu plant 12-15 oed]]></title>
+            <description><![CDATA[Ar ôl derbyn cyngor gan y Cyd-bwyllgor Imiwneiddio a Brechu, mae pedair gwlad y DU yn dweud y dylid brechu plant.]]></description>
+            <link>https://www.bbc.co.uk/newyddion/58542218?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/newyddion/58542218</guid>
+            <pubDate>Mon, 13 Sep 2021 13:23:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[21 marwolaeth yn rhagor gyda Covid a 4,308 achos newydd]]></title>
@@ -191,11 +191,11 @@
             <pubDate>Mon, 13 Sep 2021 11:10:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Y cyn-flaenwr Owain Williams wedi marw yn 56 oed]]></title>
-            <description><![CDATA[Mae teyrngedau wedi eu rhoi i "un o'r blaenwyr rheng-ôl gorau y cafodd Caerdydd erioed".]]></description>
-            <link>https://www.bbc.co.uk/newyddion/58542211?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/newyddion/58542211</guid>
-            <pubDate>Mon, 13 Sep 2021 11:43:39 GMT</pubDate>
+            <title><![CDATA['Dim atebion' ddegawd wedi marwolaeth Glyn Summers]]></title>
+            <description><![CDATA[Roedd Glyn Summers, 17, ar drip addysgol yn Sbaen pan gwympodd oddi ar falconi gwesty yn Barcelona.]]></description>
+            <link>https://www.bbc.co.uk/newyddion/58463505?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/newyddion/58463505</guid>
+            <pubDate>Mon, 13 Sep 2021 05:42:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ateb y Galw: Yr artist Meirion Jones]]></title>
@@ -205,11 +205,11 @@
             <pubDate>Mon, 13 Sep 2021 08:56:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Y Raducanu nesaf? Chwaraewr o Gymru 'ymysg y gorau']]></title>
-            <description><![CDATA[Mae Mimi Xu o Abertawe yn 13 mlwydd oed ac yn anelu at gyrraedd brig y byd tennis.]]></description>
-            <link>https://www.bbc.co.uk/newyddion/58463506?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/newyddion/58463506</guid>
-            <pubDate>Mon, 13 Sep 2021 06:44:29 GMT</pubDate>
+            <title><![CDATA[Y cyn-flaenwr Owain Williams wedi marw yn 56 oed]]></title>
+            <description><![CDATA[Mae teyrngedau wedi eu rhoi i "un o'r blaenwyr rheng-ôl gorau y cafodd Caerdydd erioed".]]></description>
+            <link>https://www.bbc.co.uk/newyddion/58542211?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/newyddion/58542211</guid>
+            <pubDate>Mon, 13 Sep 2021 11:43:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
