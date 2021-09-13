@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 13 Sep 2021 22:53:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Sep 2021 23:18:03 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -114,6 +114,20 @@
             <pubDate>Sat, 04 Sep 2021 23:42:59 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Life at 50C: The toxic gas flares fuelling Nigeria's climate change]]></title>
+            <description><![CDATA[Joy and her family are among 2m Nigerians living within 4km of a gas flare in Nigeria's oil-rich south.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-58549010?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-africa-58549010</guid>
+            <pubDate>Mon, 13 Sep 2021 23:08:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What's gone wrong with the 'War on Terror' in Africa?]]></title>
+            <description><![CDATA[Twenty years after the US 'War on Terror' began, Islamist movements have spread across Africa.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-58552058?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-africa-58552058</guid>
+            <pubDate>Mon, 13 Sep 2021 23:13:22 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Kenya's Chief Justice Martha Koome: Tackling Kenya's corruption]]></title>
             <description><![CDATA[Kenya’s Chief Justice Martha Koome says she is focusing on building a judiciary that Kenyans can have confidence in.]]></description>
             <link>https://www.bbc.co.uk/news/world-africa-58504720?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -147,20 +161,6 @@
             <link>https://www.bbc.co.uk/news/world-africa-58469810?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-africa-58469810</guid>
             <pubDate>Mon, 06 Sep 2021 18:52:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Jah Prayzah: 'Mbira is part of Zimbabwean culture']]></title>
-            <description><![CDATA[Zimbabwean musician Jah Prayzah maintains his passion for traditional music despite being an Afrobeats star.]]></description>
-            <link>https://www.bbc.co.uk/news/world-africa-58443059?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-africa-58443059</guid>
-            <pubDate>Sat, 04 Sep 2021 15:46:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The ATMs that dispense green fuel]]></title>
-            <description><![CDATA[How a start-up in Kenya is changing the way people cook.]]></description>
-            <link>https://www.bbc.co.uk/news/stories-58425184?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/stories-58425184</guid>
-            <pubDate>Fri, 03 Sep 2021 23:15:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
