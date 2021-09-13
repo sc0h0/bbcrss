@@ -11,23 +11,23 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 13 Sep 2021 00:31:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Sep 2021 01:38:33 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
-        <item>
-            <title><![CDATA[England vaccine passport plans ditched, Sajid Javid says]]></title>
-            <description><![CDATA[The health secretary rules out the scheme for nightclubs and large events, following much criticism.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58535258?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58535258</guid>
-            <pubDate>Sun, 12 Sep 2021 17:27:25 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[British American Tobacco negotiated bribe for Mugabe, new evidence suggests]]></title>
             <description><![CDATA[Documents reveal British American Tobacco’s role in bribery and spying in southern Africa.]]></description>
             <link>https://www.bbc.co.uk/news/world-58517339?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-58517339</guid>
             <pubDate>Sun, 12 Sep 2021 23:02:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[England vaccine passport plans ditched, Sajid Javid says]]></title>
+            <description><![CDATA[The health secretary rules out the scheme for nightclubs and large events, following much criticism.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-58535258?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58535258</guid>
+            <pubDate>Sun, 12 Sep 2021 17:27:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Record number of environmental activists murdered]]></title>
@@ -65,11 +65,18 @@
             <pubDate>Sun, 12 Sep 2021 23:00:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Afghanistan: Taliban announce new rules for female students]]></title>
-            <description><![CDATA[Students will be segregated by gender and have to observe a dress code.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58537081?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58537081</guid>
-            <pubDate>Sun, 12 Sep 2021 20:44:47 GMT</pubDate>
+            <title><![CDATA[NHS sparks pride but one in five go private, survey finds]]></title>
+            <description><![CDATA[The charity Engage Britain polled more than 4,000 British adults on their attitudes to the NHS.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-58517295?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58517295</guid>
+            <pubDate>Sun, 12 Sep 2021 23:10:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why North Korea keeps launching missiles]]></title>
+            <description><![CDATA[North Korea keeps testing missiles despite international condemnation. Why does Pyongyang persist?]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-56941911?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-56941911</guid>
+            <pubDate>Mon, 13 Sep 2021 01:05:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Spain fire: Thousands flee blaze near Costa del Sol town]]></title>
@@ -84,13 +91,6 @@
             <link>https://www.bbc.co.uk/news/business-58537599?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58537599</guid>
             <pubDate>Sun, 12 Sep 2021 19:03:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NHS sparks pride but one in five go private, survey finds]]></title>
-            <description><![CDATA[The charity Engage Britain polled more than 4,000 British adults on their attitudes to the NHS.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58517295?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58517295</guid>
-            <pubDate>Sun, 12 Sep 2021 23:10:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ferraris sale worth £8.5m help fund Pwllheli RNLI boathouse]]></title>
@@ -254,6 +254,20 @@
             <pubDate>Fri, 10 Sep 2021 14:20:55 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid symptoms: What are they and how do I protect myself?]]></title>
+            <description><![CDATA[A new cough, fever and change in smell or taste are the key symptoms that mean you may have coronavirus.]]></description>
+            <link>https://www.bbc.co.uk/news/health-51048366?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/health-51048366</guid>
+            <pubDate>Mon, 14 Jun 2021 11:24:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19 in the UK: How many coronavirus cases are there in my area?]]></title>
+            <description><![CDATA[Explore the data on coronavirus in the UK and find out how many cases there are in your area.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-51768274?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-51768274</guid>
+            <pubDate>Sun, 12 Sep 2021 15:54:35 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[What are the travel rules for Spain, Portugal, Malta and other holiday hotspots?]]></title>
             <description><![CDATA[What you need to know about going to Portugal, Spain, Greece, France, Malta, Italy and Turkey.]]></description>
             <link>https://www.bbc.co.uk/news/explainers-56997931?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -280,13 +294,6 @@
             <link>https://www.bbc.co.uk/news/health-55274833?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/health-55274833</guid>
             <pubDate>Thu, 09 Sep 2021 16:00:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid-19 in the UK: How many coronavirus cases are there in my area?]]></title>
-            <description><![CDATA[Explore the data on coronavirus in the UK and find out how many cases there are in your area.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-51768274?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-51768274</guid>
-            <pubDate>Sun, 12 Sep 2021 15:54:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Universal credit: When will the £20 increase stop?]]></title>
