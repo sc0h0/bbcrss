@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 13 Sep 2021 12:34:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Sep 2021 13:00:52 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -247,6 +247,13 @@
             <pubDate>Sat, 14 Mar 2020 01:04:25 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Singer who lost her voice sings again]]></title>
+            <description><![CDATA[When former singer Tanja Bage was told she would lose her voice to throat cancer, she immediately began to create a video diary.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-58543717?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58543717</guid>
+            <pubDate>Mon, 13 Sep 2021 12:55:38 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Vaccine creator says choice of UK boosters and first doses elsewhere is 'too simplistic']]></title>
             <description><![CDATA[Professor Dame Sarah Gilbert says choice between offering booster jabs in the UK or first doses elsewhere is 'too simplistic'.]]></description>
             <link>https://www.bbc.co.uk/news/health-58514815?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -273,13 +280,6 @@
             <link>https://www.bbc.co.uk/news/health-58424718?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/health-58424718</guid>
             <pubDate>Sat, 04 Sep 2021 23:02:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['My parents won't let me get the Covid vaccine']]></title>
-            <description><![CDATA[In some countries, the Covid-19 vaccine can be given to all teenagers over the age of 12 but not all are allowed.]]></description>
-            <link>https://www.bbc.co.uk/news/health-58437672?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/health-58437672</guid>
-            <pubDate>Fri, 03 Sep 2021 23:08:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
