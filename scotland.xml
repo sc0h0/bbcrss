@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 13 Sep 2021 05:14:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Sep 2021 05:23:35 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -23,11 +23,25 @@
             <pubDate>Sun, 12 Sep 2021 15:14:15 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[COP26: Armed police prepare for biggest deployment ever]]></title>
+            <description><![CDATA[The UN climate change conference will see the biggest ever deployment of armed officers in Scotland.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-58515311?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-58515311</guid>
+            <pubDate>Mon, 13 Sep 2021 05:09:39 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Tribute to teenager Aidan Pilkington killed on Crow Road]]></title>
             <description><![CDATA[Police say a 19-year-old man has been arrested after Aidan Pilkington was fatally struck by a car on Saturday.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58539796?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58539796</guid>
             <pubDate>Sun, 12 Sep 2021 18:21:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How the power of the ice age glaciers transformed Tayside]]></title>
+            <description><![CDATA[A new animation shows how the power of the glaciers 20,000 years ago transformed the Tayside landscape.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-tayside-central-58514896?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-tayside-central-58514896</guid>
+            <pubDate>Mon, 13 Sep 2021 05:18:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid in Scotland: More than 1,000 people with the virus in hospital]]></title>
@@ -37,11 +51,11 @@
             <pubDate>Sun, 12 Sep 2021 15:18:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Sturgeon: No indyref2 until all Covid restrictions lifted]]></title>
-            <description><![CDATA[The SNP leader says Scots will not be asked to vote until they no longer have to "limit or restrict their behaviour".]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-scotland-politics-58536298?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-scotland-politics-58536298</guid>
-            <pubDate>Sun, 12 Sep 2021 13:27:06 GMT</pubDate>
+            <title><![CDATA[Covid in Scotland: £11m of unused PPE shipped to Africa]]></title>
+            <description><![CDATA[A Scottish health charity will distribute the equipment to help protect against Covid to Malawi, Rwanda and Zambia.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-58539105?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-58539105</guid>
+            <pubDate>Mon, 13 Sep 2021 05:11:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Five people in Edinburgh hospital after being hit by car]]></title>
@@ -49,6 +63,13 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-58536198?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-58536198</guid>
             <pubDate>Sun, 12 Sep 2021 11:38:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sturgeon: No indyref2 until all Covid restrictions lifted]]></title>
+            <description><![CDATA[The SNP leader says Scots will not be asked to vote until they no longer have to "limit or restrict their behaviour".]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-scotland-politics-58536298?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-scotland-politics-58536298</guid>
+            <pubDate>Sun, 12 Sep 2021 13:27:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Man charged with possessing explosive substances]]></title>
@@ -84,13 +105,6 @@
             <link>https://www.bbc.co.uk/news/entertainment-arts-58533613?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-58533613</guid>
             <pubDate>Sun, 12 Sep 2021 00:08:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Local Hero phone box in Pennan to be kept in service]]></title>
-            <description><![CDATA[Aberdeenshire Council says Pennan as well as Crovie and Portsoy will now retain their working phone boxes.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-58516327?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-58516327</guid>
-            <pubDate>Fri, 10 Sep 2021 15:24:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid in Scotland: Where are the latest cases?]]></title>
