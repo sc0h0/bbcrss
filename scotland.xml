@@ -11,16 +11,16 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 13 Sep 2021 06:56:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Sep 2021 07:09:44 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
-            <title><![CDATA[Valneva: UK scraps Covid-19 vaccine deal with French firm]]></title>
+            <title><![CDATA[UK scraps deal for Covid vaccine made in Scotland]]></title>
             <description><![CDATA[The French firm says the deal was cancelled over allegations of a breach of the agreement, which it denies.]]></description>
             <link>https://www.bbc.co.uk/news/business-58499064?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58499064</guid>
-            <pubDate>Mon, 13 Sep 2021 06:41:07 GMT</pubDate>
+            <pubDate>Mon, 13 Sep 2021 07:05:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[COP26: Armed police prepare for biggest deployment ever]]></title>
@@ -275,6 +275,13 @@
             <pubDate>Sun, 12 Sep 2021 13:04:36 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Scottish Gossip: Rangers, Celtic, Hearts, Hibernian, Gordon, Macey, Patterson]]></title>
+            <description><![CDATA[Everton to return with January bid for Rangers teenager, Hearts goalkeeper inspired to keep playing into his forties...]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58542476?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58542476</guid>
+            <pubDate>Mon, 13 Sep 2021 07:04:21 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[SWPL: Celtic fight back to draw with Glasgow City]]></title>
             <description><![CDATA[Celtic fight back from two goals down to draw with Glasgow City after a second-half double from Olivia Chance at the Penny Cars Stadium in Airdrie.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58536829?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -294,13 +301,6 @@
             <link>https://www.bbc.co.uk/sport/football/58536828?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58536828</guid>
             <pubDate>Sun, 12 Sep 2021 16:29:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hearts 0-0 Hibernian: Watch the best of the action in Edinburgh derby draw]]></title>
-            <description><![CDATA[Watch the best of the action as Hearts and Hibernian fight out a goalless Edinburgh derby draw in the Scottish Premiership at Tynecastle.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/football/58539556?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/av/football/58539556</guid>
-            <pubDate>Sun, 12 Sep 2021 23:01:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
