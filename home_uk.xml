@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 13 Sep 2021 15:20:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Sep 2021 15:35:57 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -20,7 +20,7 @@
             <description><![CDATA[Move will help reduce school disruption, top doctors say, with decision now in hands of ministers.]]></description>
             <link>https://www.bbc.co.uk/news/health-58547659?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/health-58547659</guid>
-            <pubDate>Mon, 13 Sep 2021 13:56:33 GMT</pubDate>
+            <pubDate>Mon, 13 Sep 2021 15:28:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: More than 300,000 suspected of breaking quarantine rules]]></title>
@@ -35,13 +35,6 @@
             <link>https://www.bbc.co.uk/news/health-58544874?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/health-58544874</guid>
             <pubDate>Mon, 13 Sep 2021 10:33:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[UK scraps Covid-19 vaccine deal with French firm Valneva]]></title>
-            <description><![CDATA[The French firm says the deal was cancelled over allegations of a breach of the agreement, which it denies.]]></description>
-            <link>https://www.bbc.co.uk/news/business-58499064?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58499064</guid>
-            <pubDate>Mon, 13 Sep 2021 11:53:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[M25 junctions blocked by Insulate Britain campaigners]]></title>
@@ -72,6 +65,13 @@
             <pubDate>Mon, 13 Sep 2021 14:54:37 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[UK scraps Covid-19 vaccine deal with French firm Valneva]]></title>
+            <description><![CDATA[The French firm says the deal was cancelled over allegations of a breach of the agreement, which it denies.]]></description>
+            <link>https://www.bbc.co.uk/news/business-58499064?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58499064</guid>
+            <pubDate>Mon, 13 Sep 2021 11:53:09 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Grenfell Tower inquiry: Reckless firms showed neglect - lawyer]]></title>
             <description><![CDATA[A QC representing many victims of the 2017 disaster strongly criticises several construction firms.]]></description>
             <link>https://www.bbc.co.uk/news/uk-58547901?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -87,7 +87,7 @@
         </item>
         <item>
             <title><![CDATA[TikTok star and Wales' oldest woman dies at 110]]></title>
-            <description><![CDATA[Amy Winifred Hawkins became a hit on social media when a video of her singing was seen 30,000 times.]]></description>
+            <description><![CDATA[Amy Winifred Hawkins became a hit on TikTok when a video of her singing was seen over 150,000 times.]]></description>
             <link>https://www.bbc.co.uk/news/uk-wales-58549830?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-58549830</guid>
             <pubDate>Mon, 13 Sep 2021 15:09:06 GMT</pubDate>
@@ -108,10 +108,17 @@
         </item>
         <item>
             <title><![CDATA[Schoolboy cyclist outpaces pros on Tour of Britain]]></title>
-            <description><![CDATA[Xander Graham was broadcast on live TV as he raced alongside riders on the Tour of Britain near Edinburgh.]]></description>
+            <description><![CDATA[Xander Graham was watched on live TV as he raced alongside riders on the Tour of Britain near Edinburgh.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58503012?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58503012</guid>
             <pubDate>Mon, 13 Sep 2021 13:02:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Felixstowe arrival of largest container ship Ever Ace caught on drone]]></title>
+            <description><![CDATA[The aerial pictures show the Ever Ace coming in to dock at Felixstowe in Suffolk.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-suffolk-58550645?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-suffolk-58550645</guid>
+            <pubDate>Mon, 13 Sep 2021 15:16:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Garden photography reveals a world of hedgehogs and foxes]]></title>
