@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 13 Sep 2021 20:44:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Sep 2021 22:20:43 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -142,18 +142,11 @@
             <pubDate>Sun, 12 Sep 2021 23:07:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Families and leaders mark 20th anniversary of 9/11]]></title>
-            <description><![CDATA[Commemorations have taken place on the 20th anniversary of the 11 September attacks.]]></description>
-            <link>https://www.bbc.co.uk/news/world-58533107?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-58533107</guid>
-            <pubDate>Sat, 11 Sep 2021 19:38:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[9/11 anniversary: Moment of silence as families recite names of victims]]></title>
-            <description><![CDATA[On the 20th anniversary of the 9/11 attack, New York City held a moment of silence for the lost 2,977 lives.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-58529169?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58529169</guid>
-            <pubDate>Sat, 11 Sep 2021 14:56:57 GMT</pubDate>
+            <title><![CDATA[Megapod of feeding humpback whales 'so special']]></title>
+            <description><![CDATA[A megapod of over 100 humpback whales has been filmed feeding off the New South Wales coast of Australia.]]></description>
+            <link>https://www.bbc.co.uk/news/world-australia-58552939?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-australia-58552939</guid>
+            <pubDate>Mon, 13 Sep 2021 22:18:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[ICYMI: A big week for small things]]></title>
@@ -168,6 +161,13 @@
             <link>https://www.bbc.co.uk/news/world-us-canada-58540023?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58540023</guid>
             <pubDate>Sun, 12 Sep 2021 19:43:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ros Atkins on... lorry driver shortages]]></title>
+            <description><![CDATA[Ros Atkins looks at why there's a lack of drivers and how it's affecting UK businesses.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-58521211?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58521211</guid>
+            <pubDate>Fri, 10 Sep 2021 23:11:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
