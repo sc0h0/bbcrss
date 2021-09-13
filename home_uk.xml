@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 13 Sep 2021 08:24:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Sep 2021 08:40:32 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -429,6 +429,20 @@
             <pubDate>Fri, 10 Sep 2021 13:33:03 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[‘Havana syndrome ’ and the mystery of the microwaves]]></title>
+            <description><![CDATA[The BBC investigates a mystery illness dubbed "Havana syndrome" that has affected American diplomats and spies.]]></description>
+            <link>https://www.bbc.co.uk/news/world-58396698?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-58396698</guid>
+            <pubDate>Wed, 08 Sep 2021 23:08:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Chaos and confusion: The frenzied final hours of the Afghan government]]></title>
+            <description><![CDATA[Through interviews with insiders, BBC News has pieced together an account of how Afghanistan’s government unravelled.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58477131?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58477131</guid>
+            <pubDate>Wed, 08 Sep 2021 00:42:55 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The hard men removing squatters in Spain]]></title>
             <description><![CDATA[Some squatters in Spain demand cash before leaving - so eviction firms have arisen to handle the talks.]]></description>
             <link>https://www.bbc.co.uk/news/stories-58310532?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -448,20 +462,6 @@
             <link>https://www.bbc.co.uk/news/world-asia-58329527?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58329527</guid>
             <pubDate>Wed, 25 Aug 2021 23:38:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bilal Sarwary: 'The plane hit the tower and all our lives changed']]></title>
-            <description><![CDATA[Afghan journalist Bilal Sarwary was selling carpets when 9/11 happened. From that day on, everything changed.]]></description>
-            <link>https://www.bbc.co.uk/news/world-south-asia-58071592?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-south-asia-58071592</guid>
-            <pubDate>Wed, 25 Aug 2021 08:11:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Shot in the head in Angola, left for dead, now a Wetherspoons star]]></title>
-            <description><![CDATA[Cesar Kimbirima fled Angola after being shot four times and spending five months in a coma.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58266180?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58266180</guid>
-            <pubDate>Tue, 24 Aug 2021 05:08:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
