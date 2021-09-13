@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 13 Sep 2021 10:23:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Sep 2021 10:42:02 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -20,7 +20,7 @@
             <description><![CDATA[Police make arrests as climate change protests take place at several locations around the motorway.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-58543603?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-58543603</guid>
-            <pubDate>Mon, 13 Sep 2021 10:14:39 GMT</pubDate>
+            <pubDate>Mon, 13 Sep 2021 10:38:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: More than 300,000 suspected of breaking quarantine rules]]></title>
@@ -41,7 +41,14 @@
             <description><![CDATA[A murder investigation is launched after the bodies were discovered at a house in Bristol on Sunday.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-bristol-58542782?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-bristol-58542782</guid>
-            <pubDate>Mon, 13 Sep 2021 09:02:45 GMT</pubDate>
+            <pubDate>Mon, 13 Sep 2021 10:28:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[New Forest animal deaths: Pony owner calls for speed cameras]]></title>
+            <description><![CDATA[Sarah Weston set up a petition after her four-year-old pony, Jumo, was hit and killed in August.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-hampshire-58503383?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-hampshire-58503383</guid>
+            <pubDate>Mon, 13 Sep 2021 10:25:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Frank Fishwick: Murder arrest as army veteran dies after assault]]></title>
@@ -49,13 +56,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-lancashire-58542230?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-lancashire-58542230</guid>
             <pubDate>Mon, 13 Sep 2021 06:39:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Emma Raducanu: Young players 'inspired' by her win]]></title>
-            <description><![CDATA[Young tennis players have been inspired by Emma Raducanu, the 18-year-old Grand Slam winner.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58539735?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58539735</guid>
-            <pubDate>Sun, 12 Sep 2021 17:44:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Rapist paramedic Andrew Wheeler faced investigation in 2010]]></title>
@@ -100,6 +100,13 @@
             <pubDate>Mon, 13 Sep 2021 05:21:38 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Emma Raducanu: Young players 'inspired' by her win]]></title>
+            <description><![CDATA[Young tennis players have been inspired by Emma Raducanu, the 18-year-old Grand Slam winner.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-58539735?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58539735</guid>
+            <pubDate>Sun, 12 Sep 2021 17:44:49 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Photographer's images 'like ghosts coming out the mist']]></title>
             <description><![CDATA[Guy Bellingham uses a 170-year-old technique to produce striking photos in remarkable detail.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-bristol-58505275?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -119,13 +126,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-essex-58505014?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-essex-58505014</guid>
             <pubDate>Fri, 10 Sep 2021 23:09:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['We had tickets for Twin Towers tour on 9/11']]></title>
-            <description><![CDATA[A couple reflect on how close they came to being caught up in the devastation of the 9/11 attacks.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-birmingham-58486093?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-birmingham-58486093</guid>
-            <pubDate>Wed, 08 Sep 2021 11:39:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['Halo' saved my life - Hamilton relieved after crash]]></title>
