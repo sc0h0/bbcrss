@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 13 Sep 2021 18:46:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Sep 2021 19:34:01 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -72,6 +72,13 @@
             <pubDate>Mon, 13 Sep 2021 15:35:06 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Vietnamese man arrested in people-smuggling investigation]]></title>
+            <description><![CDATA[Police say the man is suspected of being a high-ranking member of a people-smuggling network.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-birmingham-58551734?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-birmingham-58551734</guid>
+            <pubDate>Mon, 13 Sep 2021 19:31:43 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Manchester Arena Inquiry: Medical equipment 'dumped' at bomb scene]]></title>
             <description><![CDATA[Deployment of medical equipment "didn't quite reach our expectations", ambulance expert says.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-manchester-58546836?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -91,13 +98,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-bristol-58547454?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-bristol-58547454</guid>
             <pubDate>Mon, 13 Sep 2021 17:10:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Metrolink strikes to hit Manchester sporting events]]></title>
-            <description><![CDATA[A large majority of tram drivers vote against a 1% pay offer they describe as "pitiful".]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-manchester-58551233?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-manchester-58551233</guid>
-            <pubDate>Mon, 13 Sep 2021 16:39:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Suffolk school visited by RAF Wattisham Apache helicopter]]></title>
@@ -133,6 +133,13 @@
             <link>https://www.bbc.co.uk/news/uk-58539735?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58539735</guid>
             <pubDate>Sun, 12 Sep 2021 17:44:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Metrolink strikes to hit Manchester sporting events]]></title>
+            <description><![CDATA[A large majority of tram drivers vote against a 1% pay offer they describe as "pitiful".]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-manchester-58551233?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-manchester-58551233</guid>
+            <pubDate>Mon, 13 Sep 2021 16:39:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Legal aid: Unscrupulous lawyers poaching clients, says judge]]></title>
