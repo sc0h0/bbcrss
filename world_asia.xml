@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 13 Sep 2021 04:49:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Sep 2021 05:10:23 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -51,6 +51,13 @@
             <pubDate>Mon, 13 Sep 2021 04:30:05 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Raducanu: US Open champion celebrated in China for her heritage]]></title>
+            <description><![CDATA[Many in China have been quick to point out the 18-year-old's half-Chinese heritage.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-china-58541314?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-china-58541314</guid>
+            <pubDate>Mon, 13 Sep 2021 04:49:17 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Afghanistan: UN condemns Taliban's brutal crackdown on protests]]></title>
             <description><![CDATA[The United Nations says the Taliban used live ammunition, batons and whips on protesters, killing four.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-58520146?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -79,13 +86,6 @@
             <pubDate>Fri, 10 Sep 2021 17:10:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[US Biden and China's Xi hold first call in seven months]]></title>
-            <description><![CDATA[The two agree competition must not "veer into conflict" in their second call since Biden took office.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-china-58511173?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-china-58511173</guid>
-            <pubDate>Fri, 10 Sep 2021 08:24:29 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Afghanistan: First foreigners fly out of Kabul since US pull-out]]></title>
             <description><![CDATA[Dozens of people, including 13 UK citizens, take a plane from Kabul to Qatar's capital Doha.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-58497904?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -93,39 +93,18 @@
             <pubDate>Thu, 09 Sep 2021 21:01:56 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[US Biden and China's Xi hold first call in seven months]]></title>
+            <description><![CDATA[The two agree competition must not "veer into conflict" in their second call since Biden took office.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-china-58511173?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-china-58511173</guid>
+            <pubDate>Fri, 10 Sep 2021 08:24:29 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Ashraf Ghani: 'I apologise that I could not make it end differently']]></title>
             <description><![CDATA[Ashraf Ghani, who has sought refuge in the UAE, says he left Kabul to avoid "horrific" violence.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-58496410?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58496410</guid>
             <pubDate>Thu, 09 Sep 2021 04:16:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Afghanistan: A new order begins under the Taliban's governance]]></title>
-            <description><![CDATA[The Taliban's new ministers have taken office - but are they any different this time around?]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58495112?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58495112</guid>
-            <pubDate>Wed, 08 Sep 2021 20:08:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Japan withdraw as Club World Cup hosts]]></title>
-            <description><![CDATA[Japan pulls out of hosting the Club World Cup in December because of Covid-19 restrictions in the country.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58505463?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58505463</guid>
-            <pubDate>Thu, 09 Sep 2021 16:12:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[North Korea: Military parade features hazmat suits, gas masks]]></title>
-            <description><![CDATA[Their inclusion may be a sign that a special force was created to prevent the spread of Covid-19.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58497157?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58497157</guid>
-            <pubDate>Thu, 09 Sep 2021 04:37:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: Sydney reveals plan to end months-long lockdown]]></title>
-            <description><![CDATA[Australia's biggest city is likely to exit lockdown from next month, provided vaccinations continue.]]></description>
-            <link>https://www.bbc.co.uk/news/world-australia-58496667?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-australia-58496667</guid>
-            <pubDate>Thu, 09 Sep 2021 03:57:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why is there a food emergency in Sri Lanka?]]></title>
