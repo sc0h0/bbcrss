@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 13 Sep 2021 11:07:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Sep 2021 11:21:08 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -149,6 +149,13 @@
             <pubDate>Fri, 27 Aug 2021 10:31:18 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Jesse Lingard takes control of a Rainbow Six Siege esports team]]></title>
+            <description><![CDATA[The footballer believes his experiences on the pitch will translate to the online world.]]></description>
+            <link>https://www.bbc.co.uk/news/newsbeat-58507739?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/newsbeat-58507739</guid>
+            <pubDate>Mon, 13 Sep 2021 00:04:14 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The pressures - and rewards - of being an influencer]]></title>
             <description><![CDATA[Running your own popular YouTube channel can be lucrative, but it comes with downsides.]]></description>
             <link>https://www.bbc.co.uk/news/business-58487905?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -196,13 +203,6 @@
             <link>https://www.bbc.co.uk/news/business-58050387?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58050387</guid>
             <pubDate>Thu, 02 Sep 2021 23:48:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Can apps move the #MeToo movement forward?]]></title>
-            <description><![CDATA[Reporting sexual harassment at work is getting easier thanks to new technologies.]]></description>
-            <link>https://www.bbc.co.uk/news/business-58260533?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58260533</guid>
-            <pubDate>Mon, 30 Aug 2021 23:12:35 GMT</pubDate>
         </item>
     </channel>
 </rss>

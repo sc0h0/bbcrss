@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 13 Sep 2021 11:12:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Sep 2021 11:19:57 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -24,7 +24,7 @@
         </item>
         <item>
             <title><![CDATA[High Street voucher: Mark H Durkan fears internet access could hit roll-out]]></title>
-            <description><![CDATA[An SDLP MLA says those without internet access "could end up missing out" on the High Street scheme.]]></description>
+            <description><![CDATA[The SDLP says those without internet access could miss out on the high street scheme.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58537240?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58537240</guid>
             <pubDate>Mon, 13 Sep 2021 09:38:57 GMT</pubDate>
@@ -38,7 +38,7 @@
         </item>
         <item>
             <title><![CDATA[Nancy Stewart: One of Ireland's oldest women dies aged 107]]></title>
-            <description><![CDATA[Nancy Stewart, from Clonard, County Meath, died on Friday morning peacefully in her family home.]]></description>
+            <description><![CDATA[Nancy Stewart from Clonard in County Meath died on Friday morning at her family home.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-58543069?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58543069</guid>
             <pubDate>Mon, 13 Sep 2021 10:14:55 GMT</pubDate>
@@ -65,18 +65,11 @@
             <pubDate>Sun, 12 Sep 2021 22:32:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Women's Interprovincial series: IRFU apologises for 'unacceptable' changing conditions]]></title>
+            <title><![CDATA[IRFU apologises over women's changing conditions]]></title>
             <description><![CDATA[The IRFU and Leinster apologise to Connacht and Ulster for the "unacceptable error" which led to players getting changed beside rubbish bins ahead of the Women's Interprovincial series at Donnybrook.]]></description>
             <link>https://www.bbc.co.uk/sport/rugby-union/58544001?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/rugby-union/58544001</guid>
             <pubDate>Mon, 13 Sep 2021 10:26:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['This is for them' - Hampsey hails fans]]></title>
-            <description><![CDATA[Thousands of fans gather in Omagh's Healy Park for Tyrone's homecoming after their impressive All-Ireland Championship success.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/northern-ireland/58531467?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/av/northern-ireland/58531467</guid>
-            <pubDate>Sun, 12 Sep 2021 17:18:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Homes evacuated in Holywood security alert]]></title>
@@ -184,6 +177,13 @@
             <pubDate>Sat, 11 Sep 2021 06:14:50 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA['This is for them' - Hampsey hails Tyrone fans]]></title>
+            <description><![CDATA[Thousands of fans gather in Omagh's Healy Park for Tyrone's homecoming after their impressive All-Ireland Championship success.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/northern-ireland/58531467?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/av/northern-ireland/58531467</guid>
+            <pubDate>Sun, 12 Sep 2021 17:18:50 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Tyrone fans react to Sam coming home]]></title>
             <description><![CDATA[Fans hail the new All-Ireland football champions, 13 years after the county last won the Sam Maguire cup.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58537237?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -203,13 +203,6 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58520856?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58520856</guid>
             <pubDate>Fri, 10 Sep 2021 15:02:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[QUB offers students £1,500 deal not to take up halls of residence]]></title>
-            <description><![CDATA[The university says due to "unprecedented" demand accommodation in its halls is oversubscribed.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58509487?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58509487</guid>
-            <pubDate>Thu, 09 Sep 2021 20:02:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Claudy bomb: Families reach settlement with PSNI and government]]></title>
