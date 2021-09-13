@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 13 Sep 2021 06:44:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Sep 2021 07:41:28 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -44,13 +44,6 @@
             <pubDate>Sun, 12 Sep 2021 16:16:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Emma Raducanu: Young players 'inspired' by her win]]></title>
-            <description><![CDATA[Young tennis players have been inspired by Emma Raducanu, the 18-year-old Grand Slam winner.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58539735?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58539735</guid>
-            <pubDate>Sun, 12 Sep 2021 17:44:49 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Rhamero West: Stab victim killed on day he started college]]></title>
             <description><![CDATA[The family of Rhamero West, who was killed after a chase, says he died on the day he started college.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-manchester-58536344?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -58,11 +51,11 @@
             <pubDate>Sun, 12 Sep 2021 16:10:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[World's largest container ship arrives at Felixstowe]]></title>
-            <description><![CDATA[The Ever Ace, which is 400m-long (1,300ft) and can carry 23,992 containers, is on her maiden voyage.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-suffolk-58521299?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-suffolk-58521299</guid>
-            <pubDate>Sun, 12 Sep 2021 10:39:59 GMT</pubDate>
+            <title><![CDATA[Emma Raducanu: Young players 'inspired' by her win]]></title>
+            <description><![CDATA[Young tennis players have been inspired by Emma Raducanu, the 18-year-old Grand Slam winner.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-58539735?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58539735</guid>
+            <pubDate>Sun, 12 Sep 2021 17:44:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Reading Minster: Man arrested on suspicion of churchyard rape]]></title>
@@ -135,6 +128,13 @@
             <pubDate>Wed, 08 Sep 2021 11:39:23 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[World's largest container ship arrives at Felixstowe]]></title>
+            <description><![CDATA[The Ever Ace, which is 400m-long (1,300ft) and can carry 23,992 containers, is on her maiden voyage.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-suffolk-58521299?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-suffolk-58521299</guid>
+            <pubDate>Sun, 12 Sep 2021 10:39:59 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Italian Grand Prix: Lewis Hamilton says 'halo' safety system saved his life in crash]]></title>
             <description><![CDATA[Lewis Hamilton says Formula 1's 'halo' safety device saved his life in his crash at the Italian Grand Prix.]]></description>
             <link>https://www.bbc.co.uk/sport/formula1/58539315?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -142,18 +142,25 @@
             <pubDate>Sun, 12 Sep 2021 18:48:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Leeds 0-3 Liverpool: Mohamed Salah reaches 100 Premier League goals in Reds win]]></title>
-            <description><![CDATA[Liverpool keep pace with the Premier League's leading pack as Mohamed Salah's 100th English top-flight goal helps them to victory at 10-man Leeds.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58437041?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58437041</guid>
-            <pubDate>Sun, 12 Sep 2021 17:53:32 GMT</pubDate>
+            <title><![CDATA[Harvey Elliott: Liverpool teenager suffers serious ankle injury at Leeds]]></title>
+            <description><![CDATA[A visibly upset Jurgen Klopp says Liverpool's Harvey Elliott was in "massive pain" after suffering a serious ankle injury at Leeds.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58538220?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58538220</guid>
+            <pubDate>Sun, 12 Sep 2021 19:48:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA['It was literally two hands' - Man City unhappy as extraordinary goal earns Spurs shock win]]></title>
+            <title><![CDATA[Manchester City 1-2 Tottenham: 'Literally two hands' in Spurs winner says Gareth Taylor]]></title>
             <description><![CDATA[Manchester City manager Gareth Taylor says it was "literally two hands" from Spurs forward Rosella Ayane which helped them grab a controversial late winner.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58451986?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58451986</guid>
             <pubDate>Sun, 12 Sep 2021 21:14:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Emma Raducanu: US Open champion's mental strength is truly special, says coach]]></title>
+            <description><![CDATA[Andrew Richardson, the coach who guided Emma Raducanu to her astonishing US Open triumph, says her mental strength is "truly special".]]></description>
+            <link>https://www.bbc.co.uk/sport/tennis/58540003?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/58540003</guid>
+            <pubDate>Sun, 12 Sep 2021 21:33:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['It means everything to hold this trophy... I don't want to let go']]></title>
@@ -161,13 +168,6 @@
             <link>https://www.bbc.co.uk/sport/tennis/58533776?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/58533776</guid>
             <pubDate>Sun, 12 Sep 2021 02:48:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Chelsea 4-0 Everton: Blues showed 'statement of intent' in WSL win over Everton]]></title>
-            <description><![CDATA[Chelsea winger Erin Cuthbert says the defending Women's Super League champions showed "a statement of intent" after bouncing back from their opening-day defeat with a comfortable victory over Everton.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58451984?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58451984</guid>
-            <pubDate>Sun, 12 Sep 2021 14:45:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
