@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 13 Sep 2021 19:38:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Sep 2021 19:47:07 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -44,13 +44,6 @@
             <pubDate>Mon, 13 Sep 2021 18:15:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Plymouth gives Tom Daley Freedom of the City]]></title>
-            <description><![CDATA[Olympic diving champion Tom Daley is given the highest honour Plymouth City Council can bestow.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-devon-58544754?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-devon-58544754</guid>
-            <pubDate>Mon, 13 Sep 2021 13:08:11 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Bristol man dies after crane carrying hot tub tips over]]></title>
             <description><![CDATA[A man in his 70s was pronounced dead at the scene, Avon and Somerset Police says.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-bristol-58543885?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -65,11 +58,11 @@
             <pubDate>Mon, 13 Sep 2021 14:49:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Yorkshire Dales village still without TV reception]]></title>
-            <description><![CDATA[In the Yorkshire Dales village of East Witton, every aerial points to the broken transmitter.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-58544594?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-58544594</guid>
-            <pubDate>Mon, 13 Sep 2021 15:35:06 GMT</pubDate>
+            <title><![CDATA[Plymouth gives Tom Daley Freedom of the City]]></title>
+            <description><![CDATA[Olympic diving champion Tom Daley is given the highest honour Plymouth City Council can bestow.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-devon-58544754?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-devon-58544754</guid>
+            <pubDate>Mon, 13 Sep 2021 13:08:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Vietnamese man arrested in people-smuggling investigation]]></title>
@@ -77,6 +70,20 @@
             <link>https://www.bbc.co.uk/news/uk-england-birmingham-58551734?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-birmingham-58551734</guid>
             <pubDate>Mon, 13 Sep 2021 19:31:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Yorkshire Dales village still without TV reception]]></title>
+            <description><![CDATA[In the Yorkshire Dales village of East Witton, every aerial points to the broken transmitter.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-58544594?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-58544594</guid>
+            <pubDate>Mon, 13 Sep 2021 15:35:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Brexit and Covid take Liverpool pub's giant pork pies off menu]]></title>
+            <description><![CDATA[A pub could be without its giant pork pies for the first time in years due to delivery issues.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-merseyside-58551937?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-merseyside-58551937</guid>
+            <pubDate>Mon, 13 Sep 2021 19:40:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Manchester Arena Inquiry: Medical equipment 'dumped' at bomb scene]]></title>
@@ -91,13 +98,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-somerset-58543631?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-somerset-58543631</guid>
             <pubDate>Mon, 13 Sep 2021 15:07:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bristol masseur jailed for sexually assaulting clients]]></title>
-            <description><![CDATA[Callum Urquhart left the women feeling frightened and ashamed, the court heard.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-bristol-58547454?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-bristol-58547454</guid>
-            <pubDate>Mon, 13 Sep 2021 17:10:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Suffolk school visited by RAF Wattisham Apache helicopter]]></title>
@@ -133,6 +133,13 @@
             <link>https://www.bbc.co.uk/news/uk-58539735?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58539735</guid>
             <pubDate>Sun, 12 Sep 2021 17:44:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bristol masseur jailed for sexually assaulting clients]]></title>
+            <description><![CDATA[Callum Urquhart left the women feeling frightened and ashamed, the court heard.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-bristol-58547454?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-bristol-58547454</guid>
+            <pubDate>Mon, 13 Sep 2021 17:10:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Metrolink strikes to hit Manchester sporting events]]></title>
