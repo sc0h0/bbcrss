@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 13 Sep 2021 11:35:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Sep 2021 11:44:34 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -58,6 +58,13 @@
             <pubDate>Mon, 13 Sep 2021 10:27:45 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Woman dies in hospital after Loch Lomond crash]]></title>
+            <description><![CDATA[Margaret Henderson, 77, from Kirkintilloch, was seriously injured in an accident near Luss last month.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58545195?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58545195</guid>
+            <pubDate>Mon, 13 Sep 2021 11:34:07 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Scotland's papers: 'Scrap vaccine passports' and Raducanu celebrates]]></title>
             <description><![CDATA[Calls to axe the passport plan in Scotland and Emma Raducanu's US Open win make the front pages.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-58541922?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -91,13 +98,6 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-58536198?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-58536198</guid>
             <pubDate>Mon, 13 Sep 2021 05:46:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid in Scotland: More than 1,000 people with the virus in hospital]]></title>
-            <description><![CDATA[The number of people being treated for Covid in hospital rises the ninth day in a row after a surge in infection rates.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-58537411?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-58537411</guid>
-            <pubDate>Sun, 12 Sep 2021 15:18:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid in Scotland: Where are the latest cases?]]></title>
@@ -153,7 +153,7 @@
             <description><![CDATA[Scotland's levels system of restrictions have come to an end - but what does that mean people can do?]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-53166816?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-53166816</guid>
-            <pubDate>Tue, 24 Aug 2021 13:55:57 GMT</pubDate>
+            <pubDate>Mon, 13 Sep 2021 11:42:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid in Scotland: Opposition increasing towards vaccine passports]]></title>
