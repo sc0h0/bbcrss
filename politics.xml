@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 13 Sep 2021 15:41:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Sep 2021 16:02:09 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -359,6 +359,13 @@
             <pubDate>Mon, 13 Sep 2021 13:11:37 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Medical officers recommend Covid vaccines for older children]]></title>
+            <description><![CDATA[The benefit of vaccinating younger people is an “important and potentially useful additional tool” says England’s chief medical officer.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-58548620?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-politics-58548620</guid>
+            <pubDate>Mon, 13 Sep 2021 15:45:52 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Health secretary: Vaccine passports not going ahead]]></title>
             <description><![CDATA[Sajid Javid tells the BBC the government won't make people prove their vaccine status for entry to nightclubs and big events.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-58536044?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -378,13 +385,6 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-58537877?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-58537877</guid>
             <pubDate>Sun, 12 Sep 2021 13:31:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nicola Sturgeon outlines plans for National Care Service]]></title>
-            <description><![CDATA[The first minister has outlined her government's plans for the year ahead.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-58480750?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-58480750</guid>
-            <pubDate>Tue, 07 Sep 2021 15:44:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Will Boris Johnson’s plan for the NHS work?]]></title>

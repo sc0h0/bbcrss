@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 13 Sep 2021 15:46:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Sep 2021 16:03:13 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -72,6 +72,13 @@
             <pubDate>Mon, 13 Sep 2021 13:11:54 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[RAF drone lands at Moray base for exercise]]></title>
+            <description><![CDATA[The Protector will be operated from RAF Lossiemouth during Exercise Joint Warrior.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-58544715?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-58544715</guid>
+            <pubDate>Mon, 13 Sep 2021 15:55:34 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[BrewDog appoints 'blue-chip reputation' chairman]]></title>
             <description><![CDATA[Allan Leighton joins the Aberdeenshire brewing firm which had been hit by criticism from former employees.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-scotland-business-58536240?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -84,13 +91,6 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58545195?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58545195</guid>
             <pubDate>Mon, 13 Sep 2021 11:34:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why people are fascinated with treatment of waste]]></title>
-            <description><![CDATA[The BBC visits one of Doors Open Day's most unusual attractions - a waste treatment plant near Edinburgh.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-58539614?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-58539614</guid>
-            <pubDate>Mon, 13 Sep 2021 10:27:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Police appeal after death of cyclist in Aberdeenshire]]></title>
@@ -168,6 +168,13 @@
             <link>https://www.bbc.co.uk/news/world-51235105?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-51235105</guid>
             <pubDate>Mon, 13 Sep 2021 10:40:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why people are fascinated with treatment of waste]]></title>
+            <description><![CDATA[The BBC visits one of Doors Open Day's most unusual attractions - a waste treatment plant near Edinburgh.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-58539614?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-58539614</guid>
+            <pubDate>Mon, 13 Sep 2021 10:27:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[COP26: Armed police prepare for biggest deployment]]></title>
