@@ -1,4 +1,4 @@
-1. [North Korea tests new long-range cruise missile](https://www.bbc.co.uk/news/world-asia-58540915?at_medium=RSS&at_campaign=KARANGA) - It shows Pyongyang can still develop new weapons despite food shortages and an economic crisis.
+1. [North Korea tests new long-range cruise missile](https://www.bbc.co.uk/news/world-asia-58540915?at_medium=RSS&at_campaign=KARANGA) - Despite food shortages and an economic crisis, it shows Pyongyang is still developing new weapons.
 2. [Why North Korea keeps launching missiles](https://www.bbc.co.uk/news/world-asia-56941911?at_medium=RSS&at_campaign=KARANGA) - North Korea keeps testing missiles despite international condemnation. Why does Pyongyang persist?
 3. [Afghanistan: Taliban announce new rules for female students](https://www.bbc.co.uk/news/world-asia-58537081?at_medium=RSS&at_campaign=KARANGA) - Students will be segregated by gender and have to observe a dress code.
 4. [Afghanistan: UN condemns Taliban's brutal crackdown on protests](https://www.bbc.co.uk/news/world-asia-58520146?at_medium=RSS&at_campaign=KARANGA) - The United Nations says the Taliban used live ammunition, batons and whips on protesters, killing four.
