@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 13 Sep 2021 22:20:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Sep 2021 22:34:01 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -79,6 +79,13 @@
             <pubDate>Mon, 13 Sep 2021 17:32:02 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Megapod of feeding humpback whales 'so special']]></title>
+            <description><![CDATA[A megapod of over 100 humpback whales has been filmed feeding off Australia's New South Wales coast.]]></description>
+            <link>https://www.bbc.co.uk/news/world-australia-58552939?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-australia-58552939</guid>
+            <pubDate>Mon, 13 Sep 2021 22:18:57 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Britney Spears announces engagement to Sam Asghari]]></title>
             <description><![CDATA[The singer, who is fighting a legal battle over her conservatorship, met fiancé Sam Asghari in 2016.]]></description>
             <link>https://www.bbc.co.uk/news/entertainment-arts-58540571?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -93,11 +100,11 @@
             <pubDate>Mon, 13 Sep 2021 15:56:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Naftali Bennett makes first visit to Egypt by an Israeli PM in a decade]]></title>
-            <description><![CDATA[Naftali Bennett meets President Abdul Fattah al-Sisi in the Red Sea resort of Sharm el-Sheikh.]]></description>
-            <link>https://www.bbc.co.uk/news/world-middle-east-58546547?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-middle-east-58546547</guid>
-            <pubDate>Mon, 13 Sep 2021 17:58:01 GMT</pubDate>
+            <title><![CDATA[Russia election: Opposition crushed ahead of managed polls]]></title>
+            <description><![CDATA[Exiled or disqualified, opposition voices warn of a government stitch-up in this week’s elections.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58504603?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58504603</guid>
+            <pubDate>Mon, 13 Sep 2021 22:27:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why North Korea keeps launching missiles]]></title>
@@ -142,13 +149,6 @@
             <pubDate>Sun, 12 Sep 2021 23:07:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Megapod of feeding humpback whales 'so special']]></title>
-            <description><![CDATA[A megapod of over 100 humpback whales has been filmed feeding off the New South Wales coast of Australia.]]></description>
-            <link>https://www.bbc.co.uk/news/world-australia-58552939?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-australia-58552939</guid>
-            <pubDate>Mon, 13 Sep 2021 22:18:57 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[ICYMI: A big week for small things]]></title>
             <description><![CDATA[Here's a round-up of some the week's news you might have missed.]]></description>
             <link>https://www.bbc.co.uk/news/world-58523824?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -168,6 +168,13 @@
             <link>https://www.bbc.co.uk/news/uk-58521211?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58521211</guid>
             <pubDate>Fri, 10 Sep 2021 23:11:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The rare Indian swimming camels under threat]]></title>
+            <description><![CDATA[India's unique Kharai camels can swim in the sea. But their habitat is slowly disappearing.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-india-58498881?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-india-58498881</guid>
+            <pubDate>Thu, 09 Sep 2021 23:05:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
