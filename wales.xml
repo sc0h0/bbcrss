@@ -11,23 +11,30 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 13 Sep 2021 05:43:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Sep 2021 05:55:52 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
-        <item>
-            <title><![CDATA['No answers' decade after Glyn Summers' Spanish fall death]]></title>
-            <description><![CDATA[Glyn Summers, 17, was on an educational trip to Spain when he fell from a hotel balcony in Barcelona.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-58519200?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-58519200</guid>
-            <pubDate>Mon, 13 Sep 2021 05:07:36 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Periods: Festivals need facilities at live events, says singer]]></title>
             <description><![CDATA[Having a period at festivals can be dehumanising due to a lack of facilities, festival-goers say.]]></description>
             <link>https://www.bbc.co.uk/news/58453246?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/58453246</guid>
             <pubDate>Mon, 13 Sep 2021 05:07:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['No answers' decade after Glyn Summers' Spanish fall death]]></title>
+            <description><![CDATA[Glyn Summers, 17, was on an educational trip to Spain when he fell from a hotel balcony.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-58519200?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-58519200</guid>
+            <pubDate>Mon, 13 Sep 2021 05:07:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Emma Raducanu: 'Inspirational US Open champion creating tennis buzz']]></title>
+            <description><![CDATA[Emma Raducanu's former coach says the new US Open champion is attracting youngers to play tennis.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-58537837?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-58537837</guid>
+            <pubDate>Mon, 13 Sep 2021 05:47:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ferraris sale worth £8.5m help fund Pwllheli RNLI boathouse]]></title>
@@ -91,13 +98,6 @@
             <link>https://www.bbc.co.uk/news/uk-wales-58530744?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-58530744</guid>
             <pubDate>Sat, 11 Sep 2021 21:20:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Motorcyclist dies following crash with car on A493]]></title>
-            <description><![CDATA[A male motorcyclist in his 70s died at the scene of the crash in Gwynedd, police say.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-58523053?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-58523053</guid>
-            <pubDate>Fri, 10 Sep 2021 18:13:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Festivals: Period facilities are needed at live events]]></title>
@@ -177,6 +177,13 @@
             <pubDate>Mon, 13 Sep 2021 05:29:55 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA['Dim atebion' ddegawd wedi marwolaeth Glyn Summers]]></title>
+            <description><![CDATA[Roedd Glyn Summers, 17, ar drip addysgol yn Sbaen pan gwympodd oddi ar falconi gwesty yn Barcelona.]]></description>
+            <link>https://www.bbc.co.uk/newyddion/58463505?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/newyddion/58463505</guid>
+            <pubDate>Mon, 13 Sep 2021 05:42:27 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Pwysau Covid ar ysbytai'n 'debygol tan ganol Hydref']]></title>
             <description><![CDATA[Disgwyl i bwysau Covid-19 ar ysbytai Cymru barhau tan ganol mis Hydref o leiaf, yn ôl y gweinidog iechyd.]]></description>
             <link>https://www.bbc.co.uk/newyddion/58537398?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -189,13 +196,6 @@
             <link>https://www.bbc.co.uk/newyddion/58531125?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/newyddion/58531125</guid>
             <pubDate>Sun, 12 Sep 2021 10:03:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Teithwyr o Gymru i gael defnyddio profion PCR preifat yn fuan]]></title>
-            <description><![CDATA[Gall teithwyr tramor o Gymru ddefnyddio dewis ehangach o gwmnïau profi Covid o 21 Medi.]]></description>
-            <link>https://www.bbc.co.uk/newyddion/58531126?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/newyddion/58531126</guid>
-            <pubDate>Sun, 12 Sep 2021 07:34:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Oriel: Ras fynydd 'anoddaf yn y byd']]></title>

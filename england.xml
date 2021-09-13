@@ -11,23 +11,16 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 13 Sep 2021 05:39:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Sep 2021 05:51:09 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
             <title><![CDATA[Covid: More than 300,000 suspected of breaking quarantine rules]]></title>
-            <description><![CDATA[Many travellers may have broken rules as the Delta variant took off, figures obtained by the BBC show.]]></description>
+            <description><![CDATA[It comes as the prime minister prepares to announce his winter Covid plan, including for booster jabs.]]></description>
             <link>https://www.bbc.co.uk/news/uk-politics-58517123?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-politics-58517123</guid>
-            <pubDate>Mon, 13 Sep 2021 05:00:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Emma Raducanu: US Open champion 'does not want to let go' of trophy]]></title>
-            <description><![CDATA[Emma Raducanu says she does not want to let go of the US Open trophy as her fairy tale in New York culminates in the ultimate happy ending.]]></description>
-            <link>https://www.bbc.co.uk/sport/tennis/58533776?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/58533776</guid>
-            <pubDate>Sun, 12 Sep 2021 02:48:39 GMT</pubDate>
+            <pubDate>Mon, 13 Sep 2021 05:50:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Reading Minster: Man arrested on suspicion of churchyard rape]]></title>
@@ -63,6 +56,13 @@
             <link>https://www.bbc.co.uk/news/uk-england-essex-58535593?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-essex-58535593</guid>
             <pubDate>Sun, 12 Sep 2021 15:52:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Emma Raducanu: Young players 'inspired' by her win]]></title>
+            <description><![CDATA[Young tennis players have been inspired by Emma Raducanu, the 18-year-old Grand Slam winner.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-58539735?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58539735</guid>
+            <pubDate>Sun, 12 Sep 2021 17:44:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Captain Tobias: Sheffield boy, 10, completes Ironman challenge]]></title>
@@ -219,18 +219,18 @@
             <pubDate>Sun, 12 Sep 2021 21:14:21 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA['It means everything to hold this trophy... I don't want to let go']]></title>
+            <description><![CDATA[Emma Raducanu says she does not want to let go of the US Open trophy as her fairy tale in New York culminates in the ultimate happy ending.]]></description>
+            <link>https://www.bbc.co.uk/sport/tennis/58533776?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/58533776</guid>
+            <pubDate>Sun, 12 Sep 2021 02:48:39 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Chelsea 4-0 Everton: Blues showed 'statement of intent' in WSL win over Everton]]></title>
             <description><![CDATA[Chelsea winger Erin Cuthbert says the defending Women's Super League champions showed "a statement of intent" after bouncing back from their opening-day defeat with a comfortable victory over Everton.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58451984?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58451984</guid>
             <pubDate>Sun, 12 Sep 2021 14:45:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Woakes helps Bears fight back against Yorkshire]]></title>
-            <description><![CDATA[England's Chris Woakes takes 3-40 on his first Championship start in three years as Warwickshire fight back against Yorkshire.]]></description>
-            <link>https://www.bbc.co.uk/sport/cricket/58536491?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/cricket/58536491</guid>
-            <pubDate>Sun, 12 Sep 2021 19:01:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
