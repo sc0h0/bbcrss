@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 13 Sep 2021 23:18:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Sep 2021 23:27:30 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[What's gone wrong with the 'War on Terror' in Africa?]]></title>
+            <description><![CDATA[Twenty years after the US 'War on Terror' began, Islamist movements have spread across Africa.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-58552058?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-africa-58552058</guid>
+            <pubDate>Mon, 13 Sep 2021 23:13:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Nigeria jailbreak in Kabba: Prisoners on the run after armed raid]]></title>
             <description><![CDATA[About 240 inmates were freed after armed attackers stormed the facility in Kogi state on Sunday.]]></description>
@@ -44,18 +51,18 @@
             <pubDate>Mon, 13 Sep 2021 15:25:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Former Senegal striker Demba Ba retires]]></title>
-            <description><![CDATA[Former Chelsea, Newcastle and West Ham striker Demba Ba retires from playing, aged 36.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58551909?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58551909</guid>
-            <pubDate>Mon, 13 Sep 2021 18:08:02 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Statue of African slave defaced in apparent racist attack]]></title>
             <description><![CDATA[A statue of Modeste Testas, an African slave, has been vandalised with white paint in Bordeaux.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-58549730?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58549730</guid>
             <pubDate>Mon, 13 Sep 2021 15:37:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Former Senegal striker Demba Ba retires]]></title>
+            <description><![CDATA[Former Chelsea, Newcastle and West Ham striker Demba Ba retires from playing, aged 36.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58551909?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58551909</guid>
+            <pubDate>Mon, 13 Sep 2021 18:08:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Nigeria's kidnap crisis: Letters replace phones]]></title>
@@ -121,13 +128,6 @@
             <pubDate>Mon, 13 Sep 2021 23:08:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[What's gone wrong with the 'War on Terror' in Africa?]]></title>
-            <description><![CDATA[Twenty years after the US 'War on Terror' began, Islamist movements have spread across Africa.]]></description>
-            <link>https://www.bbc.co.uk/news/world-africa-58552058?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-africa-58552058</guid>
-            <pubDate>Mon, 13 Sep 2021 23:13:22 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Kenya's Chief Justice Martha Koome: Tackling Kenya's corruption]]></title>
             <description><![CDATA[Kenya’s Chief Justice Martha Koome says she is focusing on building a judiciary that Kenyans can have confidence in.]]></description>
             <link>https://www.bbc.co.uk/news/world-africa-58504720?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -161,6 +161,13 @@
             <link>https://www.bbc.co.uk/news/world-africa-58469810?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-africa-58469810</guid>
             <pubDate>Mon, 06 Sep 2021 18:52:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jah Prayzah: 'Mbira is part of Zimbabwean culture']]></title>
+            <description><![CDATA[Zimbabwean musician Jah Prayzah maintains his passion for traditional music despite being an Afrobeats star.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-58443059?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-africa-58443059</guid>
+            <pubDate>Sat, 04 Sep 2021 15:46:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
