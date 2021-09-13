@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 13 Sep 2021 18:34:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Sep 2021 18:48:46 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -44,6 +44,13 @@
             <pubDate>Mon, 13 Sep 2021 14:05:28 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid-19: Disabled boy's family 'drained' by lack of respite service]]></title>
+            <description><![CDATA[A health trust breached its legal duty to a severely disabled child amid the pandemic, says a judge.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58551987?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58551987</guid>
+            <pubDate>Mon, 13 Sep 2021 18:46:35 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Nancy Stewart: One of Ireland's oldest women dies aged 107]]></title>
             <description><![CDATA[Nancy Stewart from Clonard in County Meath died on Friday morning at her family home.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-58543069?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -51,18 +58,18 @@
             <pubDate>Mon, 13 Sep 2021 10:14:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Agio: New York company to create 100 jobs in Belfast]]></title>
-            <description><![CDATA[American IT and cybersecurity firm Agio is recruiting for the roles in a new technology centre.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58546264?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58546264</guid>
-            <pubDate>Mon, 13 Sep 2021 12:35:23 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[NI 100: Parliament's temporary home in a Belfast college]]></title>
             <description><![CDATA[It is 100 years since the Union Theological College was co-opted to be the centre of political power.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58543083?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58543083</guid>
             <pubDate>Mon, 13 Sep 2021 12:47:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Agio: New York company to create 100 jobs in Belfast]]></title>
+            <description><![CDATA[American IT and cybersecurity firm Agio is recruiting for the roles in a new technology centre.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58546264?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58546264</guid>
+            <pubDate>Mon, 13 Sep 2021 12:35:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19 vaccine clinics open on Northern Ireland campuses]]></title>

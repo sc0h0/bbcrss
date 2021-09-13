@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 13 Sep 2021 18:34:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Sep 2021 18:45:41 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -289,18 +289,18 @@
             <pubDate>Mon, 13 Sep 2021 17:48:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Watch: Sportscene highlights of SWPL1 matches - round two 2021-22]]></title>
-            <description><![CDATA[Jane Lewis brings you all the action and reaction from the top flight of the Scottish Women’s Premier League.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/football/58529581?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/av/football/58529581</guid>
-            <pubDate>Mon, 13 Sep 2021 17:58:49 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Listen: Sportsound on BBC Radio Scotland]]></title>
             <description><![CDATA[Tune in to Monday's edition of Sportsound.]]></description>
             <link>https://www.bbc.co.uk/sport/av/football/58529580?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/av/football/58529580</guid>
             <pubDate>Mon, 13 Sep 2021 17:58:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Josh Taylor: Scot 'belongs' in Terence Crawford super-fight, says Carl Froch]]></title>
+            <description><![CDATA[Josh Taylor "belongs" in a super-fight with Terence Crawford after dominating the light-welterweight division, says former world champion Carl Froch.]]></description>
+            <link>https://www.bbc.co.uk/sport/boxing/58505204?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/boxing/58505204</guid>
+            <pubDate>Mon, 13 Sep 2021 08:45:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[World Cup qualifiers: Scotland without Caroline Weir & Lucy Graham]]></title>
@@ -310,11 +310,11 @@
             <pubDate>Mon, 13 Sep 2021 12:19:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Josh Taylor: Scot 'belongs' in Terence Crawford super-fight, says Carl Froch]]></title>
-            <description><![CDATA[Josh Taylor "belongs" in a super-fight with Terence Crawford after dominating the light-welterweight division, says former world champion Carl Froch.]]></description>
-            <link>https://www.bbc.co.uk/sport/boxing/58505204?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/boxing/58505204</guid>
-            <pubDate>Mon, 13 Sep 2021 08:45:41 GMT</pubDate>
+            <title><![CDATA[Scotland 13-38 Italy: Opening Rugby World Cup qualifier defeat for Scots]]></title>
+            <description><![CDATA[Scotland lose their opening Rugby World Cup qualifier 38-13 to Italy in Parma.]]></description>
+            <link>https://www.bbc.co.uk/sport/rugby-union/58538027?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/rugby-union/58538027</guid>
+            <pubDate>Mon, 13 Sep 2021 16:08:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
