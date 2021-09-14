@@ -24,5 +24,5 @@
 24. [Brechu plant 12-15 a brechiad pellach i rai dros 50](https://www.bbc.co.uk/newyddion/58547943?at_medium=RSS&at_campaign=KARANGA) - Mae gwaith yn mynd rhagddo eisoes, a bydd rhai yn derbyn pigiadau o'r wythnos nesaf ymlaen.
 25. [Bachgen wedi marw ar ôl cael ei wasgu gan gerbyd](https://www.bbc.co.uk/newyddion/58546294?at_medium=RSS&at_campaign=KARANGA) - Bu farw Tomos Rhys Bunford, oedd yn naw oed, o "anaf difrifol i'w frest", meddai crwner.
 26. ['Ry' ni'n cael 30-40 galwad bob dydd am iechyd meddwl'](https://www.bbc.co.uk/newyddion/58547941?at_medium=RSS&at_campaign=KARANGA) - Mae arbenigwyr yn helpu ymateb i alwadau i Heddlu Gwent, a nawr maen nhw'n troi at ddiogelu plant hefyd.
-27. [Y ffrwyth sydd am ddim, ac ar gael nawr!](https://www.bbc.co.uk/newyddion/58515344?at_medium=RSS&at_campaign=KARANGA) - Y garddwr Adam Jones sy'n rhannu ei wybodaeth, ffeithiau a rysáit mwyar duon
+27. [Llyfr Mawr y Plant yn 90 oed](https://www.bbc.co.uk/newyddion/58550295?at_medium=RSS&at_campaign=KARANGA) - Dathlu pen-blwydd rhai o hoff gymeriadau Cymru gan gynnwys Siôn Blewyn Coch a Wil Cwac
 28. [Batwyr Sir Gaerloyw yn creu argraff yng Nghaerdydd](https://www.bbc.co.uk/newyddion/58551887?at_medium=RSS&at_campaign=KARANGA) - Chris Dent a Graeme van Buuren gafodd y gorau o'r ail ddiwrnod yn erbyn Morgannwg ddydd Llun.

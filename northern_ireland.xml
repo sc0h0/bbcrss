@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 14 Sep 2021 13:47:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Sep 2021 14:01:06 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -37,6 +37,13 @@
             <pubDate>Tue, 14 Sep 2021 12:50:12 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid-19: NI records seven Covid-linked deaths, 1,590 cases]]></title>
+            <description><![CDATA[The total number of deaths linked to coronavirus in NI since the start of the pandemic is 2,468.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58559954?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58559954</guid>
+            <pubDate>Tue, 14 Sep 2021 13:50:09 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Royal Victoria Hospital: Mum's anger as baby's surgery cancelled]]></title>
             <description><![CDATA[The one-year-old boy needs a cleft palate operation but it was cancelled at the last minute.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58549051?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -58,18 +65,18 @@
             <pubDate>Tue, 14 Sep 2021 13:28:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Brexit: Checks on goods imported from the EU delayed again]]></title>
-            <description><![CDATA[The government blames Covid and supply chain difficulties as it puts back changes.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-58556453?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-politics-58556453</guid>
-            <pubDate>Tue, 14 Sep 2021 11:39:53 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Taylor Swift: Pop star poses for selfies in Belfast]]></title>
             <description><![CDATA[Wildest Dreams came true when the American pop princess visited the city.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58551992?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58551992</guid>
             <pubDate>Mon, 13 Sep 2021 21:19:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Brexit: Checks on goods imported from the EU delayed again]]></title>
+            <description><![CDATA[The government blames Covid and supply chain difficulties as it puts back changes.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-58556453?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-politics-58556453</guid>
+            <pubDate>Tue, 14 Sep 2021 11:39:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ulster University plans to help run new Coleraine secondary school]]></title>
@@ -79,18 +86,18 @@
             <pubDate>Tue, 14 Sep 2021 05:41:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid: Booster jabs for over-50s expected to be announced]]></title>
-            <description><![CDATA[A single dose of Pfizer will be offered at least six months after a second dose, the BBC understands.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-58552389?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-politics-58552389</guid>
-            <pubDate>Tue, 14 Sep 2021 08:34:02 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Covid-19: NI job market improves as furlough scheme nears end]]></title>
             <description><![CDATA[Payroll data shows that there was an estimated 764,300 employees in August, up 0.5% on July.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58555657?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58555657</guid>
             <pubDate>Tue, 14 Sep 2021 07:16:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: Booster jabs for over-50s expected to be announced]]></title>
+            <description><![CDATA[A single dose of Pfizer will be offered at least six months after a second dose, the BBC understands.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-58552389?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-politics-58552389</guid>
+            <pubDate>Tue, 14 Sep 2021 08:34:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[DUP: Councillors Glyn Hanna and Kathryn Owen return to the party]]></title>
