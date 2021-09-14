@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 14 Sep 2021 13:25:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Sep 2021 13:35:04 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -44,6 +44,13 @@
             <pubDate>Tue, 14 Sep 2021 12:01:34 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Anthony Hampton: Councillor denies 'abhorrent' child abuse claims]]></title>
+            <description><![CDATA[Former teacher Anthony Hampton denies abusing four children between the 1970s and 1990s.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-58543798?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-58543798</guid>
+            <pubDate>Tue, 14 Sep 2021 13:33:38 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Brexit: HGV demand driving wages up for industry]]></title>
             <description><![CDATA[Wages for the drivers have been advertised as higher than solicitors, says a recruitment agency.]]></description>
             <link>https://www.bbc.co.uk/news/uk-wales-58552349?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -56,13 +63,6 @@
             <link>https://www.bbc.co.uk/news/uk-wales-58465852?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-58465852</guid>
             <pubDate>Tue, 14 Sep 2021 05:11:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid vaccine would give children normality, says headmaster]]></title>
-            <description><![CDATA[As the jab is recommended for 12 to 15-year-olds, a headteacher says it would reduce disruption.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-58555178?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-58555178</guid>
-            <pubDate>Tue, 14 Sep 2021 07:24:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Anglesey: 'Solar farms no benefit to communities']]></title>
@@ -181,7 +181,7 @@
             <description><![CDATA[Mae gwaith yn mynd rhagddo eisoes, a bydd rhai yn derbyn pigiadau o'r wythnos nesaf ymlaen.]]></description>
             <link>https://www.bbc.co.uk/newyddion/58547943?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/newyddion/58547943</guid>
-            <pubDate>Tue, 14 Sep 2021 11:48:37 GMT</pubDate>
+            <pubDate>Tue, 14 Sep 2021 13:31:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bachgen wedi marw ar ôl cael ei wasgu gan gerbyd]]></title>
