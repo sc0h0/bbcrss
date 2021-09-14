@@ -11,23 +11,23 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 14 Sep 2021 00:47:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Sep 2021 01:41:38 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Covid: Booster jabs for over-50s expected to be announced]]></title>
+            <description><![CDATA[A single dose of Pfizer will be offered at least six months after a second dose, the BBC understands.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-58552389?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-politics-58552389</guid>
+            <pubDate>Tue, 14 Sep 2021 01:09:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Covid jab rollout for 12-to-15s to start in England's schools]]></title>
             <description><![CDATA[Parental consent will be sought for the programme for children aged 12 to 15, the government says.]]></description>
             <link>https://www.bbc.co.uk/news/uk-58552769?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58552769</guid>
             <pubDate>Mon, 13 Sep 2021 21:13:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[UK-wide booster jab plan expected on Tuesday]]></title>
-            <description><![CDATA[The BBC understands it will focus on the over-50s, who will be offered a single dose of Pfizer.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-58552389?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-politics-58552389</guid>
-            <pubDate>Mon, 13 Sep 2021 21:34:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: Which countries are vaccinating children and why?]]></title>
@@ -45,7 +45,7 @@
         </item>
         <item>
             <title><![CDATA[Boris Johnson's mother, Charlotte Johnson Wahl, dies aged 79]]></title>
-            <description><![CDATA[Charlotte Johnson Wahl died "suddenly and peacefully" in London on Monday, according to a newspaper report.]]></description>
+            <description><![CDATA[Charlotte Johnson Wahl died "suddenly and peacefully" in London on Monday, the PM's family says.]]></description>
             <link>https://www.bbc.co.uk/news/uk-politics-58548437?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-politics-58548437</guid>
             <pubDate>Mon, 13 Sep 2021 23:57:15 GMT</pubDate>
@@ -114,6 +114,34 @@
             <pubDate>Mon, 13 Sep 2021 22:53:05 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[China's Covid-fuelled surfing boom]]></title>
+            <description><![CDATA[Covid travel restrictions that have limited foreign travel have led to a boom in surfing in China.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58552057?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58552057</guid>
+            <pubDate>Mon, 13 Sep 2021 23:10:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Life at 50C: The toxic gas flares fuelling Nigeria's climate change]]></title>
+            <description><![CDATA[Joy and her family are among 2m Nigerians living within 4km of a gas flare in Nigeria's oil-rich south.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-58549010?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-africa-58549010</guid>
+            <pubDate>Mon, 13 Sep 2021 23:08:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Twenty years after 9/11, will al-Qaeda rise again?]]></title>
+            <description><![CDATA[Where is al-Qaeda 20 years after the 9/11 attacks - and could it re-emerge as a terror threat?]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58551970?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58551970</guid>
+            <pubDate>Mon, 13 Sep 2021 23:16:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Canada federal election: A look at the key numbers driving the campaign]]></title>
+            <description><![CDATA[A visual guide to the big issues in Canada's federal election, from climate to cost of living.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-58426147?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58426147</guid>
+            <pubDate>Mon, 13 Sep 2021 23:17:32 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA['We were so lucky to share eight incredible months with her']]></title>
             <description><![CDATA[Ashley Cain urges men dealing with bereavement to "talk about it" after the loss of his eight-month-old daughter to leukaemia.]]></description>
             <link>https://www.bbc.co.uk/news/uk-58523545?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -128,32 +156,39 @@
             <pubDate>Mon, 13 Sep 2021 13:02:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Afghan women hit back at Taliban with #DoNotTouchMyClothes campaign]]></title>
-            <description><![CDATA[Afghan women show off their traditional dress as black burqas spread under the Taliban.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58550335?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58550335</guid>
-            <pubDate>Mon, 13 Sep 2021 18:27:38 GMT</pubDate>
+            <title><![CDATA[Green jobs: The new generation of workers making it work for them]]></title>
+            <description><![CDATA[Science editor David Shukman on three jobs in growing green industries, and what it's like to do them]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-58549135?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/science-environment-58549135</guid>
+            <pubDate>Tue, 14 Sep 2021 00:16:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Felixstowe arrival of largest container ship Ever Ace caught on drone]]></title>
-            <description><![CDATA[The aerial pictures show the Ever Ace coming in to dock at Felixstowe in Suffolk.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-suffolk-58550645?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-suffolk-58550645</guid>
-            <pubDate>Mon, 13 Sep 2021 15:16:50 GMT</pubDate>
+            <title><![CDATA[Five things take to university - and one to avoid]]></title>
+            <description><![CDATA[Brighten up your accommodation, make friends and cook nicer meals with these handy items.]]></description>
+            <link>https://www.bbc.co.uk/news/education-58545266?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/education-58545266</guid>
+            <pubDate>Tue, 14 Sep 2021 00:32:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Garden photography reveals a world of hedgehogs and foxes]]></title>
-            <description><![CDATA[Ola Maddams used a remote camera to capture natural scenes in her garden.]]></description>
-            <link>https://www.bbc.co.uk/news/in-pictures-58327374?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/in-pictures-58327374</guid>
-            <pubDate>Sun, 12 Sep 2021 23:48:27 GMT</pubDate>
+            <title><![CDATA[Why even giant ships can't solve the shipping crisis]]></title>
+            <description><![CDATA[A shortage of vessels is hampering global trade and may lead to empty shelves before Christmas.]]></description>
+            <link>https://www.bbc.co.uk/news/business-58479148?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58479148</guid>
+            <pubDate>Mon, 13 Sep 2021 23:01:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Festivals: Period facilities are needed at live events]]></title>
-            <description><![CDATA[Menstruating at lives event can be "dehumanising and daunting", festival-goers say.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-58502558?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-58502558</guid>
-            <pubDate>Mon, 13 Sep 2021 05:11:34 GMT</pubDate>
+            <title><![CDATA[Russia election: Opposition crushed ahead of managed polls]]></title>
+            <description><![CDATA[Exiled or disqualified, opposition voices warn of a government stitch-up in this week’s elections.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58504603?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58504603</guid>
+            <pubDate>Mon, 13 Sep 2021 22:27:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[California recall election: Fact-checking Governor Newsom and his challengers]]></title>
+            <description><![CDATA[BBC News looks at some of the claims made by the governor and his challengers on the campaign trail.]]></description>
+            <link>https://www.bbc.co.uk/news/58491575?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/58491575</guid>
+            <pubDate>Tue, 14 Sep 2021 00:13:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Emma Raducanu set to earn millions after US Open win]]></title>
@@ -168,34 +203,6 @@
             <link>https://www.bbc.co.uk/news/entertainment-arts-58543114?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-58543114</guid>
             <pubDate>Mon, 13 Sep 2021 11:18:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Vaccine passports: Covid rule change 'a blow to most vulnerable']]></title>
-            <description><![CDATA[After plans for vaccine passports were reversed, Newsbeat speaks to those happy and disappointed.]]></description>
-            <link>https://www.bbc.co.uk/news/newsbeat-58488489?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/newsbeat-58488489</guid>
-            <pubDate>Mon, 13 Sep 2021 14:54:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The epicentre of Britain's pandemic house price boom]]></title>
-            <description><![CDATA[House prices have surged in many parts of the UK - and in one district they have risen by 29% in a year.]]></description>
-            <link>https://www.bbc.co.uk/news/business-58502618?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58502618</guid>
-            <pubDate>Sun, 12 Sep 2021 23:05:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Jesse Lingard takes control of a Rainbow Six Siege esports team]]></title>
-            <description><![CDATA[The footballer believes his experiences on the pitch will translate to the online world.]]></description>
-            <link>https://www.bbc.co.uk/news/newsbeat-58507739?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/newsbeat-58507739</guid>
-            <pubDate>Mon, 13 Sep 2021 00:04:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The pressures - and rewards - of being an influencer]]></title>
-            <description><![CDATA[Running your own popular YouTube channel can be lucrative, but it comes with downsides.]]></description>
-            <link>https://www.bbc.co.uk/news/business-58487905?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58487905</guid>
-            <pubDate>Sun, 12 Sep 2021 23:00:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['It was rolling back the years... with a little help from my mum' - how Townsend got his belief back]]></title>
@@ -261,6 +268,20 @@
             <pubDate>Mon, 13 Sep 2021 08:22:59 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid-19 in the UK: How many coronavirus cases are there in my area?]]></title>
+            <description><![CDATA[Explore the data on coronavirus in the UK and find out how many cases there are in your area.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-51768274?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-51768274</guid>
+            <pubDate>Mon, 13 Sep 2021 16:27:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid vaccines: How fast is progress around the world?]]></title>
+            <description><![CDATA[Charts and maps tracking the progress of Covid vaccination programmes.]]></description>
+            <link>https://www.bbc.co.uk/news/world-56237778?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-56237778</guid>
+            <pubDate>Mon, 13 Sep 2021 11:07:15 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Covid: Will I need a jab and what will university be like this term?]]></title>
             <description><![CDATA[Many Covid restrictions have been lifted for students going to university this term.]]></description>
             <link>https://www.bbc.co.uk/news/explainers-52753913?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -273,13 +294,6 @@
             <link>https://www.bbc.co.uk/news/health-51048366?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/health-51048366</guid>
             <pubDate>Mon, 13 Sep 2021 10:29:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid-19 in the UK: How many coronavirus cases are there in my area?]]></title>
-            <description><![CDATA[Explore the data on coronavirus in the UK and find out how many cases there are in your area.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-51768274?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-51768274</guid>
-            <pubDate>Mon, 13 Sep 2021 16:27:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What are the travel rules for Spain, Portugal, Malta and other holiday hotspots?]]></title>
@@ -315,118 +329,6 @@
             <link>https://www.bbc.co.uk/news/uk-41487126?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-41487126</guid>
             <pubDate>Fri, 10 Sep 2021 08:45:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid vaccines: How fast is progress around the world?]]></title>
-            <description><![CDATA[Charts and maps tracking the progress of Covid vaccination programmes.]]></description>
-            <link>https://www.bbc.co.uk/news/world-56237778?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-56237778</guid>
-            <pubDate>Mon, 13 Sep 2021 11:07:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Long Covid: What is it and what are the symptoms?]]></title>
-            <description><![CDATA[Significant numbers have had long-term problems after recovering from the original infection.]]></description>
-            <link>https://www.bbc.co.uk/news/health-57833394?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/health-57833394</guid>
-            <pubDate>Wed, 01 Sep 2021 13:12:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Back to school: How are pupils being kept Covid-safe?]]></title>
-            <description><![CDATA[Many children are returning to school after the holidays, while Scottish pupils already returned.]]></description>
-            <link>https://www.bbc.co.uk/news/education-51643556?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/education-51643556</guid>
-            <pubDate>Thu, 02 Sep 2021 10:40:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid rules: What's changing in Wales, Scotland, England and Northern Ireland?]]></title>
-            <description><![CDATA[Lockdown rules are changing across the UK, but some restrictions remain in place.]]></description>
-            <link>https://www.bbc.co.uk/news/explainers-52530518?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/explainers-52530518</guid>
-            <pubDate>Mon, 13 Sep 2021 08:03:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What are the holiday rules for travel to green, amber and red list countries?]]></title>
-            <description><![CDATA[A traffic light system is in place setting out rules for entering the UK]]></description>
-            <link>https://www.bbc.co.uk/news/explainers-52544307?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/explainers-52544307</guid>
-            <pubDate>Mon, 13 Sep 2021 09:32:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: How is furlough changing and when will it end?]]></title>
-            <description><![CDATA[The furlough scheme, which protected millions of jobs during the pandemic, is in its final weeks.]]></description>
-            <link>https://www.bbc.co.uk/news/explainers-52135342?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/explainers-52135342</guid>
-            <pubDate>Thu, 09 Sep 2021 11:23:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What are the rules and guidance for face masks and coverings?]]></title>
-            <description><![CDATA[Masks are no longer compulsory in England, but remain necessary in other parts of the UK.]]></description>
-            <link>https://www.bbc.co.uk/news/health-51205344?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/health-51205344</guid>
-            <pubDate>Fri, 20 Aug 2021 08:09:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Raducanu: US Open champion celebrated in China for her heritage]]></title>
-            <description><![CDATA[Many in China have been quick to point out the 18-year-old's half-Chinese heritage.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-china-58541314?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-china-58541314</guid>
-            <pubDate>Mon, 13 Sep 2021 04:49:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Emma Raducanu: Young players 'inspired' by her win]]></title>
-            <description><![CDATA[Young tennis players have been inspired by Emma Raducanu, the 18-year-old Grand Slam winner.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58539735?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58539735</guid>
-            <pubDate>Sun, 12 Sep 2021 17:44:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Emma Raducanu: Where does teenager's win rank among British triumphs?]]></title>
-            <description><![CDATA[Where does teenager Emma Raducanu's historic US Open victory rank among great British sporting moments?]]></description>
-            <link>https://www.bbc.co.uk/sport/tennis/58534133?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/58534133</guid>
-            <pubDate>Sun, 12 Sep 2021 19:09:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Emma Raducanu: US Open champion's mental strength is truly special, says coach]]></title>
-            <description><![CDATA[Andrew Richardson, the coach who guided Emma Raducanu to her astonishing US Open triumph, says her mental strength is "truly special".]]></description>
-            <link>https://www.bbc.co.uk/sport/tennis/58540003?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/58540003</guid>
-            <pubDate>Mon, 13 Sep 2021 11:52:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[It means everything - Raducanu on US Open win]]></title>
-            <description><![CDATA[Emma Raducanu says she does not want to let go of the US Open trophy as her fairy tale in New York culminates in the ultimate happy ending.]]></description>
-            <link>https://www.bbc.co.uk/sport/tennis/58533776?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/58533776</guid>
-            <pubDate>Sun, 12 Sep 2021 02:48:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Queen praises Raducanu's 'outstanding' performance]]></title>
-            <description><![CDATA[The Queen leads the congratulations to Emma Raducanu after the 18-year-old Briton clinches the US Open title with victory against Leylah Fernandez.]]></description>
-            <link>https://www.bbc.co.uk/sport/tennis/58533034?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/58533034</guid>
-            <pubDate>Sun, 12 Sep 2021 01:08:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Emma Raducanu: US Open champion can inspire more women and girls into sport]]></title>
-            <description><![CDATA[Campaigners believe Emma Raducanu's US Open success can help inspire more women and girls into taking up sport]]></description>
-            <link>https://www.bbc.co.uk/sport/tennis/58535587?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/58535587</guid>
-            <pubDate>Sun, 12 Sep 2021 14:17:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Emma Raducanu's hometown celebrates  win]]></title>
-            <description><![CDATA[This is how people in Bromley, London – including her former tennis coach – reacted to the result.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58533861?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58533861</guid>
-            <pubDate>Sun, 12 Sep 2021 01:40:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Emma Raducanu: The making of Great Britain's US Open champion]]></title>
-            <description><![CDATA[As British teenager Emma Raducanu wins the US Open, BBC Sport charts her rapid rise - with the help of a host of experts.]]></description>
-            <link>https://www.bbc.co.uk/sport/tennis/58510368?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/58510368</guid>
-            <pubDate>Fri, 10 Sep 2021 13:33:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[‘Havana syndrome ’ and the mystery of the microwaves]]></title>
