@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 14 Sep 2021 09:21:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Sep 2021 09:34:06 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -30,6 +30,13 @@
             <pubDate>Tue, 14 Sep 2021 08:10:54 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Man jailed after grieving siblings stabbed at Nottingham pub wake]]></title>
+            <description><![CDATA[Kyle Parkin attacked two brothers and a sister during a pub send-off for their uncle.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-derbyshire-58551566?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-derbyshire-58551566</guid>
+            <pubDate>Tue, 14 Sep 2021 09:04:27 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Dad in Barrymore pool death case is gravely ill]]></title>
             <description><![CDATA[Terry Lubbock, whose son was found dead in Michael Barrymore's swimming pool, has terminal cancer.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-essex-58552565?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -42,13 +49,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-lancashire-58555723?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-lancashire-58555723</guid>
             <pubDate>Tue, 14 Sep 2021 07:23:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Leicester: Three men charged with murder after stabbing]]></title>
-            <description><![CDATA[Abdirahim Mohamed dies in hospital after being found with multiple stab wounds.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-leicestershire-58555106?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-leicestershire-58555106</guid>
-            <pubDate>Tue, 14 Sep 2021 06:06:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No sign of £4.8m golden toilet stolen from Blenheim Palace, two years on]]></title>
@@ -65,6 +65,20 @@
             <pubDate>Tue, 14 Sep 2021 05:20:19 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Leicester: Three men charged with murder after stabbing]]></title>
+            <description><![CDATA[Abdirahim Mohamed dies in hospital after being found with multiple stab wounds.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-leicestershire-58555106?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-leicestershire-58555106</guid>
+            <pubDate>Tue, 14 Sep 2021 06:06:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Teesside TV and radio disruption warning amid mast work]]></title>
+            <description><![CDATA[The Eston Nab mast could be turned off up to 20 times for up to a minute at a time.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-tees-58557534?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-tees-58557534</guid>
+            <pubDate>Tue, 14 Sep 2021 09:23:08 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Alderney records first Covid-related deaths]]></title>
             <description><![CDATA[Two people died in hospital over the weekend, the States of Guernsey confirms.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-guernsey-58555605?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -77,20 +91,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-nottinghamshire-58503872?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-nottinghamshire-58503872</guid>
             <pubDate>Tue, 14 Sep 2021 05:34:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Boy, 11, gives Tynemouth seal hospital biggest donation]]></title>
-            <description><![CDATA[Oliver raised more than £1,000 for the hospital which rehabilitates rescued seals.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-tyne-58549511?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-tyne-58549511</guid>
-            <pubDate>Tue, 14 Sep 2021 05:13:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bristol man dies after crane carrying hot tub tips over]]></title>
-            <description><![CDATA[A man in his 70s was pronounced dead at the scene, Avon and Somerset Police says.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-bristol-58543885?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-bristol-58543885</guid>
-            <pubDate>Mon, 13 Sep 2021 18:37:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Coronavirus: Matlock Bath Illuminations return for 123rd year]]></title>
@@ -133,6 +133,20 @@
             <link>https://www.bbc.co.uk/news/uk-england-leeds-58550047?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-leeds-58550047</guid>
             <pubDate>Mon, 13 Sep 2021 20:51:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bristol man dies after crane carrying hot tub tips over]]></title>
+            <description><![CDATA[A man in his 70s was pronounced dead at the scene, Avon and Somerset Police says.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-bristol-58543885?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-bristol-58543885</guid>
+            <pubDate>Mon, 13 Sep 2021 18:37:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Boy, 11, gives Tynemouth seal hospital biggest donation]]></title>
+            <description><![CDATA[Oliver raised more than £1,000 for the hospital which rehabilitates rescued seals.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-tyne-58549511?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-tyne-58549511</guid>
+            <pubDate>Tue, 14 Sep 2021 05:13:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Andros Townsend: Mum made me believe again by sending me goals video]]></title>
