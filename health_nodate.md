@@ -1,4 +1,4 @@
-1. [Covid winter plan promotes jabs but prepares curbs in England](https://www.bbc.co.uk/news/uk-58560031?at_medium=RSS&at_campaign=KARANGA) - Measures for England like compulsory face masks and working from home could be introduced if needed.
+1. [Boris Johnson warns Covid risk remains as he unveils England's winter plan](https://www.bbc.co.uk/news/uk-58560031?at_medium=RSS&at_campaign=KARANGA) - But he says the UK is better placed to tackle the disease as he outlines England's winter plan.
 2. [Covid booster vaccine rollout to begin across UK next week](https://www.bbc.co.uk/news/health-58550833?at_medium=RSS&at_campaign=KARANGA) - Experts say a single dose of Pfizer should be offered at least six months after a second dose.
 3. [Covid jab rollout for 12 to 15-year-olds to start in UK schools](https://www.bbc.co.uk/news/uk-58552769?at_medium=RSS&at_campaign=KARANGA) - Parental consent is sought for the programme for children aged 12 to 15-year-olds.
 4. [Covid: Which countries are vaccinating children and why?](https://www.bbc.co.uk/news/health-58516207?at_medium=RSS&at_campaign=KARANGA) - Millions of children around the world are being offered a Covid vaccine.
