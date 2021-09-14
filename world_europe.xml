@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 14 Sep 2021 22:53:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Sep 2021 23:11:36 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -107,6 +107,13 @@
             <pubDate>Thu, 09 Sep 2021 14:41:33 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Russian elections: How democratic are they?]]></title>
+            <description><![CDATA[Ahead of this week's elections many opposition candidates have been prevented from running.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58557994?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58557994</guid>
+            <pubDate>Tue, 14 Sep 2021 23:00:11 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Ros Atkins on... lorry driver shortages]]></title>
             <description><![CDATA[Ros Atkins looks at why there's a lack of drivers and how it's affecting UK businesses.]]></description>
             <link>https://www.bbc.co.uk/news/uk-58521211?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -133,13 +140,6 @@
             <link>https://www.bbc.co.uk/news/uk-58322865?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58322865</guid>
             <pubDate>Mon, 30 Aug 2021 23:08:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Greta Thunberg: 'I'll go to COP26 if it's safe and democratic']]></title>
-            <description><![CDATA[Swedish climate activist Greta Thunberg says she does not think November's COP26 summit in Glasgow will lead to "much results".]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-58388980?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-58388980</guid>
-            <pubDate>Tue, 31 Aug 2021 05:12:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
