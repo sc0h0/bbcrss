@@ -1,4 +1,4 @@
-1. [Covid: Booster jabs for over 50s recommended](https://www.bbc.co.uk/news/health-58550833?at_medium=RSS&at_campaign=KARANGA) - Experts say a single dose of Pfizer should be offered at least six months after a second dose.
+1. [Covid vaccine: Booster for over 50s recommended](https://www.bbc.co.uk/news/health-58550833?at_medium=RSS&at_campaign=KARANGA) - Experts say a single dose of Pfizer should be offered at least six months after a second dose.
 2. [Covid jab rollout for 12 to 15-year-olds to start in schools in England](https://www.bbc.co.uk/news/uk-58552769?at_medium=RSS&at_campaign=KARANGA) - Parental consent will be sought for the programme for children aged 12 to 15, the government says.
 3. [Covid: Which countries are vaccinating children and why?](https://www.bbc.co.uk/news/health-58516207?at_medium=RSS&at_campaign=KARANGA) - Millions of children around the world are being offered a Covid vaccine.
 4. [Covid: Single jab recommended for 12 to 15-year-olds by UK's top doctors](https://www.bbc.co.uk/news/health-58547659?at_medium=RSS&at_campaign=KARANGA) - Move will help reduce school disruption, top doctors say, with decision now in hands of ministers.
@@ -22,7 +22,7 @@
 22. [Covid: What do under-30s need to know about the vaccine?](https://www.bbc.co.uk/news/health-57273875?at_medium=RSS&at_campaign=KARANGA) - All over-16s in the UK can get a Covid jab, as well as some vulnerable younger teens.
 23. [What are the Delta, Gamma, Beta and Alpha Covid variants?](https://www.bbc.co.uk/news/health-55659820?at_medium=RSS&at_campaign=KARANGA) - UK coronavirus cases are rising due to a variant first identified in India that spreads more easily.
 24. [Covid rules: What's changing in Wales, Scotland, England and Northern Ireland?](https://www.bbc.co.uk/news/explainers-52530518?at_medium=RSS&at_campaign=KARANGA) - Lockdown rules are changing across the UK, but some restrictions remain in place.
-25. [Covid: Will I need a booster jab?](https://www.bbc.co.uk/news/health-55045639?at_medium=RSS&at_campaign=KARANGA) - Details of a UK-wide programme of booster jabs to tackle Covid are expected shortly.
+25. [Covid: Will I need a booster jab?](https://www.bbc.co.uk/news/health-55045639?at_medium=RSS&at_campaign=KARANGA) - Details of a UK-wide programme of booster jabs to tackle Covid have been announced.
 26. [How do we know Covid vaccines are safe?](https://www.bbc.co.uk/news/health-55056016?at_medium=RSS&at_campaign=KARANGA) - Busting myths and explaining the facts around vaccines.
 27. [Coronavirus: What it does to the body](https://www.bbc.co.uk/news/health-51214864?at_medium=RSS&at_campaign=KARANGA) - What is it like to have the coronavirus, how will it affect you and how is it treated?
 28. [Support bubbles: How do they work and who is in yours?](https://www.bbc.co.uk/news/health-52637354?at_medium=RSS&at_campaign=KARANGA) - Some people across the UK have been able to form "support bubbles" or "extended households".
