@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 14 Sep 2021 23:01:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Sep 2021 23:26:18 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -42,6 +42,13 @@
             <link>https://www.bbc.co.uk/news/world-us-canada-58563002?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58563002</guid>
             <pubDate>Tue, 14 Sep 2021 15:38:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Russian elections: How democratic are they?]]></title>
+            <description><![CDATA[Ahead of this week's elections many opposition candidates have been prevented from running.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58557994?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58557994</guid>
+            <pubDate>Tue, 14 Sep 2021 23:00:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Spain targets energy firms as European bills surge]]></title>
@@ -100,13 +107,6 @@
             <pubDate>Tue, 14 Sep 2021 09:17:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Apple iPhone 13 brings portrait mode for video]]></title>
-            <description><![CDATA[The portrait-mode style video setting can pull focus on its subjects automatically.]]></description>
-            <link>https://www.bbc.co.uk/news/technology-58560011?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/technology-58560011</guid>
-            <pubDate>Tue, 14 Sep 2021 19:39:52 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[California recall election: Fact-checking Governor Newsom and his challengers]]></title>
             <description><![CDATA[BBC News looks at some of the claims made by Governor Newsom and his challengers on the campaign trail.]]></description>
             <link>https://www.bbc.co.uk/news/58491575?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -133,6 +133,13 @@
             <link>https://www.bbc.co.uk/news/entertainment-arts-58537575?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-58537575</guid>
             <pubDate>Tue, 14 Sep 2021 09:45:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Miss Ireland 2021: First black winner 'proud' of crown]]></title>
+            <description><![CDATA[Pamela Uba moved to the country as a seven-year-old - now she's making history after taking the title.]]></description>
+            <link>https://www.bbc.co.uk/news/newsbeat-58558667?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/newsbeat-58558667</guid>
+            <pubDate>Tue, 14 Sep 2021 23:20:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Russia election: Opposition crushed ahead of managed polls]]></title>
@@ -170,13 +177,6 @@
             <pubDate>Tue, 14 Sep 2021 00:02:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Russian elections: How democratic are they?]]></title>
-            <description><![CDATA[Ahead of this week's elections many opposition candidates have been prevented from running.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58557994?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58557994</guid>
-            <pubDate>Tue, 14 Sep 2021 23:00:11 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Pakistan: How to cool Karachi as temperatures rise]]></title>
             <description><![CDATA[In Karachi, Pakistan, one entrepreneur is on a mission to plant urban forests to cope with rising temperatures.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-58557995?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -203,6 +203,13 @@
             <link>https://www.bbc.co.uk/news/world-australia-58552939?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-australia-58552939</guid>
             <pubDate>Mon, 13 Sep 2021 22:18:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Taliban are back – will al-Qaeda follow?]]></title>
+            <description><![CDATA[Where is al-Qaeda 20 years after the 9/11 attacks - and could it re-emerge as a terror threat?]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58551970?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58551970</guid>
+            <pubDate>Mon, 13 Sep 2021 23:16:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
