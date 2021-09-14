@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 14 Sep 2021 14:01:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Sep 2021 14:19:40 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -58,6 +58,13 @@
             <pubDate>Tue, 14 Sep 2021 12:40:26 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Belfast missile-making firm Thales awarded MoD contracts]]></title>
+            <description><![CDATA[The contracts are awarded to Thales with the aim of producing "directed energy weapons".]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58562436?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58562436</guid>
+            <pubDate>Tue, 14 Sep 2021 14:18:01 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Defamation: MLAs divided over Mike Nesbitt proposed law reform]]></title>
             <description><![CDATA[Former UUP leader Mike Nesbitt is proposing local laws are brought into line with England and Wales.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58558058?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -93,25 +100,18 @@
             <pubDate>Tue, 14 Sep 2021 07:16:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid: Booster jabs for over-50s expected to be announced]]></title>
-            <description><![CDATA[A single dose of Pfizer will be offered at least six months after a second dose, the BBC understands.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-58552389?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-politics-58552389</guid>
-            <pubDate>Tue, 14 Sep 2021 08:34:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[DUP: Councillors Glyn Hanna and Kathryn Owen return to the party]]></title>
-            <description><![CDATA[Kathryn Owen and Glyn Hanna, who quit in June, come back under new leader Sir Jeffrey Donaldson.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58556950?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58556950</guid>
-            <pubDate>Tue, 14 Sep 2021 08:24:41 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[John McDowell: Church of Ireland to enthrone new Armagh archbishop]]></title>
             <description><![CDATA[Former Bishop of Clogher John McDowell will officially take up the position following a ceremony.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58551043?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58551043</guid>
             <pubDate>Tue, 14 Sep 2021 05:38:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: Booster jabs for over-50s expected to be announced]]></title>
+            <description><![CDATA[A single dose of Pfizer will be offered at least six months after a second dose, the BBC understands.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-58552389?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-politics-58552389</guid>
+            <pubDate>Tue, 14 Sep 2021 08:34:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: Children's education 'will benefit' from jab move]]></title>
