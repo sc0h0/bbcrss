@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 14 Sep 2021 09:16:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Sep 2021 09:26:25 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[722 drug deaths in Scotland in first half of this year]]></title>
+            <description><![CDATA[The latest figures show the number of drug deaths in Scotland is still close to the record high.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-58557727?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-58557727</guid>
+            <pubDate>Tue, 14 Sep 2021 09:19:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Covid: Booster jabs for over-50s expected to be announced]]></title>
             <description><![CDATA[A single dose of Pfizer will be offered at least six months after a second dose, the BBC understands.]]></description>
@@ -30,18 +37,18 @@
             <pubDate>Tue, 14 Sep 2021 07:11:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Scotland's papers: Chief medical officers back jabs for schoolchildren]]></title>
-            <description><![CDATA[Calls for 12 to 15-year-olds to be given Covid vaccinations dominate the front pages.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-58555042?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-58555042</guid>
-            <pubDate>Tue, 14 Sep 2021 07:05:17 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Paolo Nutini and Lewis Capaldi to headline TRNSMT 2022]]></title>
             <description><![CDATA[Scottish stars Paolo Nutini and Lewis Capaldi will lead the line-up at next year's festival at Glasgow Green.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58555900?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58555900</guid>
             <pubDate>Tue, 14 Sep 2021 07:35:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Scotland's papers: Chief medical officers back jabs for schoolchildren]]></title>
+            <description><![CDATA[Calls for 12 to 15-year-olds to be given Covid vaccinations dominate the front pages.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-58555042?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-58555042</guid>
+            <pubDate>Tue, 14 Sep 2021 07:05:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Slight increase in Scotland's employment rate]]></title>
