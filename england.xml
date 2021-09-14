@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 14 Sep 2021 18:12:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Sep 2021 18:41:54 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -35,6 +35,13 @@
             <link>https://www.bbc.co.uk/news/uk-england-humber-58559511?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-humber-58559511</guid>
             <pubDate>Tue, 14 Sep 2021 16:21:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Matfen Hall: Couples 'distraught' as weddings cancelled amid price hike]]></title>
+            <description><![CDATA[Couples due to wed at a country hotel are told they must spend £20,000 or lose their bookings.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-tyne-58514635?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-tyne-58514635</guid>
+            <pubDate>Tue, 14 Sep 2021 18:27:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tributes to RAF instructor after parachute jump death]]></title>
@@ -182,13 +189,6 @@
             <link>https://www.bbc.co.uk/sport/athletics/58559089?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/athletics/58559089</guid>
             <pubDate>Tue, 14 Sep 2021 17:29:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Andy Murray: Emma Raducanu's US Open win 'very special', says three-time Grand Slam winner]]></title>
-            <description><![CDATA[Emma Raducanu's "very special" US Open win has gives British tennis with a "huge opportunity" to attract more people to the sport, says winner Andy Murray.]]></description>
-            <link>https://www.bbc.co.uk/sport/tennis/58551910?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/58551910</guid>
-            <pubDate>Tue, 14 Sep 2021 10:36:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
