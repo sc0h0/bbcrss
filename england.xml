@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 14 Sep 2021 06:12:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Sep 2021 06:42:53 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -30,6 +30,13 @@
             <pubDate>Mon, 13 Sep 2021 20:27:09 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Leicester: Three men charged with murder after stabbing]]></title>
+            <description><![CDATA[Abdirahim Mohamed dies in hospital after being found with multiple stab wounds.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-leicestershire-58555106?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-leicestershire-58555106</guid>
+            <pubDate>Tue, 14 Sep 2021 06:06:59 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Bristol man dies after crane carrying hot tub tips over]]></title>
             <description><![CDATA[A man in his 70s was pronounced dead at the scene, Avon and Somerset Police says.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-bristol-58543885?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -42,13 +49,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-oxfordshire-58529069?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-oxfordshire-58529069</guid>
             <pubDate>Tue, 14 Sep 2021 05:24:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Teenager charged with murder after woman's body found in Leicester]]></title>
-            <description><![CDATA[Leicestershire Police say Aaron Matthew, 18, is due to appear in court on Tuesday.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-leicestershire-58553159?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-leicestershire-58553159</guid>
-            <pubDate>Mon, 13 Sep 2021 20:53:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Liverpool star gives fan his kit after chance meeting while having X-rays]]></title>
@@ -65,25 +65,11 @@
             <pubDate>Tue, 14 Sep 2021 05:20:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Preacher denies fraud over 'Covid protection' oil]]></title>
-            <description><![CDATA[Bishop Climate Wiseman is accused of selling £91 kits to help "cure or protect" people from Covid-19.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-london-58552316?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-london-58552316</guid>
-            <pubDate>Mon, 13 Sep 2021 18:15:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Vietnamese man arrested in people-smuggling investigation]]></title>
-            <description><![CDATA[Police say the man is suspected of being a high-ranking member of a people-smuggling network.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-birmingham-58551734?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-birmingham-58551734</guid>
-            <pubDate>Mon, 13 Sep 2021 19:31:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Refuse truck drivers poached on rounds]]></title>
-            <description><![CDATA[Five were poached by other companies amid a shortage of lorry drivers in the UK.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-somerset-58543631?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-somerset-58543631</guid>
-            <pubDate>Mon, 13 Sep 2021 15:07:59 GMT</pubDate>
+            <title><![CDATA[Teenager charged with murder after woman's body found in Leicester]]></title>
+            <description><![CDATA[Leicestershire Police say Aaron Matthew, 18, is due to appear in court on Tuesday.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-leicestershire-58553159?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-leicestershire-58553159</guid>
+            <pubDate>Mon, 13 Sep 2021 20:53:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Appeal over WW2 medals found on Nottinghamshire golf course]]></title>
@@ -91,6 +77,20 @@
             <link>https://www.bbc.co.uk/news/uk-england-nottinghamshire-58503872?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-nottinghamshire-58503872</guid>
             <pubDate>Tue, 14 Sep 2021 05:34:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Boy, 11, gives Tynemouth seal hospital biggest donation]]></title>
+            <description><![CDATA[Oliver raised more than £1,000 for the hospital which rehabilitates rescued seals.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-tyne-58549511?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-tyne-58549511</guid>
+            <pubDate>Tue, 14 Sep 2021 05:13:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Refuse truck drivers poached on rounds]]></title>
+            <description><![CDATA[Five were poached by other companies amid a shortage of lorry drivers in the UK.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-somerset-58543631?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-somerset-58543631</guid>
+            <pubDate>Mon, 13 Sep 2021 15:07:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Brexit and Covid take Liverpool pub's giant pork pies off menu]]></title>
@@ -133,76 +133,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-leicestershire-58501877?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-leicestershire-58501877</guid>
             <pubDate>Mon, 13 Sep 2021 05:21:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Plymouth gives Tom Daley Freedom of the City]]></title>
-            <description><![CDATA[Olympic diving champion Tom Daley is given the highest honour Plymouth City Council can bestow.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-devon-58544754?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-devon-58544754</guid>
-            <pubDate>Mon, 13 Sep 2021 13:08:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Yorkshire Dales village still without TV reception]]></title>
-            <description><![CDATA[In the Yorkshire Dales village of East Witton, every aerial points to the broken transmitter.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-58544594?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-58544594</guid>
-            <pubDate>Mon, 13 Sep 2021 15:35:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Manchester Arena Inquiry: Medical equipment 'dumped' at bomb scene]]></title>
-            <description><![CDATA[Deployment of medical equipment "didn't quite reach our expectations", ambulance expert says.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-manchester-58546836?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-manchester-58546836</guid>
-            <pubDate>Mon, 13 Sep 2021 15:51:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bristol masseur jailed for sexually assaulting clients]]></title>
-            <description><![CDATA[Callum Urquhart left the women feeling frightened and ashamed, the court heard.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-bristol-58547454?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-bristol-58547454</guid>
-            <pubDate>Mon, 13 Sep 2021 17:10:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Metrolink strikes to hit Manchester sporting events]]></title>
-            <description><![CDATA[A large majority of tram drivers vote against a 1% pay offer they describe as "pitiful".]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-manchester-58551233?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-manchester-58551233</guid>
-            <pubDate>Mon, 13 Sep 2021 16:39:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Legal aid: Unscrupulous lawyers poaching clients, says judge]]></title>
-            <description><![CDATA[Bradford's top judge says defendants are being "tapped up" by rival solicitors for lucrative fees.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-leeds-58546045?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-leeds-58546045</guid>
-            <pubDate>Mon, 13 Sep 2021 15:35:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Raducanu: Christine Truman 'transported back' to her final]]></title>
-            <description><![CDATA[Britain's Christine Truman Janes reflects on her US Open final when she was also aged 18.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-suffolk-58545236?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-suffolk-58545236</guid>
-            <pubDate>Mon, 13 Sep 2021 17:10:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Grenfell Tower inquiry: Reckless firms showed neglect - lawyer]]></title>
-            <description><![CDATA[A QC representing many victims of the 2017 disaster strongly criticises several construction firms.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58547901?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58547901</guid>
-            <pubDate>Mon, 13 Sep 2021 16:25:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Carlisle 'monster' jailed for broken glass rape attempt]]></title>
-            <description><![CDATA[Dean Norman's victim said she feared she was going to be killed and was left feeling "devastated".]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-cumbria-58546353?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-cumbria-58546353</guid>
-            <pubDate>Mon, 13 Sep 2021 11:33:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Beatles: Unheard John Lennon interview tapes up for auction]]></title>
-            <description><![CDATA[The Beatles legend speaks of his musical influences and how wife Yoko Ono changed his life.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-merseyside-58546827?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-merseyside-58546827</guid>
-            <pubDate>Mon, 13 Sep 2021 13:04:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Andros Townsend: Mum made me believe again by sending me goals video]]></title>
