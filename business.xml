@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 14 Sep 2021 03:33:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Sep 2021 06:11:40 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Job vacancies at new record as furlough winds down]]></title>
+            <description><![CDATA[Official figures show the number of vacancies top one million for the first time since records began.]]></description>
+            <link>https://www.bbc.co.uk/news/business-58543554?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58543554</guid>
+            <pubDate>Tue, 14 Sep 2021 06:10:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Scrap Covid tests for most travellers, says industry]]></title>
             <description><![CDATA[The government has "choked off" travel trade and 70% of firms plan redundancies, says Abta.]]></description>
@@ -28,6 +35,13 @@
             <link>https://www.bbc.co.uk/news/business-58549651?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58549651</guid>
             <pubDate>Mon, 13 Sep 2021 16:53:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Evergrande: Shares in cash-strapped China property giant plunge]]></title>
+            <description><![CDATA[Evergrande has also seen a rare protest staged by investors at its headquarters in Shenzhen.]]></description>
+            <link>https://www.bbc.co.uk/news/business-58540939?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58540939</guid>
+            <pubDate>Tue, 14 Sep 2021 06:04:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Apple rushes to block 'zero-click' iPhone spyware]]></title>
@@ -44,18 +58,18 @@
             <pubDate>Mon, 13 Sep 2021 19:34:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Fake Walmart news release claimed it would accept cryptocurrency]]></title>
-            <description><![CDATA[A news story claiming Walmart would accept cryptocurrency Litecoin was fabricated, the retail giant says.]]></description>
-            <link>https://www.bbc.co.uk/news/technology-58545944?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/technology-58545944</guid>
-            <pubDate>Mon, 13 Sep 2021 16:28:11 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Emma Raducanu set to earn millions after US Open win]]></title>
             <description><![CDATA[Brands will be queuing up to secure sponsorship deals with the teenage tennis star, experts say.]]></description>
             <link>https://www.bbc.co.uk/news/business-58508806?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58508806</guid>
             <pubDate>Mon, 13 Sep 2021 12:15:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fake Walmart news release claimed it would accept cryptocurrency]]></title>
+            <description><![CDATA[A news story claiming Walmart would accept cryptocurrency Litecoin was fabricated, the retail giant says.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-58545944?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/technology-58545944</guid>
+            <pubDate>Mon, 13 Sep 2021 16:28:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Primark says leggings still popular as comfort rules]]></title>
