@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 14 Sep 2021 21:54:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Sep 2021 22:19:17 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -37,6 +37,13 @@
             <pubDate>Tue, 14 Sep 2021 19:06:26 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Kerry Babies: Grave exhumed in 1984 baby death investigation]]></title>
+            <description><![CDATA[A baby boy found dead on a beach in the Republic of Ireland 37 years ago has never been identified.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58562437?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58562437</guid>
+            <pubDate>Tue, 14 Sep 2021 22:02:48 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[High Street vouchers to be issued in early October]]></title>
             <description><![CDATA[The scheme aims to help businesses in retail and hospitality which have been hit by the pandemic.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58552157?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -49,13 +56,6 @@
             <link>https://www.bbc.co.uk/sport/gaelic-games/58556629?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/gaelic-games/58556629</guid>
             <pubDate>Tue, 14 Sep 2021 18:47:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid-19: NI records seven Covid-linked deaths, 1,590 cases]]></title>
-            <description><![CDATA[The total number of deaths linked to coronavirus in NI since the start of the pandemic is 2,468.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58559954?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58559954</guid>
-            <pubDate>Tue, 14 Sep 2021 17:07:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Royal Victoria Hospital: Mum's anger as baby's surgery cancelled]]></title>
@@ -119,6 +119,13 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58551992?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58551992</guid>
             <pubDate>Mon, 13 Sep 2021 21:19:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19: NI records seven Covid-linked deaths, 1,590 cases]]></title>
+            <description><![CDATA[The total number of deaths linked to coronavirus in NI since the start of the pandemic is 2,468.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58559954?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58559954</guid>
+            <pubDate>Tue, 14 Sep 2021 17:07:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: Which children are being vaccinated and why?]]></title>
