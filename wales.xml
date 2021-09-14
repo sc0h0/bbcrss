@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 14 Sep 2021 16:53:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Sep 2021 17:20:09 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -41,7 +41,14 @@
             <description><![CDATA[Parties discussing whether they can work together in the Welsh Parliament.]]></description>
             <link>https://www.bbc.co.uk/news/uk-wales-politics-58560721?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-politics-58560721</guid>
-            <pubDate>Tue, 14 Sep 2021 16:45:10 GMT</pubDate>
+            <pubDate>Tue, 14 Sep 2021 16:57:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bute Park attack: Appeal for man who may have information]]></title>
+            <description><![CDATA[Police say he has done nothing wrong but could help inquiries into the fatal attack on Gary Jenkins.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-58558886?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-58558886</guid>
+            <pubDate>Tue, 14 Sep 2021 17:09:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tomos Rhys Bunford, 9, died in Ferndale after being crushed by vehicle]]></title>
@@ -91,13 +98,6 @@
             <link>https://www.bbc.co.uk/news/uk-wales-58552040?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-58552040</guid>
             <pubDate>Tue, 14 Sep 2021 06:34:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Violence in Cardiff's Bute Park 'dark and sinister']]></title>
-            <description><![CDATA[As well as trees destroyed, fires were started and internet and power sources cut in the park.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-58544924?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-58544924</guid>
-            <pubDate>Mon, 13 Sep 2021 20:38:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid in Wales: Eluned Morgan announces booster jab plan]]></title>
@@ -205,11 +205,11 @@
             <pubDate>Tue, 14 Sep 2021 13:47:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Batwyr Sir Gaerloyw yn creu argraff yng Nghaerdydd]]></title>
-            <description><![CDATA[Chris Dent a Graeme van Buuren gafodd y gorau o'r ail ddiwrnod yn erbyn Morgannwg ddydd Llun.]]></description>
-            <link>https://www.bbc.co.uk/newyddion/58551887?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/newyddion/58551887</guid>
-            <pubDate>Mon, 13 Sep 2021 16:52:32 GMT</pubDate>
+            <title><![CDATA[Morgannwg ar ei hôl hi yn erbyn Sir Gaerloyw]]></title>
+            <description><![CDATA[Sir Gaerloyw wedi cymryd rheolaeth o'r gêm yn erbyn Morgannwg gyda pherfformiad cryf ddydd Mawrth.]]></description>
+            <link>https://www.bbc.co.uk/newyddion/58563348?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/newyddion/58563348</guid>
+            <pubDate>Tue, 14 Sep 2021 17:07:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
