@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 14 Sep 2021 07:23:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Sep 2021 07:33:15 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Norway's centre-left defeats Solberg's conservative rule]]></title>
+            <description><![CDATA[Prime Minister Erna Solberg concedes victory in elections, paving the way for coalition talks.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58555690?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58555690</guid>
+            <pubDate>Tue, 14 Sep 2021 07:25:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Russia election: Opposition crushed ahead of managed polls]]></title>
             <description><![CDATA[Exiled or disqualified, opposition voices warn of a government stitch-up in this week’s elections.]]></description>
@@ -37,13 +44,6 @@
             <pubDate>Mon, 13 Sep 2021 15:37:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Pope’s Slovakia visit sends signal after brief Hungary stop]]></title>
-            <description><![CDATA[The first papal visit in 18 years produces pleasure and puzzlement after a brief stop in Hungary.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58543366?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58543366</guid>
-            <pubDate>Mon, 13 Sep 2021 08:59:59 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Arc de Triomphe wrapped in fabric in tribute to artist]]></title>
             <description><![CDATA[Crowds gather to see the monument draped in plastic for an project inspired by late artist Christo.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-58543373?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -63,6 +63,13 @@
             <link>https://www.bbc.co.uk/news/business-58499064?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58499064</guid>
             <pubDate>Mon, 13 Sep 2021 11:53:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pope’s Slovakia visit sends signal after brief Hungary stop]]></title>
+            <description><![CDATA[The first papal visit in 18 years produces pleasure and puzzlement after a brief stop in Hungary.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58543366?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58543366</guid>
+            <pubDate>Mon, 13 Sep 2021 08:59:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[MH17: One father's testimony marked by despair and a rucksack]]></title>
