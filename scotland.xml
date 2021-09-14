@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 14 Sep 2021 17:36:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Sep 2021 17:45:58 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -282,6 +282,13 @@
             <pubDate>Sat, 04 Sep 2021 16:20:40 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[SPFL: Five top flight clubs commission independent SPFL review]]></title>
+            <description><![CDATA[Five Scottish Premiership clubs commission independent advisers to conduct a review of the SPFL, with the aim of significantly increasing revenue.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58565111?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58565111</guid>
+            <pubDate>Tue, 14 Sep 2021 17:36:31 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Women's World Cup qualifiers: 'Scotland must aim for first place']]></title>
             <description><![CDATA[Pedro Martinez Losa aims to get off to a winning start with Scotland in Hungary as he targets a tussle with his native Spain for World Cup qualification.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58560916?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -301,13 +308,6 @@
             <link>https://www.bbc.co.uk/sport/football/58552147?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58552147</guid>
             <pubDate>Mon, 13 Sep 2021 17:48:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Jack Hendry: Club Bruges' Scotland defender relishes facing Messi's PSG]]></title>
-            <description><![CDATA[Jack Hendry is relishing the chance to "test" himself against "the best front three in the world" when Club Bruges take on PSG in the Champions League.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58550781?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58550781</guid>
-            <pubDate>Mon, 13 Sep 2021 18:52:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
