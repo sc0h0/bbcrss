@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 14 Sep 2021 15:10:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Sep 2021 15:29:01 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -51,11 +51,11 @@
             <pubDate>Tue, 14 Sep 2021 05:36:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Northern Ireland nurses 'showing signs of inability to keep going']]></title>
-            <description><![CDATA[The Royal College of Nursing calls for urgent action with hospitals under pressure.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58555765?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58555765</guid>
-            <pubDate>Tue, 14 Sep 2021 12:40:26 GMT</pubDate>
+            <title><![CDATA[Covid booster vaccine rollout to begin across UK next week]]></title>
+            <description><![CDATA[Experts say a single dose of Pfizer should be offered at least six months after a second dose.]]></description>
+            <link>https://www.bbc.co.uk/news/health-58550833?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/health-58550833</guid>
+            <pubDate>Tue, 14 Sep 2021 14:49:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Belfast missile-making firm Thales awarded MoD contracts]]></title>
@@ -63,6 +63,13 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58562436?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58562436</guid>
             <pubDate>Tue, 14 Sep 2021 14:18:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Northern Ireland nurses 'showing signs of inability to keep going']]></title>
+            <description><![CDATA[The Royal College of Nursing calls for urgent action with hospitals under pressure.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58555765?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58555765</guid>
+            <pubDate>Tue, 14 Sep 2021 12:40:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Defamation: MLAs divided over Mike Nesbitt proposed law reform]]></title>
@@ -107,13 +114,6 @@
             <pubDate>Tue, 14 Sep 2021 05:38:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid: Booster jabs for over-50s expected to be announced]]></title>
-            <description><![CDATA[A single dose of Pfizer will be offered at least six months after a second dose, the BBC understands.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-58552389?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-politics-58552389</guid>
-            <pubDate>Tue, 14 Sep 2021 08:34:02 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Covid: Which children are being vaccinated and why?]]></title>
             <description><![CDATA[All children aged 12-15 across the UK will be offered one dose of the Pifzer vaccine.]]></description>
             <link>https://www.bbc.co.uk/news/health-57888429?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -140,6 +140,13 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58539666?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58539666</guid>
             <pubDate>Mon, 13 Sep 2021 16:09:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: More than 300,000 suspected of breaking quarantine rules]]></title>
+            <description><![CDATA[It comes as the prime minister prepares to announce his winter Covid plan, including for booster jabs.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-58517123?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-politics-58517123</guid>
+            <pubDate>Mon, 13 Sep 2021 14:17:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Family of boy with disabilities 'drained' by lack of respite service]]></title>
@@ -280,13 +287,6 @@
             <link>https://www.bbc.co.uk/news/world-europe-58492675?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58492675</guid>
             <pubDate>Wed, 08 Sep 2021 21:56:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[County Kerry: Criminal investigation launched after three found dead]]></title>
-            <description><![CDATA[Gardaí (Irish police) say a firearm was discovered near to the body of one of the deceased.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58483201?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58483201</guid>
-            <pubDate>Wed, 08 Sep 2021 21:05:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
