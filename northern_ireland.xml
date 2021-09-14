@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 14 Sep 2021 07:32:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Sep 2021 07:39:52 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -28,6 +28,13 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58552157?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58552157</guid>
             <pubDate>Tue, 14 Sep 2021 05:43:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: Booster jabs for over-50s expected to be announced]]></title>
+            <description><![CDATA[A single dose of Pfizer will be offered at least six months after a second dose, the BBC understands.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-58552389?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-politics-58552389</guid>
+            <pubDate>Tue, 14 Sep 2021 07:17:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ulster University plans to help run new Coleraine secondary school]]></title>
@@ -91,13 +98,6 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58551988?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58551988</guid>
             <pubDate>Mon, 13 Sep 2021 18:46:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nancy Stewart: One of Ireland's oldest women dies aged 107]]></title>
-            <description><![CDATA[Nancy Stewart from Clonard in County Meath died on Friday morning at her family home.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58543069?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58543069</guid>
-            <pubDate>Mon, 13 Sep 2021 10:14:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19 vaccine clinics open on Northern Ireland campuses]]></title>
@@ -252,6 +252,13 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58539095?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58539095</guid>
             <pubDate>Sun, 12 Sep 2021 17:05:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nancy Stewart: One of Ireland's oldest women dies aged 107]]></title>
+            <description><![CDATA[Nancy Stewart from Clonard in County Meath died on Friday morning at her family home.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58543069?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58543069</guid>
+            <pubDate>Mon, 13 Sep 2021 10:14:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Donegal mica: Crumbling house homeowners protest]]></title>
