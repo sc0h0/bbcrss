@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 14 Sep 2021 04:35:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Sep 2021 05:12:13 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -72,6 +72,13 @@
             <pubDate>Mon, 13 Sep 2021 18:27:38 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Climate change: Young people very worried - survey]]></title>
+            <description><![CDATA[Over half of respondents in a survey believe humanity is doomed and governments are failing to act.]]></description>
+            <link>https://www.bbc.co.uk/news/world-58549373?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-58549373</guid>
+            <pubDate>Tue, 14 Sep 2021 05:10:58 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Canada federal election: A look at the key numbers driving the campaign]]></title>
             <description><![CDATA[A visual guide to the big issues in Canada's federal election, from climate to cost of living.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-58426147?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -91,13 +98,6 @@
             <link>https://www.bbc.co.uk/news/health-58516207?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/health-58516207</guid>
             <pubDate>Tue, 14 Sep 2021 00:24:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Megapod of feeding humpback whales 'so special']]></title>
-            <description><![CDATA[A megapod of over 100 humpback whales has been filmed feeding off Australia's New South Wales coast.]]></description>
-            <link>https://www.bbc.co.uk/news/world-australia-58552939?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-australia-58552939</guid>
-            <pubDate>Mon, 13 Sep 2021 22:18:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Russia election: Opposition crushed ahead of managed polls]]></title>
@@ -163,18 +163,18 @@
             <pubDate>Sun, 12 Sep 2021 23:07:56 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Megapod of feeding humpback whales 'so special']]></title>
+            <description><![CDATA[A megapod of over 100 humpback whales has been filmed feeding off Australia's New South Wales coast.]]></description>
+            <link>https://www.bbc.co.uk/news/world-australia-58552939?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-australia-58552939</guid>
+            <pubDate>Mon, 13 Sep 2021 22:18:57 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[ICYMI: A big week for small things]]></title>
             <description><![CDATA[Here's a round-up of some the week's news you might have missed.]]></description>
             <link>https://www.bbc.co.uk/news/world-58523824?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-58523824</guid>
             <pubDate>Sun, 12 Sep 2021 14:21:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Match crowd catches falling cat in a flag]]></title>
-            <description><![CDATA[The cat used one of its nine lives at the American football match in Miami Gardens, Florida.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-58540023?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58540023</guid>
-            <pubDate>Sun, 12 Sep 2021 19:43:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
