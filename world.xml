@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 13 Sep 2021 23:48:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Sep 2021 00:25:55 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -72,13 +72,6 @@
             <pubDate>Mon, 13 Sep 2021 18:27:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Man arrested with bayonet and machete near US Capitol]]></title>
-            <description><![CDATA[Police say the man claimed to be "on patrol" and talked about white supremacy when he was arrested.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-58552087?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58552087</guid>
-            <pubDate>Mon, 13 Sep 2021 17:32:02 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Canada federal election: A look at the key numbers driving the campaign]]></title>
             <description><![CDATA[A visual guide to the big issues in Canada's federal election, from climate to cost of living.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-58426147?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -86,18 +79,25 @@
             <pubDate>Mon, 13 Sep 2021 23:17:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Megapod of feeding humpback whales 'so special']]></title>
-            <description><![CDATA[A megapod of over 100 humpback whales has been filmed feeding off Australia's New South Wales coast.]]></description>
-            <link>https://www.bbc.co.uk/news/world-australia-58552939?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-australia-58552939</guid>
-            <pubDate>Mon, 13 Sep 2021 22:18:57 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Twenty years after 9/11, will al-Qaeda rise again?]]></title>
             <description><![CDATA[Where is al-Qaeda 20 years after the 9/11 attacks - and could it re-emerge as a terror threat?]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-58551970?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58551970</guid>
             <pubDate>Mon, 13 Sep 2021 23:16:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: Which countries are vaccinating children and why?]]></title>
+            <description><![CDATA[Millions of children around the world are being offered a Covid vaccine.]]></description>
+            <link>https://www.bbc.co.uk/news/health-58516207?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/health-58516207</guid>
+            <pubDate>Tue, 14 Sep 2021 00:24:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Megapod of feeding humpback whales 'so special']]></title>
+            <description><![CDATA[A megapod of over 100 humpback whales has been filmed feeding off Australia's New South Wales coast.]]></description>
+            <link>https://www.bbc.co.uk/news/world-australia-58552939?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-australia-58552939</guid>
+            <pubDate>Mon, 13 Sep 2021 22:18:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Russia election: Opposition crushed ahead of managed polls]]></title>
@@ -128,39 +128,18 @@
             <pubDate>Mon, 13 Sep 2021 23:17:59 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Amazon's Cape Town base: The battle to save South African culture]]></title>
+            <description><![CDATA[Some indigenous groups say the planned office in Cape Town is on culturally important land.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-58528348?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-africa-58528348</guid>
+            <pubDate>Tue, 14 Sep 2021 00:02:05 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Why North Korea keeps launching missiles]]></title>
             <description><![CDATA[North Korea keeps testing missiles despite international condemnation. Why does Pyongyang persist?]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-56941911?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-56941911</guid>
             <pubDate>Mon, 13 Sep 2021 01:05:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pope’s Slovakia visit sends signal after brief Hungary stop]]></title>
-            <description><![CDATA[The first papal visit in 18 years produces pleasure and puzzlement after a brief stop in Hungary.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58543366?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58543366</guid>
-            <pubDate>Mon, 13 Sep 2021 08:59:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kenyan influencers paid to take 'guerrilla warfare’ online]]></title>
-            <description><![CDATA[Shadowy financiers are closing down a once democratic space on Twitter for political debate in Kenya.]]></description>
-            <link>https://www.bbc.co.uk/news/world-africa-58474936?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-africa-58474936</guid>
-            <pubDate>Sun, 12 Sep 2021 23:57:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[India appointed three top women judges. Is it too early to celebrate?]]></title>
-            <description><![CDATA[Appointment of three women to India's Supreme Court is being hailed as a "historic moment".]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-india-58498408?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-india-58498408</guid>
-            <pubDate>Sun, 12 Sep 2021 23:55:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The pressures - and rewards - of being an influencer]]></title>
-            <description><![CDATA[Running your own popular YouTube channel can be lucrative, but it comes with downsides.]]></description>
-            <link>https://www.bbc.co.uk/news/business-58487905?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58487905</guid>
-            <pubDate>Sun, 12 Sep 2021 23:00:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Life at 50C: The toxic gas flares fuelling Nigeria's climate change]]></title>
