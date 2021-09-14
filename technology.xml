@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 14 Sep 2021 03:15:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Sep 2021 03:37:42 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Apple rushes to block 'zero-click' iPhone spyware]]></title>
+            <description><![CDATA[The flaw allows hackers to access devices even if users do not click on a link or file.]]></description>
+            <link>https://www.bbc.co.uk/news/business-58540936?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58540936</guid>
+            <pubDate>Tue, 14 Sep 2021 03:22:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Fake Walmart news release claimed it would accept cryptocurrency]]></title>
             <description><![CDATA[A news story claiming Walmart would accept cryptocurrency Litecoin was fabricated, the retail giant says.]]></description>
