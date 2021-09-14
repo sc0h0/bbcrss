@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 14 Sep 2021 23:25:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Sep 2021 23:38:20 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -30,18 +30,18 @@
             <pubDate>Tue, 14 Sep 2021 19:43:44 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Russian elections: How democratic are they?]]></title>
+            <description><![CDATA[Ahead of this week's elections many opposition candidates have been prevented from running.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58557994?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58557994</guid>
+            <pubDate>Tue, 14 Sep 2021 23:00:11 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Norway's centre-left defeats Solberg's conservative rule]]></title>
             <description><![CDATA[Prime Minister Erna Solberg concedes victory in elections, paving the way for coalition talks.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-58555690?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58555690</guid>
             <pubDate>Tue, 14 Sep 2021 09:28:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Russia election: Opposition crushed ahead of managed polls]]></title>
-            <description><![CDATA[Exiled or disqualified, opposition voices warn of a government stitch-up in this week’s elections.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58504603?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58504603</guid>
-            <pubDate>Mon, 13 Sep 2021 22:27:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Brexit: Checks on goods imported from the EU delayed again]]></title>
@@ -72,6 +72,13 @@
             <pubDate>Mon, 13 Sep 2021 11:53:09 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Miss Ireland 2021: First black winner 'proud' of crown]]></title>
+            <description><![CDATA[Pamela Uba moved to the country as a seven-year-old - now she's making history after taking the title.]]></description>
+            <link>https://www.bbc.co.uk/news/newsbeat-58558667?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/newsbeat-58558667</guid>
+            <pubDate>Tue, 14 Sep 2021 23:20:36 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Arc de Triomphe wrapped in fabric in tribute to artist]]></title>
             <description><![CDATA[Crowds gather to see the monument draped in plastic for an project inspired by late artist Christo.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-58543373?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -79,11 +86,11 @@
             <pubDate>Mon, 13 Sep 2021 14:03:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Miss Ireland 2021: First black winner 'proud' of crown]]></title>
-            <description><![CDATA[Pamela Uba moved to the country as a seven-year-old - now she's making history after taking the title.]]></description>
-            <link>https://www.bbc.co.uk/news/newsbeat-58558667?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/newsbeat-58558667</guid>
-            <pubDate>Tue, 14 Sep 2021 23:20:36 GMT</pubDate>
+            <title><![CDATA[Russia election: Opposition crushed ahead of managed polls]]></title>
+            <description><![CDATA[Exiled or disqualified, opposition voices warn of a government stitch-up in this week’s elections.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58504603?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58504603</guid>
+            <pubDate>Mon, 13 Sep 2021 22:27:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Pope’s Slovakia visit sends signal after brief Hungary stop]]></title>
@@ -114,13 +121,6 @@
             <pubDate>Thu, 09 Sep 2021 14:41:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Russian elections: How democratic are they?]]></title>
-            <description><![CDATA[Ahead of this week's elections many opposition candidates have been prevented from running.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58557994?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58557994</guid>
-            <pubDate>Tue, 14 Sep 2021 23:00:11 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Ros Atkins on... lorry driver shortages]]></title>
             <description><![CDATA[Ros Atkins looks at why there's a lack of drivers and how it's affecting UK businesses.]]></description>
             <link>https://www.bbc.co.uk/news/uk-58521211?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -147,6 +147,13 @@
             <link>https://www.bbc.co.uk/news/uk-58322865?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58322865</guid>
             <pubDate>Mon, 30 Aug 2021 23:08:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Greta Thunberg: 'I'll go to COP26 if it's safe and democratic']]></title>
+            <description><![CDATA[Swedish climate activist Greta Thunberg says she does not think November's COP26 summit in Glasgow will lead to "much results".]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-58388980?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-58388980</guid>
+            <pubDate>Tue, 31 Aug 2021 05:12:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
