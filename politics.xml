@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 15 Sep 2021 20:08:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Sep 2021 20:26:16 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -261,13 +261,6 @@
             <pubDate>Wed, 15 Sep 2021 19:06:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Gavin Williamson's most memorable moments]]></title>
-            <description><![CDATA[The prime minister has sacked Mr Williamson, who faced repeated calls to quit as education secretary.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-58578571?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-politics-58578571</guid>
-            <pubDate>Wed, 15 Sep 2021 19:13:18 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Starmer challenges Johnson on universal credit cuts]]></title>
             <description><![CDATA[Sir Keir Starmer and the prime minister exchanged barbs over the proposed cut in universal credit.]]></description>
             <link>https://www.bbc.co.uk/news/uk-politics-58570947?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -287,6 +280,13 @@
             <link>https://www.bbc.co.uk/news/uk-politics-58570946?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-politics-58570946</guid>
             <pubDate>Wed, 15 Sep 2021 13:05:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sajid Javid: 'We need to avoid unsustainable pressure on the NHS']]></title>
+            <description><![CDATA[There will be "no single trigger" for bringing back coronavirus restrictions during winter, Sajid Javid says.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-58569846?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58569846</guid>
+            <pubDate>Wed, 15 Sep 2021 08:32:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Will Boris Johnson’s plan for the NHS work?]]></title>
