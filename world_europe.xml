@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 15 Sep 2021 10:13:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Sep 2021 10:32:06 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -107,6 +107,13 @@
             <pubDate>Mon, 13 Sep 2021 08:59:59 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Von der Leyen pushes for next level on EU defence]]></title>
+            <description><![CDATA[The European Commission President has called for the power to intervene militarily without the US.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58568277?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58568277</guid>
+            <pubDate>Wed, 15 Sep 2021 10:12:14 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Climate change: Cows 'toilet trained' in bid to curb greenhouse gases]]></title>
             <description><![CDATA[By the end of the German study, more than two thirds of the cows were toilet trained.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-58559004?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -133,13 +140,6 @@
             <link>https://www.bbc.co.uk/news/world-europe-58402941?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58402941</guid>
             <pubDate>Tue, 31 Aug 2021 18:20:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Feminist Collages London: Tackling violence against women with slogan posters]]></title>
-            <description><![CDATA[A movement that started in Paris, has now spread into locations across the globe.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58322865?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58322865</guid>
-            <pubDate>Mon, 30 Aug 2021 23:08:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
