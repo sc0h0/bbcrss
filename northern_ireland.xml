@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 15 Sep 2021 16:26:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Sep 2021 16:54:52 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -51,11 +51,11 @@
             <pubDate>Wed, 15 Sep 2021 08:42:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Ivermectin: Northern Ireland seizures of unproven horse drug used for Covid]]></title>
-            <description><![CDATA[More than 8,500 of the tablets have been seized coming into Northern Ireland since 2020.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58569354?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58569354</guid>
-            <pubDate>Wed, 15 Sep 2021 09:43:51 GMT</pubDate>
+            <title><![CDATA[DUP boycott could place £1bn in jeopardy, Conor Murphy claims]]></title>
+            <description><![CDATA[The party has said it would boycott most north-south meetings until the NI Protocol is changed.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58576545?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58576545</guid>
+            <pubDate>Wed, 15 Sep 2021 16:35:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Unmanned submarine earmarked for Irish Sea freight crossings]]></title>
@@ -65,11 +65,18 @@
             <pubDate>Wed, 15 Sep 2021 10:44:11 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Ivermectin: Northern Ireland seizures of unproven horse drug used for Covid]]></title>
+            <description><![CDATA[More than 8,500 of the tablets have been seized coming into Northern Ireland since 2020.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58569354?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58569354</guid>
+            <pubDate>Wed, 15 Sep 2021 09:43:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Covid-19: NI records 10 Covid-linked deaths,1,304 cases]]></title>
             <description><![CDATA[The total number of deaths linked to coronavirus in NI since the start of the pandemic is 2,478.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58572594?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58572594</guid>
-            <pubDate>Wed, 15 Sep 2021 13:25:39 GMT</pubDate>
+            <pubDate>Wed, 15 Sep 2021 16:38:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Northern Ireland to Scotland bridge plans 'put to bed']]></title>
