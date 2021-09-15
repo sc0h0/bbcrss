@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 15 Sep 2021 14:00:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Sep 2021 14:20:11 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -35,6 +35,13 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-scotland-politics-58570525?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-scotland-politics-58570525</guid>
             <pubDate>Wed, 15 Sep 2021 12:22:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Northern Ireland to Scotland bridge plans 'put to bed']]></title>
+            <description><![CDATA[NI's infrastructure minister says she is pleased that the proposals have been shelved.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58574878?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58574878</guid>
+            <pubDate>Wed, 15 Sep 2021 14:06:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Former soldier aged 75 jailed for child rapes in Aberdeen]]></title>
@@ -65,32 +72,11 @@
             <pubDate>Wed, 15 Sep 2021 10:03:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Scotland's papers: Booster jab 'blitz' and vaccine for younger pupils]]></title>
-            <description><![CDATA[Plans to give people over 50 Covid booster jabs while also vaccinating 12 to 15-year-olds make the front pages.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-58568217?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-58568217</guid>
-            <pubDate>Wed, 15 Sep 2021 06:51:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: Opioid pain relief 'soared during pandemic' for some patients]]></title>
-            <description><![CDATA[Researchers in Aberdeen say the use of strong painkillers by some patients was up 40% as they awaited surgery.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-58547824?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-58547824</guid>
-            <pubDate>Wed, 15 Sep 2021 05:26:57 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Inflation: Price rises see record jump as food costs soar in August]]></title>
             <description><![CDATA[The UK inflation rate hit 3.2% in the year to August, according to the latest official figures.]]></description>
             <link>https://www.bbc.co.uk/news/business-58563417?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58563417</guid>
             <pubDate>Wed, 15 Sep 2021 09:51:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Energy customers hit by collapse of People's Energy and Utility Point]]></title>
-            <description><![CDATA[People's Energy and Utility Point, which supply power to more than 500,000 people, have ceased trading.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-scotland-business-58557434?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-scotland-business-58557434</guid>
-            <pubDate>Tue, 14 Sep 2021 17:20:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Man who sexually abused children jailed for 11 years]]></title>
@@ -100,11 +86,18 @@
             <pubDate>Wed, 15 Sep 2021 10:43:37 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid: Opioid pain relief 'soared during pandemic' for some patients]]></title>
+            <description><![CDATA[Researchers in Aberdeen say the use of strong painkillers by some patients was up 40% as they awaited surgery.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-58547824?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-58547824</guid>
+            <pubDate>Wed, 15 Sep 2021 05:26:57 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Covid in Scotland: Where are the latest cases?]]></title>
             <description><![CDATA[A daily update on the number and location of coronavirus cases in Scotland.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-53511877?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-53511877</guid>
-            <pubDate>Tue, 14 Sep 2021 14:15:24 GMT</pubDate>
+            <pubDate>Wed, 15 Sep 2021 14:08:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid in Scotland: What do we know about the vaccine passport?]]></title>

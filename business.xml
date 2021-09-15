@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 15 Sep 2021 14:04:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Sep 2021 14:18:20 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -51,6 +51,13 @@
             <pubDate>Wed, 15 Sep 2021 13:25:11 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Finance firms urge black students to apply for internships]]></title>
+            <description><![CDATA[A new work experience scheme is aiming to increase the number of black people working in finance.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-bristol-58559495?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-bristol-58559495</guid>
+            <pubDate>Wed, 15 Sep 2021 07:12:27 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Job vacancies: How do I find a new job and who is hiring?]]></title>
             <description><![CDATA[There are record numbers of empty positions, figures show, so which sectors are looking to recruit?]]></description>
             <link>https://www.bbc.co.uk/news/explainers-53685650?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -79,13 +86,6 @@
             <pubDate>Wed, 15 Sep 2021 03:55:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Javid: Valneva vaccine would not have got UK approval]]></title>
-            <description><![CDATA[Health secretary says Valneva vaccine would not have got regulatory approval after UK cancels contract.]]></description>
-            <link>https://www.bbc.co.uk/news/business-58510519?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58510519</guid>
-            <pubDate>Tue, 14 Sep 2021 16:13:45 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Canva: Australian online design platform valued at $40bn]]></title>
             <description><![CDATA[The online design platform has become one of the most valuable private firms in the world.]]></description>
             <link>https://www.bbc.co.uk/news/world-australia-58567722?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -112,41 +112,6 @@
             <link>https://www.bbc.co.uk/news/world-europe-58556073?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58556073</guid>
             <pubDate>Tue, 14 Sep 2021 17:45:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Job vacancies surge past one million in new record]]></title>
-            <description><![CDATA[Official figures show the number of vacancies top one million for the first time since records began in 2001.]]></description>
-            <link>https://www.bbc.co.uk/news/business-58543554?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58543554</guid>
-            <pubDate>Tue, 14 Sep 2021 14:49:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Boeing says air travel to return to pre-pandemic levels by 2024]]></title>
-            <description><![CDATA[Plane maker expects global aviation to take another two and a half years to recover.]]></description>
-            <link>https://www.bbc.co.uk/news/business-58560821?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58560821</guid>
-            <pubDate>Tue, 14 Sep 2021 14:05:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Brexit: Checks on goods imported from the EU delayed again]]></title>
-            <description><![CDATA[The government blames Covid and supply chain difficulties as it puts back changes.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-58556453?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-politics-58556453</guid>
-            <pubDate>Tue, 14 Sep 2021 11:39:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ocado says delivery driver wage rise to cost it up to £5m]]></title>
-            <description><![CDATA[The online food delivery is the latest to offer increased wages amid a shortage of lorry drivers.]]></description>
-            <link>https://www.bbc.co.uk/news/business-58555804?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58555804</guid>
-            <pubDate>Tue, 14 Sep 2021 09:04:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tesco launches new refillable shopping with 88 products]]></title>
-            <description><![CDATA[Tesco supermarket has launched a zero-waste shopping service, providing customers with containers.]]></description>
-            <link>https://www.bbc.co.uk/news/business-58560761?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58560761</guid>
-            <pubDate>Tue, 14 Sep 2021 13:35:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why even giant ships can't solve the shipping crisis]]></title>
