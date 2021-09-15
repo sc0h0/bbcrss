@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 15 Sep 2021 15:54:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Sep 2021 16:02:49 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -37,13 +37,6 @@
             <pubDate>Wed, 15 Sep 2021 15:36:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[California recall: Democratic governor survives bid to oust him]]></title>
-            <description><![CDATA[Gavin Newsom appears to have survived a rare state-wide vote to remove him with a clear majority.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-58565271?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58565271</guid>
-            <pubDate>Wed, 15 Sep 2021 04:16:50 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[EU must step up and build defence - von der Leyen]]></title>
             <description><![CDATA[The Commission's chief says the EU needs the "political will" to intervene militarily without the US.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-58570505?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -63,6 +56,13 @@
             <link>https://www.bbc.co.uk/news/world-middle-east-58570259?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-middle-east-58570259</guid>
             <pubDate>Wed, 15 Sep 2021 10:18:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Australia's Curtin University wants 'unethical' AI study retracted]]></title>
+            <description><![CDATA[The Australian university says the facial recognition study co-funded by China breached guidelines.]]></description>
+            <link>https://www.bbc.co.uk/news/world-australia-58571618?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-australia-58571618</guid>
+            <pubDate>Wed, 15 Sep 2021 15:53:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Three ex-US intelligence officers admit hacking for UAE]]></title>
