@@ -24,5 +24,5 @@
 24. [Galw am gwest i drychineb pwll glo Gleision wedi 10 mlynedd](https://www.bbc.co.uk/newyddion/58545852?at_medium=RSS&at_campaign=KARANGA) - Teuluoedd pedwar fu farw yng nglofa Gleision yn 2011 yn dweud bod cwestiynau i'w hateb o hyd.
 25. [Gofalwyr i ymladd newidiadau gofal yng Nghaerffili](https://www.bbc.co.uk/newyddion/58540133?at_medium=RSS&at_campaign=KARANGA) - Mae'r cyngor wedi cynnig cynllun newydd am ddarpariaeth gofal mewn canolfannau i oedolion anabl.
 26. [Agor Capel Coffa Capel Celyn wedi gwaith atgyweirio](https://www.bbc.co.uk/newyddion/58560397?at_medium=RSS&at_campaign=KARANGA) - Mae'r capel, a godwyd yn 1965, yn coffáu'r pentref a foddwyd i gyflenwi dŵr i Gilgwri a Lerpwl.
-27. [Llyfr Mawr y Plant yn 90 oed](https://www.bbc.co.uk/newyddion/58550295?at_medium=RSS&at_campaign=KARANGA) - Dathlu pen-blwydd rhai o hoff gymeriadau Cymru gan gynnwys Siôn Blewyn Coch a Wil Cwac
+27. [Gary Slaymaker: Llythyr garu i'r sinema](https://www.bbc.co.uk/newyddion/58549363?at_medium=RSS&at_campaign=KARANGA) - Y guru ffilmiau sy'n disgrifio beth mae'r sinema yn olygu iddo wrth i'r drysau ailagor.
 28. [Y Gynghrair Genedlaethol: Grimsby 3-1 Wrecsam](https://www.bbc.co.uk/newyddion/58565335?at_medium=RSS&at_campaign=KARANGA) - Mae'r golled yn golygu fod gan Wrecsam naw pwynt o'u chwe gêm hyd yma y tymor hwn.
