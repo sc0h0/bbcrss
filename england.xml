@@ -11,16 +11,23 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 15 Sep 2021 07:47:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Sep 2021 08:14:07 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
-            <title><![CDATA[Covid: England could see big wave of hospitalisations, warn advisers]]></title>
-            <description><![CDATA[But government scientific advisers also say "light" restrictions could curb infections in England.]]></description>
+            <title><![CDATA[Covid: Plan B would be triggered by NHS pressure, Sajid Javid says]]></title>
+            <description><![CDATA[It comes as government scientists warn of a jump in Covid hospital admissions if rules are not tightened.]]></description>
             <link>https://www.bbc.co.uk/news/uk-58566235?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58566235</guid>
-            <pubDate>Wed, 15 Sep 2021 01:33:46 GMT</pubDate>
+            <pubDate>Wed, 15 Sep 2021 08:10:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[M25 protests: Activists return to motorway in Hertfordshire]]></title>
+            <description><![CDATA[Activists from Insulate Britain have sat down in the road at junction 23 in Hertfordshire.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-58569794?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-58569794</guid>
+            <pubDate>Wed, 15 Sep 2021 07:52:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Boy's flood death site to be investigated]]></title>
@@ -37,13 +44,6 @@
             <pubDate>Wed, 15 Sep 2021 05:57:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Grimsby hospital: High demand blamed for A&E queue]]></title>
-            <description><![CDATA[There was a lack of space for walk-ins at Grimsby's hospital due to social distancing, a trust says.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-humber-58559511?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-humber-58559511</guid>
-            <pubDate>Tue, 14 Sep 2021 16:21:33 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Men charged with murder after bodies found in Bristol house]]></title>
             <description><![CDATA[Ionut-Valentin Boboc and Jacob Bebe Chers are due to appear before Bristol Magistrates later.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-bristol-58568538?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -56,6 +56,13 @@
             <link>https://www.bbc.co.uk/news/uk-england-stoke-staffordshire-58565502?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-stoke-staffordshire-58565502</guid>
             <pubDate>Wed, 15 Sep 2021 06:30:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Grimsby hospital: High demand blamed for A&E queue]]></title>
+            <description><![CDATA[There was a lack of space for walk-ins at Grimsby's hospital due to social distancing, a trust says.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-humber-58559511?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-humber-58559511</guid>
+            <pubDate>Tue, 14 Sep 2021 16:21:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Nicholas Burton: Family of killer's victim stunned by release claim]]></title>
@@ -84,13 +91,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-devon-58562922?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-devon-58562922</guid>
             <pubDate>Wed, 15 Sep 2021 06:02:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Thin Blue Paw Awards: Suicide-prevention dog wins]]></title>
-            <description><![CDATA[German shepherd Calli and PC Megan West win the lifesaver category at the Thin Blue Paw Awards.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-58562338?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-58562338</guid>
-            <pubDate>Tue, 14 Sep 2021 18:43:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The litter-laden alleyways transformed by residents]]></title>
@@ -135,11 +135,18 @@
             <pubDate>Tue, 14 Sep 2021 19:20:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Young Boys 2-1 Manchester United: Cristiano Ronaldo scores but Red Devils suffer shock defeat]]></title>
-            <description><![CDATA[Cristiano Ronaldo scores on his Champions League return for Manchester United but it is not enough as Young Boys strike in stoppage-time to cap a remarkable comeback win.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58546274?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58546274</guid>
-            <pubDate>Tue, 14 Sep 2021 19:51:19 GMT</pubDate>
+            <title><![CDATA[Thin Blue Paw Awards: Suicide-prevention dog wins]]></title>
+            <description><![CDATA[German shepherd Calli and PC Megan West win the lifesaver category at the Thin Blue Paw Awards.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-58562338?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-58562338</guid>
+            <pubDate>Tue, 14 Sep 2021 18:43:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lingard will bounce back from error, says Solskjaer]]></title>
+            <description><![CDATA[Ole Gunnar Solskjaer says Jesse Lingard will learn from his mistake after Manchester United suffer shock Champions League defeat to Young Boys.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58566412?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58566412</guid>
+            <pubDate>Tue, 14 Sep 2021 22:43:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Chelsea 1-0 Zenit: Romelu Lukaku gives Blues win in Champions League]]></title>
@@ -149,25 +156,25 @@
             <pubDate>Tue, 14 Sep 2021 21:22:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[County Championship: Hampshire beat Nottinghamshire to lead title race]]></title>
+            <title><![CDATA[CJ Ujah: British Olympic 4x100m relay silver medallist's 'B' sample positive]]></title>
+            <description><![CDATA[British Olympic silver medallist CJ Ujah's 'B' sample tests positive, following his initial positive test at the Tokyo Olympics.]]></description>
+            <link>https://www.bbc.co.uk/sport/athletics/58559089?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/athletics/58559089</guid>
+            <pubDate>Tue, 14 Sep 2021 17:29:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hampshire beat Notts to go top of County Championship]]></title>
             <description><![CDATA[Hampshire will lead the title race into the final round of Championship games after a 122-run win over Nottinghamshire.]]></description>
             <link>https://www.bbc.co.uk/sport/cricket/58557453?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/cricket/58557453</guid>
             <pubDate>Tue, 14 Sep 2021 17:28:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Bournemouth 2-1 Queens Park Rangers: Jaidon Anthony stars for Cherries]]></title>
-            <description><![CDATA[Jaidon Anthony scores one and sets up the other as Bournemouth inflict QPR's first defeat of the season to go joint top of the Championship.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58470832?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58470832</guid>
-            <pubDate>Tue, 14 Sep 2021 20:54:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sheffield United 2-2 Preston North End: Emil Riis Jakobsen scores leveller for North End]]></title>
-            <description><![CDATA[Emil Riis Jakobsen scores a 95th-minute equaliser as Preston deny Sheffield United a second consecutive Championship victory.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58470834?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58470834</guid>
-            <pubDate>Tue, 14 Sep 2021 21:24:12 GMT</pubDate>
+            <title><![CDATA[Young Boys 2-1 Manchester United: Cristiano Ronaldo scores but Red Devils suffer shock defeat]]></title>
+            <description><![CDATA[Cristiano Ronaldo scores on his Champions League return for Manchester United but it is not enough as Young Boys strike in stoppage-time to cap a remarkable comeback win.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58546274?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58546274</guid>
+            <pubDate>Tue, 14 Sep 2021 19:51:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
