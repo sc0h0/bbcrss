@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 15 Sep 2021 11:53:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Sep 2021 12:28:23 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -28,6 +28,13 @@
             <link>https://www.bbc.co.uk/news/science-environment-58559735?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/science-environment-58559735</guid>
             <pubDate>Tue, 14 Sep 2021 15:14:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Unmanned submarine earmarked for Irish Sea freight crossings]]></title>
+            <description><![CDATA[A start-up company has been given £380,000 to develop the hydrogen-powered concept.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58571143?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58571143</guid>
+            <pubDate>Wed, 15 Sep 2021 10:44:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Climate change: Young people very worried - survey]]></title>
@@ -51,13 +58,6 @@
             <pubDate>Mon, 13 Sep 2021 20:35:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Green jobs: The new generation of workers making it work for them]]></title>
-            <description><![CDATA[Science editor David Shukman on three jobs in growing green industries, and what it's like to do them]]></description>
-            <link>https://www.bbc.co.uk/news/science-environment-58549135?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/science-environment-58549135</guid>
-            <pubDate>Tue, 14 Sep 2021 00:16:15 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[COP26: UK still lagging on climate policy, report says]]></title>
             <description><![CDATA[UK policies will deliver a quarter of emissions cuts needed, say campaigners ahead of the COP26 summit.]]></description>
             <link>https://www.bbc.co.uk/news/science-environment-58520330?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -70,20 +70,6 @@
             <link>https://www.bbc.co.uk/news/science-environment-58508001?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/science-environment-58508001</guid>
             <pubDate>Mon, 13 Sep 2021 00:02:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TUC: Jobs at risk if UK fails to hit carbon emissions target]]></title>
-            <description><![CDATA[Trade bodies and unions say the UK is slipping behind other nations on green investment.]]></description>
-            <link>https://www.bbc.co.uk/news/business-58519996?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58519996</guid>
-            <pubDate>Sun, 12 Sep 2021 07:26:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[COP26: Poorest countries fear not reaching UK for climate summit]]></title>
-            <description><![CDATA[Twenty of the world's poorest countries face hotel quarantine before the event in Glasgow.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58360996?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58360996</guid>
-            <pubDate>Fri, 10 Sep 2021 16:00:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Life at 50C: The toxic gas flares fuelling Nigeria's climate change]]></title>
@@ -100,6 +86,13 @@
             <pubDate>Wed, 08 Sep 2021 23:03:59 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Then and now: Why deforestation is such a hot topic]]></title>
+            <description><![CDATA[Trees are part of the solution for climate change, but are we felling more than we are planting?]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-58399809?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/science-environment-58399809</guid>
+            <pubDate>Sat, 04 Sep 2021 01:28:47 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA['I care about the climate but my dad works in the oil industry']]></title>
             <description><![CDATA[Stephanie worries about climate change, but her dad is a senior employee at BP.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-london-58522466?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -107,18 +100,18 @@
             <pubDate>Sat, 11 Sep 2021 23:02:15 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[COP26: Poorest countries fear not reaching UK for climate summit]]></title>
+            <description><![CDATA[Twenty of the world's poorest countries face hotel quarantine before the event in Glasgow.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-58360996?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58360996</guid>
+            <pubDate>Fri, 10 Sep 2021 16:00:06 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[UK 'cut climate pledges' to clinch Australia trade deal]]></title>
             <description><![CDATA[Government ministers agreed to cut climate commitments to clinch the deal it has emerged.]]></description>
             <link>https://www.bbc.co.uk/news/business-58493481?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58493481</guid>
             <pubDate>Wed, 08 Sep 2021 23:06:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Then and now: Why deforestation is such a hot topic]]></title>
-            <description><![CDATA[Trees are part of the solution for climate change, but are we felling more than we are planting?]]></description>
-            <link>https://www.bbc.co.uk/news/science-environment-58399809?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/science-environment-58399809</guid>
-            <pubDate>Sat, 04 Sep 2021 01:28:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Climate change: Vulnerable nations call for 'emergency pact']]></title>
@@ -140,6 +133,13 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-highlands-islands-58190702?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-highlands-islands-58190702</guid>
             <pubDate>Thu, 09 Sep 2021 05:21:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Green jobs: The new generation of workers making it work for them]]></title>
+            <description><![CDATA[Science editor David Shukman on three jobs in growing green industries, and what it's like to do them]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-58549135?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/science-environment-58549135</guid>
+            <pubDate>Tue, 14 Sep 2021 00:16:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Saving Australian frog species on the brink of extinction]]></title>
