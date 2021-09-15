@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 15 Sep 2021 23:06:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Sep 2021 23:22:42 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -114,6 +114,20 @@
             <pubDate>Wed, 15 Sep 2021 13:24:09 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Canadian prairie ranchers struggle with drought conditions]]></title>
+            <description><![CDATA[Amid a severe drought in the Prairies, some ranchers are trying to find ways to work with nature.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-58573877?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58573877</guid>
+            <pubDate>Wed, 15 Sep 2021 23:04:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[On the trail of fake medicine smugglers in Benin]]></title>
+            <description><![CDATA[Since the beginning of the pandemic, there’s been an increase in counterfeit drugs around the world.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-58577421?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-africa-58577421</guid>
+            <pubDate>Wed, 15 Sep 2021 23:04:37 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Hushpuppi - the Instagram influencer and international fraudster]]></title>
             <description><![CDATA[How Nigerian Ramon Abbas went from a romance scammer to a so-called "Billionaire Gucci Master".]]></description>
             <link>https://www.bbc.co.uk/news/world-africa-58553109?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -126,6 +140,13 @@
             <link>https://www.bbc.co.uk/news/world-asia-india-58466528?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-india-58466528</guid>
             <pubDate>Tue, 14 Sep 2021 23:53:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mangrove forests: Photography winners show beauty of ecosystems]]></title>
+            <description><![CDATA[The Mangrove Photography Award winners show unique ecosystems above and below the waterline.]]></description>
+            <link>https://www.bbc.co.uk/news/in-pictures-58558932?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/in-pictures-58558932</guid>
+            <pubDate>Wed, 15 Sep 2021 23:16:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Canada federal election: Canadians want reconciliation. Will the election deliver?]]></title>
@@ -163,11 +184,18 @@
             <pubDate>Mon, 13 Sep 2021 23:01:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[On the trail of fake medicine smugglers in Benin]]></title>
-            <description><![CDATA[Since the beginning of the pandemic, there’s been an increase in counterfeit drugs around the world.]]></description>
-            <link>https://www.bbc.co.uk/news/world-africa-58577421?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-africa-58577421</guid>
-            <pubDate>Wed, 15 Sep 2021 23:04:37 GMT</pubDate>
+            <title><![CDATA[Ros Atkins on... why people are using a horse drug]]></title>
+            <description><![CDATA[Ivermectin is being used by some to treat Covid-19, despite the benefits being unproven.]]></description>
+            <link>https://www.bbc.co.uk/news/world-58569849?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-58569849</guid>
+            <pubDate>Wed, 15 Sep 2021 23:12:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The homemakers breaking taboos on Instagram]]></title>
+            <description><![CDATA[Vasanti, Ritu and Pradnya, who have overcome huge challenges, now find joy performing on social media.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-india-58543401?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-india-58543401</guid>
+            <pubDate>Wed, 15 Sep 2021 23:06:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Russian elections: Meet the politicians barred from the ballot]]></title>
@@ -189,13 +217,6 @@
             <link>https://www.bbc.co.uk/news/entertainment-arts-58555511?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-58555511</guid>
             <pubDate>Tue, 14 Sep 2021 10:03:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Life at 50C: The toxic gas flares fuelling Nigeria's climate change]]></title>
-            <description><![CDATA[Joy and her family are among 2m Nigerians living within 4km of a gas flare in Nigeria's oil-rich south.]]></description>
-            <link>https://www.bbc.co.uk/news/world-africa-58549010?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-africa-58549010</guid>
-            <pubDate>Mon, 13 Sep 2021 23:08:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
