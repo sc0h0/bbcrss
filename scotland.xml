@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 15 Sep 2021 08:34:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Sep 2021 08:43:46 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -310,25 +310,18 @@
             <pubDate>Tue, 14 Sep 2021 16:05:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Josh Kerr keen on Commonwealth Games in busy summer of 2022]]></title>
-            <description><![CDATA[Olympic medallist Josh Kerr says running for Scotland at next year's Commonwealth Games is a "big goal" for him next summer.]]></description>
-            <link>https://www.bbc.co.uk/sport/athletics/58560920?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/athletics/58560920</guid>
-            <pubDate>Tue, 14 Sep 2021 19:15:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[BBC Scotland looks back at the iconic fight between Jim Watt and Ken Buchanan]]></title>
-            <description><![CDATA[BBC Scotland looks back at the iconic fight between Jim Watt and Ken Buchanan.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/boxing/58565939?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/av/boxing/58565939</guid>
-            <pubDate>Wed, 15 Sep 2021 07:54:53 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Scottish Gossip: Rangers, Scottish FA, Celtic, Dundee, Dundee Utd, Hearts, Aberdeen]]></title>
             <description><![CDATA[Lyon are set to be without two key players for their Europa League tie with Rangers, while Celtic are bidding to make history in Spain.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58568737?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58568737</guid>
             <pubDate>Wed, 15 Sep 2021 07:00:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Josh Kerr keen on Commonwealth Games in busy summer of 2022]]></title>
+            <description><![CDATA[Olympic medallist Josh Kerr says running for Scotland at next year's Commonwealth Games is a "big goal" for him next summer.]]></description>
+            <link>https://www.bbc.co.uk/sport/athletics/58560920?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/athletics/58560920</guid>
+            <pubDate>Tue, 14 Sep 2021 19:15:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
