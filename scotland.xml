@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 15 Sep 2021 15:07:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Sep 2021 15:31:12 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -51,8 +51,15 @@
             <pubDate>Wed, 15 Sep 2021 12:59:20 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid in Scotland: Two residents die in Stranraer care home outbreak]]></title>
+            <description><![CDATA[Health experts say "all necessary plans and protocols" are in place at the site in Stranraer.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-south-scotland-58570427?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-south-scotland-58570427</guid>
+            <pubDate>Wed, 15 Sep 2021 15:16:57 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Energy firm workers 'not consulted' over redundancies]]></title>
-            <description><![CDATA[Former staff at People's Energy and Utility Point could take legal action over how their redundancies were handled.]]></description>
+            <description><![CDATA[Employment lawyer says former staff at People's Energy and Utility Point could take legal action over how their redundancies were handled.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-scotland-business-58568218?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-scotland-business-58568218</guid>
             <pubDate>Wed, 15 Sep 2021 14:52:09 GMT</pubDate>
@@ -84,13 +91,6 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-south-scotland-58570423?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-south-scotland-58570423</guid>
             <pubDate>Wed, 15 Sep 2021 10:03:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Inflation: Price rises see record jump as food costs soar in August]]></title>
-            <description><![CDATA[The UK inflation rate hit 3.2% in the year to August, according to the latest official figures.]]></description>
-            <link>https://www.bbc.co.uk/news/business-58563417?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58563417</guid>
-            <pubDate>Wed, 15 Sep 2021 09:51:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid in Scotland: What do we know about the vaccine passport?]]></title>
