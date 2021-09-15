@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 15 Sep 2021 05:32:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Sep 2021 06:07:04 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Price rises see record jump as food costs rise in August]]></title>
+            <description><![CDATA[The UK inflation rate hit 3.2% in the year to August, according to the latest official figures.]]></description>
+            <link>https://www.bbc.co.uk/news/business-58563417?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58563417</guid>
+            <pubDate>Wed, 15 Sep 2021 06:05:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Javid: Valneva vaccine would not have got UK approval]]></title>
             <description><![CDATA[Health secretary says Valneva vaccine would not have got regulatory approval after UK cancels contract.]]></description>
@@ -28,13 +35,6 @@
             <link>https://www.bbc.co.uk/news/business-58567192?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58567192</guid>
             <pubDate>Wed, 15 Sep 2021 03:55:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fashion house in backlash over 'racist' $1,190 sweatpants]]></title>
-            <description><![CDATA[Critics say the $1,190 pants, which come with a built-in pair of boxer shorts, rip off US hip hop culture.]]></description>
-            <link>https://www.bbc.co.uk/news/business-58563242?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58563242</guid>
-            <pubDate>Tue, 14 Sep 2021 19:08:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Canva: Australian online design platform valued at $40bn]]></title>
@@ -63,6 +63,13 @@
             <link>https://www.bbc.co.uk/news/technology-58560011?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/technology-58560011</guid>
             <pubDate>Tue, 14 Sep 2021 19:39:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fashion house in backlash over 'racist' $1,190 sweatpants]]></title>
+            <description><![CDATA[Critics say the $1,190 pants, which come with a built-in pair of boxer shorts, rip off US hip hop culture.]]></description>
+            <link>https://www.bbc.co.uk/news/business-58563242?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58563242</guid>
+            <pubDate>Tue, 14 Sep 2021 19:08:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Spain targets energy firms as European bills surge]]></title>
