@@ -11,23 +11,16 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 15 Sep 2021 01:29:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Sep 2021 01:53:59 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
-            <title><![CDATA[Canada federal election: A look at the key numbers driving the campaign]]></title>
-            <description><![CDATA[A visual guide to the big issues in Canada's federal election, from climate to cost of living.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-58426147?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58426147</guid>
-            <pubDate>Mon, 13 Sep 2021 23:17:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tropical storm Nicholas brings heavy rain to Texas and Louisiana]]></title>
-            <description><![CDATA[Meteorologists warn of life-threatening flooding, power outages and storm surges.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-58555227?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58555227</guid>
-            <pubDate>Tue, 14 Sep 2021 10:01:06 GMT</pubDate>
+            <title><![CDATA[California recall election: Fact-checking Governor Newsom and his challengers]]></title>
+            <description><![CDATA[BBC News looks at some of the claims made by Governor Newsom and his challengers on the campaign trail.]]></description>
+            <link>https://www.bbc.co.uk/news/58491575?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/58491575</guid>
+            <pubDate>Tue, 14 Sep 2021 09:47:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Comedian Norm MacDonald dead at 61 from cancer]]></title>
@@ -37,11 +30,25 @@
             <pubDate>Tue, 14 Sep 2021 20:04:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Met Gala: 13 of the most eye-catching looks]]></title>
-            <description><![CDATA[Jennifer Lopez, Simone Biles, Dan Levy, Ella Emhoff and Tommy Hilfiger were all on the red carpet.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-58537575?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-58537575</guid>
-            <pubDate>Tue, 14 Sep 2021 09:45:16 GMT</pubDate>
+            <title><![CDATA[Missing Florida girl re-unites with mother 14 years later]]></title>
+            <description><![CDATA[An unexpected Facebook message this month led to the end of an alleged kidnapping cold case.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-58563004?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58563004</guid>
+            <pubDate>Tue, 14 Sep 2021 20:19:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Canada federal election: Canadians want reconciliation. Will the election deliver?]]></title>
+            <description><![CDATA[The issue that seized Canadians for much of the summer has mostly been absent on the campaign trail.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-58541324?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58541324</guid>
+            <pubDate>Tue, 14 Sep 2021 23:00:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tropical storm Nicholas brings heavy rain to Texas and Louisiana]]></title>
+            <description><![CDATA[Meteorologists warn of life-threatening flooding, power outages and storm surges.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-58555227?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58555227</guid>
+            <pubDate>Tue, 14 Sep 2021 10:01:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[California ski resort changes offensive Native American name]]></title>
@@ -51,27 +58,6 @@
             <pubDate>Tue, 14 Sep 2021 15:38:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Missing Florida girl re-unites with mother 14 years later]]></title>
-            <description><![CDATA[An unexpected Facebook message this month led to the end of an alleged kidnapping cold case.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-58563004?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58563004</guid>
-            <pubDate>Tue, 14 Sep 2021 20:19:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[California recall election: Fact-checking Governor Newsom and his challengers]]></title>
-            <description><![CDATA[BBC News looks at some of the claims made by Governor Newsom and his challengers on the campaign trail.]]></description>
-            <link>https://www.bbc.co.uk/news/58491575?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/58491575</guid>
-            <pubDate>Tue, 14 Sep 2021 09:47:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[California recall election: Biden campaigns with Gavin Newsom]]></title>
-            <description><![CDATA[Polls show the state's Democratic Governor Gavin Newsom has a comfortable lead ahead of the vote.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-58553704?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58553704</guid>
-            <pubDate>Tue, 14 Sep 2021 04:06:26 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[To Trump voters, chaos in Afghanistan 'another betrayal' by Biden]]></title>
             <description><![CDATA[Democrats who turned to Trump in rural Kentucky see US withdrawal as proof Biden can't be trusted.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-58441173?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -79,11 +65,18 @@
             <pubDate>Tue, 14 Sep 2021 18:43:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Met Gala 2021: The best memes and reactions]]></title>
-            <description><![CDATA[After a year off due to Covid, fashion's biggest event is back - and so are the memes.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-58554284?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58554284</guid>
-            <pubDate>Tue, 14 Sep 2021 04:56:48 GMT</pubDate>
+            <title><![CDATA[Hushpuppi - the Instagram influencer and international fraudster]]></title>
+            <description><![CDATA[How Nigerian Ramon Abbas went from a romance scammer to a so-called "Billionaire Gucci Master".]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-58553109?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-africa-58553109</guid>
+            <pubDate>Tue, 14 Sep 2021 22:50:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Met Gala: 13 of the most eye-catching looks]]></title>
+            <description><![CDATA[Jennifer Lopez, Simone Biles, Dan Levy, Ella Emhoff and Tommy Hilfiger were all on the red carpet.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-58537575?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-58537575</guid>
+            <pubDate>Tue, 14 Sep 2021 09:45:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[California recall vote 2021: Gavin Newsom challenged by Larry Elder and others]]></title>
@@ -100,13 +93,6 @@
             <pubDate>Sun, 12 Sep 2021 06:29:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Canada election: Three voters explain what matters most to them]]></title>
-            <description><![CDATA[Three people tell the BBC what issues are at stake and who they are voting for, as election day nears.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-58523450?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58523450</guid>
-            <pubDate>Sat, 11 Sep 2021 01:47:58 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The pressures - and rewards - of being an influencer]]></title>
             <description><![CDATA[Running your own popular YouTube channel can be lucrative, but it comes with downsides.]]></description>
             <link>https://www.bbc.co.uk/news/business-58487905?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -121,32 +107,32 @@
             <pubDate>Fri, 10 Sep 2021 16:42:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Afghanistan crisis: Five lessons learned (or not) since 9/11]]></title>
-            <description><![CDATA[Some fatal mistakes have undermined the fight against terror, says the BBC's Frank Gardner.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58502199?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58502199</guid>
-            <pubDate>Thu, 09 Sep 2021 22:57:43 GMT</pubDate>
+            <title><![CDATA[Canada federal election: Two years of Justin Trudeau in two minutes]]></title>
+            <description><![CDATA[As Canadians prepare to head back to the polls, here are some key moments since the last election.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-58482593?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58482593</guid>
+            <pubDate>Tue, 07 Sep 2021 23:57:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[9/11 anniversary: How the world reacted to terror attacks]]></title>
-            <description><![CDATA[Two decades on, four people from around the world reflect on that day, and what's changed since.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-58509703?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58509703</guid>
-            <pubDate>Thu, 09 Sep 2021 23:33:19 GMT</pubDate>
+            <title><![CDATA[Canada election: Three voters explain what matters most to them]]></title>
+            <description><![CDATA[Three people tell the BBC what issues are at stake and who they are voting for, as election day nears.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-58523450?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58523450</guid>
+            <pubDate>Sat, 11 Sep 2021 01:47:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[September 11: The heroes of the forgotten maritime rescue mission]]></title>
-            <description><![CDATA[On 11 September, 2001, nearly 500,000 people were evacuated by boat from southern Manhattan.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-58463014?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58463014</guid>
-            <pubDate>Tue, 07 Sep 2021 23:56:07 GMT</pubDate>
+            <title><![CDATA[Canada federal election: A look at the key numbers driving the campaign]]></title>
+            <description><![CDATA[A visual guide to the big issues in Canada's federal election, from climate to cost of living.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-58426147?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58426147</guid>
+            <pubDate>Mon, 13 Sep 2021 23:17:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[9/11 attacks: ‘I saw the world as a scary place for the first time’]]></title>
-            <description><![CDATA[As a 12-year-old, she was in NYC when the towers were attacked. As an adult, she wrote a comic book about it.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-58496145?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58496145</guid>
-            <pubDate>Wed, 08 Sep 2021 21:18:54 GMT</pubDate>
+            <title><![CDATA[Fashion house in backlash over 'racist' $1,190 sweatpants]]></title>
+            <description><![CDATA[Critics say the $1,190 pants, which come with a built-in pair of boxer shorts, rip off US hip hop culture.]]></description>
+            <link>https://www.bbc.co.uk/news/business-58563242?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58563242</guid>
+            <pubDate>Tue, 14 Sep 2021 19:08:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['Black national anthem' makes its debut at the NFL]]></title>
@@ -301,13 +287,6 @@
             <link>https://www.bbc.co.uk/news/world-us-canada-58529172?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58529172</guid>
             <pubDate>Sat, 11 Sep 2021 16:46:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Canada federal election: Two years of Justin Trudeau in two minutes]]></title>
-            <description><![CDATA[As Canadians prepare to head back to the polls, here are some key moments since the last election.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-58482593?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58482593</guid>
-            <pubDate>Tue, 07 Sep 2021 23:57:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Robert E Lee: Confederate general statue removed in Virginia]]></title>
