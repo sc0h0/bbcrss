@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 15 Sep 2021 06:04:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Sep 2021 06:31:54 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Pakistan: How to cool Karachi as temperatures rise]]></title>
+            <description><![CDATA[In Karachi, Pakistan, one entrepreneur is on a mission to plant urban forests to cope with rising temperatures.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58557995?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58557995</guid>
+            <pubDate>Tue, 14 Sep 2021 23:00:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Asteroid that wiped out dinosaurs shaped fortunes of snakes]]></title>
             <description><![CDATA[Snakes owe their success in part to the asteroid impact that killed off the dinosaurs 66 million years ago.]]></description>
@@ -121,20 +128,6 @@
             <pubDate>Wed, 08 Sep 2021 00:09:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Climate change: Dragonflies spread north in warming world]]></title>
-            <description><![CDATA[The expansion of dragonflies across Britain and Ireland is an indicator of climate change, say experts.]]></description>
-            <link>https://www.bbc.co.uk/news/science-environment-58462181?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/science-environment-58462181</guid>
-            <pubDate>Tue, 07 Sep 2021 08:36:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Climate change: Massive Attack gig data to cut live music impact]]></title>
-            <description><![CDATA[Artists should swap private jets for trains among recommendations from climate scientists.]]></description>
-            <link>https://www.bbc.co.uk/news/science-environment-58442599?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/science-environment-58442599</guid>
-            <pubDate>Sun, 05 Sep 2021 23:03:56 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[International Space Station: Smoke triggers alert on board]]></title>
             <description><![CDATA[The alarm went off as the space station's batteries were being charged, Russia's space agency says.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-58497899?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -175,13 +168,6 @@
             <link>https://www.bbc.co.uk/news/science-environment-58398905?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/science-environment-58398905</guid>
             <pubDate>Tue, 31 Aug 2021 23:37:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Majestic birds caught by the camera]]></title>
-            <description><![CDATA[A selection of the winners in this year's Bird Photographer of the Year competition.]]></description>
-            <link>https://www.bbc.co.uk/news/in-pictures-58396228?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/in-pictures-58396228</guid>
-            <pubDate>Wed, 01 Sep 2021 08:49:35 GMT</pubDate>
         </item>
     </channel>
 </rss>

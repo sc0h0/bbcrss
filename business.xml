@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 15 Sep 2021 06:07:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Sep 2021 06:35:12 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -20,32 +20,11 @@
             <description><![CDATA[The UK inflation rate hit 3.2% in the year to August, according to the latest official figures.]]></description>
             <link>https://www.bbc.co.uk/news/business-58563417?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58563417</guid>
-            <pubDate>Wed, 15 Sep 2021 06:05:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Javid: Valneva vaccine would not have got UK approval]]></title>
-            <description><![CDATA[Health secretary says Valneva vaccine would not have got regulatory approval after UK cancels contract.]]></description>
-            <link>https://www.bbc.co.uk/news/business-58510519?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58510519</guid>
-            <pubDate>Tue, 14 Sep 2021 16:13:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TikTok: Social media giant to roll out support for users' mental health]]></title>
-            <description><![CDATA[The move comes as Instagram is facing fresh scrutiny over its impact on young people's wellbeing.]]></description>
-            <link>https://www.bbc.co.uk/news/business-58567192?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58567192</guid>
-            <pubDate>Wed, 15 Sep 2021 03:55:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Canva: Australian online design platform valued at $40bn]]></title>
-            <description><![CDATA[The online design platform has become one of the most valuable private firms in the world.]]></description>
-            <link>https://www.bbc.co.uk/news/world-australia-58567722?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-australia-58567722</guid>
-            <pubDate>Wed, 15 Sep 2021 05:24:15 GMT</pubDate>
+            <pubDate>Wed, 15 Sep 2021 06:29:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Pennies back in production as cash is hoarded during Covid]]></title>
-            <description><![CDATA[No new 1p coins were made by The Royal Mint in 2018 and 2019 but returned to production last year.]]></description>
+            <description><![CDATA[No new 1p coins were made by the Royal Mint in 2018 and 2019 but production resumed last year.]]></description>
             <link>https://www.bbc.co.uk/news/business-58560185?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58560185</guid>
             <pubDate>Tue, 14 Sep 2021 22:59:43 GMT</pubDate>
@@ -56,6 +35,27 @@
             <link>https://www.bbc.co.uk/news/business-58517083?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58517083</guid>
             <pubDate>Tue, 14 Sep 2021 23:00:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[TikTok: Social media giant to roll out support for users' mental health]]></title>
+            <description><![CDATA[The move comes as Instagram is facing fresh scrutiny over its impact on young people's wellbeing.]]></description>
+            <link>https://www.bbc.co.uk/news/business-58567192?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58567192</guid>
+            <pubDate>Wed, 15 Sep 2021 03:55:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Javid: Valneva vaccine would not have got UK approval]]></title>
+            <description><![CDATA[Health secretary says Valneva vaccine would not have got regulatory approval after UK cancels contract.]]></description>
+            <link>https://www.bbc.co.uk/news/business-58510519?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58510519</guid>
+            <pubDate>Tue, 14 Sep 2021 16:13:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Canva: Australian online design platform valued at $40bn]]></title>
+            <description><![CDATA[The online design platform has become one of the most valuable private firms in the world.]]></description>
+            <link>https://www.bbc.co.uk/news/world-australia-58567722?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-australia-58567722</guid>
+            <pubDate>Wed, 15 Sep 2021 05:24:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Apple iPhone 13 brings portrait mode for video]]></title>
@@ -100,13 +100,6 @@
             <pubDate>Tue, 14 Sep 2021 11:39:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Scrap Covid tests for most travellers, says industry]]></title>
-            <description><![CDATA[The government has "choked off" travel trade and 70% of firms plan redundancies, says Abta.]]></description>
-            <link>https://www.bbc.co.uk/news/business-58549650?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58549650</guid>
-            <pubDate>Mon, 13 Sep 2021 23:01:02 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Ocado says delivery driver wage rise to cost it up to £5m]]></title>
             <description><![CDATA[The online food delivery is the latest to offer increased wages amid a shortage of lorry drivers.]]></description>
             <link>https://www.bbc.co.uk/news/business-58555804?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -114,88 +107,11 @@
             <pubDate>Tue, 14 Sep 2021 09:04:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Apple rushes to block 'zero-click' iPhone spyware]]></title>
-            <description><![CDATA[The flaw allows hackers to access devices even if users do not click on a link or file.]]></description>
-            <link>https://www.bbc.co.uk/news/business-58540936?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58540936</guid>
-            <pubDate>Tue, 14 Sep 2021 03:22:28 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Tesco launches new refillable shopping with 88 products]]></title>
             <description><![CDATA[Tesco supermarket has launched a zero-waste shopping service, providing customers with containers.]]></description>
             <link>https://www.bbc.co.uk/news/business-58560761?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58560761</guid>
             <pubDate>Tue, 14 Sep 2021 13:35:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Evergrande: Shares in cash-strapped China property giant plunge]]></title>
-            <description><![CDATA[Evergrande has also seen a rare protest staged by investors at its headquarters in Shenzhen.]]></description>
-            <link>https://www.bbc.co.uk/news/business-58540939?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58540939</guid>
-            <pubDate>Tue, 14 Sep 2021 08:36:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Democrats propose partial rollback of Trump tax cuts]]></title>
-            <description><![CDATA[Under new plans, corporate and income tax would rise for the richest companies and individuals.]]></description>
-            <link>https://www.bbc.co.uk/news/business-58550021?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58550021</guid>
-            <pubDate>Mon, 13 Sep 2021 19:34:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Emma Raducanu set to earn millions after US Open win]]></title>
-            <description><![CDATA[Brands will be queuing up to secure sponsorship deals with the teenage tennis star, experts say.]]></description>
-            <link>https://www.bbc.co.uk/news/business-58508806?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58508806</guid>
-            <pubDate>Mon, 13 Sep 2021 12:15:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fake Walmart news release claimed it would accept cryptocurrency]]></title>
-            <description><![CDATA[A news story claiming Walmart would accept cryptocurrency Litecoin was fabricated, the retail giant says.]]></description>
-            <link>https://www.bbc.co.uk/news/technology-58545944?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/technology-58545944</guid>
-            <pubDate>Mon, 13 Sep 2021 16:28:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Primark says leggings still popular as comfort rules]]></title>
-            <description><![CDATA[The discount fashion chain says shoppers are still stocking up on cycle shorts and seam-free clothes.]]></description>
-            <link>https://www.bbc.co.uk/news/business-58542840?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58542840</guid>
-            <pubDate>Mon, 13 Sep 2021 14:33:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[UK scraps Covid-19 vaccine deal with French firm Valneva]]></title>
-            <description><![CDATA[The French firm says the deal was cancelled over allegations of a breach of the agreement, which it denies.]]></description>
-            <link>https://www.bbc.co.uk/news/business-58499064?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58499064</guid>
-            <pubDate>Mon, 13 Sep 2021 11:53:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TUC says 'proper pay rise' would fix shortages problem]]></title>
-            <description><![CDATA[Higher wages for workers is key to building a strong economic recovery, says Frances O'Grady.]]></description>
-            <link>https://www.bbc.co.uk/news/business-58538887?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58538887</guid>
-            <pubDate>Mon, 13 Sep 2021 12:25:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Politeness leaving people at the mercy of fraudsters]]></title>
-            <description><![CDATA[Banks warn that people do not want to appear rude rather than cutting off unsolicited phone calls.]]></description>
-            <link>https://www.bbc.co.uk/news/business-58546527?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58546527</guid>
-            <pubDate>Mon, 13 Sep 2021 11:50:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Brewdog picks new chairman after worker criticism]]></title>
-            <description><![CDATA[Allan Leighton joins the Aberdeenshire brewing firm which had been hit by criticism from former employees.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-scotland-business-58536240?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-scotland-business-58536240</guid>
-            <pubDate>Mon, 13 Sep 2021 11:29:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: Legal action begins over quarantine hotel rules]]></title>
-            <description><![CDATA[A law firm representing travellers is taking the government to court over the UK's quarantine hotel policy.]]></description>
-            <link>https://www.bbc.co.uk/news/business-58538885?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58538885</guid>
-            <pubDate>Sun, 12 Sep 2021 23:02:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why even giant ships can't solve the shipping crisis]]></title>
