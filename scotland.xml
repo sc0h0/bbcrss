@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 15 Sep 2021 11:41:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Sep 2021 11:52:33 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -303,6 +303,13 @@
             <pubDate>Wed, 15 Sep 2021 10:40:03 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Rangers v Lyon: Filip Helander out 'for foreseeable future' after surgery]]></title>
+            <description><![CDATA[Rangers defender Filip Helander has surgery and will be "missing for the foreseeable future", manager Steven Gerrard has confirmed.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58493153?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58493153</guid>
+            <pubDate>Wed, 15 Sep 2021 11:42:08 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Real Betis v Celtic: McGregor & Abada out for visitors]]></title>
             <description><![CDATA[Celtic captain Callum McGregor and winger Liel Abada will miss Thursday's Europa League group opener at Real Betis.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58493146?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -322,13 +329,6 @@
             <link>https://www.bbc.co.uk/sport/football/58560916?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58560916</guid>
             <pubDate>Tue, 14 Sep 2021 16:05:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Scottish Gossip: Rangers, Scottish FA, Celtic, Dundee, Dundee Utd, Hearts, Aberdeen]]></title>
-            <description><![CDATA[Lyon are set to be without two key players for their Europa League tie with Rangers, while Celtic are bidding to make history in Spain.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58568737?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58568737</guid>
-            <pubDate>Wed, 15 Sep 2021 07:00:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
