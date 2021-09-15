@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 15 Sep 2021 14:52:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Sep 2021 15:10:48 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -128,6 +128,13 @@
             <pubDate>Tue, 24 Aug 2021 10:17:15 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid: People are vaccinated - so why are there so many cases?]]></title>
+            <description><![CDATA[More than four out of five UK adults are now fully vaccinated, but daily case rates remain high.]]></description>
+            <link>https://www.bbc.co.uk/news/health-55045639?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/health-55045639</guid>
+            <pubDate>Wed, 15 Sep 2021 14:20:29 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Why bonding over the Euros appeared to increase Covid cases in men]]></title>
             <description><![CDATA[Psychologists say men need to be part of a group in order to vent their feelings and emotions.]]></description>
             <link>https://www.bbc.co.uk/news/health-58015593?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -139,7 +146,7 @@
             <description><![CDATA[All children aged 12-15 across the UK will be offered one dose of the Pifzer vaccine.]]></description>
             <link>https://www.bbc.co.uk/news/health-57888429?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/health-57888429</guid>
-            <pubDate>Tue, 14 Sep 2021 14:30:01 GMT</pubDate>
+            <pubDate>Wed, 15 Sep 2021 14:57:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why you shouldn't get a second Covid jab too early]]></title>
@@ -196,13 +203,6 @@
             <link>https://www.bbc.co.uk/news/explainers-52530518?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/explainers-52530518</guid>
             <pubDate>Tue, 14 Sep 2021 15:45:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: People are vaccinated - so why are there so many cases?]]></title>
-            <description><![CDATA[More than four out of five UK adults are now fully vaccinated, but daily case rates remain high.]]></description>
-            <link>https://www.bbc.co.uk/news/health-55045639?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/health-55045639</guid>
-            <pubDate>Wed, 15 Sep 2021 14:20:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How do we know Covid vaccines are safe?]]></title>
