@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 16 Sep 2021 05:25:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Sep 2021 05:34:36 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -28,6 +28,13 @@
             <link>https://www.bbc.co.uk/news/uk-wales-58574640?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-58574640</guid>
             <pubDate>Thu, 16 Sep 2021 04:59:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[London arms fair DSEI attended by Welsh government]]></title>
+            <description><![CDATA[Plaid called the event "contemptible" but the Tories said it was right for officials to go.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-politics-58571428?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-politics-58571428</guid>
+            <pubDate>Thu, 16 Sep 2021 05:33:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid cases in Wales drop for fourth day in a row]]></title>
@@ -91,13 +98,6 @@
             <link>https://www.bbc.co.uk/news/uk-wales-58570341?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-58570341</guid>
             <pubDate>Wed, 15 Sep 2021 16:38:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Capel Celyn: Memorial chapel reopens after conservation work]]></title>
-            <description><![CDATA[Capel Celyn Memorial Chapel was built to commemorate a village drowned to create a reservoir.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-58569060?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-58569060</guid>
-            <pubDate>Wed, 15 Sep 2021 08:14:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Gleision: 'Guilt of surviving mine disaster with me forever']]></title>
@@ -191,11 +191,11 @@
             <pubDate>Thu, 16 Sep 2021 05:15:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Galw am gwest i drychineb pwll glo Gleision wedi 10 mlynedd]]></title>
-            <description><![CDATA[Teuluoedd pedwar fu farw yng nglofa Gleision yn 2011 yn dweud bod cwestiynau i'w hateb o hyd.]]></description>
-            <link>https://www.bbc.co.uk/newyddion/58545852?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/newyddion/58545852</guid>
-            <pubDate>Wed, 15 Sep 2021 05:51:07 GMT</pubDate>
+            <title><![CDATA[Presenoldeb Llywodraeth Cymru mewn ffair arfau i barhau]]></title>
+            <description><![CDATA["Digwyddiad dirmygus" medd Plaid Cymru ond y Ceidwadwyr yn cefnogi presenoldeb Llywodraeth Cymru yno.]]></description>
+            <link>https://www.bbc.co.uk/newyddion/58571860?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/newyddion/58571860</guid>
+            <pubDate>Thu, 16 Sep 2021 05:29:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Natalie Jones: "Barod i gwffio dros eraill"]]></title>
