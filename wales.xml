@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 16 Sep 2021 12:20:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Sep 2021 12:57:14 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -42,6 +42,13 @@
             <link>https://www.bbc.co.uk/news/uk-wales-politics-58571428?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-politics-58571428</guid>
             <pubDate>Thu, 16 Sep 2021 05:33:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: TikTok doctor wants social media help for trainees]]></title>
+            <description><![CDATA[A call is made to help trainee medics understand social media to help tackle misinformation.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-58573381?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-58573381</guid>
+            <pubDate>Thu, 16 Sep 2021 12:33:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid cases in Wales drop for fourth day in a row]]></title>
@@ -91,13 +98,6 @@
             <link>https://www.bbc.co.uk/news/uk-wales-58573775?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-58573775</guid>
             <pubDate>Wed, 15 Sep 2021 15:22:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Swansea riots: Mayhill residents to speak to review about violence]]></title>
-            <description><![CDATA[Cars were torched, houses attacked and police officers injured in a night of "large scale disorder".]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-58571656?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-58571656</guid>
-            <pubDate>Wed, 15 Sep 2021 15:06:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Care home owners fear legal action over Covid could cause bankruptcy]]></title>
@@ -184,18 +184,18 @@
             <pubDate>Thu, 16 Sep 2021 10:25:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Carcharu dyn am dreisio wedi tystiolaeth CCTV]]></title>
+            <description><![CDATA[Mae Turkey Al-Turkey wedi'i ddedfrydu i wyth mlynedd ac wyth mis o garchar am dreisio menyw yn Abertawe.]]></description>
+            <link>https://www.bbc.co.uk/newyddion/58583261?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/newyddion/58583261</guid>
+            <pubDate>Thu, 16 Sep 2021 12:44:04 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Dyn 72 oed wedi marw yn y môr ger Morfa Nefyn, Gwynedd]]></title>
             <description><![CDATA[Dywedodd yr heddlu bod y dyn wedi ei ganfod yn anymwybodol yn y dŵr ger Morfa Nefyn.]]></description>
             <link>https://www.bbc.co.uk/newyddion/58573910?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/newyddion/58573910</guid>
             <pubDate>Thu, 16 Sep 2021 09:08:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cwpan y Byd Merched 2023: Ai dyma'r ymgyrch i Gymru?]]></title>
-            <description><![CDATA[Dyma'r cwestiwn oedd ar wefusau pawb wrth holi'r chwaraewyr yr wythnos hon, medd Owain Llyr.]]></description>
-            <link>https://www.bbc.co.uk/newyddion/58538690?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/newyddion/58538690</guid>
-            <pubDate>Thu, 16 Sep 2021 10:17:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Beth ydych chi'n wybod am Owain Glyndŵr?]]></title>
@@ -205,11 +205,11 @@
             <pubDate>Thu, 16 Sep 2021 09:48:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Y Bencampwriaeth: Abertawe 0-0 Millwall]]></title>
-            <description><![CDATA[Yr Elyrch yn dal i chwilio am fuddugoliaeth gartref wrth i'w dechrau siomedig i'r tymor barhau.]]></description>
-            <link>https://www.bbc.co.uk/newyddion/58578126?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/newyddion/58578126</guid>
-            <pubDate>Wed, 15 Sep 2021 21:30:55 GMT</pubDate>
+            <title><![CDATA[Cwpan y Byd Merched 2023: Ai dyma'r ymgyrch i Gymru?]]></title>
+            <description><![CDATA[Dyma'r cwestiwn oedd ar wefusau pawb wrth holi'r chwaraewyr yr wythnos hon, medd Owain Llyr.]]></description>
+            <link>https://www.bbc.co.uk/newyddion/58538690?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/newyddion/58538690</guid>
+            <pubDate>Thu, 16 Sep 2021 10:17:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
