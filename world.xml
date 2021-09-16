@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 16 Sep 2021 09:44:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Sep 2021 09:59:32 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -20,7 +20,7 @@
             <description><![CDATA[Beijing says the deal, involving nuclear-powered submarines, undermines regional peace.]]></description>
             <link>https://www.bbc.co.uk/news/world-58564837?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-58564837</guid>
-            <pubDate>Thu, 16 Sep 2021 09:12:57 GMT</pubDate>
+            <pubDate>Thu, 16 Sep 2021 09:54:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Biden calls Australian PM 'that fellow down under']]></title>
@@ -42,6 +42,13 @@
             <link>https://www.bbc.co.uk/news/world-africa-58581122?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-africa-58581122</guid>
             <pubDate>Thu, 16 Sep 2021 08:08:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Denmark set to ban life-term prisoners from new romantic links]]></title>
+            <description><![CDATA[The ban comes after a 17-year-old admitted to a romantic relationship with murderer Peter Madsen]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58582599?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58582599</guid>
+            <pubDate>Thu, 16 Sep 2021 09:45:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[French storms: Nine drown in choppy Mediterranean sea]]></title>
@@ -128,13 +135,6 @@
             <pubDate>Thu, 16 Sep 2021 00:23:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Canadian prairie ranchers struggle with drought conditions]]></title>
-            <description><![CDATA[Amid a severe drought in the Prairies, some ranchers are trying to find ways to work with nature.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-58573877?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58573877</guid>
-            <pubDate>Wed, 15 Sep 2021 23:04:28 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[On the trail of fake medicine smugglers in Benin]]></title>
             <description><![CDATA[Since the beginning of the pandemic, there’s been an increase in counterfeit drugs around the world.]]></description>
             <link>https://www.bbc.co.uk/news/world-africa-58577421?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -177,6 +177,13 @@
             <pubDate>Tue, 14 Sep 2021 23:56:45 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Canadian prairie ranchers struggle with drought conditions]]></title>
+            <description><![CDATA[Amid a severe drought in the Prairies, some ranchers are trying to find ways to work with nature.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-58573877?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58573877</guid>
+            <pubDate>Wed, 15 Sep 2021 23:04:28 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Ros Atkins on... why people are using a horse drug]]></title>
             <description><![CDATA[Ivermectin is being used by some to treat Covid-19, despite the benefits being unproven.]]></description>
             <link>https://www.bbc.co.uk/news/world-58569849?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -203,13 +210,6 @@
             <link>https://www.bbc.co.uk/news/world-asia-58557995?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58557995</guid>
             <pubDate>Tue, 14 Sep 2021 23:00:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Met Gala 2021: Which celeb shone brightest on the red carpet?]]></title>
-            <description><![CDATA[After skipping last year because of coronavirus, celebrities went all out in the fashion stakes.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-58555511?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-58555511</guid>
-            <pubDate>Tue, 14 Sep 2021 10:03:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
