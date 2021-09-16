@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 16 Sep 2021 11:39:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Sep 2021 11:53:20 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -44,6 +44,13 @@
             <pubDate>Thu, 16 Sep 2021 09:51:34 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Ulster sign Springbok World Cup-winner Vermeulen]]></title>
+            <description><![CDATA[Ulster sign South African World Cup-winning back-row forward Duane Vermeulen, who will join the province following the autumn Tests in November.]]></description>
+            <link>https://www.bbc.co.uk/sport/rugby-union/58585664?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/rugby-union/58585664</guid>
+            <pubDate>Thu, 16 Sep 2021 11:33:14 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Eating disorders: Increase in young teenagers seeking support]]></title>
             <description><![CDATA[Stormont's Education Committee hears of 40% increase in appointments last year.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58551051?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -72,13 +79,6 @@
             <pubDate>Wed, 15 Sep 2021 15:52:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid-19: Mother and daughter die days apart in hospital]]></title>
-            <description><![CDATA[Sammie-Jo Forde, 32. was treated two hospital beds away from her mother after both contracted the virus.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58575722?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58575722</guid>
-            <pubDate>Wed, 15 Sep 2021 18:38:09 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Service held for Italian war internee in Ballycastle]]></title>
             <description><![CDATA[Antonio Nardone was buried at Bonamargy Friary after he died on the SS Arandora Star in 1940.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58570840?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -93,11 +93,11 @@
             <pubDate>Wed, 15 Sep 2021 21:22:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid-19: NI records 10 Covid-linked deaths,1,304 cases]]></title>
-            <description><![CDATA[The total number of deaths linked to coronavirus in NI since the start of the pandemic is 2,478.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58572594?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58572594</guid>
-            <pubDate>Wed, 15 Sep 2021 16:38:50 GMT</pubDate>
+            <title><![CDATA[Covid-19: Mother and daughter die days apart in hospital]]></title>
+            <description><![CDATA[Sammie-Jo Forde, 32. was treated two hospital beds away from her mother after both contracted the virus.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58575722?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58575722</guid>
+            <pubDate>Wed, 15 Sep 2021 18:38:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: Close-contact pupils 'should not be sent home from school']]></title>
@@ -128,13 +128,6 @@
             <pubDate>Tue, 14 Sep 2021 12:40:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid: Which children are being vaccinated and why?]]></title>
-            <description><![CDATA[All children aged 12-15 across the UK will be offered one dose of the Pifzer vaccine.]]></description>
-            <link>https://www.bbc.co.uk/news/health-57888429?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/health-57888429</guid>
-            <pubDate>Wed, 15 Sep 2021 14:57:18 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[What are Northern Ireland's Covid-19 rules now?]]></title>
             <description><![CDATA[How do restrictions here compare to other parts of the UK and the Republic of Ireland?]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58175159?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -142,7 +135,7 @@
             <pubDate>Wed, 15 Sep 2021 09:25:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Conor Meyler: How seeking help proved 'transformative' for Tyrone star]]></title>
+            <title><![CDATA[How seeking help allowed Tyrone's Meyler to blossom]]></title>
             <description><![CDATA[Conor Meyler says seeking help after going through "a very low point" caused by an overly-intense mindset sparked a turning point in his career]]></description>
             <link>https://www.bbc.co.uk/sport/gaelic-games/58569332?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/gaelic-games/58569332</guid>
