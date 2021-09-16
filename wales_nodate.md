@@ -24,5 +24,5 @@
 24. [Cerbydau trydan yn 'peryglu bywydau' pobl ddall](https://www.bbc.co.uk/newyddion/58520904?at_medium=RSS&at_campaign=KARANGA) - Elusennau'n dweud bod angen tynhau rheolau er mwyn diogelu pobl sydd â nam golwg.
 25. [Carcharu dyn am dreisio wedi tystiolaeth CCTV](https://www.bbc.co.uk/newyddion/58583261?at_medium=RSS&at_campaign=KARANGA) - Mae Turkey Al-Turkey wedi'i ddedfrydu i wyth mlynedd ac wyth mis o garchar am dreisio menyw yn Abertawe.
 26. [Dyn 72 oed wedi marw yn y môr ger Morfa Nefyn, Gwynedd](https://www.bbc.co.uk/newyddion/58573910?at_medium=RSS&at_campaign=KARANGA) - Dywedodd yr heddlu bod y dyn wedi ei ganfod yn anymwybodol yn y dŵr ger Morfa Nefyn.
-27. [Beth ydych chi'n wybod am Owain Glyndŵr?](https://www.bbc.co.uk/newyddion/58571026?at_medium=RSS&at_campaign=KARANGA) - Y gwir am y Cymro olaf i fod yn Dywysog ar Gymru
+27. [3 Llun: Lluniau pwysicaf Angharad Mair](https://www.bbc.co.uk/newyddion/58506558?at_medium=RSS&at_campaign=KARANGA) - Y cyflwynwraig sy'n rhannu ei lluniau mwyaf arwyddocaol
 28. [Cwpan y Byd Merched 2023: Ai dyma'r ymgyrch i Gymru?](https://www.bbc.co.uk/newyddion/58538690?at_medium=RSS&at_campaign=KARANGA) - Dyma'r cwestiwn oedd ar wefusau pawb wrth holi'r chwaraewyr yr wythnos hon, medd Owain Llyr.
