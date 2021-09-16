@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 16 Sep 2021 00:13:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Sep 2021 01:28:53 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[How Morocco's king dealt a blow to political Islam]]></title>
+            <description><![CDATA[Shocking election results reveal how King Mohammed VI has survived the Arab Spring and its aftermath.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-58571178?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-africa-58571178</guid>
+            <pubDate>Thu, 16 Sep 2021 00:23:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[On the trail of fake medicine smugglers in Benin]]></title>
             <description><![CDATA[Since the beginning of the pandemic, there’s been an increase in counterfeit drugs around the world.]]></description>
@@ -30,18 +37,18 @@
             <pubDate>Wed, 15 Sep 2021 15:20:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Francine Niyonsaba: Burundi runner sets new 2,000m world record in Zagreb]]></title>
-            <description><![CDATA[Burundi's Francine Niyonsaba sets a new 2,000m world record at the Continental Tour Gold meeting in Zagreb.]]></description>
-            <link>https://www.bbc.co.uk/sport/athletics/58565749?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/athletics/58565749</guid>
-            <pubDate>Tue, 14 Sep 2021 19:47:55 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Football returns to Sierra Leone amid Covid vaccination controversy]]></title>
             <description><![CDATA[League football resumes in Sierra Leone but clubs have differing views on compulsory Covid-19 vaccinations.]]></description>
             <link>https://www.bbc.co.uk/sport/africa/58543761?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/africa/58543761</guid>
             <pubDate>Wed, 15 Sep 2021 10:32:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Francine Niyonsaba: Burundi runner sets new 2,000m world record in Zagreb]]></title>
+            <description><![CDATA[Burundi's Francine Niyonsaba sets a new 2,000m world record at the Continental Tour Gold meeting in Zagreb.]]></description>
+            <link>https://www.bbc.co.uk/sport/athletics/58565749?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/athletics/58565749</guid>
+            <pubDate>Tue, 14 Sep 2021 19:47:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Rwandan ex-army officer gunned down in Mozambique]]></title>
@@ -56,20 +63,6 @@
             <link>https://www.bbc.co.uk/sport/africa/58556844?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/africa/58556844</guid>
             <pubDate>Tue, 14 Sep 2021 18:46:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[South Africa confident of Club World Cup hosting bid despite Covid woes]]></title>
-            <description><![CDATA[South Africa's FA believes it can successfully host Fifa's Club World Cup later this year despite current Covid concerns.]]></description>
-            <link>https://www.bbc.co.uk/sport/africa/58558952?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/africa/58558952</guid>
-            <pubDate>Tue, 14 Sep 2021 11:17:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Olympics: Algerian judoka Fethi Nourine and coach suspended for 10 years]]></title>
-            <description><![CDATA[Algeria's Fethi Nourine and his coach Amar Benikhlef are suspended for 10 years by the International Judo Federation after withdrawing from the Olympics to avoid facing an Israeli opponent.]]></description>
-            <link>https://www.bbc.co.uk/sport/olympics/58556940?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/olympics/58556940</guid>
-            <pubDate>Tue, 14 Sep 2021 09:34:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Kenyan influencers paid to take 'guerrilla warfare’ online]]></title>

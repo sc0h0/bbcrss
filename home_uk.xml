@@ -11,17 +11,10 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 16 Sep 2021 00:15:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Sep 2021 01:36:52 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
-        <item>
-            <title><![CDATA[Reshuffle: Boris Johnson fires Gavin Williamson as he rings cabinet changes]]></title>
-            <description><![CDATA[The PM fires Gavin Williamson and replaces the foreign secretary in a day of drama at Westminster.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-58571935?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-politics-58571935</guid>
-            <pubDate>Wed, 15 Sep 2021 21:00:04 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[UK, US and Australia launch pact to counter China]]></title>
             <description><![CDATA[The partnership will enable Australia to build nuclear-powered submarines for the first time.]]></description>
@@ -30,18 +23,11 @@
             <pubDate>Wed, 15 Sep 2021 22:47:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Simone Biles: 'I blame system that enabled Larry Nassar abuse']]></title>
-            <description><![CDATA[Four Olympic gymnasts blast the FBI for failing to act on their complaints about the USA team doctor.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-58573887?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58573887</guid>
-            <pubDate>Wed, 15 Sep 2021 18:58:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Former IS teenage bride Shamima Begum offers to help fight terror in UK]]></title>
-            <description><![CDATA[The 22-year-old, who left London at 15 to join the Islamic State group, says she could be useful.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58573501?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58573501</guid>
-            <pubDate>Wed, 15 Sep 2021 15:35:52 GMT</pubDate>
+            <title><![CDATA[Reshuffle: Boris Johnson continues changes after cabinet revamp]]></title>
+            <description><![CDATA[The PM begins replacing middle-ranking and junior ministers in his biggest rejig since entering No 10.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-58578385?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-politics-58578385</guid>
+            <pubDate>Thu, 16 Sep 2021 00:46:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Most office workers will never return full-time, survey says]]></title>
@@ -58,11 +44,25 @@
             <pubDate>Wed, 15 Sep 2021 23:43:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Afghanistan: Life under Taliban rule one month on]]></title>
-            <description><![CDATA[Secunder Kermani looks at life in northern Afghanistan, four weeks after the militants seized power.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58550640?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58550640</guid>
-            <pubDate>Wed, 15 Sep 2021 19:42:54 GMT</pubDate>
+            <title><![CDATA[French storms: Seven drown in choppy Mediterranean]]></title>
+            <description><![CDATA[The waters of the Mediterranean were stirred up by storms and high winds.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58579407?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58579407</guid>
+            <pubDate>Wed, 15 Sep 2021 23:56:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Former IS teenage bride Shamima Begum offers to help fight terror in UK]]></title>
+            <description><![CDATA[The 22-year-old, who left London at 15 to join the Islamic State group, says she could be useful.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-58573501?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58573501</guid>
+            <pubDate>Wed, 15 Sep 2021 15:35:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Simone Biles: 'I blame system that enabled Larry Nassar abuse']]></title>
+            <description><![CDATA[Four Olympic gymnasts blast the FBI for failing to act on their complaints about the USA team doctor.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-58573887?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58573887</guid>
+            <pubDate>Wed, 15 Sep 2021 18:58:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Prince Andrew case: High Court to notify duke of US civil proceedings]]></title>
@@ -77,20 +77,6 @@
             <link>https://www.bbc.co.uk/news/world-europe-58568278?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58568278</guid>
             <pubDate>Wed, 15 Sep 2021 16:35:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Facebook under fire over secret teen research]]></title>
-            <description><![CDATA[It had evidence Instagram was a harmful place for young people - but failed to share its findings.]]></description>
-            <link>https://www.bbc.co.uk/news/technology-58570353?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/technology-58570353</guid>
-            <pubDate>Wed, 15 Sep 2021 12:06:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Martin Bashir: Police take no action over Diana interview]]></title>
-            <description><![CDATA[Detectives find no evidence of criminal activity associated with the 1995 Panorama programme.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58576095?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58576095</guid>
-            <pubDate>Wed, 15 Sep 2021 16:42:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: Pope puzzled about vaccine hesitancy in the Church]]></title>
@@ -114,60 +100,39 @@
             <pubDate>Wed, 15 Sep 2021 16:46:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Liz Truss: Fast tracker who landed prime cabinet role]]></title>
-            <description><![CDATA[The life of the new foreign secretary, from left-wing parents to the top of the Conservative Party.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-58575895?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-politics-58575895</guid>
-            <pubDate>Wed, 15 Sep 2021 19:01:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cabinet reshuffle 2021: Who is in Boris Johnson's new cabinet?]]></title>
-            <description><![CDATA[Prime Minister Boris Johnson reshuffles his cabinet for the first time since February 2020. Who's in it now?]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-58574180?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-politics-58574180</guid>
-            <pubDate>Wed, 15 Sep 2021 18:38:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Government reshuffle hires and fires]]></title>
-            <description><![CDATA[The prime minister has fired a string of cabinet ministers in a major cabinet reshuffle.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-58578673?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-politics-58578673</guid>
-            <pubDate>Wed, 15 Sep 2021 19:06:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nadine Dorries becomes new culture secretary]]></title>
-            <description><![CDATA[The MP for Mid Bedfordshire and former health minister replaces Oliver Dowden.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-58575177?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-58575177</guid>
-            <pubDate>Wed, 15 Sep 2021 17:25:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cabinet reshuffle: Losers, winners and challenges ahead]]></title>
-            <description><![CDATA[Our correspondents look at the legacy of those out of a job and the challenges facing their successors.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-58575894?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-politics-58575894</guid>
-            <pubDate>Wed, 15 Sep 2021 17:48:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cabinet reshuffle: Where did it go wrong for Gavin Williamson?]]></title>
-            <description><![CDATA[The reshuffle has seen the removal of an education secretary much criticised during the pandemic.]]></description>
-            <link>https://www.bbc.co.uk/news/education-58573059?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/education-58573059</guid>
-            <pubDate>Wed, 15 Sep 2021 13:29:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Who is Dominic Raab? Karate black-belt who is no stranger to controversy]]></title>
-            <description><![CDATA[The Conservative MP loses his job at the foreign office but becomes deputy PM and justice secretary.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-52064637?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-politics-52064637</guid>
-            <pubDate>Wed, 15 Sep 2021 14:54:07 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The Papers: PM 'wields axe' as he 'lays ground for next election']]></title>
             <description><![CDATA[Thursday's front pages are dominated by Boris Johnson's major reshuffle of his cabinet.]]></description>
             <link>https://www.bbc.co.uk/news/blogs-the-papers-58578976?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/blogs-the-papers-58578976</guid>
             <pubDate>Wed, 15 Sep 2021 22:36:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ros Atkins on... why people are using a horse drug]]></title>
+            <description><![CDATA[Ivermectin is being used by some to treat Covid-19, despite the benefits being unproven.]]></description>
+            <link>https://www.bbc.co.uk/news/world-58569849?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-58569849</guid>
+            <pubDate>Wed, 15 Sep 2021 23:12:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mangrove forests: Photography winners show beauty of ecosystems]]></title>
+            <description><![CDATA[The Mangrove Photography Award winners show unique ecosystems above and below the waterline.]]></description>
+            <link>https://www.bbc.co.uk/news/in-pictures-58558932?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/in-pictures-58558932</guid>
+            <pubDate>Wed, 15 Sep 2021 23:16:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Canadian prairie ranchers struggle with drought conditions]]></title>
+            <description><![CDATA[Amid a severe drought in the Prairies, some ranchers are trying to find ways to work with nature.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-58573877?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58573877</guid>
+            <pubDate>Wed, 15 Sep 2021 23:04:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[On the trail of fake medicine smugglers in Benin]]></title>
+            <description><![CDATA[Since the beginning of the pandemic, there’s been an increase in counterfeit drugs around the world.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-58577421?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-africa-58577421</guid>
+            <pubDate>Wed, 15 Sep 2021 23:04:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Emma Raducanu 'hungry' to improve after US Open win - but not sure on Indian Wells]]></title>
@@ -177,25 +142,25 @@
             <pubDate>Wed, 15 Sep 2021 15:05:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Louise Minchin: BBC Breakfast bids presenter goodbye]]></title>
-            <description><![CDATA[One of BBC Breakfast's main presenters, Louise Minchin, has broadcast her final programme after 20 years of early morning alarm calls.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-58574340?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-58574340</guid>
-            <pubDate>Wed, 15 Sep 2021 13:00:38 GMT</pubDate>
+            <title><![CDATA[The 22-year-old who took on a housing giant and won]]></title>
+            <description><![CDATA[As a new report claims dilapidated housing can kill, the BBC meets an unlikely champion for tenants.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-58572341?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58572341</guid>
+            <pubDate>Thu, 16 Sep 2021 00:25:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Gleision: 'Guilt of surviving mine disaster with me forever']]></title>
-            <description><![CDATA[A decade on from the Gleision mine disaster, two men who survived still carry the weight of the tragedy.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-58555079?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-58555079</guid>
-            <pubDate>Wed, 15 Sep 2021 05:04:32 GMT</pubDate>
+            <title><![CDATA[Covid: The lives upended by Australia's sealed border]]></title>
+            <description><![CDATA[Eighteen months after Australia shut its border, people reveal tales of separation and despair.]]></description>
+            <link>https://www.bbc.co.uk/news/world-australia-58540905?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-australia-58540905</guid>
+            <pubDate>Wed, 15 Sep 2021 15:16:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Pennies back in production as cash is hoarded during Covid]]></title>
-            <description><![CDATA[No new 1p coins were made by the Royal Mint in 2018 and 2019 but production resumed last year.]]></description>
-            <link>https://www.bbc.co.uk/news/business-58560185?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58560185</guid>
-            <pubDate>Tue, 14 Sep 2021 22:59:43 GMT</pubDate>
+            <title><![CDATA[Alex Murdaugh: The hot shot US lawyer and the hit man]]></title>
+            <description><![CDATA[Months after his wife and son were found dead, police say a lawyer arranged a hit - on himself.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-58577936?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58577936</guid>
+            <pubDate>Wed, 15 Sep 2021 20:34:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Claims about Universal Credit fact-checked]]></title>
@@ -205,46 +170,25 @@
             <pubDate>Wed, 15 Sep 2021 16:13:43 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Afghanistan: Life under Taliban rule one month on]]></title>
+            <description><![CDATA[Secunder Kermani looks at life in northern Afghanistan, four weeks after the militants seized power.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58550640?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58550640</guid>
+            <pubDate>Wed, 15 Sep 2021 19:42:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Foreign students struggling to pay for UK university]]></title>
+            <description><![CDATA[The pandemic has made studying in the UK more expensive for some international students]]></description>
+            <link>https://www.bbc.co.uk/news/newsbeat-58558674?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/newsbeat-58558674</guid>
+            <pubDate>Thu, 16 Sep 2021 00:31:16 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Help: Channel 4 drama examines 'undervalued' care workers during pandemic]]></title>
             <description><![CDATA[A new Channel 4 film starring Jodie Comer and Stephen Graham is set in the early days of the pandemic.]]></description>
             <link>https://www.bbc.co.uk/news/entertainment-arts-58537568?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-58537568</guid>
             <pubDate>Wed, 15 Sep 2021 23:57:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Strictly Come Dancing: How Rose Ayling-Ellis will hear the music]]></title>
-            <description><![CDATA[EastEnders star Rose Ayling-Ellis will become the show's first deaf contestant later this month.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-57867412?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-57867412</guid>
-            <pubDate>Tue, 14 Sep 2021 23:56:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hushpuppi - the Instagram influencer and international fraudster]]></title>
-            <description><![CDATA[How Nigerian Ramon Abbas went from a romance scammer to a so-called "Billionaire Gucci Master".]]></description>
-            <link>https://www.bbc.co.uk/news/world-africa-58553109?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-africa-58553109</guid>
-            <pubDate>Tue, 14 Sep 2021 22:50:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CEO Secrets: 'You can run a business and have a baby']]></title>
-            <description><![CDATA[Planning for a maternity leave when you're the boss of a fast-growing company.]]></description>
-            <link>https://www.bbc.co.uk/news/business-58548789?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58548789</guid>
-            <pubDate>Tue, 14 Sep 2021 22:57:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[‘Improving my literacy helped me get a different job’]]></title>
-            <description><![CDATA[New research found that low levels of literacy costs workers an extra 18 months in lost earnings.]]></description>
-            <link>https://www.bbc.co.uk/news/business-58517083?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58517083</guid>
-            <pubDate>Tue, 14 Sep 2021 23:00:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Miss Ireland 2021: First black winner 'proud' of crown]]></title>
-            <description><![CDATA[Pamela Uba moved to the country as a seven-year-old - now she's making history after taking the title.]]></description>
-            <link>https://www.bbc.co.uk/news/newsbeat-58558667?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/newsbeat-58558667</guid>
-            <pubDate>Tue, 14 Sep 2021 23:20:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Champions League: European football returns with wild night of action]]></title>
@@ -296,25 +240,39 @@
             <pubDate>Wed, 15 Sep 2021 11:43:16 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Liz Truss: Fast tracker who landed prime cabinet role]]></title>
+            <description><![CDATA[The life of the new foreign secretary, from left-wing parents to the top of the Conservative Party.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-58575895?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-politics-58575895</guid>
+            <pubDate>Wed, 15 Sep 2021 19:01:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cabinet reshuffle 2021: Who is in Boris Johnson's new cabinet?]]></title>
+            <description><![CDATA[Prime Minister Boris Johnson reshuffles his cabinet for the first time since February 2020. Who's in it now?]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-58574180?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-politics-58574180</guid>
+            <pubDate>Wed, 15 Sep 2021 18:38:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Government reshuffle hires and fires]]></title>
+            <description><![CDATA[The prime minister has fired a string of cabinet ministers in a major cabinet reshuffle.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-58578673?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-politics-58578673</guid>
+            <pubDate>Wed, 15 Sep 2021 19:06:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nadine Dorries becomes new culture secretary]]></title>
+            <description><![CDATA[The MP for Mid Bedfordshire and former health minister replaces Oliver Dowden.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-58575177?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-58575177</guid>
+            <pubDate>Wed, 15 Sep 2021 17:25:13 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Is it safe to vaccinate our child? And other questions]]></title>
             <description><![CDATA[We answer some of your questions about vaccinating 12-15 year-olds, the booster vaccine and other topics.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-china-51176409?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-china-51176409</guid>
             <pubDate>Wed, 15 Sep 2021 14:22:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: Should I be working from home or going back to the office?]]></title>
-            <description><![CDATA[People in England could be told to work from home once again through the autumn and winter.]]></description>
-            <link>https://www.bbc.co.uk/news/business-52567567?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-52567567</guid>
-            <pubDate>Wed, 15 Sep 2021 11:40:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid rules: What's in England's 'Winter Plan'?]]></title>
-            <description><![CDATA[Lockdown rules have changed across the UK, but some restrictions remain in place.]]></description>
-            <link>https://www.bbc.co.uk/news/explainers-52530518?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/explainers-52530518</guid>
-            <pubDate>Tue, 14 Sep 2021 15:45:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: People are vaccinated - so why are there so many cases?]]></title>
@@ -331,60 +289,18 @@
             <pubDate>Wed, 15 Sep 2021 10:59:43 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid symptoms: What are they and how do I protect myself?]]></title>
+            <description><![CDATA[A new cough, fever and change in smell or taste are the key symptoms that mean you may have coronavirus.]]></description>
+            <link>https://www.bbc.co.uk/news/health-51048366?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/health-51048366</guid>
+            <pubDate>Mon, 13 Sep 2021 10:29:02 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Covid-19 in the UK: How many coronavirus cases are there in my area?]]></title>
             <description><![CDATA[Explore the data on coronavirus in the UK and find out how many cases there are in your area.]]></description>
             <link>https://www.bbc.co.uk/news/uk-51768274?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-51768274</guid>
             <pubDate>Wed, 15 Sep 2021 15:57:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What are the rules and guidance for face masks and coverings?]]></title>
-            <description><![CDATA[Face coverings could become a legal requirement in England again if the NHS struggles this winter.]]></description>
-            <link>https://www.bbc.co.uk/news/health-51205344?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/health-51205344</guid>
-            <pubDate>Tue, 14 Sep 2021 14:10:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What difference will jabbing young teens make?]]></title>
-            <description><![CDATA[How to weigh the pros and cons of a vaccine for a disease that is rarely serious in young people.]]></description>
-            <link>https://www.bbc.co.uk/news/health-58423152?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/health-58423152</guid>
-            <pubDate>Tue, 14 Sep 2021 14:36:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Which children are being vaccinated and why?]]></title>
-            <description><![CDATA[All children aged 12-15 across the UK will be offered one dose of the Pifzer vaccine.]]></description>
-            <link>https://www.bbc.co.uk/news/health-57888429?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/health-57888429</guid>
-            <pubDate>Wed, 15 Sep 2021 14:57:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: Which countries are vaccinating children and why?]]></title>
-            <description><![CDATA[Millions of children around the world are being offered a Covid vaccine.]]></description>
-            <link>https://www.bbc.co.uk/news/health-58516207?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/health-58516207</guid>
-            <pubDate>Tue, 14 Sep 2021 00:24:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Flu jab 2021: Who’s eligible for a free vaccine?]]></title>
-            <description><![CDATA[This year's roll out has expanded in an attempt to shield against a double whammy of flu and Covid.]]></description>
-            <link>https://www.bbc.co.uk/news/health-53847025?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/health-53847025</guid>
-            <pubDate>Tue, 14 Sep 2021 11:32:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid vaccines: How fast is progress around the world?]]></title>
-            <description><![CDATA[Charts and maps tracking the progress of Covid vaccination programmes.]]></description>
-            <link>https://www.bbc.co.uk/news/world-56237778?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-56237778</guid>
-            <pubDate>Mon, 13 Sep 2021 11:07:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: Will I need a jab and what will university be like this term?]]></title>
-            <description><![CDATA[Many Covid restrictions have been lifted for students going to university this term.]]></description>
-            <link>https://www.bbc.co.uk/news/explainers-52753913?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/explainers-52753913</guid>
-            <pubDate>Fri, 10 Sep 2021 14:20:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['The near-death experience that made me a top musician']]></title>
