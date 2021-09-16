@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 16 Sep 2021 11:05:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Sep 2021 12:02:02 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -23,13 +23,6 @@
             <pubDate>Thu, 16 Sep 2021 09:54:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Biden calls Australian PM 'that fellow down under']]></title>
-            <description><![CDATA[US President Joe Biden appeared to forget Scott Morrison's name during a video conference.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-58582064?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58582064</guid>
-            <pubDate>Thu, 16 Sep 2021 09:29:45 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Afghanistan: Life under Taliban rule one month on]]></title>
             <description><![CDATA[Secunder Kermani looks at life in northern Afghanistan, four weeks after the militants seized power.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-58550640?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -37,11 +30,11 @@
             <pubDate>Wed, 15 Sep 2021 19:42:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Head of Islamic State in Sahara killed by French troops - Macron]]></title>
-            <description><![CDATA[French President Emmanuel Macron calls the killing of Adnan Abu Walid al-Sahrawi a "major success".]]></description>
-            <link>https://www.bbc.co.uk/news/world-africa-58581122?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-africa-58581122</guid>
-            <pubDate>Thu, 16 Sep 2021 08:08:04 GMT</pubDate>
+            <title><![CDATA[Covid-19: France suspends 3,000 unvaccinated health workers]]></title>
+            <description><![CDATA[The country has made Covid-19 vaccination mandatory for all healthcare and care home workers.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58581682?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58581682</guid>
+            <pubDate>Thu, 16 Sep 2021 11:08:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Denmark set to ban life-term prisoners from new romantic links]]></title>
@@ -49,6 +42,13 @@
             <link>https://www.bbc.co.uk/news/world-europe-58582599?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58582599</guid>
             <pubDate>Thu, 16 Sep 2021 09:45:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Head of Islamic State in Sahara killed by French troops - Macron]]></title>
+            <description><![CDATA[French President Emmanuel Macron calls the killing of Adnan Abu Walid al-Sahrawi a "major success".]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-58581122?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-africa-58581122</guid>
+            <pubDate>Thu, 16 Sep 2021 08:08:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[French storms: Nine drown in choppy Mediterranean sea]]></title>
