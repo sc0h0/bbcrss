@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 16 Sep 2021 17:25:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Sep 2021 18:03:53 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -79,13 +79,6 @@
             <pubDate>Thu, 16 Sep 2021 14:49:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Maddie Durdant-Hollamby: Man who killed girlfriend took his own life]]></title>
-            <description><![CDATA[Benjamin Green stabbed Maddie Durdant-Hollamby in the chest before killing himself, an inquest hears.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-northamptonshire-58582235?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-northamptonshire-58582235</guid>
-            <pubDate>Thu, 16 Sep 2021 11:42:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Two men rescued after getting stuck on Tintagel cliffs]]></title>
             <description><![CDATA[The fishermen climbed about 20ft to escape the incoming tide on Wednesday.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-cornwall-58581250?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -98,6 +91,13 @@
             <link>https://www.bbc.co.uk/news/uk-england-suffolk-58585374?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-suffolk-58585374</guid>
             <pubDate>Thu, 16 Sep 2021 13:41:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Anglers banned from taking River Severn salmon catch home]]></title>
+            <description><![CDATA[Catch and release rules are being introduced by the Environment Agency to protect salmon stocks.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-58568541?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-58568541</guid>
+            <pubDate>Thu, 16 Sep 2021 17:26:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Walleys Quarry: Mum overwhelmed at landfill court case success]]></title>
@@ -163,6 +163,13 @@
             <pubDate>Thu, 16 Sep 2021 13:10:30 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Maddie Durdant-Hollamby: Man who killed girlfriend took his own life]]></title>
+            <description><![CDATA[Benjamin Green stabbed Maddie Durdant-Hollamby in the chest before killing himself, an inquest hears.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-northamptonshire-58582235?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-northamptonshire-58582235</guid>
+            <pubDate>Thu, 16 Sep 2021 11:42:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[England move up to third in men's world rankings]]></title>
             <description><![CDATA[Gareth Southgate's men climb to third in the Fifa world rankings, equalling their highest ever position.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58581144?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -175,13 +182,6 @@
             <link>https://www.bbc.co.uk/sport/football/58579227?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58579227</guid>
             <pubDate>Thu, 16 Sep 2021 13:29:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['No decision on Derby points deduction' - EFL]]></title>
-            <description><![CDATA[The English Football League says no decision has been made on any potential points deduction for Derby County.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58579257?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58579257</guid>
-            <pubDate>Thu, 16 Sep 2021 11:04:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
