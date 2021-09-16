@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 16 Sep 2021 14:28:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Sep 2021 14:37:01 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -30,6 +30,13 @@
             <pubDate>Thu, 16 Sep 2021 13:08:45 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Emma Raducanu reunited with her parents in Bromley]]></title>
+            <description><![CDATA[Emma Raducanu is photographed with father Ian after becoming Britain's youngest Grand Slam champion.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-58585022?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-london-58585022</guid>
+            <pubDate>Thu, 16 Sep 2021 14:11:33 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Ealing child death: Mother charged with murder of daughter]]></title>
             <description><![CDATA[Five-year-old Aijah Thomas was found with fatal injuries at a house in Ealing, west London.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-london-58583972?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -42,13 +49,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-kent-58583111?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-kent-58583111</guid>
             <pubDate>Thu, 16 Sep 2021 10:25:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Geronimo owner accuses government of 'wall of silence']]></title>
-            <description><![CDATA[Helen Macdonald says she has not been given any details relating to Geronimo's final hours.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-bristol-58581304?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-bristol-58581304</guid>
-            <pubDate>Thu, 16 Sep 2021 13:11:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Maddie Durdant-Hollamby: Man who killed girlfriend took his own life]]></title>
@@ -65,11 +65,11 @@
             <pubDate>Thu, 16 Sep 2021 13:54:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Rhamero West: Teenager arrested over fatal street stabbing]]></title>
-            <description><![CDATA[A 16-year-old boy is arrested on suspicion of murdering Rhamero West in Old Traffford.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-manchester-58582149?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-manchester-58582149</guid>
-            <pubDate>Thu, 16 Sep 2021 09:43:42 GMT</pubDate>
+            <title><![CDATA[Geronimo owner accuses government of 'wall of silence']]></title>
+            <description><![CDATA[Helen Macdonald says she has not been given any details relating to Geronimo's final hours.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-bristol-58581304?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-bristol-58581304</guid>
+            <pubDate>Thu, 16 Sep 2021 13:11:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[M25 protests: Met arrests three over 'orchestration']]></title>
@@ -79,11 +79,11 @@
             <pubDate>Thu, 16 Sep 2021 08:25:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Cows hurt as lorry carrying them overturns in Upper Broughton]]></title>
-            <description><![CDATA[Several cows are injured after the lorry transporting 39 of them crashed.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-nottinghamshire-58583258?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-nottinghamshire-58583258</guid>
-            <pubDate>Thu, 16 Sep 2021 13:30:30 GMT</pubDate>
+            <title><![CDATA[Leeds blue plaques 'must represent more black and Asian figures']]></title>
+            <description><![CDATA[A report finds just two out of 181 commemorative signs in Leeds honour its notable black residents.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-leeds-58585124?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-leeds-58585124</guid>
+            <pubDate>Thu, 16 Sep 2021 14:24:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Afghan refugee: Taliban takeover 'like a scary movie']]></title>
@@ -133,6 +133,27 @@
             <link>https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-58577769?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-58577769</guid>
             <pubDate>Thu, 16 Sep 2021 13:51:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rhamero West: Teenager arrested over fatal street stabbing]]></title>
+            <description><![CDATA[A 16-year-old boy is arrested on suspicion of murdering Rhamero West in Old Traffford.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-manchester-58582149?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-manchester-58582149</guid>
+            <pubDate>Thu, 16 Sep 2021 09:43:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Leeds German Christmas market 2021 cancelled due to coronavirus]]></title>
+            <description><![CDATA[Organisers say uncertainties over restrictions led to an early decision to cancel the Leeds event.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-leeds-58585829?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-leeds-58585829</guid>
+            <pubDate>Thu, 16 Sep 2021 13:10:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cows hurt as lorry carrying them overturns in Upper Broughton]]></title>
+            <description><![CDATA[Several cows are injured after the lorry transporting 39 of them crashed.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-nottinghamshire-58583258?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-nottinghamshire-58583258</guid>
+            <pubDate>Thu, 16 Sep 2021 13:30:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[England move up to third in men's world rankings]]></title>
