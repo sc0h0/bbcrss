@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 16 Sep 2021 06:50:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Sep 2021 07:08:19 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -338,6 +338,13 @@
             <pubDate>Wed, 15 Sep 2021 10:40:03 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Scottish Gossip: Celtic, Rangers, Europa League, Aberdeen, Henry McLeish]]></title>
+            <description><![CDATA[Late decision over who captain Celtic against Real Betis in Callum McGregor's absence.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58535837?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58535837</guid>
+            <pubDate>Thu, 16 Sep 2021 06:58:53 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Rangers v Lyon: Filip Helander out until December but Connor Goldson returns]]></title>
             <description><![CDATA[Rangers defender Filip Helander is out until the end of the year with a knee injury but Connor Goldson is back for the Europa League group opener at home to Lyon.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58493153?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -357,13 +364,6 @@
             <link>https://www.bbc.co.uk/sport/av/football/58575805?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/av/football/58575805</guid>
             <pubDate>Thu, 16 Sep 2021 06:10:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Berrington & Sharif lead Scotland to seven-run victory over Zimbabwe]]></title>
-            <description><![CDATA[Richie Berrington and Safyaan Sharif shine for Scotland as they beat Zimbabwe by seven runs in the first of three T20 internationals in Edinburgh.]]></description>
-            <link>https://www.bbc.co.uk/sport/cricket/58576056?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/cricket/58576056</guid>
-            <pubDate>Wed, 15 Sep 2021 17:06:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
