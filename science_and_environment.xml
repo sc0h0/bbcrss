@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 16 Sep 2021 07:10:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Sep 2021 07:24:09 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Kew Gardens: Royal Botanic Gardens breaks record for largest plant collection]]></title>
+            <description><![CDATA[Established in 1759, the Royal Botanic Gardens at Kew has 16,900 unique plant species.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-58559491?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-london-58559491</guid>
+            <pubDate>Thu, 16 Sep 2021 05:26:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Canadian prairie ranchers struggle with drought conditions]]></title>
             <description><![CDATA[Amid a severe drought in the Prairies, some ranchers are trying to find ways to work with nature.]]></description>
@@ -72,11 +79,11 @@
             <pubDate>Mon, 13 Sep 2021 22:18:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Climate change: World now sees twice as many days over 50C]]></title>
-            <description><![CDATA[BBC research finds the number of days passing 50C has doubled in the past 40 years.]]></description>
-            <link>https://www.bbc.co.uk/news/science-environment-58494641?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/science-environment-58494641</guid>
-            <pubDate>Mon, 13 Sep 2021 20:35:05 GMT</pubDate>
+            <title><![CDATA[Life at 50C: The toxic gas flares fuelling Nigeria's climate change]]></title>
+            <description><![CDATA[Joy and her family are among 2m Nigerians living within 4km of a gas flare in Nigeria's oil-rich south.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-58549010?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-africa-58549010</guid>
+            <pubDate>Mon, 13 Sep 2021 23:08:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[COP26: UK still lagging on climate policy, report says]]></title>
@@ -84,13 +91,6 @@
             <link>https://www.bbc.co.uk/news/science-environment-58520330?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/science-environment-58520330</guid>
             <pubDate>Sun, 12 Sep 2021 23:00:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Life at 50C: The toxic gas flares fuelling Nigeria's climate change]]></title>
-            <description><![CDATA[Joy and her family are among 2m Nigerians living within 4km of a gas flare in Nigeria's oil-rich south.]]></description>
-            <link>https://www.bbc.co.uk/news/world-africa-58549010?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-africa-58549010</guid>
-            <pubDate>Mon, 13 Sep 2021 23:08:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Climate change: Fossil fuels must stay underground, scientists say]]></title>
@@ -128,13 +128,6 @@
             <pubDate>Wed, 08 Sep 2021 23:06:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Climate change: Vulnerable nations call for 'emergency pact']]></title>
-            <description><![CDATA[The countries at greatest risk say all nations must take bigger steps to avoid climate catastrophe.]]></description>
-            <link>https://www.bbc.co.uk/news/science-environment-58477926?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/science-environment-58477926</guid>
-            <pubDate>Wed, 08 Sep 2021 00:09:53 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[International Space Station: Smoke triggers alert on board]]></title>
             <description><![CDATA[The alarm went off as the space station's batteries were being charged, Russia's space agency says.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-58497899?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -147,6 +140,13 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-highlands-islands-58190702?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-highlands-islands-58190702</guid>
             <pubDate>Thu, 09 Sep 2021 05:21:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Climate change: World now sees twice as many days over 50C]]></title>
+            <description><![CDATA[BBC research finds the number of days passing 50C has doubled in the past 40 years.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-58494641?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/science-environment-58494641</guid>
+            <pubDate>Mon, 13 Sep 2021 20:35:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Canada election: Lytton fire puts village at centre of debate]]></title>
