@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 16 Sep 2021 05:54:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Sep 2021 06:18:26 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -35,6 +35,13 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-58579120?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-58579120</guid>
             <pubDate>Thu, 16 Sep 2021 05:33:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[UK power prices soar after key cable hit by blaze]]></title>
+            <description><![CDATA[British wholesale electricity prices for the following day jumped by 19% to £475 per megawatt hour.]]></description>
+            <link>https://www.bbc.co.uk/news/business-58579829?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58579829</guid>
+            <pubDate>Thu, 16 Sep 2021 03:32:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Two more deaths linked to cancer screening error]]></title>
@@ -345,18 +352,18 @@
             <pubDate>Wed, 15 Sep 2021 11:32:27 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Real Betis v Celtic: What happened last time Celtic fans travelled to Seville?]]></title>
+            <description><![CDATA[Watch BBC Scotland's pre-match report the last time Celtic fans travelled to watch their side play in Seville - in the 2003 Uefa Cup final.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/football/58575805?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/av/football/58575805</guid>
+            <pubDate>Thu, 16 Sep 2021 06:10:31 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Berrington & Sharif lead Scotland to seven-run victory over Zimbabwe]]></title>
             <description><![CDATA[Richie Berrington and Safyaan Sharif shine for Scotland as they beat Zimbabwe by seven runs in the first of three T20 internationals in Edinburgh.]]></description>
             <link>https://www.bbc.co.uk/sport/cricket/58576056?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/cricket/58576056</guid>
             <pubDate>Wed, 15 Sep 2021 17:06:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Andy Murray: Three-time Grand Slam winner loses in last 16 at Rennes Open]]></title>
-            <description><![CDATA[Andy Murray loses 6-2 4-6 6-1 to Russia's Roman Safiullin in last 16 at the Rennes Open]]></description>
-            <link>https://www.bbc.co.uk/sport/tennis/58575319?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/58575319</guid>
-            <pubDate>Wed, 15 Sep 2021 19:21:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
