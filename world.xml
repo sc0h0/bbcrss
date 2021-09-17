@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 17 Sep 2021 06:23:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Sep 2021 06:50:01 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -37,13 +37,6 @@
             <pubDate>Fri, 17 Sep 2021 05:41:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid: Italy to require all workers to show 'green pass' certificate]]></title>
-            <description><![CDATA[New rules mean workers must show they are vaccinated, have tested negative, or recovered from Covid.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58590187?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58590187</guid>
-            <pubDate>Thu, 16 Sep 2021 22:01:14 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[China applies to join key Asia-Pacific trade pact]]></title>
             <description><![CDATA[It comes the day after a regional security agreement between the US, UK and Australia was unveiled.]]></description>
             <link>https://www.bbc.co.uk/news/business-58579832?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -58,6 +51,13 @@
             <pubDate>Fri, 17 Sep 2021 06:16:51 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Clinton-linked lawyer charged for lying in Trump-Russia origins probe]]></title>
+            <description><![CDATA[He is accused of hiding ties to the Clinton campaign when submitting a tip about Donald Trump.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-58591969?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58591969</guid>
+            <pubDate>Thu, 16 Sep 2021 22:52:09 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Assam shorts: India teenager forced to cover legs with curtain at exam centre]]></title>
             <description><![CDATA[The Indian student was stopped from entering exam centre after a teacher objected to her clothes.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-india-58592986?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -65,11 +65,11 @@
             <pubDate>Fri, 17 Sep 2021 06:15:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Clinton-linked lawyer charged for lying in Trump-Russia origins probe]]></title>
-            <description><![CDATA[He is accused of hiding ties to the Clinton campaign when submitting a tip about Donald Trump.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-58591969?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58591969</guid>
-            <pubDate>Thu, 16 Sep 2021 22:52:09 GMT</pubDate>
+            <title><![CDATA[Covid: Italy to require all workers to show 'green pass' certificate]]></title>
+            <description><![CDATA[New rules mean workers must show they are vaccinated, have tested negative, or recovered from Covid.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58590187?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58590187</guid>
+            <pubDate>Thu, 16 Sep 2021 22:01:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[German police arrest four over foiled Islamist synagogue attack]]></title>
