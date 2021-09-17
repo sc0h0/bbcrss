@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 17 Sep 2021 05:23:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Sep 2021 05:34:51 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -310,6 +310,13 @@
             <pubDate>Sat, 14 Mar 2020 01:04:25 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The Wanted's Tom Parker opens up about his cancer diagnosis]]></title>
+            <description><![CDATA[Tom refuses to let cancer dominate his life after being diagnosed with an inoperable brain tumour.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-58587690?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-58587690</guid>
+            <pubDate>Fri, 17 Sep 2021 05:21:12 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Sajid Javid: 'We need to avoid unsustainable pressure on the NHS']]></title>
             <description><![CDATA[There will be "no single trigger" for bringing back coronavirus restrictions during winter, Sajid Javid says.]]></description>
             <link>https://www.bbc.co.uk/news/uk-58569846?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -336,13 +343,6 @@
             <link>https://www.bbc.co.uk/news/uk-politics-58548620?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-politics-58548620</guid>
             <pubDate>Mon, 13 Sep 2021 15:45:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Singer who lost her voice sings again]]></title>
-            <description><![CDATA[When former singer Tanja Bage was told she would lose her voice to throat cancer, she immediately began to create a video diary.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58543717?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58543717</guid>
-            <pubDate>Mon, 13 Sep 2021 12:55:38 GMT</pubDate>
         </item>
     </channel>
 </rss>

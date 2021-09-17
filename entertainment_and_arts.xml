@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 17 Sep 2021 05:23:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Sep 2021 05:33:01 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -170,6 +170,20 @@
             <pubDate>Mon, 13 Sep 2021 11:18:01 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The Wanted's Tom Parker opens up about his cancer diagnosis]]></title>
+            <description><![CDATA[Tom refuses to let cancer dominate his life after being diagnosed with an inoperable brain tumour.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-58587690?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-58587690</guid>
+            <pubDate>Fri, 17 Sep 2021 05:21:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Andrew Neil on GB News: 'I was in a minority of one']]></title>
+            <description><![CDATA[The broadcaster Andrew Neil spoke to the BBC's Question Time about his reasons for leaving GB News.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-58592178?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58592178</guid>
+            <pubDate>Thu, 16 Sep 2021 22:46:04 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Louise Minchin: BBC Breakfast bids presenter goodbye]]></title>
             <description><![CDATA[One of BBC Breakfast's main presenters, Louise Minchin, has broadcast her final programme after 20 years of early morning alarm calls.]]></description>
             <link>https://www.bbc.co.uk/news/entertainment-arts-58574340?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -196,20 +210,6 @@
             <link>https://www.bbc.co.uk/news/entertainment-arts-58506089?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-58506089</guid>
             <pubDate>Sun, 12 Sep 2021 23:11:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Photographer's images 'like ghosts coming out the mist']]></title>
-            <description><![CDATA[Guy Bellingham uses a 170-year-old technique to produce striking photos in remarkable detail.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-bristol-58505275?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-bristol-58505275</guid>
-            <pubDate>Sat, 11 Sep 2021 23:05:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Red carpet debut for 'Bennifer' 2.0 in Venice]]></title>
-            <description><![CDATA[Ben Affleck and Jennifer Lopez arrive in Venice for the premiere of The Last Duel.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-58527312?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-58527312</guid>
-            <pubDate>Sat, 11 Sep 2021 03:58:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
