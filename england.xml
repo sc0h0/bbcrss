@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 17 Sep 2021 14:13:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Sep 2021 14:43:01 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -65,6 +65,13 @@
             <pubDate>Fri, 17 Sep 2021 12:57:28 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Jack Hunter-Spivey: Paralympian in 'think twice' plea to taxi drivers]]></title>
+            <description><![CDATA[Sheffield-based Jack Hunter-Spivey takes to Twitter after two Uber drivers recently left without him.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-south-yorkshire-58598424?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-south-yorkshire-58598424</guid>
+            <pubDate>Fri, 17 Sep 2021 14:24:25 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Women's rugby star Kat Merchant hits out at online trolls]]></title>
             <description><![CDATA[Kat Merchant says someone responded to her biceps fitness video with a film of someone retching.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-58583717?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -72,11 +79,11 @@
             <pubDate>Fri, 17 Sep 2021 12:07:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Woman who fled Kabul fears 'trauma will never go']]></title>
-            <description><![CDATA[Nargas, 24, says she wants to thank the British soldiers who helped her and her family escape.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-nottinghamshire-58586014?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-nottinghamshire-58586014</guid>
-            <pubDate>Fri, 17 Sep 2021 05:19:39 GMT</pubDate>
+            <title><![CDATA[Blackpool's bus services cut due to driver shortage]]></title>
+            <description><![CDATA[Blackpool Transport will cut the frequency of its services from Sunday due to a lack of drivers.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-lancashire-58595781?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-lancashire-58595781</guid>
+            <pubDate>Fri, 17 Sep 2021 14:04:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[First baby red squirrels born at Wiltshire safari park]]></title>
@@ -84,13 +91,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-wiltshire-58593450?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-wiltshire-58593450</guid>
             <pubDate>Fri, 17 Sep 2021 10:08:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bilsdale transmitter: New TV mast could be working by 5 October]]></title>
-            <description><![CDATA[The new temporary mast should serve 90% of homes covered by the fire-damaged Bilsdale transmitter.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-tees-58596064?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-tees-58596064</guid>
-            <pubDate>Fri, 17 Sep 2021 11:16:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Manchester music cafe brings joy to people with dementia]]></title>
@@ -135,11 +135,18 @@
             <pubDate>Fri, 17 Sep 2021 10:27:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Migrant crossings: Over 300 people cross Channel in two days]]></title>
-            <description><![CDATA[French authorities stop 257 people from making the crossing in seven boats over the same period.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-kent-58593554?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-kent-58593554</guid>
-            <pubDate>Fri, 17 Sep 2021 10:32:18 GMT</pubDate>
+            <title><![CDATA[Bilsdale transmitter: New TV mast could be working by 5 October]]></title>
+            <description><![CDATA[The new temporary mast should serve 90% of homes covered by the fire-damaged Bilsdale transmitter.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-tees-58596064?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-tees-58596064</guid>
+            <pubDate>Fri, 17 Sep 2021 11:16:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Woman who fled Kabul fears 'trauma will never go']]></title>
+            <description><![CDATA[Nargas, 24, says she wants to thank the British soldiers who helped her and her family escape.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-nottinghamshire-58586014?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-nottinghamshire-58586014</guid>
+            <pubDate>Fri, 17 Sep 2021 05:19:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Birmingham raids target 'major illegal streaming network']]></title>
@@ -154,13 +161,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-essex-58595459?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-essex-58595459</guid>
             <pubDate>Fri, 17 Sep 2021 10:23:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Derby vets use hook-a-duck method to pull toy from bulldog]]></title>
-            <description><![CDATA[Vets perform the fairground-like procedure on Ronnie after he swallowed a rubber duck whole.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-derbyshire-58587116?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-derbyshire-58587116</guid>
-            <pubDate>Fri, 17 Sep 2021 09:21:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Steph Houghton: England captain out of World Cup qualifier with ankle injury]]></title>
