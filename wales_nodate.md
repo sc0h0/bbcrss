@@ -24,5 +24,5 @@
 24. [Cyflwyno 'pasbort Covid' yng Nghymru o fis nesaf](https://www.bbc.co.uk/newyddion/58596916?at_medium=RSS&at_campaign=KARANGA) - Bydd angen dangos prawf o fod wedi cael brechlyn neu brawf negatif er mwyn mynd i rai lleoliadau.
 25. [Bachgen dwy oed wedi marw ar ôl cael ei foddi](https://www.bbc.co.uk/newyddion/58597443?at_medium=RSS&at_campaign=KARANGA) - Cafodd Reid Steele ei ddarganfod gan ei nain yn anymwybodol ar lawr ystafell ymolchi ei gartref.
 26. ['Angen atebion' am benderfyniadau'r pandemig](https://www.bbc.co.uk/newyddion/58588372?at_medium=RSS&at_campaign=KARANGA) - Gwraig perchennog cartref gofal a laddodd ei hun y llynedd yn galw am ymchwiliad ar wahân i Gymru.
-27. ['Mae gweld gwên ar wynebau'r merched yn ddigon i fi'](https://www.bbc.co.uk/newyddion/58560457?at_medium=RSS&at_campaign=KARANGA) - Tirion Thomas o'r Bala, enillydd gwobr Arwr Tawel 2020, sy'n trafod ei blwyddyn gyda Al Hughes
+27. [Camu i fyd hudol gyda'r swynwraig Mhara Starling](https://www.bbc.co.uk/newyddion/58595712?at_medium=RSS&at_campaign=KARANGA) - Gwneud bywoliaeth allan o chwedloniaeth a thraddodiadau paganaidd Cymru.
 28. [Cwpan y Byd Merched 2023: Ai dyma'r ymgyrch i Gymru?](https://www.bbc.co.uk/newyddion/58538690?at_medium=RSS&at_campaign=KARANGA) - Dyma'r cwestiwn oedd ar wefusau pawb wrth holi'r chwaraewyr yr wythnos hon, medd Owain Llyr.
