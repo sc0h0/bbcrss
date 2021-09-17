@@ -24,5 +24,5 @@
 24. [Disgwyl penderfyniad ynghylch pasbortau brechu yng Nghymru](https://www.bbc.co.uk/newyddion/58590860?at_medium=RSS&at_campaign=KARANGA) - Mae disgwyl cadarnhad a fydd angen dangos prawf cyn mynd i glybiau nos a digwyddiadau mawr.
 25. ['Angen atebion' am benderfyniadau'r pandemig](https://www.bbc.co.uk/newyddion/58588372?at_medium=RSS&at_campaign=KARANGA) - Gwraig perchennog cartref gofal a laddodd ei hun y llynedd yn galw am ymchwiliad ar wahân i Gymru.
 26. [Pryder am gynllun i droi chwarel yn safle ailgylchu](https://www.bbc.co.uk/newyddion/58584692?at_medium=RSS&at_campaign=KARANGA) - Yn ôl ymgyrchwyr byddai defnyddio'r safle i ailgylchu gwastraff adeiladu yn dinistrio bywyd gwyllt.
-27. [3 Llun: Lluniau pwysicaf Angharad Mair](https://www.bbc.co.uk/newyddion/58506558?at_medium=RSS&at_campaign=KARANGA) - Y cyflwynwraig sy'n rhannu ei lluniau mwyaf arwyddocaol
+27. ['Mae gweld gwên ar wynebau'r merched yn ddigon i fi'](https://www.bbc.co.uk/newyddion/58560457?at_medium=RSS&at_campaign=KARANGA) - Tirion Thomas o'r Bala, enillydd gwobr Arwr Tawel 2020, sy'n trafod ei blwyddyn gyda Al Hughes
 28. [Cwpan y Byd Merched 2023: Ai dyma'r ymgyrch i Gymru?](https://www.bbc.co.uk/newyddion/58538690?at_medium=RSS&at_campaign=KARANGA) - Dyma'r cwestiwn oedd ar wefusau pawb wrth holi'r chwaraewyr yr wythnos hon, medd Owain Llyr.
