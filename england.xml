@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 17 Sep 2021 17:10:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Sep 2021 18:13:33 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -72,18 +72,18 @@
             <pubDate>Fri, 17 Sep 2021 11:00:28 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Sheffield stabbing: Man dies in city centre attack]]></title>
+            <description><![CDATA[A murder investigation begins and a suspect in his 30s is arrested over the attack in Sheffield.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-south-yorkshire-58600934?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-south-yorkshire-58600934</guid>
+            <pubDate>Fri, 17 Sep 2021 17:50:55 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Manchester Metrolink: Man who fell between trams has leg amputated]]></title>
             <description><![CDATA[The man, who fell between two linked trams in Manchester, remains in a critical condition.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-manchester-58588150?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-manchester-58588150</guid>
             <pubDate>Fri, 17 Sep 2021 15:32:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kent: Abuse of grassroots referees leads to call for action]]></title>
-            <description><![CDATA[The Kent FA says referees are quitting in high numbers because of physical and verbal abuse.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-kent-58597278?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-kent-58597278</guid>
-            <pubDate>Fri, 17 Sep 2021 15:37:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[M25 protests: Priti Patel calls activists 'selfish']]></title>
@@ -189,20 +189,6 @@
             <link>https://www.bbc.co.uk/sport/football/58592104?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58592104</guid>
             <pubDate>Fri, 17 Sep 2021 15:56:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pat Lam: Bristol Bears director of rugby signs new contract through to 2028]]></title>
-            <description><![CDATA[Bristol director of rugby Pat Lam signs a new contract with the Premiership club to keep him at Ashton Gate until the summer of 2028.]]></description>
-            <link>https://www.bbc.co.uk/sport/rugby-union/58594432?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/rugby-union/58594432</guid>
-            <pubDate>Fri, 17 Sep 2021 09:58:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Shamal George: Colchester United keeper considered not reporting alleged racial abuse]]></title>
-            <description><![CDATA[Colchester goalkeeper Shamal George says he did not want to report racial abuse he allegedly faced at Barrow as "not a lot happens".]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58588062?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58588062</guid>
-            <pubDate>Fri, 17 Sep 2021 15:16:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
