@@ -1,4 +1,4 @@
-1. [Mosquitoes 'vacuumed up' by traps that mimic breathing](https://www.bbc.co.uk/news/technology-58598292?at_medium=RSS&at_campaign=KARANGA) - More than 300 traps have been deployed in the French town of Hyères to catch mosquitos.
+1. [Mosquitoes sucked up by traps that mimic breathing](https://www.bbc.co.uk/news/technology-58598292?at_medium=RSS&at_campaign=KARANGA) - More than 300 traps have been deployed in the French town of Hyères to catch mosquitos.
 2. [Sir Clive Sinclair: Computing pioneer dies aged 81](https://www.bbc.co.uk/news/uk-58587521?at_medium=RSS&at_campaign=KARANGA) - The inventor, entrepreneur and ZX Spectrum creator died at his London home following a long illness.
 3. [File-sharing crackdowns from lawyers and police](https://www.bbc.co.uk/news/technology-58583601?at_medium=RSS&at_campaign=KARANGA) - Piracy is once again in the spotlight as rights holders threaten legal action for illegal streaming.
 4. [OpenSea admits insider trading of NFTs it promoted](https://www.bbc.co.uk/news/technology-58585342?at_medium=RSS&at_campaign=KARANGA) - An employee was accused of buying digital art that would later be promoted on the homepage.

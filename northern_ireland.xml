@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 17 Sep 2021 11:27:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Sep 2021 11:41:09 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -184,13 +184,6 @@
             <pubDate>Tue, 14 Sep 2021 23:20:36 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Q&A: The Simon Coveney appointment row]]></title>
-            <description><![CDATA[Ireland's foreign affairs minister won a confidence motion over the appointment of a UN special envoy.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58548728?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58548728</guid>
-            <pubDate>Wed, 15 Sep 2021 21:43:59 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Queen's University students within 40 miles 'unlikely' to get room]]></title>
             <description><![CDATA[Queen's University Belfast has said it is "unlikely" to offer a room to any student living less than 40 miles from the university.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58588388?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -261,6 +254,13 @@
             <pubDate>Thu, 16 Sep 2021 18:38:35 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Q&A: The Simon Coveney appointment row]]></title>
+            <description><![CDATA[Ireland's foreign affairs minister won a confidence motion over the appointment of a UN special envoy.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58548728?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58548728</guid>
+            <pubDate>Wed, 15 Sep 2021 21:43:59 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Eric Eoin Marques: Irish man jailed in US for child abuse images]]></title>
             <description><![CDATA[The FBI called Irish man Eric Eoin Marques the world's largest facilitator of online child sex abuse.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-58582817?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -273,13 +273,6 @@
             <link>https://www.bbc.co.uk/news/world-europe-58557370?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58557370</guid>
             <pubDate>Wed, 15 Sep 2021 19:36:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TikTok faces privacy investigations by EU watchdog]]></title>
-            <description><![CDATA[The Irish regulator says it is looking at how TikTok handles children's data - and where it goes.]]></description>
-            <link>https://www.bbc.co.uk/news/technology-58573049?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/technology-58573049</guid>
-            <pubDate>Wed, 15 Sep 2021 12:13:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
