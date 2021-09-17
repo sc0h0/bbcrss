@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 17 Sep 2021 14:24:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Sep 2021 14:35:30 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -93,6 +93,13 @@
             <pubDate>Wed, 15 Sep 2021 13:24:09 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The AI body scanner detecting skin cancer and other news]]></title>
+            <description><![CDATA[BBC Click's LJ Rich looks at the best tech news stories of the week.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-58598651?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/technology-58598651</guid>
+            <pubDate>Fri, 17 Sep 2021 14:32:26 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Why Iceland’s volcanoes may aid future Mars exploration]]></title>
             <description><![CDATA[Scientists are using the country to test drone tech that could one day explore the planet's terrain.]]></description>
             <link>https://www.bbc.co.uk/news/technology-58104819?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -119,13 +126,6 @@
             <link>https://www.bbc.co.uk/news/technology-58466374?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/technology-58466374</guid>
             <pubDate>Mon, 06 Sep 2021 23:13:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Meet Digit, the workplace robot, and other news]]></title>
-            <description><![CDATA[BBC Click's Marc Cieslak looks at the best of the week's technology news.]]></description>
-            <link>https://www.bbc.co.uk/news/technology-58438225?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/technology-58438225</guid>
-            <pubDate>Fri, 03 Sep 2021 12:39:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The big problem of building waste and how to tackle it]]></title>
