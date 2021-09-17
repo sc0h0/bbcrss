@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 17 Sep 2021 21:54:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Sep 2021 22:15:03 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -42,13 +42,6 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-58595865?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-58595865</guid>
             <pubDate>Fri, 17 Sep 2021 17:47:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid in Scotland: Where are the latest cases?]]></title>
-            <description><![CDATA[A daily update on the number and location of coronavirus cases in Scotland.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-53511877?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-53511877</guid>
-            <pubDate>Fri, 17 Sep 2021 14:44:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Boy, 9, needed major surgery after TikTok magnet trend]]></title>
@@ -86,6 +79,13 @@
             <pubDate>Fri, 17 Sep 2021 11:18:59 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Police call for action on sectarianism ahead of Orange walks]]></title>
+            <description><![CDATA[Ahead of Saturday's marches, a senior police officer says it is time to tackle the root causes of sectarianism.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-58586533?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-58586533</guid>
+            <pubDate>Fri, 17 Sep 2021 05:10:44 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Cairnryan border control post work paused over post-Brexit 'uncertainties']]></title>
             <description><![CDATA[The Scottish government says it is making the move due to "major uncertainties" still to be resolved after Brexit.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-south-scotland-58596086?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -100,11 +100,11 @@
             <pubDate>Fri, 17 Sep 2021 07:13:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Police call for action on sectarianism ahead of Orange walks]]></title>
-            <description><![CDATA[Ahead of Saturday's marches, a senior police officer says it is time to tackle the root causes of sectarianism.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-58586533?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-58586533</guid>
-            <pubDate>Fri, 17 Sep 2021 05:10:44 GMT</pubDate>
+            <title><![CDATA[Covid in Scotland: Where are the latest cases?]]></title>
+            <description><![CDATA[A daily update on the number and location of coronavirus cases in Scotland.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-53511877?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-53511877</guid>
+            <pubDate>Fri, 17 Sep 2021 14:44:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid in Scotland: What do we know about the vaccine passport?]]></title>
