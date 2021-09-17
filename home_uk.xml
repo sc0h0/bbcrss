@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 17 Sep 2021 09:24:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Sep 2021 09:40:27 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -37,18 +37,25 @@
             <pubDate>Fri, 17 Sep 2021 08:48:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid-19: Travel rules set to change and Wales to decide on 'vaccine passports']]></title>
-            <description><![CDATA[Five things you need to know about the coronavirus pandemic this Friday morning.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58584085?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58584085</guid>
-            <pubDate>Fri, 17 Sep 2021 06:35:38 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Aukus: US and UK face international backlash over Australia defence deal]]></title>
             <description><![CDATA[The nuclear submarine deal with Australia has angered France and raised fears of a war with China.]]></description>
             <link>https://www.bbc.co.uk/news/world-58592613?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-58592613</guid>
             <pubDate>Fri, 17 Sep 2021 08:35:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Reshuffle: Boris Johnson's new Cabinet meets for first time]]></title>
+            <description><![CDATA[The PM gives his new line-up of ministers a "half-time pep talk", after this week's reshuffle.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-58594944?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-politics-58594944</guid>
+            <pubDate>Fri, 17 Sep 2021 09:27:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19: Travel rules set to change and Wales to decide on 'vaccine passports']]></title>
+            <description><![CDATA[Five things you need to know about the coronavirus pandemic this Friday morning.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-58584085?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58584085</guid>
+            <pubDate>Fri, 17 Sep 2021 06:35:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[GB News: I became a minority of one, says Andrew Neil]]></title>
@@ -65,13 +72,6 @@
             <pubDate>Fri, 17 Sep 2021 05:41:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Lyra McKee: Two men charged with murder of journalist]]></title>
-            <description><![CDATA[The men, 21 and 33, have been charged over the shooting in Londonderry's Creggan estate in April 2019.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58587866?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58587866</guid>
-            <pubDate>Thu, 16 Sep 2021 22:16:15 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Long Covid less common than feared - ONS study]]></title>
             <description><![CDATA[One in 40 people has some long-lasting symptoms, Office for National Statistics data suggests.]]></description>
             <link>https://www.bbc.co.uk/news/health-58584558?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -86,11 +86,11 @@
             <pubDate>Thu, 16 Sep 2021 23:21:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Astronauts return to Earth after China's longest space mission]]></title>
-            <description><![CDATA[The three astronauts spent 90 days at China's space station, some 380km above Earth.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-china-58554332?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-china-58554332</guid>
-            <pubDate>Fri, 17 Sep 2021 05:43:55 GMT</pubDate>
+            <title><![CDATA[Emmerdale: Actress Elizabeth Estensen leaving ITV soap after 22 years]]></title>
+            <description><![CDATA[Elizabeth Estensen, who played landlady Diane Sugden, says it is time to "say goodbye".]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-58586093?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-58586093</guid>
+            <pubDate>Thu, 16 Sep 2021 23:57:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Prince Philip's will to be secret for 90 years]]></title>
