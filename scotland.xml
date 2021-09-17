@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 17 Sep 2021 18:40:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Sep 2021 18:50:08 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Covid in Scotland: Travel rules simplified but test regime may stay]]></title>
+            <description><![CDATA[The Scottish government agrees to a streamlined traffic light system but could retain the current testing requirements for travellers.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-58604154?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-58604154</guid>
+            <pubDate>Fri, 17 Sep 2021 18:41:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Covid in Scotland: Soldiers to drive ambulances under military aid plan]]></title>
             <description><![CDATA[The Scottish Ambulance Service confirms logistical staff will also be made available to help ease pressure on its crews.]]></description>
@@ -51,18 +58,18 @@
             <pubDate>Fri, 17 Sep 2021 16:04:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Man jailed for murdering Wishaw teenager in scissor attack]]></title>
-            <description><![CDATA[Connor McMath sentenced to a minimum of 15 years for fatally stabbing Sean Ford in the neck in Wishaw.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58597517?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58597517</guid>
-            <pubDate>Fri, 17 Sep 2021 11:39:14 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[St Andrews beats Oxford and Cambridge universities to top spot]]></title>
             <description><![CDATA[The Fife institution beats Oxford and Cambridge to the top of the The Times and Sunday Times Good University Guide.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-58596714?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-58596714</guid>
             <pubDate>Fri, 17 Sep 2021 11:11:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Man jailed for murdering Wishaw teenager in scissor attack]]></title>
+            <description><![CDATA[Connor McMath sentenced to a minimum of 15 years for fatally stabbing Sean Ford in the neck in Wishaw.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58597517?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58597517</guid>
+            <pubDate>Fri, 17 Sep 2021 11:39:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Pet cat missing for 10 years in Aberdeen reunited with owners]]></title>
