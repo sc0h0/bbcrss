@@ -1,4 +1,4 @@
-1. [Next deal keeps Gap brand alive in the UK](https://www.bbc.co.uk/news/business-58596532?at_medium=RSS&at_campaign=KARANGA) - Deal means Gap will still have a UK high street presence within Next's stores despite closing its own.
+1. [Next deal keeps Gap brand alive in the UK](https://www.bbc.co.uk/news/business-58596532?at_medium=RSS&at_campaign=KARANGA) - Deal means Gap will still have a UK High Street presence within Next's stores despite closing its own.
 2. [Broadcasting cash offsets Man Utd's Covid losses](https://www.bbc.co.uk/news/business-58593589?at_medium=RSS&at_campaign=KARANGA) - Football giant says year was among its most challenging but sees broadcast income jump sharply.
 3. [Shop sales fall for fourth month as more dine out](https://www.bbc.co.uk/news/business-58593582?at_medium=RSS&at_campaign=KARANGA) - Sales at food stores fell last month as more people spent their money in restaurants and bars.
 4. ['I’m constantly worried about being evicted'](https://www.bbc.co.uk/news/business-58589759?at_medium=RSS&at_campaign=KARANGA) - Debt charity StepChange is calling for emergency support for renters who have fallen behind on payments.
