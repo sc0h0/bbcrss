@@ -1,4 +1,4 @@
-1. [Retail sales fall as more people dine out](https://www.bbc.co.uk/news/business-58593582?at_medium=RSS&at_campaign=KARANGA) - Sales at food stores fell last month as more people spent their money in restaurants and bars.
+1. [Shop sales fall for fourth month as more dine out](https://www.bbc.co.uk/news/business-58593582?at_medium=RSS&at_campaign=KARANGA) - Sales at food stores fell last month as more people spent their money in restaurants and bars.
 2. ['I’m constantly worried about being evicted'](https://www.bbc.co.uk/news/business-58589759?at_medium=RSS&at_campaign=KARANGA) - Debt charity StepChange is calling for emergency support for renters who have fallen behind on payments.
 3. [Covid-19: Overhaul of international travel rules expected](https://www.bbc.co.uk/news/uk-58591550?at_medium=RSS&at_campaign=KARANGA) - Ministers are expected to announce changes to the travel traffic light system in England on Friday.
 4. [China applies to join key Asia-Pacific trade pact](https://www.bbc.co.uk/news/business-58579832?at_medium=RSS&at_campaign=KARANGA) - It comes the day after a regional security agreement between the US, UK and Australia was unveiled.
