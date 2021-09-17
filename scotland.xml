@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 17 Sep 2021 11:50:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Sep 2021 12:20:29 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -49,6 +49,13 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-58596714?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-58596714</guid>
             <pubDate>Fri, 17 Sep 2021 11:11:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cairnryan border control post work paused over post-Brexit 'uncertainties']]></title>
+            <description><![CDATA[The Scottish government says it is making the move due to "major uncertainties" still to be resolved after Brexit.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-south-scotland-58596086?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-south-scotland-58596086</guid>
+            <pubDate>Fri, 17 Sep 2021 11:49:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Police call for action on sectarianism ahead of Orange walks]]></title>
@@ -91,13 +98,6 @@
             <link>https://www.bbc.co.uk/news/in-pictures-58585399?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/in-pictures-58585399</guid>
             <pubDate>Thu, 16 Sep 2021 23:10:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Man in court over fatal Glasgow shooting]]></title>
-            <description><![CDATA[John McGregor, 44, died in hospital two days after he was shot in the Milton area of the city last month.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58578157?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58578157</guid>
-            <pubDate>Thu, 16 Sep 2021 16:58:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid in Scotland: Where are the latest cases?]]></title>
@@ -332,10 +332,10 @@
         </item>
         <item>
             <title><![CDATA[Rangers 0-2 Lyon: Steven Gerrard says side yet to 'hit top gear' this season]]></title>
-            <description><![CDATA[Manager Steven Gerrard says Rangers are yet to hit top form this season after Lyon inflicted a 2-0 Europa League defeat on his side.]]></description>
+            <description><![CDATA[After losing to Lyon, manager Steven Gerrard says Rangers are yet to hit top form this season, while an injury to Ryan Kent adds to his frustration.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58591878?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58591878</guid>
-            <pubDate>Thu, 16 Sep 2021 22:29:50 GMT</pubDate>
+            <pubDate>Fri, 17 Sep 2021 11:51:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Real Betis 4-3 Celtic: Postecoglou 'proud' but defensive shortcomings again on show]]></title>
@@ -353,7 +353,7 @@
         </item>
         <item>
             <title><![CDATA[Scottish Gossip: Rangers, Celtic, Dundee United, Dundee, Hearts, Hibernian, Ross County]]></title>
-            <description><![CDATA[Ryan Kent suffers a hamstring injury in Rangers' European loss, former Celtic manager considers legal action after being denied access to Ibrox to work as pundit.]]></description>
+            <description><![CDATA[Lack of away fans at Old Firm criticised, former Celtic manager considers legal action after being denied access to Ibrox to work as pundit.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58593909?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58593909</guid>
             <pubDate>Fri, 17 Sep 2021 07:04:13 GMT</pubDate>
