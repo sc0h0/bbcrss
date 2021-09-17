@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 17 Sep 2021 15:44:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Sep 2021 17:07:54 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Afghanistan: Taliban morality police replace women's ministry]]></title>
+            <description><![CDATA[The Taliban appear to have shut the women's affairs ministry and brought back a feared morality unit.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58600231?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58600231</guid>
+            <pubDate>Fri, 17 Sep 2021 17:03:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[World on course to heat up to dangerous levels]]></title>
             <description><![CDATA[Climate plans of more than 100 countries show we're heading in the wrong direction, the UN says.]]></description>
@@ -51,13 +58,6 @@
             <pubDate>Fri, 17 Sep 2021 11:51:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Russian election: Opposition smart app removed as vote begins]]></title>
-            <description><![CDATA[The Smart Voting app promoted candidates most likely to defeat President Vladimir Putin's party.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58593940?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58593940</guid>
-            <pubDate>Fri, 17 Sep 2021 08:56:53 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Assam shorts: India teenager forced to cover legs with curtain at exam centre]]></title>
             <description><![CDATA[The Indian student was stopped from entering exam centre after a teacher objected to her clothes.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-india-58592986?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -65,11 +65,11 @@
             <pubDate>Fri, 17 Sep 2021 06:15:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Aukus: US and UK face backlash over Australia defence deal]]></title>
-            <description><![CDATA[The nuclear submarine deal with Australia has angered France and raised fears of a war with China.]]></description>
-            <link>https://www.bbc.co.uk/news/world-58592613?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-58592613</guid>
-            <pubDate>Fri, 17 Sep 2021 08:35:02 GMT</pubDate>
+            <title><![CDATA[Russian election: Opposition smart app removed as vote begins]]></title>
+            <description><![CDATA[The Smart Voting app promoted candidates most likely to defeat President Vladimir Putin's party.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58593940?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58593940</guid>
+            <pubDate>Fri, 17 Sep 2021 08:56:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Chess icon sues Netflix for Queen's Gambit portrayal]]></title>
@@ -100,8 +100,8 @@
             <pubDate>Fri, 17 Sep 2021 15:13:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA['No work and no money': Afghans settle into life under Taliban rule]]></title>
-            <description><![CDATA[In Mazar-Sharif, former army pilots are flying Taliban around and families are selling possessions for food.]]></description>
+            <title><![CDATA['There’s security but no money': Afghans settle into life under Taliban rule]]></title>
+            <description><![CDATA[In Mazar-i-Sharif, former army pilots are flying Taliban around and families are selling possessions for food.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-58597432?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58597432</guid>
             <pubDate>Fri, 17 Sep 2021 15:32:02 GMT</pubDate>
