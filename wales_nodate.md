@@ -25,4 +25,4 @@
 25. [Gweinidog Iechyd i ystyried rheolau teithio newydd y DU](https://www.bbc.co.uk/newyddion/58601772?at_medium=RSS&at_campaign=KARANGA) - Mae Llywodraeth Cymru'n parhau i gynghori pobl i osgoi teithio dramor oni bai eu bod yn hanfodol.
 26. [Gemau rhagbrofol Cwpan y Byd 2023: Cymru 6-0 Kazakhstan](https://www.bbc.co.uk/newyddion/58601770?at_medium=RSS&at_campaign=KARANGA) - Dechrau rhagorol i ymgyrch Cymru yn rowndiau rhagbrofol Cwpan y Byd 2023 wedi buddugoliaeth hawdd.
 27. [Camu i fyd hudol gyda'r swynwraig Mhara Starling](https://www.bbc.co.uk/newyddion/58595712?at_medium=RSS&at_campaign=KARANGA) - Gwneud bywoliaeth allan o chwedloniaeth a thraddodiadau paganaidd Cymru.
-28. [Cwpan y Byd Merched 2023: Ai dyma'r ymgyrch i Gymru?](https://www.bbc.co.uk/newyddion/58538690?at_medium=RSS&at_campaign=KARANGA) - Dyma'r cwestiwn oedd ar wefusau pawb wrth holi'r chwaraewyr yr wythnos hon, medd Owain Llyr.
+28. [Canlyniadau'r penwythnos yn y Cymru Premier](https://www.bbc.co.uk/newyddion/58601771?at_medium=RSS&at_campaign=KARANGA) - Aberystwyth sy'n dathlu ar ddiwedd gêm ddarbi'r canolbarth yn yr Uwchgynhrair nos Wener.
