@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 17 Sep 2021 09:49:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Sep 2021 10:01:18 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -37,13 +37,6 @@
             <pubDate>Fri, 17 Sep 2021 08:48:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Aukus: US and UK face international backlash over Australia defence deal]]></title>
-            <description><![CDATA[The nuclear submarine deal with Australia has angered France and raised fears of a war with China.]]></description>
-            <link>https://www.bbc.co.uk/news/world-58592613?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-58592613</guid>
-            <pubDate>Fri, 17 Sep 2021 08:35:02 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Reshuffle: Boris Johnson's new Cabinet meets for first time]]></title>
             <description><![CDATA[The PM gives his new line-up of ministers a "half-time pep talk", after this week's reshuffle.]]></description>
             <link>https://www.bbc.co.uk/news/uk-politics-58594944?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -51,11 +44,18 @@
             <pubDate>Fri, 17 Sep 2021 09:27:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid-19: Travel rules set to change and Wales to decide on 'vaccine passports']]></title>
-            <description><![CDATA[Five things you need to know about the coronavirus pandemic this Friday morning.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58584085?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58584085</guid>
-            <pubDate>Fri, 17 Sep 2021 06:35:38 GMT</pubDate>
+            <title><![CDATA[Prince Andrew may challenge High Court ruling in US sexual assault case]]></title>
+            <description><![CDATA[Virginia Giuffre is pursuing a civil case in New York against the prince over allegations of sexual assault.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-58593836?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58593836</guid>
+            <pubDate>Fri, 17 Sep 2021 09:57:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Aukus: US and UK face international backlash over Australia defence deal]]></title>
+            <description><![CDATA[The nuclear submarine deal with Australia has angered France and raised fears of a war with China.]]></description>
+            <link>https://www.bbc.co.uk/news/world-58592613?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-58592613</guid>
+            <pubDate>Fri, 17 Sep 2021 08:35:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[GB News: I became a minority of one, says Andrew Neil]]></title>
@@ -69,7 +69,7 @@
             <description><![CDATA[Fire-resistant blankets protect General Sherman and other sequoias as a California blaze closes in.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-58592376?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58592376</guid>
-            <pubDate>Fri, 17 Sep 2021 05:41:07 GMT</pubDate>
+            <pubDate>Fri, 17 Sep 2021 10:00:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Long Covid less common than feared - ONS study]]></title>
@@ -226,18 +226,25 @@
             <pubDate>Fri, 17 Sep 2021 00:14:18 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[New Zealand abandon Pakistan tour after 'government security alert']]></title>
+            <description><![CDATA[New Zealand abandon their limited-overs tour of Pakistan following a New Zealand government "security alert".]]></description>
+            <link>https://www.bbc.co.uk/sport/cricket/58596722?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/cricket/58596722</guid>
+            <pubDate>Fri, 17 Sep 2021 09:49:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['It almost feels like it's not me playing' - Raducanu on watching US Open final for first time]]></title>
+            <description><![CDATA[US Open champion Emma Raducanu says it felt like somebody else was playing as she watched Saturday's final for the first time on returning home.]]></description>
+            <link>https://www.bbc.co.uk/sport/tennis/58593870?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/58593870</guid>
+            <pubDate>Fri, 17 Sep 2021 09:40:01 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Jon Rahm: European Ryder Cup star improving after stomach problems]]></title>
             <description><![CDATA[World number one Jon Rahm says he is feeling "OK" after a suffering a stomach ailment as he prepares for next week's Ryder Cup at a PGA Tour event in California.]]></description>
             <link>https://www.bbc.co.uk/sport/golf/58593739?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/golf/58593739</guid>
             <pubDate>Fri, 17 Sep 2021 07:03:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['This young team will learn' - Leicester blow two-goal lead to draw with Napoli ]]></title>
-            <description><![CDATA[Leicester are denied victory in their Europa League opener after Napoli's Victor Osimhen scores twice in the second half.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58519071?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58519071</guid>
-            <pubDate>Thu, 16 Sep 2021 22:00:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[England v New Zealand: Heather Knight stars as hosts win ODI opener in Bristol]]></title>
@@ -247,25 +254,18 @@
             <pubDate>Thu, 16 Sep 2021 19:28:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Lyon consign Rangers to opening defeat in Europa League]]></title>
-            <description><![CDATA[Rangers suffer defeat in their opening Europa League group game after being clinically dispatched by Lyon.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58493153?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58493153</guid>
-            <pubDate>Thu, 16 Sep 2021 21:48:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['I have very vivid memories' - Ricciardo on his lack of sleep since Monza win]]></title>
-            <description><![CDATA[You would think, after a troubled first half to the season, Daniel Ricciardo's taste of victory would afford him some rest - not a bit of it.]]></description>
-            <link>https://www.bbc.co.uk/sport/formula1/58578393?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/formula1/58578393</guid>
-            <pubDate>Thu, 16 Sep 2021 13:18:37 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[England v New Zealand ODI: Captain Heather Knight's 89 sets up victory for hosts]]></title>
             <description><![CDATA[Watch the best shots of Heather Knight's 89 as the England captain lays the foundation for a 30-run victory over New Zealand in the first one-day international of their five-match series.]]></description>
             <link>https://www.bbc.co.uk/sport/av/cricket/58586316?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/av/cricket/58586316</guid>
             <pubDate>Thu, 16 Sep 2021 20:16:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Chandler Jones & Max Crosby: Meet the players flattening quarterbacks in the NFL this week]]></title>
+            <description><![CDATA[Osi Umenyiora and Jason Bell take a look back at some stellar defensive displays from Chandler Jones and Max Crosby from the opening week of the NFL.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/american-football/58588152?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/av/american-football/58588152</guid>
+            <pubDate>Thu, 16 Sep 2021 15:18:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What are the travel rules now?]]></title>

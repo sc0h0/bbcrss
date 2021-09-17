@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 17 Sep 2021 09:48:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Sep 2021 10:03:04 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -128,11 +128,18 @@
             <pubDate>Thu, 16 Sep 2021 05:23:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[England v New Zealand: Heather Knight stars as hosts win ODI opener in Bristol]]></title>
-            <description><![CDATA[England overcome a stuttering batting performance to beat New Zealand by 30 runs in a close first one-day international in Bristol.]]></description>
-            <link>https://www.bbc.co.uk/sport/cricket/58588012?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/cricket/58588012</guid>
-            <pubDate>Thu, 16 Sep 2021 19:28:59 GMT</pubDate>
+            <title><![CDATA[Emma Raducanu on watching her US Open final, meeting Lewis Hamilton & her mum's cooking]]></title>
+            <description><![CDATA[US Open champion Emma Raducanu says it felt like somebody else was playing as she watched Saturday's final for the first time on returning home.]]></description>
+            <link>https://www.bbc.co.uk/sport/tennis/58593870?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/58593870</guid>
+            <pubDate>Fri, 17 Sep 2021 09:40:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pat Lam: Bristol Bears director of rugby signs new contract through to 2028]]></title>
+            <description><![CDATA[Bristol director of rugby Pat Lam signs a new contract with the Premiership club to keep him at Ashton Gate until the summer of 2028.]]></description>
+            <link>https://www.bbc.co.uk/sport/rugby-union/58594432?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/rugby-union/58594432</guid>
+            <pubDate>Fri, 17 Sep 2021 09:58:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[England v North Macedonia: 'We want to make fans proud' - Sarina Wiegman]]></title>
@@ -154,13 +161,6 @@
             <link>https://www.bbc.co.uk/sport/rugby-league/58591143?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/rugby-league/58591143</guid>
             <pubDate>Fri, 17 Sep 2021 07:56:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Leicester City 2-2 Napoli: Group favourites level after exciting encounter]]></title>
-            <description><![CDATA[Leicester are denied victory in their Europa League opener after Napoli's Victor Osimhen scores twice in the second half.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58519071?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58519071</guid>
-            <pubDate>Thu, 16 Sep 2021 22:00:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
