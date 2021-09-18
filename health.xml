@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 18 Sep 2021 19:52:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Sep 2021 20:15:45 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -345,6 +345,13 @@
             <pubDate>Sat, 18 Sep 2021 00:19:09 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Sickle cell: 'Did our son have to die to change things?']]></title>
+            <description><![CDATA[It's the fastest-growing genetic condition in the UK but some feel the illness, which mostly affects black people, isn't taken seriously.]]></description>
+            <link>https://www.bbc.co.uk/news/newsbeat-58599462?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/newsbeat-58599462</guid>
+            <pubDate>Fri, 17 Sep 2021 13:11:12 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Manchester music cafe brings joy to people with dementia]]></title>
             <description><![CDATA[People with dementia sing, play instruments and dance at the music cafe, says Manchester Camerata.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-manchester-58595926?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -364,13 +371,6 @@
             <link>https://www.bbc.co.uk/news/uk-58569846?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58569846</guid>
             <pubDate>Wed, 15 Sep 2021 08:32:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Call for South Asian bone marrow donors to save four-year-old]]></title>
-            <description><![CDATA[Esha Nadeswaran from London has leukaemia and needs a stem cell donor to save her life.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58551967?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58551967</guid>
-            <pubDate>Tue, 14 Sep 2021 23:00:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
