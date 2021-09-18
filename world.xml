@@ -11,17 +11,10 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 18 Sep 2021 10:15:45 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Sep 2021 11:01:48 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
-        <item>
-            <title><![CDATA[Aukus: France recalls envoys amid security pact row]]></title>
-            <description><![CDATA[The "exceptional decision" follows a pact between Australia, the US and UK, which scuppered a French deal.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58604677?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58604677</guid>
-            <pubDate>Fri, 17 Sep 2021 21:58:32 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Afghanistan: Girls excluded as Afghan secondary schools reopen]]></title>
             <description><![CDATA["Everything looks very dark," a schoolgirl tells the BBC as schools reopen for boys but not girls.]]></description>
@@ -30,11 +23,11 @@
             <pubDate>Sat, 18 Sep 2021 10:14:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Afghanistan: US admits Kabul drone strike killed civilians]]></title>
-            <description><![CDATA[An inquiry finds the strike, days before the US pullout, killed 10 members of a family - not militants.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-58604655?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58604655</guid>
-            <pubDate>Sat, 18 Sep 2021 03:51:53 GMT</pubDate>
+            <title><![CDATA[Aukus: France recalls envoys amid security pact row]]></title>
+            <description><![CDATA[The "exceptional decision" follows a pact between Australia, the US and UK, which scuppered a French deal.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58604677?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58604677</guid>
+            <pubDate>Fri, 17 Sep 2021 21:58:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Gabby Petito: Fiance Brian Laundrie goes missing too]]></title>
@@ -58,18 +51,18 @@
             <pubDate>Sat, 18 Sep 2021 02:53:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Migrants in Texas: US 'to fly thousands back to Haiti']]></title>
-            <description><![CDATA[Thousands of migrants are camping under a Texas-Mexico border bridge, in squalid conditions.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-58607603?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58607603</guid>
-            <pubDate>Sat, 18 Sep 2021 07:38:42 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Canada election: Why it takes 30 years to buy a house in Canada]]></title>
             <description><![CDATA[Canada's skyrocketing housing costs have become a key election issue this year.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-58495604?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58495604</guid>
             <pubDate>Sat, 18 Sep 2021 00:31:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Migrants in Texas: US 'to fly thousands back to Haiti']]></title>
+            <description><![CDATA[Thousands of migrants are camping under a Texas-Mexico border bridge, in squalid conditions.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-58607603?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58607603</guid>
+            <pubDate>Sat, 18 Sep 2021 07:38:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Brazil legend Pele says he is 'recovering very well' after surgery]]></title>
@@ -84,6 +77,13 @@
             <link>https://www.bbc.co.uk/news/world-us-canada-58605001?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58605001</guid>
             <pubDate>Fri, 17 Sep 2021 20:14:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Afghanistan: US admits Kabul drone strike killed civilians]]></title>
+            <description><![CDATA[An inquiry finds the strike, days before the US pullout, killed 10 members of a family - not militants.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-58604655?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58604655</guid>
+            <pubDate>Sat, 18 Sep 2021 03:51:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Chess icon sues Netflix for Queen's Gambit portrayal]]></title>
