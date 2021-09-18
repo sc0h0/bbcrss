@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 18 Sep 2021 18:27:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Sep 2021 18:44:29 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -23,18 +23,18 @@
             <pubDate>Sat, 18 Sep 2021 12:24:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Homelessness: Rise in households in temporary accommodation]]></title>
-            <description><![CDATA[There were 3,402 households in temporary accommodation in August - up 65% on January 2019.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58602977?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58602977</guid>
-            <pubDate>Sat, 18 Sep 2021 07:09:49 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Rathfriland: Boy, 16, arrested after car drives into band parade]]></title>
             <description><![CDATA[Two men suffered minor injuries after a car drove into the band parade in the Newry Street area.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58607794?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58607794</guid>
             <pubDate>Sat, 18 Sep 2021 14:48:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NI100: Michael D Higgins' invite to centenary event emerges]]></title>
+            <description><![CDATA[Michael D Higgins says the title of the church service to be held in Armagh had become "political".]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58612070?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58612070</guid>
+            <pubDate>Sat, 18 Sep 2021 18:26:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: NI records six Covid-linked deaths, 1,072 cases]]></title>
@@ -44,20 +44,6 @@
             <pubDate>Sat, 18 Sep 2021 13:29:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Coronvirus: Saliva tests considered for mainstream SEN pupils]]></title>
-            <description><![CDATA[Some parents of special-needs pupils in mainstream schools say swab-based testing is "traumatic".]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58601609?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58601609</guid>
-            <pubDate>Sat, 18 Sep 2021 06:12:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Murderer Samuel McKinley unlawfully at large again]]></title>
-            <description><![CDATA[The 60-year-old, from Belfast, has absconded from HMP Maghaberry a number of times.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58602979?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58602979</guid>
-            <pubDate>Fri, 17 Sep 2021 21:10:50 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Three appear in court over £440k drugs finds in Belfast]]></title>
             <description><![CDATA[The drugs were found in the boot of a taxi and at an apartment in Belfast, a court hears.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58609112?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -65,11 +51,39 @@
             <pubDate>Sat, 18 Sep 2021 15:22:37 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[NI100: Stormont hosts largest ever gathering of Lambeg drummers]]></title>
+            <description><![CDATA[More than 100 drummers take part in the event held to mark the centenary of Northern Ireland.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58612163?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58612163</guid>
+            <pubDate>Sat, 18 Sep 2021 18:35:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronvirus: Saliva tests considered for mainstream SEN pupils]]></title>
+            <description><![CDATA[Some parents of special-needs pupils in mainstream schools say swab-based testing is "traumatic".]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58601609?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58601609</guid>
+            <pubDate>Sat, 18 Sep 2021 06:12:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Homelessness: Rise in households in temporary accommodation]]></title>
+            <description><![CDATA[There were 3,402 households in temporary accommodation in August - up 65% on January 2019.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58602977?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58602977</guid>
+            <pubDate>Sat, 18 Sep 2021 07:09:49 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Menopause: Women share symptoms and support in Belfast cafe]]></title>
             <description><![CDATA[A menopause cafe in Belfast helps women who need support or are confused about symptoms.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58596628?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58596628</guid>
             <pubDate>Sat, 18 Sep 2021 06:22:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Murderer Samuel McKinley unlawfully at large again]]></title>
+            <description><![CDATA[The 60-year-old, from Belfast, has absconded from HMP Maghaberry a number of times.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58602979?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58602979</guid>
+            <pubDate>Fri, 17 Sep 2021 21:10:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bank accounts frozen in operation against New IRA]]></title>
@@ -91,20 +105,6 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58596631?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58596631</guid>
             <pubDate>Sat, 18 Sep 2021 06:38:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lyra McKee: Two men accused of murder appear in court]]></title>
-            <description><![CDATA[Ms McKee, who was 29, was observing rioting in the Creggan estate when she was shot on 18 April 2019.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58593564?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58593564</guid>
-            <pubDate>Fri, 17 Sep 2021 19:45:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NI100: Michael D Higgins defends decision not to attend centenary event]]></title>
-            <description><![CDATA[Michael D Higgins says the title of the church service to be held in Armagh had become "political".]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58589593?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58589593</guid>
-            <pubDate>Fri, 17 Sep 2021 22:26:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Teens and over 50s in Northern Ireland to be offered flu jab]]></title>
@@ -205,6 +205,13 @@
             <pubDate>Thu, 16 Sep 2021 18:33:40 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Lyra McKee: Two men accused of murder appear in court]]></title>
+            <description><![CDATA[Ms McKee, who was 29, was observing rioting in the Creggan estate when she was shot on 18 April 2019.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58593564?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58593564</guid>
+            <pubDate>Fri, 17 Sep 2021 19:45:34 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Donegal crash: Man killed between Muff and Quigley's Point]]></title>
             <description><![CDATA[The man in his 80s died in the two-vehicle crash between Muff and Quigley's Point in County Donegal.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-58593563?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -224,13 +231,6 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-56907220?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-56907220</guid>
             <pubDate>Wed, 15 Sep 2021 08:42:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Londonderry: Man dies in Clooney Terrace house fire]]></title>
-            <description><![CDATA[Police are conducting enquiries but say at this stage the death is not being treated as suspicious.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58543068?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58543068</guid>
-            <pubDate>Mon, 13 Sep 2021 14:05:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Unsafe water failures 'put 900,000 people at risk']]></title>
