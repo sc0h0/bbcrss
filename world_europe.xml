@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 18 Sep 2021 23:06:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Sep 2021 23:24:02 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -58,6 +58,13 @@
             <pubDate>Fri, 17 Sep 2021 16:16:26 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Fake Paralympians boss: 'I didn't know about cheating']]></title>
+            <description><![CDATA[The man fined for sending non-disabled athletes to the Sydney Paralympics breaks his silence.]]></description>
+            <link>https://www.bbc.co.uk/news/stories-58598677?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/stories-58598677</guid>
+            <pubDate>Sat, 18 Sep 2021 23:22:03 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Aukus: Defence pact an awkward wake-up call for Europe]]></title>
             <description><![CDATA[As Australia, the UK and the US seal a security pact, the EU does not quite know where to look.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-58600454?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -100,6 +107,13 @@
             <pubDate>Tue, 14 Sep 2021 23:20:36 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Get an Eiffel of this performer walking the line in Paris]]></title>
+            <description><![CDATA[Nathan Paulin walks along a 70m (230ft) high slackline attached to an iconic French landmark.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58612966?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58612966</guid>
+            <pubDate>Sat, 18 Sep 2021 23:18:06 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Von der Leyen pushes for next level on EU defence]]></title>
             <description><![CDATA[The European Commission President has called for the power to intervene militarily without the US.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-58568277?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -126,13 +140,6 @@
             <link>https://www.bbc.co.uk/news/entertainment-arts-58428407?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-58428407</guid>
             <pubDate>Thu, 02 Sep 2021 17:06:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Irish society 'can begin to hope again', says Micheál Martin]]></title>
-            <description><![CDATA[The Taoiseach (Irish prime minister) announces plan to end most Covid-19 restrictions by 22 October.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58402941?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58402941</guid>
-            <pubDate>Tue, 31 Aug 2021 18:20:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
