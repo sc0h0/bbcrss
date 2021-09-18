@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 18 Sep 2021 12:36:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Sep 2021 13:55:56 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -23,6 +23,13 @@
             <pubDate>Sat, 18 Sep 2021 11:02:23 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Boy, nine, killed in hit-and-run van crash in Keighley]]></title>
+            <description><![CDATA[The boy and another pedestrian were reportedly struck by a driver who then left the scene.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-leeds-58609441?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-leeds-58609441</guid>
+            <pubDate>Sat, 18 Sep 2021 13:45:04 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Red Bull in trademark dispute with English gin firm Bullards]]></title>
             <description><![CDATA[The Austrian energy drink company is pursuing a legal challenge over the use of the word "bull".]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-norfolk-58607923?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -30,25 +37,18 @@
             <pubDate>Sat, 18 Sep 2021 08:47:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Dorman Long tower to be demolished after losing listed status]]></title>
-            <description><![CDATA[Historic England's protection of the 1950s Redcar building was quashed by the culture secretary.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-tees-58608318?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-tees-58608318</guid>
-            <pubDate>Sat, 18 Sep 2021 09:31:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['Dachshund disco is a children's party for your dog']]></title>
-            <description><![CDATA[Organisers James Morgan and Anushka Fernando want to help dogs socialise again after lockdown.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-leicestershire-58547748?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-leicestershire-58547748</guid>
-            <pubDate>Sat, 18 Sep 2021 06:33:38 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Eye test on Leicestershire girl, 11, led to brain tumour discovery]]></title>
             <description><![CDATA[Grace, from Great Glen, was diagnosed the day before she was due to start secondary school.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-leicestershire-58596732?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-leicestershire-58596732</guid>
             <pubDate>Sat, 18 Sep 2021 06:40:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Festival of Rescue sees firefighters showcase skills]]></title>
+            <description><![CDATA[More than 300 firefighters from around the UK demonstrate their expertise in a mass public exercise.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-tyne-58599180?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-tyne-58599180</guid>
+            <pubDate>Sat, 18 Sep 2021 11:41:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Town to hold memorial service for victims of coronavirus]]></title>
@@ -65,18 +65,18 @@
             <pubDate>Sat, 18 Sep 2021 06:45:06 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA['Dachshund disco is a children's party for your dog']]></title>
+            <description><![CDATA[Organisers James Morgan and Anushka Fernando want to help dogs socialise again after lockdown.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-leicestershire-58547748?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-leicestershire-58547748</guid>
+            <pubDate>Sat, 18 Sep 2021 06:33:38 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Everybody's Talking About Jamie: Sheffield welcomes home coming-of-age story]]></title>
             <description><![CDATA[Jamie Campbell salutes Sheffield's role in the story of his extraordinary life.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-south-yorkshire-58570178?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-south-yorkshire-58570178</guid>
             <pubDate>Sat, 18 Sep 2021 06:22:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Festival of Rescue sees firefighters showcase skills]]></title>
-            <description><![CDATA[More than 300 firefighters from around the UK demonstrate their expertise in a mass public exercise.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-tyne-58599180?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-tyne-58599180</guid>
-            <pubDate>Sat, 18 Sep 2021 11:41:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How West Yorkshire influences the fashion world]]></title>
@@ -86,11 +86,11 @@
             <pubDate>Sat, 18 Sep 2021 06:26:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Bristol strip clubs to stay open despite proposed ban]]></title>
-            <description><![CDATA[Bristol councillors pass two strip club licensing renewal application despite numerous objections.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-bristol-58597809?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-bristol-58597809</guid>
-            <pubDate>Sat, 18 Sep 2021 06:38:22 GMT</pubDate>
+            <title><![CDATA[Dorman Long tower to be demolished after losing listed status]]></title>
+            <description><![CDATA[Historic England's protection of the 1950s Redcar building was quashed by the culture secretary.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-tees-58608318?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-tees-58608318</guid>
+            <pubDate>Sat, 18 Sep 2021 09:31:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Abdirahim Mohamed: Fourth murder charge in Leicester stab probe]]></title>
@@ -177,18 +177,18 @@
             <pubDate>Fri, 17 Sep 2021 16:15:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Sarina Wiegman gives glimpse of England future with 'OK' performance in 8-0 win]]></title>
-            <description><![CDATA[Sarina Wiegman's England tenure started with an 8-0 thrashing of North Macedonia but she still demanded more.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58600821?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58600821</guid>
-            <pubDate>Fri, 17 Sep 2021 22:19:04 GMT</pubDate>
+            <title><![CDATA[Wolves 0-2 Brentford: Bees claim first Premier League away win]]></title>
+            <description><![CDATA[Brentford claim their first win on the road in the Premier League with a comfortable victory over Wolves at Molineux.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58525373?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58525373</guid>
+            <pubDate>Sat, 18 Sep 2021 13:55:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Steve Bruce: Newcastle boss battles on after 'difficult' night against Leeds]]></title>
-            <description><![CDATA[Newcastle boss Steve Bruce admits he faced a "difficult" night against Leeds when fans turned on him.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58605536?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58605536</guid>
-            <pubDate>Sat, 18 Sep 2021 05:16:08 GMT</pubDate>
+            <title><![CDATA[T20 Blast Finals Day: Somerset beat Hampshire in Edgbaston semi-final]]></title>
+            <description><![CDATA[Somerset rally superbly from 79-6 to beat Hampshire by two wickets and reach their first T20 final in 10 years.]]></description>
+            <link>https://www.bbc.co.uk/sport/cricket/58609097?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/cricket/58609097</guid>
+            <pubDate>Sat, 18 Sep 2021 13:55:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
