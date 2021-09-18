@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 18 Sep 2021 17:47:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Sep 2021 18:07:36 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -254,13 +254,6 @@
             <pubDate>Sun, 12 Sep 2021 13:31:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Hungary 0-2 Scotland: Losa 'proud' of players after earning debut win]]></title>
-            <description><![CDATA[Scotland boss Pedro Martinez Losa says he is "proud" of his players after earning a 2-0 victory in Hungary in his first game as national team manager.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58605191?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58605191</guid>
-            <pubDate>Sat, 18 Sep 2021 08:04:48 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Hibernian 2-2 St Mirren: Hibs spurn chance to go top of table]]></title>
             <description><![CDATA[Hibernian blow the chance of going clear at the top of the Scottish Premiership as St Mirren staged a dramatic comeback to draw at Easter Road.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58525350?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -287,6 +280,13 @@
             <link>https://www.bbc.co.uk/sport/scotland/58611575?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/scotland/58611575</guid>
             <pubDate>Sat, 18 Sep 2021 17:34:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hungary 0-2 Scotland: Losa 'proud' of players after earning debut win]]></title>
+            <description><![CDATA[Scotland boss Pedro Martinez Losa says he is "proud" of his players after earning a 2-0 victory in Hungary in his first game as national team manager.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58605191?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58605191</guid>
+            <pubDate>Sat, 18 Sep 2021 08:04:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
