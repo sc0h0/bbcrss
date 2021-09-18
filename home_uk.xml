@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 18 Sep 2021 06:37:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Sep 2021 06:54:28 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -20,7 +20,7 @@
             <description><![CDATA[Travel agents report a rise in bookings after the amber list is scrapped and testing rules are eased.]]></description>
             <link>https://www.bbc.co.uk/news/uk-58606870?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58606870</guid>
-            <pubDate>Sat, 18 Sep 2021 03:13:34 GMT</pubDate>
+            <pubDate>Sat, 18 Sep 2021 06:40:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Aukus: France recalls envoys amid security pact row]]></title>
@@ -163,18 +163,18 @@
             <pubDate>Fri, 17 Sep 2021 12:12:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Climate change: Should green campaigners put more pressure on China to slash emissions?]]></title>
-            <description><![CDATA[UK activists have protested on the M25, but should they instead be picketing China's embassy?]]></description>
-            <link>https://www.bbc.co.uk/news/science-environment-58584976?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/science-environment-58584976</guid>
-            <pubDate>Sat, 18 Sep 2021 01:01:07 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Strictly Come Dancing: 15 things we learned from the stars of 2021]]></title>
             <description><![CDATA[A round-up of 15 things we learned from this year's Strictly Come Dancing celebrities.]]></description>
             <link>https://www.bbc.co.uk/news/entertainment-arts-58271367?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-58271367</guid>
             <pubDate>Sat, 18 Sep 2021 00:44:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Climate change: Should green campaigners put more pressure on China to slash emissions?]]></title>
+            <description><![CDATA[UK activists have protested on the M25, but should they instead be picketing China's embassy?]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-58584976?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/science-environment-58584976</guid>
+            <pubDate>Sat, 18 Sep 2021 01:01:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['There’s security but no money': Afghans settle into life under Taliban rule]]></title>
@@ -254,13 +254,6 @@
             <pubDate>Fri, 17 Sep 2021 21:00:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Scotland's Martinez Losa era begins with deserved win in Hungary]]></title>
-            <description><![CDATA[Scotland usher in the Pedro Martinez Losa era with a deserved victory over Hungary to open their Women's World Cup qualifying campaign in Budapest.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58537381?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58537381</guid>
-            <pubDate>Fri, 17 Sep 2021 19:59:33 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Lozowski kicks Saracens to win at Bristol on Premiership return]]></title>
             <description><![CDATA[Fly-half Alex Lozowski kicks 21 points as promoted Saracens win 26-9 at Bristol Bears on their return to the Premiership.]]></description>
             <link>https://www.bbc.co.uk/sport/rugby-union/58583644?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -280,6 +273,13 @@
             <link>https://www.bbc.co.uk/sport/av/football/58605442?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/av/football/58605442</guid>
             <pubDate>Fri, 17 Sep 2021 22:51:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Scotland's Martinez Losa era begins with deserved win in Hungary]]></title>
+            <description><![CDATA[Scotland usher in the Pedro Martinez Losa era with a deserved victory over Hungary to open their Women's World Cup qualifying campaign in Budapest.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58537381?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58537381</guid>
+            <pubDate>Fri, 17 Sep 2021 19:59:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What are the travel rules now and for half term?]]></title>
