@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 18 Sep 2021 22:51:26 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Sep 2021 23:08:51 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -72,18 +72,18 @@
             <pubDate>Sat, 18 Sep 2021 06:35:23 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The link between climate change, seaweed and ice cream]]></title>
+            <description><![CDATA[Seaweed production has been affected by warming seas – this is how farmers are adapting.]]></description>
+            <link>https://www.bbc.co.uk/news/stories-58582499?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/stories-58582499</guid>
+            <pubDate>Sat, 18 Sep 2021 23:07:27 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Abdelaziz Bouteflika: Former Algerian president dies aged 84]]></title>
             <description><![CDATA[Bouteflika led Algeria for 20 years, but his bid for a fifth term led to huge protests in 2019.]]></description>
             <link>https://www.bbc.co.uk/news/world-africa-58605626?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-africa-58605626</guid>
             <pubDate>Sat, 18 Sep 2021 02:53:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Police warn of threats ahead of right-wing rally at US Capitol]]></title>
-            <description><![CDATA[Fencing has been erected at the US Capitol to prevent chaos similar to the 6 January pro-Trump riot.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-58605001?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58605001</guid>
-            <pubDate>Fri, 17 Sep 2021 20:14:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Afghanistan: US admits Kabul drone strike killed civilians]]></title>
@@ -170,6 +170,13 @@
             <pubDate>Sat, 18 Sep 2021 13:08:43 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[From Katrina to Ida: How US presidents react to climate change and natural disasters]]></title>
+            <description><![CDATA[Since Hurricane Katrina in 2005, US presidents have realised the impact of their reactions to extreme weather.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-58561655?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58561655</guid>
+            <pubDate>Sat, 18 Sep 2021 23:02:19 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Afghanistan: Kabul drone strike a terrible mistake, says US]]></title>
             <description><![CDATA[Gen Frank McKenzie says the US "takes full responsibility" for the strike in which 10 Afghan civilians died.]]></description>
             <link>https://www.bbc.co.uk/news/world-58607482?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -189,13 +196,6 @@
             <link>https://www.bbc.co.uk/news/world-us-canada-58577039?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58577039</guid>
             <pubDate>Thu, 16 Sep 2021 23:07:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[North Korea reveals train-launched missile system]]></title>
-            <description><![CDATA[North Korean state media has unveiled what appears to be a new rail-based ballistic missile system.]]></description>
-            <link>https://www.bbc.co.uk/news/world-58588272?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-58588272</guid>
-            <pubDate>Thu, 16 Sep 2021 15:38:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
