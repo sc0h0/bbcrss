@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 18 Sep 2021 15:39:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Sep 2021 15:51:07 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -72,6 +72,13 @@
             <pubDate>Sat, 18 Sep 2021 06:22:20 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Bank accounts frozen in operation against New IRA]]></title>
+            <description><![CDATA[Police confirm they were granted 20 account freezing orders at courts in Belfast and London.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58609109?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58609109</guid>
+            <pubDate>Sat, 18 Sep 2021 15:42:59 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Q&A: The NI Protocol medicines issue explained]]></title>
             <description><![CDATA[Why has the supply of medicines into Northern Ireland become an issue post Brexit?]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58596631?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -84,13 +91,6 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58593564?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58593564</guid>
             <pubDate>Fri, 17 Sep 2021 19:45:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Unsafe water failures 'put 900,000 people at risk']]></title>
-            <description><![CDATA[Unsafe water entered the public drinking water supply in Ireland at two water treatment plants.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58607793?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58607793</guid>
-            <pubDate>Sat, 18 Sep 2021 12:59:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[NI100: Michael D Higgins defends decision not to attend centenary event]]></title>
@@ -226,6 +226,13 @@
             <pubDate>Mon, 13 Sep 2021 14:05:28 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Unsafe water failures 'put 900,000 people at risk']]></title>
+            <description><![CDATA[Unsafe water entered the public drinking water supply in Ireland at two water treatment plants.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58607793?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58607793</guid>
+            <pubDate>Sat, 18 Sep 2021 12:59:59 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Donegal: Mica families to submit redress proposals to minister]]></title>
             <description><![CDATA[A man whose home was demolished says the scandal shows that Donegal "is the forgotten county".]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-58591286?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -252,13 +259,6 @@
             <link>https://www.bbc.co.uk/news/world-europe-58548728?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58548728</guid>
             <pubDate>Wed, 15 Sep 2021 21:43:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Eric Eoin Marques: Irish man jailed in US for child abuse images]]></title>
-            <description><![CDATA[The FBI called Irish man Eric Eoin Marques the world's largest facilitator of online child sex abuse.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58582817?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58582817</guid>
-            <pubDate>Thu, 16 Sep 2021 10:04:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
