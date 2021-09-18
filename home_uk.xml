@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 18 Sep 2021 03:30:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Sep 2021 03:40:27 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -30,13 +30,6 @@
             <pubDate>Fri, 17 Sep 2021 21:58:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Afghanistan: US admits Kabul drone strike killed civilians]]></title>
-            <description><![CDATA[The strike, days before the US pullout, killed 10 members of a family, not militants, an inquiry finds.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-58604655?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58604655</guid>
-            <pubDate>Fri, 17 Sep 2021 21:01:24 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Gas price rises prompt urgent government talks]]></title>
             <description><![CDATA[There are concerns the high price of wholesale gas could have a far-reaching impact on the economy.]]></description>
             <link>https://www.bbc.co.uk/news/uk-58605735?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -44,11 +37,18 @@
             <pubDate>Sat, 18 Sep 2021 00:54:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Pele: Brazil football legend 'recovering well' says daughter]]></title>
-            <description><![CDATA[Brazilian legend Pele is "recovering well" from a recent operation, his daughter says, after he had been readmitted to intensive care.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58604541?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58604541</guid>
-            <pubDate>Fri, 17 Sep 2021 22:13:56 GMT</pubDate>
+            <title><![CDATA[Afghanistan: US admits Kabul drone strike killed civilians]]></title>
+            <description><![CDATA[The strike, days before the US pullout, killed 10 members of a family, not militants, an inquiry finds.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-58604655?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58604655</guid>
+            <pubDate>Fri, 17 Sep 2021 21:01:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Robert Durst convicted: US millionaire found guilty of first-degree murder]]></title>
+            <description><![CDATA[Durst was convicted of killing his best friend Susan Berman in 2000, and is likely to die in prison.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-58605688?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58605688</guid>
+            <pubDate>Fri, 17 Sep 2021 23:53:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[More than half of Department for Transport cars still diesel]]></title>
@@ -72,13 +72,6 @@
             <pubDate>Fri, 17 Sep 2021 19:56:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Robert Durst convicted: US millionaire found guilty of first-degree murder]]></title>
-            <description><![CDATA[Durst was convicted of killing his best friend Susan Berman in 2000, and is likely to die in prison.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-58605688?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58605688</guid>
-            <pubDate>Fri, 17 Sep 2021 23:53:08 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Covid calculator spots people vulnerable despite jabs]]></title>
             <description><![CDATA[An online tool could help doctors identify those who would benefit from boosters or early therapy.]]></description>
             <link>https://www.bbc.co.uk/news/health-58599482?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -98,6 +91,13 @@
             <link>https://www.bbc.co.uk/news/uk-england-somerset-58602051?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-somerset-58602051</guid>
             <pubDate>Fri, 17 Sep 2021 18:51:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pele: Brazil football legend 'recovering well' says daughter]]></title>
+            <description><![CDATA[Brazilian legend Pele is "recovering well" from a recent operation, his daughter says, after he had been readmitted to intensive care.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58604541?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58604541</guid>
+            <pubDate>Fri, 17 Sep 2021 22:13:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The papers: Holiday bookings 'surge' and gas price rises]]></title>
