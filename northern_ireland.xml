@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 18 Sep 2021 08:44:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Sep 2021 08:54:53 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -31,7 +31,7 @@
         </item>
         <item>
             <title><![CDATA[Homelessness: Rise in households in temporary accommodation]]></title>
-            <description><![CDATA[There were 3,402 NI households in temporary accommodation in August - up from 2,065 in January 2019.]]></description>
+            <description><![CDATA[There were 3,402 households in temporary accommodation in August - up 65% on January 2019.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58602977?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58602977</guid>
             <pubDate>Sat, 18 Sep 2021 07:09:49 GMT</pubDate>
@@ -56,6 +56,13 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58593564?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58593564</guid>
             <pubDate>Fri, 17 Sep 2021 19:45:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Unsafe water failures 'put 900,000 people at risk']]></title>
+            <description><![CDATA[Unsafe water entered the public drinking water supply in Ireland at two water treatment plants.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58607793?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58607793</guid>
+            <pubDate>Sat, 18 Sep 2021 08:43:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[NI100: Michael D Higgins defends decision not to attend centenary event]]></title>
@@ -238,13 +245,6 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58543068?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58543068</guid>
             <pubDate>Mon, 13 Sep 2021 14:05:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Unsafe water failures 'put 900,000 people at risk']]></title>
-            <description><![CDATA[Unsafe water entered the public drinking water supply in Ireland two water treatment plants.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58607793?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58607793</guid>
-            <pubDate>Sat, 18 Sep 2021 08:43:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Donegal: Mica families to submit redress proposals to minister]]></title>
