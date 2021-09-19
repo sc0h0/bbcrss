@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 19 Sep 2021 21:05:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Sep 2021 21:20:00 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -261,13 +261,6 @@
             <pubDate>Sun, 12 Sep 2021 13:31:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Watch: Sunday Sportscene - Scottish Premiership highlights]]></title>
-            <description><![CDATA[Watch highlights of Sunday's Scottish Premiership matches on Sportscene.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/football/58548395?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/av/football/58548395</guid>
-            <pubDate>Sun, 19 Sep 2021 18:12:28 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Livingston 1-0 Celtic: Visitors slump to fourth defeat in five for Ange Postecoglou's side]]></title>
             <description><![CDATA[Beleaguered Celtic lose for the fourth time in five games in all competitions as Andrew Shinnie's goal lifts Livingston off the bottom of the Scottish Premiership.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58533921?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -294,6 +287,13 @@
             <link>https://www.bbc.co.uk/sport/football/58533922?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58533922</guid>
             <pubDate>Sun, 19 Sep 2021 12:57:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[James McFadden dissects Aberdeen's attacking shortcomings in their defeat to St Johnstone]]></title>
+            <description><![CDATA[Former Scotland forward James McFadden dissects Aberdeen's attacking shortcomings in their defeat to St Johnstone.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/football/58619517?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/av/football/58619517</guid>
+            <pubDate>Sun, 19 Sep 2021 20:08:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
