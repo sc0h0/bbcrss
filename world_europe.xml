@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 19 Sep 2021 17:42:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Sep 2021 18:05:05 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -114,6 +114,13 @@
             <pubDate>Tue, 14 Sep 2021 23:20:36 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Volcano on Canary Island La Palma erupts, spewing ash and lava into national park]]></title>
+            <description><![CDATA[Video shows the volcano, on La Palma, spewing ash and lava in its first major eruption since 1971.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58618487?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58618487</guid>
+            <pubDate>Sun, 19 Sep 2021 17:44:08 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Von der Leyen pushes for next level on EU defence]]></title>
             <description><![CDATA[The European Commission President has called for the power to intervene militarily without the US.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-58568277?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -140,13 +147,6 @@
             <link>https://www.bbc.co.uk/news/entertainment-arts-58428407?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-58428407</guid>
             <pubDate>Thu, 02 Sep 2021 17:06:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Irish society 'can begin to hope again', says Micheál Martin]]></title>
-            <description><![CDATA[The Taoiseach (Irish prime minister) announces plan to end most Covid-19 restrictions by 22 October.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58402941?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58402941</guid>
-            <pubDate>Tue, 31 Aug 2021 18:20:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
