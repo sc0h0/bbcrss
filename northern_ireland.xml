@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 19 Sep 2021 12:16:49 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Sep 2021 12:44:38 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -35,6 +35,13 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58436618?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58436618</guid>
             <pubDate>Sun, 19 Sep 2021 06:33:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19: 'Vaccine misinformation a dilemma for young people']]></title>
+            <description><![CDATA[NI's mental health champion says it has left young people questioning if Covid jab is safe.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58616080?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58616080</guid>
+            <pubDate>Sun, 19 Sep 2021 12:42:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[US Congress group warns Troubles plan 'a mistake']]></title>
@@ -91,13 +98,6 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58601609?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58601609</guid>
             <pubDate>Sat, 18 Sep 2021 06:12:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Homelessness: Rise in households in temporary accommodation]]></title>
-            <description><![CDATA[There were 3,402 households in temporary accommodation in August - up 65% on January 2019.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58602977?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58602977</guid>
-            <pubDate>Sat, 18 Sep 2021 07:09:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: NI records six Covid-linked deaths, 1,072 cases]]></title>
