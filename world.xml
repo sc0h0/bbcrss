@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 19 Sep 2021 15:20:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Sep 2021 15:35:09 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -55,7 +55,7 @@
             <description><![CDATA[South Africa's President Ramaphosa pays tribute to Jolidee Matongo, who died at the age of 46.]]></description>
             <link>https://www.bbc.co.uk/news/world-africa-58614669?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-africa-58614669</guid>
-            <pubDate>Sun, 19 Sep 2021 09:13:10 GMT</pubDate>
+            <pubDate>Sun, 19 Sep 2021 15:34:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Migrants in Texas: Thousands moved to processing centres]]></title>
@@ -100,6 +100,13 @@
             <pubDate>Sat, 18 Sep 2021 23:07:27 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[US-UK-Australia pact delivers France some hard truths]]></title>
+            <description><![CDATA[The BBC's Hugh Schofield assesses the harsh realities for France after Australia's US-UK deal.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58614229?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58614229</guid>
+            <pubDate>Sun, 19 Sep 2021 15:22:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[From Katrina to Ida: How US presidents react to climate change and natural disasters]]></title>
             <description><![CDATA[Since Hurricane Katrina in 2005, US presidents have realised the impact of their reactions to extreme weather.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-58561655?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -135,27 +142,6 @@
             <pubDate>Sun, 19 Sep 2021 01:14:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Canada election: Why it takes 30 years to buy a house in Canada]]></title>
-            <description><![CDATA[Canada's skyrocketing housing costs have become a key election issue this year.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-58495604?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58495604</guid>
-            <pubDate>Sat, 18 Sep 2021 00:31:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hyderabad rape suspect found dead: Is it murder or suicide?]]></title>
-            <description><![CDATA[Police say the 30-year-old man raped and killed a child in the city of Hyderabad last week.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-india-58592995?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-india-58592995</guid>
-            <pubDate>Sat, 18 Sep 2021 01:31:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[German elections: How Angela Merkel changed her country]]></title>
-            <description><![CDATA[Young people have never known another leader, and many worry for the future as old certainties shift.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58597504?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58597504</guid>
-            <pubDate>Sat, 18 Sep 2021 00:52:24 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[ICYMI: Surfing dogs and Spain's 'ugliest tomato' contest]]></title>
             <description><![CDATA[Dogs are making a splash in our round-up of the stories you may have missed this week.]]></description>
             <link>https://www.bbc.co.uk/news/world-58603174?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -184,11 +170,11 @@
             <pubDate>Sat, 18 Sep 2021 13:08:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Afghanistan: The escape of the whirling dancer]]></title>
-            <description><![CDATA[How the only female whirling dancer in Afghanistan made it out of Kabul.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58602631?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58602631</guid>
-            <pubDate>Fri, 17 Sep 2021 23:07:09 GMT</pubDate>
+            <title><![CDATA[Canada election: Why it takes 30 years to buy a house in Canada]]></title>
+            <description><![CDATA[Canada's skyrocketing housing costs have become a key election issue this year.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-58495604?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58495604</guid>
+            <pubDate>Sat, 18 Sep 2021 00:31:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
