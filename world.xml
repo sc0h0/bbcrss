@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 19 Sep 2021 15:35:09 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Sep 2021 17:44:54 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -142,6 +142,13 @@
             <pubDate>Sun, 19 Sep 2021 01:14:32 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Volcano on Canary Island La Palma erupts, spewing ash and lava into national park]]></title>
+            <description><![CDATA[Video shows the volcano, on La Palma, spewing ash and lava in its first major eruption since 1971.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58618487?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58618487</guid>
+            <pubDate>Sun, 19 Sep 2021 17:44:08 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[ICYMI: Surfing dogs and Spain's 'ugliest tomato' contest]]></title>
             <description><![CDATA[Dogs are making a splash in our round-up of the stories you may have missed this week.]]></description>
             <link>https://www.bbc.co.uk/news/world-58603174?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -168,13 +175,6 @@
             <link>https://www.bbc.co.uk/news/world-us-canada-58608496?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58608496</guid>
             <pubDate>Sat, 18 Sep 2021 13:08:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Canada election: Why it takes 30 years to buy a house in Canada]]></title>
-            <description><![CDATA[Canada's skyrocketing housing costs have become a key election issue this year.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-58495604?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58495604</guid>
-            <pubDate>Sat, 18 Sep 2021 00:31:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
