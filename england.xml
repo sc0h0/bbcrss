@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 19 Sep 2021 14:56:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Sep 2021 15:14:33 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -72,6 +72,13 @@
             <pubDate>Sun, 19 Sep 2021 12:40:08 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Witney rape: Woman attacked in St Mary's churchyard]]></title>
+            <description><![CDATA[The victim, in her 20s, is attacked by a man in the grounds of St Mary's Church in Witney.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-oxfordshire-58615287?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-oxfordshire-58615287</guid>
+            <pubDate>Sun, 19 Sep 2021 12:06:01 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Bluebird: Donald Campbell's craft dismantled in ownership row]]></title>
             <description><![CDATA[The move is the latest stage in a bitter row between the restorers and the Ruskin Museum.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-cumbria-58614899?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -119,20 +126,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-derbyshire-58597352?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-derbyshire-58597352</guid>
             <pubDate>Sun, 19 Sep 2021 06:14:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[LJ Ross: The self-published crime writer making a killing]]></title>
-            <description><![CDATA[She has sold more than seven million copies of her works since swapping financial law for crime writing.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-tyne-58305836?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-tyne-58305836</guid>
-            <pubDate>Sun, 19 Sep 2021 06:09:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Telephone box flower shop 'puts a smile on everybody's face']]></title>
-            <description><![CDATA[Vivienne Deitmers says she had to reinvent herself after being made redundant in lockdown.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-nottinghamshire-58574821?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-nottinghamshire-58574821</guid>
-            <pubDate>Sun, 19 Sep 2021 06:19:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Salford woman shares photographs of eczema flare-ups]]></title>
@@ -205,18 +198,18 @@
             <pubDate>Sat, 18 Sep 2021 14:57:55 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[West Ham 1-2 Man Utd: Cristiano Ronaldo and Jesse Lingard score]]></title>
+            <description><![CDATA[Jesse Lingard comes off the bench to score a stunning late winner against his old side as Manchester United dramatically come from behind to beat West Ham.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58533941?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58533941</guid>
+            <pubDate>Sun, 19 Sep 2021 15:14:01 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Jimmy Greaves: West Ham lead tributes for former striker]]></title>
             <description><![CDATA[West Ham lead the tributes for their former player Jimmy Greaves, who has died aged 81.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58616727?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58616727</guid>
             <pubDate>Sun, 19 Sep 2021 13:29:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[T20 Blast final: Kent Spitfires beat Somerset to lift trophy for second time]]></title>
-            <description><![CDATA[Kent Spitfires beat Somerset to win the T20 for the second time - 14 years on from their first triumph at Edgbaston]]></description>
-            <link>https://www.bbc.co.uk/sport/cricket/58609102?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/cricket/58609102</guid>
-            <pubDate>Sat, 18 Sep 2021 21:50:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
