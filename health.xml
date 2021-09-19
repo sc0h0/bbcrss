@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 19 Sep 2021 08:12:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Sep 2021 08:31:49 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -345,6 +345,13 @@
             <pubDate>Sat, 18 Sep 2021 00:19:09 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[‘The green gym has pulled me out of a rut’]]></title>
+            <description><![CDATA[Gardening is being offered as an alternative for some to lifting weights and running on treadmills.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58436618?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58436618</guid>
+            <pubDate>Sun, 19 Sep 2021 06:33:38 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Sickle cell: 'Did our son have to die to change things?']]></title>
             <description><![CDATA[It's the fastest-growing genetic condition in the UK but some feel the illness, which mostly affects black people, isn't taken seriously.]]></description>
             <link>https://www.bbc.co.uk/news/newsbeat-58599462?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -364,13 +371,6 @@
             <link>https://www.bbc.co.uk/news/entertainment-arts-58587690?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-58587690</guid>
             <pubDate>Fri, 17 Sep 2021 05:21:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sajid Javid: 'We need to avoid unsustainable pressure on the NHS']]></title>
-            <description><![CDATA[There will be "no single trigger" for bringing back coronavirus restrictions during winter, Sajid Javid says.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58569846?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58569846</guid>
-            <pubDate>Wed, 15 Sep 2021 08:32:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
