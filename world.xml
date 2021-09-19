@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 18 Sep 2021 23:42:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Sep 2021 00:02:26 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -21,6 +21,13 @@
             <link>https://www.bbc.co.uk/news/world-europe-58610234?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58610234</guid>
             <pubDate>Sat, 18 Sep 2021 22:49:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[SpaceX: Inspiration4 amateur astronauts return to Earth after three days]]></title>
+            <description><![CDATA[The four amateur astronauts landed safely in the Atlantic Ocean after three days orbiting Earth.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-58612961?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58612961</guid>
+            <pubDate>Sat, 18 Sep 2021 23:59:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Afghanistan: Girls excluded as Afghan secondary schools reopen]]></title>
@@ -51,13 +58,6 @@
             <pubDate>Sat, 18 Sep 2021 22:07:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Robert Durst convicted: US millionaire found guilty of first-degree murder]]></title>
-            <description><![CDATA[Durst was convicted of killing his best friend Susan Berman in 2000, and is likely to die in prison.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-58605688?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58605688</guid>
-            <pubDate>Sat, 18 Sep 2021 05:08:41 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Canada election: Why it takes 30 years to buy a house in Canada]]></title>
             <description><![CDATA[Canada's skyrocketing housing costs have become a key election issue this year.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-58495604?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -79,18 +79,18 @@
             <pubDate>Sat, 18 Sep 2021 23:07:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Abdelaziz Bouteflika: Former Algerian president dies aged 84]]></title>
-            <description><![CDATA[Bouteflika led Algeria for 20 years, but his bid for a fifth term led to huge protests in 2019.]]></description>
-            <link>https://www.bbc.co.uk/news/world-africa-58605626?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-africa-58605626</guid>
-            <pubDate>Sat, 18 Sep 2021 02:53:46 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[From Katrina to Ida: How US presidents react to climate change and natural disasters]]></title>
             <description><![CDATA[Since Hurricane Katrina in 2005, US presidents have realised the impact of their reactions to extreme weather.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-58561655?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58561655</guid>
             <pubDate>Sat, 18 Sep 2021 23:02:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Robert Durst convicted: US millionaire found guilty of first-degree murder]]></title>
+            <description><![CDATA[Durst was convicted of killing his best friend Susan Berman in 2000, and is likely to die in prison.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-58605688?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58605688</guid>
+            <pubDate>Sat, 18 Sep 2021 05:08:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Afghanistan: US admits Kabul drone strike killed civilians]]></title>
