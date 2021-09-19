@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 19 Sep 2021 16:58:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Sep 2021 17:24:18 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -44,18 +44,18 @@
             <pubDate>Sun, 19 Sep 2021 08:21:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[‘The green gym has pulled me out of a rut’]]></title>
-            <description><![CDATA[Gardening is being offered as an alternative for some to lifting weights and running on treadmills.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58436618?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58436618</guid>
-            <pubDate>Sun, 19 Sep 2021 06:33:38 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Coronavirus: Free NI hospital car parking ends after £6m spend]]></title>
             <description><![CDATA[The Department of Health said it could not divert funding to continue the Covid-19 policy beyond August.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58570838?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58570838</guid>
             <pubDate>Sun, 19 Sep 2021 06:17:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[‘The green gym has pulled me out of a rut’]]></title>
+            <description><![CDATA[Gardening is being offered as an alternative for some to lifting weights and running on treadmills.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58436618?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58436618</guid>
+            <pubDate>Sun, 19 Sep 2021 06:33:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Stormont holds 'gift of life' with organ donor bill]]></title>
@@ -240,6 +240,13 @@
             <pubDate>Wed, 15 Sep 2021 08:42:07 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Morgan Bullock makes professional debut in Riverdance]]></title>
+            <description><![CDATA[Morgan Bullock from Richmond, Virginia, joins the UK touring company of the acclaimed Irish dance show.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-58602633?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-58602633</guid>
+            <pubDate>Sat, 18 Sep 2021 23:22:34 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Unsafe water failures 'put 900,000 people at risk']]></title>
             <description><![CDATA[Unsafe water entered the public drinking water supply in Ireland at two water treatment plants.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-58607793?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -266,13 +273,6 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58579399?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58579399</guid>
             <pubDate>Thu, 16 Sep 2021 18:38:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Q&A: The Simon Coveney appointment row]]></title>
-            <description><![CDATA[Ireland's foreign affairs minister won a confidence motion over the appointment of a UN special envoy.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58548728?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58548728</guid>
-            <pubDate>Wed, 15 Sep 2021 21:43:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
