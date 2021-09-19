@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 19 Sep 2021 17:23:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Sep 2021 17:33:10 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -100,13 +100,6 @@
             <pubDate>Sun, 19 Sep 2021 16:17:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Dorman Long tower demolished in overnight explosion]]></title>
-            <description><![CDATA[Historic England's protection of the 1950s Redcar building was quashed by the culture secretary.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-tees-58615346?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-tees-58615346</guid>
-            <pubDate>Sun, 19 Sep 2021 09:34:59 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Northampton: 'Friends thought we were mad opening a shop here']]></title>
             <description><![CDATA[Northampton has lost a host of major retailers, but independent traders say it has a bright future.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-northamptonshire-58478116?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -163,11 +156,11 @@
             <pubDate>Fri, 17 Sep 2021 05:20:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Oldham Athletic fans hold protest against club's owners]]></title>
-            <description><![CDATA[More than 500 fans of Oldham Athletic FC carried a mock coffin in a protest outside the stadium.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-manchester-58610540?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-manchester-58610540</guid>
-            <pubDate>Sat, 18 Sep 2021 14:56:41 GMT</pubDate>
+            <title><![CDATA[Dorman Long tower demolished in overnight explosion]]></title>
+            <description><![CDATA[Historic England's protection of the 1950s Redcar building was quashed by the culture secretary.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-tees-58615346?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-tees-58615346</guid>
+            <pubDate>Sun, 19 Sep 2021 09:34:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Large samurai scroll among 27,000 items to be catalogued]]></title>
@@ -198,6 +191,13 @@
             <pubDate>Sat, 18 Sep 2021 14:57:55 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Tottenham Hotspur 0-3 Chelsea: Thomas Tuchel's side win London derby to extend unbeaten run]]></title>
+            <description><![CDATA[Chelsea stretch their unbeaten Premier League run to five games as Thomas Tuchel's team deservedly beat Tottenham.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58533942?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58533942</guid>
+            <pubDate>Sun, 19 Sep 2021 17:27:11 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[West Ham 1-2 Man Utd: Cristiano Ronaldo and Jesse Lingard score]]></title>
             <description><![CDATA[Jesse Lingard comes off the bench to score a stunning late winner against his old side as Manchester United dramatically come from behind to beat West Ham.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58533941?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -209,14 +209,7 @@
             <description><![CDATA[Rookie spinner Charlie Dean produces a superb spell to help England edge out New Zealand by 13 runs in a tense second one-day international at Worcester.]]></description>
             <link>https://www.bbc.co.uk/sport/cricket/58616737?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/cricket/58616737</guid>
-            <pubDate>Sun, 19 Sep 2021 17:20:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Premiership: Newcastle Falcons 20-26 Harlequins - Quins begin title defence with win]]></title>
-            <description><![CDATA[Champions Harlequins come through a tough start to their title defence from Newcastle Falcons in a thriller at Kingston Park.]]></description>
-            <link>https://www.bbc.co.uk/sport/rugby-union/58582709?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/rugby-union/58582709</guid>
-            <pubDate>Sun, 19 Sep 2021 16:04:04 GMT</pubDate>
+            <pubDate>Sun, 19 Sep 2021 17:31:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
