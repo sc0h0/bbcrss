@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 19 Sep 2021 08:49:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Sep 2021 09:09:15 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -28,6 +28,13 @@
             <link>https://www.bbc.co.uk/news/stories-58582499?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/stories-58582499</guid>
             <pubDate>Sat, 18 Sep 2021 23:07:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Germaine Acogny: 'The Mother of Contemporary African Dance']]></title>
+            <description><![CDATA[Germaine Acogny has recently been awarded the prestigious Golden Lion award at the Venice Biennale Dance festival. But what impact has she had on African contemporary dance?]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-58588092?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-africa-58588092</guid>
+            <pubDate>Sun, 19 Sep 2021 07:45:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Abdelaziz Bouteflika: Former Algerian president dies aged 84]]></title>
@@ -107,13 +114,6 @@
             <pubDate>Mon, 06 Sep 2021 23:54:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Germaine Acogny: 'The Mother of Contemporary African Dance']]></title>
-            <description><![CDATA[Germaine Acogny has recently been awarded the prestigious Golden Lion award at the Venice Biennale Dance festival. But what impact has she had on African contemporary dance?]]></description>
-            <link>https://www.bbc.co.uk/news/world-africa-58588092?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-africa-58588092</guid>
-            <pubDate>Sun, 19 Sep 2021 07:45:59 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Kenyan blogger: 'I thought I may never make it out of Qatar']]></title>
             <description><![CDATA[A Kenyan blogger who wrote about working conditions in Qatar was thrown into solitary confinement, given a huge fine and deported.]]></description>
             <link>https://www.bbc.co.uk/news/world-africa-58590800?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -154,6 +154,13 @@
             <link>https://www.bbc.co.uk/news/world-africa-58492598?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-africa-58492598</guid>
             <pubDate>Wed, 08 Sep 2021 23:09:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Gambia: Why is Yahya Jammeh's possible return causing such a stir?]]></title>
+            <description><![CDATA[The Gambia’s notorious and exiled former president could be seen back in the country and possibly on the political scene.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-58493641?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-africa-58493641</guid>
+            <pubDate>Wed, 08 Sep 2021 16:34:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
