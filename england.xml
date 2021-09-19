@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 19 Sep 2021 09:50:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Sep 2021 10:24:33 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -21,6 +21,13 @@
             <link>https://www.bbc.co.uk/news/uk-england-london-58585495?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-london-58585495</guid>
             <pubDate>Sun, 19 Sep 2021 09:19:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jimmy Greaves: Ex-England & Tottenham striker dies aged 81]]></title>
+            <description><![CDATA[World Cup-winning England striker and Tottenham's record goalscorer Jimmy Greaves dies at the age of 81.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58613988?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58613988</guid>
+            <pubDate>Sun, 19 Sep 2021 10:14:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Dorman Long tower demolished in overnight explosion]]></title>
@@ -91,13 +98,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-nottinghamshire-58574821?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-nottinghamshire-58574821</guid>
             <pubDate>Sun, 19 Sep 2021 06:19:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Everybody's Talking About Jamie: Sheffield welcomes home coming-of-age story]]></title>
-            <description><![CDATA[Jamie Campbell salutes Sheffield's role in the story of his extraordinary life.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-south-yorkshire-58570178?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-south-yorkshire-58570178</guid>
-            <pubDate>Sat, 18 Sep 2021 06:22:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Salford woman shares photographs of eczema flare-ups]]></title>
@@ -189,20 +189,6 @@
             <link>https://www.bbc.co.uk/sport/darts/58612539?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/darts/58612539</guid>
             <pubDate>Sat, 18 Sep 2021 22:31:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Premiership: Leicester Tigers 34-19 Exeter Chiefs - Nic Dolly double helps impressive Tigers to win]]></title>
-            <description><![CDATA[Nic Dolly scores twice as Leicester stun Premiership runners-up Exeter 34-19 to begin the new season with an impressive win.]]></description>
-            <link>https://www.bbc.co.uk/sport/rugby-union/58583643?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/rugby-union/58583643</guid>
-            <pubDate>Sat, 18 Sep 2021 16:15:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Wayne Rooney: Derby County boss has sympathy for club staff as administration looms]]></title>
-            <description><![CDATA[Derby County boss Wayne Rooney has sympathy for employees who may be made redundant when the club goes into administration.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58611828?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58611828</guid>
-            <pubDate>Sat, 18 Sep 2021 18:09:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
