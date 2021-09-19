@@ -24,4 +24,5 @@
 24. [Covid: 'Risg o ddirwy yn well nag anfon plant i'r ysgol'](https://www.bbc.co.uk/newyddion/58597442?at_medium=RSS&at_campaign=KARANGA) - Rhieni yn dewis rhwng iechyd eu teuluoedd ac addysg eu plant oherwydd rheolau presenoldeb "amhosib".
 25. [Cymru â'r ganran uchaf o anafiadau yfed a gyrru](https://www.bbc.co.uk/newyddion/58597452?at_medium=RSS&at_campaign=KARANGA) - Allan o 5,789 o ddioddefwyr gwrthdrawiadau yng Nghymru, roedd yfed a gyrru yn gyfrifol am 400 ohonynt yn 2019.
 26. [Ymateb cymysg wrth i Gymru gyflwyno pasys Covid](https://www.bbc.co.uk/newyddion/58608350?at_medium=RSS&at_campaign=KARANGA) - Croeso gan rai, megis ymgyrchwyr anabledd, ond eraill yn poeni am yr effaith ar letygarwch.
-27. [Y Bencampwriaeth: Caerdydd 0-1 Bournemouth](https://www.bbc.co.uk/newyddion/58610760?at_medium=RSS&at_campaign=KARANGA) - Gôl Philip Billing yn yr ail hanner yn ddigon i sicrhau buddugoliaeth i'r Cherries yn erbyn Caerdydd.
+27. [Brwydro i achub 'pensaernïaeth arbennig' Abertawe](https://www.bbc.co.uk/newyddion/58572615?at_medium=RSS&at_campaign=KARANGA) - Catrin James sy'n trafod sut gafodd Abertawe ei steil wedi'r Ail Ryfel Byd
+28. [Y Bencampwriaeth: Caerdydd 0-1 Bournemouth](https://www.bbc.co.uk/newyddion/58610760?at_medium=RSS&at_campaign=KARANGA) - Gôl Philip Billing yn yr ail hanner yn ddigon i sicrhau buddugoliaeth i'r Cherries yn erbyn Caerdydd.
