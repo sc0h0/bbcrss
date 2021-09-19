@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 19 Sep 2021 13:26:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Sep 2021 13:35:23 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -21,6 +21,13 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58616080?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58616080</guid>
             <pubDate>Sun, 19 Sep 2021 12:42:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19: NI records five Covid-linked deaths, 889 cases]]></title>
+            <description><![CDATA[The total number of deaths linked to coronavirus in NI since the start of the pandemic is 2,504]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58614878?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58614878</guid>
+            <pubDate>Sun, 19 Sep 2021 13:30:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Rathfriland: Boy, 16, is bailed after band parade incident]]></title>
@@ -93,13 +100,6 @@
             <pubDate>Sat, 18 Sep 2021 15:22:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[NI100: Stormont hosts largest ever gathering of Lambeg drummers]]></title>
-            <description><![CDATA[More than 100 drummers take part in the event held to mark the centenary of Northern Ireland.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58612163?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58612163</guid>
-            <pubDate>Sat, 18 Sep 2021 21:38:07 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Covid-19: NI records six Covid-linked deaths, 1,072 cases]]></title>
             <description><![CDATA[The total number of deaths linked to coronavirus in NI since the start of the pandemic is 2,499.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58610005?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -142,11 +142,11 @@
             <pubDate>Wed, 15 Sep 2021 05:27:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Menopause: Women share symptoms and support in Belfast cafe]]></title>
-            <description><![CDATA[A menopause cafe in Belfast helps women who need support or are confused about symptoms.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58596628?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58596628</guid>
-            <pubDate>Sat, 18 Sep 2021 06:22:20 GMT</pubDate>
+            <title><![CDATA[NI100: Stormont hosts largest ever gathering of Lambeg drummers]]></title>
+            <description><![CDATA[More than 100 drummers take part in the event held to mark the centenary of Northern Ireland.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58612163?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58612163</guid>
+            <pubDate>Sat, 18 Sep 2021 21:38:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Latest Northern Ireland weather forecast]]></title>
@@ -154,6 +154,13 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-26018439?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-26018439</guid>
             <pubDate>Sun, 19 Sep 2021 12:06:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Menopause: Women share symptoms and support in Belfast cafe]]></title>
+            <description><![CDATA[A menopause cafe in Belfast helps women who need support or are confused about symptoms.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58596628?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58596628</guid>
+            <pubDate>Sat, 18 Sep 2021 06:22:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[North coast of NI property boom 'pushes locals away']]></title>
