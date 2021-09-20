@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 20 Sep 2021 07:54:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Sep 2021 08:20:00 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -30,11 +30,18 @@
             <pubDate>Mon, 20 Sep 2021 05:18:50 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[People 'spread Covid disinformation' at Letterkenny hospital]]></title>
+            <description><![CDATA[A video shows a patient being encouraged to leave the hospital in one of two incidents in recent days.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58622554?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58622554</guid>
+            <pubDate>Mon, 20 Sep 2021 08:11:25 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Covid-19: 'We want homeworking to stay in Irish life,' says Varadkar]]></title>
-            <description><![CDATA[Tánaiste (Irish Deputy PM) Leo Varadkar says the option to work from home should continue.]]></description>
+            <description><![CDATA[The Irish deputy prime minister says the option to work from home should continue.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-58616086?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58616086</guid>
-            <pubDate>Mon, 20 Sep 2021 05:29:00 GMT</pubDate>
+            <pubDate>Mon, 20 Sep 2021 08:05:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: 'Vaccine misinformation a dilemma for young people']]></title>
@@ -44,18 +51,18 @@
             <pubDate>Sun, 19 Sep 2021 12:42:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid-19: NI records five Covid-linked deaths, 889 cases]]></title>
-            <description><![CDATA[The total number of deaths linked to coronavirus in NI since the start of the pandemic is 2,504]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58614878?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58614878</guid>
-            <pubDate>Sun, 19 Sep 2021 13:30:01 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Afghanistan: Further 11 Irish citizens moved out of country]]></title>
             <description><![CDATA[Irish Foreign Affairs Minister Simon Coveney says the group have arrived in Doha, Qatar.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-58619972?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58619972</guid>
             <pubDate>Sun, 19 Sep 2021 21:41:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19: NI records five Covid-linked deaths, 889 cases]]></title>
+            <description><![CDATA[The total number of deaths linked to coronavirus in NI since the start of the pandemic is 2,504]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58614878?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58614878</guid>
+            <pubDate>Sun, 19 Sep 2021 13:30:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Rathfriland: Boy, 16, is bailed after band parade incident]]></title>
@@ -77,13 +84,6 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58570838?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58570838</guid>
             <pubDate>Sun, 19 Sep 2021 06:17:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[‘The green gym has pulled me out of a rut’]]></title>
-            <description><![CDATA[Gardening is being offered as an alternative for some to lifting weights and running on treadmills.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58436618?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58436618</guid>
-            <pubDate>Sun, 19 Sep 2021 06:33:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The perfect time for NI to return to Windsor Park]]></title>
@@ -135,6 +135,20 @@
             <pubDate>Wed, 15 Sep 2021 05:27:31 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[‘The green gym has pulled me out of a rut’]]></title>
+            <description><![CDATA[Gardening is being offered as an alternative for some to lifting weights and running on treadmills.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58436618?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58436618</guid>
+            <pubDate>Sun, 19 Sep 2021 06:33:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Latest Northern Ireland weather forecast]]></title>
+            <description><![CDATA[The weather forecast in Northern Ireland.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-26018439?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-26018439</guid>
+            <pubDate>Mon, 20 Sep 2021 08:15:27 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[NI100: Stormont hosts largest ever gathering of Lambeg drummers]]></title>
             <description><![CDATA[More than 100 drummers take part in the event held to mark the centenary of Northern Ireland.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58612163?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -142,39 +156,11 @@
             <pubDate>Sat, 18 Sep 2021 21:38:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Latest Northern Ireland weather forecast]]></title>
-            <description><![CDATA[The weather forecast in Northern Ireland.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-26018439?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-26018439</guid>
-            <pubDate>Sun, 19 Sep 2021 12:06:22 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Menopause: Women share symptoms and support in Belfast cafe]]></title>
             <description><![CDATA[A menopause cafe in Belfast helps women who need support or are confused about symptoms.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58596628?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58596628</guid>
             <pubDate>Sat, 18 Sep 2021 06:22:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[North coast of NI property boom 'pushes locals away']]></title>
-            <description><![CDATA[House prices in the Causeway Coast and Glens area rose by 17% in the last year, according to Nisra.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58578034?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58578034</guid>
-            <pubDate>Thu, 16 Sep 2021 19:53:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Can NI women upset the odds once more?]]></title>
-            <description><![CDATA[Ahead of the start of qualification for the 2023 World Cup, can Northern Ireland pull off another major upset and reach the finals?]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58544007?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58544007</guid>
-            <pubDate>Wed, 15 Sep 2021 15:52:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How seeking help allowed Tyrone's Meyler to blossom]]></title>
-            <description><![CDATA[Conor Meyler says seeking help after going through "a very low point" caused by an overly-intense mindset sparked a turning point in his career]]></description>
-            <link>https://www.bbc.co.uk/sport/gaelic-games/58569332?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/gaelic-games/58569332</guid>
-            <pubDate>Wed, 15 Sep 2021 09:49:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Anto Finnegan: 'We forever, ever, ever, keep Anto in our memories']]></title>
