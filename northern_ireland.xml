@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 20 Sep 2021 05:06:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Sep 2021 05:16:45 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Organ donation: NI Assembly to debate opt-out system for NI]]></title>
+            <description><![CDATA[If passed, the legislation would mean people automatically become donors unless they state otherwise.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58618072?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58618072</guid>
+            <pubDate>Mon, 20 Sep 2021 05:10:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Covid-19: 'Vaccine misinformation a dilemma for young people']]></title>
             <description><![CDATA[NI's mental health champion says it has left young people questioning if Covid jab is safe.]]></description>
@@ -84,20 +91,6 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58614869?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58614869</guid>
             <pubDate>Sun, 19 Sep 2021 08:30:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NI100: Michael D Higgins' invite to centenary event emerges]]></title>
-            <description><![CDATA[Michael D Higgins says the title of the church service to be held in Armagh had become "political".]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58612070?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58612070</guid>
-            <pubDate>Sat, 18 Sep 2021 18:26:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid-19: Amber list scrapped for NI, but testing remains]]></title>
-            <description><![CDATA[The NI Executive is set to consider changes to pre-departure and post-arrival testing next week.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58609107?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58609107</guid>
-            <pubDate>Sat, 18 Sep 2021 12:24:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: NI records six Covid-linked deaths, 1,072 cases]]></title>
@@ -240,6 +233,13 @@
             <pubDate>Wed, 15 Sep 2021 08:42:07 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[NI100: Michael D Higgins' invite to centenary event emerges]]></title>
+            <description><![CDATA[Michael D Higgins says the title of the church service to be held in Armagh had become "political".]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58612070?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58612070</guid>
+            <pubDate>Sat, 18 Sep 2021 18:26:06 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Morgan Bullock makes professional debut in Riverdance]]></title>
             <description><![CDATA[Morgan Bullock from Richmond, Virginia, joins the UK touring company of the acclaimed Irish dance show.]]></description>
             <link>https://www.bbc.co.uk/news/entertainment-arts-58602633?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -266,13 +266,6 @@
             <link>https://www.bbc.co.uk/news/world-europe-58589591?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58589591</guid>
             <pubDate>Thu, 16 Sep 2021 16:32:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NI100: DUP asks Irish president to rethink centenary invite]]></title>
-            <description><![CDATA[The service is part of a programme of events to mark the centenary of the partition of Ireland.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58579399?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58579399</guid>
-            <pubDate>Thu, 16 Sep 2021 18:38:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
