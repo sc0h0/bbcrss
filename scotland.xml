@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 20 Sep 2021 14:41:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Sep 2021 14:56:12 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -111,7 +111,7 @@
             <description><![CDATA[A daily update on the number and location of coronavirus cases in Scotland.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-53511877?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-53511877</guid>
-            <pubDate>Sun, 19 Sep 2021 14:07:43 GMT</pubDate>
+            <pubDate>Mon, 20 Sep 2021 14:51:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid in Scotland: What do we know about the vaccine passport?]]></title>
@@ -261,18 +261,25 @@
             <pubDate>Sun, 12 Sep 2021 13:31:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Rangers 1-1 Motherwell: Champions held at home on flag day]]></title>
-            <description><![CDATA[Rangers "only have themselves to blame" after Motherwell fought back to claim a Premiership draw at Ibrox, says manager Steven Gerrard.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58533920?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58533920</guid>
-            <pubDate>Mon, 20 Sep 2021 06:09:59 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Celtic make worst league start in 23 years - but what’s going on?]]></title>
             <description><![CDATA[After the worst start to a league season in 23 years, can Ange Postecoglou get his side out of their rut sooner rather than later?]]></description>
             <link>https://www.bbc.co.uk/sport/football/58617548?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58617548</guid>
             <pubDate>Mon, 20 Sep 2021 07:29:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Scotland women v Faroe Islands women - Hampden qualifiers a 'pinch me moment' for Beattie]]></title>
+            <description><![CDATA[Jennifer Beattie says playing Scotland's home Women's World Cup qualifiers at Hampden is a "pinch me moment".]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58627425?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58627425</guid>
+            <pubDate>Mon, 20 Sep 2021 14:47:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rangers 1-1 Motherwell: Champions held at home on flag day]]></title>
+            <description><![CDATA[Rangers "only have themselves to blame" after Motherwell fought back to claim a Premiership draw at Ibrox, says manager Steven Gerrard.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58533920?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58533920</guid>
+            <pubDate>Mon, 20 Sep 2021 06:09:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Spain 22-27 Scotland: Scots keep World Cup hopes alive with win]]></title>
@@ -287,13 +294,6 @@
             <link>https://www.bbc.co.uk/sport/av/football/58619629?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/av/football/58619629</guid>
             <pubDate>Mon, 20 Sep 2021 06:16:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Watch: All the goals from the SWPL]]></title>
-            <description><![CDATA[Partick Thistle beat Motherwell to secure their first ever top flight win, while Aberdeen get the better of Hamilton.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/football/58619627?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/av/football/58619627</guid>
-            <pubDate>Mon, 20 Sep 2021 06:32:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
