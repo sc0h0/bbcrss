@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 20 Sep 2021 18:56:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Sep 2021 19:12:43 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -268,13 +268,6 @@
             <pubDate>Mon, 20 Sep 2021 07:29:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Listen: Sportsound with Pat Bonner & Richard Foster]]></title>
-            <description><![CDATA[Tune in to Monday's edition of Sportsound, with Pat Bonner and Richard Foster joining host Kenny Macintyre.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/football/58581857?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/av/football/58581857</guid>
-            <pubDate>Mon, 20 Sep 2021 17:39:32 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Scotland women v Faroe Islands women - Hampden qualifiers a 'pinch-me moment' for Beattie]]></title>
             <description><![CDATA[Jennifer Beattie says playing Scotland's home Women's World Cup qualifiers at Hampden is a 'pinch-me moment'.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58627425?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -287,6 +280,13 @@
             <link>https://www.bbc.co.uk/sport/football/58533920?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58533920</guid>
             <pubDate>Mon, 20 Sep 2021 06:09:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['I can sing the national anthem now' - Scotland coach Pedro Martinez Losa]]></title>
+            <description><![CDATA[Pedro Martinez Losa feels more Scottish now he knows how to sing the national anthem as he prepares for his first Hampden encounter against the Faroe Islands in Tuesday's Women's World Cup qualifier.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/football/58631207?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/av/football/58631207</guid>
+            <pubDate>Mon, 20 Sep 2021 17:27:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
