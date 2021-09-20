@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 20 Sep 2021 13:25:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Sep 2021 13:40:00 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -65,34 +65,6 @@
             <pubDate>Sun, 19 Sep 2021 15:34:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Germaine Acogny: 'The mother of contemporary African dance']]></title>
-            <description><![CDATA[Germaine Acogny has recently been awarded the prestigious Golden Lion award at the Venice Biennale Dance festival. But what impact has she had on African contemporary dance?]]></description>
-            <link>https://www.bbc.co.uk/news/world-africa-58588092?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-africa-58588092</guid>
-            <pubDate>Sun, 19 Sep 2021 07:45:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Zimbabwe storm back to beat Scotland by six wickets and clinch T20 series 2-1]]></title>
-            <description><![CDATA[Milton Shumba's stunning knock of 66 from 29 balls propelled Zimbabwe to a thrilling victory against Scotland in their Twenty20 series decider in Edinburgh.]]></description>
-            <link>https://www.bbc.co.uk/sport/cricket/58619042?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/cricket/58619042</guid>
-            <pubDate>Sun, 19 Sep 2021 17:16:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rugby Championship: Australia beat South Africa 30-17 in Brisbane]]></title>
-            <description><![CDATA[Australia secure their second successive win over world champions South Africa in the Rugby Championship.]]></description>
-            <link>https://www.bbc.co.uk/sport/rugby-union/58607615?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/rugby-union/58607615</guid>
-            <pubDate>Sat, 18 Sep 2021 12:59:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sexual abuse scandal overshadows start of Women's Afrobasket finals]]></title>
-            <description><![CDATA[Africa's women's basketballers start the continental championships on Saturday under the shadow of a major sexual abuse scandal.]]></description>
-            <link>https://www.bbc.co.uk/sport/africa/58603900?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/africa/58603900</guid>
-            <pubDate>Fri, 17 Sep 2021 17:53:59 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Ethiopia: Fact-checking misleading images about hunger in Amhara]]></title>
             <description><![CDATA[Food shortages are worsening in Ethiopia but some images online are not what they claim to be.]]></description>
             <link>https://www.bbc.co.uk/news/58595360?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -135,6 +107,13 @@
             <pubDate>Fri, 10 Sep 2021 23:44:27 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Germaine Acogny: 'The mother of contemporary African dance']]></title>
+            <description><![CDATA[Germaine Acogny has recently been awarded the prestigious Golden Lion award at the Venice Biennale Dance festival. But what impact has she had on African contemporary dance?]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-58588092?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-africa-58588092</guid>
+            <pubDate>Sun, 19 Sep 2021 07:45:59 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The link between climate change, seaweed and ice cream]]></title>
             <description><![CDATA[Seaweed production has been affected by warming seas – this is how farmers are adapting.]]></description>
             <link>https://www.bbc.co.uk/news/stories-58582499?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -175,13 +154,6 @@
             <link>https://www.bbc.co.uk/news/world-africa-58549010?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-africa-58549010</guid>
             <pubDate>Mon, 13 Sep 2021 23:08:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kenya's Chief Justice Martha Koome: Tackling Kenya's corruption]]></title>
-            <description><![CDATA[Kenya’s Chief Justice Martha Koome says she is focusing on building a judiciary that Kenyans can have confidence in.]]></description>
-            <link>https://www.bbc.co.uk/news/world-africa-58504720?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-africa-58504720</guid>
-            <pubDate>Thu, 09 Sep 2021 15:24:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
