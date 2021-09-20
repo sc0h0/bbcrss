@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 20 Sep 2021 16:23:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Sep 2021 16:51:40 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -58,6 +58,13 @@
             <pubDate>Mon, 20 Sep 2021 08:38:11 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Government of Jersey appoints first female chief executive]]></title>
+            <description><![CDATA[Suzanne Wylie will move from Belfast City Council to take up the role in Jersey in February 2022.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-jersey-58629413?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-jersey-58629413</guid>
+            <pubDate>Mon, 20 Sep 2021 16:00:22 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Three cleared of attempted murder in Lisburn]]></title>
             <description><![CDATA[Three men are cleared of involvement in a drive-by shooting linked to Dublin drug feud.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58629092?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -86,13 +93,6 @@
             <pubDate>Mon, 20 Sep 2021 11:44:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Clones: Woman killed and three injured in Monaghan crash]]></title>
-            <description><![CDATA[The single vehicle crash happened early on Monday morning outside Clones.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58623078?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58623078</guid>
-            <pubDate>Mon, 20 Sep 2021 08:22:14 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Hillary Clinton to be inaugurated as Queen's University chancellor]]></title>
             <description><![CDATA[The former US secretary of state will be formally installed as the university's new chancellor.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58619151?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -100,11 +100,11 @@
             <pubDate>Mon, 20 Sep 2021 05:18:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid-19: 'We want homeworking to stay in Irish life,' says Varadkar]]></title>
-            <description><![CDATA[The Irish deputy prime minister says the option to work from home should continue.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58616086?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58616086</guid>
-            <pubDate>Mon, 20 Sep 2021 08:05:37 GMT</pubDate>
+            <title><![CDATA[Rathfriland: Boy, 16, is bailed after band parade incident]]></title>
+            <description><![CDATA[Two men suffered minor injuries after a car drove towards a band parade in the Newry Street area.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58616082?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58616082</guid>
+            <pubDate>Sun, 19 Sep 2021 11:41:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: 'Vaccine misinformation a dilemma for young people']]></title>
@@ -112,13 +112,6 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58616080?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58616080</guid>
             <pubDate>Sun, 19 Sep 2021 12:42:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rathfriland: Boy, 16, is bailed after band parade incident]]></title>
-            <description><![CDATA[Two men suffered minor injuries after a car drove towards a band parade in the Newry Street area.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58616082?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58616082</guid>
-            <pubDate>Sun, 19 Sep 2021 11:41:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Teens and over 50s in Northern Ireland to be offered flu jab]]></title>
@@ -238,6 +231,20 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58572588?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58572588</guid>
             <pubDate>Wed, 15 Sep 2021 12:18:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19: 'We want homeworking to stay in Irish life,' says Varadkar]]></title>
+            <description><![CDATA[The Irish deputy prime minister says the option to work from home should continue.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58616086?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58616086</guid>
+            <pubDate>Mon, 20 Sep 2021 08:05:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Clones: Woman killed and three injured in Monaghan crash]]></title>
+            <description><![CDATA[The single vehicle crash happened early on Monday morning outside Clones.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58623078?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58623078</guid>
+            <pubDate>Mon, 20 Sep 2021 08:22:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Afghanistan: Further 11 Irish citizens moved out of country]]></title>

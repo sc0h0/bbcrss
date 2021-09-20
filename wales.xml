@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 20 Sep 2021 16:27:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Sep 2021 16:54:31 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Covid: Welsh ambulance service asks for military help again]]></title>
+            <description><![CDATA[The request comes due to increasing pressure from Covid cases and a predicted "tough winter".]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-politics-58623689?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-politics-58623689</guid>
+            <pubDate>Mon, 20 Sep 2021 16:36:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Covid: Welsh Labour conference off ahead of expected autumn peak]]></title>
             <description><![CDATA[A thousand people were expected to attend but there are fears of a peak in cases in November.]]></description>
@@ -23,18 +30,18 @@
             <pubDate>Mon, 20 Sep 2021 15:35:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[CO2: Food and drink fears for Wales over carbon dioxide cuts]]></title>
-            <description><![CDATA[One of Britain's biggest poultry processors says there needs to be urgent action within days.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-58625569?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-58625569</guid>
-            <pubDate>Mon, 20 Sep 2021 15:39:08 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Ceredigion: Seal pup dies after selfie snappers scare mother]]></title>
             <description><![CDATA[Tourists have been urged to stay away from their pups which are sometimes seen off Wales' coast.]]></description>
             <link>https://www.bbc.co.uk/news/uk-wales-58629122?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-58629122</guid>
             <pubDate>Mon, 20 Sep 2021 16:11:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[CO2: Food and drink fears for Wales over carbon dioxide cuts]]></title>
+            <description><![CDATA[One of Britain's biggest poultry processors says there needs to be urgent action within days.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-58625569?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-58625569</guid>
+            <pubDate>Mon, 20 Sep 2021 16:53:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Climate change: Demolition to start on Wales' most polluted street]]></title>
@@ -84,20 +91,6 @@
             <link>https://www.bbc.co.uk/news/uk-wales-58584164?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-58584164</guid>
             <pubDate>Mon, 20 Sep 2021 05:12:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lancashire Police teams up with four forces in forensic science deal]]></title>
-            <description><![CDATA[Lancashire Police will work with the Merseyside, Cheshire, Cumbria and North Wales forces.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-lancashire-58623627?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-lancashire-58623627</guid>
-            <pubDate>Mon, 20 Sep 2021 15:08:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Climate change: Aberystwyth green department store opens]]></title>
-            <description><![CDATA[A green tour of Wales will also visit renewable energy projects, farmers and safe cycling schemes.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-58571595?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-58571595</guid>
-            <pubDate>Sat, 18 Sep 2021 18:33:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Drink-drivers are selfish, says Ammanford woman hit by car]]></title>
@@ -163,18 +156,18 @@
             <pubDate>Mon, 20 Sep 2021 14:49:22 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Josh Turnbull: Wales back-rower named new Cardiff captain]]></title>
+            <description><![CDATA[Josh Turnbull replaces fellow Wales flanker Ellis Jenkins as the new Cardiff club captain for the 2021-22 season.]]></description>
+            <link>https://www.bbc.co.uk/sport/rugby-union/58631156?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/rugby-union/58631156</guid>
+            <pubDate>Mon, 20 Sep 2021 16:30:33 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[World Rugby Sevens: Jasmine Joyce scores hat-trick as GB win series opener]]></title>
             <description><![CDATA[Double Olympian Jasmine Joyce scores three tries as Great Britain win the Fast Four final at the World Rugby Sevens Series first round in Vancouver.]]></description>
             <link>https://www.bbc.co.uk/sport/rugby-union/58615219?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/rugby-union/58615219</guid>
             <pubDate>Mon, 20 Sep 2021 08:51:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Jimmy Greaves 'put me in right direction' over addiction says ex-Spurs team-mate Cliff Jones]]></title>
-            <description><![CDATA[Former Wales international Cliff Jones says former Tottenham team mate, the late Jimmy Greaves, helped him overcome an alcohol addiction.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58625401?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58625401</guid>
-            <pubDate>Mon, 20 Sep 2021 11:12:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ysgol Filfeddygaeth Aberystwyth yn agor am y tro cyntaf]]></title>
@@ -195,7 +188,7 @@
             <description><![CDATA[Dywed cwmni bwyd 2 Sisters ei bod hi'n bosib y byddan nhw'n cynhyrchu 10% yn llai o gywion o fewn dyddiau.]]></description>
             <link>https://www.bbc.co.uk/newyddion/58626238?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/newyddion/58626238</guid>
-            <pubDate>Mon, 20 Sep 2021 13:57:18 GMT</pubDate>
+            <pubDate>Mon, 20 Sep 2021 16:35:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A-Z Geiriadur Prifysgol Cymru: 100 mlynedd mewn 30 gair]]></title>
