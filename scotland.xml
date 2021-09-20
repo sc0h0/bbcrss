@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 20 Sep 2021 10:18:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Sep 2021 10:37:22 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -30,13 +30,6 @@
             <pubDate>Mon, 20 Sep 2021 09:41:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Scotland's papers: Energy crisis to hit bills and GPs 'struggling']]></title>
-            <description><![CDATA[The front pages say some energy firms are on the brink of collapse and GPs are seeing double the number of patients.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-58621702?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-58621702</guid>
-            <pubDate>Mon, 20 Sep 2021 07:19:02 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Three men dead after M8 motorway crash]]></title>
             <description><![CDATA[The men, two aged 27 and one aged 31, were pronounced dead at the scene, Police Scotland has confirmed.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58617842?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -44,11 +37,11 @@
             <pubDate>Sun, 19 Sep 2021 18:34:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Conservationist injured and support pilot killed in crash]]></title>
-            <description><![CDATA[Sacha Dench and support pilot Dan Burton were on a round Britain paragliding challenge when the crash happened.]]></description>
+            <title><![CDATA[Conservationist injured and cameraman killed in air crash]]></title>
+            <description><![CDATA[Conservationist Sacha Dench and Dan Burton were on a round Britain paramotor flight when the crash happened.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-highlands-islands-58615590?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-highlands-islands-58615590</guid>
-            <pubDate>Mon, 20 Sep 2021 07:01:58 GMT</pubDate>
+            <pubDate>Mon, 20 Sep 2021 10:36:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Crash cyclist Josh Quigley set to achieve new Guinness World Record]]></title>
@@ -63,6 +56,13 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-58597168?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-58597168</guid>
             <pubDate>Mon, 20 Sep 2021 05:31:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Scotland's papers: Energy crisis to hit bills and GPs 'struggling']]></title>
+            <description><![CDATA[The front pages say some energy firms are on the brink of collapse and GPs are seeing double the number of patients.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-58621702?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-58621702</guid>
+            <pubDate>Mon, 20 Sep 2021 07:19:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Young disabled Scots face ‘cliff edge’ leaving school]]></title>
