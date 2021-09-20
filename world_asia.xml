@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 20 Sep 2021 05:35:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Sep 2021 05:48:43 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -72,13 +72,6 @@
             <pubDate>Sat, 18 Sep 2021 18:45:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Hyderabad rape suspect found dead: Is it murder or suicide?]]></title>
-            <description><![CDATA[Police say the 30-year-old man raped and killed a child in the city of Hyderabad last week.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-india-58592995?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-india-58592995</guid>
-            <pubDate>Sat, 18 Sep 2021 01:31:35 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Manny Pacquiao: Boxing star to run for Philippines president]]></title>
             <description><![CDATA[Manny Pacquiao is a senator in parliament and remains active in the ring after a successful career.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-58614108?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -114,13 +107,6 @@
             <pubDate>Fri, 17 Sep 2021 17:34:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[China applies to join key Asia-Pacific trade pact]]></title>
-            <description><![CDATA[It comes the day after a regional security agreement between the US, UK and Australia was unveiled.]]></description>
-            <link>https://www.bbc.co.uk/news/business-58579832?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58579832</guid>
-            <pubDate>Fri, 17 Sep 2021 04:08:19 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Afghanistan: The escape of the whirling dancer]]></title>
             <description><![CDATA[How the only female whirling dancer in Afghanistan made it out of Kabul.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-58602631?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -133,6 +119,13 @@
             <link>https://www.bbc.co.uk/news/world-middle-east-58599522?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-middle-east-58599522</guid>
             <pubDate>Sat, 18 Sep 2021 23:34:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hyderabad rape suspect found dead: Is it murder or suicide?]]></title>
+            <description><![CDATA[Police say the 30-year-old man raped and killed a child in the city of Hyderabad last week.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-india-58592995?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-india-58592995</guid>
+            <pubDate>Sat, 18 Sep 2021 01:31:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['There’s security but no money': Afghans settle into life under Taliban rule]]></title>
