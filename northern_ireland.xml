@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 20 Sep 2021 08:37:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Sep 2021 08:44:51 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -23,13 +23,6 @@
             <pubDate>Mon, 20 Sep 2021 06:38:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Hillary Clinton to be inaugurated as Queen's University chancellor]]></title>
-            <description><![CDATA[The former US secretary of state will be formally installed as the university's new chancellor.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58619151?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58619151</guid>
-            <pubDate>Mon, 20 Sep 2021 05:18:50 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[People 'spread Covid disinformation' at Letterkenny hospital]]></title>
             <description><![CDATA[A video shows a patient being encouraged to leave the hospital in one of two incidents in recent days.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-58622554?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -37,11 +30,25 @@
             <pubDate>Mon, 20 Sep 2021 08:11:25 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Politicians condemn protest at Leo Varadkar's home]]></title>
+            <description><![CDATA[Protesters gathered outside the home of Ireland's tanaiste (deputy prime minister) on Sunday.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58623079?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58623079</guid>
+            <pubDate>Mon, 20 Sep 2021 08:38:11 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Clones: Woman killed and three injured in Monaghan crash]]></title>
             <description><![CDATA[The single vehicle crash happened early on Monday morning outside Clones.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-58623078?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58623078</guid>
             <pubDate>Mon, 20 Sep 2021 08:22:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hillary Clinton to be inaugurated as Queen's University chancellor]]></title>
+            <description><![CDATA[The former US secretary of state will be formally installed as the university's new chancellor.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58619151?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58619151</guid>
+            <pubDate>Mon, 20 Sep 2021 05:18:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: 'We want homeworking to stay in Irish life,' says Varadkar]]></title>
