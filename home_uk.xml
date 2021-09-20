@@ -11,16 +11,16 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 20 Sep 2021 15:33:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Sep 2021 15:44:24 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
-            <title><![CDATA[Covid: US opens up to fully vaccinated EU and UK passengers]]></title>
+            <title><![CDATA[Covid: US opens up to fully vaccinated travellers]]></title>
             <description><![CDATA[The move answers a major demand from European allies at a time of strained relations.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-58628491?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58628491</guid>
-            <pubDate>Mon, 20 Sep 2021 14:59:26 GMT</pubDate>
+            <pubDate>Mon, 20 Sep 2021 15:42:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Killamarsh deaths: Family's tribute to children found dead at house]]></title>
@@ -79,11 +79,18 @@
             <pubDate>Mon, 20 Sep 2021 14:57:08 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Gabby Petito: FBI searches fiancé Brian Laundrie's home]]></title>
+            <description><![CDATA[Police consider Brian Laundrie a person of interest, but have not charged him with a crime.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-58629194?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58629194</guid>
+            <pubDate>Mon, 20 Sep 2021 15:34:46 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Covid: Welsh Labour conference off ahead of expected autumn peak]]></title>
             <description><![CDATA[A thousand people were expected to attend but there are fears of a peak in cases in November.]]></description>
             <link>https://www.bbc.co.uk/news/uk-wales-politics-58623684?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-politics-58623684</guid>
-            <pubDate>Mon, 20 Sep 2021 12:50:39 GMT</pubDate>
+            <pubDate>Mon, 20 Sep 2021 15:35:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[La Palma volcano: Lava destroys homes in the Canary Islands]]></title>
@@ -93,13 +100,6 @@
             <pubDate>Mon, 20 Sep 2021 11:25:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Hotel Rwanda hero Paul Rusesabagina convicted on terror charges]]></title>
-            <description><![CDATA[A Rwandan court finds Paul Rusesabagina guilty of supporting a terrorist group.]]></description>
-            <link>https://www.bbc.co.uk/news/world-africa-58624691?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-africa-58624691</guid>
-            <pubDate>Mon, 20 Sep 2021 15:20:32 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[RHS Chelsea Flower Show returns for autumnal one-off]]></title>
             <description><![CDATA[After a year out due to Covid, this year's show is being held four months later than is traditional.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-london-58625761?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -107,18 +107,18 @@
             <pubDate>Mon, 20 Sep 2021 13:38:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Emmy Awards 2021: The Crown and Ted Lasso sweep major categories]]></title>
-            <description><![CDATA[Netflix's royal drama and Apple's comedy series swept the drama and comedy prizes at Sunday's event.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-58620247?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-58620247</guid>
-            <pubDate>Mon, 20 Sep 2021 15:01:13 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Carol Kirkwood: BBC Weather presenter pulled over by dog on live TV]]></title>
             <description><![CDATA[Carol Kirkwood says she's fine after taking this tumble on BBC Breakfast when the guide dog went astray.]]></description>
             <link>https://www.bbc.co.uk/news/uk-58625098?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58625098</guid>
             <pubDate>Mon, 20 Sep 2021 09:56:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Emmy Awards 2021: The Crown and Ted Lasso sweep major categories]]></title>
+            <description><![CDATA[Netflix's royal drama and Apple's comedy series swept the drama and comedy prizes at Sunday's event.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-58620247?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-58620247</guid>
+            <pubDate>Mon, 20 Sep 2021 15:01:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[My husband and son fought in Afghanistan - it changed all of us]]></title>
@@ -177,18 +177,18 @@
             <pubDate>Mon, 20 Sep 2021 11:43:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Can apps manage our chronic health conditions?]]></title>
-            <description><![CDATA[A Swedish tech firm has created an app to help alleviate people's joint pain.]]></description>
-            <link>https://www.bbc.co.uk/news/business-58556777?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58556777</guid>
-            <pubDate>Sun, 19 Sep 2021 23:01:49 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[John Challis and Boycie - how one of TV's greatest comedy characters was born]]></title>
             <description><![CDATA[The late actor was known for playing Only Fools and Horses' smarmy second-hand car salesman Boycie.]]></description>
             <link>https://www.bbc.co.uk/news/entertainment-arts-58617283?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-58617283</guid>
             <pubDate>Sun, 19 Sep 2021 16:48:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Can apps manage our chronic health conditions?]]></title>
+            <description><![CDATA[A Swedish tech firm has created an app to help alleviate people's joint pain.]]></description>
+            <link>https://www.bbc.co.uk/news/business-58556777?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58556777</guid>
+            <pubDate>Sun, 19 Sep 2021 23:01:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Canada election: What you need to know about the campaign]]></title>
@@ -261,6 +261,13 @@
             <pubDate>Mon, 20 Sep 2021 11:20:28 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Netherlands' Van Dijk wins world time trial title for second time]]></title>
+            <description><![CDATA[The Netherlands' Ellen van Dijk wins her second World Championship time trial title as Britain's Joss Lowden finishes eighth.]]></description>
+            <link>https://www.bbc.co.uk/sport/cycling/58626584?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/cycling/58626584</guid>
+            <pubDate>Mon, 20 Sep 2021 15:37:19 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Everton's Rodriguez travels to Qatar for transfer talks]]></title>
             <description><![CDATA[Everton midfielder James Rodriguez travels to Qatar for talks with a club before a potential move to the Middle East.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58586147?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -268,18 +275,11 @@
             <pubDate>Mon, 20 Sep 2021 10:02:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Beckham's son Romeo makes pro debut in US]]></title>
-            <description><![CDATA[A player named Beckham was back on the football pitch on Sunday - but it wasn't David who was drawing in the crowds in the US, it was his son, Romeo.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58621611?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58621611</guid>
-            <pubDate>Mon, 20 Sep 2021 10:52:28 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Travel update: What are the new rules for holidays in Europe and the US?]]></title>
             <description><![CDATA[The rules on foreign travel to and from England are being simplified.]]></description>
             <link>https://www.bbc.co.uk/news/explainers-52544307?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/explainers-52544307</guid>
-            <pubDate>Mon, 20 Sep 2021 15:02:29 GMT</pubDate>
+            <pubDate>Mon, 20 Sep 2021 15:32:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What are the travel rules for Spain, Portugal, Malta and other holiday hotspots?]]></title>
