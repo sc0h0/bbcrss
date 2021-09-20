@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 20 Sep 2021 15:20:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Sep 2021 15:33:38 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -44,6 +44,13 @@
             <pubDate>Mon, 20 Sep 2021 15:00:29 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Afghanistan: Fighting off hunger under the Taliban]]></title>
+            <description><![CDATA[For most Afghans staving off starvation is the biggest challenge since the Taliban returned to power.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58624998?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58624998</guid>
+            <pubDate>Mon, 20 Sep 2021 15:16:43 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Sophie Fairall: Celebrity wish-list girl dies from rare cancer]]></title>
             <description><![CDATA[The 10-year-old met TV chef Gordon Ramsay and won support from Premier League footballers.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-hampshire-58623969?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -62,7 +69,7 @@
             <description><![CDATA[Paris is angry after Australia cancelled a submarine contract in favour of a deal with the UK and US.]]></description>
             <link>https://www.bbc.co.uk/news/uk-58620220?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58620220</guid>
-            <pubDate>Mon, 20 Sep 2021 12:42:38 GMT</pubDate>
+            <pubDate>Mon, 20 Sep 2021 15:20:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Russia shooting: Gunman kills six at Perm University]]></title>
@@ -79,11 +86,11 @@
             <pubDate>Mon, 20 Sep 2021 12:50:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Canary Islands: Lava from erupting volcano destroys homes]]></title>
-            <description><![CDATA[The volcano on La Palma continues to spew lava after 5,000 were evacuated from villages in its path.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58620555?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58620555</guid>
-            <pubDate>Mon, 20 Sep 2021 11:58:08 GMT</pubDate>
+            <title><![CDATA[La Palma volcano: Lava destroys homes in the Canary Islands]]></title>
+            <description><![CDATA[A volcanic eruption on the Spanish island of La Palma has demolished homes and caused evacuations.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58625781?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58625781</guid>
+            <pubDate>Mon, 20 Sep 2021 11:25:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hotel Rwanda hero Paul Rusesabagina convicted on terror charges]]></title>
