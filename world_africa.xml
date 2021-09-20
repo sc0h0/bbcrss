@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 19 Sep 2021 23:55:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Sep 2021 01:09:29 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -21,6 +21,13 @@
             <link>https://www.bbc.co.uk/news/world-africa-58614669?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-africa-58614669</guid>
             <pubDate>Sun, 19 Sep 2021 15:34:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Street dreams of Nairobi dance crew hoping to beat the odds]]></title>
+            <description><![CDATA[A group of street dancers in Nairobi, Kenya, struggle against the odds to become celebrities.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-58602632?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-africa-58602632</guid>
+            <pubDate>Sun, 19 Sep 2021 23:05:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ethiopia: Fact-checking misleading images about hunger in Amhara]]></title>
@@ -135,13 +142,6 @@
             <pubDate>Mon, 06 Sep 2021 23:54:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Street dreams of Nairobi dance crew hoping to beat the odds]]></title>
-            <description><![CDATA[A group of street dancers in Nairobi, Kenya, struggle against the odds to become celebrities.]]></description>
-            <link>https://www.bbc.co.uk/news/world-africa-58602632?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-africa-58602632</guid>
-            <pubDate>Sun, 19 Sep 2021 23:05:20 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Kenyan blogger: 'I thought I may never make it out of Qatar']]></title>
             <description><![CDATA[A Kenyan blogger who wrote about working conditions in Qatar was thrown into solitary confinement, given a huge fine and deported.]]></description>
             <link>https://www.bbc.co.uk/news/world-africa-58590800?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -182,6 +182,13 @@
             <link>https://www.bbc.co.uk/news/world-africa-58492598?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-africa-58492598</guid>
             <pubDate>Wed, 08 Sep 2021 23:09:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Gambia: Why is Yahya Jammeh's possible return causing such a stir?]]></title>
+            <description><![CDATA[The Gambia’s notorious and exiled former president could be seen back in the country and possibly on the political scene.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-58493641?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-africa-58493641</guid>
+            <pubDate>Wed, 08 Sep 2021 16:34:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
