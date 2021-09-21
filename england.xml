@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 21 Sep 2021 17:24:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Sep 2021 17:38:49 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -217,6 +217,13 @@
             <link>https://www.bbc.co.uk/sport/football/58612215?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58612215</guid>
             <pubDate>Tue, 21 Sep 2021 13:42:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hain leads Warwickshire batting points charge]]></title>
+            <description><![CDATA[Sam Hain leads the way for title-chasing Warwickshire with an unbeaten 83 against Somerset.]]></description>
+            <link>https://www.bbc.co.uk/sport/cricket/58631144?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/cricket/58631144</guid>
+            <pubDate>Tue, 21 Sep 2021 17:32:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
