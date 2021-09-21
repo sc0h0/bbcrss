@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 21 Sep 2021 01:08:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Sep 2021 01:39:28 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -51,11 +51,11 @@
             <pubDate>Mon, 20 Sep 2021 15:16:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Guinness World Records: Japanese sisters certified world's oldest twins]]></title>
-            <description><![CDATA[Umeno Sumiyama and Koume Kodama from Japan receive their Guinness World Records awards.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58630489?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58630489</guid>
-            <pubDate>Mon, 20 Sep 2021 18:00:26 GMT</pubDate>
+            <title><![CDATA[A year in Calais: One migrant’s year-long attempt to cross the Channel]]></title>
+            <description><![CDATA[The BBC followed Iranian migrant Alex, as he tried to cross from France to the UK with a smuggler.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58629132?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58629132</guid>
+            <pubDate>Mon, 20 Sep 2021 23:28:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Endangered South African penguins killed by swarm of bees near Cape Town]]></title>
@@ -72,18 +72,18 @@
             <pubDate>Mon, 20 Sep 2021 17:08:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[France's Emmanuel Macron heckled asking Algerian veterans for forgiveness]]></title>
-            <description><![CDATA[The French president is heckled as he promises reparations for Algerians who fought for France.]]></description>
-            <link>https://www.bbc.co.uk/news/world-africa-58626309?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-africa-58626309</guid>
-            <pubDate>Mon, 20 Sep 2021 16:25:57 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Russia shooting: Gunman kills six at Perm University]]></title>
             <description><![CDATA[The attacker, a student, walked on to the university campus on Monday morning and started shooting.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-58623160?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58623160</guid>
             <pubDate>Mon, 20 Sep 2021 14:57:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Guinness World Records: Japanese sisters certified world's oldest twins]]></title>
+            <description><![CDATA[Umeno Sumiyama and Koume Kodama from Japan receive their Guinness World Records awards.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58630489?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58630489</guid>
+            <pubDate>Mon, 20 Sep 2021 18:00:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Twitch hate raids: Minority streamers have 'a target on their back']]></title>
@@ -163,13 +163,6 @@
             <pubDate>Sun, 19 Sep 2021 23:01:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A year in Calais: One migrant’s year-long attempt to cross the Channel]]></title>
-            <description><![CDATA[The BBC followed Iranian migrant Alex, as he tried to cross from France to the UK with a smuggler.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58629132?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58629132</guid>
-            <pubDate>Mon, 20 Sep 2021 23:28:52 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[La Palma volcano: Lava destroys homes in the Canary Islands]]></title>
             <description><![CDATA[A volcanic eruption on the Spanish island of La Palma has demolished homes and caused evacuations.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-58625781?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -196,6 +189,13 @@
             <link>https://www.bbc.co.uk/news/world-us-canada-58603119?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58603119</guid>
             <pubDate>Sun, 19 Sep 2021 18:46:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Afghanistan: The 'shattered dreams' of the Ariana cabin crew]]></title>
+            <description><![CDATA[The BBC's Lyse Doucet meets the female crew of Afghanistan's national airline, who are in hiding.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-58599522?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-middle-east-58599522</guid>
+            <pubDate>Sat, 18 Sep 2021 23:34:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
