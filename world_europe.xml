@@ -11,10 +11,38 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 21 Sep 2021 05:04:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Sep 2021 05:22:23 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Covid: US opens up to fully vaccinated travellers]]></title>
+            <description><![CDATA[The US rolls back international travel restrictions, answering a major demand from allies.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-58628491?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58628491</guid>
+            <pubDate>Tue, 21 Sep 2021 03:54:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Canary Islands: Lava from erupting volcano destroys homes]]></title>
+            <description><![CDATA[The volcano on La Palma continues to spew lava after 5,500 were evacuated from villages in its path.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58620555?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58620555</guid>
+            <pubDate>Mon, 20 Sep 2021 17:08:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[France's Emmanuel Macron heckled asking Algerian veterans for forgiveness]]></title>
+            <description><![CDATA[The French president is heckled as he promises reparations for Algerians who fought for France.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-58626309?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-africa-58626309</guid>
+            <pubDate>Mon, 20 Sep 2021 16:25:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wally the wandering walrus is spotted in Iceland]]></title>
+            <description><![CDATA[The 800kg mammal had not been seen for more than three weeks.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-cornwall-58632372?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-cornwall-58632372</guid>
+            <pubDate>Mon, 20 Sep 2021 19:15:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Russia election: Putin's party wins election marred by fraud claims]]></title>
             <description><![CDATA[The pro-Kremlin United Russia wins a parliamentary majority, but loses some ground.]]></description>
@@ -35,34 +63,6 @@
             <link>https://www.bbc.co.uk/news/world-europe-58623160?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58623160</guid>
             <pubDate>Mon, 20 Sep 2021 14:57:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Canary Islands: Lava from erupting volcano destroys homes]]></title>
-            <description><![CDATA[The volcano on La Palma continues to spew lava after 5,500 were evacuated from villages in its path.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58620555?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58620555</guid>
-            <pubDate>Mon, 20 Sep 2021 17:08:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: US opens up to fully vaccinated travellers]]></title>
-            <description><![CDATA[The US rolls back international travel restrictions, answering a major demand from allies.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-58628491?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58628491</guid>
-            <pubDate>Tue, 21 Sep 2021 03:54:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Get an Eiffel of this performer walking the line in Paris]]></title>
-            <description><![CDATA[Nathan Paulin walks along a 70m (230ft) high slackline attached to an iconic French landmark.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58612966?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58612966</guid>
-            <pubDate>Sat, 18 Sep 2021 23:18:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[France's Emmanuel Macron heckled asking Algerian veterans for forgiveness]]></title>
-            <description><![CDATA[The French president is heckled as he promises reparations for Algerians who fought for France.]]></description>
-            <link>https://www.bbc.co.uk/news/world-africa-58626309?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-africa-58626309</guid>
-            <pubDate>Mon, 20 Sep 2021 16:25:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[John Challis: Why Serbians have soft spot for late Only Fools actor]]></title>
@@ -100,32 +100,18 @@
             <pubDate>Tue, 14 Sep 2021 23:00:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Faroe Islands: Anger over killing of 1,400 dolphins in one day]]></title>
-            <description><![CDATA[Hunting is under scrutiny after more than 1,400 dolphins were killed in one day - a reported record.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58555694?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58555694</guid>
-            <pubDate>Tue, 14 Sep 2021 19:43:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Champions League team from Trans-Dniester]]></title>
-            <description><![CDATA[Sheriff Tiraspol are the 'kings' of Moldovan football, but their power and backing comes from a disputed territory on the Ukraine border.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58546814?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58546814</guid>
-            <pubDate>Wed, 15 Sep 2021 05:26:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Miss Ireland 2021: First black winner 'proud' of crown]]></title>
-            <description><![CDATA[Pamela Uba moved to the country as a seven-year-old - now she's making history after taking the title.]]></description>
-            <link>https://www.bbc.co.uk/news/newsbeat-58558667?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/newsbeat-58558667</guid>
-            <pubDate>Tue, 14 Sep 2021 23:20:36 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[La Palma volcano: Lava destroys homes in the Canary Islands]]></title>
             <description><![CDATA[A volcanic eruption on the Spanish island of La Palma has demolished homes and caused evacuations.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-58625781?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58625781</guid>
             <pubDate>Mon, 20 Sep 2021 11:25:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Russia election: Footage is alleged to show ballot stuffing]]></title>
+            <description><![CDATA[Russia's interior ministry told reporters it had not registered any "significant violations".]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58631573?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58631573</guid>
+            <pubDate>Mon, 20 Sep 2021 17:10:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Volcano on Canary Island La Palma erupts, spewing ash and lava into national park]]></title>
@@ -135,25 +121,18 @@
             <pubDate>Sun, 19 Sep 2021 17:44:08 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Get an Eiffel of this performer walking the line in Paris]]></title>
+            <description><![CDATA[Nathan Paulin walks along a 70m (230ft) high slackline attached to an iconic French landmark.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58612966?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58612966</guid>
+            <pubDate>Sat, 18 Sep 2021 23:18:06 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Morgan Bullock makes professional debut in Riverdance]]></title>
             <description><![CDATA[Morgan Bullock from Richmond, Virginia, joins the UK touring company of the acclaimed Irish dance show.]]></description>
             <link>https://www.bbc.co.uk/news/entertainment-arts-58602633?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-58602633</guid>
             <pubDate>Sat, 18 Sep 2021 23:22:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Von der Leyen pushes for next level on EU defence]]></title>
-            <description><![CDATA[The European Commission President has called for the power to intervene militarily without the US.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58568277?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58568277</guid>
-            <pubDate>Wed, 15 Sep 2021 10:12:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Climate change: Cows 'toilet trained' in bid to curb greenhouse gases]]></title>
-            <description><![CDATA[By the end of the German study, more than two thirds of the cows were toilet trained.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58559004?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58559004</guid>
-            <pubDate>Tue, 14 Sep 2021 14:27:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
