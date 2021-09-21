@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 21 Sep 2021 06:12:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Sep 2021 06:36:23 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -58,6 +58,13 @@
             <pubDate>Mon, 20 Sep 2021 19:19:48 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Welsh Cambrian Mountains lamb granted protected status]]></title>
+            <description><![CDATA[The name has been given protection in the UK under the replacement for the EU's scheme.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-58635223?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-58635223</guid>
+            <pubDate>Tue, 21 Sep 2021 06:30:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Covid: Welsh Labour conference cancelled ahead of expected autumn peak]]></title>
             <description><![CDATA[A thousand people were expected to attend but there are fears of a peak in cases in November.]]></description>
             <link>https://www.bbc.co.uk/news/uk-wales-politics-58623684?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -65,18 +72,18 @@
             <pubDate>Mon, 20 Sep 2021 15:35:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Climate change: Demolition to start on Wales' most polluted street]]></title>
-            <description><![CDATA[Preparatory work on the 23 homes due for demolition is to start following months of delays.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-58584833?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-58584833</guid>
-            <pubDate>Mon, 20 Sep 2021 06:47:40 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Aberystwyth University: Wales' first vet school opens]]></title>
             <description><![CDATA[The first 25 students are starting their five-year degree course in Aberystwyth.]]></description>
             <link>https://www.bbc.co.uk/news/uk-wales-58623904?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-58623904</guid>
             <pubDate>Mon, 20 Sep 2021 13:39:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Climate change: Demolition to start on Wales' most polluted street]]></title>
+            <description><![CDATA[Preparatory work on the 23 homes due for demolition is to start following months of delays.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-58584833?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-58584833</guid>
+            <pubDate>Mon, 20 Sep 2021 06:47:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Anglesey: Man arrested after cyclist injured in A55 hit-and-run]]></title>
@@ -91,13 +98,6 @@
             <link>https://www.bbc.co.uk/news/uk-wales-58615510?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-58615510</guid>
             <pubDate>Mon, 20 Sep 2021 07:03:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cardiff: Man, 19, arrested over serious sex assault]]></title>
-            <description><![CDATA[A 16-year-old girl has been released from hospital following the attack on Saturday night.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-58621569?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-58621569</guid>
-            <pubDate>Mon, 20 Sep 2021 05:46:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: ICU consultant at Glangwili hospital describes pressure]]></title>
@@ -191,11 +191,11 @@
             <pubDate>Tue, 21 Sep 2021 06:06:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Rheolwyr ambiwlans yn 'holi eto am gefnogaeth filwrol']]></title>
-            <description><![CDATA[Mae disgwyl y bydd achosion Covid yn achosi "gaeaf caled" i staff a gwirfoddolwyr.]]></description>
-            <link>https://www.bbc.co.uk/newyddion/58630902?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/newyddion/58630902</guid>
-            <pubDate>Mon, 20 Sep 2021 18:03:29 GMT</pubDate>
+            <title><![CDATA[Sefydlu elusen er cof am griw cwch y Nicola Faith]]></title>
+            <description><![CDATA[Bwriad yr elusen fydd gwella diogelwch ar y môr er cof am dri physgotwr fu farw wedi i'w cwch suddo.]]></description>
+            <link>https://www.bbc.co.uk/newyddion/58631019?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/newyddion/58631019</guid>
+            <pubDate>Tue, 21 Sep 2021 06:22:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A-Z Geiriadur Prifysgol Cymru: 100 mlynedd mewn 30 gair]]></title>
