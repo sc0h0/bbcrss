@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 21 Sep 2021 10:14:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Sep 2021 10:36:50 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Covid-19: NI health service 'will topple over' without action]]></title>
+            <description><![CDATA[Michelle O'Neill warns that healthcare staff are facing "a very difficult winter".]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58636057?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58636057</guid>
+            <pubDate>Tue, 21 Sep 2021 10:22:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[MLAs to debate ban on appointing those with serious convictions]]></title>
             <description><![CDATA[Jim Allister's bill would ban political appointees with serious convictions from positions on public bodies.]]></description>
@@ -51,18 +58,18 @@
             <pubDate>Mon, 20 Sep 2021 12:39:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Samuel McKinley: Murderer from Belfast returned to custody]]></title>
-            <description><![CDATA[The 60-year-old had absconded from custody while on unaccompanied temporary release from prison.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58629093?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58629093</guid>
-            <pubDate>Mon, 20 Sep 2021 18:02:33 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[World Cup qualifying: NI manager Kenny Shiels wants youngsters to learn on Windsor Park stage against Latvia]]></title>
             <description><![CDATA[Northern Ireland manager Kenny Shiels says he will turn to more of his young players for the World Cup qualifier against Latvia at Windsor Park.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58570691?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58570691</guid>
             <pubDate>Tue, 21 Sep 2021 07:14:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Samuel McKinley: Murderer from Belfast returned to custody]]></title>
+            <description><![CDATA[The 60-year-old had absconded from custody while on unaccompanied temporary release from prison.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58629093?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58629093</guid>
+            <pubDate>Mon, 20 Sep 2021 18:02:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tom Oliver: New lines of inquiry offer hope in IRA murder case]]></title>
@@ -84,20 +91,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-cornwall-58632372?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-cornwall-58632372</guid>
             <pubDate>Mon, 20 Sep 2021 19:15:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Folic acid to be added to UK flour to help prevent birth defects]]></title>
-            <description><![CDATA[It is estimated that fortifying flour with folic acid could prevent up to 200 birth defects a year.]]></description>
-            <link>https://www.bbc.co.uk/news/health-58615838?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/health-58615838</guid>
-            <pubDate>Mon, 20 Sep 2021 11:54:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[People 'spread Covid disinformation' at Letterkenny hospital]]></title>
-            <description><![CDATA[A video shows a patient being encouraged to leave the hospital in one of two incidents in recent days.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58622554?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58622554</guid>
-            <pubDate>Mon, 20 Sep 2021 08:11:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: NI records five Covid-linked deaths, 1,020 cases]]></title>
@@ -226,6 +219,13 @@
             <pubDate>Wed, 15 Sep 2021 12:18:13 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[People 'spread Covid disinformation' at Letterkenny hospital]]></title>
+            <description><![CDATA[A video shows a patient being encouraged to leave the hospital in one of two incidents in recent days.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58622554?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58622554</guid>
+            <pubDate>Mon, 20 Sep 2021 08:11:25 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Politicians condemn protest at Leo Varadkar's home]]></title>
             <description><![CDATA[Protesters gathered outside the home of the tánaiste (Ireland's deputy prime minister) on Sunday.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-58623079?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -252,13 +252,6 @@
             <link>https://www.bbc.co.uk/news/world-europe-58619972?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58619972</guid>
             <pubDate>Sun, 19 Sep 2021 21:41:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NI100: Michael D Higgins' invite to centenary event emerges]]></title>
-            <description><![CDATA[Michael D Higgins says the title of the church service to be held in Armagh had become "political".]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58612070?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58612070</guid>
-            <pubDate>Sat, 18 Sep 2021 18:26:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
