@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 21 Sep 2021 07:38:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Sep 2021 07:52:13 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -37,6 +37,13 @@
             <pubDate>Tue, 21 Sep 2021 07:03:19 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Firefighters tackle blaze in Taynuilt Inn in Argyll]]></title>
+            <description><![CDATA[The A85 through Taynuilt has been closed as fire crews deal with the blaze at the Taynuilt Inn.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58635792?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58635792</guid>
+            <pubDate>Tue, 21 Sep 2021 07:41:37 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Hospital building 'almost killed our son']]></title>
             <description><![CDATA[A father tells an inquiry he was left "shell shocked" when his son almost died from a hospital-acquired infection at Glasgow's QEUH.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-58618317?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -49,13 +56,6 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-58627572?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-58627572</guid>
             <pubDate>Mon, 20 Sep 2021 17:03:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Firefighters tackle blaze in Taynuilt Inn in Argyll]]></title>
-            <description><![CDATA[The A85 through Taynuilt has been closed as fire crews deal with the blaze at the Taynuilt Inn.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58635792?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58635792</guid>
-            <pubDate>Tue, 21 Sep 2021 06:54:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Pedestrian dies after being hit by police van in Motherwell]]></title>
@@ -254,6 +254,13 @@
             <pubDate>Mon, 20 Sep 2021 14:47:26 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Celtic make pre-tax loss of £11.5m in annual accounts]]></title>
+            <description><![CDATA[Celtic lost £11.5m last year after a fall in revenue of almost £10m, the club revealed in its annual results.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58635810?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58635810</guid>
+            <pubDate>Tue, 21 Sep 2021 07:37:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Emma Raducanu: Andy Murray won't 'wade in' with advice and opinion]]></title>
             <description><![CDATA[Andy Murray says he would "always be on the end of the phone" to give Emma Raducanu help - but only if she asks for it.]]></description>
             <link>https://www.bbc.co.uk/sport/tennis/58633034?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -273,13 +280,6 @@
             <link>https://www.bbc.co.uk/sport/football/58635717?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58635717</guid>
             <pubDate>Tue, 21 Sep 2021 06:49:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Celtic make worst league start in 23 years - but what’s going on?]]></title>
-            <description><![CDATA[After the worst start to a league season in 23 years, can Ange Postecoglou get his side out of their rut sooner rather than later?]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58617548?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58617548</guid>
-            <pubDate>Mon, 20 Sep 2021 07:29:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
