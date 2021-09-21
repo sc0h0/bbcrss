@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 21 Sep 2021 06:53:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Sep 2021 07:06:33 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -42,6 +42,13 @@
             <link>https://www.bbc.co.uk/news/uk-58628865?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58628865</guid>
             <pubDate>Tue, 21 Sep 2021 00:23:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19: Child mental health care delays and intensive care staff 'burnt out']]></title>
+            <description><![CDATA[Five things you need to know about the coronavirus pandemic this Tuesday morning.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-58635096?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58635096</guid>
+            <pubDate>Tue, 21 Sep 2021 06:41:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Texas abortion: Doctor sued in first known challenges of new law]]></title>
@@ -77,13 +84,6 @@
             <link>https://www.bbc.co.uk/news/world-us-canada-58628491?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58628491</guid>
             <pubDate>Tue, 21 Sep 2021 03:54:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Evergrande: Asia stocks down as investors weigh China concerns]]></title>
-            <description><![CDATA[The Chinese property giant is facing a major debt crisis, triggering fears of contagion in global markets.]]></description>
-            <link>https://www.bbc.co.uk/news/business-58632681?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58632681</guid>
-            <pubDate>Tue, 21 Sep 2021 06:29:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Kidbrooke death: Teacher found dead near community centre named]]></title>
@@ -259,6 +259,13 @@
             <link>https://www.bbc.co.uk/sport/av/american-football/58625659?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/av/american-football/58625659</guid>
             <pubDate>Mon, 20 Sep 2021 11:20:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Match of the Day 2 analysis: How Manchester United beat West Ham in Premier League]]></title>
+            <description><![CDATA[Match of the Day 2 pundits Mark Chapman, Alan Shearer and Dion Dublin discuss Jesse Lingard's "cracker" and Mark Noble's injury-time penalty miss in Manchester United's 2-1 victory over West Ham in the Premier League.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/football/58620437?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/av/football/58620437</guid>
+            <pubDate>Sun, 19 Sep 2021 23:01:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Travel update: What are the new rules for holidays in Europe and the US?]]></title>
