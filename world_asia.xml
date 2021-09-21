@@ -11,16 +11,16 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 21 Sep 2021 13:46:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Sep 2021 14:02:28 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
-            <title><![CDATA[UK shared 250 Afghan interpreters' details on email]]></title>
-            <description><![CDATA[Defence Secretary Ben Wallace has launched an investigation, while the MoD has apologised for the breach.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58629592?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58629592</guid>
-            <pubDate>Tue, 21 Sep 2021 11:23:17 GMT</pubDate>
+            <title><![CDATA[Afghan girls school ban would be un-Islamic, Pakistan PM says]]></title>
+            <description><![CDATA[Prime Minister Imran Khan speaks to the BBC's John Simpson about events in neighbouring Afghanistan.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58639538?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58639538</guid>
+            <pubDate>Tue, 21 Sep 2021 13:37:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Evergrande: Asia stocks mixed as investors weigh China concerns]]></title>
@@ -30,13 +30,6 @@
             <pubDate>Tue, 21 Sep 2021 08:37:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Afghanistan: Fighting off hunger under the Taliban]]></title>
-            <description><![CDATA[For most Afghans staving off starvation is the biggest challenge since the Taliban returned to power.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58624998?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58624998</guid>
-            <pubDate>Mon, 20 Sep 2021 15:16:43 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Cambodia: The autistic teenager jailed over a Telegram post]]></title>
             <description><![CDATA[He allegedly insulted Cambodia's government, prompting heavily-armed policemen to arrest him.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-58588022?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -44,11 +37,25 @@
             <pubDate>Mon, 20 Sep 2021 23:40:37 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[UK defence secretary angered by Afghan data breach]]></title>
+            <description><![CDATA[Ben Wallace apologises to Afghan interpreters, mistakenly copied into an email, as one person is suspended.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-58639463?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58639463</guid>
+            <pubDate>Tue, 21 Sep 2021 14:00:36 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Covid: Melbourne construction sites shut after violent vaccine protest]]></title>
             <description><![CDATA[Construction sites in the Australian city are shut for two weeks after a demonstration against jabs.]]></description>
             <link>https://www.bbc.co.uk/news/world-australia-58628629?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-australia-58628629</guid>
             <pubDate>Tue, 21 Sep 2021 04:48:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Afghanistan: Fighting off hunger under the Taliban]]></title>
+            <description><![CDATA[For most Afghans staving off starvation is the biggest challenge since the Taliban returned to power.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58624998?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58624998</guid>
+            <pubDate>Mon, 20 Sep 2021 15:16:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Guinness World Records: Japanese sisters certified world's oldest twins]]></title>
@@ -72,13 +79,6 @@
             <pubDate>Mon, 20 Sep 2021 13:03:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Giving birth under the Taliban]]></title>
-            <description><![CDATA[Pregnant women, new mothers and infants are bearing the brunt of a worsening healthcare crisis.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58585323?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58585323</guid>
-            <pubDate>Mon, 20 Sep 2021 00:59:24 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Afghanistan: Stay home, female Kabul government workers told]]></title>
             <description><![CDATA[It is the latest restriction imposed on Afghanistan's women by the country's new Taliban rulers.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-58614113?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -98,6 +98,13 @@
             <link>https://www.bbc.co.uk/news/world-asia-india-58580924?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-india-58580924</guid>
             <pubDate>Mon, 20 Sep 2021 06:35:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Giving birth under the Taliban]]></title>
+            <description><![CDATA[Pregnant women, new mothers and infants are bearing the brunt of a worsening healthcare crisis.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58585323?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58585323</guid>
+            <pubDate>Mon, 20 Sep 2021 00:59:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[India Covid-19: Meet the teacher who turned a street into a classroom]]></title>
