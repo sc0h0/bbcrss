@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 21 Sep 2021 15:43:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Sep 2021 16:28:07 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -23,18 +23,18 @@
             <pubDate>Tue, 21 Sep 2021 15:42:15 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Manchester Arena Inquiry: York couple died in each other's arms]]></title>
+            <description><![CDATA[Marcin and Angelika Klis, who lived in York, were among 22 people killed in the Manchester attack.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-manchester-58642553?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-manchester-58642553</guid>
+            <pubDate>Tue, 21 Sep 2021 16:10:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Killamarsh deaths: Police continue murder investigation]]></title>
             <description><![CDATA[Terri Harris and her children Lacey and John Paul were found dead with Lacey's friend Connie Gent.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-derbyshire-58636001?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-derbyshire-58636001</guid>
             <pubDate>Tue, 21 Sep 2021 14:04:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Leeds Rhinos: Blind rugby league player makes conversion]]></title>
-            <description><![CDATA[Leeds Rhinos player James King says his team-mates' screams alerted him to the impressive feat.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-leeds-58638230?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-leeds-58638230</guid>
-            <pubDate>Tue, 21 Sep 2021 12:59:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Danny Hodgson: Punch-attack footballer in coma opens eyes]]></title>
@@ -58,11 +58,18 @@
             <pubDate>Tue, 21 Sep 2021 15:08:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[M25 protests: Arrests made as Insulate Britain blocks motorway]]></title>
+            <title><![CDATA[M25 protests: Protesters 'may cause serious injury or death']]></title>
             <description><![CDATA[Insulate Britain protesters blocked traffic on both carriageways of the motorway in Surrey.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-surrey-58636399?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-surrey-58636399</guid>
-            <pubDate>Tue, 21 Sep 2021 13:28:37 GMT</pubDate>
+            <pubDate>Tue, 21 Sep 2021 16:26:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Leeds Rhinos: Blind rugby league player makes conversion]]></title>
+            <description><![CDATA[Leeds Rhinos player James King says his team-mates' screams alerted him to the impressive feat.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-leeds-58638230?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-leeds-58638230</guid>
+            <pubDate>Tue, 21 Sep 2021 12:59:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Salisbury poisonings: Third man faces charges for Novichok attack]]></title>
@@ -77,13 +84,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-cumbria-58638068?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-cumbria-58638068</guid>
             <pubDate>Tue, 21 Sep 2021 15:05:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cleveland PCC Steve Turner accused of theft by MP]]></title>
-            <description><![CDATA[MP Andy McDonald uses parliamentary privilege to claim Steve Turner was sacked by a former employer.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-tees-58637507?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-tees-58637507</guid>
-            <pubDate>Tue, 21 Sep 2021 09:13:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Arundel Castle: Man arrested over Mary Queen of Scots rosary theft]]></title>
@@ -133,6 +133,13 @@
             <link>https://www.bbc.co.uk/news/uk-england-birmingham-58638301?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-birmingham-58638301</guid>
             <pubDate>Tue, 21 Sep 2021 10:40:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cleveland PCC Steve Turner accused of theft by MP]]></title>
+            <description><![CDATA[MP Andy McDonald uses parliamentary privilege to claim Steve Turner was sacked by a former employer.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-tees-58637507?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-tees-58637507</guid>
+            <pubDate>Tue, 21 Sep 2021 09:13:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Eden Project staff given fully paid 'wellbeing week']]></title>
