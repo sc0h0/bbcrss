@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 21 Sep 2021 08:20:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Sep 2021 08:36:15 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -28,6 +28,13 @@
             <link>https://www.bbc.co.uk/news/science-environment-58608295?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/science-environment-58608295</guid>
             <pubDate>Tue, 21 Sep 2021 01:32:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why is there a CO2 shortage and how will it hit food supplies?]]></title>
+            <description><![CDATA[The food and drink industry is warning of supermarket shortages because of a lack of CO2.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-58626935?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/explainers-58626935</guid>
+            <pubDate>Mon, 20 Sep 2021 16:58:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Rich nations must increase climate support funds, says Boris Johnson]]></title>
@@ -58,13 +65,6 @@
             <pubDate>Fri, 17 Sep 2021 15:21:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Climate change: Should green campaigners put more pressure on China to slash emissions?]]></title>
-            <description><![CDATA[UK activists have protested on the M25, but should they instead be picketing China's embassy?]]></description>
-            <link>https://www.bbc.co.uk/news/science-environment-58584976?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/science-environment-58584976</guid>
-            <pubDate>Sat, 18 Sep 2021 01:01:07 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Earthshot Prize: Prince William's environment finalists unveiled]]></title>
             <description><![CDATA[The 15 finalists of Prince William's inaugural Earthshot Prize are tackling the planet's problems.]]></description>
             <link>https://www.bbc.co.uk/news/science-environment-58591485?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -79,11 +79,11 @@
             <pubDate>Fri, 17 Sep 2021 15:05:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[California fires: General Sherman and other sequoias given blankets]]></title>
-            <description><![CDATA[Fire-resistant blankets protect General Sherman and other sequoias as a California blaze closes in.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-58592376?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58592376</guid>
-            <pubDate>Fri, 17 Sep 2021 12:12:33 GMT</pubDate>
+            <title><![CDATA[Climate change: Should green campaigners put more pressure on China to slash emissions?]]></title>
+            <description><![CDATA[UK activists have protested on the M25, but should they instead be picketing China's embassy?]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-58584976?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/science-environment-58584976</guid>
+            <pubDate>Sat, 18 Sep 2021 01:01:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Climate change: Biden urges world leaders to cut methane gas emissions]]></title>
@@ -170,6 +170,13 @@
             <pubDate>Thu, 16 Sep 2021 17:02:54 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Climate change: World now sees twice as many days over 50C]]></title>
+            <description><![CDATA[BBC research finds the number of days passing 50C has doubled in the past 40 years.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-58494641?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/science-environment-58494641</guid>
+            <pubDate>Mon, 13 Sep 2021 20:35:05 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Mangrove forests: Photography winners show beauty of ecosystems]]></title>
             <description><![CDATA[The Mangrove Photography Award winners show unique ecosystems above and below the waterline.]]></description>
             <link>https://www.bbc.co.uk/news/in-pictures-58558932?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -196,13 +203,6 @@
             <link>https://www.bbc.co.uk/news/world-australia-58552939?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-australia-58552939</guid>
             <pubDate>Mon, 13 Sep 2021 22:18:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Climate change: World now sees twice as many days over 50C]]></title>
-            <description><![CDATA[BBC research finds the number of days passing 50C has doubled in the past 40 years.]]></description>
-            <link>https://www.bbc.co.uk/news/science-environment-58494641?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/science-environment-58494641</guid>
-            <pubDate>Mon, 13 Sep 2021 20:35:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
