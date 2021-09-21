@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 21 Sep 2021 11:34:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Sep 2021 11:55:21 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -72,6 +72,13 @@
             <pubDate>Tue, 21 Sep 2021 10:40:09 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[HMYOI Aylesbury declares itself Covid outbreak site]]></title>
+            <description><![CDATA[The young offender institution says a "high number" of inmates have tested positive for Covid-19.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-58638250?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-58638250</guid>
+            <pubDate>Tue, 21 Sep 2021 11:50:02 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Bluebird: Campbell's daughter says craft will return to Coniston Water]]></title>
             <description><![CDATA[The original parts are to be returned to a Coniston museum after its restoration was taken apart.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-cumbria-58632814?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -84,13 +91,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-devon-58638040?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-devon-58638040</guid>
             <pubDate>Tue, 21 Sep 2021 10:26:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gateshead traffic gridlock prompts urgent investigation]]></title>
-            <description><![CDATA[Gateshead Council says it is looking into last week's congestion as "a matter of urgency".]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-tyne-58635656?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-tyne-58635656</guid>
-            <pubDate>Tue, 21 Sep 2021 08:06:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Lillie's virtual Ben Nevis fundraising challenge]]></title>
@@ -135,6 +135,13 @@
             <pubDate>Tue, 21 Sep 2021 08:54:27 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Gateshead traffic gridlock prompts urgent investigation]]></title>
+            <description><![CDATA[Gateshead Council says it is looking into last week's congestion as "a matter of urgency".]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-tyne-58635656?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-tyne-58635656</guid>
+            <pubDate>Tue, 21 Sep 2021 08:06:34 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Jones makes major changes to England squad ]]></title>
             <description><![CDATA[Billy and Mako Vunipola plus George Ford are left out of a 45-man training squad as eight uncapped players including Louis Lynagh are called up.]]></description>
             <link>https://www.bbc.co.uk/sport/rugby-union/58635746?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -154,13 +161,6 @@
             <link>https://www.bbc.co.uk/sport/football/58604822?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58604822</guid>
             <pubDate>Tue, 21 Sep 2021 11:03:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Murray 'not going to wade in' with advice for Raducanu]]></title>
-            <description><![CDATA[Andy Murray says he would "always be on the end of the phone" to give Emma Raducanu help - but only if she asks for it.]]></description>
-            <link>https://www.bbc.co.uk/sport/tennis/58633034?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/58633034</guid>
-            <pubDate>Mon, 20 Sep 2021 20:12:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
