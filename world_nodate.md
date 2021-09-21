@@ -1,4 +1,4 @@
-1. [Covid: US opens up to fully vaccinated travellers](https://www.bbc.co.uk/news/world-us-canada-58628491?at_medium=RSS&at_campaign=KARANGA) - The US rolls back international travel restrictions, answering a major demand from allies.
+1. [Afghan interpreters' details in UK data breach](https://www.bbc.co.uk/news/uk-58629592?at_medium=RSS&at_campaign=KARANGA) - Defence Secretary Ben Wallace has launched an investigation, while the MoD has apologised for the breach.
 2. [Texas abortion: Doctor sued in first known challenges of new law](https://www.bbc.co.uk/news/world-us-canada-58633515?at_medium=RSS&at_campaign=KARANGA) - The cases against a doctor who admitted to performing an abortion are the first known lawsuits.
 3. [Wally the wandering walrus is spotted in Iceland](https://www.bbc.co.uk/news/uk-england-cornwall-58632372?at_medium=RSS&at_campaign=KARANGA) - The 800kg mammal had not been seen for more than three weeks.
 4. [Afghanistan: Fighting off hunger under the Taliban](https://www.bbc.co.uk/news/world-asia-58624998?at_medium=RSS&at_campaign=KARANGA) - For most Afghans staving off starvation is the biggest challenge since the Taliban returned to power.
