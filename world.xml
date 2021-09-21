@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 21 Sep 2021 12:14:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Sep 2021 12:35:56 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -58,6 +58,13 @@
             <pubDate>Tue, 21 Sep 2021 07:46:24 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[New Zealand Covid: Men caught smuggling KFC into lockdown-hit Auckland]]></title>
+            <description><![CDATA[The pair, who were also carrying large amounts of cash, could face six months in prison.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-pacific-58638752?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-pacific-58638752</guid>
+            <pubDate>Tue, 21 Sep 2021 12:31:30 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Sudan failed coup: Government blames pro-Bashir elements]]></title>
             <description><![CDATA[The government says the coup plotters are linked to ex-President Bashir, who was toppled in 2019.]]></description>
             <link>https://www.bbc.co.uk/news/world-africa-58629978?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -98,13 +105,6 @@
             <link>https://www.bbc.co.uk/news/business-58632681?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58632681</guid>
             <pubDate>Tue, 21 Sep 2021 08:37:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A year in Calais: One migrant’s year-long attempt to cross the Channel]]></title>
-            <description><![CDATA[The BBC followed Iranian migrant Alex, as he tried to cross from France to the UK with a smuggler.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58629132?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58629132</guid>
-            <pubDate>Mon, 20 Sep 2021 23:28:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Afghanistan: Fighting off hunger under the Taliban]]></title>
@@ -205,6 +205,13 @@
             <pubDate>Sun, 19 Sep 2021 23:01:49 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[A year in Calais: One migrant’s year-long attempt to cross the Channel]]></title>
+            <description><![CDATA[The BBC followed Iranian migrant Alex, as he tried to cross from France to the UK with a smuggler.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58629132?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58629132</guid>
+            <pubDate>Mon, 20 Sep 2021 23:28:52 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[La Palma volcano: Lava destroys homes in the Canary Islands]]></title>
             <description><![CDATA[A volcanic eruption on the Spanish island of La Palma has demolished homes and caused evacuations.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-58625781?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -224,13 +231,6 @@
             <link>https://www.bbc.co.uk/news/world-africa-58602632?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-africa-58602632</guid>
             <pubDate>Sun, 19 Sep 2021 23:05:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[My husband and son fought in Afghanistan - it changed all of us]]></title>
-            <description><![CDATA[America's two decades in Afghanistan impacted those who served - and the families waiting at home.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-58603119?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58603119</guid>
-            <pubDate>Sun, 19 Sep 2021 18:46:45 GMT</pubDate>
         </item>
     </channel>
 </rss>

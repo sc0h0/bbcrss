@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 21 Sep 2021 12:32:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Sep 2021 13:01:19 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -72,6 +72,13 @@
             <pubDate>Tue, 21 Sep 2021 07:52:11 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Call to extend paid leave for miscarriage before 24 weeks]]></title>
+            <description><![CDATA[An MP wants women and their partners to get three days paid leave if a pregnancy ends before 24 weeks.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-58399309?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-politics-58399309</guid>
+            <pubDate>Tue, 21 Sep 2021 08:03:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Cross-border City of Culture bid divide emerges]]></title>
             <description><![CDATA[A political split develops over plans to seek the status for southern Scotland and northern England.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-south-scotland-58637387?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -91,13 +98,6 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-58633395?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-58633395</guid>
             <pubDate>Tue, 21 Sep 2021 07:03:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hospital building 'almost killed our son']]></title>
-            <description><![CDATA[A father tells an inquiry he was left "shell shocked" when his son almost died from a hospital-acquired infection at Glasgow's QEUH.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-58618317?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-58618317</guid>
-            <pubDate>Mon, 20 Sep 2021 18:13:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Vaccine passports: The key questions on the scheme's introduction to Scottish sport]]></title>
@@ -247,18 +247,18 @@
             <pubDate>Mon, 20 Sep 2021 17:27:48 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Lee Miller: Former Scotland striker turned barber cut Sportscene's Jonathan Sutherland's hair]]></title>
+            <description><![CDATA[Lee Miller has found a new vocation as a barber and Sportscene's Jonathan Sutherland went to put the former Scotland forward's new skills to the test.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/football/58632495?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/av/football/58632495</guid>
+            <pubDate>Tue, 21 Sep 2021 12:35:34 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Scottish Gossip: Celtic, McCarthy, Postecoglou, Rangers, Patterson, Hibs, Aberdeen]]></title>
             <description><![CDATA[New Celtic signing struggling in training and MSPs to debate dementia in football.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58635717?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58635717</guid>
             <pubDate>Tue, 21 Sep 2021 06:49:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Celtic make worst league start in 23 years - but what’s going on?]]></title>
-            <description><![CDATA[After the worst start to a league season in 23 years, can Ange Postecoglou get his side out of their rut sooner rather than later?]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58617548?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58617548</guid>
-            <pubDate>Mon, 20 Sep 2021 07:29:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
