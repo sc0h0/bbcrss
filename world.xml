@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 21 Sep 2021 21:34:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Sep 2021 21:39:52 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -191,6 +191,13 @@
             <pubDate>Mon, 20 Sep 2021 11:09:42 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[BTS: Korean boyband open UN general debate with performance and speech]]></title>
+            <description><![CDATA[The UN general debate opened with K-pop band BTS, followed by a speech about sustainable development.]]></description>
+            <link>https://www.bbc.co.uk/news/world-58644982?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-58644982</guid>
+            <pubDate>Tue, 21 Sep 2021 21:31:50 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Imran Khan: Afghan women 'are very strong']]></title>
             <description><![CDATA[Pakistan's prime minster suggests that, in time, women can "assert their rights" under the Taliban.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-58636544?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -210,13 +217,6 @@
             <link>https://www.bbc.co.uk/news/world-europe-58625781?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58625781</guid>
             <pubDate>Mon, 20 Sep 2021 11:25:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fauci looks to boost vaccines as US infections rise]]></title>
-            <description><![CDATA[The US daily death toll from Covid-19 has risen above 2,000 for the first time since February.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-58628409?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58628409</guid>
-            <pubDate>Mon, 20 Sep 2021 13:33:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
