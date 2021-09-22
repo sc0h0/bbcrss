@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 22 Sep 2021 11:52:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Sep 2021 12:21:20 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Teachers mourn kind and caring murdered colleague ]]></title>
+            <description><![CDATA[Sabina Nessa's body was discovered in a walkway just off a park in south-east London.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-58639602?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-london-58639602</guid>
+            <pubDate>Wed, 22 Sep 2021 11:57:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Killamarsh: Man in court charged with murdering three children and woman]]></title>
             <description><![CDATA[Damien Bendall is accused of murdering Terri Harris and three children at a house in Derbyshire.]]></description>
@@ -27,7 +34,7 @@
             <description><![CDATA[Sutcliffe died from Covid-19, with heart disease and diabetes contributing, an inquest hears.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-leeds-58651328?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-leeds-58651328</guid>
-            <pubDate>Wed, 22 Sep 2021 11:49:12 GMT</pubDate>
+            <pubDate>Wed, 22 Sep 2021 12:19:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Manchester flooding: Major incident after burst water main]]></title>
@@ -51,13 +58,6 @@
             <pubDate>Wed, 22 Sep 2021 11:22:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[HMP Bronzefield baby death: Mother was 'failed' says inspectors]]></title>
-            <description><![CDATA[Inspectors say the death of the newborn baby at HMP Bronzefield "should never have happened'.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-58646499?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-58646499</guid>
-            <pubDate>Wed, 22 Sep 2021 10:00:02 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Windsor Castle reveals huge equestrian production for Platinum Jubilee]]></title>
             <description><![CDATA[A Gallop Through History will take place in the grounds of Windsor Castle in May.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-berkshire-58648797?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -69,7 +69,7 @@
             <description><![CDATA[Dan Burton, who died during a round-Britain challenge, was "dedicated to exploration", his family say.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-devon-58650415?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-devon-58650415</guid>
-            <pubDate>Wed, 22 Sep 2021 10:33:58 GMT</pubDate>
+            <pubDate>Wed, 22 Sep 2021 12:15:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Harry Dunn: Family aim to 'forge ahead' with criminal case]]></title>
@@ -133,6 +133,13 @@
             <link>https://www.bbc.co.uk/news/uk-england-cambridgeshire-58599762?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-cambridgeshire-58599762</guid>
             <pubDate>Sat, 18 Sep 2021 23:40:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[HMP Bronzefield baby death: Mother was 'failed' says inspectors]]></title>
+            <description><![CDATA[Inspectors say the death of the newborn baby at HMP Bronzefield "should never have happened'.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-58646499?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-58646499</guid>
+            <pubDate>Wed, 22 Sep 2021 10:00:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Man stabbed to death in street fight]]></title>
