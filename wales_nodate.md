@@ -26,4 +26,4 @@
 26. [Y cyflwynydd a'r cynhyrchydd radio Magi Dodd wedi marw](https://www.bbc.co.uk/newyddion/58643562?at_medium=RSS&at_campaign=KARANGA) - Daeth yn llais cyfarwydd ar raglenni C2 Radio Cymru ac fel cyflwynydd Dodd Com.
 27. [Pas Covid: 'Aros byth a hefyd' i addasu technoleg i Gymru](https://www.bbc.co.uk/newyddion/58652571?at_medium=RSS&at_campaign=KARANGA) - Er mwyn cael copi dwyieithog o'r pas Covid, rhaid gwneud cais am fersiwn bapur ar hyn o bryd.
 28. [Codi pwysau a newid byd](https://www.bbc.co.uk/newyddion/58653332?at_medium=RSS&at_campaign=KARANGA) - Sioned Halpin o Gydweli a'i siwrne i fod yn un o fenywod cryfa' Cymru
-29. [Gêm Ragbrofol Cwpan y Byd Merched 2023: Estonia 0-1 Cymru](https://www.bbc.co.uk/newyddion/58643559?at_medium=RSS&at_campaign=KARANGA) - Gôl gynnar gan Tash Harding yn rhoi buddugoliaeth gyfforddus, ond rwystredig, i Gymru yn Estonia.
+29. [Morgannwg mewn sefyllfa gref yn erbyn Sussex](https://www.bbc.co.uk/newyddion/58657996?at_medium=RSS&at_campaign=KARANGA) - Llwyddodd y Cymry i gyrraedd sgôr o 672-6 cyn dod â'u batiad cyntaf i ben ar yr Oval.
