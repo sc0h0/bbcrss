@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 22 Sep 2021 01:38:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Sep 2021 02:15:10 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Joe Biden downplays chances of UK-US trade deal]]></title>
+            <description><![CDATA[The US president's comments come as he met Boris Johnson for talks in the White House.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-58646017?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-politics-58646017</guid>
+            <pubDate>Wed, 22 Sep 2021 01:55:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[CF Industries: Government to meet CO2 firm's costs to start plant]]></title>
             <description><![CDATA[It comes after one industry group warned shoppers could start noticing gaps on shelves within days.]]></description>
@@ -23,18 +30,11 @@
             <pubDate>Tue, 21 Sep 2021 23:05:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Boris Johnson and Joe Biden meet at White House]]></title>
-            <description><![CDATA[The talks between the UK prime minister and US president come as a possible trade pact is considered.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-58646017?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-politics-58646017</guid>
-            <pubDate>Tue, 21 Sep 2021 22:59:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gabby Petito: Body found in Wyoming is missing 'van life' blogger]]></title>
-            <description><![CDATA[A coroner says the 22-year-old's death was a homicide but gives no details as to how she died.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-58646087?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58646087</guid>
-            <pubDate>Tue, 21 Sep 2021 23:26:45 GMT</pubDate>
+            <title><![CDATA[Melbourne earthquake: Tremor rattles southeast Australia]]></title>
+            <description><![CDATA[A 5.8 magnitude earthquake rattles Australia's second largest city, causing damage to buildings.]]></description>
+            <link>https://www.bbc.co.uk/news/world-australia-58646917?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-australia-58646917</guid>
+            <pubDate>Wed, 22 Sep 2021 01:59:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Pen Farthing: Charity Commission scrutinises Afghan animal rescue]]></title>
@@ -51,11 +51,18 @@
             <pubDate>Tue, 21 Sep 2021 23:01:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Melbourne earthquake: Tremor rattles southeast Australia]]></title>
-            <description><![CDATA[A 6.0 magnitude earthquake rattles Australia's second largest city, causing damage to buildings.]]></description>
-            <link>https://www.bbc.co.uk/news/world-australia-58646917?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-australia-58646917</guid>
-            <pubDate>Wed, 22 Sep 2021 01:02:54 GMT</pubDate>
+            <title><![CDATA[Overprescribing of medicines must stop, says government]]></title>
+            <description><![CDATA[Some prescribed treatments are unnecessary and even harmful, says government-commissioned report.]]></description>
+            <link>https://www.bbc.co.uk/news/health-58639253?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/health-58639253</guid>
+            <pubDate>Tue, 21 Sep 2021 23:43:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gabby Petito: Body found in Wyoming is missing 'van life' blogger]]></title>
+            <description><![CDATA[A coroner says the 22-year-old's death was a homicide but gives no details as to how she died.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-58646087?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58646087</guid>
+            <pubDate>Tue, 21 Sep 2021 23:26:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sharon Graham: Unite leader to skip Labour conference]]></title>
@@ -63,13 +70,6 @@
             <link>https://www.bbc.co.uk/news/uk-politics-58644894?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-politics-58644894</guid>
             <pubDate>Tue, 21 Sep 2021 21:27:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Overprescribing of medicines must stop, says government]]></title>
-            <description><![CDATA[Some prescribed treatments are unnecessary and even harmful, says government-commissioned report.]]></description>
-            <link>https://www.bbc.co.uk/news/health-58639253?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/health-58639253</guid>
-            <pubDate>Tue, 21 Sep 2021 23:43:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['No clear end to HS2 cost and delays' say MPs]]></title>
@@ -98,13 +98,6 @@
             <link>https://www.bbc.co.uk/news/world-asia-58632147?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58632147</guid>
             <pubDate>Tue, 21 Sep 2021 23:32:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Harry Dunn: Parents reach resolution in civil case against suspect]]></title>
-            <description><![CDATA[The parents of the teenager, killed in 2019, had filed a claim for damages against Anne Sacoolas.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-northamptonshire-58642224?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-northamptonshire-58642224</guid>
-            <pubDate>Tue, 21 Sep 2021 16:49:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[GCSE media studies to cover Rashford's food campaign]]></title>
@@ -189,6 +182,13 @@
             <link>https://www.bbc.co.uk/news/57975275?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/57975275</guid>
             <pubDate>Tue, 21 Sep 2021 15:24:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[German elections: Businesses face future without Merkel]]></title>
+            <description><![CDATA[Many companies in Germany are focused on short-term survival in the hope of medium-term revival.]]></description>
+            <link>https://www.bbc.co.uk/news/58632324?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/58632324</guid>
+            <pubDate>Wed, 22 Sep 2021 00:37:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Fifa 22 soundtrack: Why getting on it is a 'bucket list' moment]]></title>
