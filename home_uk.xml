@@ -11,30 +11,30 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 22 Sep 2021 14:02:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Sep 2021 14:19:41 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
             <title><![CDATA[Gas crisis: Energy regulator warns more customers face hit]]></title>
-            <description><![CDATA[Ofgem warns thousands of customers will have to move supplier, then Green Energy goes bust.]]></description>
+            <description><![CDATA[Ofgem warns thousands of customers will have to move supplier, then Green goes bust.]]></description>
             <link>https://www.bbc.co.uk/news/business-58652083?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58652083</guid>
             <pubDate>Wed, 22 Sep 2021 13:58:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[US lifting ban on imports of British lamb, says Boris Johnson]]></title>
-            <description><![CDATA[The PM says farmers can export to the US, and insists the chances of a wider trade deal are not fading.]]></description>
+            <description><![CDATA[The PM welcomes the change, but admits the UK is now aiming only for "incremental step" on US trade.]]></description>
             <link>https://www.bbc.co.uk/news/uk-politics-58654045?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-politics-58654045</guid>
-            <pubDate>Wed, 22 Sep 2021 13:32:05 GMT</pubDate>
+            <pubDate>Wed, 22 Sep 2021 14:12:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Boris Johnson tells Macron: Donnez-moi un break over new pact]]></title>
             <description><![CDATA[Boris Johnson tells the French president to "get a grip" amid anger over a submarine deal.]]></description>
             <link>https://www.bbc.co.uk/news/uk-58654624?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58654624</guid>
-            <pubDate>Wed, 22 Sep 2021 13:29:26 GMT</pubDate>
+            <pubDate>Wed, 22 Sep 2021 14:15:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Killamarsh: Man in court charged with murdering three children and woman]]></title>
@@ -49,6 +49,13 @@
             <link>https://www.bbc.co.uk/news/entertainment-arts-58648566?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-58648566</guid>
             <pubDate>Wed, 22 Sep 2021 12:43:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sabina Nessa murder: Family left devastated by teacher's death in Kidbrooke]]></title>
+            <description><![CDATA[Her cousin pays tribute to the primary school teacher describing her as a "beautiful soul".]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-58639602?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-london-58639602</guid>
+            <pubDate>Wed, 22 Sep 2021 14:09:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Insulate Britain: Injunction granted against M25 protesters]]></title>
@@ -70,13 +77,6 @@
             <link>https://www.bbc.co.uk/news/science-environment-58628689?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/science-environment-58628689</guid>
             <pubDate>Wed, 22 Sep 2021 09:00:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sabina Nessa: Vigil to be held for teacher murdered in Kidbrooke]]></title>
-            <description><![CDATA[Sabina Nessa's body was discovered in a walkway just off a park in south-east London.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-london-58639602?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-london-58639602</guid>
-            <pubDate>Wed, 22 Sep 2021 13:12:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Teen inmate whose baby died in prison was failed, report says]]></title>
@@ -282,13 +282,6 @@
             <pubDate>Wed, 15 Sep 2021 14:22:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Travel update: What are the new rules for holidays in Europe and the US?]]></title>
-            <description><![CDATA[Eight countries have now moved from the UK's red travel lists, to the less restrictive amber.]]></description>
-            <link>https://www.bbc.co.uk/news/explainers-52544307?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/explainers-52544307</guid>
-            <pubDate>Wed, 22 Sep 2021 12:44:48 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Covid-19 in the UK: How many coronavirus cases are there in my area?]]></title>
             <description><![CDATA[Explore the data on coronavirus in the UK and find out how many cases there are in your area.]]></description>
             <link>https://www.bbc.co.uk/news/uk-51768274?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -300,7 +293,7 @@
             <description><![CDATA[People in Scotland will need to be fully vaccinated to go to clubs, sporting events and concerts.]]></description>
             <link>https://www.bbc.co.uk/news/explainers-55718553?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/explainers-55718553</guid>
-            <pubDate>Wed, 22 Sep 2021 09:39:14 GMT</pubDate>
+            <pubDate>Wed, 22 Sep 2021 14:13:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid rules: What's in England's 'Winter Plan'?]]></title>
@@ -315,6 +308,13 @@
             <link>https://www.bbc.co.uk/news/business-50504151?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/business-50504151</guid>
             <pubDate>Tue, 21 Sep 2021 06:34:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Travel update: What are the new rules for holidays in Europe and the US?]]></title>
+            <description><![CDATA[Eight countries have now moved from the UK's red travel lists, to the less restrictive amber.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-52544307?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/explainers-52544307</guid>
+            <pubDate>Wed, 22 Sep 2021 12:44:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Universal credit: When will the £20 increase stop?]]></title>
