@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 22 Sep 2021 05:42:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Sep 2021 05:59:00 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -30,11 +30,11 @@
             <pubDate>Tue, 21 Sep 2021 23:21:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Manchester Arena Inquiry: York couple died in each other's arms]]></title>
-            <description><![CDATA[Marcin and Angelika Klis, who lived in York, were among 22 people killed in the Manchester attack.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-manchester-58642553?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-manchester-58642553</guid>
-            <pubDate>Tue, 21 Sep 2021 16:10:51 GMT</pubDate>
+            <title><![CDATA[SSD Concerts: Questions over This Is Tomorrow festival work]]></title>
+            <description><![CDATA[Bands severed ties with SSD Concerts amid sexual harassment allegations against the firm's founder.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-tyne-58626905?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-tyne-58626905</guid>
+            <pubDate>Wed, 22 Sep 2021 05:20:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[GCSE media studies to cover Rashford's food campaign]]></title>
@@ -44,11 +44,11 @@
             <pubDate>Tue, 21 Sep 2021 23:54:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[SSD Concerts: Questions over This Is Tomorrow festival work]]></title>
-            <description><![CDATA[Bands severed ties with SSD Concerts amid sexual harassment allegations against the firm's founder.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-tyne-58626905?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-tyne-58626905</guid>
-            <pubDate>Wed, 22 Sep 2021 05:20:39 GMT</pubDate>
+            <title><![CDATA[Manchester Arena Inquiry: York couple died in each other's arms]]></title>
+            <description><![CDATA[Marcin and Angelika Klis, who lived in York, were among 22 people killed in the Manchester attack.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-manchester-58642553?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-manchester-58642553</guid>
+            <pubDate>Tue, 21 Sep 2021 16:10:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sabina Nessa: Murdered teacher's body found hours after attack]]></title>
@@ -93,11 +93,11 @@
             <pubDate>Tue, 21 Sep 2021 19:04:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[M25 protests: Protesters 'may cause serious injury or death']]></title>
-            <description><![CDATA[Insulate Britain protesters blocked traffic on both carriageways of the motorway in Surrey.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-surrey-58636399?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-surrey-58636399</guid>
-            <pubDate>Tue, 21 Sep 2021 17:57:39 GMT</pubDate>
+            <title><![CDATA[Northampton firm which supplied a robe to Prince George reopens after fire]]></title>
+            <description><![CDATA[A gift firm relocates its 120-strong workforce to a new site after its headquarters burned down.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-northamptonshire-58640179?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-northamptonshire-58640179</guid>
+            <pubDate>Wed, 22 Sep 2021 05:55:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Drink driver's erratic journey captured on his own dashcam]]></title>
@@ -135,6 +135,13 @@
             <pubDate>Sat, 18 Sep 2021 08:28:57 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[M25 protests: Protesters 'may cause serious injury or death']]></title>
+            <description><![CDATA[Insulate Britain protesters blocked traffic on both carriageways of the motorway in Surrey.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-surrey-58636399?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-surrey-58636399</guid>
+            <pubDate>Tue, 21 Sep 2021 17:57:39 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Danny Hodgson: Punch-attack footballer in coma opens eyes]]></title>
             <description><![CDATA[The 26-year-old former Carlisle United player was put into a coma two weeks after being attacked.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-cumbria-58637614?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -168,13 +175,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-cornwall-58641469?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-cornwall-58641469</guid>
             <pubDate>Tue, 21 Sep 2021 19:37:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Thomas Rogers: Brothers convicted of killing younger sibling]]></title>
-            <description><![CDATA[A family feud leads to the death of Thomas Rogers at the hands of David and Samuel Rogers.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-birmingham-58638301?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-birmingham-58638301</guid>
-            <pubDate>Tue, 21 Sep 2021 10:40:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Cabaret Voltaire's Richard H Kirk dies aged 65]]></title>
