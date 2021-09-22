@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 22 Sep 2021 16:20:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Sep 2021 16:58:26 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -37,11 +37,11 @@
             <pubDate>Wed, 22 Sep 2021 13:30:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Manchester flooding: Major incident after burst water main]]></title>
-            <description><![CDATA[Two busy Manchester city centre roads are shut after a large water main bursts near the university.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-manchester-58648005?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-manchester-58648005</guid>
-            <pubDate>Wed, 22 Sep 2021 15:15:43 GMT</pubDate>
+            <title><![CDATA[Jonathon Seed: Wiltshire PCC election winner charged over false declaration]]></title>
+            <description><![CDATA[Jonathon Seed was elected to the post but withdrew after a historic driving conviction came to light.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-wiltshire-58657799?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-wiltshire-58657799</guid>
+            <pubDate>Wed, 22 Sep 2021 16:53:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Dawn Sturgess: Lawyers accuse Priti Patel of delaying possible inquiry]]></title>
@@ -58,11 +58,18 @@
             <pubDate>Wed, 22 Sep 2021 16:10:26 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Manchester flooding: Major incident after burst water main]]></title>
+            <description><![CDATA[Two busy Manchester city centre roads are shut after a large water main bursts near the university.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-manchester-58648005?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-manchester-58648005</guid>
+            <pubDate>Wed, 22 Sep 2021 15:15:43 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Manchester Arena Inquiry: Bomb victim's mother praises PC's actions]]></title>
             <description><![CDATA[The officer placed T-shirts over the body of Philip Tron after the Manchester Arena attack.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-manchester-58652361?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-manchester-58652361</guid>
-            <pubDate>Wed, 22 Sep 2021 14:02:14 GMT</pubDate>
+            <pubDate>Wed, 22 Sep 2021 16:49:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[India extradition bid dropped against West Midlands men]]></title>
@@ -77,13 +84,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-58649286?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-58649286</guid>
             <pubDate>Wed, 22 Sep 2021 13:35:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dan Burton: Family 'heartbroken' after fatal air crash]]></title>
-            <description><![CDATA[Dan Burton, who died during a round-Britain challenge, was "dedicated to exploration", his family say.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-devon-58650415?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-devon-58650415</guid>
-            <pubDate>Wed, 22 Sep 2021 12:15:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Pair jailed for man's murder in arranged fight on Kit Hill]]></title>
@@ -128,6 +128,13 @@
             <pubDate>Tue, 21 Sep 2021 10:08:16 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Dan Burton: Family 'heartbroken' after fatal air crash]]></title>
+            <description><![CDATA[Dan Burton, who died during a round-Britain challenge, was "dedicated to exploration", his family say.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-devon-58650415?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-devon-58650415</guid>
+            <pubDate>Wed, 22 Sep 2021 12:15:43 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA['#MeToo gave me confidence to report my sexual abuse']]></title>
             <description><![CDATA[Lucy Churchill says the movement led her to report sexual abuse committed against her 25 years ago.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-58624904?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -154,41 +161,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-58646499?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-58646499</guid>
             <pubDate>Wed, 22 Sep 2021 10:00:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[One dead and two injured in shooting]]></title>
-            <description><![CDATA[Officers found a man, believed to be in his early 20s, with fatal bullet wounds on Green Lanes.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-london-58648587?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-london-58648587</guid>
-            <pubDate>Wed, 22 Sep 2021 07:22:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Man stabbed to death in street fight]]></title>
-            <description><![CDATA[Police find the victim, believed to be in his 30s, with multiple stab injuries on East Ferry Road.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-london-58648586?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-london-58648586</guid>
-            <pubDate>Wed, 22 Sep 2021 06:40:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rhamero West: Greater Manchester Police refers itself to watchdog]]></title>
-            <description><![CDATA[Rhamero West, 16, was stabbed to death after being chased through the streets in Old Trafford.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-manchester-58649326?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-manchester-58649326</guid>
-            <pubDate>Wed, 22 Sep 2021 08:06:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[East Midlands Railway breached advertising rules by axing prize]]></title>
-            <description><![CDATA[The company withdrew a £5,000 prize asking the public for creative suggestions to improve journeys.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-nottinghamshire-58642184?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-nottinghamshire-58642184</guid>
-            <pubDate>Wed, 22 Sep 2021 06:42:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Airport motion 'as useful as chocolate teapot']]></title>
-            <description><![CDATA[Metro mayor Dan Norris wins support for his opposition to plans to welcome millions more passengers.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-bristol-58645455?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-bristol-58645455</guid>
-            <pubDate>Wed, 22 Sep 2021 06:44:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Derby County officially enter administration and are deducted 12 points]]></title>

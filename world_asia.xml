@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 22 Sep 2021 16:30:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Sep 2021 16:55:02 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -35,6 +35,13 @@
             <link>https://www.bbc.co.uk/news/world-asia-58650762?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58650762</guid>
             <pubDate>Wed, 22 Sep 2021 13:29:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I'm a Celebrity: Crew member's Covid case triggers lockdown]]></title>
+            <description><![CDATA[A crew member on I'm a Celebrity tests positive, sending thousands into lockdown and sparking a backlash.]]></description>
+            <link>https://www.bbc.co.uk/news/world-australia-58653197?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-australia-58653197</guid>
+            <pubDate>Wed, 22 Sep 2021 16:35:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Melbourne earthquake: Tremor rattles southeast Australia]]></title>
@@ -91,13 +98,6 @@
             <link>https://www.bbc.co.uk/news/world-us-canada-58632145?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58632145</guid>
             <pubDate>Tue, 21 Sep 2021 15:35:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[K-pop stars BTS perform at UN General Assembly]]></title>
-            <description><![CDATA[The UN general debate opened with K-pop band BTS, followed by a speech about sustainable development.]]></description>
-            <link>https://www.bbc.co.uk/news/world-58644982?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-58644982</guid>
-            <pubDate>Tue, 21 Sep 2021 21:31:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Aukus: Australia's big gamble on the US over China]]></title>
