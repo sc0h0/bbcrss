@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 22 Sep 2021 15:46:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Sep 2021 15:55:49 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -58,11 +58,11 @@
             <pubDate>Wed, 22 Sep 2021 14:24:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid-19: NI records four Covid-linked deaths, 1,060 cases]]></title>
-            <description><![CDATA[The total number of deaths linked to coronavirus in NI since the start of the pandemic is 2,517.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58654011?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58654011</guid>
-            <pubDate>Wed, 22 Sep 2021 13:15:29 GMT</pubDate>
+            <title><![CDATA[In pictures: The 2021 Balmoral Show]]></title>
+            <description><![CDATA[Thousands flock to the opening day of the biggest event in Northern Ireland's agri-food calendar]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58656142?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58656142</guid>
+            <pubDate>Wed, 22 Sep 2021 15:48:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Brexit: Biden in new warning to UK over Northern Ireland]]></title>
@@ -105,6 +105,13 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58644102?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58644102</guid>
             <pubDate>Wed, 22 Sep 2021 12:35:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19: NI records four Covid-linked deaths, 1,060 cases]]></title>
+            <description><![CDATA[The total number of deaths linked to coronavirus in NI since the start of the pandemic is 2,517.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58654011?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58654011</guid>
+            <pubDate>Wed, 22 Sep 2021 13:15:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: 'Vaccine misinformation a dilemma for young people']]></title>
