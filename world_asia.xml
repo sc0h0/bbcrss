@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 22 Sep 2021 02:49:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Sep 2021 03:04:38 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Melbourne earthquake: Tremor rattles southeast Australia]]></title>
+            <description><![CDATA[A 5.8 magnitude earthquake rattles Australia's second largest city, causing damage to buildings.]]></description>
+            <link>https://www.bbc.co.uk/news/world-australia-58646917?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-australia-58646917</guid>
+            <pubDate>Wed, 22 Sep 2021 01:59:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Afghan girls school ban would be un-Islamic, Pakistan PM says]]></title>
             <description><![CDATA[Prime Minister Imran Khan speaks to the BBC's John Simpson about events in neighbouring Afghanistan.]]></description>
@@ -37,11 +44,11 @@
             <pubDate>Tue, 21 Sep 2021 14:02:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Evergrande: Asia stocks mixed as investors weigh China concerns]]></title>
-            <description><![CDATA[The Chinese property giant is facing a debt crisis, triggering fears of contagion in global markets.]]></description>
-            <link>https://www.bbc.co.uk/news/business-58632681?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58632681</guid>
-            <pubDate>Tue, 21 Sep 2021 08:37:30 GMT</pubDate>
+            <title><![CDATA[Taliban ask to speak at UN General Assembly in New York]]></title>
+            <description><![CDATA[The group wants to address world leaders, weeks after ousting Afghanistan's former government.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58632147?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58632147</guid>
+            <pubDate>Tue, 21 Sep 2021 23:32:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[CIA officer 'suffered from Havana syndrome' during India trip]]></title>
@@ -86,32 +93,11 @@
             <pubDate>Mon, 20 Sep 2021 13:03:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Afghanistan: Stay home, female Kabul government workers told]]></title>
-            <description><![CDATA[It is the latest restriction imposed on Afghanistan's women by the country's new Taliban rulers.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58614113?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58614113</guid>
-            <pubDate>Sun, 19 Sep 2021 14:15:07 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[K-pop stars BTS perform at UN General Assembly]]></title>
             <description><![CDATA[The UN general debate opened with K-pop band BTS, followed by a speech about sustainable development.]]></description>
             <link>https://www.bbc.co.uk/news/world-58644982?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-58644982</guid>
             <pubDate>Tue, 21 Sep 2021 21:31:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Manny Pacquiao: Boxing star to run for Philippines president]]></title>
-            <description><![CDATA[Manny Pacquiao is a senator in parliament and remains active in the ring after a successful career.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58614108?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58614108</guid>
-            <pubDate>Sun, 19 Sep 2021 11:31:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Charanjit Singh Channi: What Punjab leadership change says about Congress]]></title>
-            <description><![CDATA[The crisis in Punjab sees the party shying from the status quo - is this a sign of things to come?]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-india-58580924?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-india-58580924</guid>
-            <pubDate>Mon, 20 Sep 2021 06:35:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Cambodia: The autistic teenager jailed over a Telegram post]]></title>
@@ -140,6 +126,13 @@
             <link>https://www.bbc.co.uk/news/world-asia-india-58593308?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-india-58593308</guid>
             <pubDate>Mon, 20 Sep 2021 23:03:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Charanjit Singh Channi: What Punjab leadership change says about Congress]]></title>
+            <description><![CDATA[The crisis in Punjab sees the party shying from the status quo - is this a sign of things to come?]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-india-58580924?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-india-58580924</guid>
+            <pubDate>Mon, 20 Sep 2021 06:35:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[China: What is Evergrande and is it too big to fail?]]></title>
