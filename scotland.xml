@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 22 Sep 2021 09:08:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Sep 2021 09:26:02 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Covid in Scotland: Government 'working urgently' to free up NHS beds]]></title>
+            <description><![CDATA[Health Secretary Humza Yousaf says efforts are under way to make space in Scotland's hospitals.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-58648769?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-58648769</guid>
+            <pubDate>Wed, 22 Sep 2021 09:20:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Ineos confirms £1bn green investment in Grangemouth]]></title>
             <description><![CDATA[The chemicals giant wants to reduce emissions by powering the plant with hydrogen tied to carbon capture and storage.]]></description>
@@ -44,13 +51,6 @@
             <pubDate>Wed, 22 Sep 2021 05:15:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Scottish venues told to 'use common sense' on vaccine passports]]></title>
-            <description><![CDATA[The Scottish government sets out details of which venues and events will need to check vaccine passports.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-scotland-politics-58638825?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-scotland-politics-58638825</guid>
-            <pubDate>Tue, 21 Sep 2021 20:43:37 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Hebridean bothy sale seeks 'active' islander]]></title>
             <description><![CDATA[Islanders on Eigg hope the single-room property can be home to a new "contributing member of the community".]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-highlands-islands-58638453?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -63,6 +63,13 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-58638450?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-58638450</guid>
             <pubDate>Wed, 22 Sep 2021 05:14:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Scottish venues told to 'use common sense' on vaccine passports]]></title>
+            <description><![CDATA[The Scottish government sets out details of which venues and events will need to check vaccine passports.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-scotland-politics-58638825?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-scotland-politics-58638825</guid>
+            <pubDate>Tue, 21 Sep 2021 20:43:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Wigtown Book Festival gets 'show back on the road']]></title>
@@ -98,13 +105,6 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58628270?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58628270</guid>
             <pubDate>Tue, 21 Sep 2021 12:59:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hospitals inquiry: Boy's deadly infection 'came from hospital drains']]></title>
-            <description><![CDATA[A mother tells an inquiry her 10-year-old son almost died from an infection caught while going through cancer treatment.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-58624931?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-58624931</guid>
-            <pubDate>Tue, 21 Sep 2021 14:57:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid in Scotland: Where are the latest cases?]]></title>
