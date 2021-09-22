@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 22 Sep 2021 06:43:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Sep 2021 06:56:34 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -35,6 +35,13 @@
             <link>https://www.bbc.co.uk/news/science-environment-58600725?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/science-environment-58600725</guid>
             <pubDate>Tue, 21 Sep 2021 01:08:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[M25 protests: Protesters 'may cause serious injury or death']]></title>
+            <description><![CDATA[Insulate Britain protesters blocked traffic on both carriageways of the motorway in Surrey.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-surrey-58636399?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-surrey-58636399</guid>
+            <pubDate>Tue, 21 Sep 2021 17:57:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Nasa selects landing site for Moon rover mission]]></title>
@@ -65,11 +72,11 @@
             <pubDate>Mon, 20 Sep 2021 19:44:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[SpaceX: Inspiration4 amateur astronauts return to Earth after three days]]></title>
-            <description><![CDATA[The four amateur astronauts landed safely in the Atlantic Ocean after three days orbiting Earth.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-58612961?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58612961</guid>
-            <pubDate>Sun, 19 Sep 2021 02:50:44 GMT</pubDate>
+            <title><![CDATA[COP 26: How much is the developing world getting to fight climate change?]]></title>
+            <description><![CDATA[Are rich countries living up to their climate promises to the developing world?]]></description>
+            <link>https://www.bbc.co.uk/news/57975275?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/57975275</guid>
+            <pubDate>Tue, 21 Sep 2021 15:24:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Climate change: UN warning over nations' climate plans]]></title>
@@ -79,25 +86,18 @@
             <pubDate>Fri, 17 Sep 2021 15:21:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Earthshot Prize: Prince William's environment finalists unveiled]]></title>
-            <description><![CDATA[The 15 finalists of Prince William's inaugural Earthshot Prize are tackling the planet's problems.]]></description>
-            <link>https://www.bbc.co.uk/news/science-environment-58591485?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/science-environment-58591485</guid>
-            <pubDate>Fri, 17 Sep 2021 12:19:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Antarctic: Exhibition recalls Ernest Shackleton's final quest]]></title>
-            <description><![CDATA[It's 100 years since the great Antarctic explorer set out on his last voyage to the White Continent.]]></description>
-            <link>https://www.bbc.co.uk/news/science-environment-58594371?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/science-environment-58594371</guid>
-            <pubDate>Fri, 17 Sep 2021 15:05:18 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Climate change: Should green campaigners put more pressure on China to slash emissions?]]></title>
             <description><![CDATA[UK activists have protested on the M25, but should they instead be picketing China's embassy?]]></description>
             <link>https://www.bbc.co.uk/news/science-environment-58584976?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/science-environment-58584976</guid>
             <pubDate>Sat, 18 Sep 2021 01:01:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Earthshot Prize: Prince William's environment finalists unveiled]]></title>
+            <description><![CDATA[The 15 finalists of Prince William's inaugural Earthshot Prize are tackling the planet's problems.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-58591485?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/science-environment-58591485</guid>
+            <pubDate>Fri, 17 Sep 2021 12:19:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Climate change: Biden urges world leaders to cut methane gas emissions]]></title>
@@ -121,32 +121,11 @@
             <pubDate>Sat, 18 Sep 2021 23:07:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Climate change: Young people very worried - survey]]></title>
-            <description><![CDATA[Over half of respondents in a survey believe humanity is doomed and governments are failing to act.]]></description>
-            <link>https://www.bbc.co.uk/news/world-58549373?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-58549373</guid>
-            <pubDate>Tue, 14 Sep 2021 05:10:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Canadian prairie ranchers struggle with drought conditions]]></title>
-            <description><![CDATA[Amid a severe drought in the Prairies, some ranchers are trying to find ways to work with nature.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-58573877?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58573877</guid>
-            <pubDate>Wed, 15 Sep 2021 23:04:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Life at 50C: The toxic gas flares fuelling Nigeria's climate change]]></title>
-            <description><![CDATA[Joy and her family are among 2m Nigerians living within 4km of a gas flare in Nigeria's oil-rich south.]]></description>
-            <link>https://www.bbc.co.uk/news/world-africa-58549010?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-africa-58549010</guid>
-            <pubDate>Mon, 13 Sep 2021 23:08:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[COP26: UK still lagging on climate policy, report says]]></title>
-            <description><![CDATA[UK policies will deliver a quarter of emissions cuts needed, say campaigners ahead of the COP26 summit.]]></description>
-            <link>https://www.bbc.co.uk/news/science-environment-58520330?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/science-environment-58520330</guid>
-            <pubDate>Sun, 12 Sep 2021 23:00:49 GMT</pubDate>
+            <title><![CDATA[SpaceX: Inspiration4 amateur astronauts return to Earth after three days]]></title>
+            <description><![CDATA[The four amateur astronauts landed safely in the Atlantic Ocean after three days orbiting Earth.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-58612961?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58612961</guid>
+            <pubDate>Sun, 19 Sep 2021 02:50:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Inspiration4: All-amateur space crew enjoy views of Earth]]></title>
@@ -170,11 +149,11 @@
             <pubDate>Thu, 09 Sep 2021 08:21:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How green is Scotland's space industry?]]></title>
-            <description><![CDATA[Scotland's thriving space sector is trying to have a reduced impact on the planet.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-highlands-islands-58190702?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-highlands-islands-58190702</guid>
-            <pubDate>Thu, 09 Sep 2021 05:21:18 GMT</pubDate>
+            <title><![CDATA[Antarctic: Exhibition recalls Ernest Shackleton's final quest]]></title>
+            <description><![CDATA[It's 100 years since the great Antarctic explorer set out on his last voyage to the White Continent.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-58594371?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/science-environment-58594371</guid>
+            <pubDate>Fri, 17 Sep 2021 15:05:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ocean Photographer of the Year 2021]]></title>
