@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 22 Sep 2021 09:21:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Sep 2021 09:40:49 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -51,18 +51,25 @@
             <pubDate>Wed, 22 Sep 2021 01:59:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid: Pret starts hiring again and 'rock bottom' morale]]></title>
-            <description><![CDATA[Five things you need to know about the coronavirus pandemic this Wednesday morning.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58643810?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58643810</guid>
-            <pubDate>Wed, 22 Sep 2021 07:01:25 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Willie Garson: Sex and the City actors remember late co-star]]></title>
             <description><![CDATA[The actor, who has died aged 57, was known for his role as Stanford Blatch in the series and films.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-58647331?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58647331</guid>
             <pubDate>Wed, 22 Sep 2021 08:18:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Teen inmate whose baby died in prison was failed, report says]]></title>
+            <description><![CDATA[Inspectors say the death of the newborn baby at HMP Bronzefield "should never have happened'.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-58646499?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-58646499</guid>
+            <pubDate>Wed, 22 Sep 2021 09:11:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Harry Dunn: Family aim to 'forge ahead' with criminal case]]></title>
+            <description><![CDATA[Harry Dunn's mother, Charlotte Charles, says the resolution of a civil case is a relief.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-northamptonshire-58648526?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-northamptonshire-58648526</guid>
+            <pubDate>Wed, 22 Sep 2021 09:06:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Trump sues niece and New York Times over tax story]]></title>
@@ -84,13 +91,6 @@
             <link>https://www.bbc.co.uk/news/business-58640197?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58640197</guid>
             <pubDate>Tue, 21 Sep 2021 23:01:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Overprescribing of medicines must stop, says government]]></title>
-            <description><![CDATA[Some prescribed treatments are unnecessary and even harmful, says government-commissioned report.]]></description>
-            <link>https://www.bbc.co.uk/news/health-58639253?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/health-58639253</guid>
-            <pubDate>Tue, 21 Sep 2021 23:43:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Rolling Stones resume live shows with emotional Charlie Watts tribute]]></title>
@@ -247,13 +247,6 @@
             <pubDate>Tue, 21 Sep 2021 18:34:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[England v New Zealand ODI: Lea Tahuhu takes five wickets and hits winning six]]></title>
-            <description><![CDATA[Watch New Zealand's Lea Tahuhu take her first five-wicket haul in ODI cricket and then hit the winning runs against England at Leicester.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/cricket/58642416?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/av/cricket/58642416</guid>
-            <pubDate>Tue, 21 Sep 2021 19:25:14 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Back to school: How are pupils being kept Covid-safe?]]></title>
             <description><![CDATA[Most 12 to 15-year-olds will be vaccinated at school, to help limit disruption to their education.]]></description>
             <link>https://www.bbc.co.uk/news/education-51643556?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -286,7 +279,7 @@
             <description><![CDATA[People in Scotland will need to be fully vaccinated to go to clubs, sporting events and concerts.]]></description>
             <link>https://www.bbc.co.uk/news/explainers-55718553?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/explainers-55718553</guid>
-            <pubDate>Fri, 17 Sep 2021 12:09:02 GMT</pubDate>
+            <pubDate>Wed, 22 Sep 2021 09:39:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid rules: What's in England's 'Winter Plan'?]]></title>
