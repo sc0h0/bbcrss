@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 22 Sep 2021 06:02:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Sep 2021 06:28:28 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Samuel Eto'o announces candidacy for presidency of Cameroon football federation]]></title>
+            <description><![CDATA[Former Cameroon international Samuel Eto'o is to stand as a candidate in the race for the presidency of his country's football federation (Fecafoot).]]></description>
+            <link>https://www.bbc.co.uk/sport/africa/58645967?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/africa/58645967</guid>
+            <pubDate>Tue, 21 Sep 2021 20:22:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Sudan failed coup: Government blames pro-Bashir elements]]></title>
             <description><![CDATA[The prime minister says the plotters were "remnants" of ousted President Bashir's regime.]]></description>
@@ -28,41 +35,6 @@
             <link>https://www.bbc.co.uk/sport/africa/58636929?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/africa/58636929</guid>
             <pubDate>Tue, 21 Sep 2021 10:05:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ferdinand Omanyala: Africa's fastest man unfazed by shadow of past drugs ban]]></title>
-            <description><![CDATA[Kenya's Ferdinand Omanyala, the new African 100m record holder, insists he is not worried about questions raised by his 2017 drugs ban.]]></description>
-            <link>https://www.bbc.co.uk/sport/africa/58623341?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/africa/58623341</guid>
-            <pubDate>Mon, 20 Sep 2021 14:59:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[France's Emmanuel Macron heckled asking Algerian veterans for forgiveness]]></title>
-            <description><![CDATA[The French president is heckled as he promises reparations for Algerians who fought for France.]]></description>
-            <link>https://www.bbc.co.uk/news/world-africa-58626309?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-africa-58626309</guid>
-            <pubDate>Mon, 20 Sep 2021 16:25:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hotel Rwanda hero Paul Rusesabagina convicted on terror charges]]></title>
-            <description><![CDATA[A Rwandan court sentences Paul Rusesabagina to 25 years for supporting a terrorist group.]]></description>
-            <link>https://www.bbc.co.uk/news/world-africa-58624691?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-africa-58624691</guid>
-            <pubDate>Mon, 20 Sep 2021 17:55:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Endangered South African penguins killed by swarm of bees near Cape Town]]></title>
-            <description><![CDATA[More than 60 protected birds were found on the beach with multiple bee-stings but no other injuries.]]></description>
-            <link>https://www.bbc.co.uk/news/world-africa-58622482?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-africa-58622482</guid>
-            <pubDate>Mon, 20 Sep 2021 15:23:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Street dreams of Nairobi dance crew hoping to beat the odds]]></title>
-            <description><![CDATA[A group of street dancers in Nairobi, Kenya, struggle against the odds to become celebrities.]]></description>
-            <link>https://www.bbc.co.uk/news/world-africa-58602632?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-africa-58602632</guid>
-            <pubDate>Sun, 19 Sep 2021 23:05:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Paul Rusesabagina: From Hotel Rwanda hero to convicted terrorist]]></title>
@@ -98,6 +70,13 @@
             <link>https://www.bbc.co.uk/news/world-africa-56269634?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-africa-56269634</guid>
             <pubDate>Sat, 18 Sep 2021 00:06:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Street dreams of Nairobi dance crew hoping to beat the odds]]></title>
+            <description><![CDATA[A group of street dancers in Nairobi, Kenya, struggle against the odds to become celebrities.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-58602632?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-africa-58602632</guid>
+            <pubDate>Sun, 19 Sep 2021 23:05:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Germaine Acogny: 'The mother of contemporary African dance']]></title>
@@ -140,13 +119,6 @@
             <link>https://www.bbc.co.uk/news/world-africa-58552058?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-africa-58552058</guid>
             <pubDate>Mon, 13 Sep 2021 23:13:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Life at 50C: The toxic gas flares fuelling Nigeria's climate change]]></title>
-            <description><![CDATA[Joy and her family are among 2m Nigerians living within 4km of a gas flare in Nigeria's oil-rich south.]]></description>
-            <link>https://www.bbc.co.uk/news/world-africa-58549010?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-africa-58549010</guid>
-            <pubDate>Mon, 13 Sep 2021 23:08:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
