@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 22 Sep 2021 19:59:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Sep 2021 20:33:01 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -37,7 +37,7 @@
             <pubDate>Wed, 22 Sep 2021 18:27:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Rare Charles I coin minted in Oxford fetches £44,000 at auction]]></title>
+            <title><![CDATA[Rare Charles I coin fetches £44k at auction]]></title>
             <description><![CDATA[The coin was minted in Oxford during the English Civil War and had the value of three pounds.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-oxfordshire-58655402?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-oxfordshire-58655402</guid>
@@ -72,11 +72,18 @@
             <pubDate>Wed, 22 Sep 2021 19:14:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Lancashire Police hunting on-the-run convicted rapist]]></title>
-            <description><![CDATA[Police say Kevin Anthony Wyatt is "a high-risk offender" and should not be approached.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-lancashire-58649890?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-lancashire-58649890</guid>
-            <pubDate>Wed, 22 Sep 2021 14:39:56 GMT</pubDate>
+            <title><![CDATA[Manchester Arena Inquiry: Bomb victim's mother praises PC's actions]]></title>
+            <description><![CDATA[The officer placed T-shirts over the body of Philip Tron after the Manchester Arena attack.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-manchester-58652361?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-manchester-58652361</guid>
+            <pubDate>Wed, 22 Sep 2021 16:49:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Vauxhall Motors plans Luton job losses amid chip crisis]]></title>
+            <description><![CDATA[The Unite union says it will "do everything in our power to mitigate or prevent" job losses.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-58648533?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-58648533</guid>
+            <pubDate>Wed, 22 Sep 2021 13:42:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jonathon Seed: Wiltshire PCC election winner charged with making false declaration]]></title>
@@ -86,6 +93,13 @@
             <pubDate>Wed, 22 Sep 2021 17:09:30 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Newborn donkey rejected by mother moves into Skegness house]]></title>
+            <description><![CDATA[Kye the donkey is being hand-reared and wearing nappies as he is looked after in the family home.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-lincolnshire-58650728?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-lincolnshire-58650728</guid>
+            <pubDate>Wed, 22 Sep 2021 16:10:26 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Manchester flooding: Major incident after burst water main]]></title>
             <description><![CDATA[Two busy Manchester city centre roads are shut after a large water main bursts near the university.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-manchester-58648005?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -93,11 +107,11 @@
             <pubDate>Wed, 22 Sep 2021 17:59:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Newborn donkey rejected by mother moves into Skegness house]]></title>
-            <description><![CDATA[Kye the donkey is being hand-reared and wearing nappies as he is looked after in the family home.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-lincolnshire-58650728?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-lincolnshire-58650728</guid>
-            <pubDate>Wed, 22 Sep 2021 16:10:26 GMT</pubDate>
+            <title><![CDATA[Lancashire Police hunting on-the-run convicted rapist]]></title>
+            <description><![CDATA[Police say Kevin Anthony Wyatt is "a high-risk offender" and should not be approached.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-lancashire-58649890?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-lancashire-58649890</guid>
+            <pubDate>Wed, 22 Sep 2021 14:39:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Library book returned to UK from Canada 18 years late]]></title>
@@ -114,13 +128,6 @@
             <pubDate>Wed, 22 Sep 2021 13:30:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Vauxhall Motors plans Luton job losses amid chip crisis]]></title>
-            <description><![CDATA[The Unite union says it will "do everything in our power to mitigate or prevent" job losses.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-58648533?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-58648533</guid>
-            <pubDate>Wed, 22 Sep 2021 13:42:30 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Dawn Sturgess: Lawyers accuse Priti Patel of delaying possible inquiry]]></title>
             <description><![CDATA[A coroner says intelligence material is "too sensitive" to be heard at an inquest.]]></description>
             <link>https://www.bbc.co.uk/news/uk-58652754?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -133,13 +140,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-coventry-warwickshire-58652778?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-coventry-warwickshire-58652778</guid>
             <pubDate>Wed, 22 Sep 2021 12:55:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Manchester Arena Inquiry: Bomb victim's mother praises PC's actions]]></title>
-            <description><![CDATA[The officer placed T-shirts over the body of Philip Tron after the Manchester Arena attack.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-manchester-58652361?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-manchester-58652361</guid>
-            <pubDate>Wed, 22 Sep 2021 16:49:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Insulate Britain: Injunction granted against M25 protesters]]></title>
