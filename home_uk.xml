@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 22 Sep 2021 20:51:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Sep 2021 21:06:18 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -37,13 +37,6 @@
             <pubDate>Wed, 22 Sep 2021 16:14:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Sabina Nessa murder: Family left devastated by teacher's death in Kidbrooke]]></title>
-            <description><![CDATA[Her cousin pays tribute to the primary school teacher describing her as a "beautiful soul".]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-london-58639602?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-london-58639602</guid>
-            <pubDate>Wed, 22 Sep 2021 18:00:13 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Afghanistan: Second email data breach by MoD uncovered]]></title>
             <description><![CDATA[The Ministry of Defence apologises again as it emerges dozens were mistakenly copied in to another email.]]></description>
             <link>https://www.bbc.co.uk/news/uk-58654630?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -56,6 +49,20 @@
             <link>https://www.bbc.co.uk/news/entertainment-arts-58653653?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-58653653</guid>
             <pubDate>Wed, 22 Sep 2021 16:56:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[La Palma volcano lava engulfs homes and swimming pools]]></title>
+            <description><![CDATA[Molten rock from the erupting Cumbre Vieja volcano is destroying hundreds of buildings.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58653737?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58653737</guid>
+            <pubDate>Wed, 22 Sep 2021 13:23:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sabina Nessa murder: Family left devastated by teacher's death in Kidbrooke]]></title>
+            <description><![CDATA[Her cousin pays tribute to the primary school teacher describing her as a "beautiful soul".]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-58639602?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-london-58639602</guid>
+            <pubDate>Wed, 22 Sep 2021 18:00:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: US to donate 500 million more jabs and Covid passport legal challenge in Scotland]]></title>
@@ -98,13 +105,6 @@
             <link>https://www.bbc.co.uk/news/entertainment-arts-58656551?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-58656551</guid>
             <pubDate>Wed, 22 Sep 2021 19:23:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[La Palma volcano lava engulfs homes and swimming pools]]></title>
-            <description><![CDATA[Molten rock from the erupting Cumbre Vieja volcano is destroying hundreds of buildings.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58653737?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58653737</guid>
-            <pubDate>Wed, 22 Sep 2021 13:23:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Newborn donkey rejected by mother moves into Skegness house]]></title>
@@ -254,11 +254,11 @@
             <pubDate>Tue, 21 Sep 2021 17:26:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Stricker urges US fans to 'respect' Europe at Ryder Cup]]></title>
-            <description><![CDATA[Steve Stricker has urged the United States fans to not "cross the line" and be "respectful to both teams" in this week's Ryder Cup match against Europe.]]></description>
-            <link>https://www.bbc.co.uk/sport/golf/58645679?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/golf/58645679</guid>
-            <pubDate>Wed, 22 Sep 2021 14:22:28 GMT</pubDate>
+            <title><![CDATA[West Ham knock out Man Utd to reach EFL Cup fourth round]]></title>
+            <description><![CDATA[West Ham gain revenge for Sunday's Premier League defeat at Manchester United by knocking their hosts out of the Carabao Cup at Old Trafford.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58566906?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58566906</guid>
+            <pubDate>Wed, 22 Sep 2021 20:55:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Murray charges into last eight of Moselle Open]]></title>
@@ -282,18 +282,18 @@
             <pubDate>Wed, 22 Sep 2021 19:46:15 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Ryder Cup: Europe's Ian Poulter ready to face US at Whistling Straits]]></title>
+            <description><![CDATA[Ian Poulter says his juices "are flowing" as he prepares to play in his seventh Ryder Cup for Europe against the United States at Whistling Straits.]]></description>
+            <link>https://www.bbc.co.uk/sport/golf/58655998?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/golf/58655998</guid>
+            <pubDate>Wed, 22 Sep 2021 16:21:04 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[James Rodriguez: Everton midfielder's best Premier League moments]]></title>
             <description><![CDATA[Watch James Rodriguez's best moments for Everton from the 2020-21 season, after the Columbian midfielder left the Premier League club for Qatari side Al Rayyan.]]></description>
             <link>https://www.bbc.co.uk/sport/av/football/58640460?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/av/football/58640460</guid>
             <pubDate>Wed, 22 Sep 2021 15:44:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Getafe 1-2 Atletico Madrid: Luis Suarez score twice as Atletico Madrid go top of La Liga.]]></title>
-            <description><![CDATA[Watch highlights as two late Luis Suarez goals help Atletico Madrid beat 10-man Getafe to go top of La Liga.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/football/58651171?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/av/football/58651171</guid>
-            <pubDate>Wed, 22 Sep 2021 09:37:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Back to school: How are pupils being kept Covid-safe?]]></title>
