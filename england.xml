@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 22 Sep 2021 15:32:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Sep 2021 15:44:10 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -86,13 +86,6 @@
             <pubDate>Wed, 22 Sep 2021 13:18:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Windsor Castle reveals huge equestrian production for Platinum Jubilee]]></title>
-            <description><![CDATA[A Gallop Through History will take place in the grounds of Windsor Castle in May.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-berkshire-58648797?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-berkshire-58648797</guid>
-            <pubDate>Wed, 22 Sep 2021 09:44:06 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Cleveland police and crime chief Steve Turner admits accepting caution]]></title>
             <description><![CDATA[Steve Turner says he accepted the police caution after "an event" at a supermarket where he worked.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-tees-58637507?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -140,6 +133,13 @@
             <link>https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-58624904?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-58624904</guid>
             <pubDate>Wed, 22 Sep 2021 06:28:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Windsor Castle reveals huge equestrian production for Platinum Jubilee]]></title>
+            <description><![CDATA[A Gallop Through History will take place in the grounds of Windsor Castle in May.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-berkshire-58648797?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-berkshire-58648797</guid>
+            <pubDate>Wed, 22 Sep 2021 09:44:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Harry Dunn: Family aim to 'forge ahead' with criminal case]]></title>
