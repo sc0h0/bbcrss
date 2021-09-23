@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 23 Sep 2021 16:04:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Sep 2021 16:42:43 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -23,6 +23,13 @@
             <pubDate>Thu, 23 Sep 2021 15:32:50 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[BP closes some sites due to lorry driver shortage]]></title>
+            <description><![CDATA[The oil firm said only "a handful" of sites are affected by the fuel supply issues.]]></description>
+            <link>https://www.bbc.co.uk/news/business-58645712?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58645712</guid>
+            <pubDate>Thu, 23 Sep 2021 16:11:48 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Police investigating if stranger killed Sabina Nessa]]></title>
             <description><![CDATA[The teacher had been on her way to meet a friend but was killed shortly after leaving home.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-london-58661931?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -30,25 +37,18 @@
             <pubDate>Thu, 23 Sep 2021 14:22:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[BP closes some sites due to lorry driver shortage]]></title>
-            <description><![CDATA[The oil firm said only "a handful" of sites are affected by the fuel supply issues.]]></description>
-            <link>https://www.bbc.co.uk/news/business-58645712?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58645712</guid>
-            <pubDate>Thu, 23 Sep 2021 16:00:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Woman with Down's loses abortion law fight]]></title>
-            <description><![CDATA[Heidi Crowter says the current law on abortion for foetuses with the condition does not respect her life.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-coventry-warwickshire-58662846?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-coventry-warwickshire-58662846</guid>
-            <pubDate>Thu, 23 Sep 2021 15:05:32 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Covid-19: Life expectancy is down but what does this mean?]]></title>
             <description><![CDATA[Life expectancy for men has fallen because of the Covid pandemic - but what will be the long-term effect?]]></description>
             <link>https://www.bbc.co.uk/news/health-58659717?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/health-58659717</guid>
             <pubDate>Thu, 23 Sep 2021 12:27:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19: Life expectancy falls for men and Stonehenge welcomes pagans again]]></title>
+            <description><![CDATA[Five things you need to know about the coronavirus pandemic this Thursday evening.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-58670805?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58670805</guid>
+            <pubDate>Thu, 23 Sep 2021 16:26:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Linda Evangelista says she was left 'deformed' by cosmetic procedure]]></title>
@@ -65,18 +65,25 @@
             <pubDate>Thu, 23 Sep 2021 16:00:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Killamarsh: Father's tribute to daughter killed at sleepover]]></title>
-            <description><![CDATA[Connie Gent was one of three children who were killed at a Derbyshire home.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-derbyshire-58662091?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-derbyshire-58662091</guid>
-            <pubDate>Thu, 23 Sep 2021 09:28:10 GMT</pubDate>
+            <title><![CDATA[Woman with Down's loses abortion law fight]]></title>
+            <description><![CDATA[Heidi Crowter says the current law on abortion for foetuses with the condition does not respect her life.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-coventry-warwickshire-58662846?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-coventry-warwickshire-58662846</guid>
+            <pubDate>Thu, 23 Sep 2021 15:05:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[UK Covid vaccine rules cause hesitancy - Africa health boss]]></title>
+            <description><![CDATA[The UK's refusal to accept vaccine certificates from Africa could increase hesitancy, says Africa CDC.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-58663636?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-africa-58663636</guid>
+            <pubDate>Thu, 23 Sep 2021 15:20:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[US Haiti envoy quits over 'inhumane' deportations]]></title>
             <description><![CDATA[Daniel Foote says US policy on Haiti is "flawed" and sending migrants back is "counterproductive".]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-58667660?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58667660</guid>
-            <pubDate>Thu, 23 Sep 2021 15:24:16 GMT</pubDate>
+            <pubDate>Thu, 23 Sep 2021 16:06:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Grenfell: No action over 2009 cladding warning, inquiry told]]></title>
@@ -86,11 +93,11 @@
             <pubDate>Thu, 23 Sep 2021 13:27:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Inflation: Bank of England says price rises to top 4% by year-end]]></title>
-            <description><![CDATA[The Bank keeps interest rates at 0.1% and says there are signs of slowing economic growth.]]></description>
-            <link>https://www.bbc.co.uk/news/business-58665538?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58665538</guid>
-            <pubDate>Thu, 23 Sep 2021 14:39:22 GMT</pubDate>
+            <title><![CDATA[Notting Hill director Roger Michell dies aged 65]]></title>
+            <description><![CDATA[The filmmaker was also known for movies including Venus and My Cousin Rachel.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-58670835?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-58670835</guid>
+            <pubDate>Thu, 23 Sep 2021 16:14:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Apple bans Fortnite from App Store during Epic Games legal battle]]></title>
@@ -226,6 +233,13 @@
             <pubDate>Thu, 23 Sep 2021 15:02:10 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Dramatic last-wicket Lancashire win ends Hampshire title hopes]]></title>
+            <description><![CDATA[Lancashire will become champions if Warwickshire fail to beat Somerset after a one-wicket win over Hampshire at Aigburth.]]></description>
+            <link>https://www.bbc.co.uk/sport/cricket/58664902?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/cricket/58664902</guid>
+            <pubDate>Thu, 23 Sep 2021 16:32:41 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Homecoming for Raducanu to be shown live on BBC]]></title>
             <description><![CDATA[A homecoming event for US Open champion Emma Raducanu will be shown live on the BBC on Friday.]]></description>
             <link>https://www.bbc.co.uk/sport/tennis/58664182?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -245,13 +259,6 @@
             <link>https://www.bbc.co.uk/sport/football/58659867?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58659867</guid>
             <pubDate>Thu, 23 Sep 2021 11:48:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['I am very relaxed' - Verstappen rejects Hamilton's claim over title pressure]]></title>
-            <description><![CDATA[Max Verstappen rejects Lewis Hamilton's suggestion that he could be feeling the pressure of their title fight.]]></description>
-            <link>https://www.bbc.co.uk/sport/formula1/58668714?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/formula1/58668714</guid>
-            <pubDate>Thu, 23 Sep 2021 14:28:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What can I do if my energy supplier goes bust?]]></title>
