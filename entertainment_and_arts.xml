@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 23 Sep 2021 23:18:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Sep 2021 23:31:45 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -163,6 +163,13 @@
             <pubDate>Sun, 19 Sep 2021 16:48:08 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Strictly's Rose Ayling-Ellis rehearsing without hearing music]]></title>
+            <description><![CDATA[Rose Ayling-Ellis and her dance partner Giovanni Pernice prepare for their first live performance.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-58658886?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-58658886</guid>
+            <pubDate>Thu, 23 Sep 2021 23:20:07 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[RuPaul's Drag Race UK season 3's Victoria Scone on making herstory]]></title>
             <description><![CDATA[Racers, start your engines. We're saying "hello, hello, hello" to the queens of season three.]]></description>
             <link>https://www.bbc.co.uk/news/entertainment-arts-58656172?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -196,13 +203,6 @@
             <link>https://www.bbc.co.uk/news/world-africa-58602632?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-africa-58602632</guid>
             <pubDate>Sun, 19 Sep 2021 23:05:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Get an Eiffel of this performer walking the line in Paris]]></title>
-            <description><![CDATA[Nathan Paulin walks along a 70m (230ft) high slackline attached to an iconic French landmark.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58612966?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58612966</guid>
-            <pubDate>Sat, 18 Sep 2021 23:18:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
