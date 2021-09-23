@@ -1,4 +1,4 @@
-1. [EU rules to force USB-C chargers for all phones](https://www.bbc.co.uk/news/technology-58665809?at_medium=RSS&at_campaign=KARANGA) - Manufacturers could be forced to change devices to a uniform charging port.
+1. [EU rules to force USB-C chargers for all phones](https://www.bbc.co.uk/news/technology-58665809?at_medium=RSS&at_campaign=KARANGA) - Manufacturers could be forced to change devices to a uniform charging system.
 2. [Apple threatened Facebook ban over slavery posts on Instagram](https://www.bbc.co.uk/news/technology-58645547?at_medium=RSS&at_campaign=KARANGA) - The media giant warned it would take Facebook products out of its App Store.
 3. [Extremists using video-game chats to spread hate](https://www.bbc.co.uk/news/technology-58600181?at_medium=RSS&at_campaign=KARANGA) - Campaigners say including extremist narratives among everyday conversations can be a pathway to radicalisation.
 4. ['Side-eyeing Chloe' Clem to sell iconic meme as NFT](https://www.bbc.co.uk/news/world-us-canada-58659667?at_medium=RSS&at_campaign=KARANGA) - The image of Chloe Clem could fetch her tens of thousands of dollars at auction.

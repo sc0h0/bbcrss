@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 23 Sep 2021 12:27:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Sep 2021 12:59:43 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -37,18 +37,25 @@
             <pubDate>Thu, 23 Sep 2021 12:15:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid debt: A baby, job loss - and now eviction]]></title>
-            <description><![CDATA[Tenants are being evicted due to rent arrears built up during the pandemic, an investigation finds.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58643437?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58643437</guid>
-            <pubDate>Thu, 23 Sep 2021 09:33:31 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Linda Evangelista says she was left 'deformed' by cosmetic procedure]]></title>
             <description><![CDATA[The star says she has become "a recluse" after an adverse reaction to a fat reduction procedure.]]></description>
             <link>https://www.bbc.co.uk/news/entertainment-arts-58662756?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-58662756</guid>
             <pubDate>Thu, 23 Sep 2021 10:55:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[BP closes some sites due to lorry driver shortage]]></title>
+            <description><![CDATA[The oil firm said only "a handful" of sites are affected by the fuel supply issues.]]></description>
+            <link>https://www.bbc.co.uk/news/business-58645712?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58645712</guid>
+            <pubDate>Thu, 23 Sep 2021 12:50:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Killamarsh: Father's tribute to daughter killed at sleepover]]></title>
+            <description><![CDATA[Connie Gent was one of three children who were killed at a Derbyshire home.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-derbyshire-58662091?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-derbyshire-58662091</guid>
+            <pubDate>Thu, 23 Sep 2021 09:28:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Boris Johnson: Humanity is reaching a turning point on climate change]]></title>
@@ -80,7 +87,7 @@
         </item>
         <item>
             <title><![CDATA[EU rules to force USB-C chargers for all phones]]></title>
-            <description><![CDATA[Manufacturers could be forced to change devices to a uniform charging port.]]></description>
+            <description><![CDATA[Manufacturers could be forced to change devices to a uniform charging system.]]></description>
             <link>https://www.bbc.co.uk/news/technology-58665809?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/technology-58665809</guid>
             <pubDate>Thu, 23 Sep 2021 11:57:47 GMT</pubDate>
@@ -91,13 +98,6 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-58663052?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-58663052</guid>
             <pubDate>Thu, 23 Sep 2021 11:29:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Victorian ticket ledger found at March railway station]]></title>
-            <description><![CDATA[The luggage ledger dates back to April 1885, when the railway station opened.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-cambridgeshire-58657984?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-cambridgeshire-58657984</guid>
-            <pubDate>Thu, 23 Sep 2021 05:21:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The epic adventures of the Gilgamesh Dream tablet]]></title>
@@ -128,13 +128,6 @@
             <pubDate>Wed, 22 Sep 2021 23:06:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Papers: 'Winter of woe' and France rift deepens]]></title>
-            <description><![CDATA[The ongoing gas crisis and France's anger over a new UK-US-Australia military pact make the front pages.]]></description>
-            <link>https://www.bbc.co.uk/news/blogs-the-papers-58660168?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/blogs-the-papers-58660168</guid>
-            <pubDate>Thu, 23 Sep 2021 05:03:49 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Angela Merkel: What will Germans miss about the chancellor?]]></title>
             <description><![CDATA[BBC Europe editor Katya Adler takes a road trip to find out how Germans will remember their chancellor.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-58657354?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -161,6 +154,13 @@
             <link>https://www.bbc.co.uk/news/newsbeat-58624295?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/newsbeat-58624295</guid>
             <pubDate>Thu, 23 Sep 2021 00:38:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid debt: A baby, job loss - and now eviction]]></title>
+            <description><![CDATA[Tenants are being evicted due to rent arrears built up during the pandemic, an investigation finds.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-58643437?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58643437</guid>
+            <pubDate>Thu, 23 Sep 2021 09:33:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Boris Johnson at the UN fact-checked]]></title>
@@ -231,20 +231,6 @@
             <link>https://www.bbc.co.uk/sport/football/58655047?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58655047</guid>
             <pubDate>Thu, 23 Sep 2021 10:01:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['It's been a long time waiting' - everything you need to know about 43rd Ryder Cup]]></title>
-            <description><![CDATA[Three years after Europe regained the Ryder Cup in Paris, the US finally have their opportunity to avenge that thrashing in front of a partisan home crowd in Wisconsin.]]></description>
-            <link>https://www.bbc.co.uk/sport/golf/58645159?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/golf/58645159</guid>
-            <pubDate>Thu, 23 Sep 2021 05:09:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Australian PM Morrison says 'no special deals' for families of England's Ashes players]]></title>
-            <description><![CDATA[Australian Prime Minister Scott Morrison says there will be "no special deals" after Boris Johnson asks for families of England cricketers to be allowed to travel for the Ashes.]]></description>
-            <link>https://www.bbc.co.uk/sport/cricket/58661421?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/cricket/58661421</guid>
-            <pubDate>Thu, 23 Sep 2021 07:19:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What can I do if my energy supplier goes bust?]]></title>
