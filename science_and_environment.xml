@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 23 Sep 2021 17:50:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Sep 2021 18:02:29 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Earliest definitive evidence of people in Americas]]></title>
+            <description><![CDATA[Scientists have found evidence that humans reached the Americas earlier than previously thought.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-58638854?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/science-environment-58638854</guid>
+            <pubDate>Thu, 23 Sep 2021 18:00:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Boris Johnson: Humanity is reaching a turning point on climate change]]></title>
             <description><![CDATA[World leaders must make major changes in four areas - "coal, cars, cash and trees", Boris Johnson says.]]></description>
@@ -65,13 +72,6 @@
             <pubDate>Wed, 22 Sep 2021 12:33:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Climate reporting reaches melting point]]></title>
-            <description><![CDATA[A trip to a melting glacier will shape how the BBC's new climate editor reports on climate change.]]></description>
-            <link>https://www.bbc.co.uk/news/science-environment-58600725?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/science-environment-58600725</guid>
-            <pubDate>Tue, 21 Sep 2021 01:08:19 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[M25 protests: Protesters 'may cause serious injury or death']]></title>
             <description><![CDATA[Insulate Britain protesters blocked traffic on both carriageways of the motorway in Surrey.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-surrey-58636399?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -79,18 +79,11 @@
             <pubDate>Tue, 21 Sep 2021 17:57:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Nasa selects landing site for Moon rover mission]]></title>
-            <description><![CDATA[The space agency will send a rover to look for water-ice near a crater at the Moon's South Pole.]]></description>
-            <link>https://www.bbc.co.uk/news/science-environment-58608295?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/science-environment-58608295</guid>
-            <pubDate>Tue, 21 Sep 2021 01:32:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why is there a CO2 shortage and how will it hit food supplies?]]></title>
-            <description><![CDATA[The UK's food industry has been told it must pay five times more for carbon dioxide in future.]]></description>
-            <link>https://www.bbc.co.uk/news/explainers-58626935?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/explainers-58626935</guid>
-            <pubDate>Thu, 23 Sep 2021 12:18:53 GMT</pubDate>
+            <title><![CDATA[Climate reporting reaches melting point]]></title>
+            <description><![CDATA[A trip to a melting glacier will shape how the BBC's new climate editor reports on climate change.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-58600725?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/science-environment-58600725</guid>
+            <pubDate>Tue, 21 Sep 2021 01:08:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Rich nations must increase climate support funds, says Boris Johnson]]></title>
@@ -135,18 +128,11 @@
             <pubDate>Fri, 17 Sep 2021 12:19:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Climate change: Biden urges world leaders to cut methane gas emissions]]></title>
-            <description><![CDATA[The president asks leaders to commit to cutting emissions by at least 30% below 2020 levels by 2030.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-58590194?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58590194</guid>
-            <pubDate>Fri, 17 Sep 2021 16:10:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pakistan: How to cool Karachi as temperatures rise]]></title>
-            <description><![CDATA[In Karachi, Pakistan, one entrepreneur is on a mission to plant urban forests to cope with rising temperatures.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58557995?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58557995</guid>
-            <pubDate>Tue, 14 Sep 2021 23:00:29 GMT</pubDate>
+            <title><![CDATA[Nasa selects landing site for Moon rover mission]]></title>
+            <description><![CDATA[The space agency will send a rover to look for water-ice near a crater at the Moon's South Pole.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-58608295?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/science-environment-58608295</guid>
+            <pubDate>Tue, 21 Sep 2021 01:32:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[SpaceX: Inspiration4 amateur astronauts return to Earth after three days]]></title>
@@ -175,6 +161,13 @@
             <link>https://www.bbc.co.uk/news/world-europe-58497899?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58497899</guid>
             <pubDate>Thu, 09 Sep 2021 08:21:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why is there a CO2 shortage and how will it hit food supplies?]]></title>
+            <description><![CDATA[The UK's food industry has been told it must pay five times more for carbon dioxide in future.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-58626935?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/explainers-58626935</guid>
+            <pubDate>Thu, 23 Sep 2021 12:18:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Antarctic: Exhibition recalls Ernest Shackleton's final quest]]></title>
