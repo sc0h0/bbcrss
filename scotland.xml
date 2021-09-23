@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 23 Sep 2021 07:06:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Sep 2021 07:22:19 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -226,6 +226,13 @@
             <pubDate>Wed, 22 Sep 2021 21:04:28 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Scottish Gossip: Griffiths, Nisbet, Rangers, McGregor, Aberdeen, Hearts]]></title>
+            <description><![CDATA[Dundee forward Leigh Griffiths could face SFA action following video of flare incident.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58661895?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58661895</guid>
+            <pubDate>Thu, 23 Sep 2021 07:14:33 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Rangers 2-0 Livingston: Hosts through to League Cup semi-finals]]></title>
             <description><![CDATA[Rangers overpowered Livingston after the break to secure serene progress to the Scottish League Cup semi-finals.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58627481?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -245,13 +252,6 @@
             <link>https://www.bbc.co.uk/sport/football/58633014?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58633014</guid>
             <pubDate>Thu, 23 Sep 2021 06:18:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Celtic fans 'understand situation', says manager Ange Postecoglou]]></title>
-            <description><![CDATA[Celtic fans "are totally understanding of the situation", says manager Ange Postecoglou as he aims to address the team's up and down form.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58627508?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58627508</guid>
-            <pubDate>Wed, 22 Sep 2021 13:48:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
