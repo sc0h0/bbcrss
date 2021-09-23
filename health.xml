@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 23 Sep 2021 15:18:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Sep 2021 15:37:47 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -51,6 +51,13 @@
             <pubDate>Thu, 23 Sep 2021 15:05:32 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[UK Covid vaccine rules cause hesitancy - Africa health chief]]></title>
+            <description><![CDATA[The UK's refusal to accept vaccine certificates from Africa could increase hesitancy, says Africa CDC.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-58663636?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-africa-58663636</guid>
+            <pubDate>Thu, 23 Sep 2021 15:20:09 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[NHS Scotland's 'biggest crisis' in five charts]]></title>
             <description><![CDATA[Looking at the figures behind the enormous pressures being felt by NHS Scotland]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-58641817?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -84,6 +91,13 @@
             <link>https://www.bbc.co.uk/news/science-environment-58628689?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/science-environment-58628689</guid>
             <pubDate>Wed, 22 Sep 2021 09:00:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19: Life expectancy is down but what does this mean?]]></title>
+            <description><![CDATA[Life expectancy for men has fallen because of the Covid pandemic - but what will be the long-term effect?]]></description>
+            <link>https://www.bbc.co.uk/news/health-58659717?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/health-58659717</guid>
+            <pubDate>Thu, 23 Sep 2021 12:27:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Turkmenistan: Getting Covid in a land where no cases officially exist]]></title>
