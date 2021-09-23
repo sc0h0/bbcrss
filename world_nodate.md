@@ -1,4 +1,4 @@
-1. [US Haiti envoy quits over 'inhumane' deportations](https://www.bbc.co.uk/news/world-us-canada-58667660?at_medium=RSS&at_campaign=KARANGA) - Daniel Foote called the US decision to deport Haitian migrants "inhumane".
+1. [US Haiti envoy quits over 'inhumane' deportations](https://www.bbc.co.uk/news/world-us-canada-58667660?at_medium=RSS&at_campaign=KARANGA) - Daniel Foote says US policy on Haiti is "flawed" and sending migrants back is "counterproductive".
 2. [Aukus pact: France and US seek to mend rift](https://www.bbc.co.uk/news/world-europe-58659627?at_medium=RSS&at_campaign=KARANGA) - The deal caused outrage in France, which lost a contract to build submarines for Australia.
 3. ['Side-eyeing Chloe' Clem to sell iconic meme as NFT](https://www.bbc.co.uk/news/world-us-canada-58659667?at_medium=RSS&at_campaign=KARANGA) - The image of Chloe Clem could fetch her tens of thousands of dollars at auction.
 4. [Air pollution: Even worse than we thought - WHO](https://www.bbc.co.uk/news/science-environment-58657224?at_medium=RSS&at_campaign=KARANGA) - The WHO is slashing recommended maximum limits of key pollutants as evidence of danger mounts.
