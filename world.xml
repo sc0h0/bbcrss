@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 23 Sep 2021 06:36:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Sep 2021 06:46:18 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -107,13 +107,6 @@
             <pubDate>Thu, 23 Sep 2021 00:10:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Afghanistan's female volleyball players tell of threats and fear]]></title>
-            <description><![CDATA[Afghan female volleyball players tell the BBC that one of the squad was killed last month.]]></description>
-            <link>https://www.bbc.co.uk/sport/volleyball/58612964?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/volleyball/58612964</guid>
-            <pubDate>Thu, 23 Sep 2021 06:25:25 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Changing China: Why Xi Jinping is leading a way back to socialism]]></title>
             <description><![CDATA[China has not been very socialist for years, but the Communist Party looks set to change that.]]></description>
             <link>https://www.bbc.co.uk/news/business-58579831?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -121,18 +114,25 @@
             <pubDate>Wed, 22 Sep 2021 23:33:32 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Afghanistan's female volleyball players tell of threats and fear]]></title>
+            <description><![CDATA[Afghan female volleyball players tell the BBC that one of the squad was killed last month.]]></description>
+            <link>https://www.bbc.co.uk/sport/volleyball/58612964?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/volleyball/58612964</guid>
+            <pubDate>Thu, 23 Sep 2021 06:25:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fighter, juggler, spaceman - who is Oleksandr Usyk?]]></title>
+            <description><![CDATA[Oleksandr Usyk fights Anthony Joshua on Saturday - but who is the grinning Ukrainian who loves juggling?]]></description>
+            <link>https://www.bbc.co.uk/sport/boxing/58585387?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/boxing/58585387</guid>
+            <pubDate>Thu, 23 Sep 2021 05:13:26 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Angela Merkel: Four expert verdicts on a contested legacy]]></title>
             <description><![CDATA[When the German chancellor steps down, how will history remember her? Four experts have their say.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-58570507?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58570507</guid>
             <pubDate>Thu, 23 Sep 2021 00:16:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gabby Petito and Brian Laundrie: What do we know about the boyfriend?]]></title>
-            <description><![CDATA[A body found on Sunday is that of Gabby Petito, but her fiancé remains missing. This is what we know.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-58629192?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58629192</guid>
-            <pubDate>Wed, 22 Sep 2021 20:08:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bolsonaro: Fact-checking claims by the Brazilian leader at UN]]></title>
