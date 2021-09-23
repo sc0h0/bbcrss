@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 23 Sep 2021 09:01:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Sep 2021 09:24:48 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[NHS Wales: Waiting times and A&E at worst performance level]]></title>
+            <description><![CDATA[Numbers waiting for hospital treatment and A&E waiting times are the worst on record.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-58655088?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-58655088</guid>
+            <pubDate>Thu, 23 Sep 2021 09:16:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[GP appointments in Wales: People facing crisis, says watchdog]]></title>
             <description><![CDATA[By the time Becca Martin's family got an appointment for her dad, he was so ill he was taken to hospital.]]></description>
@@ -44,13 +51,6 @@
             <pubDate>Wed, 22 Sep 2021 18:13:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid: Welsh ambulances face unprecedented pressure, minister says]]></title>
-            <description><![CDATA[Health Minister Eluned Morgan's comments come as military called in to drive vehicles.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-politics-58640374?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-politics-58640374</guid>
-            <pubDate>Wed, 22 Sep 2021 18:12:52 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Covid-19 in Wales: Under-16s cases spike as rates climb]]></title>
             <description><![CDATA[The sharpest increase in rates of Covid-19 are seen in those under 16 years old, latest figures show.]]></description>
             <link>https://www.bbc.co.uk/news/uk-wales-58651812?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -63,6 +63,13 @@
             <link>https://www.bbc.co.uk/news/uk-wales-58642950?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-58642950</guid>
             <pubDate>Wed, 22 Sep 2021 15:12:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: Welsh ambulances face unprecedented pressure, minister says]]></title>
+            <description><![CDATA[Health Minister Eluned Morgan's comments come as military called in to drive vehicles.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-politics-58640374?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-politics-58640374</guid>
+            <pubDate>Wed, 22 Sep 2021 18:12:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Frisky male Llandudno goats get stuck pursuing females]]></title>
@@ -91,13 +98,6 @@
             <link>https://www.bbc.co.uk/news/uk-wales-58640247?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-58640247</guid>
             <pubDate>Wed, 22 Sep 2021 15:31:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Denbighshire carer denies urinating on child's toothbrush]]></title>
-            <description><![CDATA[Rebecca Spencer also denies rubbing cutlery on her genitals and serving food laced with laxatives.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-58651494?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-58651494</guid>
-            <pubDate>Wed, 22 Sep 2021 15:45:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['I have stage four cancer but avoided chemotherapy']]></title>
@@ -177,6 +177,13 @@
             <pubDate>Wed, 22 Sep 2021 17:04:31 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Adrannau brys yn cofnodi'u ffigyrau gwaethaf erioed]]></title>
+            <description><![CDATA[Ffigyrau perfformiad gwaethaf erioed wedi cael eu cofnodi unwaith eto gan adrannau brys ysbytai Cymru.]]></description>
+            <link>https://www.bbc.co.uk/newyddion/58663444?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/newyddion/58663444</guid>
+            <pubDate>Thu, 23 Sep 2021 09:05:17 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA['Argyfwng' diffyg apwyntiadau meddyg teulu yng Nghymru]]></title>
             <description><![CDATA[Cwynion fod pobl yn gorfod aros ar y ffôn am amser hir cyn clywed nad oes apwyntiad iddyn nhw wedi'r cwbl.]]></description>
             <link>https://www.bbc.co.uk/newyddion/58658001?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -189,13 +196,6 @@
             <link>https://www.bbc.co.uk/newyddion/58658036?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/newyddion/58658036</guid>
             <pubDate>Thu, 23 Sep 2021 05:33:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gwasanaeth canser arloesol yn cynnig gobaith i filoedd]]></title>
-            <description><![CDATA[Profion genetig yn gallu gwneud i ffwrdd â chemotherapi i lawer ac yn caniatáu i gleifion canser fyw bywyd normal.]]></description>
-            <link>https://www.bbc.co.uk/newyddion/58652602?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/newyddion/58652602</guid>
-            <pubDate>Thu, 23 Sep 2021 05:37:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Codi pwysau a newid byd]]></title>
