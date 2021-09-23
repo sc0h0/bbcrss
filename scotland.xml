@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 23 Sep 2021 11:26:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Sep 2021 11:42:08 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -44,11 +44,11 @@
             <pubDate>Wed, 22 Sep 2021 19:12:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Petting zoo wallaby escapes into Aberdeenshire countryside]]></title>
+            <title><![CDATA[Wallaby escapes from petting zoo into Aberdeenshire countryside]]></title>
             <description><![CDATA[Eddie, who is about six months old, escaped the day after arriving and was last seen outside a village pub.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-58663052?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-58663052</guid>
-            <pubDate>Thu, 23 Sep 2021 10:02:32 GMT</pubDate>
+            <pubDate>Thu, 23 Sep 2021 11:29:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Health board apologies over death of Aberdeen patient]]></title>
@@ -226,11 +226,25 @@
             <pubDate>Wed, 15 Sep 2021 12:33:02 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Leigh Griffiths: Dundee striker apologises after kicking flare into stand]]></title>
+            <description><![CDATA[Leigh Griffiths apologises after the Dundee striker kicked a flare into a stand during Wednesday's 2-0 defeat by St Johnstone.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58662407?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58662407</guid>
+            <pubDate>Thu, 23 Sep 2021 11:27:17 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Aaron Hickey: Teenager proud to match Scottish legends with first Serie A goal]]></title>
             <description><![CDATA[Aaron Hickey is "proud" to have matched an elite group of Scottish football greats by scoring in Serie A.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58656800?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58656800</guid>
             <pubDate>Thu, 23 Sep 2021 07:57:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Scottish Gossip: Griffiths, Nisbet, Rangers, McGregor, Aberdeen, Hearts]]></title>
+            <description><![CDATA[Dundee forward Leigh Griffiths could face SFA action following video of flare incident.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58661895?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58661895</guid>
+            <pubDate>Thu, 23 Sep 2021 07:14:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Rangers 2-0 Livingston: Hosts through to League Cup semi-finals]]></title>
@@ -245,20 +259,6 @@
             <link>https://www.bbc.co.uk/sport/football/58627464?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58627464</guid>
             <pubDate>Wed, 22 Sep 2021 21:04:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Moselle Open: Andy Murray beats Vasek Pospisil to reach quarter-finals]]></title>
-            <description><![CDATA[Andy Murray beats Canada's Vasek Pospisil to move into the quarter-finals of the Moselle Open in France.]]></description>
-            <link>https://www.bbc.co.uk/sport/tennis/58656261?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/58656261</guid>
-            <pubDate>Wed, 22 Sep 2021 18:48:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Scottish Gossip: Griffiths, Nisbet, Rangers, McGregor, Aberdeen, Hearts]]></title>
-            <description><![CDATA[Dundee forward Leigh Griffiths could face SFA action following video of flare incident.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58661895?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58661895</guid>
-            <pubDate>Thu, 23 Sep 2021 07:14:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
