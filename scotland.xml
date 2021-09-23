@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 23 Sep 2021 20:29:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Sep 2021 20:42:11 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -247,6 +247,20 @@
             <pubDate>Wed, 15 Sep 2021 13:05:24 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Celtic 3-0 Raith Rovers: Jota, Abada & Turnbull send hosts into League Cup semi-final]]></title>
+            <description><![CDATA[Celtic respond to back-to-back defeats against Real Betis and Livingston by strolling into the Scottish League Cup semi-finals at the expense of second-tier Raith Rovers.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58627508?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58627508</guid>
+            <pubDate>Thu, 23 Sep 2021 20:40:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dundee United 1-3 Hibernian: Visitors breeze into League Cup semi-final]]></title>
+            <description><![CDATA[Hibernian reach a fifth consecutive cup semi-final as they breeze past Dundee United in the League Cup last eight at Tannadice.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58627515?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58627515</guid>
+            <pubDate>Thu, 23 Sep 2021 20:39:08 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Leigh Griffiths: Dundee striker apologises over flare incident in St Johnstone cup tie]]></title>
             <description><![CDATA[Leigh Griffiths apologises after the Dundee striker appeared to kick a flare into a stand during the defeat by St Johnstone.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58662407?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -259,20 +273,6 @@
             <link>https://www.bbc.co.uk/sport/tennis/58656261?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/58656261</guid>
             <pubDate>Wed, 22 Sep 2021 18:48:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Aaron Hickey: Teenager proud to match Scottish legends with first Serie A goal]]></title>
-            <description><![CDATA[Aaron Hickey is "proud" to have matched an elite group of Scottish football greats by scoring in Serie A.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58656800?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58656800</guid>
-            <pubDate>Thu, 23 Sep 2021 07:57:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Celtic v Raith Rovers: Can you name Raith's 1994 League Cup final-winning team?]]></title>
-            <description><![CDATA[Can you name the 13 players who featured for Raith Rovers in their 1994 League Cup final win?]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58633014?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58633014</guid>
-            <pubDate>Thu, 23 Sep 2021 06:18:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
