@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 23 Sep 2021 06:59:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Sep 2021 07:44:06 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -51,18 +51,18 @@
             <pubDate>Wed, 22 Sep 2021 23:02:04 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Somalis enjoy first public film screening in 30 years]]></title>
+            <description><![CDATA[The war-ravaged country's national theatre showed two short films by Somali director Ibrahim CM.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-58661531?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-africa-58661531</guid>
+            <pubDate>Thu, 23 Sep 2021 07:29:08 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The edible insects coming to a supermarket near you]]></title>
             <description><![CDATA[A number of firms are now farming locusts and mealworms for human consumption.]]></description>
             <link>https://www.bbc.co.uk/news/business-58636969?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58636969</guid>
             <pubDate>Wed, 22 Sep 2021 23:01:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Melbourne earthquake: Australians react to rare quake that rattled country]]></title>
-            <description><![CDATA[One resident thought the 5.9 magnitude quake was just his neighbours doing an intense workout.]]></description>
-            <link>https://www.bbc.co.uk/news/world-australia-58655306?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-australia-58655306</guid>
-            <pubDate>Wed, 22 Sep 2021 15:33:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Afghanistan's female volleyball players tell of threats and fear]]></title>
@@ -149,6 +149,13 @@
             <pubDate>Wed, 22 Sep 2021 23:53:37 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Melbourne earthquake: Australians react to rare quake that rattled country]]></title>
+            <description><![CDATA[One resident thought the 5.9 magnitude quake was just his neighbours doing an intense workout.]]></description>
+            <link>https://www.bbc.co.uk/news/world-australia-58655306?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-australia-58655306</guid>
+            <pubDate>Wed, 22 Sep 2021 15:33:19 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Life at 50C: Heat hitting home in Australia]]></title>
             <description><![CDATA[Cities like Sydney are already experiencing extremely hot days because of climate change.]]></description>
             <link>https://www.bbc.co.uk/news/world-australia-58643237?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -168,13 +175,6 @@
             <link>https://www.bbc.co.uk/news/world-58644982?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-58644982</guid>
             <pubDate>Tue, 21 Sep 2021 21:31:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Imran Khan: Afghan women 'are very strong']]></title>
-            <description><![CDATA[Pakistan's prime minster suggests that, in time, women can "assert their rights" under the Taliban.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58636544?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58636544</guid>
-            <pubDate>Tue, 21 Sep 2021 13:08:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
