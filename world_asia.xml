@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 23 Sep 2021 00:43:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Sep 2021 01:49:51 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -107,6 +107,13 @@
             <pubDate>Wed, 22 Sep 2021 05:04:18 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Melbourne earthquake: Australians react to rare quake that rattled country]]></title>
+            <description><![CDATA[One resident thought the 5.9 magnitude quake was just his neighbours doing an intense workout.]]></description>
+            <link>https://www.bbc.co.uk/news/world-australia-58655306?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-australia-58655306</guid>
+            <pubDate>Wed, 22 Sep 2021 15:33:19 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Cambodia: The autistic teenager jailed over a Telegram post]]></title>
             <description><![CDATA[He allegedly insulted Cambodia's government, prompting heavily-armed policemen to arrest him.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-58588022?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -133,48 +140,6 @@
             <link>https://www.bbc.co.uk/news/world-asia-india-58593308?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-india-58593308</guid>
             <pubDate>Mon, 20 Sep 2021 23:03:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Charanjit Singh Channi: What Punjab leadership change says about Congress]]></title>
-            <description><![CDATA[The crisis in Punjab sees the party shying from the status quo - is this a sign of things to come?]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-india-58580924?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-india-58580924</guid>
-            <pubDate>Mon, 20 Sep 2021 06:35:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[China: What is Evergrande and is it too big to fail?]]></title>
-            <description><![CDATA[The world's most indebted real estate developer is in crisis, spooking global investors.]]></description>
-            <link>https://www.bbc.co.uk/news/business-58579833?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58579833</guid>
-            <pubDate>Tue, 21 Sep 2021 05:03:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[My husband and son fought in Afghanistan - it changed all of us]]></title>
-            <description><![CDATA[America's two decades in Afghanistan impacted those who served - and the families waiting at home.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-58603119?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58603119</guid>
-            <pubDate>Sun, 19 Sep 2021 18:46:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Turkmenistan: Getting Covid in a land where no cases officially exist]]></title>
-            <description><![CDATA[People in Turkmenistan are struggling to get treatment in a system that denies there are any cases.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58583212?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58583212</guid>
-            <pubDate>Sun, 19 Sep 2021 01:24:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Climate change: The world awaits India's net zero emission deadline]]></title>
-            <description><![CDATA[India has given no clarity on how and when it plans to meet its net zero emission target.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-india-58594216?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-india-58594216</guid>
-            <pubDate>Mon, 20 Sep 2021 00:20:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Afghanistan: The escape of the whirling dancer]]></title>
-            <description><![CDATA[How the only female whirling dancer in Afghanistan made it out of Kabul.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58602631?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58602631</guid>
-            <pubDate>Fri, 17 Sep 2021 23:07:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
