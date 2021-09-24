@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 24 Sep 2021 07:28:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Sep 2021 07:38:37 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -21,6 +21,13 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58670765?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58670765</guid>
             <pubDate>Fri, 24 Sep 2021 05:18:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NI100: Church leaders defend Armagh centenary service]]></title>
+            <description><![CDATA[Irish President Michael D. Higgins decided he would not attend the event last week.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58672100?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58672100</guid>
+            <pubDate>Fri, 24 Sep 2021 05:44:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[PIP: Six in 10 disability claimants win case on appeal]]></title>
@@ -35,13 +42,6 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58670751?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58670751</guid>
             <pubDate>Fri, 24 Sep 2021 05:38:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NI100: Church leaders defend Armagh centenary service]]></title>
-            <description><![CDATA[Irish President Michael D. Higgins decided he would not attend the event last week.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58672100?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58672100</guid>
-            <pubDate>Fri, 24 Sep 2021 05:44:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Irish language and Ulster-Scots strategies 'complex and sensitive']]></title>
@@ -72,6 +72,13 @@
             <pubDate>Thu, 23 Sep 2021 23:47:52 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Hillary Clinton to be inaugurated as Queen's University chancellor]]></title>
+            <description><![CDATA[The former US secretary of state will be formally installed as the university's new chancellor later.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58669865?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58669865</guid>
+            <pubDate>Fri, 24 Sep 2021 05:32:32 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Covid-19: October 14 agreed for more changes to NI restrictions]]></title>
             <description><![CDATA[The executive agrees to ease more of NI's restrictions on 14 October, subject to a review.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58657582?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -84,13 +91,6 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58663417?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58663417</guid>
             <pubDate>Thu, 23 Sep 2021 16:44:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[County Wexford: Light aircraft crash lands on Carne Beach]]></title>
-            <description><![CDATA[Four people were on board the aircraft, however, their injuries are not life threatening.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58672098?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58672098</guid>
-            <pubDate>Thu, 23 Sep 2021 18:53:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Keir Starmer: Labour leader calls on PM to step in over NI Protocol]]></title>
@@ -219,6 +219,13 @@
             <pubDate>Thu, 23 Sep 2021 16:14:09 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[County Wexford: Light aircraft crash lands on Carne Beach]]></title>
+            <description><![CDATA[Four people were on board the aircraft, however, their injuries are not life threatening.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58672098?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58672098</guid>
+            <pubDate>Thu, 23 Sep 2021 18:53:36 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Saoirse Ronan: Macbeth and Lady Macbeth are like Kim and Kanye]]></title>
             <description><![CDATA[The actress says Kim Kardashian has inspired the "uncharted territory" of her first UK stage role.]]></description>
             <link>https://www.bbc.co.uk/news/entertainment-arts-58627498?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -245,13 +252,6 @@
             <link>https://www.bbc.co.uk/news/world-europe-58622554?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58622554</guid>
             <pubDate>Mon, 20 Sep 2021 08:11:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Politicians condemn protest at Leo Varadkar's home]]></title>
-            <description><![CDATA[Protesters gathered outside the home of the tánaiste (Ireland's deputy prime minister) on Sunday.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58623079?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58623079</guid>
-            <pubDate>Mon, 20 Sep 2021 08:38:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
