@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 24 Sep 2021 05:42:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Sep 2021 05:58:13 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -42,6 +42,13 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58669854?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58669854</guid>
             <pubDate>Fri, 24 Sep 2021 05:23:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NI100: Church leaders defend Armagh centenary service]]></title>
+            <description><![CDATA[Irish President Michael D. Higgins decided he would not attend the event last week.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58672100?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58672100</guid>
+            <pubDate>Fri, 24 Sep 2021 05:44:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Irish language and Ulster-Scots strategies 'complex and sensitive']]></title>
@@ -91,13 +98,6 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58663414?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58663414</guid>
             <pubDate>Thu, 23 Sep 2021 14:23:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[James Smyth pleads not guilty to Catholic workmen murders]]></title>
-            <description><![CDATA[Gary Convie and Eamon Fox were shot dead by loyalists at a Belfast building site in May 1994.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58663242?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58663242</guid>
-            <pubDate>Thu, 23 Sep 2021 12:25:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: NI records eight Covid-linked deaths, 1,165 cases]]></title>
@@ -153,7 +153,7 @@
             <description><![CDATA[The weather forecast in Northern Ireland.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-26018439?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-26018439</guid>
-            <pubDate>Thu, 23 Sep 2021 05:41:38 GMT</pubDate>
+            <pubDate>Fri, 24 Sep 2021 05:54:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Health and social care tax: Who pays for care homes in NI?]]></title>
