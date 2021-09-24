@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 24 Sep 2021 19:54:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Sep 2021 20:11:04 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -23,13 +23,6 @@
             <pubDate>Fri, 24 Sep 2021 19:48:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Afghanistan: Executions will return, says senior Taliban official]]></title>
-            <description><![CDATA[Extreme punishments like executions and amputations will resume in Afghanistan, says the Taliban's head of prisons.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58675153?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58675153</guid>
-            <pubDate>Fri, 24 Sep 2021 10:31:42 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Canary Islands: Firefighters retreat as volcano intensifies]]></title>
             <description><![CDATA[Hundreds of homes have been destroyed and thousands displaced since the volcano erupted on Sunday.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-58683718?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -37,18 +30,25 @@
             <pubDate>Fri, 24 Sep 2021 16:38:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Kim Yo-jong says North Korea open to ending war if conditions met]]></title>
-            <description><![CDATA[Kim Yo-jong was responding to a renewed call from the South to officially declare an end to the Korean War.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58675703?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58675703</guid>
-            <pubDate>Fri, 24 Sep 2021 07:35:53 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Migrants freezing to death on Belarus-Poland border]]></title>
             <description><![CDATA[The BBC finds stranded migrants facing sub-zero temperatures amid a row between Poland and Belarus.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-58671941?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58671941</guid>
             <pubDate>Thu, 23 Sep 2021 23:14:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Afghanistan: Executions will return, says senior Taliban official]]></title>
+            <description><![CDATA[Extreme punishments like executions and amputations will resume in Afghanistan, says the Taliban's head of prisons.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58675153?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58675153</guid>
+            <pubDate>Fri, 24 Sep 2021 10:31:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kim Yo-jong says North Korea open to ending war if conditions met]]></title>
+            <description><![CDATA[Kim Yo-jong was responding to a renewed call from the South to officially declare an end to the Korean War.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58675703?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58675703</guid>
+            <pubDate>Fri, 24 Sep 2021 07:35:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[German election: Climate protesters rally in cities]]></title>

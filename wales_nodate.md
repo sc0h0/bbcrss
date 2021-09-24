@@ -1,4 +1,4 @@
-1. [Cardiff petrol station shuts amid panic buying](https://www.bbc.co.uk/news/uk-wales-58676366?at_medium=RSS&at_campaign=KARANGA) - But Tesco and Asda say they have good availability amid queues at some filling stations.
+1. [Fuel shortage: Several petrol stations shut in Wales](https://www.bbc.co.uk/news/uk-wales-58676366?at_medium=RSS&at_campaign=KARANGA) - But Tesco and Asda say they have good availability and can refill despite queues at some stations.
 2. [Carmarthenshire: Boy, 3, hit by trailer while on bike, inquest hears](https://www.bbc.co.uk/news/uk-wales-58682602?at_medium=RSS&at_campaign=KARANGA) - Ianto Cerwyn Sior Jenkins, three, had been playing with his sister and cousin.
 3. [Eight-storey UK flag for Cardiff scrapped over £180k price tag](https://www.bbc.co.uk/news/uk-wales-58678821?at_medium=RSS&at_campaign=KARANGA) - The plans "did not represent good value for the taxpayer", the UK government says.
 4. [Covid: Welsh government spent £32k on GLC vaccine campaign](https://www.bbc.co.uk/news/uk-wales-58683018?at_medium=RSS&at_campaign=KARANGA) - Goldie Lookin' Chain were paid for the Get the Jab Done single, urging people to get the Covid jab.
