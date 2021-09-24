@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 24 Sep 2021 22:00:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Sep 2021 22:24:18 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -247,18 +247,18 @@
             <pubDate>Fri, 24 Sep 2021 14:29:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[URC: Edinburgh & Glasgow look to improve on disappointing seasons]]></title>
-            <description><![CDATA[Edinburgh and Glasgow Warriors endured difficult times last season - will the new campaign bring better for Scotland's pro sides?]]></description>
-            <link>https://www.bbc.co.uk/sport/rugby-union/58643745?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/rugby-union/58643745</guid>
-            <pubDate>Thu, 23 Sep 2021 22:00:21 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Andy Murray beaten by top seed Hubert Hurkacz in Moselle Open quarter-final]]></title>
             <description><![CDATA[Britain's former world number one Andy Murray is knocked out of the Moselle Open by Polish top seed Hubert Hurkacz.]]></description>
             <link>https://www.bbc.co.uk/sport/tennis/58682569?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/58682569</guid>
             <pubDate>Fri, 24 Sep 2021 19:30:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[URC: Edinburgh & Glasgow look to improve on disappointing seasons]]></title>
+            <description><![CDATA[Edinburgh and Glasgow Warriors endured difficult times last season - will the new campaign bring better for Scotland's pro sides?]]></description>
+            <link>https://www.bbc.co.uk/sport/rugby-union/58643745?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/rugby-union/58643745</guid>
+            <pubDate>Thu, 23 Sep 2021 22:00:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
