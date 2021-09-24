@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 24 Sep 2021 11:05:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Sep 2021 11:21:51 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -37,18 +37,18 @@
             <pubDate>Thu, 23 Sep 2021 20:51:20 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Kenya: On the ground in Laikipia's conflict]]></title>
+            <description><![CDATA[Armed herders have been attacking farmers and destroying their homes in the Kenya's Laikipia County.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-58677304?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-africa-58677304</guid>
+            <pubDate>Fri, 24 Sep 2021 10:39:43 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Morocco's Khadija rape case: Eleven jailed for 20 years]]></title>
             <description><![CDATA[The woman's lawyer says he will appeal, describing the 20-year sentences as "not tough."]]></description>
             <link>https://www.bbc.co.uk/news/world-africa-58662286?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-africa-58662286</guid>
             <pubDate>Thu, 23 Sep 2021 09:27:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Somalis enjoy first public film screening in 30 years]]></title>
-            <description><![CDATA[The war-ravaged country's national theatre showed two short films by Somali director Ibrahim CM.]]></description>
-            <link>https://www.bbc.co.uk/news/world-africa-58661531?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-africa-58661531</guid>
-            <pubDate>Thu, 23 Sep 2021 07:29:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Central African Republic war: No-go zones and Russian meddling]]></title>
@@ -93,13 +93,6 @@
             <pubDate>Sat, 18 Sep 2021 00:06:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Kenya: On the ground in Laikipia's conflict]]></title>
-            <description><![CDATA[Armed herders have been attacking farmers and destroying their homes in the Kenya's Laikipia County.]]></description>
-            <link>https://www.bbc.co.uk/news/world-africa-58677304?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-africa-58677304</guid>
-            <pubDate>Fri, 24 Sep 2021 10:39:43 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Street dreams of Nairobi dance crew hoping to beat the odds]]></title>
             <description><![CDATA[A group of street dancers in Nairobi, Kenya, struggle against the odds to become celebrities.]]></description>
             <link>https://www.bbc.co.uk/news/world-africa-58602632?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -140,6 +133,13 @@
             <link>https://www.bbc.co.uk/news/world-africa-58577421?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-africa-58577421</guid>
             <pubDate>Wed, 15 Sep 2021 23:04:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What's gone wrong with the 'War on Terror' in Africa?]]></title>
+            <description><![CDATA[Twenty years after the US 'War on Terror' began, Islamist movements have spread across Africa.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-58552058?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-africa-58552058</guid>
+            <pubDate>Mon, 13 Sep 2021 23:13:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
