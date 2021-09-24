@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 24 Sep 2021 15:17:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Sep 2021 15:35:06 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -59,7 +59,7 @@
         </item>
         <item>
             <title><![CDATA[Birmingham Pride: Cheryl pulls out over Harding grief]]></title>
-            <description><![CDATA[The singer says she is not emotionally able to perform after ex-band mate Sarah Harding's death.]]></description>
+            <description><![CDATA[The singer says she is not emotionally able to perform after her ex-band mate's death.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-birmingham-58681707?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-birmingham-58681707</guid>
             <pubDate>Fri, 24 Sep 2021 14:03:34 GMT</pubDate>
@@ -191,6 +191,13 @@
             <pubDate>Fri, 24 Sep 2021 05:07:59 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Warwickshire beat Somerset to win County Championship]]></title>
+            <description><![CDATA[Warwickshire beat Somerset at Edgbaston to win their first County Championship title in nine years.]]></description>
+            <link>https://www.bbc.co.uk/sport/cricket/58678705?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/cricket/58678705</guid>
+            <pubDate>Fri, 24 Sep 2021 15:28:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Emma Raducanu: British number one splits with coach after US Open win]]></title>
             <description><![CDATA[British number one Emma Raducanu splits with the coach who helped guide her to a first Grand Slam title at the US Open.]]></description>
             <link>https://www.bbc.co.uk/sport/tennis/58682151?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -205,11 +212,11 @@
             <pubDate>Fri, 24 Sep 2021 11:03:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[County Championship: Ben Slater guides Nottinghamshire to win over Yorkshire]]></title>
-            <description><![CDATA[Ben Slater makes an unbeaten 79 to steer Nottinghamshire to a five-wicket win over Yorkshire at Trent Bridge.]]></description>
-            <link>https://www.bbc.co.uk/sport/cricket/58678709?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/cricket/58678709</guid>
-            <pubDate>Fri, 24 Sep 2021 12:58:54 GMT</pubDate>
+            <title><![CDATA[James Rodriguez: Everton boss Rafael Benitez explains sale of Colombian midfielder]]></title>
+            <description><![CDATA[Everton boss Rafael Benitez says he allowed James Rodriguez to leave the club because of his injury record and to free up funds.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58683208?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58683208</guid>
+            <pubDate>Fri, 24 Sep 2021 15:19:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
