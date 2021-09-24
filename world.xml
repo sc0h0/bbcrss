@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 24 Sep 2021 07:44:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Sep 2021 08:15:15 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -37,11 +37,18 @@
             <pubDate>Fri, 24 Sep 2021 04:40:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Migrants freezing to death on Belarus-Poland border]]></title>
-            <description><![CDATA[The BBC finds stranded migrants facing sub-zero temperatures amid a row between Poland and Belarus.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58671941?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58671941</guid>
-            <pubDate>Thu, 23 Sep 2021 23:14:56 GMT</pubDate>
+            <title><![CDATA[Kenyan basketballer: Sexual abuse rife for years]]></title>
+            <description><![CDATA[A former basketball player in Kenya says sexual abuse has plagued the country's women's game for "many years".]]></description>
+            <link>https://www.bbc.co.uk/sport/africa/58658276?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/africa/58658276</guid>
+            <pubDate>Fri, 24 Sep 2021 06:35:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mozambique militant attacks: 'So much destruction']]></title>
+            <description><![CDATA[The BBC's Anne Soy sees how Islamic militants have terrorised Cabo Delgado in northern Mozambique.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-58671942?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-africa-58671942</guid>
+            <pubDate>Fri, 24 Sep 2021 08:13:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Gabby Petito case: FBI issues arrest warrant for boyfriend Brian Laundrie]]></title>
@@ -49,13 +56,6 @@
             <link>https://www.bbc.co.uk/news/world-us-canada-58673547?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58673547</guid>
             <pubDate>Thu, 23 Sep 2021 23:51:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[India salon fined $271,000 for 'botching' model's haircut]]></title>
-            <description><![CDATA[The court said the model suffered a huge loss due to the wrong haircut.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-india-58674449?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-india-58674449</guid>
-            <pubDate>Fri, 24 Sep 2021 05:37:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Canary Islands volcano: 'Miracle house' escapes lava]]></title>
@@ -86,18 +86,18 @@
             <pubDate>Thu, 23 Sep 2021 19:01:08 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[India salon fined $271,000 for 'botching' model's haircut]]></title>
+            <description><![CDATA[The court said the model suffered a huge loss due to the wrong haircut.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-india-58674449?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-india-58674449</guid>
+            <pubDate>Fri, 24 Sep 2021 05:37:59 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[George Floyd murder: Derek Chauvin appeals against conviction]]></title>
             <description><![CDATA[Former Minneapolis police officer Derek Chauvin says there were issues with the jury at his trial.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-58674884?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58674884</guid>
             <pubDate>Fri, 24 Sep 2021 06:39:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hillary Clinton to be installed as university chancellor]]></title>
-            <description><![CDATA[The former US secretary of state will be formally installed as the university's new chancellor later.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58669865?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58669865</guid>
-            <pubDate>Fri, 24 Sep 2021 05:32:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The other missing Americans: 'Where is their coverage?']]></title>
@@ -149,6 +149,13 @@
             <pubDate>Thu, 23 Sep 2021 20:43:36 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Migrants freezing to death on Belarus-Poland border]]></title>
+            <description><![CDATA[The BBC finds stranded migrants facing sub-zero temperatures amid a row between Poland and Belarus.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58671941?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58671941</guid>
+            <pubDate>Thu, 23 Sep 2021 23:14:56 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Thousands remain at Haitian migrant camp in Texas]]></title>
             <description><![CDATA[Local officials have struggled to provide food and sanitation to the Haitian migrants.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-58671207?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -175,13 +182,6 @@
             <link>https://www.bbc.co.uk/news/world-australia-58655306?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-australia-58655306</guid>
             <pubDate>Wed, 22 Sep 2021 15:33:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Life at 50C: Heat hitting home in Australia]]></title>
-            <description><![CDATA[Cities like Sydney are already experiencing extremely hot days because of climate change.]]></description>
-            <link>https://www.bbc.co.uk/news/world-australia-58643237?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-australia-58643237</guid>
-            <pubDate>Tue, 21 Sep 2021 23:09:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
