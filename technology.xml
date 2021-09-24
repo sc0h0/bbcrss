@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 24 Sep 2021 15:03:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Sep 2021 15:25:59 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Facebook Files: 5 things leaked documents reveal]]></title>
+            <description><![CDATA[Leaked documents appear to present a new problem for Facebook - employee discontent.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-58678332?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/technology-58678332</guid>
+            <pubDate>Fri, 24 Sep 2021 15:03:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[China declares all crypto-currency transactions illegal]]></title>
             <description><![CDATA[Trading Bitcoin and other crypto-currenices is a criminal activity, China's central bank says.]]></description>
@@ -91,13 +98,6 @@
             <link>https://www.bbc.co.uk/news/technology-58572389?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/technology-58572389</guid>
             <pubDate>Tue, 21 Sep 2021 16:07:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin mining producing tonnes of waste]]></title>
-            <description><![CDATA[Waste from the cryptocurrency process is similar to that from IT equipment somewhere like the Netherlands.]]></description>
-            <link>https://www.bbc.co.uk/news/technology-58572385?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/technology-58572385</guid>
-            <pubDate>Mon, 20 Sep 2021 16:44:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The self-sustaining house on wheels and other news]]></title>
