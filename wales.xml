@@ -11,16 +11,16 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 24 Sep 2021 10:48:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Sep 2021 11:06:15 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
-            <title><![CDATA[Petrol shortage: No supply issue in Wales, say supermarkets]]></title>
+            <title><![CDATA[Petrol: No shortage despite queues, say retailers]]></title>
             <description><![CDATA[Tesco and Asda say they have good availability amid queues at some filling stations.]]></description>
             <link>https://www.bbc.co.uk/news/uk-wales-58676366?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-58676366</guid>
-            <pubDate>Fri, 24 Sep 2021 10:20:07 GMT</pubDate>
+            <pubDate>Fri, 24 Sep 2021 11:01:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: Students urged to get vaccine in freshers' week]]></title>
@@ -156,25 +156,25 @@
             <pubDate>Thu, 23 Sep 2021 20:37:06 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[United Rugby Championship: Dragons v Ospreys (Sun)]]></title>
+            <description><![CDATA[Team news and match preview for Dragons' opening URC fixture at home to Ospreys on Sunday, 26 September.]]></description>
+            <link>https://www.bbc.co.uk/sport/rugby-union/58665848?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/rugby-union/58665848</guid>
+            <pubDate>Fri, 24 Sep 2021 11:00:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[United Rugby Championship: Edinburgh v Scarlets (Saturday)]]></title>
+            <description><![CDATA[Wales centre Scott Williams will make his competitive return for Scarlets' United Rugby Championship opening match at Edinburgh.]]></description>
+            <link>https://www.bbc.co.uk/sport/rugby-union/58634824?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/rugby-union/58634824</guid>
+            <pubDate>Fri, 24 Sep 2021 11:00:20 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[United Rugby Championship: How will the 16 sides fare?]]></title>
             <description><![CDATA[BBC Sport looks at the chances of all 16 sides ahead of this season's new United Rugby Championship (URC) tournament.]]></description>
             <link>https://www.bbc.co.uk/sport/rugby-union/58582288?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/rugby-union/58582288</guid>
             <pubDate>Thu, 23 Sep 2021 13:52:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cardiff Devils head coach Jarrod Skalde 'so excited' for first Elite League campaign]]></title>
-            <description><![CDATA[Cardiff Devils head coach Jarrod Skalde says he is "so excited" to begin his first Elite League campaign.]]></description>
-            <link>https://www.bbc.co.uk/sport/ice-hockey/58655346?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/ice-hockey/58655346</guid>
-            <pubDate>Fri, 24 Sep 2021 09:04:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Welsh Rugby Union: Bank debt rises to £22.9m despite £400,000 profit for financial year]]></title>
-            <description><![CDATA[The Welsh Rugby Union says it has recorded a small £400,000 profit before tax despite the Covid-19 pandemic - but overall bank debt has risen to £22.9m and net debt to £114.4m.]]></description>
-            <link>https://www.bbc.co.uk/sport/rugby-union/58658672?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/rugby-union/58658672</guid>
-            <pubDate>Thu, 23 Sep 2021 06:00:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ysgolion yn 'fregus iawn' yn sgil achosion o Covid]]></title>
@@ -199,7 +199,7 @@
         </item>
         <item>
             <title><![CDATA[Byw mewn fan: 'Dyma'r ffordd dw'i isio byw']]></title>
-            <description><![CDATA[O ystyried hunanladdiad i addasu i fyw mewn fan - hanes Paul O'Neil]]></description>
+            <description><![CDATA[O ystyried hunanladdiad i addasu i fyw mewn fan - hanes Paul O'Neill.]]></description>
             <link>https://www.bbc.co.uk/newyddion/58665143?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/newyddion/58665143</guid>
             <pubDate>Fri, 24 Sep 2021 09:03:21 GMT</pubDate>
