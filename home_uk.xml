@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 24 Sep 2021 07:35:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Sep 2021 07:47:13 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -51,6 +51,13 @@
             <pubDate>Thu, 23 Sep 2021 23:14:56 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid-19: Lorry driver shortage and cancer backlog warning]]></title>
+            <description><![CDATA[Five things you need to know about the coronavirus pandemic this Friday morning.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-58652329?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58652329</guid>
+            <pubDate>Fri, 24 Sep 2021 06:58:39 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Gas crisis leaves Europe searching for solutions]]></title>
             <description><![CDATA[Consumers face a steep rise in energy bills as governments try to fund the move to renewable energy.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-58650634?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -79,25 +86,11 @@
             <pubDate>Fri, 24 Sep 2021 00:05:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Catalan separatist Carles Puigdemont arrested in Italy]]></title>
-            <description><![CDATA[Spain accuses the former president of the Catalonia region of sedition, and wants him extradited.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58674176?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58674176</guid>
-            <pubDate>Fri, 24 Sep 2021 07:15:14 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Canary Islands volcano: 'Miracle house' escapes lava]]></title>
             <description><![CDATA[The volcano on La Palma has been erupting since Sunday, destroying hundreds of homes.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-58672303?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58672303</guid>
             <pubDate>Thu, 23 Sep 2021 18:56:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Seven out of 10 win benefits challenges at tribunal]]></title>
-            <description><![CDATA[More than 287,000 people in three years overturn initial government decision.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58284613?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58284613</guid>
-            <pubDate>Fri, 24 Sep 2021 05:19:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tom Felton: Harry Potter star collapses during celebrity golf match]]></title>
@@ -154,6 +147,13 @@
             <link>https://www.bbc.co.uk/news/entertainment-arts-58656172?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-58656172</guid>
             <pubDate>Wed, 22 Sep 2021 23:02:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Canary Islands volcano: 'Miracle house' escapes lava]]></title>
+            <description><![CDATA[The volcano on La Palma has been erupting since Sunday, destroying hundreds of homes.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58672303?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58672303</guid>
+            <pubDate>Thu, 23 Sep 2021 18:56:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['How we re-delivered a baby's postcard - 75 years on']]></title>
@@ -259,6 +259,41 @@
             <link>https://www.bbc.co.uk/sport/football/58672237?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58672237</guid>
             <pubDate>Thu, 23 Sep 2021 18:59:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What can I do if my energy supplier goes bust?]]></title>
+            <description><![CDATA[Nearly 1.5 million customers have seen their energy firm collapse amid soaring gas prices.]]></description>
+            <link>https://www.bbc.co.uk/news/business-58662667?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58662667</guid>
+            <pubDate>Thu, 23 Sep 2021 12:01:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gas prices: Why are they so high and what is the energy price cap?]]></title>
+            <description><![CDATA[Householders face a rise in energy bills - as well as the possibility their supplier could go bust.]]></description>
+            <link>https://www.bbc.co.uk/news/business-58090533?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58090533</guid>
+            <pubDate>Thu, 23 Sep 2021 14:23:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Where does the UK get its gas and is it facing a shortage this winter?]]></title>
+            <description><![CDATA[A surge in gas prices has prompted fears of hard times ahead - but how bad could it get?]]></description>
+            <link>https://www.bbc.co.uk/news/business-58637094?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58637094</guid>
+            <pubDate>Tue, 21 Sep 2021 14:35:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why is there a CO2 shortage and how will it hit food supplies?]]></title>
+            <description><![CDATA[The UK's food industry has been told it must pay five times more for carbon dioxide in future.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-58626935?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/explainers-58626935</guid>
+            <pubDate>Thu, 23 Sep 2021 12:18:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gas prices: 'I'm just watching the meter go up']]></title>
+            <description><![CDATA[Customers caught in the middle of the energy price crisis face higher bills but are told not to panic.]]></description>
+            <link>https://www.bbc.co.uk/news/business-58626018?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58626018</guid>
+            <pubDate>Mon, 20 Sep 2021 14:11:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid: How can missing five million be persuaded to have the jab?]]></title>

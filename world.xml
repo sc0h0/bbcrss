@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 24 Sep 2021 07:16:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Sep 2021 07:44:07 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Kim Yo-jong says North Korea open to ending war if conditions met]]></title>
+            <description><![CDATA[The sister of Kim Jong-un said she was open to the idea if the South stopped its "hostile policies".]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58675703?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58675703</guid>
+            <pubDate>Fri, 24 Sep 2021 07:35:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Catalan separatist Carles Puigdemont arrested in Italy]]></title>
             <description><![CDATA[Spain accuses the former president of the Catalonia region of sedition, and wants him extradited.]]></description>
@@ -35,13 +42,6 @@
             <link>https://www.bbc.co.uk/news/world-europe-58671941?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58671941</guid>
             <pubDate>Thu, 23 Sep 2021 23:14:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Capitol riot committee to investigate Trump allies]]></title>
-            <description><![CDATA[The committee investigating the 6 January riot has issued the first subpoenas of the Trump team.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-58673755?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58673755</guid>
-            <pubDate>Fri, 24 Sep 2021 01:41:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Gabby Petito case: FBI issues arrest warrant for boyfriend Brian Laundrie]]></title>
@@ -65,11 +65,11 @@
             <pubDate>Thu, 23 Sep 2021 18:56:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[UK Covid vaccine rules cause hesitancy - Africa health boss]]></title>
-            <description><![CDATA[The UK's refusal to accept vaccine certificates from Africa could increase hesitancy, says Africa CDC.]]></description>
-            <link>https://www.bbc.co.uk/news/world-africa-58663636?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-africa-58663636</guid>
-            <pubDate>Thu, 23 Sep 2021 20:51:20 GMT</pubDate>
+            <title><![CDATA[Capitol riot committee to investigate Trump allies]]></title>
+            <description><![CDATA[The committee investigating the 6 January riot has issued the first subpoenas of the Trump team.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-58673755?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58673755</guid>
+            <pubDate>Fri, 24 Sep 2021 01:41:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Footprints in New Mexico are oldest evidence of humans in the Americas]]></title>
