@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 24 Sep 2021 13:55:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Sep 2021 14:16:49 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -28,6 +28,13 @@
             <link>https://www.bbc.co.uk/news/world-asia-58675703?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58675703</guid>
             <pubDate>Fri, 24 Sep 2021 07:35:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[German election: Climate protesters rally in cities]]></title>
+            <description><![CDATA[They want the next government to do more to limit global heating and to end the use of coal.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58681515?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58681515</guid>
+            <pubDate>Fri, 24 Sep 2021 14:12:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Migrants freezing to death on Belarus-Poland border]]></title>
@@ -51,18 +58,18 @@
             <pubDate>Fri, 24 Sep 2021 13:48:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Spain PM: Arrested Catalan exile Puigdemont must stand trial]]></title>
-            <description><![CDATA[Carles Puigdemont was detained in Italy over a failed Catalan bid to win independence.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58674176?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58674176</guid>
-            <pubDate>Fri, 24 Sep 2021 12:47:11 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[China declares all crypto-currency transactions illegal]]></title>
             <description><![CDATA[Trading Bitcoin and other crypto-currenices is a criminal activity, China's central bank says.]]></description>
             <link>https://www.bbc.co.uk/news/technology-58678907?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/technology-58678907</guid>
             <pubDate>Fri, 24 Sep 2021 11:30:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Spain PM: Arrested Catalan exile Puigdemont must stand trial]]></title>
+            <description><![CDATA[Carles Puigdemont was detained in Italy over a failed Catalan bid to win independence.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58674176?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58674176</guid>
+            <pubDate>Fri, 24 Sep 2021 12:47:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Mozambique militant attacks: 'So much destruction']]></title>
@@ -91,13 +98,6 @@
             <link>https://www.bbc.co.uk/news/world-europe-58675144?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58675144</guid>
             <pubDate>Fri, 24 Sep 2021 09:50:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gabby Petito case: FBI issues arrest warrant for boyfriend Brian Laundrie]]></title>
-            <description><![CDATA[The indictment says Brian Laundrie used a debit card that did not belong to him after her death.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-58673547?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58673547</guid>
-            <pubDate>Thu, 23 Sep 2021 23:51:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Haitian migrants at US border: 'We've been through 11 countries']]></title>
