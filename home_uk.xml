@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 24 Sep 2021 13:23:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Sep 2021 13:36:47 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -51,6 +51,13 @@
             <pubDate>Fri, 24 Sep 2021 00:06:23 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[US Open 2021: Emma Raducanu faces title-winning serve]]></title>
+            <description><![CDATA[Great Britain's Emma Raducanu relives her US Open-winning ace before trying to return the same serve from a machine.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/tennis/58681849?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/av/tennis/58681849</guid>
+            <pubDate>Fri, 24 Sep 2021 13:14:11 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Kim Yo-jong says North Korea open to ending war if conditions met]]></title>
             <description><![CDATA[Kim Yo-jong was responding to a renewed call from the South to officially declare an end to the Korean War.]]></description>
             <link>https://www.bbc.co.uk/news/world-asia-58675703?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -84,13 +91,6 @@
             <link>https://www.bbc.co.uk/news/technology-58678907?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/technology-58678907</guid>
             <pubDate>Fri, 24 Sep 2021 11:30:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Port of Dover: Arrests made as Insulate Britain blocks port]]></title>
-            <description><![CDATA[Queues form at Europe's busiest ferry terminal as Insulate Britain shift their protest from the M25.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-kent-58676610?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-kent-58676610</guid>
-            <pubDate>Fri, 24 Sep 2021 12:15:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Mozambique militant attacks: 'So much destruction']]></title>
@@ -219,11 +219,11 @@
             <pubDate>Thu, 23 Sep 2021 00:38:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Hamilton will 'not bail out' of on-track battles any more]]></title>
-            <description><![CDATA[Lewis Hamilton has decided not to back out of on-track battles when he believes he has a right to the corner, Mercedes team boss Toto Wolff says.]]></description>
-            <link>https://www.bbc.co.uk/sport/formula1/58677987?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/formula1/58677987</guid>
-            <pubDate>Fri, 24 Sep 2021 11:45:53 GMT</pubDate>
+            <title><![CDATA[Verstappen to start at back of Russia Grand Prix grid]]></title>
+            <description><![CDATA[Red Bull's Max Verstappen will start Sunday's Russian Grand Prix from the back of the grid as a result of a penalty for using too many engines.]]></description>
+            <link>https://www.bbc.co.uk/sport/formula1/58681406?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/formula1/58681406</guid>
+            <pubDate>Fri, 24 Sep 2021 13:09:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['I think AJ is gun shy' - big-fight predictions and cast your vote ]]></title>
@@ -231,6 +231,13 @@
             <link>https://www.bbc.co.uk/sport/boxing/58678565?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/boxing/58678565</guid>
             <pubDate>Fri, 24 Sep 2021 11:31:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hamilton will 'not bail out' of on-track battles any more]]></title>
+            <description><![CDATA[Lewis Hamilton has decided not to back out of on-track battles when he believes he has a right to the corner, Mercedes team boss Toto Wolff says.]]></description>
+            <link>https://www.bbc.co.uk/sport/formula1/58677987?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/formula1/58677987</guid>
+            <pubDate>Fri, 24 Sep 2021 11:45:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[England claim first series win in New Zealand after thrilling final-quarter fightback]]></title>

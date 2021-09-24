@@ -24,5 +24,5 @@
 24. [Ysgolion yn 'fregus iawn' yn sgil achosion o Covid](https://www.bbc.co.uk/newyddion/58669656?at_medium=RSS&at_campaign=KARANGA) - Bydd rhaid ystyried cau rhai ysgolion yn Sir Ddinbych oherwydd prinder staff a chyfraddau Covid uchel.
 25. [Ciwiau hir am betrol er bod 'argaeledd da' yng Nghymru](https://www.bbc.co.uk/newyddion/58678352?at_medium=RSS&at_campaign=KARANGA) - Mae rhai gorsafoedd petrol wedi gweld ciwiau hir yn dilyn problemau wrth gludo'r tanwydd o gwmpas y DU.
 26. [Tourette's: 'Fi'n drist a'n grac, sa'i 'di gofyn am hwn'](https://www.bbc.co.uk/newyddion/58659687?at_medium=RSS&at_campaign=KARANGA) - Mae yna "ddiffyg dealltwriaeth a diffyg cymorth" i bobl ifanc â'r cyflwr yng Nghymru, medd Megan Jones.
-27. [Byw mewn fan: 'Dyma'r ffordd dw'i isio byw'](https://www.bbc.co.uk/newyddion/58665143?at_medium=RSS&at_campaign=KARANGA) - O ystyried hunanladdiad i addasu i fyw mewn fan - hanes Paul O'Neill.
+27. [Sut i arddio yn yr hydref](https://www.bbc.co.uk/newyddion/58678003?at_medium=RSS&at_campaign=KARANGA) - Meinir Gwilym sy'n rhoi cyngor ar beth i'w blannu yn yr ardd mis yma
 28. [Surrey yn taro 'nôl yn erbyn Morgannwg ar yr Oval](https://www.bbc.co.uk/newyddion/58671820?at_medium=RSS&at_campaign=KARANGA) - Mae hi'n edrych yn anochel bellach mai gêm gyfartal fydd hi wedi i'r tîm cartref fatio trwy'r trydydd diwrnod.
