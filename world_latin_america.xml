@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 24 Sep 2021 04:36:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Sep 2021 04:51:14 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Haitian migrants at US border: 'We've been through 11 countries']]></title>
+            <description><![CDATA[One man tells how he trekked through jungle with his young son, seeing fellow migrants' dead bodies.]]></description>
+            <link>https://www.bbc.co.uk/news/world-latin-america-58673578?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-latin-america-58673578</guid>
+            <pubDate>Fri, 24 Sep 2021 04:40:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[US Haiti envoy quits over 'inhumane' deportations]]></title>
             <description><![CDATA[Daniel Foote says US policy on Haiti is "flawed" and sending migrants back is "counterproductive".]]></description>
@@ -51,13 +58,6 @@
             <pubDate>Tue, 21 Sep 2021 09:38:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Mexico metro collapse: 'All I ever wanted was for my son to come home']]></title>
-            <description><![CDATA[The mother of the youngest victim of Mexico's metro crash takes on some of the country's richest people.]]></description>
-            <link>https://www.bbc.co.uk/news/world-latin-america-58500189?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-latin-america-58500189</guid>
-            <pubDate>Sat, 18 Sep 2021 01:00:19 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Brazil legend Pele says he is 'recovering very well' after surgery]]></title>
             <description><![CDATA[Brazil legend Pele says he is "recovering well" from a recent operation after briefly being readmitted to intensive care.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58604541?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -65,11 +65,11 @@
             <pubDate>Sat, 18 Sep 2021 06:35:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Venezuela judiciary aiding repression, UN finds]]></title>
-            <description><![CDATA[A fact-finding mission says the justice system allowed serious human rights violations to happen.]]></description>
-            <link>https://www.bbc.co.uk/news/world-latin-america-58571317?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-latin-america-58571317</guid>
-            <pubDate>Thu, 16 Sep 2021 17:32:11 GMT</pubDate>
+            <title><![CDATA[Why are so many Haitians at the US-Mexico border?]]></title>
+            <description><![CDATA[Thousands of migrants are at the Texas-Mexico border. Here's what we know about why they are coming.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-58667669?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58667669</guid>
+            <pubDate>Thu, 23 Sep 2021 20:43:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Grim echoes of history in images of Haitians at US-Mexico border]]></title>
@@ -77,6 +77,13 @@
             <link>https://www.bbc.co.uk/news/world-us-canada-58654351?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58654351</guid>
             <pubDate>Thu, 23 Sep 2021 00:10:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mexico metro collapse: 'All I ever wanted was for my son to come home']]></title>
+            <description><![CDATA[The mother of the youngest victim of Mexico's metro crash takes on some of the country's richest people.]]></description>
+            <link>https://www.bbc.co.uk/news/world-latin-america-58500189?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-latin-america-58500189</guid>
+            <pubDate>Sat, 18 Sep 2021 01:00:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Abimael Guzmán: The rebel leader who sowed terror]]></title>
