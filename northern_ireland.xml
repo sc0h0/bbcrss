@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 24 Sep 2021 06:48:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Sep 2021 07:13:01 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -37,13 +37,6 @@
             <pubDate>Fri, 24 Sep 2021 05:38:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Lyra McKee: Two men charged with rioting and throwing petrol bombs]]></title>
-            <description><![CDATA[The men, aged 24 and 29, are charged with rioting and throwing petrol bombs.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58673289?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58673289</guid>
-            <pubDate>Thu, 23 Sep 2021 22:37:56 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[NI100: Church leaders defend Armagh centenary service]]></title>
             <description><![CDATA[Irish President Michael D. Higgins decided he would not attend the event last week.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58672100?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -63,6 +56,13 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58675300?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58675300</guid>
             <pubDate>Fri, 24 Sep 2021 06:18:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lyra McKee: Two men charged with rioting and throwing petrol bombs]]></title>
+            <description><![CDATA[The men, aged 24 and 29, are charged with rioting and throwing petrol bombs.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58673289?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58673289</guid>
+            <pubDate>Thu, 23 Sep 2021 22:37:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[McIlroy paired with Poulter for opening foursomes]]></title>
@@ -86,18 +86,18 @@
             <pubDate>Thu, 23 Sep 2021 16:44:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Keir Starmer: Labour leader calls on PM to step in over NI Protocol]]></title>
-            <description><![CDATA[Sir Keir Starmer called on Boris Johnson to ensure the Stormont institutions are maintained.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58669322?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58669322</guid>
-            <pubDate>Thu, 23 Sep 2021 15:59:54 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[County Wexford: Light aircraft crash lands on Carne Beach]]></title>
             <description><![CDATA[Four people were on board the aircraft, however, their injuries are not life threatening.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-58672098?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58672098</guid>
             <pubDate>Thu, 23 Sep 2021 18:53:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Keir Starmer: Labour leader calls on PM to step in over NI Protocol]]></title>
+            <description><![CDATA[Sir Keir Starmer called on Boris Johnson to ensure the Stormont institutions are maintained.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58669322?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58669322</guid>
+            <pubDate>Thu, 23 Sep 2021 15:59:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: NI records eight Covid-linked deaths, 1,165 cases]]></title>
