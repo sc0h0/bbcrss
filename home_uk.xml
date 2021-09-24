@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 24 Sep 2021 07:47:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Sep 2021 08:00:01 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -72,6 +72,13 @@
             <pubDate>Thu, 23 Sep 2021 21:33:44 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Catalan separatist Carles Puigdemont arrested in Italy]]></title>
+            <description><![CDATA[Spain accuses the former president of the Catalonia region of sedition, and wants him extradited.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58674176?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58674176</guid>
+            <pubDate>Fri, 24 Sep 2021 07:15:14 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Gabby Petito case: FBI issues arrest warrant for boyfriend Brian Laundrie]]></title>
             <description><![CDATA[The indictment says Brian Laundrie used a debit card that did not belong to him after her death.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-58673547?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -86,13 +93,6 @@
             <pubDate>Fri, 24 Sep 2021 00:05:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Canary Islands volcano: 'Miracle house' escapes lava]]></title>
-            <description><![CDATA[The volcano on La Palma has been erupting since Sunday, destroying hundreds of homes.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58672303?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58672303</guid>
-            <pubDate>Thu, 23 Sep 2021 18:56:49 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Tom Felton: Harry Potter star collapses during celebrity golf match]]></title>
             <description><![CDATA[The actor, 34, is carried off a golf course after collapsing during a celebrity match in the US.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-58673550?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -105,6 +105,13 @@
             <link>https://www.bbc.co.uk/news/blogs-the-papers-58673167?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/blogs-the-papers-58673167</guid>
             <pubDate>Fri, 24 Sep 2021 04:36:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Canary Islands volcano: 'Miracle house' escapes lava]]></title>
+            <description><![CDATA[The volcano on La Palma has been erupting since Sunday, destroying hundreds of homes.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58672303?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58672303</guid>
+            <pubDate>Thu, 23 Sep 2021 18:56:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Homeless in London: 'People pretend they are not there']]></title>
@@ -147,13 +154,6 @@
             <link>https://www.bbc.co.uk/news/entertainment-arts-58656172?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-58656172</guid>
             <pubDate>Wed, 22 Sep 2021 23:02:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Canary Islands volcano: 'Miracle house' escapes lava]]></title>
-            <description><![CDATA[The volcano on La Palma has been erupting since Sunday, destroying hundreds of homes.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58672303?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58672303</guid>
-            <pubDate>Thu, 23 Sep 2021 18:56:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['How we re-delivered a baby's postcard - 75 years on']]></title>
