@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 24 Sep 2021 11:55:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Sep 2021 12:22:47 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -45,10 +45,17 @@
         </item>
         <item>
             <title><![CDATA[NI100: Church leaders defend Armagh centenary service]]></title>
-            <description><![CDATA[Irish President Michael D. Higgins decided he would not attend the event last week.]]></description>
+            <description><![CDATA[Irish President Michael D Higgins decided last week that he would not attend the event.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58672100?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58672100</guid>
-            <pubDate>Fri, 24 Sep 2021 08:52:40 GMT</pubDate>
+            <pubDate>Fri, 24 Sep 2021 12:13:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Don Tidey: Gardaí honoured for bravery during kidnapping]]></title>
+            <description><![CDATA[Supermarket executive Don Tidey was rescued after being held captive by an IRA gang for 23 days.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58678847?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58678847</guid>
+            <pubDate>Fri, 24 Sep 2021 12:17:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[PIP: Six in 10 disability claimants win case on appeal]]></title>
@@ -79,13 +86,6 @@
             <pubDate>Fri, 24 Sep 2021 09:53:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Irish language and Ulster-Scots strategies 'complex and sensitive']]></title>
-            <description><![CDATA[No completion date has been set for Irish language and Ulster-Scots strategies promised in 2020 deal.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58669856?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58669856</guid>
-            <pubDate>Fri, 24 Sep 2021 05:33:32 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Covid-19 vaccine booster programme to start in Republic of Ireland]]></title>
             <description><![CDATA[A Covid-19 jab booster will be available for vulnerable people in the Republic from Wednesday.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-58676448?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -93,11 +93,11 @@
             <pubDate>Fri, 24 Sep 2021 08:42:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[McIlroy paired with Poulter for opening foursomes]]></title>
-            <description><![CDATA[Jon Rahm will play with fellow Spaniard Sergio Garcia against Americans Justin Thomas and Jordan Spieth in the opening foursomes match of the 43rd Ryder Cup.]]></description>
-            <link>https://www.bbc.co.uk/sport/golf/58672860?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/golf/58672860</guid>
-            <pubDate>Thu, 23 Sep 2021 23:47:52 GMT</pubDate>
+            <title><![CDATA[Irish language and Ulster-Scots strategies 'complex and sensitive']]></title>
+            <description><![CDATA[No completion date has been set for Irish language and Ulster-Scots strategies promised in 2020 deal.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58669856?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58669856</guid>
+            <pubDate>Fri, 24 Sep 2021 05:33:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid-19: October 14 agreed for more changes to NI restrictions]]></title>
