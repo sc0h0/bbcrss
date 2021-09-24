@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 24 Sep 2021 20:20:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Sep 2021 20:35:50 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -30,18 +30,18 @@
             <pubDate>Fri, 24 Sep 2021 15:59:24 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Ulster 35-29 Glasgow Warriors: Hosts hold on to win league opener in nine-try thriller]]></title>
+            <description><![CDATA[Ulster hold off a stubborn Glasgow Warriors in a nine-try thriller to edge their way to a maiden United Rugby Championship win in Belfast.]]></description>
+            <link>https://www.bbc.co.uk/sport/rugby-union/58662917?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/rugby-union/58662917</guid>
+            <pubDate>Fri, 24 Sep 2021 20:27:25 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Booster jab for Covid history-maker Margaret Keenan]]></title>
             <description><![CDATA[The 91-year-old got her booster in Coventry alongside the matron who administered her first dose.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-coventry-warwickshire-58680014?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-coventry-warwickshire-58680014</guid>
             <pubDate>Fri, 24 Sep 2021 16:00:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Larne thrown out of League Cup competition]]></title>
-            <description><![CDATA[Larne's League Cup win over Limavady United is overturned after they are found to have used an ineligible player in the second-round tie.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58684174?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58684174</guid>
-            <pubDate>Fri, 24 Sep 2021 15:49:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Lyra McKee: Patrick Gallagher and Jude McCrory in court on riot charges]]></title>
@@ -51,11 +51,11 @@
             <pubDate>Fri, 24 Sep 2021 11:00:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid-19: NI records eight Covid-linked deaths, 1,030 cases]]></title>
-            <description><![CDATA[The total number of deaths with coronavirus in NI since the start of the pandemic is 2,533.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58682211?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58682211</guid>
-            <pubDate>Fri, 24 Sep 2021 18:16:04 GMT</pubDate>
+            <title><![CDATA[Larne thrown out of League Cup competition]]></title>
+            <description><![CDATA[Larne's League Cup win over Limavady United is overturned after they are found to have used an ineligible player in the second-round tie.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58684174?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58684174</guid>
+            <pubDate>Fri, 24 Sep 2021 15:49:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hillary Clinton inaugurated as new Queen's University chancellor]]></title>
@@ -65,11 +65,11 @@
             <pubDate>Fri, 24 Sep 2021 11:21:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Dr Anne McCloskey suspended over Covid-19 vaccine comments complaints]]></title>
-            <description><![CDATA[Anne McCloskey posted a video on social media claiming vaccines were "damaging" young people.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58667747?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58667747</guid>
-            <pubDate>Fri, 24 Sep 2021 09:40:52 GMT</pubDate>
+            <title><![CDATA[Covid-19: NI records eight Covid-linked deaths, 1,030 cases]]></title>
+            <description><![CDATA[The total number of deaths with coronavirus in NI since the start of the pandemic is 2,533.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58682211?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58682211</guid>
+            <pubDate>Fri, 24 Sep 2021 18:16:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Extinction Rebellion: Paralympian James Brown jailed for plane glue stunt]]></title>
@@ -205,6 +205,13 @@
             <pubDate>Wed, 22 Sep 2021 11:08:49 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Dr Anne McCloskey suspended over Covid-19 vaccine comments complaints]]></title>
+            <description><![CDATA[Anne McCloskey posted a video on social media claiming vaccines were "damaging" young people.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58667747?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58667747</guid>
+            <pubDate>Fri, 24 Sep 2021 09:40:52 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Transfer test plan criticised by Bishop of Derry Donal McKeown]]></title>
             <description><![CDATA[Donal McKeown says it will lead to the "fragmentation" of decision-making in NI's education system.]]></description>
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58663414?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -224,13 +231,6 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58662013?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-foyle-west-58662013</guid>
             <pubDate>Thu, 23 Sep 2021 14:15:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Junior Ogedi-Uzokwe: Online racist abuse of Derry City player 'shameful' - Higgins]]></title>
-            <description><![CDATA[Derry City manager Ruaidhri Higgins says online racist abuse aimed at forward Junior Ogedi-Uzokwe after Monday's 3-3 draw with Bohemians is "shameful".]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58667701?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58667701</guid>
-            <pubDate>Thu, 23 Sep 2021 16:14:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Don Tidey: Gardaí honoured for bravery during kidnapping]]></title>
