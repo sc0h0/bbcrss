@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 24 Sep 2021 14:28:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Sep 2021 14:38:23 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -37,6 +37,13 @@
             <pubDate>Fri, 24 Sep 2021 12:34:22 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[What happened to Scotland's state-run energy company?]]></title>
+            <description><![CDATA[In 2017 the Scottish government pledged to set up a not-for-profit energy company by 2021, so what happened?]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-58677769?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-58677769</guid>
+            <pubDate>Fri, 24 Sep 2021 14:34:04 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Scottish schoolchildren join global climate protest]]></title>
             <description><![CDATA[The demonstrations across Scotland come five weeks before Glasgow hosts the COP26 climate summit.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-58677222?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -58,11 +65,11 @@
             <pubDate>Fri, 24 Sep 2021 10:37:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Legionella bacteria found in water at Monklands Hospital]]></title>
-            <description><![CDATA[Infection control expert says the risk of contracting legionnaires' disease at the Airdrie facility is "extremely low".]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58677215?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58677215</guid>
-            <pubDate>Fri, 24 Sep 2021 10:31:38 GMT</pubDate>
+            <title><![CDATA[Watchdog launches formal inquiry into helicopter merger]]></title>
+            <description><![CDATA[The competition watchdog is looking into the merger of CHC Group and Babcock's Aberdeen-based helicopter unit.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-scotland-business-58677382?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-scotland-business-58677382</guid>
+            <pubDate>Fri, 24 Sep 2021 10:42:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Farm worker, 21, killed in Castle Douglas quad bike accident]]></title>
@@ -72,11 +79,11 @@
             <pubDate>Thu, 23 Sep 2021 21:09:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Watchdog launches formal inquiry into helicopter merger]]></title>
-            <description><![CDATA[The competition watchdog is looking into the merger of CHC Group and Babcock's Aberdeen-based helicopter unit.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-scotland-business-58677382?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-scotland-business-58677382</guid>
-            <pubDate>Fri, 24 Sep 2021 10:42:16 GMT</pubDate>
+            <title><![CDATA[Legionella bacteria found in water at Monklands Hospital]]></title>
+            <description><![CDATA[Infection control expert says the risk of contracting legionnaires' disease at the Airdrie facility is "extremely low".]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58677215?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58677215</guid>
+            <pubDate>Fri, 24 Sep 2021 10:31:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Rewilding project for 500,000 acres of Highlands]]></title>
@@ -84,13 +91,6 @@
             <link>https://www.bbc.co.uk/news/uk-scotland-highlands-islands-58663615?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-highlands-islands-58663615</guid>
             <pubDate>Fri, 24 Sep 2021 05:13:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Human remains found in burning car in Dumfries]]></title>
-            <description><![CDATA[The discovery was made after firefighters extinguished the blaze in Dumfries on Wednesday.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-south-scotland-58671862?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-south-scotland-58671862</guid>
-            <pubDate>Thu, 23 Sep 2021 17:26:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid in Scotland: What do we know about the vaccine passport?]]></title>
@@ -226,6 +226,13 @@
             <pubDate>Wed, 15 Sep 2021 13:05:24 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Callum McGregor: Celtic captain signs five-year contract]]></title>
+            <description><![CDATA[Celtic captain Callum McGregor has signed a new five-year deal, keeping him at the club until 2026.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58683088?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58683088</guid>
+            <pubDate>Fri, 24 Sep 2021 14:29:27 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[URC: Edinburgh & Glasgow look to improve on disappointing seasons]]></title>
             <description><![CDATA[Edinburgh and Glasgow Warriors endured difficult times last season - will the new campaign bring better for Scotland's pro sides?]]></description>
             <link>https://www.bbc.co.uk/sport/rugby-union/58643745?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -245,13 +252,6 @@
             <link>https://www.bbc.co.uk/sport/football/58680428?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58680428</guid>
             <pubDate>Fri, 24 Sep 2021 14:18:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sportscene: Live Championship action plus two highlights shows]]></title>
-            <description><![CDATA[The Scottish Championship meeting of Arbroath and Kilmarnock kicks off a packed weekend of SPFL action.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58658986?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58658986</guid>
-            <pubDate>Fri, 24 Sep 2021 08:38:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
