@@ -11,16 +11,30 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 24 Sep 2021 21:47:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Sep 2021 22:00:26 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Soldiers arrive in Scotland to drive ambulances]]></title>
+            <description><![CDATA[More than 100 armed forces personnel will begin non-emergency driving work from Sunday.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-58685219?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-58685219</guid>
+            <pubDate>Fri, 24 Sep 2021 21:54:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Covid: Scotland's international travel testing regime to be relaxed]]></title>
             <description><![CDATA[Pre-departure tests for fully vaccinated travellers will be scrapped and the system aligned with the rest of the UK.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-58681116?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-58681116</guid>
             <pubDate>Fri, 24 Sep 2021 18:00:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[200-year-old palm comes down in Edinburgh Botanics renovations]]></title>
+            <description><![CDATA[The 60ft tree is too big to be removed from a hot house in renovations at Edinburgh's Botanic Gardens.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-58650503?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-58650503</guid>
+            <pubDate>Fri, 24 Sep 2021 21:55:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid in Scotland: Fifty coronavirus deaths in last 24 hours]]></title>
@@ -30,13 +44,6 @@
             <pubDate>Fri, 24 Sep 2021 17:57:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid in Scotland: Where are the latest cases?]]></title>
-            <description><![CDATA[A daily update on the number and location of coronavirus cases in Scotland.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-53511877?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-53511877</guid>
-            <pubDate>Fri, 24 Sep 2021 14:21:24 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Hospitals inquiry: Dad claims son given 'secret' supply of drugs]]></title>
             <description><![CDATA[A dad claims his son was given the medication to protect him from the "dangers" of a Glasgow hospital.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-58681115?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -44,18 +51,25 @@
             <pubDate>Fri, 24 Sep 2021 17:26:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Petrol queues form despite assurance of supplies in Scotland]]></title>
-            <description><![CDATA[Drivers lined up at forecourts in Scotland after delivery issues at a small number of UK petrol stations.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-58678131?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-58678131</guid>
-            <pubDate>Fri, 24 Sep 2021 15:15:40 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[What happened to Scotland's state-run energy company?]]></title>
             <description><![CDATA[In 2017 the Scottish government pledged to set up a not-for-profit energy company by 2021, so what happened?]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-58677769?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-58677769</guid>
             <pubDate>Fri, 24 Sep 2021 14:34:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Revamped festival brings design to the doorstep in Dundee]]></title>
+            <description><![CDATA[The Dundee Design Festival launches at four venues across the city, including a former pump station.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-tayside-central-58623670?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-tayside-central-58623670</guid>
+            <pubDate>Fri, 24 Sep 2021 21:55:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Petrol queues form despite assurance of supplies in Scotland]]></title>
+            <description><![CDATA[Drivers lined up at forecourts in Scotland after delivery issues at a small number of UK petrol stations.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-58678131?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-58678131</guid>
+            <pubDate>Fri, 24 Sep 2021 15:15:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Climbers rescued from Old Man of Stoer sea stack]]></title>
@@ -79,25 +93,11 @@
             <pubDate>Fri, 24 Sep 2021 16:16:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Airport arrivals hit by passport gate failure]]></title>
-            <description><![CDATA[Passengers arriving at UK airports suffer delays after an IT problem hits self-service passport gates.]]></description>
-            <link>https://www.bbc.co.uk/news/business-58679960?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58679960</guid>
-            <pubDate>Fri, 24 Sep 2021 15:16:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Leigh Griffiths: Dundee striker charged by police over flare kick]]></title>
-            <description><![CDATA[Dundee striker Leigh Griffiths is charged by Police Scotland in relation to "culpable and reckless" conduct after apparently kicking a flare into a stand of fans.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58680425?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58680425</guid>
-            <pubDate>Fri, 24 Sep 2021 11:42:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Death of man found in burning car 'not suspicious']]></title>
-            <description><![CDATA[Police say 64-year-old Irvine Wallace from the town died in the incident on Wednesday morning.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-south-scotland-58671862?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-south-scotland-58671862</guid>
-            <pubDate>Fri, 24 Sep 2021 14:44:39 GMT</pubDate>
+            <title><![CDATA[Covid in Scotland: Where are the latest cases?]]></title>
+            <description><![CDATA[A daily update on the number and location of coronavirus cases in Scotland.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-53511877?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-53511877</guid>
+            <pubDate>Fri, 24 Sep 2021 14:21:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Covid in Scotland: What do we know about the vaccine passport?]]></title>
@@ -233,6 +233,13 @@
             <pubDate>Wed, 15 Sep 2021 13:05:24 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Leigh Griffiths: Dundee striker charged by police over flare kick]]></title>
+            <description><![CDATA[Dundee striker Leigh Griffiths is charged by Police Scotland in relation to "culpable and reckless" conduct after apparently kicking a flare into a stand of fans.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58680425?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58680425</guid>
+            <pubDate>Fri, 24 Sep 2021 11:42:01 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Callum McGregor: Celtic captain signs five-year contract]]></title>
             <description><![CDATA[Celtic captain Callum McGregor has signed a new five-year deal, keeping him at the club until 2026.]]></description>
             <link>https://www.bbc.co.uk/sport/football/58683088?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -252,13 +259,6 @@
             <link>https://www.bbc.co.uk/sport/tennis/58682569?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/58682569</guid>
             <pubDate>Fri, 24 Sep 2021 19:30:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Scottish Gossip: Griffiths, Giakoumakis, Celtic, Hibs, Rangers, Dundee, Aberdeen]]></title>
-            <description><![CDATA[Dundee striker faces five-match ban as Celtic striker's debut is delayed by injury.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58666746?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58666746</guid>
-            <pubDate>Fri, 24 Sep 2021 07:08:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
