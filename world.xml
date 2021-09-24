@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 23 Sep 2021 23:16:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Sep 2021 00:30:42 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -21,6 +21,20 @@
             <link>https://www.bbc.co.uk/news/world-us-canada-58667660?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58667660</guid>
             <pubDate>Thu, 23 Sep 2021 18:57:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Migrants freezing to death on Belarus-Poland border]]></title>
+            <description><![CDATA[The BBC finds stranded migrants facing sub-zero temperatures amid a row between Poland and Belarus.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58671941?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58671941</guid>
+            <pubDate>Thu, 23 Sep 2021 23:14:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gabby Petito case: FBI issues arrest warrant for boyfriend Brian Laundrie]]></title>
+            <description><![CDATA[The indictment says Brian Laundrie used a debit card that did not belong to him after her death.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-58673547?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58673547</guid>
+            <pubDate>Thu, 23 Sep 2021 23:51:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[UK payout to bereaved Afghan family was $143]]></title>
@@ -44,13 +58,6 @@
             <pubDate>Thu, 23 Sep 2021 18:00:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[UK Covid vaccine rules cause hesitancy - Africa health boss]]></title>
-            <description><![CDATA[The UK's refusal to accept vaccine certificates from Africa could increase hesitancy, says Africa CDC.]]></description>
-            <link>https://www.bbc.co.uk/news/world-africa-58663636?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-africa-58663636</guid>
-            <pubDate>Thu, 23 Sep 2021 20:51:20 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[R Kelly lawyer compares him to Martin Luther King]]></title>
             <description><![CDATA[The defence makes its final arguments in the singer's sex-abuse trial before the jury retires.]]></description>
             <link>https://www.bbc.co.uk/news/entertainment-arts-58672967?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -58,25 +65,25 @@
             <pubDate>Thu, 23 Sep 2021 21:37:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The epic adventures of the Gilgamesh Dream tablet]]></title>
-            <description><![CDATA[How an ancient story of a superhuman king ended up in all sorts of unexpected places.]]></description>
-            <link>https://www.bbc.co.uk/news/world-middle-east-58662893?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-middle-east-58662893</guid>
-            <pubDate>Thu, 23 Sep 2021 21:37:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['Side-eyeing Chloe' Clem to sell iconic meme as NFT]]></title>
-            <description><![CDATA[The image of Chloe Clem could fetch her tens of thousands of dollars at auction.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-58659667?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58659667</guid>
-            <pubDate>Thu, 23 Sep 2021 10:30:16 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Aukus pact: France and US seek to mend rift]]></title>
             <description><![CDATA[The deal caused outrage in France, which lost a contract to build submarines for Australia.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-58659627?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58659627</guid>
             <pubDate>Thu, 23 Sep 2021 11:02:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[UK Covid vaccine rules cause hesitancy - Africa health boss]]></title>
+            <description><![CDATA[The UK's refusal to accept vaccine certificates from Africa could increase hesitancy, says Africa CDC.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-58663636?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-africa-58663636</guid>
+            <pubDate>Thu, 23 Sep 2021 20:51:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The epic adventures of the Gilgamesh Dream tablet]]></title>
+            <description><![CDATA[How an ancient story of a superhuman king ended up in all sorts of unexpected places.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-58662893?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-middle-east-58662893</guid>
+            <pubDate>Thu, 23 Sep 2021 21:37:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Africa's week in pictures: 17-23 September 2021]]></title>
@@ -114,6 +121,13 @@
             <pubDate>Thu, 23 Sep 2021 20:43:36 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[German elections 2021: The conspiracy theories targeting voters]]></title>
+            <description><![CDATA[One wildly inaccurate claim suggests Germany does not actually exist.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58655702?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58655702</guid>
+            <pubDate>Fri, 24 Sep 2021 00:16:52 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Changing China: Xi Jinping's effort to return to socialism]]></title>
             <description><![CDATA[China has not been very socialist for years, but the Communist Party looks set to change that.]]></description>
             <link>https://www.bbc.co.uk/news/business-58579831?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -149,13 +163,6 @@
             <pubDate>Wed, 22 Sep 2021 23:36:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Migrants freezing to death on Belarus-Poland border]]></title>
-            <description><![CDATA[The BBC finds stranded migrants facing sub-zero temperatures amid a row between Poland and Belarus.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58671941?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58671941</guid>
-            <pubDate>Thu, 23 Sep 2021 23:14:56 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Thousands remain at Haitian migrant camp in Texas]]></title>
             <description><![CDATA[Local officials have struggled to provide food and sanitation to the Haitian migrants.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-58671207?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -182,6 +189,13 @@
             <link>https://www.bbc.co.uk/news/world-australia-58655306?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-australia-58655306</guid>
             <pubDate>Wed, 22 Sep 2021 15:33:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Life at 50C: Heat hitting home in Australia]]></title>
+            <description><![CDATA[Cities like Sydney are already experiencing extremely hot days because of climate change.]]></description>
+            <link>https://www.bbc.co.uk/news/world-australia-58643237?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-australia-58643237</guid>
+            <pubDate>Tue, 21 Sep 2021 23:09:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
