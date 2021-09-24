@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 24 Sep 2021 12:54:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Sep 2021 13:22:36 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -21,6 +21,13 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58676450?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58676450</guid>
             <pubDate>Fri, 24 Sep 2021 11:00:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19: Rules in NI to change for international travel]]></title>
+            <description><![CDATA[Fully vaccinated arrivals from non-red list countries will not need pre-departure testing.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-58676451?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58676451</guid>
+            <pubDate>Fri, 24 Sep 2021 13:18:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Dr Anne McCloskey suspended over Covid-19 vaccine comments complaints]]></title>
@@ -84,13 +91,6 @@
             <link>https://www.bbc.co.uk/news/uk-northern-ireland-58676058?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-northern-ireland-58676058</guid>
             <pubDate>Fri, 24 Sep 2021 09:53:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid-19 vaccine booster programme to start in Republic of Ireland]]></title>
-            <description><![CDATA[A Covid-19 jab booster will be available for vulnerable people in the Republic from Wednesday.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58676448?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58676448</guid>
-            <pubDate>Fri, 24 Sep 2021 08:42:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Irish language and Ulster-Scots strategies 'complex and sensitive']]></title>
@@ -226,6 +226,13 @@
             <pubDate>Thu, 23 Sep 2021 16:14:09 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Covid-19 vaccine booster programme to start in Republic of Ireland]]></title>
+            <description><![CDATA[A Covid-19 jab booster will be available for vulnerable people in the Republic from Wednesday.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58676448?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58676448</guid>
+            <pubDate>Fri, 24 Sep 2021 08:42:52 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[County Wexford: Light aircraft crash lands on Carne Beach]]></title>
             <description><![CDATA[Four people were on board the aircraft, however, their injuries are not life threatening.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-58672098?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -252,13 +259,6 @@
             <link>https://www.bbc.co.uk/news/world-europe-58637038?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58637038</guid>
             <pubDate>Tue, 21 Sep 2021 12:54:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[People 'spread Covid disinformation' at Letterkenny hospital]]></title>
-            <description><![CDATA[A video shows a patient being encouraged to leave the hospital in one of two incidents in recent days.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58622554?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58622554</guid>
-            <pubDate>Mon, 20 Sep 2021 08:11:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
