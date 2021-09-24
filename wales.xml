@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 24 Sep 2021 10:07:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Sep 2021 10:30:16 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -23,18 +23,18 @@
             <pubDate>Fri, 24 Sep 2021 05:37:50 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Petrol shortage: No supply issue in Wales, say supermarkets]]></title>
+            <description><![CDATA[Tesco and Asda say they have good availability amid queues at some filling stations.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-58676366?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-58676366</guid>
+            <pubDate>Fri, 24 Sep 2021 10:20:07 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Insulate Britain: Climate protester, 82, prepared to go to jail]]></title>
             <description><![CDATA[Judy Bruce from Swansea protests by sitting on motorways with members of the Insulate Britain group.]]></description>
             <link>https://www.bbc.co.uk/news/uk-wales-58676358?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-58676358</guid>
             <pubDate>Fri, 24 Sep 2021 09:29:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Petrol shortage: No supply issue in Wales, say supermarkets]]></title>
-            <description><![CDATA[Tesco and Asda say they have good availability amid queues at some filling stations.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-58676366?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-58676366</guid>
-            <pubDate>Fri, 24 Sep 2021 10:02:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Seven out of 10 win benefits challenges at tribunal]]></title>
@@ -49,6 +49,13 @@
             <link>https://www.bbc.co.uk/news/uk-wales-58668343?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-58668343</guid>
             <pubDate>Fri, 24 Sep 2021 08:50:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tonypandy house fire: Man released after Rhondda arrest]]></title>
+            <description><![CDATA[A woman remains in a critical condition, but police say the fire was not caused by a criminal act.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-58674810?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-58674810</guid>
+            <pubDate>Fri, 24 Sep 2021 10:13:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Plaid Cymru and Greens form Cardiff council election pact]]></title>
@@ -70,13 +77,6 @@
             <link>https://www.bbc.co.uk/news/uk-wales-58669824?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-58669824</guid>
             <pubDate>Thu, 23 Sep 2021 16:51:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sir Keir Starmer 'won't interfere' with Labour-Plaid talks]]></title>
-            <description><![CDATA[The UK Labour leader says he will not get involved with talks between Mark Drakeford and Plaid Cymru.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-politics-58665445?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-politics-58665445</guid>
-            <pubDate>Thu, 23 Sep 2021 16:00:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Afghanistan: Bridgend councillor helping stranded Afghans flee Taliban]]></title>
@@ -142,6 +142,13 @@
             <pubDate>Wed, 22 Sep 2021 18:51:28 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Rhys Williams: Bedfordshire Police investigate after defender is allegedly racially abused]]></title>
+            <description><![CDATA[Bedfordshire Police are investigating after after Swansea's on-loan Liverpool defender Rhys Williams was allegedly racially abused by a Luton Town fan.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/58611177?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58611177</guid>
+            <pubDate>Fri, 24 Sep 2021 10:17:54 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Alix Popham: Contact training changes must be mandatory, says ex-Wales forward]]></title>
             <description><![CDATA[Former Wales flanker Alix Popham believes a reduction in contact training needs to be mandatory at all levels of rugby union.]]></description>
             <link>https://www.bbc.co.uk/sport/rugby-union/58671610?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -168,13 +175,6 @@
             <link>https://www.bbc.co.uk/sport/rugby-union/58658672?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/rugby-union/58658672</guid>
             <pubDate>Thu, 23 Sep 2021 06:00:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[PFA is working to 'educate' players on risks of brain injuries]]></title>
-            <description><![CDATA[The chairman of the Professional Footballers' Association says the union is working to "educate" players on the risks of brain injuries so they can make "informed decisions".]]></description>
-            <link>https://www.bbc.co.uk/sport/football/58672061?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/58672061</guid>
-            <pubDate>Thu, 23 Sep 2021 23:00:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ysgolion yn 'fregus iawn' yn sgil achosion o Covid]]></title>
