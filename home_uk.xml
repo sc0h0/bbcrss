@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 24 Sep 2021 00:36:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Sep 2021 01:44:26 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -23,18 +23,18 @@
             <pubDate>Thu, 23 Sep 2021 23:06:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Ministers prepare for worst in gas price crisis]]></title>
-            <description><![CDATA[Business minister Paul Scully says the government needs to plan for a lengthy spell of high gas prices.]]></description>
-            <link>https://www.bbc.co.uk/news/business-58668594?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58668594</guid>
-            <pubDate>Thu, 23 Sep 2021 16:48:34 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Petrol station closures spark lorry driver row]]></title>
             <description><![CDATA[Some forecourts closed on Thursday amid a driver shortage that has caused havoc with supply chains.]]></description>
             <link>https://www.bbc.co.uk/news/business-58673567?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58673567</guid>
-            <pubDate>Fri, 24 Sep 2021 00:23:57 GMT</pubDate>
+            <pubDate>Fri, 24 Sep 2021 00:55:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gas crisis leaves Europe searching for solutions]]></title>
+            <description><![CDATA[Consumers face a steep rise in energy bills as governments try to fund the move to renewable energy.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58650634?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58650634</guid>
+            <pubDate>Thu, 23 Sep 2021 23:18:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Restaurants set to be banned from withholding staff tips]]></title>
@@ -94,10 +94,17 @@
         </item>
         <item>
             <title><![CDATA[R Kelly lawyer compares him to Martin Luther King]]></title>
-            <description><![CDATA[The defence makes its final arguments in the singer's sex-abuse trial before the jury retires.]]></description>
+            <description><![CDATA[The defence makes its final arguments in the singer's sex-abuse trial.]]></description>
             <link>https://www.bbc.co.uk/news/entertainment-arts-58672967?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-58672967</guid>
             <pubDate>Thu, 23 Sep 2021 21:37:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tom Felton: Harry Potter star collapses during celebrity golf match]]></title>
+            <description><![CDATA[The actor, 34, is carried off a golf course after collapsing during a celebrity match in the US.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-58673550?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58673550</guid>
+            <pubDate>Fri, 24 Sep 2021 00:31:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Papers: Fuel shortage warning and Sussex and the City]]></title>
@@ -105,6 +112,27 @@
             <link>https://www.bbc.co.uk/news/blogs-the-papers-58673167?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/blogs-the-papers-58673167</guid>
             <pubDate>Thu, 23 Sep 2021 22:42:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Homeless in London: 'People pretend they are not there']]></title>
+            <description><![CDATA[Photographer Anthony Dawton has been documenting London's homeless population during the pandemic.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-58639151?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-london-58639151</guid>
+            <pubDate>Thu, 23 Sep 2021 23:05:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Strictly's Rose Ayling-Ellis rehearsing without hearing music]]></title>
+            <description><![CDATA[Rose Ayling-Ellis and her dance partner Giovanni Pernice prepare for their first live performance.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-58658886?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-58658886</guid>
+            <pubDate>Thu, 23 Sep 2021 23:20:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Magic Circle appoints its youngest, and first female, president]]></title>
+            <description><![CDATA[Megan Swann, who does "environmental magic" is now the most senior magician in the UK.]]></description>
+            <link>https://www.bbc.co.uk/news/newsbeat-58666725?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/newsbeat-58666725</guid>
+            <pubDate>Fri, 24 Sep 2021 00:53:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Meghan and Harry make New York appearance]]></title>
@@ -121,67 +149,53 @@
             <pubDate>Wed, 22 Sep 2021 23:02:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Magic Circle: First female president says role 'is an honour']]></title>
-            <description><![CDATA[Aged 28, Megan Swann is also the youngest person to lead the 116-year-old society.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-london-58667304?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-london-58667304</guid>
-            <pubDate>Thu, 23 Sep 2021 19:12:21 GMT</pubDate>
+            <title><![CDATA['How we re-delivered a baby's postcard - 75 years on']]></title>
+            <description><![CDATA[After an illness, Stu began reuniting old postcards with their owners - and revived some buried memories.]]></description>
+            <link>https://www.bbc.co.uk/news/stories-58585540?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/stories-58585540</guid>
+            <pubDate>Fri, 24 Sep 2021 01:01:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The epic adventures of the Gilgamesh Dream tablet]]></title>
-            <description><![CDATA[How an ancient story of a superhuman king ended up in all sorts of unexpected places.]]></description>
-            <link>https://www.bbc.co.uk/news/world-middle-east-58662893?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-middle-east-58662893</guid>
-            <pubDate>Thu, 23 Sep 2021 21:37:52 GMT</pubDate>
+            <title><![CDATA[Singapore migrant workers are still living in Covid lockdown]]></title>
+            <description><![CDATA[The workers in Singapore are enduring one of the longest Covid confinement periods in the world.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58580337?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58580337</guid>
+            <pubDate>Fri, 24 Sep 2021 00:25:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA['Side-eyeing Chloe' Clem to sell iconic meme as NFT]]></title>
-            <description><![CDATA[The image of Chloe Clem could fetch her tens of thousands of dollars at auction.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-58659667?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58659667</guid>
-            <pubDate>Thu, 23 Sep 2021 10:30:16 GMT</pubDate>
+            <title><![CDATA[German elections 2021: The conspiracy theories targeting voters]]></title>
+            <description><![CDATA[One wildly inaccurate claim suggests Germany does not actually exist.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-58655702?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58655702</guid>
+            <pubDate>Fri, 24 Sep 2021 00:16:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Sabina Nessa killing: Tracing the London teacher's final steps]]></title>
-            <description><![CDATA[The London teacher's body was found in the park, a day after she left her Kidbrooke home for the pub.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58671257?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58671257</guid>
-            <pubDate>Thu, 23 Sep 2021 16:50:16 GMT</pubDate>
+            <title><![CDATA[Keir Starmer is taking a big risk]]></title>
+            <description><![CDATA[As Labour conference approaches, Sir Keir Starmer intends to take the fight to his critics inside the party.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-58666569?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-politics-58666569</guid>
+            <pubDate>Fri, 24 Sep 2021 01:23:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Strange ankylosaur dinosaur bone excites scientists]]></title>
-            <description><![CDATA[Scientists describe a familiar armoured dinosaur but there's something very unusual about it.]]></description>
-            <link>https://www.bbc.co.uk/news/science-environment-58668134?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/science-environment-58668134</guid>
-            <pubDate>Thu, 23 Sep 2021 15:14:23 GMT</pubDate>
+            <title><![CDATA[Little Boots says Abba's new live band is 'badass cool']]></title>
+            <description><![CDATA[The pop star is joining Abba's live band next year, after crowd-funding her sparkling new album.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-58649415?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-58649415</guid>
+            <pubDate>Fri, 24 Sep 2021 00:40:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Saoirse Ronan: Macbeth and Lady Macbeth are like Kim and Kanye]]></title>
-            <description><![CDATA[The actress says Kim Kardashian has inspired the "uncharted territory" of her first UK stage role.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-58627498?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-58627498</guid>
-            <pubDate>Wed, 22 Sep 2021 23:51:50 GMT</pubDate>
+            <title><![CDATA[Spying concerns fuel the market for more secure tech]]></title>
+            <description><![CDATA[Revelations about spyware have spurred interest in more secure phones and software.]]></description>
+            <link>https://www.bbc.co.uk/news/business-58543977?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58543977</guid>
+            <pubDate>Thu, 23 Sep 2021 23:03:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Covid-19: New allergic reactions to hair dye reported]]></title>
-            <description><![CDATA[Scientists at Imperial College London are now researching a link between Covid-19 and new allergies.]]></description>
-            <link>https://www.bbc.co.uk/news/health-58651244?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/health-58651244</guid>
-            <pubDate>Wed, 22 Sep 2021 23:06:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid: How can missing five million be persuaded to have the jab?]]></title>
-            <description><![CDATA[Headlines have focused on teenagers and booster doses - but millions still haven't had a first jab.]]></description>
-            <link>https://www.bbc.co.uk/news/health-58594542?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/health-58594542</guid>
-            <pubDate>Thu, 23 Sep 2021 00:19:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Angela Merkel: What will Germans miss about the chancellor?]]></title>
-            <description><![CDATA[BBC Europe editor Katya Adler takes a road trip to find out how Germans will remember their chancellor.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58657354?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58657354</guid>
-            <pubDate>Wed, 22 Sep 2021 23:53:37 GMT</pubDate>
+            <title><![CDATA[LGBT freshers: 'I worried University of Oxford wouldn't accept me']]></title>
+            <description><![CDATA[New LGBT students share their hopes and concerns as analysis reveals the extra challenges they face.]]></description>
+            <link>https://www.bbc.co.uk/news/education-58652371?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/education-58652371</guid>
+            <pubDate>Fri, 24 Sep 2021 01:22:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Is 'the worst cold ever' going around?]]></title>
@@ -189,55 +203,6 @@
             <link>https://www.bbc.co.uk/news/newsbeat-58624295?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/newsbeat-58624295</guid>
             <pubDate>Thu, 23 Sep 2021 00:38:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid debt: A baby, job loss - and now eviction]]></title>
-            <description><![CDATA[Tenants are being evicted due to rent arrears built up during the pandemic, an investigation finds.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58643437?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58643437</guid>
-            <pubDate>Thu, 23 Sep 2021 09:33:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why are so many Haitians at the US-Mexico border?]]></title>
-            <description><![CDATA[Thousands of migrants are at the Texas-Mexico border. Here's what we know about why they are coming.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-58667669?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58667669</guid>
-            <pubDate>Thu, 23 Sep 2021 20:43:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Angela Merkel: Four expert verdicts on a contested legacy]]></title>
-            <description><![CDATA[When the German chancellor steps down, how will history remember her? Four experts have their say.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-58570507?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-58570507</guid>
-            <pubDate>Thu, 23 Sep 2021 00:16:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['Giving birth left me needing a colostomy bag']]></title>
-            <description><![CDATA[Former triathlete Kayleigh Adams endured a fourth-degree tear that led to her needing a colostomy bag.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-58153996?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-58153996</guid>
-            <pubDate>Thu, 23 Sep 2021 00:40:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The edible insects coming to a supermarket near you]]></title>
-            <description><![CDATA[A number of firms are now farming locusts and mealworms for human consumption.]]></description>
-            <link>https://www.bbc.co.uk/news/business-58636969?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58636969</guid>
-            <pubDate>Wed, 22 Sep 2021 23:01:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Boris Johnson at the UN fact-checked]]></title>
-            <description><![CDATA[The prime minister's speech focused largely on climate change and the UK's role in tackling it.]]></description>
-            <link>https://www.bbc.co.uk/news/58662358?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/58662358</guid>
-            <pubDate>Thu, 23 Sep 2021 14:02:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Changing China: Xi Jinping's effort to return to socialism]]></title>
-            <description><![CDATA[China has not been very socialist for years, but the Communist Party looks set to change that.]]></description>
-            <link>https://www.bbc.co.uk/news/business-58579831?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58579831</guid>
-            <pubDate>Wed, 22 Sep 2021 23:33:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ryder Cup opener 'big for both sides' as Rahm & Garcia face Spieth & Thomas]]></title>
@@ -289,39 +254,39 @@
             <pubDate>Thu, 23 Sep 2021 12:50:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[What can I do if my energy supplier goes bust?]]></title>
-            <description><![CDATA[Nearly 1.5 million customers have seen their energy firm collapse amid soaring gas prices.]]></description>
-            <link>https://www.bbc.co.uk/news/business-58662667?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58662667</guid>
-            <pubDate>Thu, 23 Sep 2021 12:01:28 GMT</pubDate>
+            <title><![CDATA[Covid: How can missing five million be persuaded to have the jab?]]></title>
+            <description><![CDATA[Headlines have focused on teenagers and booster doses - but millions still haven't had a first jab.]]></description>
+            <link>https://www.bbc.co.uk/news/health-58594542?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/health-58594542</guid>
+            <pubDate>Thu, 23 Sep 2021 00:19:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Gas prices: 'I'm just watching the meter go up']]></title>
-            <description><![CDATA[Customers caught in the middle of the energy price crisis face higher bills but are told not to panic.]]></description>
-            <link>https://www.bbc.co.uk/news/business-58626018?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58626018</guid>
-            <pubDate>Mon, 20 Sep 2021 14:11:01 GMT</pubDate>
+            <title><![CDATA[Covid-19 in the UK: How many coronavirus cases are there in my area?]]></title>
+            <description><![CDATA[Explore the data on coronavirus in the UK and find out how many cases there are in your area.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-51768274?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-51768274</guid>
+            <pubDate>Thu, 23 Sep 2021 16:24:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Gas prices: Why are they so high and what is the energy price cap?]]></title>
-            <description><![CDATA[Householders face a rise in energy bills - as well as the possibility their supplier could go bust.]]></description>
-            <link>https://www.bbc.co.uk/news/business-58090533?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58090533</guid>
-            <pubDate>Thu, 23 Sep 2021 14:23:32 GMT</pubDate>
+            <title><![CDATA[Travel update: What are the new rules for holidays in Europe and the US?]]></title>
+            <description><![CDATA[Eight countries have now moved from the UK's red travel lists, to the less restrictive amber.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-52544307?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/explainers-52544307</guid>
+            <pubDate>Wed, 22 Sep 2021 15:10:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Why is there a CO2 shortage and how will it hit food supplies?]]></title>
-            <description><![CDATA[The UK's food industry has been told it must pay five times more for carbon dioxide in future.]]></description>
-            <link>https://www.bbc.co.uk/news/explainers-58626935?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/explainers-58626935</guid>
-            <pubDate>Thu, 23 Sep 2021 12:18:53 GMT</pubDate>
+            <title><![CDATA[Covid: Should I be working from home or going back to the office?]]></title>
+            <description><![CDATA[People in England could be told to work from home once again through the autumn and winter.]]></description>
+            <link>https://www.bbc.co.uk/news/business-52567567?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-52567567</guid>
+            <pubDate>Wed, 22 Sep 2021 10:16:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Where does the UK get its gas and is it facing a shortage this winter?]]></title>
-            <description><![CDATA[A surge in gas prices has prompted fears of hard times ahead - but how bad could it get?]]></description>
-            <link>https://www.bbc.co.uk/news/business-58637094?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-58637094</guid>
-            <pubDate>Tue, 21 Sep 2021 14:35:33 GMT</pubDate>
+            <title><![CDATA[Flu jab 2021: Who’s eligible for a free vaccine?]]></title>
+            <description><![CDATA[This year's roll out has expanded in an attempt to shield against a double whammy of flu and Covid.]]></description>
+            <link>https://www.bbc.co.uk/news/health-53847025?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/health-53847025</guid>
+            <pubDate>Tue, 14 Sep 2021 11:32:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The torso in the Thames: A 20-year mystery]]></title>
