@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 24 Sep 2021 17:38:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Sep 2021 18:33:59 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Sabina Nessa: Hundreds pay respects at London vigil]]></title>
+            <description><![CDATA[The vigil at Pegler Square is not far from where a wanted suspect was captured on CCTV.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-58684030?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-london-58684030</guid>
+            <pubDate>Fri, 24 Sep 2021 18:33:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Olly Stephens: Three teenagers detained over boy's stabbing death]]></title>
             <description><![CDATA[Olly Stephens, 13, was ambushed by two boys after being lured to a field by a girl in Reading.]]></description>
@@ -28,13 +35,6 @@
             <link>https://www.bbc.co.uk/news/uk-england-bristol-58675975?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-bristol-58675975</guid>
             <pubDate>Fri, 24 Sep 2021 15:24:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sabina Nessa: Hunt for man caught on CCTV]]></title>
-            <description><![CDATA[Police say finding the man - filmed near where a vigil will be held for Ms Nessa later - is "vital".]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-london-58684025?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-london-58684025</guid>
-            <pubDate>Fri, 24 Sep 2021 16:51:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Chef facing deportation a victim of mistakes]]></title>
@@ -245,20 +245,6 @@
             <link>https://www.bbc.co.uk/sport/boxing/58680565?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/boxing/58680565</guid>
             <pubDate>Fri, 24 Sep 2021 14:06:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[New Zealand 45-49 England: Roses fight back to win in New Zealand for first time]]></title>
-            <description><![CDATA[England claim a first ever series win in New Zealand as a final-quarter fightback helps them beat the world champions 49-45 in Christchurch.]]></description>
-            <link>https://www.bbc.co.uk/sport/netball/58677024?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/netball/58677024</guid>
-            <pubDate>Fri, 24 Sep 2021 11:03:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Burrow to present Harry Sunderland award at Grand Final]]></title>
-            <description><![CDATA[Super League's Grand Final 2021 man of the match will receive the Harry Sunderland Trophy from two-time winner Rob Burrow.]]></description>
-            <link>https://www.bbc.co.uk/sport/rugby-league/58673425?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/rugby-league/58673425</guid>
-            <pubDate>Fri, 24 Sep 2021 16:21:30 GMT</pubDate>
         </item>
     </channel>
 </rss>

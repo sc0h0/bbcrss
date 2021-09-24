@@ -11,10 +11,17 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 24 Sep 2021 18:12:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Sep 2021 18:36:29 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Sabina Nessa: Hundreds pay respects at London vigil]]></title>
+            <description><![CDATA[The vigil at Pegler Square is not far from where a wanted suspect was captured on CCTV.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-58684030?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-london-58684030</guid>
+            <pubDate>Fri, 24 Sep 2021 18:33:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Petrol driver shortage: Ministers discuss supply issues]]></title>
             <description><![CDATA[Ministers focused on the impact of the lorry driver shortage, with fuel the latest sector to be affected.]]></description>
@@ -30,18 +37,11 @@
             <pubDate>Fri, 24 Sep 2021 16:42:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Sabina Nessa: Hunt for man caught on CCTV]]></title>
-            <description><![CDATA[Police say finding the man - filmed near where a vigil will be held for Ms Nessa later - is "vital".]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-london-58684025?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-london-58684025</guid>
-            <pubDate>Fri, 24 Sep 2021 16:51:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Afghanistan: Executions will return, says senior Taliban official]]></title>
-            <description><![CDATA[Extreme punishments like executions and amputations will resume in Afghanistan, says the Taliban's head of prisons.]]></description>
-            <link>https://www.bbc.co.uk/news/world-asia-58675153?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58675153</guid>
-            <pubDate>Fri, 24 Sep 2021 10:31:42 GMT</pubDate>
+            <title><![CDATA[Huawei's Meng Wanzhou 'to be freed' in US deal]]></title>
+            <description><![CDATA[Chief financial officer Meng Wanzhou has been detained in Canada over US fraud charges since 2018.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-58682998?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58682998</guid>
+            <pubDate>Fri, 24 Sep 2021 18:31:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Raducanu takes on Duchess of Cambridge ]]></title>
@@ -58,13 +58,6 @@
             <pubDate>Fri, 24 Sep 2021 16:55:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Doctor Who: Russell T Davies returns as programme showrunner]]></title>
-            <description><![CDATA[The It's A Sin writer says he is "beyond excited" to resume the role he filled from 2005 to 2009.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-58682472?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-58682472</guid>
-            <pubDate>Fri, 24 Sep 2021 15:04:51 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Margaret Keenan: First UK person to get the Pfizer jab gets booster]]></title>
             <description><![CDATA[The 91-year-old got her booster in Coventry alongside the matron who administered her first dose.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-coventry-warwickshire-58680014?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -72,18 +65,25 @@
             <pubDate>Fri, 24 Sep 2021 16:00:25 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Doctor Who: Russell T Davies returns as programme showrunner]]></title>
+            <description><![CDATA[The It's A Sin writer says he is "beyond excited" to resume the role he filled from 2005 to 2009.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-58682472?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-58682472</guid>
+            <pubDate>Fri, 24 Sep 2021 15:04:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Afghanistan: Executions will return, says senior Taliban official]]></title>
+            <description><![CDATA[Extreme punishments like executions and amputations will resume in Afghanistan, says the Taliban's head of prisons.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-58675153?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-58675153</guid>
+            <pubDate>Fri, 24 Sep 2021 10:31:42 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[CBD trial to treat hallucinations in Parkinson’s disease]]></title>
             <description><![CDATA[Charles Ogilvie-Forbes is a volunteer in a clinical trial at King’s College Hospital, London.]]></description>
             <link>https://www.bbc.co.uk/news/health-58667520?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/health-58667520</guid>
             <pubDate>Fri, 24 Sep 2021 16:03:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Huawei's Meng Wanzhou 'to be freed' in US deal]]></title>
-            <description><![CDATA[Chief financial officer Meng Wanzhou has been detained in Canada over US fraud charges since 2018.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-58682998?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-58682998</guid>
-            <pubDate>Fri, 24 Sep 2021 17:52:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Boris Johnson and Macron speak after military pact row]]></title>
@@ -247,13 +247,6 @@
             <pubDate>Fri, 24 Sep 2021 16:57:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Emma Raducanu: British number one splits with coach after US Open win]]></title>
-            <description><![CDATA[British number one Emma Raducanu splits with the coach who helped guide her to a first Grand Slam title at the US Open.]]></description>
-            <link>https://www.bbc.co.uk/sport/tennis/58682151?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/58682151</guid>
-            <pubDate>Fri, 24 Sep 2021 14:40:49 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA['It's been a journey of learning' - Joshua 'comes in light' for Usyk fight]]></title>
             <description><![CDATA[Anthony Joshua cuts a lean, powerful figure as he weighs in for Saturday's world heavyweight title defence against Oleksandr Usyk.]]></description>
             <link>https://www.bbc.co.uk/sport/boxing/58680565?at_medium=RSS&amp;at_campaign=KARANGA</link>
@@ -261,18 +254,18 @@
             <pubDate>Fri, 24 Sep 2021 14:06:21 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Emma Raducanu: British number one splits with coach after US Open win]]></title>
+            <description><![CDATA[British number one Emma Raducanu splits with the coach who helped guide her to a first Grand Slam title at the US Open.]]></description>
+            <link>https://www.bbc.co.uk/sport/tennis/58682151?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/58682151</guid>
+            <pubDate>Fri, 24 Sep 2021 14:40:49 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Ryder Cup: 'One of the greatest shots you'll see from Spieth']]></title>
             <description><![CDATA[Watch Jordan Spieth hit an incredible shot up a vertical bank on day one of the Ryder Cup at Whistling Straits in Wisconsin.]]></description>
             <link>https://www.bbc.co.uk/sport/av/golf/58684764?at_medium=RSS&amp;at_campaign=KARANGA</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/av/golf/58684764</guid>
             <pubDate>Fri, 24 Sep 2021 16:39:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[US Open 2021: Emma Raducanu faces title-winning serve]]></title>
-            <description><![CDATA[Great Britain's Emma Raducanu relives her US Open-winning ace before trying to return the same serve from a machine.]]></description>
-            <link>https://www.bbc.co.uk/sport/av/tennis/58681849?at_medium=RSS&amp;at_campaign=KARANGA</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/av/tennis/58681849</guid>
-            <pubDate>Fri, 24 Sep 2021 13:14:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What can I do if my energy supplier goes bust?]]></title>
